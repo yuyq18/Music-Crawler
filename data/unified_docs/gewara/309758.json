@@ -1,0 +1,39 @@
+{
+    "platform": "猫眼",
+    "project_id": "309758",
+    "project_name": "《匆匆50年》胡德夫音乐会",
+    "category_name": "演唱会",
+    "artists": [
+        "胡德夫"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.5.15 19:30 周三",
+    "session_time": [],
+    "price": "80-880",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "苏州",
+    "venue_name": "苏州尹山湖大剧院",
+    "venue_info": {
+        "venue_address": "清禾路886号",
+        "lng": "120.704701",
+        "lat": "31.245962"
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://p0.meituan.net/myvideodistribute/c3ee3f0e8242c95103265d8bc179a9cc378593.png",
+        "https://p1.meituan.net/myvideodistribute/9aec9fae028c0ed30d33a14bdd5713af88135.jpg?w=1267&h=722",
+        "https://p1.meituan.net/myvideodistribute/710dd703391d548648c1fa04b8d1936046011.jpg?w=1119&h=746",
+        "https://p1.meituan.net/myvideodistribute/3b6c9dd4bda141fcd57f241cf8dc817093061.jpg?w=1243&h=829",
+        "https://p0.meituan.net/myvideodistribute/bc15166c605dcfd0f8e124eaec9f020060126.jpg?w=967&h=645"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/309758"
+}

@@ -1,0 +1,41 @@
+{
+    "platform": "猫眼",
+    "project_id": "308911",
+    "project_name": "苏打绿二十年一刻巡回演唱会-郑州站",
+    "category_name": "演唱会",
+    "artists": [
+        "苏打绿"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.5.18 / 5.19",
+    "session_time": [
+        "2024.5.18 ",
+        " 5.19"
+    ],
+    "price": "380-1580",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "郑州",
+    "venue_name": "郑州奥林匹克体育中心体育馆",
+    "venue_info": {
+        "venue_address": "莲湖街道西四环东50米",
+        "lng": "113.535974",
+        "lat": "34.741007"
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://p0.meituan.net/myvideodistribute/3bbd69b456403a760f1975a5b44d3517268600.jpg",
+        "https://p0.meituan.net/myvideodistribute/f94ad21c3b78e0653eee5f9f68103792841421.jpg?w=1587&h=3443",
+        "https://p0.meituan.net/myvideodistribute/7dfd6169eef5ceccf51de5bb5ac06712253425.jpg?w=1920&h=1080",
+        "https://p0.meituan.net/myvideodistribute/1c79cd55d55ebe6c9d4d5ec2ccb16556118593.jpg?w=1430&h=1688"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/308911"
+}

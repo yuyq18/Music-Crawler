@@ -1,0 +1,82 @@
+{
+    "platform": "大麦",
+    "project_id": "783271493995",
+    "project_name": "霜冻前夜乐队二十周年「星海彼岸」系列专场 贵阳站",
+    "category_name": "演唱会",
+    "artists": [
+        "霜冻前夜"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.14 周五 20:00",
+    "session_time": [
+        "06.14 周五"
+    ],
+    "price": "140-270",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "贵阳",
+    "venue_name": "煎蛋艺术空间",
+    "venue_info": {
+        "venue_address": "贵阳市花溪区田园南路板桥艺术村C -113（侗家工业餐厅隔壁）",
+        "lng": 106.665582,
+        "lat": 26.391558
+    },
+    "project_info": "\n这段跨越20周年的坚持与热爱，见证了中国金属乐的成长和进化的乐队，终于迎来了自己的20岁，这里面有很多的沉淀与坚持，更多的是依旧在舞台上热爱旋律金属与真挚表达的成员们，不管你是老乐迷还是新歌迷，每一次的相见都是赤诚相见与回忆，感谢每一位加入此次巡演且热爱金属乐的你，20周年现场见！\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01viy2Xc2GdSaf3DgI3_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01suJalM2GdSacQBqQs_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01MS5Jmj2GdSacQDaX0_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01EufoYU2GdSaf75YXL_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01cqW3CW2GdSaSpenuT_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "782853836499",
+            "cityName": "长春站",
+            "showTime": "05.17"
+        },
+        {
+            "itemId": "783051846098",
+            "cityName": "沈阳站",
+            "showTime": "05.18"
+        },
+        {
+            "itemId": "783071415820",
+            "cityName": "大连站",
+            "showTime": "05.19"
+        },
+        {
+            "itemId": "783017211761",
+            "cityName": "银川站",
+            "showTime": "05.24"
+        },
+        {
+            "itemId": "783112265791",
+            "cityName": "西安站",
+            "showTime": "05.25"
+        },
+        {
+            "itemId": "783060644687",
+            "cityName": "郑州站",
+            "showTime": "05.26"
+        },
+        {
+            "itemId": "783271493995",
+            "cityName": "贵阳站",
+            "showTime": "06.14"
+        },
+        {
+            "itemId": "783137432260",
+            "cityName": "昆明站",
+            "showTime": "06.15"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=783271493995"
+}

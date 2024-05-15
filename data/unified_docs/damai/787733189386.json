@@ -1,0 +1,52 @@
+{
+    "platform": "大麦",
+    "project_id": "787733189386",
+    "project_name": "吴克群《我们的冒险》巡回演唱会-深圳站",
+    "category_name": "演唱会",
+    "artists": [
+        "吴克群"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.01 周六 19:00",
+    "session_time": [
+        "06.01 周六"
+    ],
+    "price": "480-1280",
+    "isGeneralAgent": "true",
+    "isHotProject": "true",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "深圳市宝安体育中心体育馆",
+    "venue_info": {
+        "venue_address": "深圳市宝安区新湖路2112",
+        "lng": 113.884736,
+        "lat": 22.560821
+    },
+    "project_info": " \n\n\n这一次吴克群打破演唱会的形式创造了一个沉浸式的冒险乐园。来看的每一位观众都是一起参与冒险的伙伴会循着故事线 穿越其中\n光 火 水 风 心 五个不同的乐园会给大家像坐过山车一样的刺激感也有像看魔术逃脱术一样的肾上腺素飙升每一个乐园每一首歌每一个表演就像一次冒险寻宝你永远不知道接下来等着你的是什么\n冒险旅途即将开始 但什么是冒险？\n是早恋、 是纹身、 是蹦极、是买基金是潜水、是上班、是裸辞、是结婚是和喜欢的人告白、是和不爱的人说分手......等等甚至 是去看一场你事先并不知道曲目歌单的演唱会在陌生的人群里 疯狂尖叫 或者 痛哭失声\n.........\n也许现实生活中的柴米油盐才是最大的关卡为了生活还在闯关的人才是伟大的冒险者\n我们想用这场演唱会让你知道你不是一个人 ⋯⋯\n当你离开这三小时的冒险旅程希望你会更有勇气在嘈杂的现实中 继续做梦\n毕竟长大才是一场最大的冒险 让我们听完这场演唱会 再做大人\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01WwmTVH2GdSavkPVdM_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01iTFYO42GdSb5k5mkm_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01CBDyFJ2GdSb78NT7M_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01XFOnZ92GdSaqn8Bi9_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01STT3ie2GdSanuBXir_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "14059",
+        "wantNumStr": "1.4万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过72%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "785320499578",
+            "cityName": "杭州站",
+            "showTime": "05.17"
+        },
+        {
+            "itemId": "787733189386",
+            "cityName": "深圳站",
+            "showTime": "06.01"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=787733189386"
+}

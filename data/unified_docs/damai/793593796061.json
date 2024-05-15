@@ -1,0 +1,59 @@
+{
+    "platform": "大麦",
+    "project_id": "793593796061",
+    "project_name": "留声玩具2024《行在时光里的船》专辑巡演 南昌站",
+    "category_name": "演唱会",
+    "artists": [
+        "留声玩具"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.09 周日 20:30",
+    "session_time": [
+        "06.09 周日"
+    ],
+    "price": "99-118",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南昌",
+    "venue_name": "黑铁现场展演中心",
+    "venue_info": {
+        "venue_address": "南昌市东湖区佘山路66号樟树林2座",
+        "lng": 115.915,
+        "lat": 28.697311
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01L8uKd12GdSb5YS0cb_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ItC7Vm2GdSb8Kgd8A_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "793542394485",
+            "cityName": "武汉站",
+            "showTime": "05.31"
+        },
+        {
+            "itemId": "779601875753",
+            "cityName": "宜昌站",
+            "showTime": "06.01"
+        },
+        {
+            "itemId": "793879449836",
+            "cityName": "长沙站",
+            "showTime": "06.08"
+        },
+        {
+            "itemId": "793593796061",
+            "cityName": "南昌站",
+            "showTime": "06.09"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=793593796061"
+}

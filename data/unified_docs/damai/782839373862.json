@@ -1,0 +1,74 @@
+{
+    "platform": "大麦",
+    "project_id": "782839373862",
+    "project_name": "2024艾怡良《不想忘记的名字们》巡演北京站",
+    "category_name": "演唱会",
+    "artists": [
+        "艾怡良"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.15 周六 20:00",
+    "session_time": [
+        "06.15 周六"
+    ],
+    "price": "239-439",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "EAST LIVE",
+    "venue_info": {
+        "venue_address": "建国门外郎家园10号61幢1层A3-062层(印艺文创园内)",
+        "lng": 116.472599,
+        "lat": 39.907242
+    },
+    "project_info": "项目介绍：\n\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01dUUEQJ2GdSaaEIC8l_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01gm1myN2GdSabc37In_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "2615",
+        "wantNumStr": "2615",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "775438641418",
+            "cityName": "成都站",
+            "showTime": "06.02"
+        },
+        {
+            "itemId": "794069443320",
+            "cityName": "重庆站",
+            "showTime": "07.06"
+        },
+        {
+            "itemId": "777747816100",
+            "cityName": "厦门站",
+            "showTime": "07.12"
+        },
+        {
+            "itemId": "776593294461",
+            "cityName": "杭州站",
+            "showTime": "05.26"
+        },
+        {
+            "itemId": "772746281635",
+            "cityName": "深圳站",
+            "showTime": "06.08"
+        },
+        {
+            "itemId": "773612631251",
+            "cityName": "广州站",
+            "showTime": "06.09"
+        },
+        {
+            "itemId": "782839373862",
+            "cityName": "北京站",
+            "showTime": "06.15"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=782839373862"
+}

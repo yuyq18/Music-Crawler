@@ -1,0 +1,55 @@
+{
+    "platform": "大麦",
+    "project_id": "792137448349",
+    "project_name": "洋河·梦之蓝M6+呈献 “今天…is the Day 刘德华巡回演唱会2024-杭州站”",
+    "category_name": "演唱会",
+    "artists": [
+        "刘德华"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.16-08.24",
+    "session_time": [],
+    "price": "780-2580",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "杭州",
+    "venue_name": "杭州奥体中心体育馆",
+    "venue_info": {
+        "venue_address": "杭州萧山区盈丰街道博奥路2657号",
+        "lng": 120.233299,
+        "lat": 30.232441
+    },
+    "project_info": "演出地点：杭州奥体中心体育馆\n \n终于等到今天！刘德华内地演唱会重磅官宣，阔别重逢燃情回归！\n\n演唱会全程冠名赞助为洋河梦之蓝 M6+, 官方票务代理为大麦及猫眼娱乐，演唱会具体开票日期，有待官方公布，敬请期待。\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01faHYNS2GdSb2oTNpN_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Gzr3oy2GdSb0xxqt4_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01zbi3jF2GdSb7ALjLM_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ShHVE82GdSb2SEJiW_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ccIgKS2GdSb0Y60Xc_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "383831",
+        "wantNumStr": "38.4万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过97%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "791945859976",
+            "cityName": "广州站",
+            "showTime": "07.18-07.21"
+        },
+        {
+            "itemId": "792137448349",
+            "cityName": "杭州站",
+            "showTime": "08.16-08.24"
+        },
+        {
+            "itemId": "220273021",
+            "cityName": "上海站",
+            "showTime": "2024.07.05~2024.07.13"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=792137448349"
+}

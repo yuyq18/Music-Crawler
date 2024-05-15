@@ -1,0 +1,69 @@
+{
+    "platform": "大麦",
+    "project_id": "786853989766",
+    "project_name": "【加场】苏运莹「圆与自然」2024个人音乐会 杭州站",
+    "category_name": "演唱会",
+    "artists": [
+        "苏运莹"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.05.31 周五 20:00",
+    "session_time": [
+        "05.31 周五"
+    ],
+    "price": "288-588",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "杭州",
+    "venue_name": "SoFun Live 杭州",
+    "venue_info": {
+        "venue_address": "浙江省杭州市萧山区通货路918号粮仓艺术公园7号楼",
+        "lng": 120.294732,
+        "lat": 30.18123
+    },
+    "project_info": "【加场】苏运莹「圆与自然」2024个人音乐会 杭州站\n\n\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01l5UrRo2GdSb7yIgxa_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01djCZOO2GdSalfqj6z_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "1008",
+        "wantNumStr": "1008",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "786853989766",
+            "cityName": "杭州站",
+            "showTime": "05.31"
+        },
+        {
+            "itemId": "775648123608",
+            "cityName": "杭州站",
+            "showTime": "06.01"
+        },
+        {
+            "itemId": "773654451955",
+            "cityName": "北京站",
+            "showTime": "06.22"
+        },
+        {
+            "itemId": "784665451080",
+            "cityName": "武汉站",
+            "showTime": "07.06"
+        },
+        {
+            "itemId": "784239078529",
+            "cityName": "济南站",
+            "showTime": "07.13"
+        },
+        {
+            "itemId": "786776602810",
+            "cityName": "深圳站",
+            "showTime": "07.20"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=786853989766"
+}

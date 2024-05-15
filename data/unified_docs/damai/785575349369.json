@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "785575349369",
+    "project_name": "【不识时务】李智&乐队2024新专辑巡演 苏州站",
+    "category_name": "演唱会",
+    "artists": [
+        "李智&乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.21 周五 20:30",
+    "session_time": [
+        "06.21 周五"
+    ],
+    "price": "90",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "苏州",
+    "venue_name": "山丘咖啡livehouse斜塘店",
+    "venue_info": {
+        "venue_address": "江苏省苏州市吴中区山丘咖啡斜塘老街",
+        "lng": 120.738916,
+        "lat": 31.302723
+    },
+    "project_info": "\n\n\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN012I7WmI2GdSampbdC7_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01uUhAf62GdSan2YQNx_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN013hsxFT2GdSajiiLrr_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01cpRmK22GdSaluIGtM_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01UGO84y2GdSajctqP5_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "785567912425",
+            "cityName": "郑州站",
+            "showTime": "06.09"
+        },
+        {
+            "itemId": "786720611757",
+            "cityName": "杭州站",
+            "showTime": "06.19"
+        },
+        {
+            "itemId": "785575349369",
+            "cityName": "苏州站",
+            "showTime": "06.21"
+        },
+        {
+            "itemId": "785788097237",
+            "cityName": "南京站",
+            "showTime": "06.22"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=785575349369"
+}

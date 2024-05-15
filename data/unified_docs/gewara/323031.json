@@ -1,0 +1,38 @@
+{
+    "platform": "猫眼",
+    "project_id": "323031",
+    "project_name": "张学友60+巡回演唱会 -杭州站",
+    "category_name": "演唱会",
+    "artists": [
+        "张学友"
+    ],
+    "show_status": "即将开售",
+    "show_time": "2024.7.12 - 2024.7.21",
+    "session_time": [],
+    "price": "480-2280",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "杭州",
+    "venue_name": "杭州奥体中心体育馆",
+    "venue_info": {
+        "venue_address": "博奥路2657号",
+        "lng": "120.23335",
+        "lat": "30.232444"
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://p1.meituan.net/myvideodistribute/35c7d9604e4dcd3f3ca14fe1cc4ef51a240040.jpg",
+        "https://p0.meituan.net/myvideodistribute/3e25fe48421e0bf0be0323ce5cd2ea311104032.png?w=1227&h=795",
+        "https://p0.meituan.net/myvideodistribute/72f8fb2ef96539cb5be38d48726347f81571753.png?w=1225&h=799",
+        "https://p0.meituan.net/myvideodistribute/9cd37cb5785983fc8d8b91cda9d5e82f1654111.png?w=1227&h=801"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/323031"
+}

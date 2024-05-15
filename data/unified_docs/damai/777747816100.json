@@ -1,0 +1,74 @@
+{
+    "platform": "大麦",
+    "project_id": "777747816100",
+    "project_name": "2024艾怡良「不想忘记的名字们」巡演厦门站",
+    "category_name": "演唱会",
+    "artists": [
+        "艾怡良"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.07.12 周五 20:00",
+    "session_time": [
+        "07.12 周五"
+    ],
+    "price": "239-439",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "厦门",
+    "venue_name": "WOKESHOW星巢沃克秀",
+    "venue_info": {
+        "venue_address": "杏林湾商业运营中心8号楼",
+        "lng": 118.064929,
+        "lat": 24.592718
+    },
+    "project_info": "项目介绍：\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01AonH3k2GdSaKYlawn_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01zfxdgn2GdSaCqfF1M_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "1661",
+        "wantNumStr": "1661",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "775438641418",
+            "cityName": "成都站",
+            "showTime": "06.02"
+        },
+        {
+            "itemId": "794069443320",
+            "cityName": "重庆站",
+            "showTime": "07.06"
+        },
+        {
+            "itemId": "777747816100",
+            "cityName": "厦门站",
+            "showTime": "07.12"
+        },
+        {
+            "itemId": "776593294461",
+            "cityName": "杭州站",
+            "showTime": "05.26"
+        },
+        {
+            "itemId": "772746281635",
+            "cityName": "深圳站",
+            "showTime": "06.08"
+        },
+        {
+            "itemId": "773612631251",
+            "cityName": "广州站",
+            "showTime": "06.09"
+        },
+        {
+            "itemId": "782839373862",
+            "cityName": "北京站",
+            "showTime": "06.15"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=777747816100"
+}

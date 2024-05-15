@@ -1,0 +1,57 @@
+{
+    "platform": "大麦",
+    "project_id": "779232632700",
+    "project_name": "2024 安子与九妹「龙抬头」巡演南京站",
+    "category_name": "演唱会",
+    "artists": [
+        "安子与九妹"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.09 周日 19:30",
+    "session_time": [
+        "06.09 周日"
+    ],
+    "price": "70-380",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南京",
+    "venue_name": "南京太阳宫",
+    "venue_info": {
+        "venue_address": "江苏省南京市太平门阳光路3号",
+        "lng": 118.812905,
+        "lat": 32.064582
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN011wga4M2GdSaN1Rr4S_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN0182pYKM2GdSaWLyHe7_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01HcleFK2GdSaRCfra3_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01xqwoBi2GdSaLkV7TD_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01yCKnl92GdSaQDfZeG_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "176",
+        "wantNumStr": "176",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "777206841841",
+            "cityName": "上海站",
+            "showTime": "06.08"
+        },
+        {
+            "itemId": "779232632700",
+            "cityName": "南京站",
+            "showTime": "06.09"
+        },
+        {
+            "itemId": "784220894467",
+            "cityName": "北京站",
+            "showTime": "06.22-06.23"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=779232632700"
+}

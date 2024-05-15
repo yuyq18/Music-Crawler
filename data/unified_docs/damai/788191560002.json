@@ -1,0 +1,80 @@
+{
+    "platform": "大麦",
+    "project_id": "788191560002",
+    "project_name": "老王乐队「你也三十而立了么？」2024庆生巡演  北京站6/16",
+    "category_name": "演唱会",
+    "artists": [
+        "老王乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.16 周日 20:00",
+    "session_time": [
+        "06.16 周日"
+    ],
+    "price": "220-240",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "福浪LIVEHOUSE-福",
+    "venue_info": {
+        "venue_address": "北京市朝阳区奥园西路1号院",
+        "lng": 116.395081,
+        "lat": 39.981128
+    },
+    "project_info": "\n老王乐队「你也三十而立了么？」2024庆生巡演 \n4/13 周六 福州 唯美客MAKERLIVE(i33）4/14 周日 上海 万代南梦宫上海文化中心1F梦想剧场4/17 周三 上海 万代南梦宫上海文化中心1F梦想剧场\n4/19 周五 杭州 SoFun Live4/20 周六 南京 1701 LIVEHOUSE MAX \n5/24 周五 深圳 HOU LIVE X Mixc cube5/25 周六 广州 声音共和 LIVEHOUSE5/26 周日 广州 声音共和 LIVEHOUSE\n5/29 周三 武汉 VOX LIVEHOUSE5/31 周五 郑州 7LIVEHOUSE+\n6/14 周五 天津 琉璃SPACE6/15 周六 北京 福浪LIVEHOUSE-福6/16 周日 北京 福浪LIVEHOUSE-福\n \n\n老王乐队\n2015 年冬于台北成立，曾在北医金弦奖、清大清韵奖、淡江金韶奖都拿下创作组好成绩；并于 2016 年末，以主唱立长、鼓手会元、吉他手伟硕为核心复出，并陆续加入贝斯手洁民与大提琴手佳莹。如同音乐特色，老王乐队歌唱一个世代的光怪陆离时，不忘用幽默、反讽的语词及旋律，以沙哑略带厌世的嗓音，低沉回荡不绝的大提琴，重复而洗脑的旋律，诙谐地唱着属于这个世代的歌。\n老王乐队于 2017 年 9 月 28 日发行第一张 EP《吾十有五而志于学》，歌曲在 YouTube 上创造了每首皆破百万点击的惊人纪录；其中《我还年轻 我还年轻》至今合计已累积破 3800 万次点击。 2019年10月发行首张专辑《吾日三省吾身》后便随即展开各城市巡演，首次巡演总票房累积约 9000人次。\n2023年再度释出最新EP《黄色的房子映照清晨的天空》，正式展开第二次亚洲巡回，创下2倍票房超过18,000到场观看人次佳绩！夏秋前往、澳洲、日本等地，让更多人听见民谣摇滚的魅力。也即将在2024年带来全新制作及新曲，展开全新旅程。\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Kvk6312GdSarGceQH_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN010dIwza2GdSavdJozO_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN014ZLhoR2GdSaqsZCXT_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "98",
+        "wantNumStr": "98",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "772166111779",
+            "cityName": "深圳站",
+            "showTime": "05.24"
+        },
+        {
+            "itemId": "788272049759",
+            "cityName": "广州站",
+            "showTime": "05.26"
+        },
+        {
+            "itemId": "772218618289",
+            "cityName": "武汉站",
+            "showTime": "05.29"
+        },
+        {
+            "itemId": "772228133368",
+            "cityName": "郑州站",
+            "showTime": "05.31"
+        },
+        {
+            "itemId": "771939990679",
+            "cityName": "天津站",
+            "showTime": "06.14"
+        },
+        {
+            "itemId": "788191560002",
+            "cityName": "北京站",
+            "showTime": "06.16"
+        },
+        {
+            "itemId": "771996666583",
+            "cityName": "广州站",
+            "showTime": "05.25"
+        },
+        {
+            "itemId": "788171480526",
+            "cityName": "北京站",
+            "showTime": "06.15"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=788191560002"
+}

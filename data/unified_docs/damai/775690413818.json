@@ -1,0 +1,49 @@
+{
+    "platform": "大麦",
+    "project_id": "775690413818",
+    "project_name": "2024枯木逢春「人间八万里 」巡回演唱会 杭州站",
+    "category_name": "演唱会",
+    "artists": [
+        "枯木逢春"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.15 周六 20:00",
+    "session_time": [
+        "06.15 周六"
+    ],
+    "price": "158-520",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "杭州",
+    "venue_name": "SoFun Live 杭州",
+    "venue_info": {
+        "venue_address": "浙江省杭州市萧山区通货路918号粮仓艺术公园7号楼",
+        "lng": 120.294732,
+        "lat": 30.18123
+    },
+    "project_info": "2024枯木逢春「人间八万里 」巡回演唱会 杭州站\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01m4erYS2GdSa7HUGRQ_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01GaYG0d2GdSa4IZJCB_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "1373",
+        "wantNumStr": "1373",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "771603214158",
+            "cityName": "北京站",
+            "showTime": "05.25"
+        },
+        {
+            "itemId": "775690413818",
+            "cityName": "杭州站",
+            "showTime": "06.15"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=775690413818"
+}

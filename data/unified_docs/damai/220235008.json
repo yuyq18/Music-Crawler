@@ -1,0 +1,37 @@
+{
+    "platform": "大麦",
+    "project_id": "220235008",
+    "project_name": "美依礼芽MARiA 上海演唱会",
+    "category_name": "演唱会",
+    "artists": [],
+    "show_status": "未开售",
+    "show_time": "时间待定",
+    "session_time": [],
+    "price": "价格待定",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "上海",
+    "venue_name": "国家会展中心(上海)虹馆EH",
+    "venue_info": {
+        "venue_address": "上海市青浦区崧泽大道333号（西虹桥商务区）",
+        "lng": 121.302151,
+        "lat": 31.189984
+    },
+    "project_info": "",
+    "project_imgs": [
+        "http://damai-mx-partner-admin.oss-cn-beijing.aliyuncs.com/a8a3e753-6c78-41cc-8e74-723ae0d8605f.jpg",
+        "http://damai-mx-partner-admin.oss-cn-beijing.aliyuncs.com/efbfb012-8d92-4ed0-bafb-b910c0c083fd.jpg",
+        "http://damai-mx-partner-admin.oss-cn-beijing.aliyuncs.com/1670044f-6f0f-408e-bc29-415819af3d23.png",
+        "http://damai-mx-partner-admin.oss-cn-beijing.aliyuncs.com/7a9bc65a-79dd-423d-95ee-15644f4d8b94.png",
+        "http://damai-mx-partner-admin.oss-cn-beijing.aliyuncs.com/a0aa19ea-6a28-4eac-b1da-f56160e8baa3.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://detail.damai.cn/item.htm?id=220235008"
+}

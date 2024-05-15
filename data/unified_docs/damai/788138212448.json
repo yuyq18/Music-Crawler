@@ -1,0 +1,57 @@
+{
+    "platform": "大麦",
+    "project_id": "788138212448",
+    "project_name": "2024周柏豪「奔赴」世界巡回演唱会-肇庆站",
+    "category_name": "演唱会",
+    "artists": [
+        "周柏豪"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.09-06.10",
+    "session_time": [
+        "06.10 周一",
+        "06.09 周日"
+    ],
+    "price": "380-1380",
+    "isGeneralAgent": "true",
+    "isHotProject": "true",
+    "rating": null,
+    "city_name": "肇庆",
+    "venue_name": "肇庆市新区体育中心体育馆",
+    "venue_info": {
+        "venue_address": "长利大道8号",
+        "lng": 112.607814,
+        "lat": 23.209829
+    },
+    "project_info": "\n人生\n是一次充满不确定的远行\n前方虽有迷雾\n更有扑面的光\n我们愿为之迈开脚步 向此奔赴\n\n奔 向期待已久的光\n赴 一场七彩绚烂的梦\n2024周柏豪「奔赴」世界巡回演唱会\n耳机中的男歌手跨越山海，向你奔赴而来。\n\n \n奔赴主题的巡演着眼于柏豪在音乐上的新风格尝试，务求为观众呈现全新的音乐体验。\n这一轮的巡演已在各地陆续袭来，新的一年，柏豪将继续奔赴，去到更多城市与歌迷见面。\n \n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01iu9COi2GdSbCWtDlP_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN013rdABU2GdSbBaHIRB_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01xh7WyR2GdSb9q06PS_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01O95EXZ2GdSb926yYi_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01dHVnkI2GdSalUNts3_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN018ue35U2GdSalUNpiD_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ccW6dU2GdSawagf46_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN012Wog2f2GdSautW1Oy_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN011M5T6L2GdSawagSl8_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "60371",
+        "wantNumStr": "6.0万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过89%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "788138212448",
+            "cityName": "肇庆站",
+            "showTime": "06.09-06.10"
+        },
+        {
+            "itemId": "220288009",
+            "cityName": "上海站",
+            "showTime": "06.15"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=788138212448"
+}

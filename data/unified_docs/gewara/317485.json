@@ -1,0 +1,39 @@
+{
+    "platform": "猫眼",
+    "project_id": "317485",
+    "project_name": "徐佳莹「变得有些奢侈的事」演唱会-北京站",
+    "category_name": "演唱会",
+    "artists": [
+        "徐佳莹"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.5.25 19:00 周六",
+    "session_time": [],
+    "price": "380-1380",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "首都体育馆",
+    "venue_info": {
+        "venue_address": "中关村南大街56号",
+        "lng": "116.32744",
+        "lat": "39.940414"
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://p0.meituan.net/myvideodistribute/94f838dea9a618d08cc48c95b4b57491547210.png",
+        "https://p0.meituan.net/myvideodistribute/13c4fe1e0c082302ebf31dfccd287a48317408.png?w=1587&h=2446",
+        "https://p0.meituan.net/myvideodistribute/16fc7d2eba3ed0df9c47fda36ad7d31b415973.jpg?w=1268&h=1901",
+        "https://p0.meituan.net/myvideodistribute/37b367b257f47564aecbfccaf98f4b39103764.jpg?w=1268&h=1901",
+        "https://p0.meituan.net/myvideodistribute/237f2690be55a994f2c5f5a05a352e14126391.jpg?w=1264&h=1823"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/317485"
+}

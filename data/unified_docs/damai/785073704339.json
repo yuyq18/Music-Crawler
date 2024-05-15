@@ -1,0 +1,68 @@
+{
+    "platform": "大麦",
+    "project_id": "785073704339",
+    "project_name": "齐迹2024 任贤齐演唱会 澳门站",
+    "category_name": "演唱会",
+    "artists": [
+        "任贤齐"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.01 周六 20:00",
+    "session_time": [
+        "06.01 周六"
+    ],
+    "price": "540-1470",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "中国澳门",
+    "venue_name": "伦敦人综艺馆",
+    "venue_info": {
+        "venue_address": "中国澳门路氹城填海区金光大道",
+        "lng": 113.570366,
+        "lat": 22.142878
+    },
+    "project_info": "票价说明：\n门票价格（港币/澳门币）：HKD/MOP $1580/$1280/$880/$580\n大麦人民币售价：CNY1470/ CNY1190/ CNY820/CNY540\n \n配送说明：\n本项目不支持退换，购票成功的客户，请您提前规划好行程并办理好港澳通行证-中国澳门签注，现场当天如忘记带票及对票情况不予处理，感谢您的支持与理解。\n \n演出介绍：\n出道 34 年的任贤齐，一直以来都未曾停止挑战自我的脚步，不仅乐于尝试不同领域，更是对自己毫不设限，涉足音乐、电影、赛车等多方面，同时也致力公益事业。 2022年，任贤齐参加中国真人秀《披荆斩棘的哥哥》第二季，献唱首本名曲《伤心太平洋》唤起几代人的共鸣，以超高的人气成功获得初舞台个人喜爱度第一位置，成功俘获苏有朋、吴克群、吴建豪、潘玮柏等受欢迎的哥哥们，最终顺利成团。\n \n任贤齐出道以来有《依靠》《伤心太平洋》《浪花一朵朵》《对面女孩看过来》《我是一只鱼》等很多观众熟悉的歌曲，更有令他爆红全球的金曲《心太软》。\n \n任贤齐将于6月1莅临伦敦人综艺馆带来歌曲、舞蹈及不同风格的音乐表演，希望接触不同年龄层的歌迷，期待大家入场欣赏，不见不散。\n \n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01uCxjXk2GdSakUD5Wm_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "3139",
+        "wantNumStr": "3139",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "773373145673",
+            "cityName": "绍兴站",
+            "showTime": "06.09-06.10"
+        },
+        {
+            "itemId": "788575210691",
+            "cityName": "成都站",
+            "showTime": "06.22"
+        },
+        {
+            "itemId": "788241560967",
+            "cityName": "遵义站",
+            "showTime": "07.20"
+        },
+        {
+            "itemId": "781153317027",
+            "cityName": "大连站",
+            "showTime": "08.10-08.11"
+        },
+        {
+            "itemId": "770453071613",
+            "cityName": "合肥站",
+            "showTime": "05.18-05.19"
+        },
+        {
+            "itemId": "785073704339",
+            "cityName": "中国澳门站",
+            "showTime": "06.01"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=785073704339"
+}

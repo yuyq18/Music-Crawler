@@ -1,0 +1,45 @@
+{
+    "platform": "猫眼",
+    "project_id": "307566",
+    "project_name": "威尔第歌剧《茶花女》",
+    "category_name": "演唱会",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2024.6.8 / 6.9",
+    "session_time": [
+        "2024.6.8 ",
+        " 6.9"
+    ],
+    "price": "120-380",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "上海",
+    "venue_name": "大宁剧院",
+    "venue_info": {
+        "venue_address": "平型关路1222号",
+        "lng": "121.456822",
+        "lat": "31.283948"
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://p0.meituan.net/myvideodistribute/ad4612bdc0232976e7842520f96d8e9826081.jpg",
+        "https://p0.meituan.net/myvideodistribute/f44fc7aaa3a54bd35fd1cb825ab58260207969.jpg?w=896&h=1352",
+        "https://p0.meituan.net/myvideodistribute/7248726eeccfb0820530684eb456f4be26770.jpg?w=498&h=747",
+        "https://p0.meituan.net/myvideodistribute/0f6563e9f1790bb72f591f99b789606f64801.jpg?w=520&h=520",
+        "https://p1.meituan.net/myvideodistribute/8b4cd4a85d53165cf156903bfd51e9d835773.jpg?w=574&h=723",
+        "https://p0.meituan.net/myvideodistribute/67fec54796132b418339657e58f58eac44623.jpg?w=554&h=808",
+        "https://p1.meituan.net/myvideodistribute/d222ced53cc6d012cb5410c4cd8385a023293.jpg?w=827&h=848",
+        "https://p0.meituan.net/myvideodistribute/7a888eafc19327aa0a4d5598bbbe8a9320806.jpg?w=525&h=584",
+        "https://p0.meituan.net/myvideodistribute/873049ea91aa76c20115b30dfd1c028d24668.jpg?w=708&h=472",
+        "https://p0.meituan.net/myvideodistribute/5f7dcccdbb0c731437eeb31d0042ec2125680.jpg?w=429&h=762"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/307566"
+}

@@ -1,0 +1,54 @@
+{
+    "platform": "大麦",
+    "project_id": "763191662775",
+    "project_name": "Rie fu 船越里惠 日本知名唱作歌手2024出道20周年中国巡回演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "Rie fu"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.05.17 周五 19:30",
+    "session_time": [
+        "05.17 周五"
+    ],
+    "price": "280-680",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "上海",
+    "venue_name": "上海商城剧院",
+    "venue_info": {
+        "venue_address": "上海市静安区南京西路1376号",
+        "lng": 121.451936,
+        "lat": 31.22676
+    },
+    "project_info": "\n \n退票/换票规则\n \n \n \n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01XrLsot2GdSZ709Ilj_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01frSkVz2GdSZ1QsE05_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "1591",
+        "wantNumStr": "1591",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "763410622386",
+            "cityName": "成都站",
+            "showTime": "05.15"
+        },
+        {
+            "itemId": "764476415995",
+            "cityName": "北京站",
+            "showTime": "05.18"
+        },
+        {
+            "itemId": "763191662775",
+            "cityName": "上海站",
+            "showTime": "05.17"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=763191662775"
+}

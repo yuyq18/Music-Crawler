@@ -1,0 +1,54 @@
+{
+    "platform": "大麦",
+    "project_id": "777838905789",
+    "project_name": "六甲番乐队「六甲番」专辑首发巡演 武汉站",
+    "category_name": "演唱会",
+    "artists": [
+        "六甲番"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.05.18 周六 20:00",
+    "session_time": [
+        "05.18 周六"
+    ],
+    "price": "30-120",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "武汉",
+    "venue_name": "ThreeLive",
+    "venue_info": {
+        "venue_address": "武汉市洪山区乐都汇时尚购物广场5号门旁上三楼",
+        "lng": 114.335949,
+        "lat": 30.516872
+    },
+    "project_info": "【造音呈现】六甲番乐队专辑首发巡演2024@武汉",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01rqTaxD2GdSaFRvubB_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01CYHvAo2GdSaHSnfKk_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "164",
+        "wantNumStr": "164",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "777838905789",
+            "cityName": "武汉站",
+            "showTime": "05.18"
+        },
+        {
+            "itemId": "783166761778",
+            "cityName": "广州站",
+            "showTime": "05.19"
+        },
+        {
+            "itemId": "789664399752",
+            "cityName": "珠海站",
+            "showTime": "06.01"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=777838905789"
+}

@@ -1,0 +1,80 @@
+{
+    "platform": "大麦",
+    "project_id": "784682422981",
+    "project_name": "布朗尼2024巡演「鹦鹉螺号」重庆站",
+    "category_name": "演唱会",
+    "artists": [
+        "布朗尼乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.22 周六 20:30",
+    "session_time": [
+        "06.22 周六"
+    ],
+    "price": "139",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "重庆",
+    "venue_name": "MAO Livehouse重庆",
+    "venue_info": {
+        "venue_address": "重庆市江北区红旗河沟龙湖新壹街A馆B1层",
+        "lng": 106.525565,
+        "lat": 29.581676
+    },
+    "project_info": "\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01yh5hjl2GdSadtgGNH_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01uJVSa82GdSbBCvIR4_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01K5lgTR2GdSb507VEY_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "98",
+        "wantNumStr": "98",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "785768938169",
+            "cityName": "沈阳站",
+            "showTime": "05.25"
+        },
+        {
+            "itemId": "784432536412",
+            "cityName": "上海站",
+            "showTime": "05.31"
+        },
+        {
+            "itemId": "786716147415",
+            "cityName": "杭州站",
+            "showTime": "06.01"
+        },
+        {
+            "itemId": "785676495366",
+            "cityName": "南京站",
+            "showTime": "06.02"
+        },
+        {
+            "itemId": "785473876093",
+            "cityName": "深圳站",
+            "showTime": "06.15"
+        },
+        {
+            "itemId": "784350278679",
+            "cityName": "福州站",
+            "showTime": "06.16"
+        },
+        {
+            "itemId": "784313415009",
+            "cityName": "成都站",
+            "showTime": "06.21"
+        },
+        {
+            "itemId": "784682422981",
+            "cityName": "重庆站",
+            "showTime": "06.22"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=784682422981"
+}

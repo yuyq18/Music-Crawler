@@ -1,0 +1,52 @@
+{
+    "platform": "大麦",
+    "project_id": "764476415995",
+    "project_name": "Rie fu日本知名唱作歌手2024出道20周年中国巡回演唱会-北京站",
+    "category_name": "演唱会",
+    "artists": [
+        "Rie fu"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.05.18 周六 20:00",
+    "session_time": [],
+    "price": "280-680",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "福浪LIVEHOUSE-福",
+    "venue_info": {
+        "venue_address": "北京市朝阳区奥园西路1号院",
+        "lng": 116.395081,
+        "lat": 39.981128
+    },
+    "project_info": "入场须知：\n1. 本场馆无纸质票，凭购票二维码入场；\n2. 演出票一经售出，不退不换，一人一票，儿童一律持票入场；\n​3. 场地内不设座位，均为站席观演。\n \n票价：680（VIP）握手签名会\n380（正价票）\n限时特惠：\n280（原价380，限量早鸟票）\n \n【演出介绍Introduction】\n\n一人一票，儿童一律凭票入场",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01TCBGf32GdSYwajjdG_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01AW6SPy2GdSZBf33zT_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "1276",
+        "wantNumStr": "1276",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "763410622386",
+            "cityName": "成都站",
+            "showTime": "05.15"
+        },
+        {
+            "itemId": "764476415995",
+            "cityName": "北京站",
+            "showTime": "05.18"
+        },
+        {
+            "itemId": "763191662775",
+            "cityName": "上海站",
+            "showTime": "05.17"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=764476415995"
+}

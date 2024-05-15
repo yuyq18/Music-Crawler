@@ -1,0 +1,76 @@
+{
+    "platform": "大麦",
+    "project_id": "783417303795",
+    "project_name": "2024《太子》巡演-厦门站",
+    "category_name": "演唱会",
+    "artists": [
+        "太子KIV",
+        "连麻Swimming"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.07.12 周五 20:00",
+    "session_time": [
+        "07.12 周五"
+    ],
+    "price": "248-358",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "厦门",
+    "venue_name": "福馆Full House厦门",
+    "venue_info": {
+        "venue_address": "厦门市思明区吕岭路1599号宝龙一城1号楼L1层001-2",
+        "lng": 118.172223,
+        "lat": 24.485137
+    },
+    "project_info": "\n\nTAIZI-太子KIV 2024全国巡演\n \n从珠海义无反顾搬至成都，和相识已久的网友们建立DigiGhetto地基街头，从现场零星的观众到[纵横四海]时千人MOSHPIT。往自己身上下注的人生，每次抉择都是豪赌却从未犹豫。Show Hand换来整个骰子帝国，珠海是根源，成都是生活，弟兄遍布各地，每座城市都似后花园。回看眼下的一切，所有赌局从未曾输过。\n \n太子KIV，DIGI GHETTO成员之一，独树一帜的音乐风格，痞味慵懒的嗓音均极具个人辨识度。个人专辑《太子》发布后，在行业内外掀起一阵“太子哥上大号”的疯评。而他也将带来DigiGhetto个人SOLO TOUR第一季最终话。现场见！\n \n场次信息：\n4月27日 广州 太空间LiveHouse\n5月10日 南京 1701 Live House\n5月11日 杭州 SoFun Live杭州\n5月24日 长沙 长沙VOX LIVEHOUSE\n5月25日 南昌 瓦肆 VAS NANCHANG\n6月7日 郑州 7LIVEHOUSE\n6月8日 天津 大麦66LiveHouse天津\n6月21日 南宁 候朋现场HOPELIVE(中山路万象汇店)\n7月5日 武汉 不晚InTime Live（汉阳造店）\n7月12日 厦门 福馆FullHouse\n7月14日 珠海 对白SPACE\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01tJqVhr2GdSadR3NuH_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01w0pePp2GdSafgSDY3_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01VxnULR2GdSacYTo76_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "1275",
+        "wantNumStr": "1275",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "787635646319",
+            "cityName": "长沙站",
+            "showTime": "05.24"
+        },
+        {
+            "itemId": "783491493566",
+            "cityName": "郑州站",
+            "showTime": "06.07"
+        },
+        {
+            "itemId": "783165384106",
+            "cityName": "天津站",
+            "showTime": "06.08"
+        },
+        {
+            "itemId": "787911191227",
+            "cityName": "南宁站",
+            "showTime": "06.21"
+        },
+        {
+            "itemId": "787612389050",
+            "cityName": "武汉站",
+            "showTime": "07.05"
+        },
+        {
+            "itemId": "783417303795",
+            "cityName": "厦门站",
+            "showTime": "07.12"
+        },
+        {
+            "itemId": "783483228848",
+            "cityName": "珠海站",
+            "showTime": "07.14"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=783417303795"
+}

@@ -1,0 +1,55 @@
+{
+    "platform": "大麦",
+    "project_id": "772221561420",
+    "project_name": "大船文化·迪士尼奇妙庆典演唱会·深圳站",
+    "category_name": "演唱会",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2024.06.01 周六",
+    "session_time": [
+        "06.01 周六"
+    ],
+    "price": "280-880",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": "9.1",
+    "city_name": "深圳",
+    "venue_name": "深圳滨海艺术中心-歌剧厅",
+    "venue_info": {
+        "venue_address": "广东省深圳市宝安区新安街道宝兴路深圳滨海艺术中心",
+        "lng": 113.882284,
+        "lat": 22.544574
+    },
+    "project_info": " 购票特惠： \n*限时早鸟：开票日至3月19日，购880 680 580票档可享9折优惠。\n*套票优惠：3月20日起，购指定票价可享以下套票优惠，请按对应的套票数量分开下单。 双人套票：1688元（880元*2张）、1288元（680元*2张）、1088元（580元*2张）。\n*本场演出开放乐池坐席。 *一人一票，建议3岁以上儿童观看，手抱婴儿谢绝进场。\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01qgTpRk2GdSZhN4Avq_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01LLxo9b2GdSZictno8_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01J7hxKX2GdSZXbLRAc_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01rcCslF2GdSZjlIUDC_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01zVFIB52GdSZj1MEs5_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN011FyTbY2GdSZfLKz9m_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01DRYWeh2GdSZgA6eYA_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ZiIIwP2GdSZdYOelk_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01VXBGka2GdSZgA5VrU_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01VL9oXP2GdSZfLKW4p_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "1069",
+        "wantNumStr": "1069",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "771208970947",
+            "cityName": "成都站",
+            "showTime": "05.18"
+        },
+        {
+            "itemId": "772221561420",
+            "cityName": "深圳站",
+            "showTime": "06.01"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=772221561420"
+}

@@ -1,0 +1,39 @@
+{
+    "platform": "猫眼",
+    "project_id": "315144",
+    "project_name": "许飞2024“生活不必太用力”巡回演出",
+    "category_name": "演唱会",
+    "artists": [
+        "许飞"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.5.26 19:30 周日",
+    "session_time": [],
+    "price": "80-928",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "上海",
+    "venue_name": "上海保利云间剧院",
+    "venue_info": {
+        "venue_address": "人民南路6弄69号-1,地铁9号线醉白池2号出口",
+        "lng": "121.230598",
+        "lat": "31.000086"
+    },
+    "project_info": "1、下单成功后请在15分钟内完成支付，否则系统将自动取消订单，释放已选座位，重新开放购买。",
+    "project_imgs": [
+        "https://p0.meituan.net/moviesh/c6101de13cb4c1a15853c9000465f7d1212497.jpg",
+        "https://p0.meituan.net/moviesh/2b5a3754f344b904c131401de299cb4b1013236.png",
+        "https://p0.meituan.net/moviesh/e0b9ede23656bbba15520c8e6ef88ca0967843.png",
+        "https://p0.meituan.net/moviesh/7794d074698355e07ed680c436566402736787.png",
+        "https://p0.meituan.net/moviesh/d26a9eb9b93a185082e52c65cc990157897627.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/315144"
+}

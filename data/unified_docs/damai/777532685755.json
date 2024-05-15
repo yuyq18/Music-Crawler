@@ -1,0 +1,87 @@
+{
+    "platform": "大麦",
+    "project_id": "777532685755",
+    "project_name": "「万朵」—春日玫瑰2024新专辑巡演 武汉站",
+    "category_name": "演唱会",
+    "artists": [
+        "春日玫瑰"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.28 周五 20:00",
+    "session_time": [
+        "06.28 周五"
+    ],
+    "price": "100-150",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "武汉",
+    "venue_name": "不晚INtime 403店",
+    "venue_info": {
+        "venue_address": "武汉市武昌区宝通寺路33号403国际艺术中心",
+        "lng": 114.33647,
+        "lat": 30.52344
+    },
+    "project_info": "春日玫瑰的听众们：\n见信好，我们是春日玫瑰。\n关于《万朵》\n2023年的春日玫瑰参加了一些音乐节演出，一边去见那些熟悉又新鲜的脸孔，一边在工作室度过数不清的日夜，于是有了《万朵》诞生。\n\n从与你分享心跳的那一刻开始，我们便一直相信永恒和轮转，相信会有一瞬的重逢，将你我再次紧密地系在一起。\n那天，大雪没过了世界，也一并没过我。那些来不及说的话变成任何一刻思念来临时的灵感和温暖，陪着我穿过那个寒冬，一路走至日光之下。\n可是，宇宙中，我们会失去联结吗？\n或许你正在某个地方变成另一个人，或许在那个永恒的地方看着我，像星星那样闪着微光，照亮我，保护我。\n万朵的烟火转瞬即逝，每次燃尽并非终结，每次燃放却都是新的开始。\n下一个除夕又要来了，盛开凋谢，四季轮替，绽放一个又一个轮回。\n生命亦如是，每一个独立的个体终会如万朵绽放。\n有一天花朵落在指尖，风轻轻叹息，雨声轻敲着伞，我便知道那是你。\n就让你我长久地对视吧。\n \n春日玫瑰2024巡演「万朵」正式开票。\n此次巡演我们将走过的城市有：\n04/13 沈阳 美帝奇X1905LIVEHOUSE04/19 天津 琉璃SPACE04/20 北京 疆进酒·OMNISPACE04/26 西安 西演SPACE·光圈CLUB04/27 郑州 7LIVEHOUSE+04/30 南京 1701 Live House Max05/11 上海 瓦肆VAS SHANGHAI06/14 杭州 MAO Livehouse06/15 福州 MAAQUU&CH8 LIVEHOUSE06/21 广州 声音共和Livehouse06/22 深圳 HOU LIVE 下沙店06/23 南宁 候朋现场HOPELIVE06/28 武汉 不晚InTime Live（403店）06/29 长沙 VOX LIVEHOUSE07/05 成都 CH8冇独空间（完美店）07/06 重庆 VOX LIVEHOUSE\n\n关于春日玫瑰\n“一支来自海边的乐队”\n如果用一句话介绍我们，那么惯用的就是这句。从海边而来，带着沙粒与风的气息，来到有你的城市，来到所有眷恋着那片海域的人的身边。\n春日玫瑰(李雨蒙):歌手、词曲作者、制作人\n前身为\"李雨蒙与乐队\"\n先后邀请金鹏(Guitarist),Samyn Richard(Keyboardist),甘甘(Keyboardist), Lachi Dicxon(Drummer)，张昊(Bassist)，阿达(Guitarist), 叶子豪(Drummer)，吉林君(Violinist)，李锦源(Bassist)，强越(Bassist)，小一(Keyboardist)等乐手参演并组建为一支来自海边的乐队。\n\n生命绽放凋零，都是新的开始。\n现场见。",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN011pdRRY2GdSZsJeR3h_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01n7ca7o2GdSYpBm2De_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01FBD2K02GdSZpduhGU_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01FRJ9aP2GdSYpBuIJf_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01t2qcCJ2GdSYpFlp9Q_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "777792647462",
+            "cityName": "杭州站",
+            "showTime": "06.14"
+        },
+        {
+            "itemId": "777533069331",
+            "cityName": "福州站",
+            "showTime": "06.15"
+        },
+        {
+            "itemId": "794163735763",
+            "cityName": "广州站",
+            "showTime": "06.21"
+        },
+        {
+            "itemId": "777791024931",
+            "cityName": "深圳站",
+            "showTime": "06.22"
+        },
+        {
+            "itemId": "794502198964",
+            "cityName": "南宁站",
+            "showTime": "06.23"
+        },
+        {
+            "itemId": "777532685755",
+            "cityName": "武汉站",
+            "showTime": "06.28"
+        },
+        {
+            "itemId": "794168795032",
+            "cityName": "长沙站",
+            "showTime": "06.29"
+        },
+        {
+            "itemId": "794263949476",
+            "cityName": "成都站",
+            "showTime": "07.05"
+        },
+        {
+            "itemId": "777505958788",
+            "cityName": "重庆站",
+            "showTime": "07.06"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=777532685755"
+}

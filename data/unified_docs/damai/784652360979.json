@@ -1,0 +1,99 @@
+{
+    "platform": "大麦",
+    "project_id": "784652360979",
+    "project_name": "保利城市岛屿音乐季许飞2024《生活不必太用力》巡回演出",
+    "category_name": "演唱会",
+    "artists": [
+        "许飞"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.09 周日 19:30",
+    "session_time": [
+        "06.09 周日"
+    ],
+    "price": "100-500",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "泰安",
+    "venue_name": "泰山大剧院",
+    "venue_info": {
+        "venue_address": "山东省泰安市泰山区望岳东路中段泰安文化艺术中心泰山大剧院",
+        "lng": 117.086527,
+        "lat": 36.19151
+    },
+    "project_info": "\n \n \n \n \n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01lk9Wfd2GdSadbEUO2_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Rx3JJx2GdSafe7eAJ_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "170",
+        "wantNumStr": "170",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "784224394275",
+            "cityName": "吉安站",
+            "showTime": "05.22"
+        },
+        {
+            "itemId": "775734061374",
+            "cityName": "株洲站",
+            "showTime": "05.24"
+        },
+        {
+            "itemId": "778278939787",
+            "cityName": "上海站",
+            "showTime": "05.26"
+        },
+        {
+            "itemId": "789296087355",
+            "cityName": "泰州站",
+            "showTime": "05.29"
+        },
+        {
+            "itemId": "779648868521",
+            "cityName": "绍兴站",
+            "showTime": "06.02"
+        },
+        {
+            "itemId": "784652360979",
+            "cityName": "泰安站",
+            "showTime": "06.09"
+        },
+        {
+            "itemId": "774207040766",
+            "cityName": "唐山站",
+            "showTime": "06.14"
+        },
+        {
+            "itemId": "775074783268",
+            "cityName": "辽阳站",
+            "showTime": "06.16"
+        },
+        {
+            "itemId": "793951317038",
+            "cityName": "赣州站",
+            "showTime": "06.28"
+        },
+        {
+            "itemId": "783130699545",
+            "cityName": "东莞站",
+            "showTime": "06.30"
+        },
+        {
+            "itemId": "785562124559",
+            "cityName": "海口站",
+            "showTime": "07.02"
+        },
+        {
+            "itemId": "775690887579",
+            "cityName": "武汉站",
+            "showTime": "07.05"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=784652360979"
+}

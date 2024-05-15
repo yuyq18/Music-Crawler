@@ -1,0 +1,46 @@
+{
+    "platform": "猫眼",
+    "project_id": "309066",
+    "project_name": "林俊杰JJ20 世界巡回演唱会-苏州站",
+    "category_name": "演唱会",
+    "artists": [
+        "林俊杰"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.5.25 / 5.26",
+    "session_time": [
+        "2024.5.25 ",
+        " 5.26"
+    ],
+    "price": "380-1880",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "苏州",
+    "venue_name": "苏州奥林匹克体育中心体育场",
+    "venue_info": {
+        "venue_address": "中新大道东999号",
+        "lng": "120.749663",
+        "lat": "31.304672"
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://p0.meituan.net/myvideodistribute/f3a0ef0e3ecf43b9e770c0d3f6375476171580.jpg",
+        "https://p1.meituan.net/myvideodistribute/1d255703b52d064f1991b370dfc15fe6662881.jpg?w=1241&h=1754",
+        "https://p1.meituan.net/myvideodistribute/58d3f95dda730bd30e7689147f1bce131732237.jpg?w=2481&h=3508",
+        "https://p0.meituan.net/myvideodistribute/2bfc2abc12009e21599382d42a1032d21247754.jpg?w=2481&h=3508",
+        "https://p0.meituan.net/myvideodistribute/a5fa9ee16b5160737c96db3c3ec2e1f46029906.jpg?w=4160&h=2772",
+        "https://p0.meituan.net/myvideodistribute/6d085baa58f1decc4e0b3bf224b93840522849.jpg?w=1080&h=1621",
+        "https://p0.meituan.net/myvideodistribute/980f7424113eb514e979041e7ff688ba747574.jpg?w=1621&h=1080",
+        "https://p0.meituan.net/myvideodistribute/669cf75cdd405aca1baa56cc7636a60a858558.jpg?w=1704&h=1080",
+        "https://p1.meituan.net/myvideodistribute/c3b6d6e2aa80fcff293da7a04d84867e304213.jpg?w=1864&h=1080"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/309066"
+}

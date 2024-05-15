@@ -1,0 +1,74 @@
+{
+    "platform": "大麦",
+    "project_id": "778153406148",
+    "project_name": "【造音呈现】李雨霏「我只吃晚饭」2024首轮个人巡演 深圳站",
+    "category_name": "演唱会",
+    "artists": [
+        "李雨霏"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.05.31 周五 20:00",
+    "session_time": [
+        "05.31 周五"
+    ],
+    "price": "130-280",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "MAOLivehouse深圳",
+    "venue_info": {
+        "venue_address": "南山区招商街道水湾社区海上世界C区船后广场C-L2005AC-L3002A",
+        "lng": 113.91766,
+        "lat": 22.483351
+    },
+    "project_info": "【造音呈现】我只吃晚饭@杭州2024",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01YEbyCT2GdSaJ0JzQv_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01sPJ7sG2GdSaJpiWlz_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "924",
+        "wantNumStr": "924",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "784647507497",
+            "cityName": "厦门站",
+            "showTime": "05.26"
+        },
+        {
+            "itemId": "778153406148",
+            "cityName": "深圳站",
+            "showTime": "05.31"
+        },
+        {
+            "itemId": "778179073216",
+            "cityName": "广州站",
+            "showTime": "06.02"
+        },
+        {
+            "itemId": "782458558233",
+            "cityName": "成都站",
+            "showTime": "06.21"
+        },
+        {
+            "itemId": "781244382719",
+            "cityName": "济南站",
+            "showTime": "06.28"
+        },
+        {
+            "itemId": "775693645066",
+            "cityName": "郑州站",
+            "showTime": "06.29"
+        },
+        {
+            "itemId": "773184859836",
+            "cityName": "天津站",
+            "showTime": "06.30"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=778153406148"
+}

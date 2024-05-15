@@ -1,0 +1,39 @@
+{
+    "platform": "猫眼",
+    "project_id": "318602",
+    "project_name": "《安溥·时寐》巡回演唱会-南京站",
+    "category_name": "演唱会",
+    "artists": [
+        "安溥"
+    ],
+    "show_status": "预售",
+    "show_time": "2024.6.8 / 6.9",
+    "session_time": [
+        "2024.6.8 ",
+        " 6.9"
+    ],
+    "price": "380-980",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南京",
+    "venue_name": "五台山体育中心双沟珍宝坊体育馆",
+    "venue_info": {
+        "venue_address": "广州路173号",
+        "lng": "118.772225",
+        "lat": "32.049096"
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://p0.meituan.net/myvideodistribute/f4f5c8109f720db64de2679e020ae11619847.jpg",
+        "https://p0.meituan.net/myvideodistribute/2912b7d4e0ef73e937fcc4f8b3195f5a3181596.jpg?w=879&h=11627"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/318602"
+}

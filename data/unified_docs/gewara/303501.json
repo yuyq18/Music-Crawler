@@ -1,0 +1,36 @@
+{
+    "platform": "猫眼",
+    "project_id": "303501",
+    "project_name": "【上海】歌剧《晨钟》",
+    "category_name": "演唱会",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2024.6.27 / 6.28",
+    "session_time": [
+        "2024.6.27 ",
+        " 6.28"
+    ],
+    "price": "80-380",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "上海",
+    "venue_name": "宛平剧院",
+    "venue_info": {
+        "venue_address": "中山南二路859号",
+        "lng": "121.451566",
+        "lat": "31.184977"
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://p0.meituan.net/myvideodistribute/d02a2f9b4801bb6dd125cb4e4e8152ef105488.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/303501"
+}

@@ -1,0 +1,36 @@
+{
+    "platform": "猫眼",
+    "project_id": "246604",
+    "project_name": "房东的猫首部VR演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "房东的猫"
+    ],
+    "show_status": "售票中",
+    "show_time": "2023.3.25 - 2025.3.24",
+    "session_time": [],
+    "price": "69",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "猫眼直播室",
+    "venue_info": {
+        "venue_address": "猫眼直播室",
+        "lng": "116.421802",
+        "lat": "39.950672"
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://p1.meituan.net/myvideodistribute/8e255c03b6ffd6870e38b101ef78b42a622217.jpg",
+        "https://p0.meituan.net/myvideodistribute/5373ebd9877b0aa7fe22aa80f73e67a53308319.jpg?w=2048&h=24252"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/246604"
+}

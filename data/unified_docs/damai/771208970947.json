@@ -1,0 +1,53 @@
+{
+    "platform": "大麦",
+    "project_id": "771208970947",
+    "project_name": "迪士尼奇妙庆典演唱会 Disney in Concert A Magical Celebration",
+    "category_name": "演唱会",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2024.05.18 周六",
+    "session_time": [
+        "05.18 周六"
+    ],
+    "price": "280-880",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": "9.1",
+    "city_name": "成都",
+    "venue_name": "成都城市音乐厅·歌剧厅",
+    "venue_info": {
+        "venue_address": "成都市武侯区一环路南一段45号",
+        "lng": 104.079501,
+        "lat": 30.635683
+    },
+    "project_info": "温馨提示：*剧院分楼层检票，请勿跨楼层购票，对号入座；*电子票，现场观演需换取纸质票入场！（电子票不能直接入场）换取地点：四川成都市一环路南一段45号成都城市音乐厅A1口。\n约110分钟，中场休息15分钟（具体以现场为准）\n注意事项：1.迟到观众，需等一首歌演唱结束后方可入场；2.禁止摄影摄像，敬请知悉，感谢支持与配合。\n \n说明 | Notice\n1.根据《网络交易管理办法》中关于：“其他根据商品性质并经消费者在购买时确认不宜退货的商品，不适用无理由退货。”的规定，鉴于文体演出票品特殊性，演出门票为联网售票，门票和座位都是唯一的，具有时效性、唯一性、数字化等特殊属性，一旦票品售出，不支持退换，丢失不补办，过期作废，请您在购买时务必仔细核对您的订单信息并审慎下单。（因不可抗力因素导致演出取消或延期除外）；\n2.取到票后请妥善保管，遗失不补，剧院不负责出示遗失证明。\n3.儿童一律凭票入场，一人一票，怀抱婴儿谢绝入内\n发票说明需要开具发票的购票客户，请您最迟在演出结束后7个工作日内，提供相关发票信息至电话客服为您登记。演出结束后将统一由演出主办方单位开具增值税发票。错过开票时间后，恕不再登记开发票。\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01eVqaYb2GdSZUjWmpm_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN010gLgOn2GdSajI3M0Q_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01PzI7S62GdSalL18nX_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01HuIMzY2GdSapOZUxz_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01mIDPrq2GdSam0Wx8L_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01rrDhX22GdSaq2s6w7_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01yYhn2n2GdSam7HSgz_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01cn1tmv2GdSaq2uf0v_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "2603",
+        "wantNumStr": "2603",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "771208970947",
+            "cityName": "成都站",
+            "showTime": "05.18"
+        },
+        {
+            "itemId": "772221561420",
+            "cityName": "深圳站",
+            "showTime": "06.01"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=771208970947"
+}

@@ -1,0 +1,43 @@
+{
+    "platform": "猫眼",
+    "project_id": "320723",
+    "project_name": "苏打绿二十年一刻巡回演唱会-深圳站",
+    "category_name": "演唱会",
+    "artists": [
+        "苏打绿"
+    ],
+    "show_status": "预售",
+    "show_time": "2024.6.1 / 6.2",
+    "session_time": [
+        "2024.6.1 ",
+        " 6.2"
+    ],
+    "price": "480-1580",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "深圳 | 深圳湾体育中心\"春茧\"体育馆",
+    "venue_info": {
+        "venue_address": "滨海大道3001号深圳湾体育中心L168号",
+        "lng": "113.950078",
+        "lat": "22.517812"
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://p0.meituan.net/myvideodistribute/a3a66f203e036426208d3cc04068390f244817.jpg",
+        "https://p0.meituan.net/myvideodistribute/374fed630f2365f6a5332dc2e50d3cdb1596292.jpg?w=2480&h=3507",
+        "https://p0.meituan.net/myvideodistribute/4dbf93269ec30c3166feb781e00a5f0b1934248.jpg?w=2480&h=3507",
+        "https://p0.meituan.net/myvideodistribute/03a24540660099fbe74551fb4849302f70952.jpg?w=2479&h=1110",
+        "https://p0.meituan.net/myvideodistribute/4702faf091b0d316a859fc6eae7b7d37253353.jpg?w=1920&h=1080",
+        "https://p0.meituan.net/myvideodistribute/daefb6a798ab4b13f04fdd2f16f74673325785.jpg?w=1200&h=1416"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/320723"
+}

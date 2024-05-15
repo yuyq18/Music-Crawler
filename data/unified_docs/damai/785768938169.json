@@ -1,0 +1,79 @@
+{
+    "platform": "大麦",
+    "project_id": "785768938169",
+    "project_name": "布朗尼2024巡演「鹦鹉螺号」沈阳站",
+    "category_name": "演唱会",
+    "artists": [
+        "布朗尼乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.05.25 周六 20:00",
+    "session_time": [
+        "05.25 周六"
+    ],
+    "price": "139",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "沈阳",
+    "venue_name": "原料库Vast Factory(大悦城店)",
+    "venue_info": {
+        "venue_address": "小东路【7】号【沈阳大悦城】购物中心【E601】号商铺",
+        "lng": 123.468683,
+        "lat": 41.802556
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN014BcUVJ2GdSaiecFv8_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01xjg6ld2GdSakNh5mL_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "785768938169",
+            "cityName": "沈阳站",
+            "showTime": "05.25"
+        },
+        {
+            "itemId": "784432536412",
+            "cityName": "上海站",
+            "showTime": "05.31"
+        },
+        {
+            "itemId": "786716147415",
+            "cityName": "杭州站",
+            "showTime": "06.01"
+        },
+        {
+            "itemId": "785676495366",
+            "cityName": "南京站",
+            "showTime": "06.02"
+        },
+        {
+            "itemId": "785473876093",
+            "cityName": "深圳站",
+            "showTime": "06.15"
+        },
+        {
+            "itemId": "784350278679",
+            "cityName": "福州站",
+            "showTime": "06.16"
+        },
+        {
+            "itemId": "784313415009",
+            "cityName": "成都站",
+            "showTime": "06.21"
+        },
+        {
+            "itemId": "784682422981",
+            "cityName": "重庆站",
+            "showTime": "06.22"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=785768938169"
+}

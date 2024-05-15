@@ -1,0 +1,74 @@
+{
+    "platform": "大麦",
+    "project_id": "773184859836",
+    "project_name": "【造音呈现】李雨霏「我只吃晚饭」2024首轮个人巡演 天津站",
+    "category_name": "演唱会",
+    "artists": [
+        "李雨霏"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.30 周日 20:00",
+    "session_time": [
+        "06.30 周日"
+    ],
+    "price": "130-280",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "天津",
+    "venue_name": "琉璃SPACE",
+    "venue_info": {
+        "venue_address": "天津西青区华苑科技园智慧山E座一层（原琉璃剧场）",
+        "lng": 117.120684,
+        "lat": 39.093161
+    },
+    "project_info": "【造音呈现】我只吃晚饭@南京2024",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01duR0cb2GdSZmTvQbz_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Yvdgvt2GdSZiZgR2R_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "2020",
+        "wantNumStr": "2020",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "784647507497",
+            "cityName": "厦门站",
+            "showTime": "05.26"
+        },
+        {
+            "itemId": "778153406148",
+            "cityName": "深圳站",
+            "showTime": "05.31"
+        },
+        {
+            "itemId": "778179073216",
+            "cityName": "广州站",
+            "showTime": "06.02"
+        },
+        {
+            "itemId": "782458558233",
+            "cityName": "成都站",
+            "showTime": "06.21"
+        },
+        {
+            "itemId": "781244382719",
+            "cityName": "济南站",
+            "showTime": "06.28"
+        },
+        {
+            "itemId": "775693645066",
+            "cityName": "郑州站",
+            "showTime": "06.29"
+        },
+        {
+            "itemId": "773184859836",
+            "cityName": "天津站",
+            "showTime": "06.30"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=773184859836"
+}

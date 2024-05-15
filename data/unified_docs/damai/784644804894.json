@@ -1,0 +1,60 @@
+{
+    "platform": "大麦",
+    "project_id": "784644804894",
+    "project_name": "弦子“需要多久才能看完一场日落”2024巡回演唱会-深圳站",
+    "category_name": "演唱会",
+    "artists": [
+        "弦子",
+        "陈思键"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.05.18 周六 19:30",
+    "session_time": [
+        "05.18 周六"
+    ],
+    "price": "358-568",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "SoFun Live 深圳",
+    "venue_info": {
+        "venue_address": "深圳市光明新区华强科技生态园 8C栋 华强盒子一层",
+        "lng": 113.957662,
+        "lat": 22.736409
+    },
+    "project_info": "活动介绍：\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01qOY1312GdSbAZCzTo_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01t9JnLN2GdSbCRfeH3_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "3819",
+        "wantNumStr": "3819",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "784644804894",
+            "cityName": "深圳站",
+            "showTime": "05.18"
+        },
+        {
+            "itemId": "784375633724",
+            "cityName": "厦门站",
+            "showTime": "05.25"
+        },
+        {
+            "itemId": "784427065222",
+            "cityName": "成都站",
+            "showTime": "06.15"
+        },
+        {
+            "itemId": "784328075426",
+            "cityName": "广州站",
+            "showTime": "06.21"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=784644804894"
+}

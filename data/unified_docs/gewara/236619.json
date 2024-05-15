@@ -1,0 +1,35 @@
+{
+    "platform": "猫眼",
+    "project_id": "236619",
+    "project_name": "SNH48 星梦剧院公演",
+    "category_name": "演唱会",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2024.5.15 - 2024.5.19",
+    "session_time": [],
+    "price": "118-228",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "上海",
+    "venue_name": "SNH48星梦剧院",
+    "venue_info": {
+        "venue_address": "嘉兴路267号(近哈尔滨路)",
+        "lng": "121.490357",
+        "lat": "31.256769"
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://p0.meituan.net/myvideodistribute/0ad7cfe50d220efa506deb193d22310b62489.jpg",
+        "https://p1.meituan.net/myvideodistribute/861f1386c5cc4c466b203034695d2eb82011378.jpg?w=750&h=3499",
+        "https://p1.meituan.net/myvideodistribute/517076bd84e82d73ffa07a77095f23023244373.jpg?w=750&h=5158"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/236619"
+}

@@ -1,0 +1,74 @@
+{
+    "platform": "大麦",
+    "project_id": "794075311779",
+    "project_name": "林俊杰JJ20 世界巡回演唱会-青岛站",
+    "category_name": "演唱会",
+    "artists": [
+        "林俊杰"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.21-09.22",
+    "session_time": [
+        "09.21 周六",
+        "09.22 周日"
+    ],
+    "price": "380-1880",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "青岛",
+    "venue_name": "青岛市民健身中心体育场",
+    "venue_info": {
+        "venue_address": "山东省青岛市城阳区上马街道火炬路318号",
+        "lng": 120.219447,
+        "lat": 36.231733
+    },
+    "project_info": "迈向出道20 周年的里程碑， 亚洲全能唱作天王JJ 林俊杰将于9月21日、22日来到青岛市民健身中心体育场的舞台，呈现《林俊杰JJ20 世界巡回演唱会》，为睽违4年的全新巡演掀开序幕！被誉为新加坡的骄傲，也是华人乐坛艺人之一的JJ 林俊杰出道至今即将步入 20 年，发行了 15 张专辑，超过 30 首单曲与无数合作歌曲。随着科技的发展，这些音乐与青春一起从卡带到 CD 再汇入数位音乐，陪着许许多多的歌迷们走过生活中的起起落落，也共同见证了彼此的成长。JJ 的音乐不仅是一代人的集体回忆、最美好的无限延伸，总能将心灵破碎的拼凑完整。这些年来，JJ 林俊杰站上超过百场演唱会舞台。每场都是多少眼泪的汇集地，又是多少情感的交集，有无数灵魂在这发光，也有无限感动在此发酵，是多少观众的声音一起将故事写成了我们，成就了林俊杰。20 年岁月，JJ 林俊杰不曾离开。这次不止是 “JJ20” 也是 “JJ2.0”。睽违4年的全新巡回演唱会，万众期待，而 JJ 也准备好了再次归向舞台，迎接崭新的 JJ 时代！",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01HXUEw22GdSb7fzLyG_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN017Znwig2GdSbAMrGLp_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ECmPNg2GdSb8B3aKH_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01LEk9nP2GdSazz0unU_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01KY6nKn2GdSb8B4FxE_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01tRVwkx2GdSbBNqwiQ_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "160730",
+        "wantNumStr": "16.1万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过95%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "790148139592",
+            "cityName": "兰州站",
+            "showTime": "07.06-07.07"
+        },
+        {
+            "itemId": "794075311779",
+            "cityName": "青岛站",
+            "showTime": "09.21-09.22"
+        },
+        {
+            "itemId": "770294802039",
+            "cityName": "苏州站",
+            "showTime": "05.25-05.26"
+        },
+        {
+            "itemId": "790196638099",
+            "cityName": "南昌站",
+            "showTime": "06.01-06.02"
+        },
+        {
+            "itemId": "770222279047",
+            "cityName": "贵阳站",
+            "showTime": "06.15-06.16"
+        },
+        {
+            "itemId": "782357128167",
+            "cityName": "哈尔滨站",
+            "showTime": "06.22-06.23"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=794075311779"
+}

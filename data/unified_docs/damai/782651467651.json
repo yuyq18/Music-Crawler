@@ -1,0 +1,74 @@
+{
+    "platform": "大麦",
+    "project_id": "782651467651",
+    "project_name": "2024徐秉龙「牛角流星」长沙站",
+    "category_name": "演唱会",
+    "artists": [
+        "徐秉龙"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.05.25 周六 20:00",
+    "session_time": [
+        "05.25 周六"
+    ],
+    "price": "160-520",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "长沙",
+    "venue_name": "MAO Livehouse长沙(沙湾店)",
+    "venue_info": {
+        "venue_address": "湖南省长沙市雨花区劳动东路268号",
+        "lng": 113.046626,
+        "lat": 28.156559
+    },
+    "project_info": "\n关于2024『牛角流星』全国巡回暌违两年，徐秉龙细心捏筑一夜流星。“8首歌 8颗流星。”每一条星线都看起来如此浪漫主义:在夜空中跳跃、捕捉、做梦，在虚无时空里，在无数次反反复复与矛盾之间，力求寻找完美声音的平衡，当撕开脆弱流星的外衣，内里闪耀的光泽令人沉迷;徐秉龙携带音乐生涯第四张专辑《牛角流星》惊喜开启2024年全国巡演。在人声嘈杂的当下，在欲望焚身的失乐园里，一位清瘦的年轻诗人逃离城市用吉他吟唱。现场见，带上一直陪伴自己的人。4.20 福州 MAAQUU✖️CH8 livehouse4.30 台州 樂八度chizhaospace5.17 昆明 MODERN SKY LAB5.18 郑州 7LIVEHOUSE+5.24 武汉 不晚 InTime Live(汉阳造店)5.25 长沙 MAOLivehouse(沙湾店)5.31 合肥 OTW LIVEHOUSE6.1 厦门 WOKESHOW星巢沃克秀6.10 北京 EAST LIVE6.15 南京 1701 Live House MAX",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01Q1L1ZE2GdSacxpz5a_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN012WafmH2GdSaYZZQDW_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "2300",
+        "wantNumStr": "2300",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "777482858383",
+            "cityName": "昆明站",
+            "showTime": "05.17"
+        },
+        {
+            "itemId": "777517437264",
+            "cityName": "郑州站",
+            "showTime": "05.18"
+        },
+        {
+            "itemId": "777771363236",
+            "cityName": "武汉站",
+            "showTime": "05.24"
+        },
+        {
+            "itemId": "782651467651",
+            "cityName": "长沙站",
+            "showTime": "05.25"
+        },
+        {
+            "itemId": "782690370241",
+            "cityName": "厦门站",
+            "showTime": "06.01"
+        },
+        {
+            "itemId": "783552058148",
+            "cityName": "北京站",
+            "showTime": "06.10"
+        },
+        {
+            "itemId": "782696342617",
+            "cityName": "南京站",
+            "showTime": "06.15"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=782651467651"
+}

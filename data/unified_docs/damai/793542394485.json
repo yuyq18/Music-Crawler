@@ -1,0 +1,59 @@
+{
+    "platform": "大麦",
+    "project_id": "793542394485",
+    "project_name": "留声玩具2024《行在时光里的船》专辑巡演 武汉站",
+    "category_name": "演唱会",
+    "artists": [
+        "留声玩具"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.05.31 周五 20:30",
+    "session_time": [
+        "05.31 周五"
+    ],
+    "price": "99-118",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "武汉",
+    "venue_name": "ThreeLive",
+    "venue_info": {
+        "venue_address": "武汉市洪山区乐都汇时尚购物广场5号门旁上三楼",
+        "lng": 114.335949,
+        "lat": 30.516872
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01a0Xf6Q2GdSb3ym8hj_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01ujNPPD2GdSb5Ng5TT_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "793542394485",
+            "cityName": "武汉站",
+            "showTime": "05.31"
+        },
+        {
+            "itemId": "779601875753",
+            "cityName": "宜昌站",
+            "showTime": "06.01"
+        },
+        {
+            "itemId": "793879449836",
+            "cityName": "长沙站",
+            "showTime": "06.08"
+        },
+        {
+            "itemId": "793593796061",
+            "cityName": "南昌站",
+            "showTime": "06.09"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=793542394485"
+}

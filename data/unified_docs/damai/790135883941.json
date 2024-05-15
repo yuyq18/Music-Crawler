@@ -1,0 +1,59 @@
+{
+    "platform": "大麦",
+    "project_id": "790135883941",
+    "project_name": "孟慧圆“人生颁奖典礼”2024巡演-杭州站",
+    "category_name": "演唱会",
+    "artists": [
+        "孟慧圆"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.02 周日 20:00",
+    "session_time": [
+        "06.02 周日"
+    ],
+    "price": "180-240",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "杭州",
+    "venue_name": "大麦66LiveHouse杭州",
+    "venue_info": {
+        "venue_address": "浙江省杭州市下城区新北街85号三层G2-302",
+        "lng": 120.180515,
+        "lat": 30.325061
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01cYsl902GdSb0T6l6g_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01OQwfE72GdSawpIFpW_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "1845",
+        "wantNumStr": "1845",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "789853325935",
+            "cityName": "上海站",
+            "showTime": "05.31"
+        },
+        {
+            "itemId": "785534944240",
+            "cityName": "苏州站",
+            "showTime": "06.01"
+        },
+        {
+            "itemId": "790135883941",
+            "cityName": "杭州站",
+            "showTime": "06.02"
+        },
+        {
+            "itemId": "779581870668",
+            "cityName": "北京站",
+            "showTime": "06.09"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=790135883941"
+}

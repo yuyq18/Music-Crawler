@@ -1,0 +1,74 @@
+{
+    "platform": "大麦",
+    "project_id": "775693645066",
+    "project_name": "【造音呈现】李雨霏「我只吃晚饭」2024首轮个人巡演 郑州站",
+    "category_name": "演唱会",
+    "artists": [
+        "李雨霏"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.29 周六 20:00",
+    "session_time": [
+        "06.29 周六"
+    ],
+    "price": "130-280",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "郑州",
+    "venue_name": "7LIVEHOUSE",
+    "venue_info": {
+        "venue_address": "文化路金水路交叉口东北角中州索克影城内二楼",
+        "lng": 113.668021559715,
+        "lat": 34.7650867310337
+    },
+    "project_info": "【造音呈现】我只吃晚饭@郑州2024",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01KFSEBY2GdSa6AjUp2_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01D4lsPd2GdSa5QPcKd_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "1442",
+        "wantNumStr": "1442",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "784647507497",
+            "cityName": "厦门站",
+            "showTime": "05.26"
+        },
+        {
+            "itemId": "778153406148",
+            "cityName": "深圳站",
+            "showTime": "05.31"
+        },
+        {
+            "itemId": "778179073216",
+            "cityName": "广州站",
+            "showTime": "06.02"
+        },
+        {
+            "itemId": "782458558233",
+            "cityName": "成都站",
+            "showTime": "06.21"
+        },
+        {
+            "itemId": "781244382719",
+            "cityName": "济南站",
+            "showTime": "06.28"
+        },
+        {
+            "itemId": "775693645066",
+            "cityName": "郑州站",
+            "showTime": "06.29"
+        },
+        {
+            "itemId": "773184859836",
+            "cityName": "天津站",
+            "showTime": "06.30"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=775693645066"
+}

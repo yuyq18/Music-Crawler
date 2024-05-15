@@ -1,0 +1,49 @@
+{
+    "platform": "大麦",
+    "project_id": "784276043087",
+    "project_name": "井迪「追光旅行」2024全国巡演 上海站【造音呈现】",
+    "category_name": "演唱会",
+    "artists": [
+        "井迪"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.05.24 周五 20:00",
+    "session_time": [
+        "05.24 周五"
+    ],
+    "price": "168-288",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "上海",
+    "venue_name": "MODERN SKY LAB上海",
+    "venue_info": {
+        "venue_address": "虹口区瑞虹路188号瑞虹天地月亮湾3F",
+        "lng": 121.498068,
+        "lat": 31.264419
+    },
+    "project_info": "【造音呈现】井迪2024全国巡演 上海站-大麦",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01iGkG3w2GdSakCyC0H_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN014a2Qkb2GdSafTC3jk_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "3043",
+        "wantNumStr": "3043",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "784276043087",
+            "cityName": "上海站",
+            "showTime": "05.24"
+        },
+        {
+            "itemId": "784351948011",
+            "cityName": "南京站",
+            "showTime": "05.25"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=784276043087"
+}

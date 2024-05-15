@@ -1,0 +1,69 @@
+{
+    "platform": "大麦",
+    "project_id": "775726707022",
+    "project_name": "赵紫骅「可乐II」2024全国巡演-广州站",
+    "category_name": "演唱会",
+    "artists": [
+        "赵紫骅"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.16 周日 20:00",
+    "session_time": [
+        "06.16 周日"
+    ],
+    "price": "128-228",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "广州",
+    "venue_name": "广州疆进酒·OMNI SPACE(1号馆)",
+    "venue_info": {
+        "venue_address": "奥体南路12号高德汇奥体购物中心西区1248号",
+        "lng": 113.413854,
+        "lat": 23.132374
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01cUUljx2GdSa9GraSg_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01dgu7Bs2GdSa7xpA7V_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "6386",
+        "wantNumStr": "6386",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过57%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "775703135718",
+            "cityName": "福州站",
+            "showTime": "05.17"
+        },
+        {
+            "itemId": "775874055319",
+            "cityName": "南昌站",
+            "showTime": "05.19"
+        },
+        {
+            "itemId": "775726707022",
+            "cityName": "广州站",
+            "showTime": "06.16"
+        },
+        {
+            "itemId": "775719611938",
+            "cityName": "天津站",
+            "showTime": "07.12"
+        },
+        {
+            "itemId": "775760713715",
+            "cityName": "北京站",
+            "showTime": "07.14"
+        },
+        {
+            "itemId": "777239933309",
+            "cityName": "深圳站",
+            "showTime": "06.14"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=775726707022"
+}

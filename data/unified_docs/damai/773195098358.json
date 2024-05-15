@@ -1,0 +1,88 @@
+{
+    "platform": "大麦",
+    "project_id": "773195098358",
+    "project_name": "海阔天空 怀念家驹·【海山】致敬BEYOND金曲演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "黄海山"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.05.18 周六 19:30",
+    "session_time": [],
+    "price": "58-480",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "沈阳",
+    "venue_name": "辽宁中华剧场",
+    "venue_info": {
+        "venue_address": "沈阳和平区南京南街3号",
+        "lng": 123.404739,
+        "lat": 41.788631
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01xqtuld2GdSZm47rpp_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01HIS3xF2GdSZeF5smE_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01qiYqID2GdSZqzxspZ_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ngRyXB2GdSZo8vKII_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01bO9je62GdSZmgIN5A_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01wCSCMv2GdSZmkprZq_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01BTKO7u2GdSZmkr4Px_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01gPAstW2GdSZeF3GfD_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01NFCvji2GdSZng4KFk_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01gpFKSE2GdSZqJy0U1_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ue2OWA2GdSZm4Btbc_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01TEuy422GdSZqJxjqb_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01h7XyaK2GdSZm4AxOH_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "1408",
+        "wantNumStr": "1408",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "773195098358",
+            "cityName": "沈阳站",
+            "showTime": "05.18"
+        },
+        {
+            "itemId": "776473624907",
+            "cityName": "长春站",
+            "showTime": "05.19"
+        },
+        {
+            "itemId": "769935493054",
+            "cityName": "上海站",
+            "showTime": "05.24-05.26"
+        },
+        {
+            "itemId": "778383813556",
+            "cityName": "广州站",
+            "showTime": "06.08"
+        },
+        {
+            "itemId": "773903423868",
+            "cityName": "深圳站",
+            "showTime": "06.09"
+        },
+        {
+            "itemId": "782151380343",
+            "cityName": "北京站",
+            "showTime": "06.23"
+        },
+        {
+            "itemId": "785121549517",
+            "cityName": "无锡站",
+            "showTime": "07.27"
+        },
+        {
+            "itemId": "774150280171",
+            "cityName": "锦州站",
+            "showTime": "05.17"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=773195098358"
+}

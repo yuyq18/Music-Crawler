@@ -1,0 +1,41 @@
+{
+    "platform": "猫眼",
+    "project_id": "320070",
+    "project_name": "2024李宇春周末愉快演唱会宁波站",
+    "category_name": "演唱会",
+    "artists": [
+        "李宇春"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.5.17 / 5.18",
+    "session_time": [
+        "2024.5.17 ",
+        " 5.18"
+    ],
+    "price": "380-2580",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "宁波",
+    "venue_name": "宁波奥体中心体育馆",
+    "venue_info": {
+        "venue_address": "云飞路1280号",
+        "lng": "121.49265",
+        "lat": "29.93067"
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://p0.meituan.net/myvideodistribute/ba83289f2f5a941366a80f4ff53047c0195254.jpg",
+        "https://p0.meituan.net/myvideodistribute/1a2ea9ef73b357b64220e44c6639ecf6263848.png?w=1587&h=1551",
+        "https://p0.meituan.net/myvideodistribute/bbbfbab0adeea755f9245eeabe096714493262.png?w=1587&h=3957",
+        "https://p0.meituan.net/myvideodistribute/ba83289f2f5a941366a80f4ff53047c0195254.jpg?w=800&h=1062"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/320070"
+}

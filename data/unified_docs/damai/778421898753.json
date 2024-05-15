@@ -1,0 +1,139 @@
+{
+    "platform": "大麦",
+    "project_id": "778421898753",
+    "project_name": "暗杠「走歌人2024」巡演 深圳站",
+    "category_name": "演唱会",
+    "artists": [
+        "暗杠"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.07 周五 20:00",
+    "session_time": [
+        "06.07 周五"
+    ],
+    "price": "128-318",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "MAOLivehouse深圳",
+    "venue_info": {
+        "venue_address": "南山区招商街道水湾社区海上世界C区船后广场C-L2005AC-L3002A",
+        "lng": 113.91766,
+        "lat": 22.483351
+    },
+    "project_info": "\n*九周年限定套票：全价票1张+九周年限定礼包+15分钟提前进场\n \n \n \n \n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01VNvOxD2GdSZySBGYY_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01YgfyaT2GdSaLo3JDx_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "500",
+        "wantNumStr": "500",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "794450023630",
+            "cityName": "济南站",
+            "showTime": "07.07"
+        },
+        {
+            "itemId": "788668089870",
+            "cityName": "北京站",
+            "showTime": "05.24-05.25"
+        },
+        {
+            "itemId": "778386148612",
+            "cityName": "沈阳站",
+            "showTime": "05.31"
+        },
+        {
+            "itemId": "776325734473",
+            "cityName": "长春站",
+            "showTime": "06.01"
+        },
+        {
+            "itemId": "778418434485",
+            "cityName": "哈尔滨站",
+            "showTime": "06.02"
+        },
+        {
+            "itemId": "778421898753",
+            "cityName": "深圳站",
+            "showTime": "06.07"
+        },
+        {
+            "itemId": "776322517900",
+            "cityName": "厦门站",
+            "showTime": "06.08"
+        },
+        {
+            "itemId": "776276816184",
+            "cityName": "宁波站",
+            "showTime": "06.09"
+        },
+        {
+            "itemId": "776283324364",
+            "cityName": "重庆站",
+            "showTime": "06.14"
+        },
+        {
+            "itemId": "776312190217",
+            "cityName": "成都站",
+            "showTime": "06.15"
+        },
+        {
+            "itemId": "778448585377",
+            "cityName": "西安站",
+            "showTime": "06.16"
+        },
+        {
+            "itemId": "778425624901",
+            "cityName": "杭州站",
+            "showTime": "06.21"
+        },
+        {
+            "itemId": "776900326275",
+            "cityName": "南京站",
+            "showTime": "06.22"
+        },
+        {
+            "itemId": "776337165683",
+            "cityName": "昆明站",
+            "showTime": "06.28"
+        },
+        {
+            "itemId": "776291935687",
+            "cityName": "贵阳站",
+            "showTime": "06.29"
+        },
+        {
+            "itemId": "781968370784",
+            "cityName": "太原站",
+            "showTime": "07.06"
+        },
+        {
+            "itemId": "785550732639",
+            "cityName": "苏州站",
+            "showTime": "07.20"
+        },
+        {
+            "itemId": "782084861920",
+            "cityName": "温州站",
+            "showTime": "07.21"
+        },
+        {
+            "itemId": "782088769530",
+            "cityName": "广州站",
+            "showTime": "07.26"
+        },
+        {
+            "itemId": "785798816910",
+            "cityName": "武汉站",
+            "showTime": "07.28"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=778421898753"
+}

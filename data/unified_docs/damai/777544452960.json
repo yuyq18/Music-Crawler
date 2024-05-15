@@ -1,0 +1,50 @@
+{
+    "platform": "大麦",
+    "project_id": "777544452960",
+    "project_name": "黄龄「五雷轰顶的花色」2024夏日限定-上海站",
+    "category_name": "演唱会",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2024.05.18 周六 20:00",
+    "session_time": [
+        "05.18 周六"
+    ],
+    "price": "360-560",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "上海",
+    "venue_name": "蜚声上海PHASE LIVE HOUSE SHANGHAI",
+    "venue_info": {
+        "venue_address": "上海市静安区中兴路1683号L3-27",
+        "lng": 121.453591,
+        "lat": 31.253261
+    },
+    "project_info": "\n票价预售票 ￥360全价票 ￥420 VIP票  ￥560\n\nVIP权益\n精美签名礼包+提前30min入场\n（检票入场：VIP18:30，普票19:00）\n演出后小组合影\n-------------------------\n【24·夏日限定】\n5/18 上海 蜚声livehouse\n6/1 北京 本土王牌live\n深圳 即将开票敬请期待\n观演须知\n*本场为livehouse演出，无座，位置以排队入场顺序为准（有号队列-无号队列）；\n*所有观众（有号或无号），均可按时入场，未取到号或不参加取号，在无号队列正常排队入场即可；\n*入场开始时间：VIP18:30，普票19:00；验票时请提前打开售票平台二维码，截图无效；\n*为维护您的合法权益，请在官方售票平台购票，无法检票入场的朋友请自行联系原购票渠道；\n*入场在蜚声1层排队区域，请勿直接上3层（不设入口）。\n全程主办「起笑娱乐」经纪公司「和序文化」",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01pNi0Mx2GdSbDAIFvf_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01x06kzf2GdSaIYtvsK_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01yThtWY2GdSaLzqjzr_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01hL9gIz2GdSaEfVEjX_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01EhwDlr2GdSaJturrd_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "3901",
+        "wantNumStr": "3901",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "777713443843",
+            "cityName": "北京站",
+            "showTime": "06.01"
+        },
+        {
+            "itemId": "777544452960",
+            "cityName": "上海站",
+            "showTime": "05.18"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=777544452960"
+}

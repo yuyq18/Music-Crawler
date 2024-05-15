@@ -1,0 +1,69 @@
+{
+    "platform": "大麦",
+    "project_id": "777239933309",
+    "project_name": "赵紫骅「可乐II」2024全国巡演-深圳站",
+    "category_name": "演唱会",
+    "artists": [
+        "赵紫骅"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.14 周五 20:00",
+    "session_time": [
+        "06.14 周五"
+    ],
+    "price": "128-228",
+    "isGeneralAgent": "true",
+    "isHotProject": "true",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "HOU LIVE X Mixc cube",
+    "venue_info": {
+        "venue_address": "科苑南路2666号中国华润大厦B1层发布厅",
+        "lng": 113.946639,
+        "lat": 22.514938
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01zqnMvD2GdSaCZIxCt_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ydxITA2GdSaKPw7Ra_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "2271",
+        "wantNumStr": "2271",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "775703135718",
+            "cityName": "福州站",
+            "showTime": "05.17"
+        },
+        {
+            "itemId": "775874055319",
+            "cityName": "南昌站",
+            "showTime": "05.19"
+        },
+        {
+            "itemId": "775726707022",
+            "cityName": "广州站",
+            "showTime": "06.16"
+        },
+        {
+            "itemId": "775719611938",
+            "cityName": "天津站",
+            "showTime": "07.12"
+        },
+        {
+            "itemId": "775760713715",
+            "cityName": "北京站",
+            "showTime": "07.14"
+        },
+        {
+            "itemId": "777239933309",
+            "cityName": "深圳站",
+            "showTime": "06.14"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=777239933309"
+}

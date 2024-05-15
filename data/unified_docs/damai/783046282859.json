@@ -1,0 +1,59 @@
+{
+    "platform": "大麦",
+    "project_id": "783046282859",
+    "project_name": "DragonBand 七龙珠限定Live 纪念演出-重庆站",
+    "category_name": "演唱会",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2024.05.19 周日 19:30",
+    "session_time": [
+        "05.19 周日"
+    ],
+    "price": "158-268",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "重庆",
+    "venue_name": "京汉演艺中心",
+    "venue_info": {
+        "venue_address": "重庆市巴南区龙洲湾街道渝南大道359号1-1号",
+        "lng": 106.542876,
+        "lat": 29.389194
+    },
+    "project_info": "DragonBand【七龙珠限定Live】纪念演出-重庆站\n\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01z7mUtI2GdSacZOUQC_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01nNQPLM2GdSab8iN8z_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01V5BUen2GdSaeTCWFV_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN013V1Ckf2GdSaSpkF7a_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "783046282859",
+            "cityName": "重庆站",
+            "showTime": "05.19"
+        },
+        {
+            "itemId": "782727584566",
+            "cityName": "厦门站",
+            "showTime": "05.24"
+        },
+        {
+            "itemId": "782713699688",
+            "cityName": "福州站",
+            "showTime": "时间待定"
+        },
+        {
+            "itemId": "782868981052",
+            "cityName": "成都站",
+            "showTime": "时间待定"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=783046282859"
+}

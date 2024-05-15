@@ -1,0 +1,59 @@
+{
+    "platform": "大麦",
+    "project_id": "793879449836",
+    "project_name": "留声玩具2024《行在时光里的船》专辑巡演 长沙站",
+    "category_name": "演唱会",
+    "artists": [
+        "留声玩具"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.08 周六 20:30",
+    "session_time": [
+        "06.08 周六"
+    ],
+    "price": "99-118",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "长沙",
+    "venue_name": "长沙VOX LIVEHOUSE",
+    "venue_info": {
+        "venue_address": "湖南省长沙市岳麓区天顶街道环湖路1200号梅溪湖国际文化艺术中心小剧场101号地下一层",
+        "lng": 112.905414,
+        "lat": 28.195744
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01f63p182GdSbB83aqj_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN0113vZp12GdSb5d7xJd_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "793542394485",
+            "cityName": "武汉站",
+            "showTime": "05.31"
+        },
+        {
+            "itemId": "779601875753",
+            "cityName": "宜昌站",
+            "showTime": "06.01"
+        },
+        {
+            "itemId": "793879449836",
+            "cityName": "长沙站",
+            "showTime": "06.08"
+        },
+        {
+            "itemId": "793593796061",
+            "cityName": "南昌站",
+            "showTime": "06.09"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=793879449836"
+}

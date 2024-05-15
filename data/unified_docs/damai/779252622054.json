@@ -1,0 +1,60 @@
+{
+    "platform": "大麦",
+    "project_id": "779252622054",
+    "project_name": "王若琳「爱的呼唤」巡演·厦门站",
+    "category_name": "演唱会",
+    "artists": [
+        "王若琳"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.22 周六 20:00",
+    "session_time": [
+        "06.22 周六"
+    ],
+    "price": "299-499",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "厦门",
+    "venue_name": "厦门WOKESHOW星巢沃克秀",
+    "venue_info": {
+        "venue_address": "福建省厦门市集美区杏林湾营运中心8号楼星巢越中心2楼",
+        "lng": 118.064963,
+        "lat": 24.592675
+    },
+    "project_info": "王若琳「爱的呼唤」巡演·厦门站\nVIP入场检票时间：18：30    VIP权益：（提前进场，前区观影区，20人一组合影）\n普通票入场检票时间：19:00\n事情往往不像表面上看起来那么简单。\n你听到Joanna王若琳翻唱邓丽君、美空云雀、翁倩玉……等歌手跨越60到80年代的中、日、粤语经典情歌代表作，Joanna听到的是歌曲里的女主角强烈而鲜明的个性与情绪：没有爱不能活、即使当小三也无法离开这段感情，止不住心中对爱情的幻想与渴望，这些歌曲中女性角色戏剧化的爱恨情绪，让她深深著迷。\n\n继2019年获得金曲奖评审团奖之后，Joanna王若琳再以「爱的呼唤」专辑入围金曲奖最佳国语女歌手奖、最佳国语专辑奖等５项大奖，并荣获最佳国语专辑奖。突破翻唱专辑的先天限制，Joanna王若琳以她迷人嗓音与音乐创造力，透过音乐与视觉，描绘出她脑海里那个奇异瑰丽的音乐宇宙。\n这次她将以乐团编制呈现「爱的呼唤」，演绎「我只在乎你」的痴心，「漫步人生路」的潇洒，让爱跨越时间与空间，透过Joanna的歌声与音乐，感染我们。\n\n你是否已准备好，现场聆听爱的呼唤？",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01rDqAGp2GdSaJQxBsn_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN014DTcCD2GdSaLM57qd_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01a5wNko2GdSaLUjrO1_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "2109",
+        "wantNumStr": "2109",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "778047672527",
+            "cityName": "合肥站",
+            "showTime": "10.19"
+        },
+        {
+            "itemId": "784760141781",
+            "cityName": "温州站",
+            "showTime": "06.08"
+        },
+        {
+            "itemId": "779252622054",
+            "cityName": "厦门站",
+            "showTime": "06.22"
+        },
+        {
+            "itemId": "782023592460",
+            "cityName": "广州站",
+            "showTime": "07.27"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=779252622054"
+}

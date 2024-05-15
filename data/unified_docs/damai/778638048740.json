@@ -1,0 +1,49 @@
+{
+    "platform": "大麦",
+    "project_id": "778638048740",
+    "project_name": "肆囍乐队「GAME BOY」二O二四新专巡演南昌站",
+    "category_name": "演唱会",
+    "artists": [
+        "肆囍乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.16 周日 20:00",
+    "session_time": [
+        "06.16 周日"
+    ],
+    "price": "128-228",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南昌",
+    "venue_name": "瓦肆 VAS NANCHANG",
+    "venue_info": {
+        "venue_address": "江西省南昌市青山湖区上海路543号520Park文创公园21#01区域",
+        "lng": 115.942663,
+        "lat": 28.668107
+    },
+    "project_info": "肆囍乐队「GAME BOY」二O二四新专巡演南昌站\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01RApG7e2GdSaL1FPyo_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ZQMBUx2GdSa9747zX_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "62",
+        "wantNumStr": "62",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "778638048740",
+            "cityName": "南昌站",
+            "showTime": "06.16"
+        },
+        {
+            "itemId": "775118176191",
+            "cityName": "宁波站",
+            "showTime": "06.30"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=778638048740"
+}

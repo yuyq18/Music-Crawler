@@ -1,0 +1,43 @@
+{
+    "platform": "纷玩岛",
+    "project_id": "690",
+    "project_name": "【成都】2024李宗盛『有歌之年』巡回演唱会-成都站",
+    "category_name": "演唱会",
+    "artists": [
+        "李宗盛"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024/05/17-2024/05/19",
+    "session_time": [
+        "2024-05-17",
+        "2024-05-19"
+    ],
+    "price": "580.0-1680.0",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "成都市",
+    "venue_name": "东安湖体育公园多功能体育馆",
+    "venue_info": {
+        "venue_address": "四川省成都市龙泉驿区体育公园路22号",
+        "lng": 104.24135431185368,
+        "lat": 30.596080345639045
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://assetstest.livelab.com.cn/images/cloud/1709866232125.主海报750X1058px 拷贝.jpg",
+        "https://livelabassets.livelab.com.cn/images/rich/text/1710343171628.0176.png",
+        "https://livelabassets.livelab.com.cn/images/rich/text/1709715919850.7512.png",
+        "https://livelabassets.livelab.com.cn/images/rich/text/1709715936076.1318.png",
+        "https://livelabassets.livelab.com.cn/images/rich/text/1709715957001.0007.png",
+        "https://livelabassets.livelab.com.cn/images/rich/text/1709715982473.6223.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": ""
+}

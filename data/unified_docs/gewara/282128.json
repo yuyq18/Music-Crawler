@@ -1,0 +1,37 @@
+{
+    "platform": "猫眼",
+    "project_id": "282128",
+    "project_name": "哆咪音乐节济南站",
+    "category_name": "音乐节",
+    "artists": [],
+    "show_status": "演出延期中",
+    "show_time": "2023.10.14 / 10.15",
+    "session_time": [
+        "2023.10.14 ",
+        " 10.15"
+    ],
+    "price": "189-239",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "济南",
+    "venue_name": "哆咪音乐节",
+    "venue_info": {
+        "venue_address": "圣井街道世纪大道11777号花YOUNGPARK(香草园)",
+        "lng": "117.386632",
+        "lat": "36.696767"
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://p0.meituan.net/myvideodistribute/b51250e71e1adbc50231f3c404678e19815492.jpg",
+        "https://p0.meituan.net/myvideodistribute/fe4160b24c6e47dffb05ecc3f45baca0190457.jpg?w=600&h=900"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/282128"
+}

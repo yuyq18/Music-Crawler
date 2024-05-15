@@ -1,0 +1,64 @@
+{
+    "platform": "大麦",
+    "project_id": "772411486400",
+    "project_name": "2024李宗盛「有歌之年」巡回演唱会-南京站",
+    "category_name": "演唱会",
+    "artists": [
+        "李宗盛"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.05.24-05.26",
+    "session_time": [
+        "05.24 周五",
+        "05.26 周日"
+    ],
+    "price": "580-1980",
+    "isGeneralAgent": "true",
+    "isHotProject": "true",
+    "rating": null,
+    "city_name": "南京",
+    "venue_name": "南京青奥体育公园体育馆",
+    "venue_info": {
+        "venue_address": "南京市浦口区江浦街道横江大道与海滨路交叉口东北",
+        "lng": 118.664022,
+        "lat": 32.049818
+    },
+    "project_info": "\n有盛之年，如歌行板; 有歌之年，夫復何求…\n \n\n李宗盛来见老朋友了!\n李宗盛是华语乐坛最具实力与影响力的音乐制作人、词曲创作者、歌者。\n创作制作300余首歌曲，合作近70位歌手艺人，脍炙人口的作品在数以亿计的华人世界里传唱半世纪。\n\n \n李宗盛曾说:“做为一个音乐人，很开心我写的东西能感动你，谢谢大家喜欢我写的歌，从小李的青春年少，听到我的两鬓斑白。所以，我肯定有更珍贵的东西还与你们分享。无以为谢，唯有写歌，给在乎自己的人，和自己在乎的人听。”\n\n \n2024李宗盛“有歌之年”演唱会，精选李宗盛音乐生涯经典曲目，带你重回每一首创作的当下，一窥音乐制作历程，以及音符背后不为人知的故事。“每一个人的心里，都有一首李宗盛”，一起来聆听用人生写的歌!\n\n \n对于现场观众所携带物品中的禁止和限制带入场物品现做详细说明如下:\n1.禁止携带旗帜、旗杆、自拍杆(包括任何伸缩旗帜及旗杆)。\n2.禁止携带横幅、条幅。\n3.禁止携带灯牌、灯幅等应援物品。\n4.禁止携带使用激光笔、投影设备。\n5.禁止携带打火机。\n6.禁止携带冷焰火。\n7.禁止管制刀具。\n8.禁止携带枪支弹药。\n9.禁止携带易燃易爆危险物品。10.禁止携带宠物。\n11.禁止携带高度酒精类饮品。12.禁止携带航拍器。13.禁止携带瓶装饮料。\n14.禁止携带使用长柄雨伞\n15.禁止携带充气物(如气球，气棒等)。\n16.禁止携带大件行李:尺寸超过50cmX36cm的行李箱禁止。",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01HlPBM92GdSZekXHHc_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01FPN6eN2GdSZgg9DJe_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01exjCQf2GdSZizqViy_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Vxf6Pz2GdSZizqugr_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN017J1twP2GdSZgaiTKa_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01hwGaXq2GdSZhK3X8v_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "83120",
+        "wantNumStr": "8.3万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过91%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "772401934432",
+            "cityName": "成都站",
+            "showTime": "05.17-05.19"
+        },
+        {
+            "itemId": "772411486400",
+            "cityName": "南京站",
+            "showTime": "05.24-05.26"
+        },
+        {
+            "itemId": "772249780344",
+            "cityName": "武汉站",
+            "showTime": "05.31-06.02"
+        },
+        {
+            "itemId": "782038199306",
+            "cityName": "中国澳门站",
+            "showTime": "06.07"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=772411486400"
+}

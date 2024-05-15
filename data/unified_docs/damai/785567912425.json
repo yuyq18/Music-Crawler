@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "785567912425",
+    "project_name": "【不识时务】李智&乐队2024新专辑巡演 郑州站",
+    "category_name": "演唱会",
+    "artists": [
+        "李智&乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.09 周日 20:00",
+    "session_time": [
+        "06.09 周日"
+    ],
+    "price": "90",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "郑州",
+    "venue_name": "7LIVEHOUSE",
+    "venue_info": {
+        "venue_address": "文化路金水路交叉口东北角中州索克影城内二楼",
+        "lng": 113.668021559715,
+        "lat": 34.7650867310337
+    },
+    "project_info": "\n\n\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01zSfnjT2GdSanA0FCE_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01N1Wx832GdSaoSwY2P_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01xwGZry2GdSaje7djN_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN010b8wMH2GdSalKyk8V_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01LqTIRx2GdSajeB7vH_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "785567912425",
+            "cityName": "郑州站",
+            "showTime": "06.09"
+        },
+        {
+            "itemId": "786720611757",
+            "cityName": "杭州站",
+            "showTime": "06.19"
+        },
+        {
+            "itemId": "785575349369",
+            "cityName": "苏州站",
+            "showTime": "06.21"
+        },
+        {
+            "itemId": "785788097237",
+            "cityName": "南京站",
+            "showTime": "06.22"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=785567912425"
+}

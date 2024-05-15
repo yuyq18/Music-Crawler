@@ -1,0 +1,74 @@
+{
+    "platform": "大麦",
+    "project_id": "777893529048",
+    "project_name": "M-LAB呈献｜曹方「春夏碎步走」2024全国巡演·武汉站",
+    "category_name": "演唱会",
+    "artists": [
+        "曹方"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.05.17 周五 20:30",
+    "session_time": [
+        "05.17 周五"
+    ],
+    "price": "165",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "武汉",
+    "venue_name": "VOX LIVEHOUSE 武昌店",
+    "venue_info": {
+        "venue_address": "武汉市洪山区光谷步行街意大利风情街5号楼负1楼",
+        "lng": 114.407552,
+        "lat": 30.501782
+    },
+    "project_info": "\n曹方「春夏碎步走」",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01D17fMt2GdSaZVwUOo_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01CTLzYs2GdSaGwRHFd_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "394",
+        "wantNumStr": "394",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "778063714208",
+            "cityName": "西安站",
+            "showTime": "05.15"
+        },
+        {
+            "itemId": "777893529048",
+            "cityName": "武汉站",
+            "showTime": "05.17"
+        },
+        {
+            "itemId": "778044552976",
+            "cityName": "杭州站",
+            "showTime": "05.19"
+        },
+        {
+            "itemId": "778076793491",
+            "cityName": "苏州站",
+            "showTime": "05.23"
+        },
+        {
+            "itemId": "778043371556",
+            "cityName": "南京站",
+            "showTime": "05.26"
+        },
+        {
+            "itemId": "777861982820",
+            "cityName": "上海站",
+            "showTime": "06.01"
+        },
+        {
+            "itemId": "777894641317",
+            "cityName": "北京站",
+            "showTime": "06.08"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=777893529048"
+}

@@ -1,0 +1,76 @@
+{
+    "platform": "大麦",
+    "project_id": "783398423583",
+    "project_name": "《沐云华·次元狂想》经典动漫二次元ACG音乐会-琥珀琴师x Mona x 云小鱼",
+    "category_name": "演唱会",
+    "artists": [
+        "「沐云华」跨界乐团"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.05.31 周五 20:00",
+    "session_time": [
+        "05.31 周五"
+    ],
+    "price": "188-399",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "西安",
+    "venue_name": "西演SPACE·塞斯拾陆",
+    "venue_info": {
+        "venue_address": "西安市新城区太华南路251号",
+        "lng": 108.974451,
+        "lat": 34.28454
+    },
+    "project_info": "\n《沐云华·次元狂想》经典动漫二次元ACG音乐会-琥珀琴师x Mona x 云小鱼\n\n\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01unTU2o2GdSaUGrs76_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01UuLhKQ2GdSaEp2l5g_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01cpWMrc2GdSaALBo2W_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN015hC8j12GdSaFoy2c8_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "194",
+        "wantNumStr": "194",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "771391645057",
+            "cityName": "杭州站",
+            "showTime": "05.18"
+        },
+        {
+            "itemId": "773685657776",
+            "cityName": "武汉站",
+            "showTime": "05.19"
+        },
+        {
+            "itemId": "783398423583",
+            "cityName": "西安站",
+            "showTime": "05.31"
+        },
+        {
+            "itemId": "777443634417",
+            "cityName": "郑州站",
+            "showTime": "06.10"
+        },
+        {
+            "itemId": "785765440434",
+            "cityName": "深圳站",
+            "showTime": "06.16"
+        },
+        {
+            "itemId": "779807012921",
+            "cityName": "无锡站",
+            "showTime": "06.22"
+        },
+        {
+            "itemId": "784695018868",
+            "cityName": "苏州站",
+            "showTime": "06.23"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=783398423583"
+}

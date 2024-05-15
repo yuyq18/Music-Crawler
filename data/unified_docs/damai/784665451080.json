@@ -1,0 +1,69 @@
+{
+    "platform": "大麦",
+    "project_id": "784665451080",
+    "project_name": "苏运莹「圆与自然」2024个人音乐会 武汉站",
+    "category_name": "演唱会",
+    "artists": [
+        "苏运莹"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.07.06 周六 20:00",
+    "session_time": [
+        "07.06 周六"
+    ],
+    "price": "288-588",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "武汉",
+    "venue_name": "不晚IN TIME LIVE",
+    "venue_info": {
+        "venue_address": "武汉市汉阳区汉阳造文化创意园46栋",
+        "lng": 114.26832,
+        "lat": 30.557467
+    },
+    "project_info": "苏运莹「圆与自然」2024个人音乐会 武汉站\n\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN010R3uLr2GdSakv8CJx_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01laseRx2GdSagkpvtv_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "1790",
+        "wantNumStr": "1790",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "786853989766",
+            "cityName": "杭州站",
+            "showTime": "05.31"
+        },
+        {
+            "itemId": "775648123608",
+            "cityName": "杭州站",
+            "showTime": "06.01"
+        },
+        {
+            "itemId": "773654451955",
+            "cityName": "北京站",
+            "showTime": "06.22"
+        },
+        {
+            "itemId": "784665451080",
+            "cityName": "武汉站",
+            "showTime": "07.06"
+        },
+        {
+            "itemId": "784239078529",
+            "cityName": "济南站",
+            "showTime": "07.13"
+        },
+        {
+            "itemId": "786776602810",
+            "cityName": "深圳站",
+            "showTime": "07.20"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=784665451080"
+}
