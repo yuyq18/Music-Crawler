@@ -1,0 +1,24 @@
+name: Run Damai Crawler
+
+on:
+  schedule:
+  - cron: "0 18 * * *"
+jobs:
+  run_crawler:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3  # 用于将github代码仓库的代码拷贝到工作目录中
+  
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+  
+      - name: Install requirements.txt
+        run: |
+          pip install -r ./requirements.txt 
+  
+      - name: Run main.py
+        run: python main.py
+  
