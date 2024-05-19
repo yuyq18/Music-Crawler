@@ -1,0 +1,456 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "852",
+    "cityname": "北京",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_795996248819",
+    "imgurl": "-629972104",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "高校乐队联盟第一季",
+    "nameNoHtml": "高校乐队联盟第一季",
+    "price": "59.0",
+    "price_str": "59",
+    "pricehigh": "59.0",
+    "privilegeTags": "[]",
+    "projectid": "795996248819",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.05.19 周日 19:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "IMAGINE 想象空间",
+    "venuecity": "北京",
+    "venueid": "3748001",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01GjHdBf2GdSbGfBX3L_!!2251059038.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "795996248819",
+                    "itemName": "【北京】高校乐队联盟第一季",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "110100",
+                    "cityName": "北京市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01GjHdBf2GdSbGfBX3L_!!2251059038.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01GjHdBf2GdSbGfBX3L_!!2251059038.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.05.19 周日 19:00",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：成都太合乐动科技有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：成都太合乐动科技有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "852",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "活动介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"font-weight: 400;\"><span style=\"font-size: 24px;\">乌顶乐团</span></p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01GTXoU12GdSbFgOoQY_!!2251059038.png\" alt=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"font-weight: 400;\">成立时间：2023年5月26日</p>\n<p style=\"font-weight: 400;\">现任成员介绍：</p>\n<p style=\"font-weight: 400;\">马敬安 吉他/噪声</p>\n<p style=\"font-weight: 400;\">李昂 贝斯/噪声</p>\n<p style=\"font-weight: 400;\">张新宇 合成器/键盘/音效</p>\n<p style=\"font-weight: 400;\">嘎令夫 鼓/打击乐</p>\n<p style=\"font-weight: 400;\">冉皓月 吉他/人声</p>\n<p style=\"font-weight: 400;\">乐队风格：</p>\n<p style=\"font-weight: 400;\">风格以布鲁斯硬摇滚，噪声盯鞋，融合雷鬼放克为主，现场营造丰富的实验性音效氛围。成员互为手足，心有灵犀，乐团以擅长复杂多变的现场即兴和噪声实验音乐为听众津津乐道。</p>\n<p style=\"font-weight: 400;\">曾参与华北电力大学、中央民族大学、北京语言大学、首届米象大学生音乐节等多场音乐节，乐团成员也会经常在音乐酒吧演出，热衷于与听众共同构建无边界摇滚音乐现场。</p>\n<p style=\"font-weight: 400;\">代表原创作品：</p>\n<p style=\"font-weight: 400;\">【模糊】【窥探】【一天】</p>\n<p style=\"font-weight: 400;\">【听见】【等等】等等 更多作品及改编版本敬请期待现场……</p>\n<p style=\"font-weight: 400;\">預告：</p>\n<p style=\"font-weight: 400;\">純音樂 請欣賞</p>\n<p style=\"font-weight: 400;\">---------------------------------------------------------------------------------------------------------------------------------------------------------------</p>\n<h2>玻色子乐队</h2>\n<h2><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01YBgoLm2GdSbA9CzuU_!!2251059038.png\" alt=\"\" width=\"640\" height=\"640\" damai_width=\"null\" damai_height=\"null\"></h2>\n<p style=\"font-weight: 400;\">玻色子被称为“上帝粒子”。物质的基本结构是费米子，而物质之间的基本相互作用却由玻色子来传递。在挤压和引力逐渐增大的日子里，对事物存在的讨论塌缩成了黑洞般的虚无，而经历上的紧密与智识上的连接成为了更为重要的力量。&nbsp; 物理学的概念与音乐的表达形成了一个有张力的互文，玻色子乐队也希望对外运用音乐传递想法，对内凝聚各形各色的人。</p>\n<p style=\"font-weight: 400;\">&nbsp;</p>\n<p style=\"font-weight: 400;\"><strong>乐队成员：</strong></p>\n<p style=\"font-weight: 400;\">苏子涵：主　唱</p>\n<p style=\"font-weight: 400;\">谢之桓：贝斯手</p>\n<p style=\"font-weight: 400;\">李鸣镝：鼓　手</p>\n<p style=\"font-weight: 400;\">李镈言：吉他手</p>\n<p style=\"font-weight: 400;\">陈文葳：吉他手</p>\n<p style=\"font-weight: 400;\">周晋卿：键盘手</p>\n<p style=\"font-weight: 400;\">---------------------------------------------------------------------------------------------------------------------------------------------------------------</p>\n<h2>沙航没有乐队</h2>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01DE1usp2GdSbFgP53G_!!2251059038.png\" alt=\"\" width=\"640\" height=\"853\" damai_width=\"null\" damai_height=\"null\"></p>\n<h2><span style=\"font-size: 14px;\">沙航没有乐队，那我们是什么呢？这是个问题。现场见！别坐下！摇起来！</span></h2>\n<p style=\"font-weight: 400;\">乐队成员</p>\n<p style=\"font-weight: 400;\">覃睿东：主　唱/吉他手</p>\n<p style=\"font-weight: 400;\">章修惠：贝斯手</p>\n<p style=\"font-weight: 400;\">谭钰恒：鼓　手</p>\n<p style=\"font-weight: 400;\">林&nbsp; 简：吉他手</p>\n<p style=\"font-weight: 400;\">---------------------------------------------------------------------------------------------------------------------------------------------------------------</p>\n<h2>第贰场梦乐队</h2>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN011vQZ0j2GdSbFgRtf0_!!2251059038.png\" alt=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<h2><span style=\"font-size: 14px;\">第贰场梦是一支很年轻的队，成立三年，简历依旧还是一片空白，但他们的目标也就是让写简介的人打字想上三天三夜也打不出来，他们的风格至今没摸清，融合与创造才是他们的音乐信条。</span></h2>\n<p style=\"font-weight: 400;\">乐队成员：</p>\n<p style=\"font-weight: 400;\">主　唱：蔡天航</p>\n<p style=\"font-weight: 400;\">贝斯手：林&nbsp; 薛</p>\n<p style=\"font-weight: 400;\">鼓　手：赵志翔</p>\n<p style=\"font-weight: 400;\">吉他手：刘津易</p>\n<p style=\"font-weight: 400;\">键盘手：樊&nbsp; 昊</p>\n<p style=\"font-weight: 400;\">---------------------------------------------------------------------------------------------------------------------------------------------------------------</p>\n<p style=\"font-weight: 400;\"><strong><span style=\"font-size: 24px;\">Rip Tip</span></strong></p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01i830GA2GdSbFgRQY8_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"569\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"font-weight: 400;\">主唱：Jade贝斯：Hulk鼓手：景天主音吉他：Alive节奏吉他：</p>\n<p style=\"font-weight: 400;\">ForestRip Tip-撕裂尖端乐队成立于2023年末，Rip Tip的尖锐包裹的永远都是一颗多愁善感的心脏，不过我们总能正视它。不断探索就是我们的风格，这些都会融合进我们对于过去的教训，今日的茫然以及未来的猜想。话不多说，我们现场见！</p>\n<p style=\"font-weight: 400;\">------------------------------------------------------------------------------------------------------------------------------------------------------------</p>\n<div>\n<div>&nbsp;</div>\n</div>\n<p><span style=\"font-size: 24px;\">七月新社</span></p>\n<p><span style=\"font-size: 24px;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN0125nkll2GdSbDIpRzs_!!2251059038.png\" alt=\"\" damai_width=\"null\" damai_height=\"null\"></span></p>\n<p>七月新社，来自北京的多校联合摇滚类社团，主要社员来自北京林业大学。社团成立于2023年7月，风格以Pop Rock为基底融合了City Pop、Electronic、Punk等元素。七月代表新的希望与转机，为青年一代和自由发声。</p>\n<p style=\"font-weight: 400;\">&nbsp;</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "",
+                            "socialCreditCode": "",
+                            "legalPerson": "",
+                            "regCapStr": "",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "",
+                            "entAddress": ""
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/港澳居民来往内地通行证/护照/身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "以页面为准"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "100"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "3748001",
+                    "venueName": "IMAGINE 想象空间",
+                    "venueProvinceName": "北京",
+                    "venueCityName": "北京市",
+                    "lng": 116.353777,
+                    "lat": 40.001783,
+                    "venueAddr": "北京市海淀区学清路38号BOM嘻番里305",
+                    "showCountText": "共有10个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D795996248819%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1716089373000",
+                "sellStartTimeStr": "05月19日 11:29",
+                "priceRange": "¥59",
+                "performBases": [
+                    {
+                        "name": "05.19 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1716048000000",
+                        "performs": [
+                            {
+                                "performId": "214538145",
+                                "performName": "2024-05-19 周日 19:00",
+                                "itemId": "795996248819",
+                                "projectId": "220375030",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1716116400000",
+                                "performTime": "2024.05.19 19:00",
+                                "performStartDate": "2024-05-19",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "106881",
+                    "120577",
+                    "123905",
+                    "385",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "260994",
+                    "6658",
+                    "28802",
+                    "215809",
+                    "221697",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "354817",
+                    "388353",
+                    "286337",
+                    "303617",
+                    "3974",
+                    "8454",
+                    "8838",
+                    "459265",
+                    "523649",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "409985",
+                    "417537",
+                    "599041",
+                    "8843",
+                    "9099",
+                    "8459",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9355",
+                    "9867",
+                    "9995",
+                    "12171",
+                    "14731",
+                    "16267",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "82369",
+                    "89665",
+                    "91585",
+                    "28353",
+                    "36417",
+                    "37569",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "260033",
+                    "137281",
+                    "141121",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "350017",
+                    "360001",
+                    "266817",
+                    "303553",
+                    "303681",
+                    "1478",
+                    "4166",
+                    "12998",
+                    "478785",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "591425",
+                    "602561",
+                    "7371",
+                    "1611",
+                    "2507",
+                    "4939",
+                    "14155",
+                    "19403",
+                    "23115",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "31947",
+                    "33739",
+                    "2874946",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7959962488/2/795996248819.jpg"
+            }
+        }
+    }
+}

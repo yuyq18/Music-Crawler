@@ -1,0 +1,419 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1209",
+    "cityname": "天津",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_796765310901",
+    "imgurl": "-622281483",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "[限时早鸟五折]「5.21特别版萝卜现场」“海河乐夏之夜”演唱会——爱在夏天，心动狂欢！",
+    "nameNoHtml": "[限时早鸟五折]「5.21特别版萝卜现场」“海河乐夏之夜”演唱会——爱在夏天，心动狂欢！",
+    "price": "59.0",
+    "price_str": "59-380",
+    "pricehigh": "380.0",
+    "privilegeTags": "[]",
+    "projectid": "796765310901",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.05.21 周二 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "萝卜radio新艺术空间",
+    "venuecity": "天津",
+    "venueid": "6774006",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01wyX9tJ2GdSbF2iUep_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "796765310901",
+                    "itemName": "【天津】[限时早鸟五折]「5.21特别版萝卜现场」“海河乐夏之夜”演唱会——爱在夏天，心动狂欢！",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "120100",
+                    "cityName": "天津市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01wyX9tJ2GdSbF2iUep_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01wyX9tJ2GdSbF2iUep_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.05.21 周二 19:30",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：天津萝博餐饮文化有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：天津萝博餐饮文化有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1209",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><title></title><br></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i60.79dd6b72CbYVYG\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01FaZPI92GdSbHafxFy_!!2251059038.jpg\" width=\"1000\" height=\"1347\" damai_width=\"1000\" damai_height=\"1347\"></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i132.4fd96b72zVapaT\" style=\"text-align: center;\"><span><strong>夏日重启 浪漫无限</strong></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i63.79dd6b72CbYVYG\"><span><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN0117NLFa2GdSbEeJ9ho_!!2251059038.jpg\" width=\"554\" height=\"310\" damai_width=\"554\" damai_height=\"310\"></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i63.79dd6b72CbYVYG\" style=\"text-align: center;\"><span><strong>萝卜radio带着乐夏主题</strong></span></p><p style=\"text-align: center;\"><span><strong>和大家一起过521啦！</strong></span></p><p style=\"text-align: center;\"><span><strong>在这个特别的日子里</strong></span></p><p style=\"text-align: center;\"><span><strong>带上你的另一半一起牵手合唱</strong></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i127.79dd6b72CbYVYG\" style=\"text-align: center;\"><span><strong>在喧闹的环境中拥吻</strong></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i68.79dd6b72CbYVYG\" style=\"text-align: center;\"><span><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01X3qbhg2GdSbFPAsMn_!!2251059038.jpg\" width=\"500\" height=\"375\" damai_width=\"500\" damai_height=\"375\"></span><br><span data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i71.79dd6b72CbYVYG\"><strong>夏天本就是个升温的季节</strong></span></p><p style=\"text-align: center;\"><span><strong>在乐队帅哥美女的加持下</strong></span></p><p style=\"text-align: center;\"><span><strong>萝卜也会成为暧昧期的神奇催化剂</strong></span></p><p style=\"text-align: center;\"><span><strong>在音乐中眼神逐渐拉丝</strong></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i125.79dd6b72CbYVYG\" style=\"text-align: center;\"><span><strong>小鹿乱撞的心跳与萝卜鼓手的音效共振</strong></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i72.79dd6b72CbYVYG\" style=\"text-align: center;\"><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01LH2qwS2GdSbD2ifE3_!!2251059038.jpg\" width=\"603\" height=\"603\" damai_width=\"603\" damai_height=\"603\"></span><br><strong><span style=\"font-family: inherit;\">萝卜radio带来经典乐夏曲目</span><br></strong></p><p style=\"text-align: center;\"><span><strong>回味曾经的夏天</strong></span></p><p style=\"text-align: center;\"><span><strong>重温那刻在身体记忆里的热情与浪漫</strong></span></p><p style=\"text-align: center;\"><span><strong>留下专属于你们在萝卜的回忆！</strong></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i75.79dd6b72CbYVYG\" style=\"text-align: center;\"><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01MAWBFu2GdSbEuBseG_!!2251059038.jpg\" width=\"800\" height=\"448\" damai_width=\"800\" damai_height=\"448\"></span><br></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i80.79dd6b72CbYVYG\"><strong><span>歌手介绍</span></strong></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i80.79dd6b72CbYVYG\" style=\"text-align: center;\"><strong><span><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01b0q6Ii2GdSbFKcqUp_!!2251059038.png\" width=\"397\" height=\"548\" damai_width=\"397\" damai_height=\"548\"></span></strong><span data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i83.79dd6b72CbYVYG\"><strong>徐真</strong></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i80.79dd6b72CbYVYG\"><span data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i83.79dd6b72CbYVYG\">磁性女中音，超强爆发力，对每首歌曲都有自己理解的女主唱。</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i79.79dd6b72CbYVYG\"><strong><span data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i84.79dd6b72CbYVYG\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01fp7XW02GdSb7EZhE7_!!2251059038.png\" width=\"440\" height=\"547\" damai_width=\"440\" damai_height=\"547\">&nbsp;</span></strong><br></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i121.79dd6b72CbYVYG\" style=\"text-align: center;\"><span data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i120.79dd6b72CbYVYG\"><strong>彭佳</strong></span></p><p><span data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i120.79dd6b72CbYVYG\">2014年武汉好声音10强，会弹吉他的甜美女主唱。</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i88.79dd6b72CbYVYG\"><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01SW6seZ2GdSbHam8LQ_!!2251059038.png\" width=\"425\" height=\"638\" damai_width=\"425\" damai_height=\"638\"></span><br></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i118.79dd6b72CbYVYG\" style=\"text-align: center;\"><span data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i117.79dd6b72CbYVYG\"><strong>张也</strong></span></p><p><span data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i117.79dd6b72CbYVYG\">乐队“疯”度担当用内心感受艺术用生命诠释作品毫无保留的激情演绎</span></p><p><span>唤醒你体内的狂野因子</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i92.79dd6b72CbYVYG\" style=\"text-align: center;\"><span><strong>杜比全景声/沉浸式体验</strong></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i95.79dd6b72CbYVYG\"><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01A9OVqZ2GdSbFPJ00X_!!2251059038.png\" width=\"1269\" height=\"952\" damai_width=\"1269\" damai_height=\"952\"></span><br></p><p style=\"text-align: center;\"><span><strong>由世界顶级电影混音棚标准设计制作</strong></span></p><p style=\"text-align: center;\"><span><strong>以【DolbyAtmos】、【GENELEC】、</strong></span></p><p style=\"text-align: center;\"><span><strong>【WavesAu-dio】联合全新打造的</strong></span></p><p style=\"text-align: center;\"><span><strong>【LOBO Radio2.0波光粼粼臻享杜比全景声音乐视界】</strong></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i112.79dd6b72CbYVYG\" style=\"text-align: center;\"><span><strong>现已全面建立完成并交付使用</strong></span></p><p style=\"text-align: center;\"><span><strong>在这里，你可以享受到世界级的沉浸式声音体验</strong></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i113.79dd6b72CbYVYG\" style=\"text-align: center;\"><span><strong>和爱人一起来一场听觉盛宴！</strong></span></p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i115.79dd6b72CbYVYG\"><span data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i109.79dd6b72CbYVYG\"><strong>曲目预告</strong></span></p><p style=\"text-align: center;\"><span><strong data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i116.79dd6b72CbYVYG\">《火车驶向云外 梦安魂于九霄》</strong></span></p><p style=\"text-align: center;\"><span><strong>《凄美地》</strong></span></p><p style=\"text-align: center;\"><span><strong>《河流》</strong></span></p><p style=\"text-align: center;\"><span><strong>《公路之歌》</strong></span></p><p style=\"text-align: center;\"><span><strong>《西湖》</strong></span></p><p style=\"text-align: center;\"><span><strong>《你要如何我们就如何》</strong></span></p><p style=\"text-align: center;\"><span><strong>《完美夏天》</strong></span></p><p style=\"text-align: center;\"><span><strong>《鲜花》</strong></span></p><p style=\"text-align: center;\"><span><strong>《我常常有一种感觉》</strong></span></p><p style=\"text-align: center;\"><span><strong>（萝卜小贴士：更多安可歌单现场揭晓）</strong></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i98.79dd6b72CbYVYG\"><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01JvTlC22GdSbIZCqDS_!!2251059038.png\" width=\"499\" height=\"685\" damai_width=\"499\" damai_height=\"685\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i105.79dd6b72CbYVYG\"></span></p><p style=\"text-align: center;\"><span><strong>这样的日子</strong></span></p><p style=\"text-align: center;\"><span><strong>就该去海河边听音乐吹着风</strong></span></p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i107.79dd6b72CbYVYG\"><span><strong>在这个夏天的夜晚</strong></span></p><p style=\"text-align: center;\"><span><strong>在浪漫的海河边</strong></span></p><p style=\"text-align: center;\"><span><strong>&nbsp;来萝卜radio与你的恋人相见</strong></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i102.79dd6b72CbYVYG\" style=\"text-align: center;\"><span><strong>体验一场前所未有的甜蜜之旅！</strong></span></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "天津萝博餐饮文化有限公司",
+                            "socialCreditCode": "91120101MA07C9YBXQ",
+                            "legalPerson": "胡潇莺",
+                            "regCapStr": "100万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(法人独资)",
+                            "entAddress": "天津市和平区小白楼街解放北路与赤峰道交口津湾广场6号楼首层1E-26号"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "6774006",
+                    "venueName": "萝卜radio新艺术空间",
+                    "venueProvinceName": "天津",
+                    "venueCityName": "天津市",
+                    "lng": 117.211028,
+                    "lat": 39.132054,
+                    "venueAddr": "天津市和平区津湾广场6号楼1层1E-26号",
+                    "showCountText": "共有2个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D796765310901%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1715853096000",
+                "sellStartTimeStr": "05月16日 17:51",
+                "priceRange": "¥59-¥380",
+                "performBases": [
+                    {
+                        "name": "05.21 周二",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1716220800000",
+                        "performs": [
+                            {
+                                "performId": "214539214",
+                                "performName": "2024-05-21 周二 19:30",
+                                "itemId": "796765310901",
+                                "projectId": "220351045",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1716291000000",
+                                "performTime": "2024.05.21 19:30",
+                                "performStartDate": "2024-05-21",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "106881",
+                    "120577",
+                    "123905",
+                    "385",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "260994",
+                    "6658",
+                    "28802",
+                    "215809",
+                    "221697",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "354817",
+                    "388353",
+                    "286337",
+                    "303617",
+                    "3974",
+                    "8454",
+                    "8838",
+                    "459265",
+                    "523649",
+                    "7943",
+                    "361730",
+                    "373634",
+                    "397057",
+                    "409985",
+                    "417537",
+                    "599041",
+                    "8843",
+                    "9099",
+                    "8459",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9355",
+                    "9867",
+                    "9995",
+                    "12171",
+                    "14731",
+                    "16267",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "82369",
+                    "89665",
+                    "91585",
+                    "28353",
+                    "36417",
+                    "37569",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "260033",
+                    "137281",
+                    "141121",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "350017",
+                    "360001",
+                    "266817",
+                    "303553",
+                    "303681",
+                    "1478",
+                    "4166",
+                    "12998",
+                    "478785",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "591425",
+                    "602561",
+                    "7371",
+                    "1611",
+                    "2507",
+                    "4939",
+                    "14155",
+                    "19403",
+                    "23115",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "31947",
+                    "33739",
+                    "2874946",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7967653109/2/796765310901.jpg"
+            }
+        }
+    }
+}

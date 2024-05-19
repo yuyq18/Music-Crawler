@@ -1,0 +1,71 @@
+{
+    "platform": "大麦",
+    "project_id": "790333509480",
+    "project_name": "2024当我们谈论爱情梁静茹演唱会-北京站",
+    "category_name": "演唱会",
+    "artists": [
+        "梁静茹"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.07.13 周六 19:00",
+    "session_time": [
+        "07.13 周六"
+    ],
+    "price": "499-1599",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "华熙LIVE·五棵松·场馆",
+    "venue_info": {
+        "venue_address": "北京海淀区复兴路69号",
+        "lng": 116.280709,
+        "lat": 39.9083
+    },
+    "project_info": "2024 - 当我们谈论爱情梁静茹 世界巡回演唱会When We Talk About Love\n四季流转，一期一会全新章节，全新感受\n\n如果爱情是一片荒芜的宇宙，那她的歌声就是宇宙的一抹蓝，染上了天空，染上了海洋，也染进了我们的年月。When we talk about 当我们谈论 —\n是在宇宙里浮沉的一段旋律？还是在冰山里沸腾的一句词？是在湍急的川河中哪一首情歌？还是在长成以后听见的熟悉歌声？\n—2024 爱 love\n\n带着勇气继续出发续，谈 论 爱情",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01zk3m132GdSb9MbKXo_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01HJsIwD2GdSb9Ck8rv_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01xVpqIV2GdSb8pc9ML_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01vdIZ7Z2GdSbAnnXC2_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "23712",
+        "wantNumStr": "2.4万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过79%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "790333509480",
+            "cityName": "北京站",
+            "showTime": "07.13"
+        },
+        {
+            "itemId": "778385824153",
+            "cityName": "青岛站",
+            "showTime": "08.24"
+        },
+        {
+            "itemId": "784320174536",
+            "cityName": "合肥站",
+            "showTime": "09.15"
+        },
+        {
+            "itemId": "782858152029",
+            "cityName": "厦门站",
+            "showTime": "06.22"
+        },
+        {
+            "itemId": "779244090127",
+            "cityName": "佛山站",
+            "showTime": "08.10"
+        },
+        {
+            "itemId": "773686630709",
+            "cityName": "深圳站",
+            "showTime": "05.25"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=790333509480"
+}

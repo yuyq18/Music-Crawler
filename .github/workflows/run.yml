@@ -21,4 +21,10 @@ jobs:
   
       - name: Run main.py
         run: python main.py
+      
+      - name: Run format.py
+        run: python format.py
+
+      - name: Run build_index.py
+        run: python build_index.py
   

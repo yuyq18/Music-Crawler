@@ -1,0 +1,749 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：二手玫瑰、张震岳、郭顶、詹雯婷、队长YoungCaptain、郑润泽、BY2、九宝、声音玩具、木马乐队、黄雨勋、南拳妈妈、PeaceHotel和平饭店乐队、歌之初乐队、柏松",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "451",
+    "cityname": "三明",
+    "couponTags": "[]",
+    "description": "艺人：二手玫瑰、张震岳、郭顶、詹雯婷、队长YoungCaptain、郑润泽、BY2、九宝、声音玩具、木马乐队、黄雨勋、南拳妈妈、PeaceHotel和平饭店乐队、歌之初乐队、柏松",
+    "id": "1_1_797144449092",
+    "imgurl": "-618490102",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "海诗·海峡两岸美食音乐节",
+    "nameNoHtml": "海诗·海峡两岸美食音乐节",
+    "price": "288.0",
+    "price_str": "288-888",
+    "pricehigh": "888.0",
+    "privilegeTags": "[]",
+    "projectid": "797144449092",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.07.05-07.06",
+    "sitestatus": "3",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": "沙县金沙园美食音乐广场",
+    "venuecity": "三明",
+    "venueid": "6752026",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN018ZKZuZ2GdSbFAQxWZ_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "797144449092",
+                    "itemName": "【三明】海诗·海峡两岸美食音乐节",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "350400",
+                    "cityName": "三明市",
+                    "categoryId": "127420006",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN018ZKZuZ2GdSbFAQxWZ_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN018ZKZuZ2GdSbFAQxWZ_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.07.05-07.06",
+                    "showDuration": "约480分钟，仅供参考，最终以现场实际时长为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：福州博世金点房地产营销策划有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：福州博世金点房地产营销策划有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "356",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><strong><span style=\"font-size: 16px;\">海诗制燥·海峡两岸美食音乐节</span></strong></p>\n<p style=\"text-align: center;\">7月5日-6日</p>\n<p style=\"text-align: center;\">福建·沙县金沙园（龙湖公园北侧）</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN018SmCv32GdSbIgnaLa_!!2251059038.png\" width=\"472\" height=\"1055\" damai_width=\"472\" damai_height=\"1055\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">属于这个夏天的印象</p>\n<p style=\"text-align: center;\">是他们的音乐和你的心跳</p>\n<p style=\"text-align: center;\">一起奏响的歌唱</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><strong>【两岸群星 闪耀沙县】</strong></span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01sV01rM2GdSbFQs8Zp_!!2251059038.png\" width=\"864\" height=\"977\" damai_width=\"864\" damai_height=\"977\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>二手玫瑰</strong></p>\n<p style=\"text-align: center;\">从1999年歌唱至今的摇滚乐队</p>\n<p style=\"text-align: center;\">民族摇滚的音乐风格结合惊艳妖娆的表演现场</p>\n<p style=\"text-align: center;\">多元的音乐风格和独特的艺术魅力</p>\n<p style=\"text-align: center;\">成为他们经久不衰的秘籍</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01hMDJGm2GdSbH2hGdW_!!2251059038.png\" width=\"864\" height=\"977\" damai_width=\"864\" damai_height=\"977\"></p>\n<p style=\"text-align: center;\"><strong>张震岳</strong></p>\n<p style=\"text-align: center;\">华语乐团无法忽视的唱作者</p>\n<p style=\"text-align: center;\">本性丰沛的创作天赋</p>\n<p style=\"text-align: center;\">无人超越的真实率真</p>\n<p style=\"text-align: center;\">保持好奇</p>\n<p style=\"text-align: center;\">保持热爱</p>\n<p style=\"text-align: center;\">和音乐一起探索世界</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01vC73pF2GdSbGCAm5e_!!2251059038.png\" width=\"864\" height=\"977\" damai_width=\"864\" damai_height=\"977\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>郭顶</strong></p>\n<p style=\"text-align: center;\">当代唱作人</p>\n<p style=\"text-align: center;\">拥有严肃但却有趣的灵魂</p>\n<p style=\"text-align: center;\">刻画复古与未来的碰撞</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01oF1r3q2GdSbFmGMur_!!2251059038.png\" width=\"864\" height=\"977\" damai_width=\"864\" damai_height=\"977\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Faye詹雯婷</strong></p>\n<p style=\"text-align: center;\">出道即一鸣惊人</p>\n<p style=\"text-align: center;\">唱作型宝藏歌手</p>\n<p style=\"text-align: center;\">多项“最佳”获得者</p>\n<p style=\"text-align: center;\">全方位音乐创作者</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01p40eov2GdSbDY6cQK_!!2251059038.png\" width=\"864\" height=\"977\" damai_width=\"864\" damai_height=\"977\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>队长YoungCaptain</strong></p>\n<p style=\"text-align: center;\">中国内地男歌手、音乐制作人、MV视觉导演</p>\n<p style=\"text-align: center;\">首支个人单曲全球收听超20亿</p>\n<p style=\"text-align: center;\">多场演出远赴海外</p>\n<div class=\"vc-table-field-table-body-col\">\n<div class=\"kuma-uxform-field kuma-uxform-field kuma-textarea-uxform-field vc-textarea-field node_jtdr9hre-lwbx0gkr-node_jtdr9hrl kuma-uxform-field__layout-v kuma-uxform-field__view\" data-spm-anchor-id=\"a1z32v.12552527.0.i2.20a360d5MyruSO\">\n<p style=\"text-align: center;\"><span class=\"view-mode\" data-spm-anchor-id=\"a1z32v.12552527.0.i1.20a360d5MyruSO\">正在进行全新「STARRY U」世界巡演</span></p>\n</div>\n</div>\n<div class=\"vc-table-field-table-body-col\">\n<div class=\"kuma-uxform-field kuma-uxform-field kuma-upload-uxform-field vc-attachment-field node_jtdr9hre-lwbx0gkr-node_jtdr9hrn view-mode empty readOnly kuma-uxform-field__layout-v kuma-uxform-field__view\">&nbsp;</div>\n</div>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01TiixxJ2GdSbFWMIjl_!!2251059038.png\" width=\"865\" height=\"979\" damai_width=\"865\" damai_height=\"979\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>郑润泽</strong></p>\n<p style=\"text-align: center;\">Z世代音乐创作者</p>\n<p style=\"text-align: center;\">先锋歌手</p>\n<p style=\"text-align: center;\">从彷徨与虚空中</p>\n<p style=\"text-align: center;\">洗涤属于听觉与情感的共鸣</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01NdCH0z2GdSbHbnyIp_!!2251059038.png\" width=\"864\" height=\"977\" damai_width=\"864\" damai_height=\"977\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>BY2</strong></p>\n<p style=\"text-align: center;\">新加坡籍华语流行乐双胞胎女子组合</p>\n<p style=\"text-align: center;\">将新声代的勇气与冲劲</p>\n<p style=\"text-align: center;\">幻化成闪耀山海的音乐节拍</p>\n<p style=\"text-align: center;\">唱响属于年轻人不一样的精彩</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01WLTls92GdSbJQAvLO_!!2251059038.png\" width=\"864\" height=\"977\" damai_width=\"864\" damai_height=\"977\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>九宝</strong></p>\n<p style=\"text-align: center;\">来自草原的灵兽</p>\n<p style=\"text-align: center;\">用摇滚阐述梦幻与虚无</p>\n<p style=\"text-align: center;\">带着中国金属乐走向世界的旅者</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01lI9M8a2GdSbGgIeHL_!!2251059038.jpg\" width=\"896\" height=\"1102\" damai_width=\"1302\" damai_height=\"1600\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>声音玩具</strong></p>\n<p style=\"text-align: center;\">成都摇滚历史的开场</p>\n<p style=\"text-align: center;\">不被定义和归类的音乐表达</p>\n<p style=\"text-align: center;\">属于人间观察者的视角</p>\n<p style=\"text-align: center;\">也是人间体验者的告白</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN017PUE0N2GdSbFWPWii_!!2251059038.png\" width=\"864\" height=\"977\" damai_width=\"864\" damai_height=\"977\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>木马乐队</strong></p>\n<p style=\"text-align: center;\">它属于一种音乐美学的呈现</p>\n<p style=\"text-align: center;\">它属于一种续命现场的表达</p>\n<p style=\"text-align: center;\">从《没有声音的房间》到《远道而来的云》</p>\n<p style=\"text-align: center;\">是属于木马乐队的探索与信念</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN011vme7n2GdSbDuf6EA_!!2251059038.png\" width=\"864\" height=\"977\" damai_width=\"864\" damai_height=\"977\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>黄雨勳</strong></p>\n<p style=\"text-align: center;\">中国台湾知名唱作人</p>\n<p style=\"text-align: center;\">周杰伦御用编曲</p>\n<p style=\"text-align: center;\">从幕后到前台</p>\n<p style=\"text-align: center;\">诠释他的音乐理解与梦想</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01raLeOY2GdSbFWSwrd_!!2251059038.png\" width=\"864\" height=\"977\" damai_width=\"864\" damai_height=\"977\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>南拳妈妈</strong></p>\n<p style=\"text-align: center;\">中国台湾流行乐创作演唱团队</p>\n<p style=\"text-align: center;\">多元化的音乐风格</p>\n<p style=\"text-align: center;\">或轻快活泼或抒情动人</p>\n<p style=\"text-align: center;\">用他们的节奏演绎不同的情绪与记忆</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01zDZiZY2GdSbDYEsPW_!!2251059038.png\" width=\"864\" height=\"977\" damai_width=\"864\" damai_height=\"977\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>松柏乐队</strong></p>\n<p style=\"text-align: center;\">真挚且治愈</p>\n<p style=\"text-align: center;\">清澈且明亮</p>\n<p style=\"text-align: center;\">接收一种音乐信号</p>\n<p style=\"text-align: center;\">也在接收一种情感的传递</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01pvZjDu2GdSbDYEbpU_!!2251059038.png\" width=\"864\" height=\"977\" damai_width=\"864\" damai_height=\"977\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>PeaceHotel和平饭店</strong></p>\n<p style=\"text-align: center;\">动感的节奏</p>\n<p style=\"text-align: center;\">复古的浪潮</p>\n<p style=\"text-align: center;\">在不断的推翻与和解中</p>\n<p style=\"text-align: center;\">为时下的年轻音乐找到心的</p>\n<p style=\"text-align: center;\">潮流出口</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01fiNTrC2GdSbHbwplK_!!2251059038.png\" width=\"864\" height=\"977\" damai_width=\"864\" damai_height=\"977\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>歌之初乐队</strong></p>\n<p style=\"text-align: center;\">治愈系摇滚乐队</p>\n<p style=\"text-align: center;\">在对人生的思考里</p>\n<p style=\"text-align: center;\">实现音乐理想</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>【VIP独享 专属权益】</strong></p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN013QlLRO2GdSbDYFsvN_!!2251059038.png\" width=\"633\" height=\"1125\" damai_width=\"633\" damai_height=\"1125\"></p>\n<p style=\"text-align: center;\">不同的音乐人</p>\n<p style=\"text-align: center;\">不同的音乐表达</p>\n<p style=\"text-align: center;\">相同的</p>\n<p style=\"text-align: center;\">是在这个夏天留下的影迹和印象</p>\n<p style=\"text-align: center;\">只在</p>\n<p style=\"text-align: center;\">海诗制燥——海峡两岸美食音乐节</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN017gYG0g2GdSbIr8qPJ_!!2251059038.jpg\" width=\"979\" height=\"1425\" damai_width=\"1432\" damai_height=\"2084\"></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "福州博世金点房地产营销策划有限公司",
+                            "socialCreditCode": "91350102691927525J",
+                            "legalPerson": "鲍燕清",
+                            "regCapStr": "50万人民币",
+                            "opFrom": "",
+                            "opTo": "2029-07-30",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "福州市鼓楼区五凤街道湖景路1号溢景苑5#楼04店面"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭成人票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/外国人永久居留身份证/护照/港澳台居民居住证/身份证/台湾居民来往大陆通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约480分钟，仅供参考，最终以现场实际时长为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约90分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "6752026",
+                    "venueName": "沙县金沙园美食音乐广场",
+                    "venueProvinceName": "福建省",
+                    "venueCityName": "三明市",
+                    "lng": 117.775456,
+                    "lat": 26.424561,
+                    "venueAddr": "福建省三明市沙县区金沙园开发区金福西路",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=797144449092"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D797144449092%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "93302807",
+                        "artistName": "二手玫瑰",
+                        "archives": "由乐手梁龙于1999年建立的一只摇滚乐队。该乐队的音乐结合了东北二人转和现代摇滚乐，以夸张的舞台造型和表演、朴实戏谑的唱词为特色。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1624873577319/1624873577319-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "2065",
+                        "artistName": "张震岳",
+                        "archives": "中国台湾男歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1659430930156/1659430930156-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "147",
+                        "artistName": "郭顶",
+                        "archives": "郭顶，当代唱作人、音乐制作人、华语男歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1659430991075/1659430991075-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "72393",
+                        "artistName": "詹雯婷",
+                        "archives": "创作演唱实力兼具的新天后",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1666327736844/1666327736844-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "9129540124",
+                        "artistName": "队长YoungCaptain",
+                        "archives": "唱作人、音乐制作人、MV导演",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1646880238562/1646880238562-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "2178914126",
+                        "artistName": "郑润泽",
+                        "archives": "华语男歌手 音乐人 2018年明日之子第二季选手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1683512154921/1683512154921-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "4084268987",
+                        "artistName": "BY2",
+                        "archives": "BY2，新加坡籍华语流行乐双胞胎女子组合。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1695713902249/1695713902249-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "11568216",
+                        "artistName": "九宝",
+                        "archives": "",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1596164853005/1596164853005-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "18119",
+                        "artistName": "声音玩具",
+                        "archives": "多元化的音乐元素使声音玩具的音乐总是难以被定义和归类，乐队由主唱吉他手及词曲作者欧珈源1999年创建于四川成都，现正式成员：吉他手 许屹 吉他手 李哲 贝斯手 胡凯 鼓手 王咏",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1707105874220/1707105874220-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "715046762",
+                        "artistName": "木马乐队",
+                        "archives": "木马乐队，是成立于1998年的中国内地摇滚乐队",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1659959859531/1659959859531-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "725368321",
+                        "artistName": "黄雨勋",
+                        "archives": "黄雨勋，周杰伦御用编曲及演唱会音乐总监，经典作品《稻香》、《Mojito》、《最伟大的作品》等等。一位实力非凡的音乐人，他的才华令人惊叹。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1704424977779/1704424977779-main.jpg",
+                        "tag": "演员",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "555688173",
+                        "artistName": "南拳妈妈",
+                        "archives": "南拳妈妈（Nan Quan Mama），中国台湾流行乐创作演唱团体，2004年出道，第一代由钟佐泓、杨瑞代、宋健彰及詹宇豪组成，第二代由宋健彰、詹宇豪、梁心颐、张杰组成，第三代由宋健彰、詹宇豪组成，第四代则由宋健彰、曹景豪、严正岚、洪言翔组成；第五代由宋健彰、曹景豪、陈羽緁、洪言翔组成。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1639985776736/1639985776736-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1356551291",
+                        "artistName": "PeaceHotel和平饭店乐队",
+                        "archives": "和平饭店是一支来自安徽合肥的年轻乐队，被很多人称作是近年来的“安徽之光”。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1623228152155/1623228152155-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1436446058",
+                        "artistName": "歌之初乐队",
+                        "archives": "",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1628496318408/1628496318408-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "72643",
+                        "artistName": "柏松",
+                        "archives": "柏松，中国内地唱作人，歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1577177503398/1577177503398-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "93302807",
+                        "name": "二手玫瑰",
+                        "desc": "由乐手梁龙于1999年建立的一只摇滚乐队。该乐队的音乐结合了东北二人转和现代摇滚乐，以夸张的舞台造型和表演、朴实戏谑的唱词为特色。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1624873577319/1624873577319-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "2065",
+                        "name": "张震岳",
+                        "desc": "中国台湾男歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1659430930156/1659430930156-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "147",
+                        "name": "郭顶",
+                        "desc": "郭顶，当代唱作人、音乐制作人、华语男歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1659430991075/1659430991075-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "72393",
+                        "name": "詹雯婷",
+                        "desc": "创作演唱实力兼具的新天后",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1666327736844/1666327736844-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "9129540124",
+                        "name": "队长YoungCaptain",
+                        "desc": "唱作人、音乐制作人、MV导演",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1646880238562/1646880238562-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "2178914126",
+                        "name": "郑润泽",
+                        "desc": "华语男歌手 音乐人 2018年明日之子第二季选手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1683512154921/1683512154921-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "4084268987",
+                        "name": "BY2",
+                        "desc": "BY2，新加坡籍华语流行乐双胞胎女子组合。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1695713902249/1695713902249-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "11568216",
+                        "name": "九宝",
+                        "desc": "",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1596164853005/1596164853005-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "18119",
+                        "name": "声音玩具",
+                        "desc": "多元化的音乐元素使声音玩具的音乐总是难以被定义和归类，乐队由主唱吉他手及词曲作者欧珈源1999年创建于四川成都，现正式成员：吉他手 许屹 吉他手 李哲 贝斯手 胡凯 鼓手 王咏",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1707105874220/1707105874220-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "715046762",
+                        "name": "木马乐队",
+                        "desc": "木马乐队，是成立于1998年的中国内地摇滚乐队",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1659959859531/1659959859531-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "725368321",
+                        "name": "黄雨勋",
+                        "desc": "黄雨勋，周杰伦御用编曲及演唱会音乐总监，经典作品《稻香》、《Mojito》、《最伟大的作品》等等。一位实力非凡的音乐人，他的才华令人惊叹。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1704424977779/1704424977779-main.jpg",
+                        "tag": "演员",
+                        "type": "1"
+                    },
+                    {
+                        "id": "555688173",
+                        "name": "南拳妈妈",
+                        "desc": "南拳妈妈（Nan Quan Mama），中国台湾流行乐创作演唱团体，2004年出道，第一代由钟佐泓、杨瑞代、宋健彰及詹宇豪组成，第二代由宋健彰、詹宇豪、梁心颐、张杰组成，第三代由宋健彰、詹宇豪组成，第四代则由宋健彰、曹景豪、严正岚、洪言翔组成；第五代由宋健彰、曹景豪、陈羽緁、洪言翔组成。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1639985776736/1639985776736-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1356551291",
+                        "name": "PeaceHotel和平饭店乐队",
+                        "desc": "和平饭店是一支来自安徽合肥的年轻乐队，被很多人称作是近年来的“安徽之光”。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1623228152155/1623228152155-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1436446058",
+                        "name": "歌之初乐队",
+                        "desc": "",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1628496318408/1628496318408-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "72643",
+                        "name": "柏松",
+                        "desc": "柏松，中国内地唱作人，歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1577177503398/1577177503398-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "13387",
+                    "wantNumStr": "1.3万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过71%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN01NhsMhM1EE927ZzCv9_!!6000000000319-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/467946/93589202_1702096962125.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN010Y49WU1vtqZhHVKPn_!!6000000006231-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1126034/225206883_1683950120966.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01gM0Mx11TADscWr8GL_!!6000000002341-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1716027852000",
+                "sellStartTimeStr": "05月18日 18:24",
+                "priceRange": "¥288-¥888",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "106881",
+                    "120577",
+                    "123905",
+                    "385",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "260994",
+                    "6658",
+                    "28802",
+                    "215809",
+                    "221697",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "354817",
+                    "388353",
+                    "286337",
+                    "303617",
+                    "3974",
+                    "8454",
+                    "8838",
+                    "459265",
+                    "523649",
+                    "7943",
+                    "361730",
+                    "373634",
+                    "397057",
+                    "409985",
+                    "417537",
+                    "599041",
+                    "8843",
+                    "9099",
+                    "8459",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9355",
+                    "9867",
+                    "9995",
+                    "12171",
+                    "14731",
+                    "16267",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "82369",
+                    "89665",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "36417",
+                    "37569",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "260033",
+                    "137281",
+                    "141121",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "350017",
+                    "360001",
+                    "266817",
+                    "303553",
+                    "303681",
+                    "1478",
+                    "4166",
+                    "12998",
+                    "478785",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "591425",
+                    "602561",
+                    "7371",
+                    "1611",
+                    "2507",
+                    "4939",
+                    "14155",
+                    "19403",
+                    "23115",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "31947",
+                    "33739",
+                    "2874946",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7971444490/2/797144449092.jpg"
+            }
+        }
+    }
+}

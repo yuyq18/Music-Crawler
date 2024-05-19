@@ -1,0 +1,446 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_797181200967",
+    "imgurl": "-618122583",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "上海｜5.25 国民级“回忆杀”《音乐之声》爵士乐专场，感动你的回忆",
+    "nameNoHtml": "上海｜5.25 国民级“回忆杀”《音乐之声》爵士乐专场，感动你的回忆",
+    "price": "180.0",
+    "price_str": "180",
+    "pricehigh": "180.0",
+    "privilegeTags": "[]",
+    "projectid": "797181200967",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.05.25 周六 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "Blue Note Shanghai",
+    "venuecity": "上海",
+    "venueid": "2280002",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01iqH7Yx2GdSbFnNa8C_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "797181200967",
+                    "itemName": "【上海】上海｜5.25 国民级“回忆杀”《音乐之声》爵士乐专场，感动你的回忆",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01iqH7Yx2GdSbFnNa8C_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i2/2251059038/O1CN01iqH7Yx2GdSbFnNa8C_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.05.25 周六 20:00",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01pxr5DO2GdSbIWAWtq_!!2251059038.png\" width=\"800\" height=\"800\" damai_width=\"800\" damai_height=\"800\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i34.79dd6b72pjC163\"></p><p style=\"text-align: center;\"><span>是否曾有过这样一个瞬间，一段旋律忽然在脑海中响起，勾起心底深处最柔软的记忆？</span></p><p style=\"text-align: center;\"><span>1965年，整个世界沉浸在战后时代对和平、自由与爱的向往和呼唤里，罗伯特·怀斯导了一部《音乐之声》带领人们走进了阿尔卑斯山脚下最纯净的土地，讲述了一个关于勇气与爱的传奇。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN015s3H5N2GdSbHmMwfN_!!2251059038.png\" width=\"800\" height=\"450\" damai_width=\"800\" damai_height=\"450\"></p><p style=\"text-align: center;\"><span>在那个动荡不安的年代，这部电影给无数人带来了温暖与希望，往后的岁月里这样的美好代代相传，成为国民级回忆。</span></p><p style=\"text-align: center;\"><strong><span>5月25日·</span></strong><strong><span><span>Blue</span></span></strong><strong><span>&nbsp;</span></strong><strong><span><span>Note</span></span></strong><strong><span>&nbsp;</span></strong><strong><span><span>Shanghai</span></span></strong></p><p style=\"text-align: center;\"><strong><span>现场</span></strong><strong><span>感受</span></strong><strong><span>《</span></strong><strong><span>音乐之声</span></strong><strong><span>》</span></strong><strong><span>这部</span></strong><strong><span>电影</span></strong><strong><span>带来</span></strong><strong><span>的诸多美好</span></strong></p><p style=\"text-align: center;\"><strong><span>我们不见不散！</span></strong></p><p style=\"text-align: center;\"><strong><span><br></span></strong></p><p style=\"text-align: center;\"><strong><span>美好</span></strong><strong><span><span>ONE</span></span></strong></p><p style=\"text-align: center;\"><strong><span>旋律中的童真与美好</span></strong></p><p style=\"text-align: center;\"><strong><span><span>Do</span></span></strong><strong><span>-</span></strong><strong><span><span>Re</span></span></strong><strong><span>-</span></strong><strong><span><span>Mi</span></span></strong><strong><span>&nbsp;<span>&amp;<span>&nbsp;</span></span></span></strong><strong><span><span>My</span></span></strong><strong><span>&nbsp;</span></strong><strong><span><span>Favorite</span></span></strong><strong><span>&nbsp;</span></strong><strong><span><span>Things</span></span></strong></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01aVuLjW2GdSb7BqeHh_!!2251059038.png\" width=\"800\" height=\"673\" damai_width=\"800\" damai_height=\"673\"></p><p style=\"text-align: center;\"><span>影片中，妙龄修女玛丽亚来到特拉普上校家中，成为家庭教师。</span></p><p style=\"text-align: center;\"><span>当她抱着吉他、带着七个孩子雀跃在蓝天白云绿地间，教孩子们用音符记忆旋律时，背景中和穆的阿尔卑斯山脉仿佛也在安静地聆听《</span><span><span>Do</span></span><span>-</span><span><span>Re</span></span><span>-</span><span><span>Mi</span></span><span>》轻快的声响。</span></p><p style=\"text-align: center;\"><span>爵士乐的自由与随性，完美</span><span>地</span><span>诠释了这首歌带来的纯粹快乐，我们必将被这节奏滋养和拯救。</span></p><p style=\"text-align: center;\"><span>玛丽亚还告诉孩子们：烦心的时候，就想自己喜欢的事物愉悦自己。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01kWMVoe2GdSbG8OcJp_!!2251059038.png\" width=\"1267\" height=\"576\" damai_width=\"1267\" damai_height=\"576\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i30.79dd6b72pjC163\"></p><p style=\"text-align: center;\"><span>《</span><span><span>My</span></span><span>&nbsp;</span><span><span>Favorite</span></span><span>&nbsp;</span><span><span>Things</span></span><span>》一样能够唤起我们对美好事物的热爱，每一个音符都像是对生活的小小礼赞。</span></p><p style=\"text-align: center;\"><span>来现场听，唤起的美好一定是双倍滴！！！</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01eEJpia2GdSbCdMe3a_!!2251059038.png\" width=\"800\" height=\"486\" damai_width=\"800\" damai_height=\"486\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i33.79dd6b72pjC163\"></p><p style=\"text-align: center;\"><strong><span>美好</span></strong><strong><span><span>TWO</span></span></strong></p><p style=\"text-align: center;\"><strong><span>深情地告白与梦想</span></strong></p><p style=\"text-align: center;\"><strong><span><span>Edelweiss</span></span></strong><strong><span>&nbsp;<span>&amp;<span>&nbsp;</span></span></span></strong><strong><span><span>The</span></span></strong><strong><span>&nbsp;</span></strong><strong><span><span>Sound</span></span></strong><strong><span>&nbsp;</span></strong><strong><span><span>of</span></span></strong><strong><span>&nbsp;</span></strong><strong><span><span>Music</span></span></strong></p><p style=\"text-align: center;\"><span>军官音乐会上，上校对众人说要唱首情歌，于是他弹着吉他唱起了奥地利民歌《</span><span><span>Edelweiss</span></span><span>》（雪绒花），此时的他正决定要离开家乡。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN010Z1Aez2GdSbJ8NRLd_!!2251059038.png\" width=\"848\" height=\"424\" damai_width=\"848\" damai_height=\"424\"></p><p style=\"text-align: center;\"><span><span>雪绒花是一种阿尔卑斯山上的植物，</span><span>“小而白，洁又亮”，《</span></span><span><span>Edelweiss</span></span><span>》那对故土的深情告白，都将化为漫长余生的怀念。</span></p><p style=\"text-align: center;\"><span>来现场，听这封写给家乡的音乐情书。</span></p><p style=\"text-align: center;\"><strong><span>&nbsp;</span></strong><br></p><p style=\"text-align: center;\"><strong><span>美好</span></strong><strong><span><span>THREE</span></span></strong></p><p style=\"text-align: center;\"><strong><span>攀登心灵的高峰</span></strong></p><p style=\"text-align: center;\"><strong><span><span>Climb</span></span></strong><strong><span>&nbsp;</span></strong><strong><span><span>Ev</span></span></strong><strong><span>'</span></strong><strong><span><span>ry</span></span></strong><strong><span>&nbsp;</span></strong><strong><span><span>Mountain</span></span></strong></p><p style=\"text-align: center;\"><span>玛丽亚从上校家回到修道院，修女长见她心情沮丧，便唱响了《</span><span><span>Climb</span></span><span>&nbsp;</span><span><span>Ev</span></span><span>'</span><span><span>ry</span></span><span>&nbsp;</span><span><span>Mountain</span></span><span>》，鼓励玛丽亚追寻梦想，就像攀越群山。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Q7So5s2GdSbHmNHUG_!!2251059038.png\" width=\"1267\" height=\"713\" damai_width=\"1267\" damai_height=\"713\"></p><p style=\"text-align: center;\"><span>“这些墙不是为了挡住你的问题，你要正视它，要按照你的生活道路去生活。攀登每一座山，不论高低皆要寻求；踏遍每条偏僻的小路，你都必须走；攀登每一座山，涉过小溪，追寻每一道彩虹，直到找到你的梦想。这梦想需要你献出全部的爱，在你有生之日一直走下去。”</span></p><p style=\"text-align: center;\"><span>——院长嬷嬷</span></p><p style=\"text-align: center;\"><span>攀越群山鼓励片中的玛利亚，也鼓励我们每一个人要勇攀高峰，追寻心灵的高度。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01wAD4wk2GdSbGakSvJ_!!2251059038.png\" width=\"533\" height=\"800\" damai_width=\"533\" damai_height=\"800\"></p><p style=\"text-align: center;\"><span>不管你是忠实的《音乐之声》</span><span>电影</span><span>迷</span><span>，还是爵士乐爱好者，这个专场绝对是无与伦比的听觉盛宴。</span></p><p style=\"text-align: center;\"><span>25日晚一定要来！让我们一同走进《音乐之声》的世界，用爵士的方式重新诠释那些动人的旋律，感受万物之美。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01F5691M2GdSbCzooVO_!!2251059038.png\" width=\"1080\" height=\"150\" damai_width=\"1080\" damai_height=\"150\"></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Omow4F2GdSbCdMJ3K_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\"><span><span>Bass</span></span><span>&nbsp;<span>-<span>&nbsp;</span></span></span><span><span>Danny</span></span><span>&nbsp;</span><span><span>Zander</span></span></p><p style=\"text-align: center;\"><span><span>Trumpet</span></span><span>&nbsp;<span>-<span>&nbsp;</span></span></span><span><span>Toby</span></span><span>&nbsp;</span><span><span>Mak</span></span></p><p style=\"text-align: center;\"><span><span>Sax</span></span><span>&nbsp;<span>-<span>&nbsp;</span></span></span><span><span>Mike</span></span><span>&nbsp;</span><span><span>Hirsch</span></span></p><p style=\"text-align: center;\"><span><span>Piano</span></span><span>&nbsp;<span>- 彭俊达</span></span></p><p style=\"text-align: center;\"><span><span>Drums</span></span><span>&nbsp;<span>-<span>&nbsp;</span></span></span><span><span>Pascal</span></span><span>&nbsp;</span><span><span>Naigom</span></span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01G3mse02GdSbIWEHxJ_!!2251059038.png\" width=\"320\" height=\"442\" damai_width=\"320\" damai_height=\"442\"></p><p style=\"text-align: center;\"><strong><span><span>Bass</span></span></strong><strong><span>&nbsp;<span>-<span>&nbsp;</span></span></span></strong><strong><span><span>Danny</span></span></strong><strong><span>&nbsp;</span></strong><strong><span><span>Zander</span></span></strong></p><p style=\"text-align: center;\"><span><span>Danny</span></span><span>&nbsp;</span><span><span>Zanker</span></span><span>，一名来自美国的贝斯手。年少刚接触音乐时，起初只是想试探自己的兴趣在哪里，当时哥哥和几乎身边所有的朋友都选择了学习弹吉他，而</span><span><span>Danny</span></span><span><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i10.d8ec6b72ZMqaus\">却觉得学贝斯能更快地融入乐队。后来事实证明他对贝斯有着神奇的天赋，两年之后他就已经开始进行专业的表演了。最终，出于对爵士乐的喜爱他选择了低音贝斯并且搬去纽约生活，去接触世界各地的音乐人们。他带着</span><span>15年在纽约爵士演奏的丰富经验，</span></span><span><span>Danny</span></span><span>&nbsp;</span><span><span>Zanker</span></span><span><span>于</span><span>2009年来到中国，开始了在上海的新鲜生活。从那时起，他和几个知名乐队合作表演，其中包括李晓川乐队，赵可·能性，陈胤希和她的爵士先生们等等。同时他也成功地组建了自己的乐队－</span></span><span><span>ZankinFives</span></span><span>，并经常在爵士大师的中国巡演中有出色的表现。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN019F2nZH2GdSbEbZydG_!!2251059038.png\" width=\"361\" height=\"361\" damai_width=\"361\" damai_height=\"361\"></p><p style=\"text-align: center;\"><strong><span><span>Trumpet</span></span></strong><strong><span>&nbsp;<span>-<span>&nbsp;</span></span></span></strong><strong><span><span>Toby</span></span></strong><strong><span>&nbsp;</span></strong><strong><span><span>Mak</span></span></strong></p><p style=\"text-align: center;\"><span><span>Toby</span></span><span>&nbsp;</span><span><span>Mak</span></span><span>是中国乃至亚洲最受欢迎的爵士小号演奏家之一，他以极富情感、深邃优雅的精湛小号演奏技艺闻名于中国爵士乐界。</span></p><p style=\"text-align: center;\"><span><span>其原创爵士五重奏专辑《</span><span>07印象》曾荣获第28届</span></span><span><span>JZ</span></span><span>&nbsp;</span><span><span>Awards</span></span><span><span>华人爵士大奖</span><span>“最佳专辑奖”，并提名2017台湾金曲奖“最佳专辑奖”。合作过莫文蔚、方大同、李荣浩、</span></span><span><span>Dee</span></span><span>&nbsp;</span><span><span>Dee</span></span><span>&nbsp;</span><span><span>Bridgewater</span></span><span>、</span><span><span>Chris</span></span><span>&nbsp;</span><span><span>Potter</span></span><span>、</span><span><span>Tina</span></span><span>&nbsp;</span><span><span>May</span></span><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i11.d8ec6b72ZMqaus\">等海内外音乐人。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01p5Jht42GdSbIWD0vo_!!2251059038.png\" width=\"686\" height=\"922\" damai_width=\"686\" damai_height=\"922\"></p><p style=\"text-align: center;\"><strong><span><span>Sax</span></span></strong><strong><span>&nbsp;<span>-<span>&nbsp;</span></span></span></strong><strong><span><span>Mike</span></span></strong><strong><span>&nbsp;</span></strong><strong><span><span>Hirsch</span></span></strong></p><p style=\"text-align: center;\"><span><span>Mike</span></span><span>&nbsp;</span><span><span>Hirsch</span></span><span>出生并成长于美国波士顿，在八岁时开始了爵士萨克斯风的学习与演奏。他高中时师从著名爵士乐艺术家、教育家</span><span><span>Jerry</span></span><span>&nbsp;</span><span><span>Bergonzi</span></span><span>，收到过伯克利音乐学院和新英格兰音乐学院的入学奖学金。</span><span><span>Mike</span></span><span><span>毕业于斯坦福大学，曾在斯坦福爵士工作室担任教师。他曾与</span></span><span><span>Wynton</span></span><span>&nbsp;</span><span><span>Marsalis</span></span><span>,<span>&nbsp;</span></span><span><span>Jerry</span></span><span>&nbsp;</span><span><span>Bergonzi</span></span><span>,<span>&nbsp;</span></span><span><span>Jon</span></span><span>&nbsp;</span><span><span>Faddis</span></span><span>,<span>&nbsp;</span></span><span><span>Louis</span></span><span>&nbsp;</span><span><span>Bellson</span></span><span>,<span>&nbsp;</span></span><span><span>Dee</span></span><span>&nbsp;</span><span><span>Dee</span></span><span>&nbsp;</span><span><span>Bridgewater</span></span><span>,<span>&nbsp;</span></span><span><span>Jon</span></span><span>&nbsp;</span><span><span>Nemeth</span></span><span>等著名音乐家在北美和欧洲的重要音乐场所合作演出。目前</span><span><span>Mike</span></span><span>与他的家人在上海和洛杉矶两地居住。</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN010xaF572GdSbFHmxLQ_!!2251059038.png\" width=\"451\" height=\"301\" damai_width=\"451\" damai_height=\"301\"></p><p style=\"text-align: center;\"><strong><span><span>Piano</span></span></strong><strong><span>&nbsp;<span>-<span>&nbsp;</span></span><span>彭俊达</span></span></strong></p><p style=\"text-align: center;\"><span><span>Pizzicato</span></span><span>音乐咨询工作室创始人，师从爵士钢琴先驱白天、黄健怡、著名音乐作曲家纪冬泳。演出足迹遍布林肯爵士乐上海中心、</span><span><span>Beijing</span></span><span>&nbsp;</span><span><span>Blue</span></span><span>&nbsp;</span><span><span>note</span></span><span>、</span><span><span>Shanghai</span></span><span>&nbsp;</span><span><span>Blue</span></span><span>&nbsp;</span><span><span>note</span></span><span>、</span><span><span>JZ</span></span><span>&nbsp;</span><span><span>Club</span></span><span><span>、草莓音乐节、夏至爵士音乐节、当代艺术文化周、崇明岛艺术周《瀛洲琴韵</span><span>同心守沪》等知名爵士演出场馆和音乐节。其个人组建的五重奏、四重奏、三重奏乐队曾多次巡演于武汉琴台剧院、江西省文化大剧院、上海歌剧院、德州艺术中心等。</span><span>2018年参与演奏交响诗《创世纪》。筹划参与东方卫视《雨和泪公益主题活动》。曾在优酷、牛班从事音乐编写、制作、制谱活动，其中有大型动漫连续剧，游戏配乐等等。2021年威雅文化节，指导作品</span></span><span><span>E</span></span><span>&nbsp;</span><span><span>Phrygian</span></span><span>&nbsp;</span><span><span>War</span></span><span>在悲惨世界指挥</span><span><span>Richard</span></span><span>&nbsp;</span><span><span>Ward</span></span><span>&nbsp;</span><span><span>Roden</span></span><span><span>指挥下进行首演，也是唯一亚洲高校入围决赛作品。</span><span>2023年制作上戏毕业剧《三姐妹》配乐、传统中国儿歌作曲，并荣获</span></span><span><span>Universal</span></span><span>&nbsp;</span><span><span>Start</span></span><span>&nbsp;</span><span><span>competition</span></span><span>作曲金奖指导老师。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01J5gBuJ2GdSbBjqKFv_!!2251059038.png\" width=\"410\" height=\"615\" damai_width=\"410\" damai_height=\"615\"></p><p style=\"text-align: center;\"><strong><span><span>Drums</span></span></strong><strong><span>&nbsp;<span>-<span>&nbsp;</span></span></span></strong><strong><span><span>Pascal</span></span></strong><strong><span>&nbsp;</span></strong><strong><span><span>Naigom</span></span></strong></p><p style=\"text-align: center;\"><span><span>毛里求斯籍爵士鼓演奏家，七岁开始学习打击乐，</span><span>13岁开始在教堂演出。在毕业于</span></span><span><span>Francois</span></span><span>&nbsp;</span><span><span>Mitterand</span></span><span>&nbsp;<span>音乐学院之后，</span></span><span><span>Pascal</span></span><span><span>在</span><span>2003年组建了自己的乐队，乐队的演出足迹遍布毛里求斯各大顶级演出场所。</span></span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01j26bQ42GdSbGhO8Vp_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">2024年5月25日（周六）</p><p style=\"text-align: center;\">入场时间/Door Time：18:30</p><p style=\"text-align: center;\">演出时间/Show Time：20:00</p><p style=\"text-align: center;\">地址/Add：</p><p style=\"text-align: center;\">上海市虹口区四川北路867号中信广场3层</p><p style=\"text-align: center;\">（入口位于四川北路沿街，商场电梯直达）</p><p style=\"text-align: center;\">Add. 3F, CITIC Plaza, No. 867 North Sichuan Road, Hongkou District, Shanghai.</p><p style=\"text-align: center;\">(The entrance is located along North Sichuan Road</p><p style=\"text-align: center;\">and can be directly accessed via the mall elevator)</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01GQEUK32GdSbCdLEY5_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">预售 ¥180</p><p style=\"text-align: center;\">现场 ¥220</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01JEXALK2GdSbCzqYcI_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">1. 所有网上购票观众请携带购票二维码到前台换取当日演出门票，凭票入场。门票一经出售，概不退换；</p><p style=\"text-align: center;\">2. 现场座位采取\"先到先得\"的方式，为能准时进场，请提前预留换票时间；</p><p style=\"text-align: center;\">3. 观众凭前台换取的桌卡进入演出场地，由服务人员引领至相应座位入座；</p><p style=\"text-align: center;\">4. 因场地座位有限，会有拼桌现象，敬请谅解；</p><p style=\"text-align: center;\">5. 儿童入场须家长陪同，请家长善尽监护义务，禁止儿童在观众席内嬉闹，以免影响其他客人；</p><p style=\"text-align: center;\">6. Blue Note Shanghai提供餐饮服务，入场后即可点餐。谢绝自带食品与酒水进入场地；</p><p style=\"text-align: center;\">7. 门票发票须演出当日凭桌卡开具；</p><p style=\"text-align: center;\"><br></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "上海盈寰文化传媒有限公司",
+                            "socialCreditCode": "91310109MA1G5MPL1E",
+                            "legalPerson": "高杉",
+                            "regCapStr": "1714.2857万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "上海市虹口区四川北路867号302室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/身份证/港澳居民来往内地通行证/护照"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约90分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "2280002",
+                    "venueName": "Blue Note Shanghai",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.484046,
+                    "lat": 31.248428,
+                    "venueAddr": "上海市虹口区四川北路867号中信广场3-5层",
+                    "showCountText": "共有6个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D797181200967%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1715926649000",
+                "sellStartTimeStr": "05月17日 14:17",
+                "priceRange": "¥180",
+                "performBases": [
+                    {
+                        "name": "05.25 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1716566400000",
+                        "performs": [
+                            {
+                                "performId": "214578209",
+                                "performName": "2024-05-25 周六 20:00",
+                                "itemId": "797181200967",
+                                "projectId": "220417024",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1716638400000",
+                                "performTime": "2024.05.25 20:00",
+                                "performStartDate": "2024-05-25",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "106881",
+                    "120577",
+                    "123905",
+                    "385",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "260994",
+                    "6658",
+                    "28802",
+                    "215809",
+                    "221697",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "354817",
+                    "388353",
+                    "286337",
+                    "303617",
+                    "3974",
+                    "8454",
+                    "8838",
+                    "459265",
+                    "523649",
+                    "7943",
+                    "361730",
+                    "373634",
+                    "397057",
+                    "409985",
+                    "417537",
+                    "599041",
+                    "8843",
+                    "9099",
+                    "8459",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9355",
+                    "9867",
+                    "9995",
+                    "12171",
+                    "14731",
+                    "16267",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "82369",
+                    "89665",
+                    "91585",
+                    "28353",
+                    "36417",
+                    "37569",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "260033",
+                    "137281",
+                    "141121",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "350017",
+                    "360001",
+                    "266817",
+                    "303553",
+                    "303681",
+                    "1478",
+                    "4166",
+                    "12998",
+                    "478785",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "591425",
+                    "602561",
+                    "7371",
+                    "1611",
+                    "2507",
+                    "4939",
+                    "14155",
+                    "19403",
+                    "23115",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "31947",
+                    "33739",
+                    "2874946",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7971812009/2/797181200967.jpg"
+            }
+        }
+    }
+}

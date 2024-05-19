@@ -1,0 +1,53 @@
+{
+    "platform": "大麦",
+    "project_id": "796424489461",
+    "project_name": "【成都】王小帅「长大」2024巡演 成都站",
+    "category_name": "演唱会",
+    "artists": [
+        "王小帅"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.28 周五 20:30",
+    "session_time": [],
+    "price": "价格待定",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "成都市",
+    "venue_name": "MAO Livehouse成都",
+    "venue_info": {
+        "venue_address": "万科天荟城市广场-MAO livehouse",
+        "lng": 104.124354,
+        "lat": 30.666568
+    },
+    "project_info": "「长大」等于______________？\n当少年的飞鸟飞进山谷，森林里矗立着「长大」的大人。彼时的少年站在阶梯里，人生自有答案。而「长大」当中的每一个音符都像是生命的印记，记录着所经历的一切，可以通过舞台毫不保留地呈现给每一个你，倾听「我们」的故事，与你共同分享这份成长喜悦，共同探索「长大」的旅程。\n\n演出票价：单人预售168 （一票1人入场）单人全价198（一票1人入场，含1v1合影环节）双人预售308（一票2人入场）单人VIP 298（含1v1合影+提前入场+演出定制周边礼包）演出定制周边礼包：定制小卡+定制手幅+专场演出票根+演出袋+海报\n演出地址：成都 MAO LIVEHOUSE CLUB厅（四川省成都市成华区杉板桥路329号）\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01awyUce2GdSbDtJWgW_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01TOGQBR2GdSbGlw2Up_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01S7wIpp2GdSb9LyQEQ_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "796424489461",
+            "cityName": "成都站",
+            "showTime": "06.28"
+        },
+        {
+            "itemId": "790041623340",
+            "cityName": "重庆站",
+            "showTime": "06.30"
+        },
+        {
+            "itemId": "794455694848",
+            "cityName": "武汉站",
+            "showTime": "07.13"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=796424489461"
+}

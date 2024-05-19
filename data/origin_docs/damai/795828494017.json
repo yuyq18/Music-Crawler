@@ -1,0 +1,444 @@
+{
+    "activityTags": "[]",
+    "actors": "nan",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "nan",
+    "id": "1_1_795828494017",
+    "imgurl": "-631649652",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "上海 | 5.26 匈牙利顶级爵士乐队BALÁZS BÁGYI 十周年特别演出",
+    "nameNoHtml": "上海 | 5.26 匈牙利顶级爵士乐队BALÁZS BÁGYI 十周年特别演出",
+    "price": "220.0",
+    "price_str": "220",
+    "pricehigh": "220.0",
+    "privilegeTags": "[]",
+    "projectid": "795828494017",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "nan",
+    "showtime": "2024.05.26 周日 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "nan",
+    "venue": "Blue Note Shanghai",
+    "venuecity": "上海",
+    "venueid": "2280002",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01cFW4Qd2GdSbEI8nax_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "795828494017",
+                    "itemName": "【上海】上海 | 5.26 匈牙利顶级爵士乐队BALÁZS BÁGYI 十周年特别演出",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01cFW4Qd2GdSbEI8nax_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i1/2251059038/O1CN01cFW4Qd2GdSbEI8nax_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.05.26 周日 20:00",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：上海盈寰文化传媒有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：上海盈寰文化传媒有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01QBUN1u2GdSbAT8fU2_!!2251059038.png\" width=\"800\" height=\"800\" damai_width=\"800\" damai_height=\"800\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i23.79dd6b72EBQ99c\"></p><p style=\"text-align: center;\">在历史的回声中，匈牙利的爵士乐以其独有的情感深度和复杂性，让世界为之动容。</p><p style=\"text-align: center;\">从浪漫的多瑙河畔到古老的温泉和巴洛克式建筑，丰富的元素不仅塑造了匈牙利人的灵魂，也逐渐渗透到他们所创造的爵士音乐之中，使其在国际乐坛中占有重要一席。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01rY3yNc2GdSbFdKsgf_!!2251059038.png\" width=\"1265\" height=\"520\" damai_width=\"1265\" damai_height=\"520\"></p><p style=\"text-align: center;\"><strong>5月26日夜，一段自多瑙河畔远行而来的爵士旋律将席卷上海。</strong></p><p style=\"text-align: center;\">匈牙利顶级爵士乐队BALÁZS&nbsp;BÁGYI&nbsp;NEW&nbsp;QUARTET将在Blue&nbsp;Note&nbsp;Shanghai献出他们精心编排的\"中国爵士 \"乐章，进行一场令人难忘的演出。</p><p style=\"text-align: center;\"><span>&nbsp;</span><br></p><p style=\"text-align: center;\"><strong>10周年特别演出</strong></p><p style=\"text-align: center;\"><strong>多瑙河畔与东方明珠的爵士对话</strong></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01SbwuIm2GdSbGMx7gJ_!!2251059038.png\" width=\"380\" height=\"380\" damai_width=\"380\" damai_height=\"380\"></p><p style=\"text-align: center;\">作为匈牙利民族爵士乐和世界音乐界的一支非常重要的乐队。</p><p style=\"text-align: center;\">今年，Balázs&nbsp;Bágyi&nbsp;New&nbsp;Quartet迎来了他们的第一个十年。</p><p style=\"text-align: center;\">十年光阴，Balázs&nbsp;Bágyi&nbsp;New&nbsp;Quartet用其独树一帜的音乐语汇，在匈牙利的爵士乐章中书写了跨文化的交响诗。</p><p style=\"text-align: center;\">本场演出，将特别呈现领队Balázs&nbsp;Bágyi创作的专辑《十年》中的曲目，是对过往岁月的致敬，也是对未来美好时光的憧憬。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01u0TjAQ2GdSbDzHvBP_!!2251059038.png\" width=\"1267\" height=\"845\" damai_width=\"1267\" damai_height=\"845\"></p><p style=\"text-align: center;\">更具特色的是，为了这次在上海的演出，BALÁZS&nbsp;BÁGYI&nbsp;NEW&nbsp;QUARTET重新编排了“中国爵士组曲”中的几首曲目，这些曲目曾在北京等地演出时受到广泛好评。</p><p style=\"text-align: center;\">表演这些融合东西方元素的作品，乐队将展现匈牙利与中国之间的爵士对话，以复杂而富有表现力的节奏和旋律，带领观众感受两种文化的和谐共鸣。</p><p style=\"text-align: center;\"><span>&nbsp;</span><br></p><p style=\"text-align: center;\"><strong>后波普与原声</strong></p><p style=\"text-align: center;\"><strong>探寻Balázs&nbsp;Bágyi&nbsp;New&nbsp;Quartet的音乐边界</strong></p><p style=\"text-align: center;\">在深入探讨Balázs&nbsp;Bágyi&nbsp;New&nbsp;Quartet的音乐风格时，不得不提他们精通的后波普风格和原声现代爵士乐。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01ObBWOO2GdSbGMvB4y_!!2251059038.png\" width=\"634\" height=\"563\" damai_width=\"634\" damai_height=\"563\"></p><p style=\"text-align: center;\">后波普风格，继承自波普爵士乐的复杂和声与即兴演奏精髓，更进一步探索音乐的结构与和声可能性，展现了Balázs Bágyi New Quartet乐队在音乐创作上的独到见解。</p><p style=\"text-align: center;\">原声现代爵士乐则强调纯原声乐器的使用，比如这首《Bass Dance》，就保持了音乐的原生态美感，强调自然的音质和表现力。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01HfFtpE2GdSbAT9biI_!!2251059038.png\" width=\"1269\" height=\"612\" damai_width=\"1269\" damai_height=\"612\"></p><p style=\"text-align: center;\">2016年，他们的专辑《向莎士比亚致敬》获得了格莱美奖。</p><p style=\"text-align: center;\">标志着Balázs&nbsp;Bágyi&nbsp;New&nbsp;Quartet这种独特的音乐表达赢得了国际舞台的认可。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01uhMhy82GdSbGMxWce_!!2251059038.png\" width=\"737\" height=\"416\" damai_width=\"737\" damai_height=\"416\"></p><p style=\"text-align: center;\">顶级爵士乐队Balázs&nbsp;Bágyi&nbsp;New&nbsp;Quartet的演奏，将激活你的心灵，给你一场视听的盛宴。</p><p style=\"text-align: center;\">别让这美妙的夜晚从指尖溜走！！！</p><p style=\"text-align: center;\">5月26日，来Blue&nbsp;Note&nbsp;Shanghai，感受自多瑙河畔远行而来的旋律，亲历一个难忘的匈牙利爵士之夜。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01yFtoce2GdSbGzzOF7_!!2251059038.png\" width=\"1080\" height=\"150\" damai_width=\"1080\" damai_height=\"150\"></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01wGJRrY2GdSbDCk99x_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">Drums&nbsp;&amp; Compose&nbsp;- Balázs&nbsp;Bágyi</p><p style=\"text-align: center;\">Sax&nbsp;– Soso&nbsp;Lakatos</p><p style=\"text-align: center;\">Piano&nbsp;- Dezsö&nbsp;Oláh</p><p style=\"text-align: center;\">Bass&nbsp;– Péter&nbsp;Oláh</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01rMhDTT2GdSbChrato_!!2251059038.png\" width=\"508\" height=\"347\" damai_width=\"508\" damai_height=\"347\"></p><p style=\"text-align: center;\"><strong>Drums&nbsp;&amp; Compose&nbsp;- Balázs&nbsp;Bágyi</strong></p><p style=\"text-align: center;\">1973 年出生于匈牙利佩奇，1998 年以优异成绩毕业于弗朗兹-李斯特音乐学院爵士乐系。他是当今匈牙利爵士乐的重要人物之一，曾与世界各地的许多艺术家合作，参与不同的音乐项目。他曾在 30 多个国家演出，包括在美国、从瑞典到土耳其的整个欧洲进行巡演，还曾在约旦演出，他也是唯一经常在中国演出的匈牙利爵士音乐家。</p><p style=\"text-align: center;\">除了许多匈牙利爵士乐大师，他还与许多美国音乐家合作，如前比尔-埃文斯三重奏贝司手查克-伊斯拉尔斯（Chuck&nbsp;Israels），自 2007 年起与纽约音乐家贝司手乔-方达（Joe&nbsp;Fonda）和钢琴家迈克尔-杰弗里-史蒂文斯（Michael&nbsp;Jefry&nbsp;Stevens）组建了一支名为 \"东部边界四重奏\"（Eastern&nbsp;Boundary&nbsp;Quartet）的工作乐队，还与其他纽约音乐家如亚瑟-凯尔（Arthur&nbsp;Kell）和查克-詹宁斯（Chuck&nbsp;Jennings）、扎根洛杉矶的电颤琴演奏家埃尔达德-塔尔穆（Eldad&nbsp;Tarmu）合作，并与来自阿拉巴马州的吉他手埃里克-埃西克斯（Eric&nbsp;Essix）进行了多次交流。巴拉兹曾与许多欧洲艺术家合作，如英国长笛演奏家杰夫-沃伦（Geoff&nbsp;Warren）、意大利贝斯演奏家马塞洛-塞巴斯蒂亚尼（Marcello&nbsp;Sebastiani）和捷克萨克斯管演奏家卢博斯-苏库普（Lubos&nbsp;Soukup）等。2017 年，他邀请中国小号演奏家李晓川在布达佩斯艺术中心与巴拉兹-巴吉新四重奏（Balazs&nbsp;Bagyi&nbsp;New&nbsp;Quartet）合作演出。</p><p style=\"text-align: center;\">自 2013 年起，Balázs&nbsp;Bágyi担任匈牙利爵士乐联盟主席。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01avp0hR2GdSb9ZgVj8_!!2251059038.png\" width=\"520\" height=\"347\" damai_width=\"520\" damai_height=\"347\"></p><p style=\"text-align: center;\"><strong>Sax–Soso&nbsp;Lakatos</strong></p><p style=\"text-align: center;\">萨克斯管演奏家Soso&nbsp;Lakatos出生于 1987 年的一个音乐世家。他的父亲是一位钢琴家，祖父是吉普赛贝斯手，两人都是匈牙利乐坛的著名音乐家。索索 12 岁时开始用萨克斯风演奏他的第一首爵士乐曲。一个月后，他在匈牙利电视台演奏了自己的第一首爵士独奏曲。14 岁时，他开始在莱奥-韦纳音乐学院跟随南多尔-戈茨学习古典音乐。17 岁时，他在匈牙利久尔最负盛名的古典萨克斯演奏家比赛中获得第三名。当时，索索还作为副手活跃在匈牙利不同的爵士乐队中。此外，他还参加了名为 \"Next&nbsp;Generation&nbsp;\"的乐队，该乐队曾在西班牙 Getxo&nbsp;音乐节上获得第二名。</p><p style=\"text-align: center;\">2007 年，他前往阿姆斯特丹攻读音乐文凭。学习期间，他参加了布兰福德-马萨利斯（Branford&nbsp;Marsalis）、艾伦-戈德堡（Alan&nbsp;Goldberg）、查尔斯-麦克弗森（Charles&nbsp;McPherson）、阿里-霍尼格（Ari&nbsp;Hoenig）和迪克-奥茨（Dick&nbsp;Oats）在费城举办的大师班。</p><p style=\"text-align: center;\">2012 年，他获得了 Keep&nbsp;an&nbsp;Eye&nbsp;奖的 \"最佳作曲家奖\"，同年还获得了莱顿爵士独奏家大赛的第一名。2014 年，他获得了硕士学位。回国后，他获得了人力资源部颁发的 Dezso&nbsp;Ablakos&nbsp;Lakatos&nbsp;奖学金，并在 2015 年匈牙利爵士乐联合会举办的 Gyula&nbsp;Csepregi&nbsp;萨克斯风比赛中获奖。除了领导自己的乐队，他还于 2016 年加入了 Balazs&nbsp;Bagyi&nbsp;New&nbsp;Quartet&nbsp;乐队。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01L1GBMN2GdSbCR48tO_!!2251059038.png\" width=\"488\" height=\"325\" damai_width=\"488\" damai_height=\"325\"></p><p style=\"text-align: center;\"><strong>Piano&nbsp;- Dezsö&nbsp;Oláh</strong></p><p style=\"text-align: center;\">曾获得过青年首席（Junior&nbsp;Prima）奖的钢琴家、作曲家和编曲家Dezsö&nbsp;Oláh，出生在布达佩斯的一个音乐家家庭，是匈牙利吉普赛音乐传统中最重要的单簧管演奏家之一的长子。</p><p style=\"text-align: center;\">他自幼接受古典钢琴演奏训练，这对他的爵士乐演奏产生了深远的影响。2009 年从弗朗茨-李斯特音乐学院爵士乐系毕业后，他与许多艺术家合作，参与了许多不同的音乐项目。他成立了一个名为 \"Trio&nbsp;a&nbsp;la&nbsp;Kodály&nbsp;\"的独特组织，以继承这位 20 世纪匈牙利伟大作曲家的遗产。他还带领自己的爵士三重奏乐团，于 2016 年发行了一张以贝拉-巴托克的《罗马尼亚六支舞曲》为蓝本改编的专辑。自 2013 年巴拉兹-巴吉新四重奏乐团成立以来，他一直加入该乐团，此后在欧洲许多国家演出，并于 2017 年在布达佩斯艺术宫与中国小号演奏家李晓川合作演出。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01VoGpH52GdSbCR3P8l_!!2251059038.png\" width=\"605\" height=\"404\" damai_width=\"605\" damai_height=\"404\"></p><p style=\"text-align: center;\"><strong>Bass–Péter&nbsp;Oláh</strong></p><p style=\"text-align: center;\">出生于吉普赛音乐世家，毕业于布达佩斯 Szent&nbsp;István&nbsp;Király&nbsp;音乐学院。他是一位出色的音乐家，也是中欧最伟大的贝司演奏家之一，受到巴斯特-威廉姆斯、雷-布朗、埃迪-戈麦斯和约翰-帕蒂图奇等众多爵士乐大师的启发。除了许多匈牙利音乐家，他还与不同的歌唱家合作过，如寺井由孝（日本）、松田美央（日本）、卡罗尔-卡斯（美国）、连-卡罗尔（英国），以及一些伟大的欧洲音乐家，如兹比格涅夫-纳米斯洛夫斯基（波兰）、托尼-拉卡托斯（匈牙利/丹麦）和中国小号演奏家李晓川。彼得曾在日本、埃及、法国、德国、丹麦、荷兰、奥地利、斯洛文尼亚、波兰、保加利亚、罗马尼亚、塞尔维亚、波斯尼亚、黑山等许多国家演出。20 多年前，他曾是鼓手巴拉兹-巴吉（Balazs&nbsp;Bagyi）的节奏搭档。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01yw7znZ2GdSbCR28AY_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">预售： ¥220</p><p style=\"text-align: center;\">现场：<span>&nbsp;¥</span>260</p><p style=\"text-align: center;\"><br>\n</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Mv0NNX2GdSbGMuAjK_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">2024年5月26日（周日）</p><p style=\"text-align: center;\">入场时间/Door Time：18:30</p><p style=\"text-align: center;\">演出时间/Show Time：20:00</p><p style=\"text-align: center;\">地址/Add：</p><p style=\"text-align: center;\">上海市虹口区四川北路867号中信广场3层</p><p style=\"text-align: center;\">（入口位于四川北路沿街，商场电梯直达）</p><p style=\"text-align: center;\">Add. 3F, CITIC Plaza, No. 867 North Sichuan Road, Hongkou District, Shanghai.</p><p style=\"text-align: center;\">(The entrance is located along North Sichuan Road</p><p style=\"text-align: center;\">and can be directly accessed via the mall elevator)</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01MGi5KE2GdSbGMxrQA_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">1. 所有网上购票观众请携带购票二维码到前台换取当日演出门票，凭票入场。门票一经出售，概不退换；</p><p style=\"text-align: center;\">2. 现场座位采取“先到先得”的方式，为能准时进场，请提前预留换票时间；</p><p style=\"text-align: center;\">3. 观众凭前台换取的桌卡进入演出场地，由服务人员引领至相应座位入座；</p><p style=\"text-align: center;\">4. 因场地座位有限，会有拼桌现象，敬请谅解；</p><p style=\"text-align: center;\">5. 儿童入场须家长陪同，请家长善尽监护义务，禁止儿童在观众席内嬉闹，以免影响其他客人；</p><p style=\"text-align: center;\">6. Blue Note Shanghai提供餐饮服务，入场后即可点餐。谢绝自带食品与酒水进入场地；</p><p style=\"text-align: center;\">7. 门票发票须演出当日凭桌卡开具；</p><p style=\"text-align: center;\"><br></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "上海盈寰文化传媒有限公司",
+                            "socialCreditCode": "91310109MA1G5MPL1E",
+                            "legalPerson": "高杉",
+                            "regCapStr": "1714.2857万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "上海市虹口区四川北路867号302室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：护照/台湾居民来往大陆通行证/身份证/港澳居民来往内地通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约90分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "2280002",
+                    "venueName": "Blue Note Shanghai",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.484046,
+                    "lat": 31.248428,
+                    "venueAddr": "上海市虹口区四川北路867号中信广场3-5层",
+                    "showCountText": "共有7个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D795828494017%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1715677247000",
+                "sellStartTimeStr": "05月14日 17:00",
+                "priceRange": "¥220",
+                "performBases": [
+                    {
+                        "name": "05.26 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1716652800000",
+                        "performs": [
+                            {
+                                "performId": "214600109",
+                                "performName": "2024-05-26 周日 20:00",
+                                "itemId": "795828494017",
+                                "projectId": "220330028",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1716724800000",
+                                "performTime": "2024.05.26 20:00",
+                                "performStartDate": "2024-05-26",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "106881",
+                    "120577",
+                    "123905",
+                    "385",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "260994",
+                    "6658",
+                    "28802",
+                    "215809",
+                    "221697",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "354817",
+                    "388353",
+                    "286337",
+                    "303617",
+                    "3974",
+                    "8454",
+                    "8838",
+                    "459265",
+                    "523649",
+                    "7943",
+                    "361730",
+                    "373634",
+                    "397057",
+                    "409985",
+                    "417537",
+                    "8843",
+                    "9099",
+                    "8459",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9355",
+                    "9867",
+                    "9995",
+                    "12171",
+                    "14731",
+                    "16267",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "82369",
+                    "89665",
+                    "91585",
+                    "28353",
+                    "36417",
+                    "37569",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "260033",
+                    "137281",
+                    "141121",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "350017",
+                    "360001",
+                    "266817",
+                    "303553",
+                    "303681",
+                    "1478",
+                    "4166",
+                    "12998",
+                    "478785",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "591425",
+                    "7371",
+                    "1611",
+                    "2507",
+                    "4939",
+                    "14155",
+                    "19403",
+                    "23115",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "31947",
+                    "33739",
+                    "2874946",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7958284940/2/795828494017.jpg"
+            }
+        }
+    }
+}

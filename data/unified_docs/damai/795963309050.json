@@ -1,0 +1,59 @@
+{
+    "platform": "大麦",
+    "project_id": "795963309050",
+    "project_name": "井迪「追光旅行」2024全国巡演 广州站【造音呈现】",
+    "category_name": "演唱会",
+    "artists": [
+        "井迪"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.23 周日 20:00",
+    "session_time": [
+        "06.23 周日"
+    ],
+    "price": "168-288",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "广州",
+    "venue_name": "声音共和Livehouse",
+    "venue_info": {
+        "venue_address": "广州市海珠区新滘中路88号海珠同创汇东一街11号",
+        "lng": 113.319598,
+        "lat": 23.077078
+    },
+    "project_info": "【造音呈现】井迪2024全国巡演 广州站-大麦",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01fjEPLP2GdSbECb0AH_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN014a2Qkb2GdSafTC3jk_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "841",
+        "wantNumStr": "841",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "795964245658",
+            "cityName": "深圳站",
+            "showTime": "06.22"
+        },
+        {
+            "itemId": "795963309050",
+            "cityName": "广州站",
+            "showTime": "06.23"
+        },
+        {
+            "itemId": "784276043087",
+            "cityName": "上海站",
+            "showTime": "05.24"
+        },
+        {
+            "itemId": "784351948011",
+            "cityName": "南京站",
+            "showTime": "05.25"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=795963309050"
+}

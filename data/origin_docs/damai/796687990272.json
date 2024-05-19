@@ -1,0 +1,445 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_796687990272",
+    "imgurl": "-623054690",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "亚咲花1st Live In Shanghai",
+    "nameNoHtml": "亚咲花1st Live In Shanghai",
+    "price": "280.0",
+    "price_str": "280-680",
+    "pricehigh": "680.0",
+    "privilegeTags": "[]",
+    "projectid": "796687990272",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.09.07 周六 16:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "THE BOXX城市乐园",
+    "venuecity": "上海",
+    "venueid": "2865006",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01lRVueh2GdSbCbcp7t_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "796687990272",
+                    "itemName": "【上海】亚咲花1st Live In Shanghai",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01lRVueh2GdSbCbcp7t_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i2/2251059038/O1CN01lRVueh2GdSbCbcp7t_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.09.07 周六 16:00",
+                    "showDuration": "约60分钟（以现场为准）",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：成都太合乐动科技有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：成都太合乐动科技有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>【入场提示】为预防可能出现的长时间排队情况，本场活动将启用排队序号入场，持票观众按购票时间顺序，根据所购票种分组由票务平台直接派号，并在入场前进行整队。请配合现场工作人员指引，有序入场，感谢您的支持！</strong></p>\n<p><strong>【购票提示】</strong>票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特点，<strong><span style=\"color: #e03e2d;\">票品一经售出，概不退换</span></strong>。</p>\n<p>&nbsp;</p>\n<p>人气歌手亚咲花首度来沪举办个人演唱会，将于2024年9月7日登陆THE BOXX·城市乐园，带来精彩的Anisong歌曲视听盛宴！</p>\n<p>ASAKA 1ST LIVE IN SHANGHAI</p>\n<p><strong>■艺人介绍</strong></p>\n<p>亚咲花，名字的含义为「绽放于亚洲的花朵」。</p>\n<p>出生于1999年，17岁时以TV动画《超自然9人组》片尾曲《Open your eyes》出道。</p>\n<p>2018年以人气动画《摇曳露营△》主题曲《SHINY DAYS》被大众所熟知。</p>\n<p>在出道后，她又陆续为《人马小姐不迷茫》、《摇曳露营△》、《在世界尽头咏唱恋曲的少女YU-NO》、《ISLAND》、《寒蝉鸣泣之时 业》、《夏日重现》、《北海道辣妹贼拉可爱》等作品演唱歌曲，进一步拓宽了知名度。</p>\n<p>除了歌手之外，她还在今年宣布担任《赛马娘 Pretty Derby》希望之城的声优，开启了她的声优生涯。</p>\n<p><strong>■演出信息</strong></p>\n<p>THE BOXX·城市乐园</p>\n<p>2024年9月7日 (周六)</p>\n<p>15:00开场 / 16:00开演</p>\n<p>地址：上海市闵行区虹许路731号-4号楼</p>\n<p><strong>■票价</strong></p>\n<p>SVIP票680元(含拍立得合影+现场手渡签名海报+优先入场)</p>\n<p>VIP票480元(含现场手渡签名海报+优先入场)</p>\n<p>普通票280元</p>\n<p>秒杀票198元(开票秒杀活动，票务权益与普通票一致，仅在开票当日19:00-19:05时间段内销售，秒杀时间内未付款订单将被关闭，秒杀票开票时可售总张数不低于20张，售罄即止)</p>\n<p><strong>■开票时间</strong></p>\n<p>2024年5月13日 19:00</p>\n<p><strong>■观演注意事项</strong></p>\n<p>1.<span style=\"color: #e03e2d;\"><strong>演出全程禁止摄影、摄像、录音</strong></span>，一经发现，主办方工作人员有权要求删除相关音视频内容，拒不听从者主办方工作人员将有权请离演出现场。</p>\n<p>2.文明观演，请勿对台上艺人及现场观众造成困扰，情节严重者主办方工作人员将有权请离演出现场。</p>\n<p>3.本场活动采用电子门票，凭购票二维码到活动现场扫码验证入场（订单或订单截图无效）。</p>\n<p>4.票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特点，<strong><span style=\"color: #e03e2d;\">票品一经售出，概不退换</span></strong>。</p>\n<p>5.本次演出实行实名制购票观演政策，一证一票，观演人需在购票时登记身份信息，入场时携带身份证以备查验。</p>\n<p>6.受现场不可控因素影响，演出时长以现场为准。</p>\n<p>7.其他未尽事宜由主办方负责解释。</p>\n<p><strong>■SVIP及VIP票入场须知</strong><br>SVIP及VIP票的观众，将在入场时向您分发相对应的权益兑换卡，兑换卡作为合影环节（仅限SVIP票）和参与手渡会的唯一凭证，其与您入场序号一一对应，遗失不补，请在演出全程务必妥善保管。</p>\n<p><strong>■SVIP及VIP手渡海报须知</strong><br>1. SVIP及VIP手渡海报环节在演出结束后进行，请 SVIP及VIP票观众在原地稍作等候，具体请留意现场广播并听从现场工作人员指引，提前打开购票平台订单详情页及出示入场时下发的SVIP或VIP权益识别卡以备查验。<br>2. 手渡的物品为艺人提前签好的本次活动海报一份，不得要求艺人现场追加签名任何内容以及在其他物品上签名。<br>3. 手渡的过程中，谢绝与艺人肢体触碰，谢绝赠送艺人任何礼物，因活动时间有限，在占用时间过长的情况下工作人员将会进行催促，敬请谅解。<br>4. 手渡环节全程禁止摄影、摄像、录音，一经发现，主办方工作人员有权要求删除相关音视频内容，拒不听从者主办方工作人员将有权请离演出现场</p>\n<p><strong>■SVIP合影环节须知</strong><br>1. SVIP合影环节在演出结束后且手渡海报环节结束后进行，请 SVIP观众在手渡海报环节结束后在场内稍作等待，具体请留意现场广播并听从现场工作人员指引，提前打开购票平台订单详情页及出示入场时下发的SVIP权益识别卡以备查验。<br>2. 合影环节仅可由主办方工作人员使用拍立得拍摄，并向观众交付合影拍立得一张，不得使用其它任何拍摄工具进行拍照，不得要求艺人现场追加签名。<br>3. 合影环节除工作人员外全程禁止摄影、摄像、录音，一经发现，主办方工作人员有权要求删除相关音视频内容，拒不听从者主办方工作人员将有权请离演出现场。<br>4.除过欠曝/模糊/画面严重偏移等情况可补拍1次（且需回收此前拍摄的相纸）外，不接受任何形式的补拍。如发生欠曝/模糊/画面严重偏移等情况，请在拍立得相纸成像后及离开场地前提出，工作人员将回收效果不佳的相纸并进行补拍，活动结束后不接受任何要求更换，补拍的要求。</p>\n<p><strong>■花篮·礼物接收</strong><br>1.本次演唱会将会在会场设置礼物箱，食品、饮料、化妆品、有价证券、现金、贵重物品、违禁品以及体积规格较大的物品无法接收，因出于安全需要，主办方可能会对礼品(含信件)拆封检查，敬请谅解。<br>2.如需赠送花篮，请在2024年8月27日前将【当天到场】的联系人姓名、电话及花篮数量、花篮设计及尺寸发送至i@lcacg.cn，以收到主办方确认邮件为准。未经主办方确认的花篮现场将无法接收。因场地空间有限，无法接收占地面积较大的花篮，敬请谅解。<br>3.花篮及其相关装饰必须由赠送人本人签收，主办方不予代收。活动结束后，花篮及其相关装饰必须自行撤走，请与花店协商安排人员或自行处理。</p>\n<p><br>※演出相关其他内容将陆续公开</p>\n<p>主办方：天津凌创文化发展有限公司@凌创文化</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01FKgecY2GdSbHW3pWx_!!2251059038.png\" width=\"638\" height=\"867\" damai_width=\"638\" damai_height=\"867\"></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "",
+                            "socialCreditCode": "",
+                            "legalPerson": "",
+                            "regCapStr": "",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "",
+                            "entAddress": ""
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买2张、每个账号最多购买2张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/身份证/台湾居民来往大陆通行证/护照"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约60分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "60分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "2865006",
+                    "venueName": "THE BOXX城市乐园",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.389929,
+                    "lat": 31.19099,
+                    "venueAddr": "上海市闵行区虹许路731号4号楼",
+                    "showCountText": "共有6个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D796687990272%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1716089252000",
+                "sellStartTimeStr": "05月19日 11:27",
+                "priceRange": "¥280-¥680",
+                "performBases": [
+                    {
+                        "name": "09.07 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1725638400000",
+                        "performs": [
+                            {
+                                "performId": "214599174",
+                                "performName": "2024-09-07 周六 16:00",
+                                "itemId": "796687990272",
+                                "projectId": "220401034",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1725696000000",
+                                "performTime": "2024.09.07 16:00",
+                                "performStartDate": "2024-09-07",
+                                "performBeginTime": "16:00",
+                                "singleLimit": "2",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "106881",
+                    "120577",
+                    "123905",
+                    "385",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "260994",
+                    "6658",
+                    "28802",
+                    "215809",
+                    "221697",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "354817",
+                    "388353",
+                    "286337",
+                    "303617",
+                    "3974",
+                    "8454",
+                    "8838",
+                    "459265",
+                    "523649",
+                    "7943",
+                    "361730",
+                    "373634",
+                    "397057",
+                    "409985",
+                    "417537",
+                    "599041",
+                    "8843",
+                    "9099",
+                    "8459",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9355",
+                    "9867",
+                    "9995",
+                    "12171",
+                    "14731",
+                    "16267",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "82369",
+                    "89665",
+                    "91585",
+                    "28353",
+                    "36417",
+                    "37569",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "260033",
+                    "137281",
+                    "141121",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "350017",
+                    "360001",
+                    "266817",
+                    "303553",
+                    "303681",
+                    "1478",
+                    "4166",
+                    "12998",
+                    "478785",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "591425",
+                    "602561",
+                    "7371",
+                    "1611",
+                    "2507",
+                    "4939",
+                    "14155",
+                    "19403",
+                    "23115",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "31947",
+                    "33739",
+                    "2874946",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "2",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7966879902/2/796687990272.jpg"
+            }
+        }
+    }
+}

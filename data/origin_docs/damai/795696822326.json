@@ -1,0 +1,443 @@
+{
+    "activityTags": "[]",
+    "actors": "nan",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "nan",
+    "id": "1_1_795696822326",
+    "imgurl": "-632966369",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "上海 | 5.19 「A Love Letter To Shanghai」花样年华中的爱情是什么样的",
+    "nameNoHtml": "上海 | 5.19 「A Love Letter To Shanghai」花样年华中的爱情是什么样的",
+    "price": "230.0",
+    "price_str": "230",
+    "pricehigh": "230.0",
+    "privilegeTags": "[]",
+    "projectid": "795696822326",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "nan",
+    "showtime": "2024.05.19 周日 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "nan",
+    "venue": "Blue Note Shanghai",
+    "venuecity": "上海",
+    "venueid": "2280002",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01q6AdxJ2GdSb9T8Pia_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "795696822326",
+                    "itemName": "【上海】上海 | 5.19 「A Love Letter To Shanghai」花样年华中的爱情是什么样的",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01q6AdxJ2GdSb9T8Pia_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i4/2251059038/O1CN01q6AdxJ2GdSb9T8Pia_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.05.19 周日 20:00",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：上海盈寰文化传媒有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：上海盈寰文化传媒有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01EiWrw22GdSb4A9mQF_!!2251059038.png\" width=\"800\" height=\"800\" damai_width=\"800\" damai_height=\"800\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i32.79dd6b72ipXMvc\"></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i33.79dd6b72ipXMvc\" style=\"text-align: center;\"><title></title><br></p><p><span>在人生的花样年华中</span></p><p><span>爱情如同盛开的花朵</span></p><p><span>绚烂且短暂</span></p><p><span>却为人生画卷添上了最浓墨重彩的一笔</span></p><br><p><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01bkH6qK2GdSbG9ZHNk_!!2251059038.jpg\" width=\"526\" height=\"264\" damai_width=\"526\" damai_height=\"264\"></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i34.79dd6b72ipXMvc\" style=\"text-align: center;\"><title></title><br></p><p><span>曾有黎明破晓前、日落黄昏时、午夜降临后的“爱情三部曲”电影</span></p><p><span>以对白的形式将男女主人公</span></p><p><span>始于初见，合于灵魂，终于生活的爱情选择呈现</span></p><p><span>&nbsp;</span><br></p><p><span>这一次，我们将用爵士谱写爱的三部曲</span></p><p><span>&nbsp;</span><br></p><p><span>音符跳跃似心跳</span></p><p><span>旋律轻抚你心弦</span></p><p><span>每个节拍都是情</span></p><p><span>每句歌词皆是言</span></p><p><span>&nbsp;</span><br></p><p><span>情话说不出口</span></p><p><span>不如借一首歌</span></p><p><span>想对你说的，都藏在这封“</span><span>Love Letter</span><span>”中</span></p><br><p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01lfXpkL2GdSb9cHq6N_!!2251059038.png\" width=\"1280\" height=\"893\" damai_width=\"1280\" damai_height=\"893\"></p><p><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01p7U3U42GdSbDaK8wy_!!2251059038.png\" width=\"750\" height=\"503\" damai_width=\"750\" damai_height=\"503\"></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i36.79dd6b72ipXMvc\" style=\"text-align: center;\"><title></title><br></p><p><span>“那是像半个家乡一样的城市，好像不怎么熟悉，但却有着与它自然天生的融合感。”</span></p><p><span>——吴思瑶</span></p><p><span>&nbsp;</span><br></p><p><span>吴思瑶的上海记忆里，有老北站那妈妈的兄弟姐妹、有闸北十平米小屋中，刑警叔叔做的红烧鲳鱼、茂名南路小教室里的台词声乐课，还有五官科医院帮她治好声带小结的神自制神药</span><span>……</span><span>无数的回忆，在上海这座城市带给她爱的同时，也教会了她自信与圆融。在给上海的这封“</span><span>Love Letter</span><span>”里，有</span><span>A</span><span>lec老师的作品《4</span><span>2</span><span>路公交车》，有2</span><span>018</span><span>年在南京东路的偶遇中录下来的《see you in my dream》，一别两宽吴侬情调《侬勿要骗我》，更有指引吴思瑶梦想方向的《</span><span>Where is love</span><span>》</span><span>……</span></p><p><span>&nbsp;</span><br></p><br><p><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01zlPCdB2GdSbEXKIyS_!!2251059038.png\" width=\"680\" height=\"453\" damai_width=\"680\" damai_height=\"453\"></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i37.79dd6b72ipXMvc\" style=\"text-align: center;\"><title></title><br></p><p><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i69.92256b72LXxqHG\">吴思瑶，一位活跃在纽约舞台的中国爵士歌手、独立唱作人。从独立流行歌曲作者和歌手、客座电台主持人到通过在线众筹平台成功举办爵士演唱会的音乐人。吴思瑶的爵士之路，吴思瑶的每一步都走得坚定而独特。</span></p><p><span>2017年，吴思瑶在北京工作和生活了12年多后，移居上海。在上海最热门的爵士俱乐部，如JZ Club、Heyday、林肯爵士乐上海中心、House Of Blues &amp; Jazz、Wooden Box等进行演出。2</span><span>018</span><span>年《罗曼司（第二季）》巡演后，现场原音专辑也顺利出版。April也由此被视为中国圣诞爵士人声的「代言人」。她是多年来活跃在现场的爵士女王，她也在2019年参演中文版《不再沉睡》的「曼德勒三重奏」。她在社会活动领域不断努力，为她的「现代爵士乐的社区社会化」的提议，并把爵士乐演出带入她所到之处与所能呈现的更多社交场合与商业活动和音乐现场中。</span></p><p><span>她用自己的创作和演唱，表达了对生活的感悟和对音乐的热爱。她的音乐作品，融合了爵士乐的优雅与流行音乐的时尚，赢得了众多乐迷的喜爱和认可。她的声音，如同一位优雅的舞者，在音符的舞台上尽情挥洒，带给人们无尽的感动和惊喜。</span></p><p><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i54.92256b72LXxqHG\">擅长营造细腻、温情且又坚实柔韧演出氛围的吴思瑶，更擅长将多种音乐元素融为一体。无论是爵士、摇摆、灵魂乐，还是流行、俱乐部音乐、百老汇风格，甚至新世纪的世界风，都能在她的旋律线条和演唱中得以呈现。</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i41.79dd6b72ipXMvc\"><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i55.92256b72LXxqHG\">吴思瑶让听众在即兴与律动的交织变幻中，聆听到东西方韵律交织的奇妙交响。同时，她致力于结合世代的创新与改编，与爵士音乐家们展开更为频繁且广泛的合作。目前，她正着手发展的表演项目和录音计划，如《新标准革命》、《吴唱吴语爵士》以及《中国女孩在纽约》等，都是她目前正在着手发展的表演项目与录音计划，展现了她在这方面的卓越才华与坚定决心。</span></p><br><p><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01RM8QE32GdSb9cI2Xj_!!2251059038.png\" width=\"1080\" height=\"1080\" damai_width=\"1080\" damai_height=\"1080\"></p><p style=\"text-align: center;\">作为中国爵士音乐家在纽约爵士现场活跃的杰出代表之一，吴思瑶也在大声地向世界和爵士乐中心宣布属于她爵士之声！</p><p style=\"text-align: center;\">日本著名钢琴家大林武司（Takeshi Ohbayashi）也将在5月19日上海与5月20日北京的演出中，再度携手吴思瑶</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN014OET9C2GdSbBVdPTk_!!2251059038.png\" width=\"800\" height=\"540\" damai_width=\"800\" damai_height=\"540\"></p><p style=\"text-align: center;\">出生于日本长岛并在纽约成名的爵士钢琴家大林武司，凭借他那与生俱来的忧雅气质和精湛的技巧令观众倾倒。作为一个音乐天才，他2岁时便展露出了音乐天分，更是与格莱美有著不解之缘的鼓手Ulysses Owens Jr.的“最佳拍档”。从伯克利Global研究项目全奖毕业后，他在纽约的演出就获得了纽约林肯中心和乐评人在内的广泛认可，他扣人心弦的钢琴演奏，每个音符都如同精心雕刻的艺术品，都让人惊叹不已。</p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i64.92256b72LXxqHG\">常年活跃于北美与欧洲的大型音乐节与巡回演出，是爵士圈受欢迎的亚洲钢琴家之一，也是Jośe James、小号手兼歌手Benny Benack三世以及日本传奇女歌手Misia米希亚等人的御用第一键盘手，每年NHK红白歌会的座上宾。他的爵士钢琴专辑以及近期出版和巡演的TBN三重奏，包含了颇受欢迎的贝斯手Ben Williams和传奇炸裂鼓手Nate Smith，也是值得高度关注的精彩绝伦的一个组合。</p><p style=\"text-align: center;\">大林武司和吴思瑶这对兼具现代与亲密感的典型东方留美组合，初识于上海，确是在纽约的生活中开始合作。在他们的表演中，运用东西方融合视角，深度解读传统与当代爵士乐的音乐情感与系统脉络，也思考着如何展现与突破自己代表的文化特质和深意。这是专属于他们的非凡纽约之声，也引领着听众经历难忘愉悦的沉浸聆听体验。</p><p style=\"text-align: center;\">这个520，老朋友们的合作又会带来抒写怎样的爱之情书呢？2024年5月19日Blue Note Shanghai，2024年5月20日、21日Blue Note Beijing，吴思瑶将再携乐队一起，以爱之名，邀你共赴一场爱意浓浓的“松弛感”爵士之约，共度520之夜！</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><strong>乐队其他成员</strong></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01aEe2gO2GdSb9zBSwq_!!2251059038.png\" width=\"640\" height=\"518\" damai_width=\"640\" damai_height=\"518\"></p><p style=\"text-align: center;\"><strong>Alec Haavik</strong></p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i56.92256b72LXxqHG\">来自纽约的Alec Haavik是高音/次中音萨克斯演奏家、作曲家。以现代爵士及摇滚为信仰, Alec以极具爆炸性的原创音乐,带领他的“磨擦宇宙”，描绘出一个跨维音乐新世界,为爵士重新定义。5岁开始学习大提琴,长号及各式乐器的Alec, 年少时期已开始展现其过人的音乐天赋及才华。高中时期就与当代爵士大师Branford Marsalis同台演出,同时期,他也得到了2份独立摇滚音乐人的录音合同。他在曼哈顿音乐学院完成他的爵士表演硕士学位, 就学期间他和Dick Oatts及Mark Turner研读爵士表演, 并参与杰出校友,美国知名爵士女伶Jane Monheit的录音。目前, 除了持续发展自己主领的原创音乐企划, Alec同时也是中国最佳爵士大乐队JZ Big Band 的指挥和音乐总监。</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01E8Xcou2GdSbFWELtl_!!2251059038.png\" width=\"1030\" height=\"768\" damai_width=\"1030\" damai_height=\"768\"></p><p style=\"text-align: center;\"><strong><span>Toby Mak</span></strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i60.92256b72LXxqHG\">来自澳大利亚的杰出爵士小号演奏家/作曲/编曲家/音乐制作人Toby Mak以极富情感，深邃优雅的精湛小号演奏技艺闻名于中国爵士乐界。作为备受推崇的小号演奏家，Toby参与合作的音乐人包括方大同、李荣浩、袁娅维、包以正(Eugene Pao)等。而在国际舞台上，Toby则多次与格莱美奖得主 Dee Dee Bridgewater、美国爵士萨克斯大师Chris Potter、英国爵士歌后Tina May、新加坡摇摆之王Jeremy Monteiro等音乐家同台献艺。不仅于此，Toby也受邀在《蒙面歌王》、《歌手》等音乐电视节目中展示其音乐技艺。自2005年移居上海至今，Toby陆续受邀为超过30张不同音乐风格的专辑录制小号。2016 年Toby Mak原创爵士五重奏专辑《零柒印象》荣获第28届金曲奖演奏类”最佳专辑”提名。</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01WYhcAd2GdSbFWF9lw_!!2251059038.png\" width=\"1280\" height=\"1920\" damai_width=\"1280\" damai_height=\"1920\"></p><p style=\"text-align: center;\"><strong>潘瑞林</strong></p><p style=\"text-align: center;\">毕业于南京艺术学院流行音乐学院本科。于2014年考入南艺附中学习古典专业。2017年以省内Bass第一的成绩考入南艺流行音乐学院，师从闵艺老师，开始学习爵士木贝斯，在校期间担任爵士大乐队贝斯手。2021第八届斯德哥尔摩国际音乐比赛四等奖。目前活跃在南京、上海、杭州的爵士俱乐部，不断丰富着自己的音乐历程，是备受瞩目且深受喜爱的新生代贝斯手之一。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01uwwKS52GdSbG9a5J9_!!2251059038.png\"></p><p style=\"text-align: center;\"><strong>Dimitry Strelianny</strong></p><p style=\"text-align: center;\">出生于俄罗斯的托木斯克的Dimitry Strelianny，从小便被摇滚音乐及其所有的形式影响着，并加入了当地的乐队crossover。当第一次聆听到来自纽约的Max Roach、Art Blakey、Ray Brown、Thad Jones - Mel Lewis管弦乐团、Lee Morgan等大师的乐队演出，他决心向这一方向继续自己的音乐道路，并进入莫斯科音乐学院学习。2008年，Dimitry Strelianny进入阿姆斯特丹音乐学院学习，随着求知探索的爆发力，闪电的速度，大师级节奏型和拍子记号，Dimitry在他的音乐中呈现出来一种罕见的优雅的感觉。他的艺术独创性表现在他无与伦比的能力上。技巧，挥舞鼓棒的感觉和非凡的能力，使他的音乐充满庄严和优雅共鸣。他不断学习新的知识，并从他人的看法、声音和历史中寻找音乐的灵感。然后，将所学到的知识运用到自己的创作中。除此之外，他还听了许多不同的音乐风格的作品。他不断吸收着这些音乐所带来的影响，并创造了属于自己的声音，并试图把他的各种风格和声音融为一体变成一种平衡的，有品味的音乐语言。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01um938r2GdSbCH7Byf_!!2251059038.png\" width=\"1080\" height=\"199\" damai_width=\"1080\" damai_height=\"199\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i31.79dd6b72ipXMvc\"></p><p style=\"text-align: center;\">42路公交车</p><p style=\"text-align: center;\">Three Little Words</p><p style=\"text-align: center;\">I Can’t Give You Anything But Love</p><p style=\"text-align: center;\">This Happy Madness</p><p style=\"text-align: center;\">Moody’s Mood for love &nbsp;</p><p style=\"text-align: center;\">Bewitched</p><p style=\"text-align: center;\">Infant Eyes</p><p style=\"text-align: center;\">Medley: What the World Needs Now Is Love + You’ve Got A Friend</p><p style=\"text-align: center;\">I’ll See You In My Dream</p><p style=\"text-align: center;\">The Nearness of You</p><p style=\"text-align: center;\">侬勿要骗我</p><p style=\"text-align: center;\">They Can’t Take That Away From Me</p><p style=\"text-align: center;\">After You’ve Gone</p><p style=\"text-align: center;\">Just Two Of Us</p><p style=\"text-align: center;\">If It’s Magic</p><p style=\"text-align: center;\">Where Is the Love&nbsp;</p><p style=\"text-align: center;\"><strong><span>*曲目以当天演出为准*</span></strong></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN014rLWlf2GdSbBVhyIH_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">日期：2024年5月19日（周日）</p><p style=\"text-align: center;\">入场时间：18:30</p><p style=\"text-align: center;\">演出时间：20:00</p><p style=\"text-align: center;\">地址：上海市虹口区四川北路867号中信广场3层(入口位于四川北路沿街，商场电梯直达)</p><p style=\"text-align: center;\">Add. 3F, CITIC Plaza, No. 867 North Sichuan Road, Hongkou District, Shanghai.</p><p style=\"text-align: center;\">(The entrance is located along North Sichuan Road</p><p style=\"text-align: center;\">and can be directly accessed via the mall elevator)</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01rAQmtC2GdSb8icrJs_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i49.79dd6b72ipXMvc\" style=\"text-align: center;\"><span>单人坐席：230元</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01yI3LOM2GdSbFWGhVn_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">1.所有网上购票观众请携带购票二维码到前台换取当日演出门票，凭票入场。门票一经出售，概不退换。</p><p style=\"text-align: center;\">2.现场座位采取“先到先得”的方式，具体座位由前台工作人员进行安排。部分座位视线会受较大阻挡，建议购票客人提早入场至前台换票。</p><p style=\"text-align: center;\">3. 观众凭前台换取的桌卡进入演出场地，由服务人员引领至相应座位入座。</p><p style=\"text-align: center;\">4. 因场地座位有限，会有拼桌现象，敬请谅解。</p><p style=\"text-align: center;\">5. 儿童观演须购票并由家长陪同入场，请家长善尽监护义务，禁止儿童在观众席内嬉闹，以免影响其他客人。</p><p style=\"text-align: center;\">6. Blue Note提供餐饮服务，入场后即可点餐。谢绝自带食品与酒水进入场地。</p><p style=\"text-align: center;\">7. 门票发票须演出当日凭桌卡开具。</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br>\n</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "上海盈寰文化传媒有限公司",
+                            "socialCreditCode": "91310109MA1G5MPL1E",
+                            "legalPerson": "高杉",
+                            "regCapStr": "1714.2857万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "上海市虹口区四川北路867号302室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：身份证/港澳居民来往内地通行证/护照/台湾居民来往大陆通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约90分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "2280002",
+                    "venueName": "Blue Note Shanghai",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.484046,
+                    "lat": 31.248428,
+                    "venueAddr": "上海市虹口区四川北路867号中信广场3-5层",
+                    "showCountText": "共有7个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D795696822326%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1715652967000",
+                "sellStartTimeStr": "05月14日 10:16",
+                "priceRange": "¥230",
+                "performBases": [
+                    {
+                        "name": "05.19 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1716048000000",
+                        "performs": [
+                            {
+                                "performId": "214530142",
+                                "performName": "2024-05-19 周日 20:00",
+                                "itemId": "795696822326",
+                                "projectId": "220339023",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1716120000000",
+                                "performTime": "2024.05.19 20:00",
+                                "performStartDate": "2024-05-19",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "106881",
+                    "120577",
+                    "123905",
+                    "385",
+                    "2049",
+                    "65281",
+                    "260994",
+                    "6658",
+                    "28802",
+                    "215809",
+                    "221697",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "354817",
+                    "388353",
+                    "286337",
+                    "303617",
+                    "3974",
+                    "8454",
+                    "8838",
+                    "459265",
+                    "523649",
+                    "7943",
+                    "361730",
+                    "373634",
+                    "397057",
+                    "409985",
+                    "417537",
+                    "8843",
+                    "9099",
+                    "8459",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9355",
+                    "9867",
+                    "9995",
+                    "12171",
+                    "14731",
+                    "16267",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "82369",
+                    "89665",
+                    "91585",
+                    "28353",
+                    "36417",
+                    "37569",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "260033",
+                    "137281",
+                    "141121",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "350017",
+                    "360001",
+                    "266817",
+                    "303553",
+                    "303681",
+                    "1478",
+                    "4166",
+                    "12998",
+                    "478785",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "591425",
+                    "7371",
+                    "1611",
+                    "2507",
+                    "4939",
+                    "14155",
+                    "19403",
+                    "23115",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "31947",
+                    "33739",
+                    "2874946",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7956968223/2/795696822326.jpg"
+            }
+        }
+    }
+}

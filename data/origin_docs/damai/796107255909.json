@@ -1,0 +1,748 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：余佳运、颜人中、刘思鉴、张远、米卡MIKA、王靖雯、TY.、艾志恒Asen、于贞",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1847",
+    "cityname": "青岛",
+    "couponTags": "[]",
+    "description": "艺人：余佳运、颜人中、刘思鉴、张远、米卡MIKA、王靖雯、TY.、艾志恒Asen、于贞",
+    "id": "1_1_796107255909",
+    "imgurl": "-628862033",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2024青岛极昼派对",
+    "nameNoHtml": "2024青岛极昼派对",
+    "price": "328.0",
+    "price_str": "328-468",
+    "pricehigh": "468.0",
+    "privilegeTags": "[]",
+    "projectid": "796107255909",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "nan",
+    "showtime": "2024.05.24-05.26",
+    "sitestatus": "16",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "nan",
+    "venue": "青岛艾可什未来音场",
+    "venuecity": "青岛",
+    "venueid": "6750038",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN011KpQYM2GdSb69prpW_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "796107255909",
+                    "itemName": "【青岛】2024青岛极昼派对",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "370200",
+                    "cityName": "青岛市",
+                    "categoryId": "127420006",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN011KpQYM2GdSb69prpW_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN011KpQYM2GdSb69prpW_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.05.24-05.26",
+                    "showDuration": "约120分钟，仅供参考，最终以现场实际时长为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票",
+                            "tagDesc": "本项目需实名制购票，购票完成后观演人信息不可更改。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：青岛艾可什音乐有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：青岛艾可什音乐有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1847",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><strong>2024青岛极昼派对&nbsp;</strong></span></p>\n<p>青岛艾可什未来音场开业系列演出</p>\n<p>2024青岛极昼派对&nbsp;即刻开启</p>\n<p>&nbsp;</p>\n<p>位于海滨城市的艺术新地标——青岛艾可什未来音场，在2024年的夏日里迎来了它的首场开业系列演出。这场名为“极昼派对”的演出，演出阵容涵盖了国内外知名歌手，他们将在星光璀璨的夜晚，用音符点亮青岛的海岸线，为观众带来一场视听盛宴。</p>\n<p>&nbsp;</p>\n<p>现场配备尖端音响和灯光技术，营造出深度沉浸在音乐世界的氛围，让每位参与者体验如梦似幻的未来音符之旅。演出结束后，每日的23:00-2:00，还将特别增设电音派对环节。DJ将以他们的独特编曲点燃夜的热情。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>-演出日程-</p>\n<p>演出时间：2024.5.24-26｜19:00</p>\n<p>演出地点：青岛艾可什未来音场（山东青岛流亭国际机场候机楼）</p>\n<p>&nbsp;</p>\n<p>-演出阵容-</p>\n<p>5月24日：余佳运·颜人中·刘思鉴</p>\n<p>5月25日：张远·米卡MIKA·王靖雯</p>\n<p>5月26日：Ty.·thomeboydontkill·艾志恒Asen·于贞</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN012XQUya2GdSbFGfkEN_!!2251059038.jpg\" width=\"1239\" height=\"1711\" damai_width=\"1239\" damai_height=\"1711\"></p>\n<p>&nbsp;</p>\n<p>-关于极昼-</p>\n<p>在地球的两个角落呈现对立的极昼与极夜，是一种极端又独特的自然现象。</p>\n<p>它有点像中国文化里的太极两极对立，当北极出现极昼时，南极就会是极夜，反之亦然。</p>\n<p>“极”代表一个特殊而无限的存在，它诠释着空间、时间、甚至温度等等宇宙万物的起始与终点，而引用\"极昼”的含义亦是意示着我们向往无限光明与无限可能的思想形态。</p>\n<p>VIP权益 ：<br>专属排队入场通道。<br>专属手环。<br>专属前排观演区域。<br>免费饮品一杯。</p>\n<p>5月24日阵容介绍：</p>\n<p>&nbsp;</p>\n<p>【余佳运】</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01GYnb492GdSbESejQv_!!2251059038.jpg\" width=\"2000\" height=\"2880\" damai_width=\"2000\" damai_height=\"2880\"></p>\n<p>他以其独特的音乐风格和才华，受到了广大乐迷的喜爱和认可。余佳运的音乐作品多样化，涵盖了流行、R&amp;B、电子等多种风格，展现了他对音乐的热爱和探索精神。余佳运曾为多位知名歌手制作过歌曲。他的音乐制作才华得到了业内的广泛认可，多次获得各类音乐奖项。</p>\n<p>&nbsp;</p>\n<p>【颜人中】</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01zQwpll2GdSbICoiAe_!!2251059038.jpg\" width=\"800\" height=\"1151\" damai_width=\"800\" damai_height=\"1151\"></p>\n<p>中国台湾创作型流行乐男歌手，唱作人。2019年，颜人中发表了个人首支单曲《晚安》，获得了万千的喜爱。他的代表作《我只能离开》《夏夜最后的烟火》等歌曲在网易云播放量累计破百亿，是拥有千万收藏的音乐人，也是爆款歌曲制造机。</p>\n<p>&nbsp;</p>\n<p>【刘思鉴】</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN011dqmqa2GdSbFeVmRK_!!2251059038.jpg\" width=\"800\" height=\"1151\" damai_width=\"800\" damai_height=\"1151\"></p>\n<p>他是00后最具代表性的音乐人、词曲创作者。刘思鉴的作品融合了多种音乐类型，并带有强烈的个人风格，有着超出同龄人的深度和广度。他曾以唱作人的身份在《我是唱作人2》与郑钧、张艺兴、陈粒、GAI等知名歌手同台竞技，也以词曲作者的身份为时代少年团三专创作了主打歌曲《躺着真舒服》，颇受好评。&nbsp;</p>\n<p>&nbsp;</p>\n<p>5月25日阵容介绍：</p>\n<p>&nbsp;</p>\n<p>【张远】</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01NwZbKq2GdSbGe4iCL_!!2251059038.jpg\" width=\"3413\" height=\"4915\" damai_width=\"3413\" damai_height=\"4915\"></p>\n<p>从07快乐男声出发，08年担任至上励合队长被更多人熟知。19年不破不立参加《创造营》再选秀，为大家展现初代男团的实力。再至《快乐再出发》综艺为大家带来欢乐，以鲜活真实的状态治愈大家。2023年《披荆斩棘第三季》他挑战多种舞台风格，为大家留下无数经典舞台作品。时至今日，张远以优秀的作品，卓越的唱功，独特的舞台魅力和温暖治愈的形象吸引着无数歌迷。</p>\n<p>&nbsp;</p>\n<p>【米卡】</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01hEi0MS2GdSbFCV0Vx_!!2251059038.jpg\" width=\"800\" height=\"1151\" damai_width=\"800\" damai_height=\"1151\"></p>\n<p>在《创造营2021》的节目中，米卡凭借其出色的表现和谦逊的性格，获得了观众和评委的一致好评。2023年，随着INTO1的毕业，米卡开启了个人音乐生涯的新篇章。他的首张音乐专辑《bleached漂》展现了他在音乐创作方面的多样性与才华。米卡凭借其出色的音乐才华和舞台表现，成为了亚洲音乐界的新星。</p>\n<p>&nbsp;</p>\n<p>【王靖雯】</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01GioWtD2GdSbHcFqaC_!!2251059038.jpg\" width=\"2000\" height=\"2880\" damai_width=\"2000\" damai_height=\"2880\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>\n<p>中国内地新生代原创音乐人。&nbsp;拥有代表作品《说说话》《忘了没有》《善变》《沦陷》等。&nbsp;2021年，王靖雯参加了《中国好声音》一节目，凭借超强的实力，获得了年度亚军的荣誉。同年，她还在腾讯音乐娱乐盛典获得了“年度突破音乐人”奖项。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>5月26日阵容介绍：</p>\n<p>&nbsp;</p>\n<p>【Ty.】</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Dp3Fgo2GdSbFCXlBW_!!2251059038.jpg\" width=\"800\" height=\"1151\" damai_width=\"800\" damai_height=\"1151\"></p>\n<p>华人HIPHOP音乐圈代表人物之一。来自成都的他，从2008年开始了全职创作音乐。创作力丰富，曲风多元，嗓音独特，Ty.对音乐的态度绝对严谨。他认为说唱音乐不光是即兴、随性的，还需要字句雕琢，将态度融入其中。</p>\n<p>&nbsp;</p>\n<p>【thomeboydontkill】</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01bE9Mi42GdSbFnPxnL_!!2251059038.jpg\" width=\"3413\" height=\"4915\" damai_width=\"3413\" damai_height=\"4915\"></p>\n<p>国内新生代实力说唱团体DIGI&nbsp;GHETTO成员。他被认为是中文说唱圈最具有影响力的新星之一。Thome在近两年凭借着多张优质成熟的音乐作品，向听众们展示了他是如何轻松驾驭古典、R&amp;B、Hip&nbsp;Hop、摇滚等多种风格。配合上口碑极好的现场演出体验，他在年轻听众和圈内说唱歌手中备受喜爱。</p>\n<p>&nbsp;</p>\n<p>【艾志恒】</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01uhM4Ga2GdSbGbuJJA_!!2251059038.jpg\" width=\"800\" height=\"1151\" damai_width=\"800\" damai_height=\"1151\"></p>\n<p>名字源于&nbsp;“Asian&nbsp;Energy”，以叙事类旋律说唱为主要风格。2018年8月24日发布单曲《ICED&nbsp;OUT》，开始在圈内崭露头角。先后于2019、2020、2021年发布三张MIXTAPE，在圈内大获好评。2022年&nbsp;1月与厂牌DIGI&nbsp;GHETTO发布同名专辑，一夜之内就有四首单曲跻身网易榜单前十。从曾经名不见经传到如今谱写自己的街头传记，Asen音乐中鼓点锤响的每一刻皆是态度。</p>\n<p>&nbsp;</p>\n<p>【于贞】</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01OvtM7p2GdSbDfADKO_!!2251059038.jpg\" width=\"800\" height=\"1151\" damai_width=\"800\" damai_height=\"1151\"></p>\n<p>Z世代先锋唱作人，b站节目《说唱新世代》八强选手。于贞⽤⾳乐发声，歌词细腻⽽⼜充满⼒量，为中⽂说唱提供全新⼥性视⻆。她于2023年发布首张个人专辑《造梦日记》并开办首场个人演唱会，拥有代表作《奇迹》《放肆爱》《她和她和她》等。</p>\n<p>&nbsp;</p>\n<p>欢迎加入2024青岛极昼派对，夜晚永不落幕，未来音符，等你敲响！</p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "青岛艾可什音乐有限公司",
+                            "socialCreditCode": "91370214MACBY8Y53W",
+                            "legalPerson": "丁航",
+                            "regCapStr": "100万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "其他有限责任公司",
+                            "entAddress": "山东省青岛市城阳区长城南路1号77号楼1单元401-20"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    },
+                    {
+                        "title": "转送说明",
+                        "content": "本项目支持电子票转送，转送功能将在演出前24小时关闭。（注：当前仅支持大麦下单用户，暂不支持淘宝／天猫，支付宝本地生活下单用户发起转送，仅支持大麦APP发起和接收转送票品）"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/港澳台居民居住证/身份证/外国人永久居留身份证/护照/港澳居民来往内地通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟，仅供参考，最终以现场实际时长为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "10"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "3000"
+                                },
+                                {
+                                    "title": "转送说明",
+                                    "content": "本项目支持电子票转送，转送功能将在演出前24小时关闭。（注：当前仅支持大麦下单用户，暂不支持淘宝／天猫，支付宝本地生活下单用户发起转送，仅支持大麦APP发起和接收转送票品）"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ]
+                },
+                "venue": {
+                    "venueId": "6750038",
+                    "venueName": "青岛艾可什未来音场",
+                    "venueProvinceName": "山东省",
+                    "venueCityName": "青岛市",
+                    "lng": 120.38,
+                    "lat": 36.27,
+                    "venueAddr": "山东省青岛市城阳区流亭街道流亭空港冰雪嘉年华青岛流亭国际机场(已关闭)",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=796107255909"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D796107255909%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "72549",
+                        "artistName": "余佳运",
+                        "archives": "中国原创音乐人",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1697620472445/1697620472445-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "72654",
+                        "artistName": "颜人中",
+                        "archives": "颜人中，1994年6月17日出生于台湾省，中国台湾创作型流行乐男歌手，毕业于中国文化大学（台湾）戏剧学系。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1636354603254/1636354603254-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1436644499",
+                        "artistName": "刘思鉴",
+                        "archives": "中国内地独立音乐人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1628504488967/1628504488967-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "739",
+                        "artistName": "张远",
+                        "archives": "2007年“快乐男生”南京赛区第2名，全国总决赛第9名，其粉丝叫元宝。现为天娱旗下“至上励合”组合成员，队长。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1705563052380/1705563052380-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "90727846",
+                        "artistName": "米卡MIKA",
+                        "archives": "米卡出生于夏威夷，日美混血男歌手、男子演唱组合NTERSECTION团长、原男子演唱组合INTO1成员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1694398173965/1694398173965-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "710740191",
+                        "artistName": "王靖雯",
+                        "archives": "中国内地女歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1628489365633/1628489365633-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "72677",
+                        "artistName": "TY.",
+                        "archives": "中国嘻哈歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1578293765087/1578293765087-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "23887638008",
+                        "artistName": "艾志恒Asen",
+                        "archives": "艾志恒Asen-来自将中文说唱圈换血的说唱组合DigiGhetto地基街头，Asen的现场被乐迷称为“大型早读现场”，因海量的乐迷均能熟练背诵其高产无数热单代表作：《DAY 1》、《焦虑》、《芳草地》、《土黑娃》、《Money Focused Freestyle》、《写不来情歌》以及2022年11月发行的刷屏级新专辑《NESA》。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1713333907007/1713333907007-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "205302843",
+                        "artistName": "于贞",
+                        "archives": "中国女说唱歌手，W8VES厂牌成员",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1703749584908/1703749584908-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "72549",
+                        "name": "余佳运",
+                        "desc": "中国原创音乐人",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1697620472445/1697620472445-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "72654",
+                        "name": "颜人中",
+                        "desc": "颜人中，1994年6月17日出生于台湾省，中国台湾创作型流行乐男歌手，毕业于中国文化大学（台湾）戏剧学系。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1636354603254/1636354603254-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1436644499",
+                        "name": "刘思鉴",
+                        "desc": "中国内地独立音乐人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1628504488967/1628504488967-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "739",
+                        "name": "张远",
+                        "desc": "2007年“快乐男生”南京赛区第2名，全国总决赛第9名，其粉丝叫元宝。现为天娱旗下“至上励合”组合成员，队长。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1705563052380/1705563052380-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "90727846",
+                        "name": "米卡MIKA",
+                        "desc": "米卡出生于夏威夷，日美混血男歌手、男子演唱组合NTERSECTION团长、原男子演唱组合INTO1成员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1694398173965/1694398173965-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "710740191",
+                        "name": "王靖雯",
+                        "desc": "中国内地女歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1628489365633/1628489365633-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "72677",
+                        "name": "TY.",
+                        "desc": "中国嘻哈歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1578293765087/1578293765087-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "23887638008",
+                        "name": "艾志恒Asen",
+                        "desc": "艾志恒Asen-来自将中文说唱圈换血的说唱组合DigiGhetto地基街头，Asen的现场被乐迷称为“大型早读现场”，因海量的乐迷均能熟练背诵其高产无数热单代表作：《DAY 1》、《焦虑》、《芳草地》、《土黑娃》、《Money Focused Freestyle》、《写不来情歌》以及2022年11月发行的刷屏级新专辑《NESA》。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1713333907007/1713333907007-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "205302843",
+                        "name": "于贞",
+                        "desc": "中国女说唱歌手，W8VES厂牌成员",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1703749584908/1703749584908-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "1120",
+                    "wantNumStr": "1120",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i3/O1CN01XWxmOi1OrfMwRZv2s_!!6000000001759-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2419586/483917347_1710172744372.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01zFBvUY1YFmleJTIQm_!!6000000003030-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2479394/495878898_1715790120256.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01Z4KBGi1TVkUeB77To_!!6000000002388-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1715845800000",
+                "sellStartTimeStr": "05月16日 15:50",
+                "countDown": "54163",
+                "rcdt": "54162924",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥328-¥468",
+                "performBases": [
+                    {
+                        "name": "05.24 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1716480000000",
+                        "performs": [
+                            {
+                                "performId": "214571153",
+                                "performName": "2024-05-24  周五 19:00",
+                                "itemId": "796107255909",
+                                "projectId": "220344044",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1716548400000",
+                                "performTime": "2024.05.24 19:00",
+                                "performStartDate": "2024-05-24",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "05.26 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1716652800000",
+                        "performs": [
+                            {
+                                "performId": "214567171",
+                                "performName": "2024-05-26 周日 19:00",
+                                "itemId": "796107255909",
+                                "projectId": "220344044",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1716721200000",
+                                "performTime": "2024.05.26 19:00",
+                                "performStartDate": "2024-05-26",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "05.25 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1716566400000",
+                        "performs": [
+                            {
+                                "performId": "214567170",
+                                "performName": "2024-05-25 周六 19:00",
+                                "itemId": "796107255909",
+                                "projectId": "220344044",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1716634800000",
+                                "performTime": "2024.05.25 19:00",
+                                "performStartDate": "2024-05-25",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "3",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "立即购买",
+                "buyBtnStatusAfterCountDown": "204",
+                "itemTags": [
+                    "106881",
+                    "120577",
+                    "123905",
+                    "385",
+                    "2049",
+                    "65281",
+                    "260994",
+                    "6658",
+                    "28802",
+                    "215809",
+                    "221697",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "354817",
+                    "388353",
+                    "286337",
+                    "303617",
+                    "3974",
+                    "8454",
+                    "8838",
+                    "459265",
+                    "523649",
+                    "7943",
+                    "361730",
+                    "373634",
+                    "397057",
+                    "409985",
+                    "417537",
+                    "8843",
+                    "9099",
+                    "8459",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9355",
+                    "9867",
+                    "9995",
+                    "12171",
+                    "14731",
+                    "16267",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "82369",
+                    "89665",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "36417",
+                    "37569",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "260033",
+                    "137281",
+                    "141121",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "350017",
+                    "360001",
+                    "266817",
+                    "303553",
+                    "303681",
+                    "1478",
+                    "4166",
+                    "12998",
+                    "268482",
+                    "478785",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "591425",
+                    "7371",
+                    "1611",
+                    "2507",
+                    "4939",
+                    "14155",
+                    "19403",
+                    "23115",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "31947",
+                    "33739",
+                    "2874946",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7961072559/2/796107255909.jpg"
+            }
+        }
+    }
+}

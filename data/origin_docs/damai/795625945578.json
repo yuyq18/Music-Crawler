@@ -1,0 +1,430 @@
+{
+    "activityTags": "[]",
+    "actors": "nan",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1377",
+    "cityname": "成都",
+    "couponTags": "[]",
+    "description": "nan",
+    "id": "1_1_795625945578",
+    "imgurl": "-633675137",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "芒果酱《心跳保卫战：你的心我的心》2024巡演-成都站",
+    "nameNoHtml": "芒果酱《心跳保卫战：你的心我的心》2024巡演-成都站",
+    "price": "130.0",
+    "price_str": "130",
+    "pricehigh": "130.0",
+    "privilegeTags": "[]",
+    "projectid": "795625945578",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "nan",
+    "showtime": "2024.05.24 周五 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "nan",
+    "venue": "正火艺术中心6号馆",
+    "venuecity": "成都",
+    "venueid": "92886",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01CtT28A2GdSbBmK18m_!!0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "795625945578",
+                    "itemName": "【成都】芒果酱《心跳保卫战：你的心我的心》2024巡演-成都站",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "510100",
+                    "cityName": "成都市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01CtT28A2GdSbBmK18m_!!0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i1/2251059038/O1CN01CtT28A2GdSbBmK18m_!!0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.05.24 周五 20:00",
+                    "showDuration": "以现场为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票",
+                            "tagDesc": "本项目需实名制购票，购票完成后观演人信息不可更改。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：星巢沃克秀(厦门)传媒有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：星巢沃克秀(厦门)传媒有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1377",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><strong data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i396.7c946b72dNXoks\">就算整座城市都要我</strong></p><p style=\"text-align: center;\"><strong>为爱殒落</strong></p><p style=\"text-align: center;\"><strong>我还是不想就这样投降</strong></p><p style=\"text-align: center;\"><strong>我喜欢你</strong></p><p style=\"text-align: center;\"><strong>所以在漫漫的长夜里</strong></p><p style=\"text-align: center;\"><strong>我有了一颗&nbsp;炙热的心脏</strong></p><p style=\"text-align: center;\"><strong>像是一定会中乐透一样地</strong></p><p style=\"text-align: center;\"><strong>给你爱 心 灵魂</strong></p><p style=\"text-align: center;\"><strong>英雄殒落了</strong></p><p style=\"text-align: center;\"><strong>但电影会继续演下去！</strong></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01aSH09K2GdSbDhhnjn_!!2251059038.png\"></p><p style=\"text-align: center;\"><strong>芒果酱 Mango Jump</strong></p><p style=\"text-align: center;\"><strong>《心跳保卫战：你的心我的心》2024巡演</strong></p><p style=\"text-align: center;\"><strong>正式官宣！</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01qr4p6a2GdSbD94lnw_!!2251059038.jpg\"></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><strong>广州、深圳、厦门</strong></p><p style=\"text-align: center;\"><strong>成都、重庆、北京</strong></p><p style=\"text-align: center;\"><strong>杭州、南京、上海</strong></p><p style=\"text-align: center;\"><strong>九城巡演！</strong></p><p style=\"text-align: center;\"><strong>这个初夏和芒果酱一起</strong></p><p style=\"text-align: center;\"><strong>进入这座心脏城！</strong></p><p style=\"text-align: center;\"><strong>让爱与热血成为今夏的注脚！</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01cjB4L02GdSbDhiGrX_!!2251059038.png\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01K3KwZt2GdSbEnRT2v_!!2251059038.png\"></p><p style=\"text-align: center;\"><strong>开票时间</strong></p><p style=\"text-align: center;\"><strong>4月12日 18:00</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><strong>站次信息</strong></p><p style=\"text-align: center;\"><strong>5月17日 广州</strong>&nbsp;</p><p style=\"text-align: center;\">疆进酒·OMNI SPACE 1号馆</p><p style=\"text-align: center;\"><strong>5月18日 深圳&nbsp;</strong></p><p style=\"text-align: center;\">HOU LIVE X Mixc cube(春笋店)</p><p style=\"text-align: center;\"><strong>5月19日&nbsp;厦门</strong>&nbsp;</p><p style=\"text-align: center;\">WOKESHOW星巢沃克秀</p><p style=\"text-align: center;\"><strong>5月24日&nbsp;成都</strong>&nbsp;</p><p style=\"text-align: center;\">正火艺术中心 6号馆</p><p style=\"text-align: center;\"><strong>5月25日 重庆&nbsp;</strong></p><p style=\"text-align: center;\">VOX LIVEHOUSE</p><p style=\"text-align: center;\"><strong>5月26日 北京&nbsp;</strong></p><p style=\"text-align: center;\">福浪LIVEHOUSE-浪</p><p style=\"text-align: center;\"><strong>5月31日 杭州&nbsp;</strong></p><p style=\"text-align: center;\">酒球会</p><p style=\"text-align: center;\"><strong>6月1日 南京&nbsp;</strong></p><p style=\"text-align: center;\">稻香音乐空间</p><p style=\"text-align: center;\"><strong>6月2日 上海&nbsp;</strong></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i397.7c946b72dNXoks\" style=\"text-align: center;\">MODERN SKY LAB</p><p><br></p><p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01SEB4qj2GdSbD94R2e_!!2251059038.jpg\"></p><p><br></p><p><strong>关于《心跳保卫战》</strong></p><p><strong>「心跳保卫战」是芒果酱打造的一支战队，每个成员都拥有自己的专属装备和在生活中挑战中获得的个人技能。</strong></p><p>他们在这个世界中征战、探险，有着喜欢的食物、专属交通工具、充满理想和迷惘的歌曲故事，形成一个充满奇幻的异世界。</p><p><strong>在这里，有喜欢的人和想保护的事物，他们勇敢前进，守护心中的理想和热血。</strong></p><p>而「心跳保卫」的另一层涵义则是期许芒果酱的现场演出持续为人带来强烈心跳的感觉，同时希望透过音乐让陷入沉寂的人们重新感受生活的激情。</p><p><br></p><p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN013MyBGc2GdSb4AV3xX_!!2251059038.jpg\"></p><p><br></p><p><strong>专辑主视觉将各歌曲概念延伸，呈现出一艘在异世界探险的飞船。</strong>以主打歌之一《心脏》的概念为出发点，设计成机械心脏造型，飞船内的心房和心室是芒果酱四位成员的房间，并将各单曲的意象对象巧妙融入心脏主体中。</p><p><br></p><p><br></p><p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01B8YfRm2GdSb9zXLtG_!!2251059038.jpg\"></p><p><br></p><p><strong>关于芒果酱Mango Jump</strong></p><p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN014bioD32GdSbEXemTn_!!2251059038.jpg\"></p><p><br></p><p>芒果酱Mango Jump， 2017 年于淡江大学吉他社成立，由<strong>主唱郭佐治、吉他手蔡有伦、贝斯手李皝达、鼓手黄圣智</strong>四人组成。致力创作直白、真诚、具传唱性的音乐。</p><p>音乐风格以 Folk rock、Pop、Punk rock 为主，<strong>简单的词曲、真挚的吉他、沈稳的贝斯与华丽的鼓，搭配主唱的高能演唱，创造出爆炸性强、高张力的演出</strong>。也在一首一首的抒情歌中，真实、不保留地唱出生命中无法闪躲的遗憾与失落。<strong>歌曲故事多取材自日常小事、恋爱、工作、理想、动漫、电玩 ... 等，与「热血」有深度的连结。</strong></p><p><br></p><p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01a9KjcG2GdSbEXhWxn_!!2251059038.jpg\"></p><p><br></p><p>2023年凭首张创作专辑<strong>《新·宝岛少年？》</strong>强势入围第34届金曲奖最佳新人奖，紧接又乘着声势于<strong>高雄小库举办连续八场专场演出，场场开卖即售罄</strong>。无论是流媒体点击、售票实力、抑或演出现场的渲染力，<strong>芒果酱可说是用尽一身全力，以音乐及演出贯彻着梦想，并确实地被乐迷群众深深的喜爱支持着。</strong></p><p><br></p><p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ynaA5r2GdSbDadslb_!!2251059038.png\"></p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：护照/港澳居民来往内地通行证/台湾居民来往大陆通行证/身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ]
+                },
+                "venue": {
+                    "venueId": "92886",
+                    "venueName": "正火艺术中心6号馆",
+                    "venueProvinceName": "四川省",
+                    "venueCityName": "成都市",
+                    "lng": 104.149694,
+                    "lat": 30.621531,
+                    "venueAddr": "四川省成都市龙泉驿区东洪路666号",
+                    "showCountText": "共有4个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D795625945578%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1715598343000",
+                "sellStartTimeStr": "05月13日 19:05",
+                "priceRange": "¥130",
+                "performBases": [
+                    {
+                        "name": "05.24 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1716480000000",
+                        "performs": [
+                            {
+                                "performId": "214565133",
+                                "performName": "2024-05-24 周五 20:00",
+                                "itemId": "795625945578",
+                                "projectId": "220386031",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1716552000000",
+                                "performTime": "2024.05.24 20:00",
+                                "performStartDate": "2024-05-24",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "106881",
+                    "120577",
+                    "123905",
+                    "385",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "260994",
+                    "6658",
+                    "28802",
+                    "215809",
+                    "221697",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "354817",
+                    "388353",
+                    "286337",
+                    "303617",
+                    "3974",
+                    "8454",
+                    "8838",
+                    "459265",
+                    "523649",
+                    "7943",
+                    "361730",
+                    "373634",
+                    "397057",
+                    "409985",
+                    "417537",
+                    "8843",
+                    "9099",
+                    "8459",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9355",
+                    "9867",
+                    "9995",
+                    "12171",
+                    "14731",
+                    "16267",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "82369",
+                    "89665",
+                    "91585",
+                    "28353",
+                    "36417",
+                    "37569",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "260033",
+                    "137281",
+                    "141121",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "350017",
+                    "360001",
+                    "266817",
+                    "303553",
+                    "303681",
+                    "1478",
+                    "4166",
+                    "12998",
+                    "478785",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "591425",
+                    "7371",
+                    "1611",
+                    "2507",
+                    "4939",
+                    "14155",
+                    "19403",
+                    "23115",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "31947",
+                    "33739",
+                    "2874946",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7956259455/2/795625945578.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,780 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：张信哲",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1847",
+    "cityname": "青岛",
+    "couponTags": "[]",
+    "description": "艺人：张信哲",
+    "id": "1_1_795393918044",
+    "imgurl": "-635995412",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2024张信哲未来式终极版巡回演唱会-青岛站",
+    "nameNoHtml": "2024张信哲未来式终极版巡回演唱会-青岛站",
+    "price": "380.0",
+    "price_str": "380-1380",
+    "pricehigh": "1380.0",
+    "privilegeTags": "[]",
+    "projectid": "795393918044",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "nan",
+    "showtime": "2024.07.20 周六 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "nan",
+    "venue": "青岛国信体育中心体育场",
+    "venuecity": "青岛",
+    "venueid": "55536",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01qCMvyq2GdSbEe3TsD_!!0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "795393918044",
+                    "itemName": "【青岛】2024张信哲未来式终极版巡回演唱会-青岛站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "370200",
+                    "cityName": "青岛市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01qCMvyq2GdSbEe3TsD_!!0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i1/2251059038/O1CN01qCMvyq2GdSbEe3TsD_!!0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.07.20 周六 19:30",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：西安曲江启唐文化传媒有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：西安曲江启唐文化传媒有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1847",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>2024张信哲「未来式终极版」世界巡回演唱会</strong></p>\n<p>&nbsp;</p>\n<p>未来，一直在路上！</p>\n<p>充满着未知与可能，有着始料未及的发生；也会有突如其来的惊喜，其中的拉扯，高低起伏，或许是让我们更成熟的记号，变得更好的过程！</p>\n<p>时光流转，歌声依旧清晰如初！</p>\n<p>在这个充满变幻的时代，总有一些声音能够穿越时空，触动我们内心深处的情感。张信哲，就是那个用歌声诠释时光、唤醒我们回忆的歌手。</p>\n<p>2024张信哲未来式终极版世界巡回演唱会，未来是⋯心之所向，行之所往，是我们可以一起创造的故事，是累积着与你共乐的每一个当下。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01iJUkGn2GdSbG0OWHm_!!2251059038.jpg\" width=\"1264\" height=\"711\" damai_width=\"1264\" damai_height=\"711\"></p>\n<p>未来式历经‘未来式1.0”、‘未来式2.0’，由体育馆一路唱到体育场。如今再升级，将以新版“宠粉级”歌单、全新舞美设计、全新服装造型设计，蜕变为张信哲《未来式终极版世界巡回演唱会》让哲迷身临其境感受“未来式终极版”的音乐世界。 力求为全球粉丝带来永生难忘的沉浸式视听盛宴。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01PtRduo2GdSb9TF44m_!!2251059038.png\" width=\"553\" height=\"785\" damai_width=\"553\" damai_height=\"785\"></p>\n<p>张信哲用歌声为人们源源不断地注入爱与能量。他的音乐，深情而细腻，那些陪伴我们走过风风雨雨的歌曲，让我们在歌声中找回那份最初的感动。带我们回到那个青涩的年代。让我们和张信哲一起以爱为契，共赴未来！我们将在人生长河中并肩走过这一段旅程，音乐、情感、回忆将未来式填满。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Eq2tBD2GdSbEO6aTF_!!2251059038.png\" width=\"553\" height=\"382\" damai_width=\"553\" damai_height=\"382\"></p>\n<p>回首从1.0的“体育馆”级跨越到2.0的“体育场”级，张信哲的《未来式》巡演已经迈向第六年，走过了三十多个城市。求新求变的张信哲。在《未来式》的巡演中，他精益求精、尽善尽美，稳如泰山的现场演唱、对歌曲精准的情感注入以及充满艺术气质的舞美设计，让每一场演出都达到了爆满且完全零负评的完美答卷。也展现了张信哲作为“歌坛模范生”的持续创作力和影响力。此次终极版巡回演唱会将成为“未来式”IP三部曲的最终之作，标志着其音乐宇宙的完全形成。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01FzdFa42GdSb9pwGtB_!!2251059038.png\" width=\"553\" height=\"369\" damai_width=\"553\" damai_height=\"369\"></p>\n<p>2023，他写下了「未来式，未来见！」一向信守诺言的他，2024再度开启《未来式终极版世界巡回演唱会》，不忘约定，以梦前行！实力派歌手+顶级舞美+超大场地，至此“未来式音乐宇宙”，如同星光熠熠的唯美星云，焕发出无限的光芒与生机。相信张信哲的“哲式唱腔”和无上限升级的《未来式》舞美，都将深深的印在每一位到场的观众脑海中。</p>\n<p>无论你是从哪首歌与张信哲相识，都应该亲身体验一次现场带来的感动。因此，喜爱张信哲“未来式音乐宇宙”的朋友们一定不能错过，和阿哲一起漫步在音乐的星河，聆听那些温暖过我们的歌声，感受那份独特的魅力。这不只是一场演唱会，更是一次关于青春的追忆、关于梦想追寻、关于未来的唱响！</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "西安曲江启唐文化传媒有限公司",
+                            "socialCreditCode": "91610133552329648M",
+                            "legalPerson": "姚建昭",
+                            "regCapStr": "200万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "西安曲江新区雁展路1111号莱安中心T5栋2单元706、707室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳台居民居住证/身份证/外国人永久居留身份证/护照/港澳居民来往内地通行证/台湾居民来往大陆通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "演出前120分钟开始检票，演出开始90分钟停止检票，请提前安排好出行方式和时间。"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "张信哲"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "55536",
+                    "venueName": "青岛国信体育中心体育场",
+                    "venueProvinceName": "山东省",
+                    "venueCityName": "青岛市",
+                    "lng": 120.443611,
+                    "lat": 36.106739,
+                    "venueAddr": "青岛市崂山区同安路颐中体育场公交车站",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "784778978869",
+                        "cityName": "烟台站",
+                        "showTime": "06.01",
+                        "tourId": "3884"
+                    },
+                    {
+                        "itemId": "788042147671",
+                        "cityName": "西宁站",
+                        "showTime": "06.15",
+                        "tourId": "3884"
+                    },
+                    {
+                        "itemId": "784397520877",
+                        "cityName": "呼和浩特站",
+                        "showTime": "06.22",
+                        "tourId": "3884"
+                    },
+                    {
+                        "itemId": "795393918044",
+                        "cityName": "青岛站",
+                        "showTime": "07.20",
+                        "tourId": "3884"
+                    },
+                    {
+                        "itemId": "783054719227",
+                        "cityName": "徐州站",
+                        "showTime": "05.25",
+                        "tourId": "3884"
+                    },
+                    {
+                        "itemId": "789508852175",
+                        "cityName": "国际及港澳台站",
+                        "showTime": "06.09",
+                        "tourId": "3884"
+                    },
+                    {
+                        "itemId": "782676362372",
+                        "cityName": "绍兴站",
+                        "showTime": "05.18",
+                        "tourId": "3884"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=795393918044"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D795393918044%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "2041",
+                        "artistName": "张信哲",
+                        "archives": "华语男歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1709953386311/1709953386311-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "2041",
+                        "name": "张信哲",
+                        "desc": "华语男歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1709953386311/1709953386311-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "13676",
+                    "wantNumStr": "1.4万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过72%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i3/O1CN01CGzEn91X9XkwbUHlz_!!6000000002881-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2403122/480624431_1709093150436.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01WMBkkT1Lnb08vVqc0_!!6000000001344-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1164080/232816099_1681905857316.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01r0ZMup1vQzcdFJguf_!!6000000006168-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「开售提醒」</span>购票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "23743154308",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1709883833845/1709883833845-main.jpg",
+                    "note": "一代情歌王子张信哲将带我们穿越时空，走进期待的未来世界，开启美好而梦幻的现实",
+                    "categoryName": "其他",
+                    "title": "张信哲 未来式终极版世界巡回演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊",
+                "inFieldComments": [
+                    {
+                        "id": "15372501",
+                        "comment": "张信哲未来式终极版—上海站",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/15f0863c5bd440579ccdaa174e4e6c40.jpeg",
+                        "nickName": "麦子0g5w5",
+                        "userPic": "https://perico.damai.cn/userheadphotos/629806/125961297.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15221499",
+                        "comment": "张信哲上海演唱会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/6654892313e7407bae92415f2aa2aafb.jpeg",
+                        "nickName": "alina",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/607513/121502773_1699164542687.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15205716",
+                        "comment": "情歌王子，宝刀未老！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/4855387682cf4119854c9c547728e74c.jpg",
+                        "nickName": "ReggaeLive",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1225203/245040653_1711510111518.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13929803",
+                        "comment": "不得不说现场很能打，听到过火的时候我的 K 歌记忆觉醒了，鸡皮疙瘩瞬间起来了。看到彩虹忍不住拍了段。别的就专心听他唱歌了。张信哲不愧是我小学时候喜欢的歌手。印象中就是 MV 里那个拉着小提琴的小王子。如果非要選一場演唱會來聽的話，我還會選張信哲。他很會照顧粉絲，還特意站到最角落對著看臺區朋友唱歌，很暖。其實他是個很喜歡藝術和科技感的中年少男，心裡特別喜歡新奇的東西。時間都去哪兒了就看出來了，真的很可愛我也很喜歡這個設計。\n然後很喜歡彩虹，超美的，我也看到場外的路人紛紛來打卡，看來大家都喜歡好看的東西和好聽的聲音",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/0040676e42cc4bee85cd191f6ba19960.jpeg",
+                        "nickName": "萧洒小太阳",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1097640/219528119_1695033852391.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13836703",
+                        "comment": "❤推荐理由\n“音乐征途中，梦想不止，未来可期”是未来式2.0世界巡回演唱会想要传递给大家的音乐理念‍，情歌王子阿哲也希望用他的音乐‍带给大家积极向上和无限可能！\n🌟现场氛围\n都说来听张信哲演唱会，是和最重要的人一起共赴一场青春的音乐盛会。也许，现在的我们到了不会轻易为了某一件事而冲动的年纪，但我们不会忘记，曾经青春懵懂时无法平息的第一次感动。大家从不同的地方来到未来式2.0的现场，身临其境感受“哲式情歌”的现场魅力。雨中合唱气氛拉满！有欢笑有尖叫🥰\n📝最爱曲目\n《信仰》的舞美效果特别特别浪漫❤️，是信仰支撑着所有的爱！《过火》《无别》《白月光》\n都很好听！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/11365ca77b86451799e37fc9b468211f.jpeg",
+                        "nickName": "一个平平无奇的剧院韭菜",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/811533/162306614_1684052320286.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13740852",
+                        "comment": "首先，提前做好了攻略去现场，路线也是以前问过去过的同事，但是仍然很感慨，地铁出口的接驳车，直达演唱会现场的门口。这个服务真的很戳我心。\n其次，进入场馆找到座位后，每个座位上都有荧光棒，对于喜欢热闹气氛的人来说，虽然是演唱会标配，但是仍然觉得很有意义。\n最后，表演就毫无疑问的要给满分满分💯了。张信哲真的好温柔啊，我的天哪，跟印象中电视里唱歌的声音，一模一样，真的一开口就有想要流眼泪的冲动呜呜呜🥹。全程跟唱。很浪漫很幸福。\n\n认识了志同道合的小伙伴，场馆开出来的座位也很满意👍，都很满意，临走还带了应援棒留作纪念。嘿嘿。\n\nps：离场的时候，走的快了些，很顺利的按照指示与引导找到了送回地铁站的大巴车🚍。一路上大家都在感叹，很满意的一次体验。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/75bfe805010c43398d46c98e5452e4b4.jpeg",
+                        "nickName": "微信用户cOKa",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1153758/230751678_1682313388499.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13701026",
+                        "comment": "体育场真的跟体育馆的感受差很多。无论是音质，氛围还有观看角度，都差一点。\n湖州这场的管理真的很烂，检票口和安检口离的非常近，一开始也不分流，导致所有人都挤在一块，很危险，很难受！另外看台上竟然很多位置都没有放荧光棒，why??看台不值得吗？还是主办方根本不用心，反正这两点非常让人生气！\n阿哲还是王子范哦，基本上耳熟能详的歌都唱了，但是开场不知道是不是还没开嗓的原因，宽容的高音有点上不去呢🤪\n不过，看过就很爽了，毕竟听了这么多年的歌能够在现场听到并一起合唱就很感动呢😭😭",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/56273358570346638386b31c4dcaf2fc.jpeg",
+                        "nickName": "岁岁年年222",
+                        "userPic": "https://perico.damai.cn/userheadphotos/268781/53756365.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13699696",
+                        "comment": "2023年11月18日，一个让我难以忘怀的日子。那天，我终于抢到了张信哲演唱会湖州站的门票，心情无比激动和期待。\n等到了演唱会快开始前几个小时，我就迫不及待地来到了湖州体育馆，脸上洋溢着兴奋的笑容。我和朋友们找了一个相对靠前的位置，等待着演唱会的开始。\n随着灯光熄灭，现场的气氛越来越紧张。突然，一束聚光灯打在舞台上，张信哲出现了！他身穿一身黑色西装，显得格外帅气。他微笑着向观众们挥手致意，现场顿时爆发出雷鸣般的掌声和尖叫声。\n演唱会开始了，张信哲带来了许多经典歌曲，如《爱如潮水》、《过火》、《信仰》等。每当他唱到这些熟悉的旋律时，我都会情不自禁地跟着哼唱，仿佛回到了那些青涩的岁月。而当他唱到新歌时，我也能感受到他在音乐上的不断创新和突破。\n在演唱会的过程中，张信哲还与粉丝们互动，分享了他的生活点滴和音乐感悟。\n演唱会的高潮部分是张信哲演唱了他的成名作《爱如潮水》。当那熟悉的旋律响起时，现场的气氛达到了顶点。所有人都跟着音乐起舞，尽情地释放着自己的激情。那一刻，我仿佛感受到了整个宇宙都在为我们歌唱。\n演唱会结束后，我依依不舍地离开了现场。那一天，我见证了张信哲的音乐魅力，也收获了一段难忘的回忆。我知道，这场演唱会将成为我心中永恒的美好时光。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/2b0d10b5ed9041a5b2dfce815c16c259.jpeg",
+                        "nickName": "麦子4Lw3x",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1199548/239909692_1712757194488.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13679390",
+                        "comment": "张信哲是一位声音极具辨识度的音色流歌手，对我的音乐审美影响很深，也曾是我的音乐世界里的信仰。因为他，我认识到唱歌并不在于声音大小，而在于用情，理解歌曲；因为他，我意识到每个人的音色都是独一无二的，要格外珍惜它，利用好它。阿哲拥有一把清亮纯净的好嗓子，很适合在孤独的夜里抚慰心灵，几十年里唱出了许多脍炙人口的动人情歌，无需追求风格多样化，能把一种风格做到极致就够了。同时，他也一直在歌手道路上努力进步，坚持到了现在，让我有幸在现场听到他的美妙歌声，看到他的卖力表演。他一张口就能带来丝滑的感受，迅速沁入人心，震撼心灵，甚至达到情感的连结。现场一首接着一首的大合唱，虽然每个人的感动点有所不同，但是共享的却是在同一首歌里的各自专属回忆。也许现在已经不是他的时代了，但是无论时间过了多久，经典的旋律永不过时，一旦唱响又仿佛回到了那个华语乐坛的黄金年代。正如这次演唱会的主题“未来式2.0”，阿哲并不服老，心态依然年轻，也还会继续唱下去，而经典的歌曲可以穿越时代，一直传承下去。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/5a61e57f23f94fdd92b86ee1983f31da.jpeg",
+                        "nickName": "Nalra",
+                        "userPic": "https://perico.damai.cn/userheadphotos/451054/90210888.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13616402",
+                        "comment": "🌟体验感\n从火热的哏儿都夏天，来到风雨交加的蓉城深秋，时隔几个月你来到我的城市，而距离上一次成都演唱会，已经四年多了。\n\n心想着少拍几张认真听，但即使在🐶大麦开出来的一排偏偏，还是又忍不住狂按快门。似乎这样才能留住更多时光，用以抚慰那些你不在的时间。\n\n昨天和小伙伴说，其实也不是不爱了，只是一起走过的路那么长，未来的时光也还很久，我们用更温和的方式继续，或许以音乐陪伴就是最好的时光。\n\n就像昨晚你问，等到你鹤发鸡皮容颜不再，你们还会不会爱我？——啊，我亲爱的阿哲，爱这个词很妙的。你唱了那么多种情感，怎么不会懂得，那些漫长的岁月里，你的音乐旅途中所有的坎坷起伏，都有着真诚热烈地爱着你的人，你的“歌迷朋友”们啊。\n\n你也许还记得，也许早已忘记，但我会记得这句歌词，来自《远方》：“直到白发苍苍，我们的手谁都不放。”\n\n阿哲，谢谢你啊。风雨交加的成都有点儿冷，但当你满面笑容地挥手唱“像你见我挥手，立刻为我停泊解忧”，我想，我是真的。\n\n爱你。\n\n🌟舞台现场氛围\n周围都是老粉，很真诚，每首歌都在大合唱，一起欢呼，非常沉浸观演\n\n🌟不足的地方\n有很多家长带孩子，会影响其他人",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/9e3ba8fcf0994634acf16a99180847e6.jpeg",
+                        "nickName": "urben",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/475500/95100004_1699603717897.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13614051",
+                        "comment": "学生时代的情歌王子，终于看到了他的现场！\n\n❤推荐理由\n我拥有的第一个签名专辑就是张信哲的，真的很喜欢他的声音，很温柔。来到现场之后发现，真的就是行走cd！现场特别稳！而且张信哲很有艺术家感觉，这点我也超级喜欢！😍\n\n🎭惊艳表演\n很多歌曲的舞台表演真的超赞，尤其是威压吊起来的巨型的人，特别震撼。舞美灯光都很棒！唱到以后看见彩虹的时候，灯光是彩虹色耶！好漂亮！\n\n❣其他提示\n演唱会门口会有卖签名专辑的，一百元一张。但是演唱会开始前张信哲vcr录像中提到，官方并没有这个活动，所以大家不要被骗！\n\n一定要去看的一个现场！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/1434708ca3f44b2b8d81c4b2155abba9.jpeg",
+                        "nickName": "剧院里的黑猫墨月",
+                        "userPic": "https://perico.damai.cn/userheadphotos/582601/116520378.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13175926",
+                        "comment": "本场叫做未来式2.0，自然也融合了一些现代与未来的科技元素。高空、灯光、镭射，还有特意在国外制作的 Al。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/95f30e228d064fefb0231a35975560c7.jpeg",
+                        "nickName": "colour_micai",
+                        "userPic": "https://perico.damai.cn/userheadphotos/272621/54524268.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13172712",
+                        "comment": "先说交通，常州站到奥体中心，1号线地铁20分钟左右直达，地铁附近有指示牌，或者跟着人流走也可以，都是看演唱会哒！\n当天常州下雨，出地铁口时，有提供一次性雨衣的，也会有人提醒，场馆内主办方也会提供一次性雨衣，我是自己带的，真机智！\n虽然下雨，但是现场氛围还是可以的，不过比不上不下雨，中间雨还越下越大，最气人的是，演唱会结束了，雨居然停了，雨它停了！它停了！停了！这个是真的气人😡！\n散场的时候人流量过大，有地铁口承载不了暂停进入。\n总的来说，雨中的演唱会还算可以吧。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/28e835ff30254816bf01da8ba1e146ad.jpeg",
+                        "nickName": "麦子6Vz9D",
+                        "userPic": "https://perico.damai.cn/userheadphotos/580342/116068569.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13144298",
+                        "comment": "演唱会的场景简直就是一个梦幻般的仙境。舞台上的灯光熠熠生辉，交织出美丽的图案，随着音乐的起伏呼应着歌曲的情感。当张信哲缓缓走上舞台时，全场掌声雷动，尖叫声此起彼伏，而我也情不自禁地加入其中，痴迷于这个瞬间。\n张信哲的歌声如同一颗珍珠般宝贵。他将每一首歌曲都唱得深入人心，传达出内心的情感与力量。当他演唱经典的《我怀念的》时，我仿佛回到了过去的岁月，情感涌上心头，热泪盈眶。而当他演唱忧伤的《过火》时，他的声音仿佛能够拨动灵魂的琴弦，让人感受到深深的痛苦与悲伤。\n在演唱会的每个瞬间，我都能感受到张信哲对音乐的热爱和专注。他的舞台表现力也是一流的，时而热情四溢地与观众互动，时而凝视着远方深入歌曲的情感。他的演唱会不仅仅是音乐的盛宴，更是一个情感的传递平台。通过他的歌声，我不仅感受到了他的坚持和为音乐付出的努力，也找到了自己的共鸣与情感寄托。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/5a7598cb8456421396adf39bdca8cb12.jpeg",
+                        "nickName": "想做自己的仔",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1151994/230398941_1681373177366.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "11168338",
+                        "comment": "张信哲未来式2.0演唱会 观演攻略⚠️\n  \n📌地点：上海东方体育中心\n🚇交通\n地铁东体站下来就行一般看台和内场是两个门入场\n可以提前了解下入场信息！像这次看台都是4号门入场，入场很有序！\n⏰抵达时间\n建议越早到越好！听说当天快开场门口还有一些人在排队，尽量错峰早点到。\n🫙不可携带\n所有的饮料矿泉水都不可以带⚠️\n包括自拍杆荧光棒、头箍等\n荧光棒里面会提供，头箍带着会影响后排观众！\n  \n⌚️演出时常：\n约2小时40分整整160分钟！！\n阿哲几乎从头唱到尾，聊天就聊了没多久！\n唱了快30首歌！！实在是太有诚意了\n \n🎵超爱歌单\n从爱如潮水开场，后面的用情、爱就一个字……一直到最后不要对他说，几乎每一首歌都能唱出来！\n不愧是不老的情歌王子！！\n \n💺座位视角\n我买的680是在312看台\n虽然比较偏但是离舞台比较近！\n后面大屏幕看起来会比较困难，但看阿哲还是很好的！\n拿个望远镜超级清晰！！\n🤩看完也算是圆了童年梦，也算带着老妈追了星！超级满足！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/b5d3ca26deef4d35a9f80a3195017448.jpeg",
+                        "nickName": "dmdbl",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/109441/21888391_1712132569823.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "9605021",
+                        "comment": "喜欢了你30年，由于疫情未来式2.0杭州站延期了，但我依然还保留着门票舍不得退掉，期待春暖花开，期待重逢的那天。预祝阿哲20220326生辰快乐🎂！天天快乐🍭！每当看到你在舞台中央闪闪发光，而我就忍不住热泪盈眶🍬",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/709bf57c027445d2b05db48c765f2091.jpg",
+                        "nickName": "心情卡片呀",
+                        "userPic": "https://perico.damai.cn/userheadphotos/735870/147174017.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    }
+                ]
+            },
+            "item": {
+                "buyBtnStatus": "90",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "13",
+                "sellStartTime": "1715583029000",
+                "sellStartTimeStr": "05月13日 14:50",
+                "priceRange": "¥380-¥1380",
+                "performBases": [
+                    {
+                        "name": "07.20 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1721404800000",
+                        "performs": [
+                            {
+                                "performId": "214580119",
+                                "performName": "2024-07-20  周六 19:30",
+                                "itemId": "795393918044",
+                                "projectId": "220347021",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1721475000000",
+                                "performTime": "2024.07.20 19:30",
+                                "performStartDate": "2024-07-20",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "106881",
+                    "120577",
+                    "123905",
+                    "385",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "260994",
+                    "6658",
+                    "28802",
+                    "215809",
+                    "221697",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "354817",
+                    "388353",
+                    "286337",
+                    "303617",
+                    "3974",
+                    "8454",
+                    "8838",
+                    "459265",
+                    "523649",
+                    "7943",
+                    "361730",
+                    "373634",
+                    "397057",
+                    "409985",
+                    "417537",
+                    "8843",
+                    "9099",
+                    "8459",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9355",
+                    "9867",
+                    "9995",
+                    "12171",
+                    "14731",
+                    "16267",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "82369",
+                    "89665",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "36417",
+                    "37569",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "260033",
+                    "137281",
+                    "141121",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "350017",
+                    "360001",
+                    "266817",
+                    "303553",
+                    "303681",
+                    "1478",
+                    "4166",
+                    "12998",
+                    "478785",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "591425",
+                    "7371",
+                    "1611",
+                    "2507",
+                    "4939",
+                    "14155",
+                    "19403",
+                    "23115",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "31947",
+                    "33739",
+                    "2874946",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7953939180/2/795393918044.jpg"
+            }
+        }
+    }
+}

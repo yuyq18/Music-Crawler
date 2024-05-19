@@ -1,0 +1,487 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "586",
+    "cityname": "武汉",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_796961571335",
+    "imgurl": "-620318879",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "INDIE图鉴飛刀組x不晚InTime新声计划九省通衢武汉站",
+    "nameNoHtml": "INDIE图鉴飛刀組x不晚InTime新声计划九省通衢武汉站",
+    "price": "19.9",
+    "price_str": "19.9-69",
+    "pricehigh": "69.0",
+    "privilegeTags": "[]",
+    "projectid": "796961571335",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.05.29 周三 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "不晚INtime 403店",
+    "venuecity": "武汉",
+    "venueid": "3375001",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN010Gp1Qz2GdSbJSDwRc_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "796961571335",
+                    "itemName": "【武汉】INDIE图鉴飛刀組x不晚InTime新声计划九省通衢武汉站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "420100",
+                    "cityName": "武汉市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN010Gp1Qz2GdSbJSDwRc_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i2/2251059038/O1CN010Gp1Qz2GdSbJSDwRc_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.05.29 周三 20:00",
+                    "showDuration": "以现场为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：湖北不晚文化发展有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：湖北不晚文化发展有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "586",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p data-sider-select-id=\"d8062c8e-9cb8-4929-9d96-dfce68a581ee\">九省通衢！飛刀組说唱演出武汉站震撼来袭！</p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i47.35b76b72Bzb5QF\">九省通衢，说唱盛宴！5 月 29 日，飛刀組将在武汉为大家带来一场说唱演出！</p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i3.35b76b72Bzb5QF\"><br></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i48.35b76b72Bzb5QF\">说唱艺人汇聚&nbsp;</p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i1.35b76b72Bzb5QF\">本次演出汇聚了多位说唱艺人，他们将用独特的风格和精湛的技巧，为观众带来一场视听盛宴。</p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i1.35b76b72Bzb5QF\"><br></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i4.35b76b72Bzb5QF\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN011NEW9m2GdSbGBkrTT_!!2251059038.jpg\" width=\"887\" height=\"1202\" damai_width=\"887\" damai_height=\"1202\">\n</p><p><span><span>Max</span><span>迎南</span></span><span><span>于</span><span>2018</span><span>年加入本土乐队担任主唱 副吉他手 鼓手；</span><span>2019</span><span>年成立</span><span>Lilyuem</span><span>说唱厂牌作为厂牌主理人与成员创作出了《</span><span>I Miss You</span><span>》《</span><span>Movie</span><span>》等单曲 ；</span><span>2023</span><span>年</span><span>QQ</span><span>音乐</span><span>&amp;</span><span>大鲍岛 嗨！来大鲍岛暖冬迎新年音乐会演出嘉宾；</span><span>QQ</span><span>音乐</span><span>&amp;</span><span>美汁源 “果粒蹦吧〞武汉站商演邀请嘉宾；</span><span>QQ</span><span>音乐</span><span>&amp;</span><span>湖州爱山银泰城潮乐狂欢跨年夜商演嘉宾；腾讯音乐飛刀组联合<span>&nbsp;</span></span><span>INDIE<span>&nbsp;</span></span><span>图鉴月度汇报演出武汉站演出嘉宾；腾讯音乐飛刀组联合<span>&nbsp;</span></span><span>INDIE<span>&nbsp;</span></span><span>图鉴及氧气制燥月度汇报演出郑州站演出嘉宾；<span>&nbsp;</span></span><span>INDIE</span><span>图鉴受访嘉宾 歌曲《爆竹声中一岁除》唤·新声榜<span>&nbsp;</span></span><span>Top10 2024</span><span>年</span><span>QQ</span><span>音乐</span><span>&amp;</span><span>联想小新 武汉光谷</span><span>K11Select YOUNGMUSIC</span><span>潮舞台演出嘉宾「</span><span>NOBODY CONTROL2024</span><span>巡演 」西安站演出嘉宾；</span></span><span><span>INDIE</span><span>系列演出</span><span>--</span><span>夏日狂想曲邀请嘉宾</span></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i8.35b76b72Bzb5QF\"><br></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i8.35b76b72Bzb5QF\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01XvVyzT2GdSbFQacDc_!!2251059038.jpg\" width=\"1600\" height=\"1067\" damai_width=\"1600\" damai_height=\"1067\"><span>REHO<span>&nbsp;</span></span><span>北京新生代说唱歌手<span>&nbsp;</span></span><span>QQ</span><span>音乐</span><span>K95S</span><span>飛刀組成员 擅长</span><span>old school boombap</span><span>但风格多样 代表作《做你自己</span><span>Freestyle</span><span>》《</span><span>UNHUMBLE</span><span>高调做人》</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i8.35b76b72Bzb5QF\"><span><br></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i8.35b76b72Bzb5QF\"><span><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01NOz4TA2GdSbDXkjUP_!!2251059038.jpg\" width=\"800\" height=\"800\" damai_width=\"800\" damai_height=\"800\"><span>郝运</span><span><span>from 029 underground</span><span>，目前就读于西安音乐学院，</span><span>19</span><span>年无意间白</span><span>P</span><span>了一张演出门票，大受震撼感受到了</span><span>freestyle</span><span>的魅力，便决定要成为一名打遍全国的</span><span>battle MC</span><span>。随后便开始在某企鹅群里夯实基础，</span><span>2020</span><span>年拜师西安知名</span><span>battle MC<span>&nbsp;</span></span><span>皇帝的新猫并跟随其学习钻研</span><span>freestyle</span><span>。</span><span>20</span><span>年年末开始转型作品。</span><span>22</span><span>年踏入</span><span>idol</span><span>行业曾在江西景德镇分贝研修院进行过半年练习生学习，后因学业问题以及口罩原因无法继续从事工作，回到西安后多次与当地文化部门合作，于</span><span>2023</span><span>年为中建《丝路正青春》歌曲谱词，其歌曲《烙印</span><span>XA</span><span>》更是被评为</span><span>2023</span><span>年西安市五一城市旅游推广曲，多次与西安广播电视台合作为西安广大市民无聊的行车生活贡献出自己的音乐和歌声。代表作：《烙印</span><span>XA</span><span>》《风》等作品。</span></span></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i8.35b76b72Bzb5QF\"><span><br></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i8.35b76b72Bzb5QF\"><span><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01iHPmaI2GdSbIgbMp5_!!2251059038.jpg\" width=\"1987\" height=\"3524\" damai_width=\"1987\" damai_height=\"3524\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i18.35b76b72Bzb5QF\" data-sider-select-id=\"8e271a61-28cc-486f-9c50-56c3070188f5\"></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i19.35b76b72Bzb5QF\"><span><span>鲁攀宇</span><span>LP</span><span>来自湖南长沙浏阳的独立音乐人，腾讯旗下飛刀组成员。擅长旋律说唱和朋克音乐。</span><span>2019</span><span>年参加过《少年说第五季》的节目录制。</span></span></p><p><span><span>代表作有《</span><span>SWAG</span><span>》、《两点半派对》、《</span><span>20</span><span>岁之前我希望环游世界》、《</span><span>DIRty</span><span>》、《</span><span>3301</span><span>》。</span></span></p><p><span><span><br></span></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i23.35b76b72Bzb5QF\"><span><span><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ujjDK22GdSbFQjPQv_!!2251059038.jpg\" width=\"1919\" height=\"1919\" damai_width=\"1919\" damai_height=\"1919\"></span></span></p><p><span><span>李杜诗篇，武汉校园原创音乐人，代表原创作品：《骑士日记》、《满分答卷》，代表翻唱作品：《雨》、《夏夜最后的烟火》、《守候》，音乐平台翻唱作品收听破千万，单曲收藏突破</span><span>30w</span><span>。</span></span></p><p><span>个人经历：</span></p><p><span><span>1.2023</span><span>年荣获湖北武汉首届大学生音乐节</span><span>20</span><span>强“优秀选手奖”。</span></span></p><p><span><span>2.2023</span><span>年荣获首届武汉大学生</span><span>CITY</span><span>音乐节“十佳歌曲奖”。</span></span></p><p><span><span>3.2022</span><span>年、</span><span>2023</span><span>年分别荣获武汉商学院第一届、第二届原创音乐大赛一等奖。</span></span></p><p><span><span>4.2023</span><span>年荣获武汉商学院校园歌手大赛二等奖。</span></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i24.35b76b72Bzb5QF\"><br></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i24.35b76b72Bzb5QF\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ilMtWf2GdSbIgh0MX_!!2251059038.jpg\" width=\"1280\" height=\"1920\" damai_width=\"1280\" damai_height=\"1920\"><span><span>雷昊</span><span>CuriousLH</span></span><span>&nbsp;</span><span><span>武汉新生代说唱歌手雷昊</span><span>CuriousLH</span><span>，街头艺术家，来自武汉</span><span>SGON</span><span>说唱厂牌，目前就任主理人，腾讯旗下飛刀组说唱音乐人，各大音乐播放平台播放量破百万，曾经参加腾讯飞刀组武汉，郑州，长沙巡演，参加过武汉</span><span>VOG</span><span>音乐节比赛冲进总决赛前</span><span>13</span><span>强，武汉扎得紧赛事选手，也凭借独特的说唱风格在武汉小有名气。</span></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i24.35b76b72Bzb5QF\"><span><span><br></span></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i24.35b76b72Bzb5QF\"><span><span><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01fAZwAG2GdSbH2WG19_!!2251059038.jpg\" width=\"774\" height=\"751\" damai_width=\"774\" damai_height=\"751\"></span></span></p><p><span><span>Nstingy &nbsp;</span><span>武汉新生代说唱歌手，来自武汉</span><span>SGON</span><span>，擅长</span><span>boombap</span><span>，</span><span>trap</span><span>。</span></span></p><p><span><span>代表作《百花怒放》《从过去到现在》等。参加过“</span><span>rap day &nbsp;</span><span>”,“</span><span>NUNA</span><span>高校 说唱比赛”</span></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i32.35b76b72Bzb5QF\"><br></p><p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01TzeJ8R2GdSbHVC2w8_!!2251059038.jpg\" width=\"1280\" height=\"1811\" damai_width=\"1280\" damai_height=\"1811\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i31.35b76b72Bzb5QF\" data-sider-select-id=\"a11c0b6e-ac5e-4998-9e54-572417ae5b0e\"></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i33.35b76b72Bzb5QF\"><span><span>Harley</span></span><span>&nbsp;</span><span><span>来自新疆的电子音乐制作人</span><span>Harley</span><span>，主要风格</span><span>Future Bass</span><span>，</span><span>Tech House</span><span>，</span><span>Midtempo</span></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i33.35b76b72Bzb5QF\"><span><span><br></span></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i33.35b76b72Bzb5QF\"><span><span><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01yzSAag2GdSbJQ0FIp_!!2251059038.jpg\" width=\"1920\" height=\"1280\" damai_width=\"1920\" damai_height=\"1280\"></span></span><br><span><span data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i36.35b76b72Bzb5QF\">浦航来自武汉的</span><span>&nbsp;</span><span>01</span><span>年</span><span>Beatboxer&amp;rapper</span><span>说唱风格：电子 亚文化<span>&nbsp;</span></span><span>hyperpop2019<span>&nbsp;</span></span><span>武汉<span>&nbsp;</span></span><span>bbox</span><span>冠军<span>&nbsp;</span></span><span>2023 cnbcBbox<span>&nbsp;</span></span><span>全国赛 男子个人</span><span>16</span><span>强</span></span></p><p><span><span>2021cnbcBbox<span>&nbsp;</span></span><span>全国赛 男子个人</span><span>16</span><span>强</span><span>/</span><span>车轮</span><span>8</span><span>强</span><span>E-WAVE GHOST</span><span>电子幽灵厂牌成员</span></span></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "湖北不晚文化发展有限公司",
+                            "socialCreditCode": "91420105MA49CH4H93",
+                            "legalPerson": "邓中平",
+                            "regCapStr": "500万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "武汉市汉阳区龟山北路1号46-1-7号"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/台湾居民来往大陆通行证/身份证/护照"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "有寄存处,具体位置请联系现场工作人员。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "3375001",
+                    "venueName": "不晚INtime 403店",
+                    "venueProvinceName": "湖北省",
+                    "venueCityName": "武汉市",
+                    "lng": 114.33647,
+                    "lat": 30.52344,
+                    "venueAddr": "武汉市武昌区宝通寺路33号403国际艺术中心",
+                    "showCountText": "共有16个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D796961571335%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "特惠购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1715927619000",
+                "sellStartTimeStr": "05月17日 14:33",
+                "priceRange": "¥19.90-¥69",
+                "performBases": [
+                    {
+                        "name": "05.29 周三",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1716912000000",
+                        "performs": [
+                            {
+                                "performId": "214534201",
+                                "performName": "2024-05-29 周三 20:00",
+                                "itemId": "796961571335",
+                                "projectId": "220385046",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1716984000000",
+                                "performTime": "2024.05.29 20:00",
+                                "performStartDate": "2024-05-29",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "2人套票可省9元"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "2人套票",
+                        "content": "双人票，可省9元"
+                    }
+                ],
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "360001",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "14155",
+                    "23883",
+                    "23115",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "3060546",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "9355",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9099",
+                    "9867",
+                    "8843",
+                    "2443",
+                    "395",
+                    "1163",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "7371",
+                    "2939586"
+                ],
+                "promotionList": [
+                    {
+                        "type": "COMBINE",
+                        "tag": "套票",
+                        "isTagList": "false",
+                        "desc": "2人套票8.8折，到手¥69(票档¥39x2)"
+                    }
+                ],
+                "promotionDetail": {
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "1",
+                            "promotionGroupTypeDesc": "票档优惠",
+                            "promotionList": [
+                                {
+                                    "promotionType": "3",
+                                    "promotionTag": "套票",
+                                    "promotionContentList": [
+                                        "2人套票8.8折，到手¥69(票档¥39x2)"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "8.8折，到手69（票档¥39x2）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7969615713/2/796961571335.jpg"
+            }
+        }
+    }
+}

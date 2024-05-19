@@ -1,0 +1,453 @@
+{
+    "activityTags": "[]",
+    "actors": "nan",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "893",
+    "cityname": "广州",
+    "couponTags": "[]",
+    "description": "nan",
+    "id": "1_1_795332335046",
+    "imgurl": "-636611242",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "【陈德修SHU-广州站】2024适者生存StayAlive巡演",
+    "nameNoHtml": "【陈德修SHU-广州站】2024适者生存StayAlive巡演",
+    "price": "280.0",
+    "price_str": "280-520",
+    "pricehigh": "520.0",
+    "privilegeTags": "[]",
+    "projectid": "795332335046",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "nan",
+    "showtime": "2024.07.06 周六 14:30",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "nan",
+    "venue": "MAO Livehouse广州(永庆坊店)",
+    "venuecity": "广州",
+    "venueid": "3659005",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN010FAOuk2GdSbEeHAxW_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "795332335046",
+                    "itemName": "【广州】【陈德修SHU-广州站】2024适者生存StayAlive巡演",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "440100",
+                    "cityName": "广州市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN010FAOuk2GdSbEeHAxW_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i4/2251059038/O1CN010FAOuk2GdSbEeHAxW_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.07.06 周六 14:30",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：成都太合乐动科技有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：成都太合乐动科技有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "893",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "活动介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01SUIAsM2GdSb9lMlLD_!!2251059038.jpg\" alt=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01pcyb4M2GdSbBHuLSW_!!2251059038.png\" alt=\"\" width=\"640\" height=\"1800\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>适者生存 STAY ALIVE</strong></p>\n<p style=\"text-align: center;\">// 歌手简介//</p>\n<p style=\"text-align: center;\">陈德修SHU<br>歌手，音乐制作人，吉他手，演员</p>\n<p style=\"text-align: center;\">他创作出多首脍炙人口的歌曲<br>《够爱》《泪了》《以战止战》《天使的距离》《在你离开那一天》<br>他作为乐团东城卫、赤世代的吉他手和队长举办过上百场的LIVE<br>亦作为演员活跃，在终极系列中担纲重要角色<br>2020年开始，修以个人歌手名义发布了<br>《FOR YOU》《在我身边》《雨下不停》《红色天空》《重生》<br>并于2023年展开了广受好评的个人音乐巡演<br><strong>2024年 ，他将携个人最新原创创作专辑《适者生存》，讲述他多年的音乐心境</strong><br><strong>并展开2024 适者生存STAY ALIVE巡演</strong></p>\n<p style=\"text-align: center;\">// 广州站信息 //</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">SVIP票 ￥520（限购2张）<br>第一批入场+伴手礼+适者生存CD+SVIP限定场次限定小卡(1)+SVIP特别环节(签名+合影)</p>\n<p style=\"text-align: center;\">VIP票 ￥380<br>第二批入场+伴手礼</p>\n<p style=\"text-align: center;\">普通票￥280<br>第三批入场</p>\n<p style=\"text-align: center;\">*SVIP票凭借付款时间决定入场顺序和签售顺序<br>&nbsp;*VIP票凭借付款时间决定入场顺序<br>*普通票按排队顺序入场</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">【入场指南】</p>\n<p style=\"text-align: center;\">为保障入场秩序，此场将进行观众排号入场形式，时间安排及注意事项如下:</p>\n<p style=\"text-align: center;\">(1) 时间安排</p>\n<p style=\"text-align: center;\">11:30 - 13:00 取签唱会入场号码手环（SVIP/VIP 观众还可领取伴手礼）<br>13:00 - 14:00 观众整队<br>14:00 - 14:10 SVIP观众有序验票&amp;入场<br>14:10 - 14:20 VIP观众有序验票&amp;入场<br>14:20 - 14:30 普通票观众有序验票&amp;入场</p>\n<p style=\"text-align: center;\">*具体入场时间视现场情况或有调整</p>\n<p style=\"text-align: center;\">(2)注意事项<br>1、请本人凭[本人身份证号] +[秀动门票二维码] (截图无效)，依次领取号码牌，一人一码一号，不得代领，领完号码牌可自行在附近游玩就餐，请勿原地逗留。<br>2、整理队列期间如未出现，视为放弃号码位置，需从队尾重新排队。<br>3、SVIP/VIP票观众的入场手环号码为主办方提前（演出前一周）短信通知的号码(如在开场前仍未收到短信，请进群询问小助手)。普通票按照观众到达顺序发号。<br>4、请注意个人健康安全，保持排队间隔，保管好个人物品尤其贵重物品，听取现场工作人员指挥有序排队，有任何突发情况请第一时间联系现场工作人员。</p>\n<p style=\"text-align: center;\">【演出安排】</p>\n<p style=\"text-align: center;\">14:30 - 17:00 演出时间<br>17:00 - 17:30 观众散场,SVIP观众签售合影排队<br>17:30 - 21:30 SVIP观众签售合影</p>\n<p style=\"text-align: center;\">*具体入场时间视现场情况或有调整</p>\n<p style=\"text-align: center;\">【签唱会细则】</p>\n<p style=\"text-align: center;\">1、SVIP观众的礼包中会备有卡片，请SVIP观众提前将TO签内容写在卡片上（不得有违反法律法规道德准则的内容）<br>2、签售合影顺序与入场排号顺序相同，请观众有序排队，听从工作人员指挥<br>3、合影使用的设备为观众自己的手机，请观众在合影前调整好设置，以免耽误时间</p>\n<p style=\"text-align: center;\"><br>【其他细则】<br>1、请不要携带强光，强闪光的物品。不要在演出时对艺人使用闪光灯。<br>2、不要携带易燃、易爆、刺激性、有毒的物品和武器等危险物品。<br>3、如果演出现场过于拥挤或出现安全问题，应及时向场馆工作人员求助，配合工作人员进行疏散和处理。<br>4、遵守场馆内的规定和指示，不要乱扔杂物，不要随意攀爬建筑物或设施。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">【适者生存 STAY ALIVE】</p>\n<p style=\"text-align: center;\">// 自己 //<br>对于物质的迷茫的自己，面对走散了的爱人的自己，年轻时追求梦想的自己<br>从挫折中试著突破逆境的自己，想要得到却无能为力的自己<br>面对这个纷乱世界的自己<br>努力去寻找重生的力量的自己<br>·<br>适者生存是修的自我思考，反思自己在生命中，不同的过程与经历，以及对现在世界的感受⋯<br>经历了两个乐团之后，因为疫情影响使乐团无法继续巡演，修便开始尝试做自己的音乐单曲<br>开启了作为歌手的音乐道路⋯<br>这一切的开始也许是意外，但对修来说却是逆流而上的必然之举，面对质疑，做到最好<br>既然遇到逆境，那就走别的路<br>哪怕一路荆棘，都要不屈不挠，持续前进</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "",
+                            "socialCreditCode": "",
+                            "legalPerson": "",
+                            "regCapStr": "",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "",
+                            "entAddress": ""
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "3659005",
+                    "venueName": "MAO Livehouse广州(永庆坊店)",
+                    "venueProvinceName": "广东省",
+                    "venueCityName": "广州市",
+                    "lng": 113.241368,
+                    "lat": 23.113547,
+                    "venueAddr": "恩宁路265号3层",
+                    "showCountText": "共有29个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D795332335046%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "60",
+                    "wantNumStr": "60",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN01Ws9UMq2266sGyyZBX_!!6000000007070-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/900499/180099883.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01k0453q1sPfdAAQ7YJ_!!6000000005759-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2202171/440434359_1690104300894.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01prjtaq1EkCl1Unc3U_!!6000000000389-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1715791470000",
+                "sellStartTimeStr": "05月16日 00:44",
+                "priceRange": "¥280-¥520",
+                "performBases": [
+                    {
+                        "name": "07.06 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1720195200000",
+                        "performs": [
+                            {
+                                "performId": "214533110",
+                                "performName": "2024-07-06 周六 14:30",
+                                "itemId": "795332335046",
+                                "projectId": "220350031",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1720247400000",
+                                "performTime": "2024.07.06 14:30",
+                                "performStartDate": "2024-07-06",
+                                "performBeginTime": "14:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "106881",
+                    "120577",
+                    "123905",
+                    "385",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "260994",
+                    "6658",
+                    "28802",
+                    "215809",
+                    "221697",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "354817",
+                    "388353",
+                    "286337",
+                    "303617",
+                    "3974",
+                    "8454",
+                    "8838",
+                    "459265",
+                    "523649",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "409985",
+                    "417537",
+                    "8843",
+                    "9099",
+                    "8459",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9355",
+                    "9867",
+                    "9995",
+                    "12171",
+                    "14731",
+                    "16267",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "82369",
+                    "89665",
+                    "91585",
+                    "28353",
+                    "36417",
+                    "37569",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "260033",
+                    "137281",
+                    "141121",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "350017",
+                    "360001",
+                    "266817",
+                    "303553",
+                    "303681",
+                    "1478",
+                    "4166",
+                    "12998",
+                    "478785",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "591425",
+                    "7371",
+                    "1611",
+                    "2507",
+                    "4939",
+                    "14155",
+                    "19403",
+                    "23115",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "31947",
+                    "33739",
+                    "2874946",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7953323350/2/795332335046.jpg"
+            }
+        }
+    }
+}

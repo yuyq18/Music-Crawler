@@ -1,0 +1,429 @@
+{
+    "activityTags": "[]",
+    "actors": "nan",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "893",
+    "cityname": "广州",
+    "couponTags": "[]",
+    "description": "nan",
+    "id": "1_1_796176858075",
+    "imgurl": "-628166012",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "「孥仔在外，平安大赚」野草寮乐队潮语歌谣音乐会",
+    "nameNoHtml": "「孥仔在外，平安大赚」野草寮乐队潮语歌谣音乐会",
+    "price": "98.0",
+    "price_str": "98-128",
+    "pricehigh": "128.0",
+    "privilegeTags": "[]",
+    "projectid": "796176858075",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "nan",
+    "showtime": "2024.07.28 周日 20:20",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "nan",
+    "venue": "广州云幕剧场",
+    "venuecity": "广州",
+    "venueid": "5595003",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN019pGdtM2GdSbDGVMsq_!!2251059038.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "796176858075",
+                    "itemName": "【广州】「孥仔在外，平安大赚」野草寮乐队潮语歌谣音乐会",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "440100",
+                    "cityName": "广州市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN019pGdtM2GdSbDGVMsq_!!2251059038.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN019pGdtM2GdSbDGVMsq_!!2251059038.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.07.28 周日 20:20",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：广州佳裕投资有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：广州佳裕投资有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "893",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i37.79dd6b72qrCdeW\"><br><strong><span data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i36.79dd6b72qrCdeW\">野草寮：「孥仔在外，平安大赚」潮语歌谣音乐会</span></strong></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i38.79dd6b72qrCdeW\"><span>&nbsp;演出时间：2024年7月28日20:00</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i38.79dd6b72qrCdeW\"><span>演出票价：早鸟/98元、全价/128元</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i38.79dd6b72qrCdeW\"><span>演出地点：广州云幕剧场（番禺区汉溪长隆站G出口时代芳华里CR8-4层）<title>&lt;span&gt;&lt;title&gt;</title></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i38.79dd6b72qrCdeW\"><span><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01CUgAqv2GdSbEtZQq7_!!2251059038.png\" width=\"371\" height=\"666\" damai_width=\"371\" damai_height=\"666\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i78.7f216b7247NPOR\"></span><br></p><p><span>也许，对于非潮语地区的听众而言，野草寮一支难听的乐队。</span></p><p><span>难听是指理解的鸿沟——晦涩的潮语唱词，以及他们处理旋律时古典与先锋交杂的跳跃感。但如果放弃对文本的过分关注从而转向纯粹的聆听的话，即可感到地域的流动混合世界性的相互交织。他们是真正意义上的中国民谣乐队，这就是说，他们作为一种深入民间的表达，使他们区别于流行意义上的民谣音乐；同时，对噪音的运用又使他们具备一种实验性。这不仅指涉他们的创作，更指向一种自我溯源的精神，尽管它看起来不太时髦。</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i45.79dd6b72qrCdeW\"><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01BKCpKf2GdSbFSMT8A_!!2251059038.png\" width=\"956\" height=\"636\" damai_width=\"956\" damai_height=\"636\"></span><br></p><h2><strong><span>古谣新编与噪音实验</span></strong></h2><p><span>在野草寮的音乐中，除了由主唱林书盛作词作曲之外，还有部分是对潮汕歌谣的重新作编演。</span></p><p><span>作为汉语方言中最古老的一种, 潮语保留了很多古汉语词汇，但由于年久佚失，一些语词只能用谐音字或近义字代替，或者自造“地方字”。而今存于世的潮汕歌谣，大部分由乡间秀才、账房先生或民间艺人等“底层文人”写就，因此，它不单具备诗、经、雅、乐等语言特点，且更口语化、市井气。这也在某种意义上滋养并促成野草寮的音乐风格。</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i59.79dd6b72qrCdeW\"><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01XKzlPT2GdSbGXtiSD_!!2251059038.png\" width=\"950\" height=\"635\" damai_width=\"950\" damai_height=\"635\"></span><br></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i73.79dd6b72qrCdeW\"><span>在一个平均每天产生数以万计原创作品的时代，他们仍旧愿意一头扎进古老的过往与之对话，并从中抓取无人问津的文本将它们唱出来。这是这支乐队的古典之处。而在他们的创作里，你能看到许多关乎南方的迁徙叙事、对惨淡人生的白描以及对现实的戏谑，它们属于“支浪挂条命”的普通人，也属于“过番”后永不再归的他乡客，更属于那些即将退出时代浪潮里、盼望“孥仔在外，老爷保贺”的先辈们。</span></p><p><span>这或许是潮汕人永远的母题，也是野草寮献给那片土地的一曲哀歌。</span></p><p><span>&nbsp;</span><br></p><p><span>以上，或许可以使听不懂潮语的你重新认识这支乐队，也可能导致全盘误读。但无论如何，我们都希望你来到现场，用观演的方式找寻你的答案。此次演出，不仅有乐队即将发行的新专辑的全部曲目，也包含懒猫时代的部分改编，是野草寮乐队创作历程中较为集中和系统的一次呈现。</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i67.79dd6b72qrCdeW\"><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01DUa7FS2GdSbFSW8XW_!!2251059038.jpg\" width=\"4032\" height=\"3024\" damai_width=\"4032\" damai_height=\"3024\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01kCkLDm2GdSbDcK38c_!!2251059038.jpg\" width=\"1500\" height=\"1000\" damai_width=\"1500\" damai_height=\"1000\"></span><br></p><h2><strong><span>演出曲目</span></strong></h2><p><span>1、过暹罗</span></p><p><span>2、颠倒歌</span></p><p><span>3、怨情</span></p><p><span>4、轮夜班</span></p><p><span>5、孥仔在外</span></p><p><span>6、海风</span></p><p><span>7、猛走</span></p><p><span>8、五更鼓</span></p><p><span>9、青蚵嫂</span></p><p><span>10、草寮</span></p><p><span>11、水底游</span></p><p><span>12、潮汕姿娘</span></p><p><span>13、猪弟兄</span></p><p><span>14、锯弦</span></p><p><span>15、乏</span></p><p><span>16、马塘桥</span></p><p><span>*演出顺序以现场为准</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i60.79dd6b72qrCdeW\"><span>&nbsp;</span><br></p><h2><strong><span>野草寮乐队</span></strong></h2><p><span>主唱、木吉他：林子</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i56.79dd6b72qrCdeW\"><span>木贝斯：吴伟钊</span></p><p><span>琵琶：阿芸</span></p><p><span>卡宏鼓、和声：许温和</span></p><p><span>口风琴、锣鼓小打：ET</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i63.79dd6b72qrCdeW\"><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01FrkjEe2GdSbDMGBIz_!!2251059038.jpg\" width=\"6000\" height=\"4000\" damai_width=\"6000\" damai_height=\"4000\"></span><br></p><p><span>野草寮乐队前身为懒猫乐队，创立于2013年的深圳，2022年末更名为“野草寮”。</span></p><p><span>乐团以潮语进行传唱，作品题材除了编创潮汕歌谣，也有对于土地和都市生活的情感倾诉，并从地方传统古调、歌仔中吸取养分，音乐表现上更多与地域相关联，市井小调，娓娓道来，静静感受日常生活的酸甜苦辣。</span></p><br><p><br></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "广州佳裕投资有限公司",
+                            "socialCreditCode": "9144010156396628XQ",
+                            "legalPerson": "廖发枝",
+                            "regCapStr": "100000万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(法人独资)",
+                            "entAddress": "广州市番禺区钟村街汉溪大道东182号502号"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "5595003",
+                    "venueName": "广州云幕剧场",
+                    "venueProvinceName": "广东省",
+                    "venueCityName": "广州市",
+                    "lng": 113.332432,
+                    "lat": 22.994898,
+                    "venueAddr": " 广州市番禺区汉溪汉溪长隆地铁站G出口时代·芳华里CR8购物中心4楼",
+                    "showCountText": "共有12个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D796176858075%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1715752466000",
+                "sellStartTimeStr": "05月15日 13:54",
+                "priceRange": "¥98-¥128",
+                "performBases": [
+                    {
+                        "name": "07.28 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1722096000000",
+                        "performs": [
+                            {
+                                "performId": "214595131",
+                                "performName": "2024-07-28 周日 20:00",
+                                "itemId": "796176858075",
+                                "projectId": "220420001",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1722169200000",
+                                "performTime": "2024.07.28 20:20",
+                                "performStartDate": "2024-07-28",
+                                "performBeginTime": "20:20",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "106881",
+                    "120577",
+                    "123905",
+                    "385",
+                    "2049",
+                    "65281",
+                    "260994",
+                    "6658",
+                    "28802",
+                    "215809",
+                    "221697",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "354817",
+                    "388353",
+                    "286337",
+                    "303617",
+                    "3974",
+                    "8454",
+                    "8838",
+                    "459265",
+                    "523649",
+                    "7943",
+                    "361730",
+                    "373634",
+                    "397057",
+                    "409985",
+                    "417537",
+                    "8843",
+                    "9099",
+                    "8459",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9355",
+                    "9867",
+                    "9995",
+                    "12171",
+                    "14731",
+                    "16267",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "82369",
+                    "89665",
+                    "91585",
+                    "28353",
+                    "36417",
+                    "37569",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "260033",
+                    "137281",
+                    "141121",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "350017",
+                    "360001",
+                    "266817",
+                    "303553",
+                    "303681",
+                    "1478",
+                    "4166",
+                    "12998",
+                    "478785",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "591425",
+                    "7371",
+                    "1611",
+                    "2507",
+                    "4939",
+                    "14155",
+                    "19403",
+                    "23115",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "31947",
+                    "33739",
+                    "2874946",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7961768580/2/796176858075.jpg"
+            }
+        }
+    }
+}

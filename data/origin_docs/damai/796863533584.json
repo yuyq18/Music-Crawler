@@ -1,0 +1,442 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "2667",
+    "cityname": "大庆",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_796863533584",
+    "imgurl": "-621299257",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "活力大庆·时光音悦会第一季",
+    "nameNoHtml": "活力大庆·时光音悦会第一季",
+    "price": "99.0",
+    "price_str": "99-999",
+    "pricehigh": "999.0",
+    "privilegeTags": "[]",
+    "projectid": "796863533584",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.15 周六 19:00",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "大庆市体育馆",
+    "venuecity": "大庆",
+    "venueid": "60283",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01c5cJ7Z2GdSbEzX3LY_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "796863533584",
+                    "itemName": "【大庆】活力大庆·时光音悦会第一季",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "230600",
+                    "cityName": "大庆市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01c5cJ7Z2GdSbEzX3LY_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01c5cJ7Z2GdSbEzX3LY_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.15 周六 19:00",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：黑龙江理想非凡广告设计服务有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：黑龙江理想非凡广告设计服务有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "2648",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>&nbsp;</p>\n<p>《活力大庆·时光音悦会》第一季</p>\n<p>2024年6月15日晚19点——21：30</p>\n<p>这是一场在大庆奥体中心体育馆举办的惠民演唱会</p>\n<p>活动明星阵容：</p>\n<p>邰正宵、吕方、乌兰托娅、乌兰吉亚、毕夏</p>\n<p>岁月流转 经典永传</p>\n<p>时光音悦会</p>\n<p>用一首老歌的时间</p>\n<p>让你忆青春，曾少年，</p>\n<p>夏日微风正好，</p>\n<p>一起重走青春路吧！</p>\n<p>&nbsp;</p>\n<p>实力歌手：邰正宵</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01MyMLZn2GdSbGiq5zv_!!2251059038.png\" width=\"832\" height=\"1246\" damai_width=\"832\" damai_height=\"1246\"></p>\n<p>邰正宵：毕业于中国台湾省高雄医学院，中国台湾男歌手、作曲人、音乐人、演员 。</p>\n<p>人物评价：邰正宵对于情歌深情的演绎、以及对于情感投放的精准拿捏，确实引起了不少曾经被他歌声打动过的听众的共鸣，会让很多人都从他的歌声中，找回到很多很多深埋在回忆当中的细碎片段，曾经有过的那些伤心、失落、孤独，都曾被他用歌声所在往昔当中。在听众脑海里留下的情歌记忆确实有太多，诸如《九百九十九朵玫瑰》、《心要让你听见》、《想你想得很孤独》、《千纸鹤》等经典金曲，确确实实影响过好几代人的成长，也曾在很多人的生命历程中留下过难以磨灭的印象 。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>与“歌神”张学友并称为歌坛双子星的实力歌手：吕方</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN016GgSTh2GdSb7JwgDD_!!2251059038.png\" width=\"832\" height=\"1246\" damai_width=\"832\" damai_height=\"1246\"></p>\n<p>吕方：中国香港流行乐男歌手、演员。1984年，参加“香港新人歌唱大赛”并获得冠军。</p>\n<p>人物评价：张学友评价吕方说：香港歌手必须懂跳舞才可以出成绩，而吕方却是一个只需要唱歌，不跳舞都可以成功的歌手。</p>\n<p>曾以一首《朋友别哭》成为歌坛经典的吕方，以清澈通透的高音驰名乐坛，他的歌曲《听不到的说话》、《从未如此深爱过》、《只因我太痴》等都曾在当时大行其道。即便许久不见，但他只要在舞台上一开唱，就是跃然眼前的曾经，依旧熠熠生辉。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>华语乐坛内蒙古情歌的领军人物：乌兰托娅</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN0157SUB92GdSbGiuzhM_!!2251059038.png\" width=\"832\" height=\"1246\" damai_width=\"832\" damai_height=\"1246\"></p>\n<p>乌兰托娅： 中国内地蒙古族女歌手。</p>\n<p>个人特点：乌兰托娅一直以俏、美、脆、甜的演唱风格，以及对内蒙古流行音乐的深刻认识，成为众多歌迷心中的“内蒙古情歌天后”。</p>\n<p>代表作品：《套马杆》《火红的萨日朗》《我在草原等你来》《火苗》</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01qPzjdd2GdSbBsBBz2_!!2251059038.png\" width=\"832\" height=\"1248\" damai_width=\"832\" damai_height=\"1248\"></p>\n<p>乌兰吉亚：出生于内蒙古呼和浩特，被誉为“草原之花”。</p>\n<p>个人特点：乌兰吉亚，中国草原歌手。1988年4月7日出生于内蒙古呼和浩特，被誉为“草原之花” 。2014年首次推出个人单曲《请到草原来做客》正式进入演艺圈 。凭借歌曲《放歌草原上》获得更多关注 。</p>\n<p>代表作品：《草原姐妹花》《我爱你草原》《草原火》</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01V75xmH2GdSbGiwGkk_!!2251059038.png\" width=\"832\" height=\"1246\" damai_width=\"832\" damai_height=\"1246\"></p>\n<p>毕夏：中国内地女歌手、演员。</p>\n<p>个人特点：2013年，毕夏参加第二季《中国好声音》，凭借爆发力极强的嗓音而受到关注。一头脏辫儿、一双皮靴摇滚范儿的她不管是《像梦一样自由》还是《Hey Jude》都完成得很好，能把耳熟能详的作品唱出自己的理解和味道，就是毕夏的特质。从好声音铁汉摇滚女将，到新单曲委婉静态美，到转战荧幕演技自然，毕夏一路走来给很多观众带来不少感动</p>\n<p>代表作品：《像梦一样自由》《生如夏花》《暴风女王》《破茧》</p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "黑龙江理想非凡广告设计服务有限公司",
+                            "socialCreditCode": "91230607MACBPRTK7Y",
+                            "legalPerson": "袁广超",
+                            "regCapStr": "50万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人独资)",
+                            "entAddress": "黑龙江省大庆高新区新兴大街4号大庆电子商务产业园101-2(申报承诺)"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "60283",
+                    "venueName": "大庆市体育馆",
+                    "venueProvinceName": "黑龙江省",
+                    "venueCityName": "大庆市",
+                    "lng": 125.133681,
+                    "lat": 46.641029,
+                    "venueAddr": "黑龙江省大庆市萨尔图区学伟大街",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D796863533584%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "136",
+                    "wantNumStr": "136",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN01so1NLY1lEx3KreQfP_!!6000000004788-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/285061/57012258.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01WMBkkT1Lnb08vVqc0_!!6000000001344-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/537444/107488886.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN013n7KRC1TtZ5bYGxgR_!!6000000002440-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "选座购买",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1715929966000",
+                "sellStartTimeStr": "05月17日 15:12",
+                "priceRange": "¥99-¥999",
+                "performBases": [
+                    {
+                        "name": "06.15 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1718380800000",
+                        "performs": [
+                            {
+                                "performId": "214609185",
+                                "performName": "2024-06-15  周六 19:00",
+                                "itemId": "796863533584",
+                                "projectId": "220335042",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1718449200000",
+                                "performTime": "2024.06.15 19:00",
+                                "performStartDate": "2024-06-15",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "360001",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "14155",
+                    "23883",
+                    "23115",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "9355",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9099",
+                    "9867",
+                    "8843",
+                    "2443",
+                    "395",
+                    "1163",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "7371",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7968635335/2/796863533584.jpg"
+            }
+        }
+    }
+}

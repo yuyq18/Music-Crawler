@@ -1,0 +1,59 @@
+{
+    "platform": "大麦",
+    "project_id": "795964245658",
+    "project_name": "井迪「追光旅行」2024全国巡演 深圳站【造音呈现】",
+    "category_name": "演唱会",
+    "artists": [
+        "井迪"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.22 周六 20:00",
+    "session_time": [
+        "06.22 周六"
+    ],
+    "price": "168-288",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "HOU LIVE X Mixc cube",
+    "venue_info": {
+        "venue_address": "科苑南路2666号中国华润大厦B1层发布厅",
+        "lng": 113.946639,
+        "lat": 22.514938
+    },
+    "project_info": "【造音呈现】井迪2024全国巡演 深圳站-大麦",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01oii9Yr2GdSbDPoj6N_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN014a2Qkb2GdSafTC3jk_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "829",
+        "wantNumStr": "829",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "795964245658",
+            "cityName": "深圳站",
+            "showTime": "06.22"
+        },
+        {
+            "itemId": "795963309050",
+            "cityName": "广州站",
+            "showTime": "06.23"
+        },
+        {
+            "itemId": "784276043087",
+            "cityName": "上海站",
+            "showTime": "05.24"
+        },
+        {
+            "itemId": "784351948011",
+            "cityName": "南京站",
+            "showTime": "05.25"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=795964245658"
+}
