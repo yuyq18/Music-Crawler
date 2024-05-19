@@ -8,12 +8,12 @@ import pandas as pd
 
 city_df = pd.read_csv('data/city_code.csv', sep='\t')
 
-def read_json(file_name: str):
+def read_json(file_name):
     with open(file_name, 'r') as f:
         data = json.load(f)
     return data
 
-def get_city(city_name: str, venue_name: str, venue_addr: str | None):
+def get_city(city_name, venue_name, venue_addr):
     if city_name == 'nan':
         return 'nan'
     if city_name == '中国澳门' or '中国香港':
@@ -31,7 +31,7 @@ def get_city(city_name: str, venue_name: str, venue_addr: str | None):
     # print(response.json())
     return response.json()['geocodes'][0]['city']
 
-def process_city(dir: str):
+def process_city(dir):
     for file_name in tqdm(os.listdir(dir)):
         if not file_name.endswith('.json'):
             continue
@@ -85,7 +85,7 @@ def get_artists(platforms, global_artists):
                     json.dump(file_json, f, ensure_ascii=False, indent=4)
     return global_artists
 
-def process_artists(dir: str, global_artists):
+def process_artists(dir, global_artists):
     for file_name in tqdm(os.listdir(dir)):
         if not file_name.endswith('.json'):
             continue
