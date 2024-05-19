@@ -2,7 +2,7 @@ name: Run Damai Crawler
 
 on:
   schedule:
-  - cron: "0 18 * * *"
+  - cron: "25 * * * *"
 jobs:
   run_crawler:
     runs-on: ubuntu-latest
