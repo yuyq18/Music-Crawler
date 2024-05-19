@@ -143,8 +143,7 @@ class DamaiCrawler(MusicCrawler):
         params = {
             'jsv': '2.7.2',
             'appKey': '12574478',
-            # 't': int(time.time()),
-            't': 1715790992,
+            't': int(time.time()),
             'sign': '61c0dd04778bed4ea7d64fa94447b527',
             'api': 'mtop.damai.item.detail.getdetail',
             'v': '1.0',
@@ -361,14 +360,14 @@ class DamaiCrawler(MusicCrawler):
     
 if __name__ == '__main__':
     damai = DamaiCrawler()
-    origin_ids_list = damai.get_origin_ids()
-    print('origin_ids_list', len(origin_ids_list))
-    exist_ids_list = damai.get_exist_ids()
-    print('exist_ids_list', len(exist_ids_list))
+    # origin_ids_list = damai.get_origin_ids()
+    # print('origin_ids_list', len(origin_ids_list))
+    # exist_ids_list = damai.get_exist_ids()
+    # print('exist_ids_list', len(exist_ids_list))
 
     damai.crawl_origin_docs()
     damai.unify_docs()
 
-    exist_ids_list = damai.get_exist_ids()
-    print('exist_ids_list', len(exist_ids_list))
+    # exist_ids_list = damai.get_exist_ids()
+    # print('exist_ids_list', len(exist_ids_list))
 
