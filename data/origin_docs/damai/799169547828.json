@@ -1,0 +1,619 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：裘德",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "艺人：裘德",
+    "id": "1_1_799169547828",
+    "imgurl": "-598239114",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "裘德2024「境地新生」音乐会-上海站",
+    "nameNoHtml": "裘德2024「境地新生」音乐会-上海站",
+    "price": "180.0",
+    "price_str": "180-680",
+    "pricehigh": "680.0",
+    "privilegeTags": "[]",
+    "projectid": "799169547828",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.08.11 周日 19:30",
+    "sitestatus": "16",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "交通银行前滩31演艺中心 · 大剧场",
+    "venuecity": "上海",
+    "venueid": "6502059",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ZfLqa82GdSbM5kfIY_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "799169547828",
+                    "itemName": "【上海】裘德2024「境地新生」音乐会-上海站",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ZfLqa82GdSbM5kfIY_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ZfLqa82GdSbM5kfIY_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01EK8f3B2GdSbPjCCDx_!!2251059038.png",
+                    "seatImages": [
+                        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01EK8f3B2GdSbPjCCDx_!!2251059038.png"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "2024.08.11 周日 19:30",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "快递票",
+                            "tagDesc": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。发货前支持修改一次收货地址。\r\n注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagDescWithStyle": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。<b>发货前支持修改一次收货地址。</b><br/>注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：南京金壹文化传媒有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：南京金壹文化传媒有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "活动介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><span style=\"font-size: 18px;\"><strong>裘德2024「境地新生」音乐会（上海站）</strong></span><br>预售：2024.5.31（周五）<br>演出：2024.8.11（周日）</p>\n<p>&nbsp;</p>\n<p><strong>巡演福利规则：</strong></p>\n<p>&nbsp;</p>\n<p>预售期间，购买票价为680元的歌迷，可获得以下福利：<br>①每人1张签名海报（在检票时提前发放）<br>②演出结束后进行1v1合影（欢迎持实体或周边前来合影）</p>\n<p>&nbsp;</p>\n<p>*结合剧院场地许可要求，由于场地时间限制，且更多出于歌迷安全考虑，无当面签名环节。以上福利方案，将控制在演出当晚23:00前完成。若因为超时未能参与合影环节，敬请谅解。<br><br><strong>其他场次公布：</strong><br>4.20北京｜4.28厦门｜5.12深圳｜5.18成都｜6.1天津<br>6.8武汉｜6.14南京｜6.16杭州｜6.21广州｜8.11上海<br><br>*十站巡演将分成两个章节，前8场将回归近距离互动的Livehouse现场，后2场将继续走进剧场，将完整概念视觉呈现。</p>\n<p>&nbsp;</p>\n<p>————————————</p>\n<p>&nbsp;</p>\n<p>2023年12月26日，裘德发行了他的第三张创作专辑、同名专辑「裘德」，把撰写的主人公朝向自己，从「裘德」重新开始，对自我进行更加深刻的探索以及剖析，他所要做的并非展示，而是「突破」和「追寻」，在每一首音乐切片里向内探索。今年裘德<strong>凭借专辑「裘德」入围第35届金曲奖年度专辑奖、最佳华语专辑奖、最佳华语男歌手奖、最佳作词人奖、最佳编曲人奖、最佳演唱录音专辑奖</strong>共6大奖项。<br><br>2024年4月起，裘德将第三张专辑带到线下与大家分享。巡演延续了同名专辑「裘德」的表达，提出「境地新生」的概念。围绕着生命的轮回与新生、探索与生长，与大家一起探讨。<br><br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN017UdPoZ2GdSbF2N3tm_!!2251059038.jpg\" width=\"2010\" height=\"755\" damai_width=\"2010\" damai_height=\"755\"><br><br><strong>关于裘德2024「境地新生」音乐会</strong><br><br>「我」从壳中脱离，意识中的水与光仍有余温<br>「我」应是刚刚诞生临于世，但有过往有诸多记忆已在脑中。<br><br>该如何定义「我」<br>躯壳？记忆？精神？<br><br>境地新生，一次唤醒自我的精神游历。<br><br>裘德2024「境地新生」音乐会，将走进剧场，将完整概念完整表达，侧重戏剧感与形式感，从概念、曲目、章节、舞台与灯光设计、演员表演、服装设计等多个维度，用虚拟幕布将观众带入歌剧的氛围，不同的影像切割构图，渲染强烈的光影，尝试用戏剧的形式呈现一个富有故事感的舞台风格，让固化的舞台重焕新生，抵达广州、上海「新生之境」，带你进入无限广阔的音乐世界，呈现一场戏剧式的视听盛宴。<br><br></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01sKo1zG2GdSbQtscA7_!!2251059038.jpg\" width=\"1755\" height=\"2481\" damai_width=\"1755\" damai_height=\"2481\"></p>\n<p>&nbsp;</p>\n<p>（*巡演海报视觉大胆尝试，特邀视觉创意摄影师poyenchen和创意造型指导YiiOoi进行平面摄影创作、知名设计师Annsey赵宏韬进行平面海报设计。<br>在巡演海报的创作上，poyenchen提出：“The birth of an individual is protected and surrounded by Amniotic fluid.”的想法，于是大胆尝试用皮肤颜色的「史莱姆」进行创作，将黏稠亲肤的液体淋在身体的每个部分上，寓意每个人都是被羊水保护和包围着而诞生的，流动的液体同时也寓意着生命的不断生长。）<br><br>开始即结束，结束即开始，对照与再现， 命运循环与⻮轮旋转。一个由时间，空间与光构建的视觉场域即将呈现，影像多以身体部位、时间与影子等元素为基础，特殊画幅作构图，以及强仪式感作为影像基调，传统影像与逆光光源结合交错，传达随着倒计时的结束，没能逃出循环，被命运之⽭扎穿的概念。 一个个音符将如婴儿般生出手脚，用旋律触摸听者的内心，用直白的影像，强烈的光影质感充斥听者的视觉，层层递进，产生灵魂共振。<br><br><br><span style=\"font-size: 16px;\"><strong>关于「裘德Chiu」</strong></span><br><br>裘德为中国大陆的新生代全能唱作歌手，四年前凭借首张专辑「颁奖的时候我要缺席」，入围了第31届金曲奖最佳国语男歌手，很多人对「裘德」这个陌生而新鲜的名字产生了好奇。两年后，他又凭借第二张个人专辑「最后的水族馆」再次入围了第33届金曲奖最佳华语男歌手，并在当年入围第15届Freshmusic Awards最佳男演唱人/最佳作曲人奖等众多奖项，才华和实力无疑得到了业内人士的集体认可，风格多样的创作以及具有辨识度的独特嗓音备受歌迷喜爱。而今年，裘德第三张专辑「裘德」获得金曲奖六项提名。出道后发行三张个人创作专辑的他，连续三张专辑都入围金曲奖最佳男歌手。</p>\n<p>&nbsp;</p>\n<p>他的名字为更多人所知，他的音乐也被更多人听到。没到30岁的他，就已经和金曲歌后彭佳慧、徐佳莹、魏如萱，全能艺人易烊千玺、窦靖童等合作。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01y8ArRH2GdSbKpzfuN_!!2251059038.jpg\" width=\"1772\" height=\"1772\" damai_width=\"1772\" damai_height=\"1772\"><br><br>对裘德来说，做专辑就像经历一次人生，曲序设定就像从出生到死亡的过程。大家通过前两张专辑认识了裘德，而第三张专辑，他想了解自己，去挖掘自己，因此第三张专辑命名为同名专辑「裘德」。<br>“虽然最终会被定格为一个贴了「裘德」标签名的容器，但容器里是3分满还是7分满不得而知。我们都是有限的，在被定格前，我只是倔强地想知道自己究竟能装载几分满。”他的第一张专辑「颁奖的时候我要缺席」是10%的自己，第二张专辑「最后的水族馆」是50%的自己，而到「裘德」这张专辑，他并非想要告诉大家「这就是一张代表裘德风格的专辑」，而是想要去探寻，还有百分之多少的自己没被挖掘，想要一直探寻下去，探索那个「100%的自己」。<br><br><strong>// 获得奖项 //</strong></p>\n<p>&nbsp;</p>\n<p>◾︎ 入围第35届金曲奖最佳华语男歌手奖/年度专辑奖/最佳华语专辑奖/最佳作词人奖/最佳编曲人奖/最佳演唱录音专辑奖<br>◾︎ 入围第33届金曲奖最佳华语男歌手奖<br>◾︎ 入围第31届金曲奖最佳国语男歌手奖<br>◾︎ 入围第17届Freshmusic Awards年度10大单曲最佳男演唱人/年度10大单曲<br>◾︎ 入围第15届Freshmusic Awards50最佳专辑/最佳男演唱人/最佳作曲人奖<br>◾︎ 入围第9届新加坡薰衣草音乐奖（9th Lavender Music Awards）最佳演唱组合歌曲奖<br>◾︎ 入围第2届浪潮音乐大赏 最佳男歌手/最佳专辑制作/年度制作/最佳作曲/最佳编曲<br>◾︎ 入围金松奖 GoldenPineAwards 最佳男歌手/最佳合作<br>◾︎ 入围第八届新加坡薰衣草音乐奖最佳男歌手奖<br>◾︎ 获得华语音乐打歌中心2023年度「最具品质唱作人」<br>◾︎ 获得第三届HOPICO音乐奖年度最佳流行专辑<br>◾︎ 获得2023下半年优秀音乐评选CareForMusic音乐光荣优秀歌曲<br>◾︎ 获得网易音乐人2023年度专辑推荐<br>◾︎ 获得网易云2021硬地围炉夜年度新人/年度十大专辑<br>◾︎ 获得第20届南方音乐盛典最佳国语男新人奖<br>◾︎ 获得2020年第四届CMA唱工委音乐盛典“最佳流行专辑<br>◾︎ 成为第二届“ 刘欢 原创音乐专项基金”获得者</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN012cyuYG2GdSbN6cEiR_!!2251059038.jpg\" width=\"2732\" height=\"4096\" damai_width=\"2732\" damai_height=\"4096\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Pie7yK2GdSbMPtMvw_!!2251059038.jpg\" width=\"2730\" height=\"4096\" damai_width=\"2730\" damai_height=\"4096\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01hqZjtn2GdSbMhRPfw_!!2251059038.jpg\" width=\"813\" height=\"515\" damai_width=\"813\" damai_height=\"515\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN016Cw3F62GdSbKq4mA4_!!2251059038.jpg\" width=\"4096\" height=\"2732\" damai_width=\"4096\" damai_height=\"2732\"></p>\n<p><br><br>不断破壳、肆意生长、最终归零后，又另一片境地中长出新芽。<br>十站巡演，期待一起抵达每一个「新生之境」，一起创造美好回忆！<br><br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01vTkLlK2GdSbF2UJQ4_!!2251059038.jpg\" width=\"7008\" height=\"4672\" damai_width=\"7008\" damai_height=\"4672\"><br><br><br>*更多购票资讯 / 票务流程 / 进场动线 / 周边商品 / 注意事项等请密切微博@裘德工作室</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01hxNSpS2GdSbPKcSV7_!!2251059038.png\" width=\"528\" height=\"2506\" damai_width=\"528\" damai_height=\"2506\"></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "南京金壹文化传媒有限公司",
+                            "socialCreditCode": "91320102MA1WWT079B",
+                            "legalPerson": "王强",
+                            "regCapStr": "500万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人独资)",
+                            "entAddress": "南京市鼓楼区中央北路230号1882室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "快递费",
+                        "content": "1.同城10.0元，发货后1-3天到达；省内12.0元，发货后1-3天到达；其他地区18.0元，发货后1-3天到达；澳门、香港、台湾40.0元，发货后1-5天到达。\r\n2.演出前4天不支持快递。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带纸质门票验票入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一个订单对应一个证件；证件支持：外国人永久居留身份证/港澳台居民居住证/港澳居民来往内地通行证/护照/身份证/台湾居民来往大陆通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约90分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "18"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "裘德（赵熙南）"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "2",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ]
+                },
+                "venue": {
+                    "venueId": "6502059",
+                    "venueName": "交通银行前滩31演艺中心 · 大剧场",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.484956,
+                    "lat": 31.150756,
+                    "venueAddr": "浦东新区高青西路777号",
+                    "showCountText": "共有4个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "799169547828",
+                        "cityName": "上海站",
+                        "showTime": "08.11",
+                        "tourId": "4478"
+                    },
+                    {
+                        "itemId": "784341971889",
+                        "cityName": "天津站",
+                        "showTime": "06.01",
+                        "tourId": "4478"
+                    },
+                    {
+                        "itemId": "784335143047",
+                        "cityName": "武汉站",
+                        "showTime": "06.08",
+                        "tourId": "4478"
+                    },
+                    {
+                        "itemId": "784335759300",
+                        "cityName": "南京站",
+                        "showTime": "06.14",
+                        "tourId": "4478"
+                    },
+                    {
+                        "itemId": "784447993528",
+                        "cityName": "杭州站",
+                        "showTime": "06.16",
+                        "tourId": "4478"
+                    },
+                    {
+                        "itemId": "793455299306",
+                        "cityName": "广州站",
+                        "showTime": "06.21",
+                        "tourId": "4478"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=799169547828"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D799169547828%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "35920671",
+                        "artistName": "裘德",
+                        "archives": "裘德，新生代90后唱作歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1710411432565/1710411432565-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "35920671",
+                        "name": "裘德",
+                        "desc": "裘德，新生代90后唱作歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1710411432565/1710411432565-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "970",
+                    "wantNumStr": "970",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN01so1NLY1lEx3KreQfP_!!6000000004788-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/807638/161527614.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01WMBkkT1Lnb08vVqc0_!!6000000001344-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/597565/119513153.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01uK2rVR245JPpd1bSf_!!6000000007339-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1717128000000",
+                "sellStartTimeStr": "05月31日 12:00",
+                "countDown": "231296",
+                "rcdt": "231295455",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥180-¥680",
+                "performBases": [
+                    {
+                        "name": "08.11 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1723305600000",
+                        "performs": [
+                            {
+                                "performId": "214640084",
+                                "performName": "2024-08-11  周日 19:30",
+                                "itemId": "799169547828",
+                                "projectId": "220466010",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1723375800000",
+                                "performTime": "2024.08.11 19:30",
+                                "performStartDate": "2024-08-11",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "缺货登记",
+                "buyBtnStatusAfterCountDown": "91",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "141889",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "1",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7991695478/2/799169547828.jpg"
+            }
+        }
+    }
+}

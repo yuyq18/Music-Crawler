@@ -1,0 +1,376 @@
+{
+    "searchType": "SHOW",
+    "showId": "664c6e079b798900016a68d5",
+    "stdShowId": "664c6e079b798900016a68d4",
+    "showName": "【大同】如梦·云SKY大同音乐节",
+    "showDate": "2024.07.27 - 07.28",
+    "cityName": "大同",
+    "cityId": "1402",
+    "showStatus": "PRESALE",
+    "minOriginalPrice": "229.0",
+    "posterUrl": "https://cdn.ticketmars.com/image/prod/20240521_58/17162850491396739.jpg",
+    "venueId": "664c6e36a84da5000159e2d4",
+    "venueName": "大同市南六庄机场（通用航空产业园区）",
+    "backendCategory": "{'code': 18, 'displayName': '音乐节', 'name': 'MusicFestival'}",
+    "isFree": "False",
+    "firstShowTime": "1722060000000",
+    "lastShowTime": "1722175200000",
+    "minOriginalPriceInfo": "{'yuanNum': '229', 'centNum': '', 'suffix': '起', 'prefix': '￥'}",
+    "latestShowTime": "1722060000000",
+    "showSessionDates": "['20240728', '20240727']",
+    "soldOut": "False",
+    "sessionNum": "3",
+    "seatPlanNum": "11",
+    "rsCode": 200,
+    "basicInfo": {
+        "hotMode": true,
+        "stdShowId": "664c6e079b798900016a68d4",
+        "showName": "【大同】如梦·云SKY大同音乐节",
+        "sourceType": "SELF_BUILT_SELF_PRODUCE",
+        "originalSeatPickType": "SUPPORT_NONE",
+        "contentUrl": "https://cdn.ticketmars.com/prod/showContent/664c6e079b798900016a68d5/content_664d52439b79890001889804.content",
+        "posterUrl": "https://cdn.ticketmars.com/image/prod/20240521_58/17162850491396739.jpg",
+        "posterColor": "#294672ff",
+        "venueId": "664c6e36a84da5000159e2d4",
+        "venueName": "大同市南六庄机场（通用航空产业园区）",
+        "venueAddress": "大同市云州区通航产业园",
+        "venueLat": 39.940315,
+        "venueLng": 113.406479,
+        "cityId": "1402",
+        "cityName": "大同市",
+        "onSaleShowCount": 1,
+        "showTags": [],
+        "authorizationUrl": "",
+        "minOriginalPriceInfo": {
+            "yuanNum": "229",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "maxOriginalPriceInfo": {
+            "yuanNum": "550",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "showDate": "2024年07月27日 - 07月28日",
+        "showDuration": "约480分钟（以现场为准）",
+        "displayAdvance": false,
+        "venueDisplayAdvance": false,
+        "sessionDisplayAdvance": false,
+        "seatPlanDisplayAdvance": false,
+        "showType": {
+            "name": "MusicFestival"
+        },
+        "showDetailStatus": "PRE_SALE",
+        "existsPrivilegePurchase": false,
+        "displayCountdownTime": true,
+        "captchaTypes": []
+    },
+    "additionalInfo": {
+        "hasCoupon": true,
+        "hasPromo": false,
+        "hasUserPromo": false,
+        "hasPCard": false,
+        "hasPriority": false,
+        "hasChannelDiscount": false,
+        "checkChannelFreeCombo": false,
+        "channelPickSeatProject": false,
+        "hasTyingSale": false
+    },
+    "descInfo": {
+        "observationInstructions": [
+            {
+                "key": "TICKETS_AND_ADMISSION",
+                "name": "票品及入场",
+                "value": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场",
+                "isMarked": false,
+                "isOrderMarked": true,
+                "seq": 1
+            },
+            {
+                "key": "ENTRY_TIME",
+                "name": "入场时间",
+                "value": "2024年7月27日：最早12:00，最晚20:30\n\n2024年7月28日：最早12:00，最晚20:30",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "SHOW_DURATION",
+                "name": "演出时长",
+                "value": "约480分钟（以现场为准）",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "MAIN_ACTOR",
+                "name": "主要演员(团体)",
+                "value": "郭顶、魏晨、房东的猫、丢火车、沈以诚、黄誉博、太帅了花 、 简单对话 、 许巍、陈楚生、逃跑计划、安达组合、岛屿心情、花墙、白色海岸、冷角落",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "MINIMUM_SHOW_NUMBER",
+                "name": "最低演出曲目",
+                "value": "42首（以现场为准）",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "MINIMUM_SHOW_DURATION",
+                "name": "最低演出时长",
+                "value": "约480分钟（以现场为准）",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            },
+            {
+                "key": "RESTRICTED_ITEM",
+                "name": "禁止携带物品",
+                "value": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 7
+            },
+            {
+                "key": "LUGGAGE_DEPOSIT",
+                "name": "物品寄存",
+                "value": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 8
+            }
+        ],
+        "ticketInstructions": [
+            {
+                "key": "CHILDREN_INTRODUCTION",
+                "name": "儿童购票",
+                "value": "1.2米以上凭成人票入场，1.2米以下谢绝入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "REAL_NAME_PURCHASE_TICKET_INTRODUCTION",
+                "name": "实名购票规则",
+                "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证",
+                "isMarked": false,
+                "tagContent": "门票对应唯一证件(身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证)",
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "EXCEPTION_ORDER_INTRODUCTION",
+                "name": "异常排单说明",
+                "value": "对于异常订购行为，商家有权在订单成立或者生效之后取消相应订单。 异常订购行为包括但不限于以下情形： （1）通过同一ID订购超出限购张数的订单。 （2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "LIMITATION",
+                "name": "限购规则",
+                "value": "每个场次限购6张/套，项目限购6张/套",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "EXCHANGE_POLICY",
+                "name": "退换政策",
+                "value": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "INVOICE_INTRODUCTION",
+                "name": "发票说明",
+                "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            }
+        ],
+        "markedTextList": []
+    },
+    "noteInfos": [
+        {
+            "name": "支持有条件退",
+            "value": "",
+            "type": true,
+            "code": "CONDITION_REFUND",
+            "refundCfg": {
+                "showName": "【大同】如梦·云SKY大同音乐节",
+                "refundTimes": 1,
+                "type": "SESSION_SETTING",
+                "rateItems": [
+                    {
+                        "rate": 0.0,
+                        "sessionItems": [
+                            {
+                                "sessionBeginTime": 1722060000000,
+                                "sessionName": "双日联票",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-05-27 13:14",
+                                        "right": "2024-05-30 13:14"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1722060000000,
+                                "sessionName": "2024-07-27 周六 14:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-05-27 13:14",
+                                        "right": "2024-05-30 13:14"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1722146400000,
+                                "sessionName": "2024-07-28 周日 14:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-05-27 13:14",
+                                        "right": "2024-05-30 13:14"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "rate": 20.0,
+                        "sessionItems": [
+                            {
+                                "sessionBeginTime": 1722060000000,
+                                "sessionName": "双日联票",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-05-30 13:15",
+                                        "right": "2024-06-10 23:59"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1722060000000,
+                                "sessionName": "2024-07-27 周六 14:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-05-30 13:15",
+                                        "right": "2024-06-10 23:59"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1722146400000,
+                                "sessionName": "2024-07-28 周日 14:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-05-30 13:15",
+                                        "right": "2024-06-10 23:59"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "rate": 50.0,
+                        "sessionItems": [
+                            {
+                                "sessionBeginTime": 1722060000000,
+                                "sessionName": "双日联票",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-11 00:00",
+                                        "right": "2024-06-27 23:59"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1722060000000,
+                                "sessionName": "2024-07-27 周六 14:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-11 00:00",
+                                        "right": "2024-06-27 23:59"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1722146400000,
+                                "sessionName": "2024-07-28 周日 14:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-11 00:00",
+                                        "right": "2024-06-27 23:59"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "name": "实名观演",
+            "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证",
+            "type": true,
+            "code": "REAL_NAME_TICKET"
+        },
+        {
+            "name": "电子票-身份证",
+            "value": "通过身份证件，可以直接验票入场（具体以下单后票舱信息为准）",
+            "type": true,
+            "code": "ID_CARD"
+        },
+        {
+            "name": "发票说明",
+            "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具。",
+            "type": false,
+            "code": "BILL_APPLY"
+        }
+    ],
+    "specialNoteInfos": [
+        {
+            "name": "预售",
+            "value": "本项目正在预售，下单后无法立即为您配票。正式开票后（一般于节目举办前1-2周），票品信息（包括换票、入场方式）将陆续更新，届时您可通过订单详情页或票舱详情查看。",
+            "type": true,
+            "code": "SHOW_PRESALE",
+            "desc": "此项目为预售，待项目正式开票后为您配票"
+        }
+    ],
+    "announcement": [
+        {
+            "id": "664d55cf2791e200010760a2",
+            "noticeId": "664d55cf2791e200010760a2",
+            "noticeTitle": "如梦·云SKY大同音乐节 购票须知",
+            "noticeContent": "<h1 style=\"text-align: center;\" align=\"center\"><span style=\"font-size: 16px;\"><strong><span style=\"font-family: Arial;\">如梦</span><span style=\"font-family: Arial;\">&middot;云SKY大同</span></strong><strong><span style=\"font-family: Arial;\">音乐节</span></strong></span></h1>\n<h1 style=\"text-align: center;\" align=\"center\"><span style=\"font-size: 16px;\"><strong><span style=\"font-family: Arial;\">购票须知</span></strong></span></h1>\n<p class=\"MsoBodyText\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><span style=\"font-family: 宋体;\">本次</span><span style=\"font-family: 宋体;\">如梦</span><span style=\"font-family: 宋体;\">&middot;云SKY大同</span><span style=\"font-family: 宋体;\">音</span><span style=\"font-family: 宋体;\">乐节</span><span style=\"font-family: 宋体;\">实行</span><strong><span style=\"font-family: 宋体;\">实名制购票</span></strong><span style=\"font-family: 宋体;\">观演政策，</span><span style=\"font-family: 宋体;\">采用【</span><strong><span style=\"font-family: 宋体;\">无纸化</span></strong><span style=\"font-family: 宋体;\">】刷【</span><strong><span style=\"font-family: 宋体;\">身份证件人脸核验</span></strong><span style=\"font-family: 宋体;\">】方式入场，</span><span style=\"font-family: 宋体;\">观演人需携带与购票时提供的对应观演人有效证件一致的身份证件原件进行验票与安检，同时人脸识别通过后方可入场。更换及冒用他人身份证件无法入场。所有门票当日仅限一次使用，出场后无法再次入</span><span style=\"font-family: 宋体;\">场</span><span style=\"font-family: 宋体;\">。</span></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">一、</span><!--[endif]--><span style=\"font-family: 宋体;\">购票须知</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">1.&nbsp;</span><!--[endif]--><span style=\"font-family: 宋体;\">每个身份证号限购</span>1张<span style=\"font-family: 宋体;\">，请确保信息无误后下单付款，由于观演人在购票过程中所填信息有误导致无法入场，或以上任意信息不匹配造成入场失败，需自行承担责任。购票成功不可转赠、转售。</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">2.&nbsp;</span><!--[endif]--><span style=\"font-family: 宋体;\">每笔订单最多购买</span><span style=\"font-family: 宋体;\">6张，每个账号最多购买20张演出门票。仅支持整单整退。（即一个ID若有多张票量则无法拆分退票，平台仅支持整单中所有门票全退。）</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">3.&nbsp;</span><!--[endif]--><span style=\"font-family: 宋体;\">梯次退票处理机制</span><br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-family: 宋体;\">（</span><span style=\"font-family: 宋体;\">1）2024年5月27日13:14预售开始至2024年5月30日13:14，各购票平台客服人员正常工作时间段可无条件办理退票。</span><br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-family: 宋体;\">（</span><span style=\"font-family: 宋体;\">2）2024年5月30日13:15至2024年6月10日23:59，按所退门票实际支付金额的20%收取退票手续费。</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><span style=\"font-family: 宋体;\">（</span><span style=\"font-family: 宋体;\">3）2024年6月10日24:00至2024年6月27日23:59，按所退门票实际支付金额的50%收取退票手续费。</span><br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-family: 宋体;\">（</span><span style=\"font-family: 宋体;\">4）2024年6月27日24:00以后，停止办理退票，不再受理退票申请。</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><span style=\"font-family: 宋体;\">4.同一ID、同一观演人在同一场次中仅享有一次退票权益。特别是，在产生一次退票后，【再次购买同场次演出门票则不再享有退票权益】。为防止恶意退票，同一ID在不同订单中仅享受一次退票权益。</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><span style=\"font-family: 宋体;\">5.本场演出限一票一证，仅支持一张证件在一家售票平台购票，为避免您的损失，请您谨慎购票。若因重复购票导致订单无效等情况，出现退票产生手续费、过期不可退票和无法入场观演等所有损失，需由购票人自行承担。</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><span style=\"font-family: 宋体;\">6.为避免您</span><span style=\"font-family: 宋体;\">不必要的财产损失</span><span style=\"font-family: 宋体;\">，请购票人务必在</span><span style=\"font-family: 宋体;\">官方平台及正规</span><span style=\"font-family: 宋体;\">票务销售渠道</span><span style=\"font-family: 宋体;\">购票</span><span style=\"font-family: 宋体;\">，在非</span><span style=\"font-family: 宋体;\">官方平台及正规</span><span style=\"font-family: 宋体;\">票务销售渠道购票出现问题，需由购票人自行承担。</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><span style=\"font-family: 宋体;\">7.</span><span style=\"font-family: 宋体;\">本场演出</span>1.2米以下儿童谢绝入场。1.2米以上儿童凭<span style=\"font-family: 宋体;\">电子</span><span style=\"font-family: 宋体;\">票入场</span><span style=\"font-family: 宋体;\">（</span><span style=\"font-family: 宋体;\">需有</span><span style=\"font-family: 宋体;\">监护人购票</span><span style=\"font-family: 宋体;\">陪同方可入场，一人一票</span><span style=\"font-family: 宋体;\">，</span><span style=\"font-family: 宋体;\">并全程监护负责安全和行为</span><span style=\"font-family: 宋体;\">）</span><span style=\"font-family: 宋体;\">。</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">8.&nbsp;</span><!--[endif]--><span style=\"font-family: 宋体;\">退票相关规则事宜，主办方在法律法规的允许范围内享有解释权。</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">二、</span><!--[endif]--><span style=\"font-family: 宋体;\">VIP权益</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">1.&nbsp;</span><!--[endif]--><span style=\"font-family: 宋体;\">VIP前排观演区域；</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">2.&nbsp;</span><!--[endif]--><span style=\"font-family: 宋体;\">VIP入场通道；</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">3.&nbsp;</span><!--[endif]--><span style=\"font-family: 宋体;\">VIP服务台；</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">4.&nbsp;</span><!--[endif]--><span style=\"font-family: 宋体;\">VIP水吧；</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">5.&nbsp;</span><!--[endif]--><span style=\"font-family: 宋体;\">VIP专用卫生间；</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">6.&nbsp;</span><!--[endif]--><span style=\"font-family: 宋体;\">VIP纪念品；</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><span style=\"font-family: 宋体;\">更多</span><span style=\"font-family: 宋体;\">VIP</span><span style=\"font-family: 宋体;\">专属权益敬请期待</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">三、</span><!--[endif]--><span style=\"font-family: 宋体;\">入场时间</span></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><span style=\"font-family: 宋体;\">2024年7月27日：最早12:00，最晚20:30</span></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><span style=\"font-family: 宋体;\">2024年7月28日：最早12:00，最晚20:30</span></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">四、</span><!--[endif]--><span style=\"font-family: 宋体;\">安检须知</span></span></p>\n<p class=\"MsoBodyText\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><span style=\"font-family: 宋体;\">为确保活动安全顺利进行，根据《中华人民共和国治安管理处罚法》等相关法律法规规定和主办单位的要求，请入场人员自觉接受安检。</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><span style=\"font-family: 宋体;\">禁止将打火机、冷焰火、管制刀具、枪支弹药、宠物</span> <span style=\"font-family: 宋体;\">（</span><span style=\"font-family: 宋体;\">导盲犬除外</span><span style=\"font-family: 宋体;\">）</span><span style=\"font-family: 宋体;\">、</span> <span style=\"font-family: 宋体;\">高度酒精类饮品、航拍飞行器、专业摄像摄影设备、瓶装罐装类饮品、旗杆旗帜</span> <span style=\"font-family: 宋体;\">（含伸缩旗杆）、标语横幅、发光发声应援物、激光笔、长柄雨伞、</span> <span style=\"font-family: 宋体;\">折叠桌椅、自拍杆、三脚架、水枪、气球、天幕、</span> <span style=\"font-family: 宋体;\">露营车、大件行李（超于</span> <span style=\"font-family: 宋体;\">50*36*20cm)、金属或玻璃等硬质水杯、非密封食品、含防晒在内的喷雾类，以及含酒精化妆品在内的常规易燃易爆危险物品携带入场。</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">五、</span><!--[endif]--><span style=\"font-family: 宋体;\">温馨提示</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">1.&nbsp;</span><!--[endif]--><span style=\"font-family: 宋体;\">请务必确认好演出观看日期后进行下单，避免预订错误无法处理。</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">2.&nbsp;</span><!--[endif]--><span style=\"font-family: 宋体;\">请所有观众主动配合、接受安检，物品携带以现场安检要求为准。</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">3.&nbsp;</span><!--[endif]--><span style=\"font-family: 宋体;\">演出</span><span style=\"font-family: 宋体;\">期间请保管好手机、钱包等贵重物品，以防丢失被盗。</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">4.&nbsp;</span><!--[endif]--><span style=\"font-family: 宋体;\">请广大歌迷通过官方指定票务平台大麦购票，切勿相信网络媒体、公众号、二手交易平台等所谓的有偿代拍</span><span style=\"font-family: 宋体;\">音乐节</span><span style=\"font-family: 宋体;\">门票，保障自身权益，理性购票。</span></span></p>\n<p class=\"MsoNormal\" style=\"text-align: left;\"><span style=\"font-size: 12px;\"><!-- [if !supportLists]--><span style=\"mso-list: Ignore;\">5.&nbsp;</span><!--[endif]--><span style=\"font-family: 宋体;\">具体演出时间以现场为准。</span></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size: 14.0000pt;\">&nbsp;</span></p>\n<p class=\"MsoBodyText\"><span style=\"font-size: 14.0000pt;\">&nbsp;</span></p>\n<p class=\"MsoBodyText\"><span style=\"font-size: 14.0000pt;\">&nbsp;</span></p>\n<p class=\"MsoBodyText\"><span style=\"font-size: 14.0000pt;\">&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: right;\"><span style=\"font-size: 12px;\"><span style=\"font-family: 宋体;\">如梦（大同）文化旅游有限公司</span>&nbsp;&nbsp;&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: right;\"><span style=\"font-size: 12px;\">&nbsp;&nbsp;</span></p>\n<p class=\"MsoBodyText\" style=\"text-align: right;\"><span style=\"font-size: 12px;\"><span style=\"font-family: 宋体;\">山西金艺世纪文化商业运营管理有限公司</span></span></p>",
+            "noticeCanDelete": false,
+            "announcementUiMode": "POP_UPS",
+            "frequencyType": "FIRST",
+            "displayPages": [
+                "TICKET_UP"
+            ],
+            "siteIds": [
+                "6268b17853245f055f21d677",
+                "6268b1e353245f055f21d755",
+                "6268b1ff363f4f0a8254300d",
+                "6268b22753245f055f21d7b5",
+                "6268b2ed53245f055f21d865",
+                "6268b314363f4f0a82543093",
+                "6268b34c363f4f0a825430eb",
+                "628394ce53245f7d227e7dfc",
+                "65eee5832d98850001143c84",
+                "65ef005a1e9dac0001719b1a"
+            ]
+        }
+    ],
+    "whiteTags": [],
+    "watcherReplacer": "观演"
+}

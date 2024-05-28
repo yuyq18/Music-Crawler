@@ -1,0 +1,39 @@
+{
+    "platform": "猫眼",
+    "project_id": "249766",
+    "project_name": "赤潮音乐节",
+    "category_name": "音乐节",
+    "artists": [],
+    "show_status": "演出延期中",
+    "show_time": "2023.5.2 / 5.3",
+    "session_time": [
+        "2023.5.2 ",
+        " 5.3"
+    ],
+    "price": "320-580",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "潍坊",
+    "venue_name": "赤潮音乐节",
+    "venue_info": {
+        "venue_address": "北宫西街4121号潍坊奥林匹克体育公园体育场",
+        "lng": "119.069629",
+        "lat": "36.728757"
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://p0.meituan.net/myvideodistribute/c04715eaa9384e62731d3b02f9ae8cc91318336.png",
+        "https://p1.meituan.net/myvideodistribute/557a6241fe0c140a61df3309cdf0ffcc2453767.jpg?w=1667&h=4346",
+        "https://p0.meituan.net/myvideodistribute/b78a9f390a8ac5a6b7c2022687d48cec2896919.jpg?w=1667&h=4359",
+        "https://p0.meituan.net/myvideodistribute/2f27beeba6fb523db2f7e1858de506a44065361.jpg?w=1667&h=4834"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/249766"
+}

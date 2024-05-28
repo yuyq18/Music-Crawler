@@ -1,0 +1,260 @@
+{
+    "searchType": "SHOW",
+    "showId": "6655942e49a1ff000113019a",
+    "stdShowId": "6655942e49a1ff0001130199",
+    "showName": "【郑州】仰韶彩陶坊呈现 张学友60+巡回演唱会 郑州站",
+    "showDate": "2024.06.21 - 06.23",
+    "cityName": "郑州",
+    "cityId": "4101",
+    "showStatus": "PENDING",
+    "minOriginalPrice": "480.0",
+    "posterUrl": "https://cdn.ticketmars.com/image/prod/20240528_93/17168897875356308.png",
+    "venueId": "5db29c66c756b12cf117c694",
+    "venueName": "郑州奥林匹克体育中心体育馆",
+    "backendCategory": "{'code': 17, 'displayName': '演唱会', 'name': 'YanChangHui'}",
+    "isFree": "False",
+    "firstShowTime": "1718969400000",
+    "lastShowTime": "1719147600000",
+    "minOriginalPriceInfo": "{'yuanNum': '480', 'centNum': '', 'suffix': '起', 'prefix': '￥'}",
+    "latestShowTime": "1718969400000",
+    "showSessionDates": "['20240623', '20240622', '20240621']",
+    "soldOut": "False",
+    "sessionNum": "3",
+    "seatPlanNum": "18",
+    "rsCode": 200,
+    "basicInfo": {
+        "hotMode": true,
+        "stdShowId": "6655942e49a1ff0001130199",
+        "showName": "【郑州】仰韶彩陶坊呈现 张学友60+巡回演唱会 郑州站",
+        "sourceType": "SELF_BUILT_EXTERNAL_PRODUCE",
+        "originalSeatPickType": "SUPPORT_NONE",
+        "contentUrl": "https://cdn.ticketmars.com/prod/showContent/6655942e49a1ff000113019a/content_6655a8be6a02530001f7ec89.content",
+        "posterUrl": "https://cdn.ticketmars.com/image/prod/20240528_93/17168897875356308.png",
+        "posterColor": "#0c4c59ff",
+        "venueId": "5db29c66c756b12cf117c694",
+        "venueName": "郑州奥林匹克体育中心体育馆",
+        "venueAddress": "河南省郑州市中原区长椿路与丹水大道交叉口",
+        "venueLat": 34.740229,
+        "venueLng": 113.534013,
+        "cityId": "4101",
+        "cityName": "郑州市",
+        "onSaleShowCount": 1,
+        "showTags": [],
+        "authorizationUrl": "",
+        "minOriginalPriceInfo": {
+            "yuanNum": "480",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "maxOriginalPriceInfo": {
+            "yuanNum": "2280",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "showDate": "2024年06月21日 - 06月23日",
+        "showDuration": "约120分钟（以现场为准）",
+        "displayAdvance": false,
+        "venueDisplayAdvance": false,
+        "sessionDisplayAdvance": false,
+        "seatPlanDisplayAdvance": false,
+        "showType": {
+            "name": "YanChangHui"
+        },
+        "showDetailStatus": "PENDING",
+        "existsPrivilegePurchase": false,
+        "displayCountdownTime": true,
+        "captchaTypes": []
+    },
+    "additionalInfo": {
+        "hasCoupon": true,
+        "hasPromo": false,
+        "hasUserPromo": false,
+        "hasPCard": false,
+        "hasPriority": false,
+        "hasChannelDiscount": false,
+        "checkChannelFreeCombo": false,
+        "channelPickSeatProject": false,
+        "hasTyingSale": false
+    },
+    "descInfo": {
+        "observationInstructions": [
+            {
+                "key": "TICKETS_AND_ADMISSION",
+                "name": "票品及入场",
+                "value": "身份证直刷：本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "SHOW_DURATION",
+                "name": "演出时长",
+                "value": "约120分钟（以现场为准）",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "MAIN_ACTOR",
+                "name": "主要演员(团体)",
+                "value": "张学友",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "ENTRY_TIME",
+                "name": "入场时间",
+                "value": "请于开始前约120分钟入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "RESTRICTED_ITEM",
+                "name": "禁止携带物品",
+                "value": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "LUGGAGE_DEPOSIT",
+                "name": "物品寄存",
+                "value": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            },
+            {
+                "key": "MINIMUM_SHOW_DURATION",
+                "name": "最低演出时长",
+                "value": "约120分钟（以现场为准）",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 7
+            },
+            {
+                "key": "MINIMUM_SHOW_NUMBER",
+                "name": "最低演出曲目",
+                "value": "20首（以现场为准）",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 8
+            }
+        ],
+        "ticketInstructions": [
+            {
+                "key": "CHILDREN_INTRODUCTION",
+                "name": "儿童购票",
+                "value": "一人一票，儿童须持票入场。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "REAL_NAME_PURCHASE_TICKET_INTRODUCTION",
+                "name": "实名购票规则",
+                "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证/外国人永久居留身份证",
+                "isMarked": false,
+                "tagContent": "门票对应唯一证件(身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证/外国人永久居留身份证)",
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "EXCEPTION_ORDER_INTRODUCTION",
+                "name": "异常排单说明",
+                "value": "对于异常订购行为，商家有权在订单成立或者生效之后取消相应订单。 异常订购行为包括但不限于以下情形： （1）通过同一ID订购超出限购张数的订单。 （2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "LIMITATION",
+                "name": "限购规则",
+                "value": "每个场次限购4张/套，项目限购4张/套",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "EXCHANGE_POLICY",
+                "name": "退换政策",
+                "value": "本项目支持有条件退。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "INVOICE_INTRODUCTION",
+                "name": "发票说明",
+                "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具，纸质发票需自付邮费。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            }
+        ],
+        "markedTextList": []
+    },
+    "noteInfos": [
+        {
+            "name": "支持有条件退",
+            "value": "",
+            "type": true,
+            "code": "CONDITION_REFUND",
+            "refundCfg": {
+                "showName": "【郑州】仰韶彩陶坊呈现 张学友60+巡回演唱会 郑州站",
+                "refundTimes": 1,
+                "rateItems": []
+            }
+        },
+        {
+            "name": "实名观演",
+            "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证/外国人永久居留身份证",
+            "type": true,
+            "code": "REAL_NAME_TICKET"
+        },
+        {
+            "name": "电子票-身份证",
+            "value": "通过身份证件，可以直接验票入场（具体以下单后票舱信息为准）",
+            "type": true,
+            "code": "ID_CARD"
+        },
+        {
+            "name": "发票说明",
+            "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具，纸质发票需自付邮费。",
+            "type": false,
+            "code": "BILL_APPLY"
+        }
+    ],
+    "announcement": [
+        {
+            "id": "66559916c355710001a0b548",
+            "noticeId": "66559916c355710001a0b548",
+            "noticeTitle": "郑州张学友公告",
+            "noticeContent": "<p style=\"text-align: center;\"><strong>实名制观演</strong></p>\n<p style=\"text-align: center;\">1、本项目需<strong><span style=\"color: rgb(255, 0, 0);\">实名制购票及入场。 </span></strong></p>\n<p style=\"text-align: center;\">2、<strong><span style=\"color: rgb(255, 0, 0);\">观演本人</span></strong>需携带购票时填写的证件验证入场。</p>\n<p style=\"text-align: center;\">3、购票完成后观演人信息不可更改。</p>",
+            "noticeCanDelete": false,
+            "announcementUiMode": "POP_UPS",
+            "frequencyType": "EVERY_TIMES",
+            "displayPages": [
+                "TICKET_UP"
+            ],
+            "siteIds": [
+                "6268b17853245f055f21d677",
+                "6268b1e353245f055f21d755",
+                "6268b1ff363f4f0a8254300d",
+                "6268b22753245f055f21d7b5",
+                "6268b2ed53245f055f21d865",
+                "6268b314363f4f0a82543093",
+                "6268b34c363f4f0a825430eb",
+                "628394ce53245f7d227e7dfc",
+                "65eee5832d98850001143c84",
+                "65ef005a1e9dac0001719b1a"
+            ]
+        }
+    ],
+    "whiteTags": [],
+    "watcherReplacer": "观演"
+}
