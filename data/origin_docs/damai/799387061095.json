@@ -1,0 +1,570 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "852",
+    "cityname": "北京",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_799387061095",
+    "imgurl": "-596063982",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "《东方红》《长征组歌》《黄河大合唱》三大音乐史诗金曲专场演唱会",
+    "nameNoHtml": "《东方红》《长征组歌》《黄河大合唱》三大音乐史诗金曲专场演唱会",
+    "price": "100.0",
+    "price_str": "100-580",
+    "pricehigh": "580.0",
+    "privilegeTags": "[]",
+    "projectid": "799387061095",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.29 周六 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "中山音乐堂",
+    "venuecity": "北京",
+    "venueid": "106",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01qaqH672GdSbMUopLd_!!2251059038.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "799387061095",
+                    "itemName": "【北京】《东方红》《长征组歌》《黄河大合唱》三大音乐史诗金曲专场演唱会",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "110100",
+                    "cityName": "北京市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01qaqH672GdSbMUopLd_!!2251059038.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01qaqH672GdSbMUopLd_!!2251059038.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.29 周六 19:30",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "场馆自取发票",
+                            "tagDesc": "本演出发票需要在场馆凭门票自取",
+                            "tagDescWithStyle": "本演出发票需要在场馆凭门票自取",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "852",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: start;\"><span style=\"color: #ff4d4f; font-family: 黑体;\"><strong>演出名称:《东方红》《长征组歌》《黄河大合唱》三大音乐史诗金曲专场演唱会</strong></span></p>\n<p style=\"text-align: start;\"><span style=\"color: #ff4d4f; font-family: 黑体;\"><strong>演出时间:2024年6</strong></span><span style=\"color: #ff4d4f;\"><strong>月29日 周六 19:30</strong></span></p>\n<p style=\"text-align: start;\"><span style=\"color: #ff4d4f; font-family: 黑体;\"><strong>演出票价:</strong></span><span style=\"color: #ff4d4f; background-color: #ffffff; font-family: Verdana;\"><strong>580、380、280、180、100元</strong></span></p>\n<p style=\"text-align: start;\"><span style=\"color: #ff4d4f; font-family: 黑体;\"><strong>演出地点:中山公园音乐堂</strong></span></p>\n<p style=\"text-align: start;\"><span style=\"color: #ff4d4f; font-family: 黑体;\"><strong>演出时长:90分钟</strong></span></p>\n<p style=\"text-align: start;\">&nbsp;</p>\n<p style=\"text-align: start;\"><span style=\"color: #ff4d4f; font-family: 黑体;\"><strong>温馨提示：</strong></span></p>\n<p style=\"text-align: start;\"><span style=\"color: #ff4d4f; font-family: 黑体;\"><strong>1.建议听众朋友们进入中山公园音乐堂时，全程佩戴口罩。感谢您的理解与支持，预祝您度过美好的时光！</strong></span></p>\n<p style=\"text-align: start;\"><span style=\"color: #ff4d4f; font-family: 黑体;\"><strong>2.本场演出1.2米以下儿童谢绝入场；</strong></span></p>\n<p style=\"text-align: start;\"><span style=\"color: #ff4d4f; font-family: 黑体;\"><strong>3.一旦支付成功，视为已经购票，恕不退换，敬请谅解，请审慎购买！</strong></span></p>\n<p style=\"text-align: start;\"><span style=\"font-family: 黑体;\"><strong>北京中山公园音乐堂购票须知：</strong></span></p>\n<p style=\"text-align: start;\"><span style=\"font-family: 黑体;\"><strong>1实名制购票：</strong></span></p>\n<p style=\"text-align: start;\"><span style=\"font-family: 黑体;\"><strong>购票时每张演出票需绑定一位观演人证件号码（身份证、护照、台胞证、军官证、士兵证五选一），每个购票账号可添加多个观演人，每张票对应一位观演人。（如一个账号购买2张票需要添加两位观演人）</strong></span></p>\n<p style=\"text-align: start;\"><span style=\"font-family: 黑体;\"><strong>2.请确保添加常用观演人信息真实有效，添加后则无法修改，请谨慎填写；一旦购票成功，观演人则无法修改。</strong></span></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01exliCK2GdSbH4OZkN_!!2251059038.jpg\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: start;\"><span style=\"color: #000000; font-family: 黑体;\"><strong>演出名称:《东方红》《长征组歌》《黄河大合唱》三大音乐史诗金曲专场演唱会</strong></span></p>\n<p style=\"text-align: start;\"><span style=\"color: #000000; font-family: 黑体;\"><strong>演出时间:2024年6</strong></span><span style=\"color: #000000;\"><strong>月29日 周六 19:30</strong></span></p>\n<p style=\"text-align: start;\"><span style=\"color: #000000; font-family: 黑体;\"><strong>演出票价:</strong></span><span style=\"color: #000000; background-color: #ffffff; font-family: Verdana;\"><strong>580、380、280、180、100元</strong></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #000000; background-color: #ffffff; font-family: Verdana;\"><strong>早鸟票6折：580、380、280、180元</strong></span></p>\n<p style=\"text-align: start;\"><span style=\"color: #000000; font-family: 黑体;\"><strong>演出地点:中山公园音乐堂</strong></span></p>\n<p style=\"text-align: start;\"><span style=\"color: #000000; font-family: 黑体;\"><strong>演出曲目：</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">主持人：李初建</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">一、混声合唱： &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>\n<p style=\"text-align: justify;\">1、忆秦娥·娄山关 &nbsp; 毛泽东词 郑律成曲</p>\n<p style=\"text-align: justify;\">2、浪淘沙·北戴河 &nbsp;毛泽东词 王云之曲</p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">领唱：李初建</span></p>\n<p style=\"text-align: justify;\">3、七律·人民解放军占领南京 &nbsp;毛泽东词 沈亚威曲</p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">合唱：经典合唱团</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">钢琴伴奏：刘 娣</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">指挥：李默然</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">二、男中音独唱：</span></p>\n<p style=\"text-align: justify;\">1、西江月·井冈山 &nbsp;毛泽东词 劫夫、晨耕曲</p>\n<p style=\"text-align: justify;\">2、嘉陵江上 &nbsp; 端木蕻良词 贺绿汀曲</p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">演唱：陈 然</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">钢琴伴奏：刘 娣</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">三、女声四重唱：</span></p>\n<p style=\"text-align: justify;\">南泥湾 &nbsp; 贺敬之词 马可曲</p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">演唱：杨桂华 侯梅 邹巧玉 章英</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">钢琴伴奏：王兆兴</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">四、女高音独唱：</span></p>\n<p style=\"text-align: justify;\">情深谊长 &nbsp;选自大型歌舞《东方红》</p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">演唱：詹夕</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">钢琴伴奏：刘 娣</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">五、混声合唱：</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">《长征组歌》选曲 &nbsp;肖华词 晨耕 生茂 唐诃 遇秋曲</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">朗诵：章 英 洪世文</span></p>\n<p style=\"text-align: justify;\">1、四渡赤水出奇兵 &nbsp; &nbsp; &nbsp; &nbsp;</p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">领唱：杨桂华 马崇友</span></p>\n<p style=\"text-align: justify;\">2、过雪山草地 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">领唱：李红军</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">合唱：经典合唱团</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">钢琴伴奏：王兆兴</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">指挥：李默然</span></p>\n<p style=\"text-align: justify;\">—中场休息—</p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">六、混声合唱：</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">《黄河大合唱》 光未然词 冼星海曲</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">朗诵：马玉亮</span></p>\n<p style=\"text-align: justify;\">1、黄河船夫曲</p>\n<p style=\"text-align: justify;\">2、黄河颂</p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">演唱：刘春喜</span></p>\n<p style=\"text-align: justify;\">3、黄水谣</p>\n<p style=\"text-align: justify;\">4、河边对口曲</p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">领唱：李初建 孙兴礼</span></p>\n<p style=\"text-align: justify;\">5、黄河怨</p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">演唱：赵小华</span></p>\n<p style=\"text-align: justify;\">6、保卫黄河</p>\n<p style=\"text-align: justify;\">7、怒吼吧，黄河</p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">合唱：经典合唱团</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">钢琴伴奏：王兆兴</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">指挥：李默然</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\"><strong>注：所有节目内容、顺序、演员以现场为准！</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">领衔主演：李初建、李默然（指挥）、刘春喜、赵小华、詹夕、谢一曼、马崇友、李红军、陈然、马玉亮、杨桂华、侯梅、章英、邹巧玉、孙兴礼、王兆兴、刘娣等</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">艺术总监：李初建</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">指挥：李默然</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">演出团体：经典合唱团</span></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\"><strong>致敬伟大的革命经典</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\"><strong>三大音乐史诗歌曲在一场演出中集中展现</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\"><strong>艺术家、独唱演员云集，大型合唱团演唱</strong></span></p>\n<p style=\"text-align: justify;\">2024<span style=\"font-family: 宋体;\">年6月2</span>9<span style=\"font-family: 宋体;\">日19:30“《东方红》《长征组歌》《黄河大合唱》三大音乐史诗金曲专场演唱会</span>”将在<span style=\"font-family: 宋体;\">北京中山公园音乐堂举行。本场演出曲目基本都是从三大音乐史诗《东方红》《黄河大合唱》《长征组歌》中精选的传世名曲，具有极高的思想性、艺术性和人民性。</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\"><strong>致敬百年来优秀革命文艺作品，传承红色基因</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">今年是中华人民共和国建立75周年，中国共产党成立103周年。值此时刻，我们同时迎来了中国工农红军长征出发90周年的重要纪念时间，也是《黄河大合唱》首演85周年和大型音乐舞蹈史诗《东方红》首演60周年的纪念年份。为了缅怀历史、传承经典，我们特别策划了这场《东方红》、《长征组歌》与《黄河大合唱》三大音乐史诗金曲专场演唱会。这场演唱会不仅是对中国红色文化的深情致敬，更是对那段峥嵘岁月中无数英雄先烈的不朽礼赞。</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\"><strong>三大音乐史诗精华在一场演出中集中展现</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">三大音乐史诗是中华民族百年来优秀革命文艺作品的杰出代表，是中国音乐的巅峰之作。这场演出的创意就是使观众在一场演出中能欣赏到三大音乐史诗中的精华，观众喜爱的经典作品的集萃，这在迄今为止是首创和空前的。</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">《东方红》：作为新中国文艺史上的经典之作，大型音乐舞蹈史诗《东方红》以恢宏的气势、鲜明的主题，恢宏壮美的场面，众多的表演艺术形式，展现了中国人民在中国共产党领导下，从苦难走向辉煌的光辉历程，在新中国文艺史上写下了辉煌的一页。本次演唱会将精选《东方红》中的经典曲目，让观众重温那段激情燃烧的岁月。其中将演唱《东方红》中的歌曲有《忆秦娥</span>·<span style=\"font-family: 宋体;\">娄山关》《人民解放军占领南京》《西江月</span>·<span style=\"font-family: 宋体;\">井冈山》《情深谊长》《南泥湾》。</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">《长征组歌》：以生动的音乐语言和丰富的艺术手法，再现了红军长征途中的艰难险阻和英雄气概。本次演唱会将重点演绎《长征组歌》中的经典歌曲《四渡赤水出奇兵》《过雪山草地》等，让观众感受红军战士坚定的信念和不屈的斗志。</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">《黄河大合唱》：以黄河为背景，热情歌颂了中华民族悠久的历史，控诉侵略者的残暴，并展现了中国人民与侵略者奋勇斗争的英勇场面，勾画出了中国人民保卫祖国、顽强抗击侵略者的壮丽画卷。其磅礴的气势、激昂的旋律和深刻的内涵，成为激励中国人民团结奋斗的不朽乐章。本场演唱会下半场将演唱全本《黄河大合唱》的完整演出，让观众再次领略这部音乐史诗的震撼与魅力。其中《黄河颂》《保卫黄河》《怒吼吧，黄河》等都是传唱度极高的举世名曲。</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\"><strong>艺术家、独唱演员云集，大型合唱团演唱</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">这场演出的演出团体是音乐界享有盛誉的经典合唱团，他们主要由国家艺术院团及部队文工团退休和在职的专业歌唱演员及部分业余合唱团中的优秀歌唱者组成。著名男高音歌唱家李初建出任演出的艺术总监并担任导赏主持。钢琴伴奏是青年钢琴演奏家王兆兴、刘娣。</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">本场演出领衔主演有国家一级演员和著名艺术家、独唱演员：李初建、刘春喜、赵小华、詹夕、谢一曼、马崇友、李红军、马玉亮、杨桂华、侯梅、章英、邹巧玉、陈然、孙兴礼等，这些参演演员都有非常丰富的演出经验，对演唱的歌曲有深刻的理解，将给大家带来难得的听觉享受。</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">为演出执棒的是著名青年指挥家李默然，她是指挥大师严良堃先生亲手带出的唯一女硕士研究生，26岁即指挥总政歌舞团交响乐团和中国交响乐团合唱团，成功演出全本的《黄河大合唱》，严良堃先生亲自登台祝贺。她至今指挥《黄河大合唱》演出已逾百场，被称为“严版黄河”正宗的传承人、优秀指挥家。</span>2024年4月在北京举行的“五洲同声唱黄河”活动中成功指挥来自世界各地200多演员的演出阵容演唱了<span style=\"font-family: 宋体;\">《黄河大合唱》。</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">著名歌唱家、国家一级演员李初建将和男中音歌唱家孙兴礼演唱《黄河大合唱》中的男声二重唱《河边对口曲》，并领唱王云之作曲、他首唱的毛泽东诗词《浪淘沙·北戴河》，这首歌是电视剧《开国领袖毛泽东》中的插曲。国家一级演员、中国交响乐团男中音歌唱家刘春喜，国家一级演员、旅法女高音歌唱家赵小华，分别演唱其中的《黄河颂》、《黄河怨》经典篇章。</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\"><strong>艺术家介绍：</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\"><strong>李初建</strong></span><span style=\"font-family: 宋体;\">，著名男高音歌唱家，中国交响乐团1985年评为国家一级演员，1992年获得国务院专家特殊津贴，曾任中央乐团合唱队业务队长，社会音乐学院副院长。首届及第二届中国音协合唱联盟副主席，曾十年担任中国音协合唱联盟经典合唱团业务团长，五年出任中国音协爱乐男声合唱团副团长。现为中国音协合唱联盟顾问、中国合唱协会常务理事。</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">曾担任过以下声乐作品的独唱领唱：《贝多芬第九合唱交响·欢乐颂》、贝多芬《所罗门》、莫扎特《安魂曲》、海顿《创世纪》、韩德尔《弥赛亚》、普契尼《光荣弥撒》等。曾为大量影视作品演唱主题歌，如《开国领袖毛泽东》、《长征》、《船政风云》、《延安颂》等。录制过数百首声乐独唱曲目，由中国唱片总社出版《全球华人歌唱家系列·李初建》专辑，并发表过多篇论及声乐艺术及合唱艺术的文章。</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">曾担任过中国音乐“金钟奖”合唱评委，海峡两岸合唱大赛评委，多届全国老年合唱大赛评委，多届北京合唱节及老年合唱节大赛评委及各地声乐大赛合唱比赛的评委。</span></p>\n<p style=\"text-align: justify;\"><img style=\"width: 770.98px; height: 578.93px;\" src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01X8EYsN2GdSbIfQlAp_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\"><strong>李默然</strong></span><span style=\"font-family: 宋体;\">，著名青年指挥家，首都师范大学音乐学院指挥讲师，指挥专业硕士，中国音乐家协会合唱联盟副秘书长，中国合唱协会理事。师从指挥大师严良堃。具有丰富的教学和舞台实践经验，不间断地在各地开展指挥教学与排练工作。</span></p>\n<p style=\"text-align: left;\"><span style=\"font-family: 宋体;\">受邀指挥中国交响乐团合唱团、中国广播艺术团合唱团、中国武警文工团合唱团、原广州交响乐团合唱团等专业合唱团。在全国各地演出合唱音乐会近百场，受到业界及观众的广泛好评。曾率团赴德国、比利时、卢森堡等国演出，多次与美国、德国、法国等国来华合唱团进行交流演出。近年来指挥多个合唱团在国际奥林匹克合唱节、中国国际合唱节、中国合唱节等国内外重大赛事中斩获殊荣。</span></p>\n<p style=\"text-align: left;\"><span style=\"font-family: 宋体;\">现为中国音协合唱联盟经典合唱团常任指挥。</span></p>\n<p style=\"text-indent: 5.25pt; text-align: left;\"><img style=\"width: 758.98px; height: 571.41px;\" src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01NhIucY2GdSbKC9YYf_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">刘春喜，著名男中音歌唱家，中国交响乐团国家一级演员。演唱曲目：毛泽东诗词《沁园春·雪》、在《黄河大合唱》中担任独唱《黄河颂》等，受到业内和观众的好评。</span></p>\n<p style=\"text-align: justify;\"><img style=\"width: 770.98px; height: 433.59px;\" src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01OEksKY2GdSbBGgjDI_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">赵小华，旅法女高音歌唱家，国家一级演员，中国音乐家协会会员，陕西音乐家协会理事，获法国音乐博士学位，曾任著名音乐教育家郭淑珍教授的教学助手，中央民族大学、北京民族大学等院校客座教授。</span></p>\n<p style=\"text-align: justify;\"><img style=\"width: 768.95px; height: 433.07px;\" src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01UQHKdH2GdSbN9kt44_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">马崇友，男高音歌唱家，原铁道兵文工团、海政歌剧团独唱演员。曾在歌剧《壮丽婚礼》《琴肅月》《冬雪春花》《芳草心》《刘胡兰》等剧中担任男主角。</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">现任经典合唱团团长。</span></p>\n<p style=\"text-indent: 6pt; text-align: justify;\"><img style=\"width: 760.98px; height: 428.20px;\" src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01kyIuNL2GdSbIfPowk_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">詹夕，女高音歌唱家，中国交响乐团国家一级演员。声音老师是吴其辉教授。1983年开始在中央乐团合唱团工作，在合唱团演出时担任过男女声二重唱和领唱。在领唱苏联合唱《爱情之歌》后受到原苏联指挥杰夫林的好评。后在中国交响乐团(中央乐团合唱团)工作30年，随合唱团到过美国、加拿大、奥地利、新加坡、马来西亚演出等国家地区演出，深受当地观众和专家好评。</span></p>\n<p style=\"text-align: justify;\"><img style=\"width: 782.97px; height: 970.61px;\" src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Du4uEi2GdSbLa6pZf_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">陈然，男中音歌唱家，现就职于中央音乐学院表演艺术中心，中央音乐学院合唱团演员。毕业于中央民族大学音乐学院声乐表演专业。2008-2012年就职于中国武警文工团男声合唱团，参加演出200余场，多次担任独唱、领唱。2012进入国家大剧院合唱团工作，参演大剧院制作中外歌剧40余部。</span></p>\n<p style=\"text-align: justify;\"><img style=\"width: 772.97px; height: 515.76px;\" src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01yOwXD32GdSbKkV0Cd_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">谢一曼，原总政歌舞团著名女中音歌唱家。师从我国著名男高音歌唱家、声乐教育家王秉锐教授。参加多届全军文艺汇演，以及香港回归、澳门回归等众多重要庆典和周年纪念文艺晚会，曾为多位党和国家领导人以及外国政要进行演出，多次代表国家和军队出访俄罗斯、朝鲜等国家和地区。</span></p>\n<p style=\"text-align: left;\"><img style=\"width: 769.98px; height: 438.63px;\" src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01lrsu1q2GdSbLa7V9P_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\"><strong>李红军</strong></span><span style=\"font-family: 宋体;\">，男高音歌唱家。曾在央视青歌赛中获奖。原国防科工委文工团独唱演员。连续三届参加中央电视台举办的青年歌手电视大奖赛，分获民族唱法优秀奖、银屏奖，美声组第三名。其他奖项有：全国首届卡拉OK大奖赛美声组第二名、北京青年歌手大赛美声组第一名等。在国家大剧院举办的“春晚”中担任独唱、重唱。2015年10月作为中国音乐家小组成员，出访加拿大、美国，在华人社区进行文化交流访问演出，深受欢迎。</span></p>\n<p style=\"text-align: justify;\"><img style=\"width: 770.98px; height: 467.62px;\" src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Xwtv2q2GdSbIvnpSN_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">经典合唱团女声四重唱组：</span><span style=\"font-family: 楷体;\">杨桂华、侯梅、邹巧玉、章英</span></p>\n<p style=\"text-align: justify;\"><img style=\"width: 771.97px; height: 434.75px;\" src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN015tKvS62GdSbFp39xr_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">王兆兴，青年钢琴家，中国音协合唱联盟经典合唱团钢琴艺术指导。2008年毕业于沈阳音乐学院，后留校任教。2014年起在国家大剧院担任高参小音乐欣赏学科带头人。2016年受邀跟随中国东方乐团赴欧洲进行学术交流与演出，演出足迹遍布维也纳金色大厅、李斯特音乐学院等。2017年以来跟随中国音乐家协会合唱联盟经典合唱团在全国巡演数十场《黄河大合唱》。</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">合作过的艺术家有朱明瑛、卞小贞、李初建、姜淼、杜吉刚、岳彩轮、黄越峰、阮余群、张天甫、王立民、刘春喜、曲波、李朔等。曾多次录制公开课，在全国各地开展大师班讲座、举办音乐会，担任国内外各类钢琴艺术大赛评委。出品了包含232集全套线上钢琴艺术课程：《王兆兴陪你练车尔尼599》。他的钢琴教学风格风趣幽默，精准细致，富有感染力，指导过的学生多次在国内外各大钢琴比赛中获奖，屡次荣获优秀指导教师称号。</span></p>\n<p style=\"text-align: justify;\"><img style=\"width: 786.00px; height: 979.65px;\" src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ubGy842GdSbKdn6DG_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">刘娣，青年钢琴家，中国音协合唱联盟经典合唱团常任钢琴伴奏。毕业于沈阳音乐学院钢琴系，师从马冬妮教授，钢琴演奏专业硕士研究生。在校期间多次荣获奖学金，举办个人独奏音乐会。曾在德国勃兰登堡国际音乐大赛中荣获金奖，新加坡国际古典钢琴比赛中荣获一等奖。</span></p>\n<p style=\"text-align: justify;\"><img style=\"width: 761.97px; height: 508.44px;\" src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN014iLKX92GdSbKkWPUd_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">经典合唱团介绍：</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">经典合唱团现有团员80余人，主要由国家艺术院团及部队文工团退休和在职的专业歌唱演员及部分业余合唱团中的优秀歌唱者组成。经典合唱团现为中国音协合唱联盟理事单位，现任艺术总监兼常任指挥，由青年指挥家李默然担任。</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">经典合唱团成立于2005年，由原总政歌舞团著名作曲家、指挥家，中国音协合唱联盟主席徐锡宜创建。徐锡宜先生长期出任艺术总监兼常任指挥，后委托原总政歌舞团著名指挥家姚家杰接任。</span></p>\n<p style=\"text-align: justify;\"><img style=\"width: 764.98px; height: 414.26px;\" src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01QeXpGf2GdSbFp4V8Y_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">合唱团组建初衷和宗旨是以高度的社会责任感推动和促进我国合唱事业的发展，热情服务于社会，服务于广大热爱合唱的朋友，为社会和谐与进步贡献力量。合唱团坚持以自愿报考择优录取，专业的水准作为建团准则；通过不断学习、探索及艺术实践，精心排练，演出多种艺术风格的经典作品；逐步使该团成为具有较高艺术水平和示范作用的合唱团。经典合唱团曾在文化部主办的“永远的辉煌”首届全国老年合唱大赛中获得金奖，在第五届海峡两岸合唱大赛中获得金奖第一名，并应邀出访俄罗斯，成功举办合唱音乐会。</span></p>\n<p style=\"text-align: justify;\"><img style=\"width: 764.98px; height: 430.84px;\" src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN0144dHtE2GdSbIfRA7c_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"> &nbsp;</p>\n<p style=\"text-align: justify;\"><img style=\"width: 761.95px; height: 428.79px;\" src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01JRj24o2GdSbLpNlVA_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">三大音乐史诗简介：</span></p>\n<p style=\"text-align: justify;\"><img style=\"width: 762.95px; height: 330.51px;\" src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01mfDUkl2GdSbMYOc5q_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">《黄河大合唱》写成于抗日战争时期，1938年秋冬，作者随抗日部队行军至大西北的黄河岸边。中国雄奇的山川，战士们英勇的身姿激发了作者的创作灵感，时代的呼唤促使他怀着高涨的爱国热情谱写了一篇大型朗诵诗《黄河吟》，后来被改写成《黄河大合唱》的歌词。作品由八个乐章组成，它以丰富的艺术形象，壮阔的历史场景和磅礴的气势，表现出黄河儿女的英雄气概。《黄河大合唱》创作于中国抗日战争时期的1939年春天，同年4月13日首演于延安陕北公学大礼堂（由邬祈零指导），立即引起巨大反响，随即很快唱响全国，成为抗日歌曲的“主旋律”和时代的最强音。</span></p>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">《黄河大合唱》以其鲜明独特的个性，气势恢宏的音乐规模，催人奋进的强烈号召力和凝重深刻的哲学气息征服了世界。周恩来曾为《黄河大合唱》亲笔题词：“为抗战发出怒吼，为大众谱出呼声！”著名美国作家埃德加</span> <span style=\"font-family: 宋体;\">斯诺曾说过“《黄河大合唱》永永远远，都属于明日的中国。”</span></p>\n<p style=\"text-align: justify;\"><img style=\"width: 763.97px; height: 250.96px;\" src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01aXSZQV2GdSbLpOyKo_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">《长征组歌》二十世纪三十年代</span>1934年开始的<span style=\"font-family: 宋体;\">中国工农红军的长征是人类历史上的伟大壮举，并已经成为各个历史时期革命教育的典范。红色经典史诗《长征组歌》以艺术的形式再现了长征艰难的历程，让人们更加清晰地认识到中国革命的先进性本质。</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">《长征组歌——红军不怕远征难》已诞生了五十多个春秋，当年，为纪念中国工农红军长征胜利三十周年，由肖华作词，晨耕、生茂、唐诃、遇秋作曲，唐江指挥，北京军区政治部战友歌舞团于1965年8月1日在人民剧场成功地举行了大型声乐套曲《长征组歌——红军不怕远征难》的首场演出。</span></p>\n<p style=\"text-align: justify;\"><img style=\"width: 762.99px; height: 448.07px;\" src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ArYqV32GdSbIfOwtu_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">音乐舞蹈史诗《东方红》创演于1964年，是由一批革命历史歌曲和创作歌曲结合组成的，以鲜明感人的艺术形式，深刻反映了中国人民反对封建势力，反对殖民主义，反对军阀统治的不屈精神，艺术的概括了中国人民在党的领导下，从建立红色武装到迎来祖国解放的光辉历程。一经演出，便获得了巨大的成功。其中，《没有共产党就没有新中国》《我们是共产主义接班人》《保卫黄河》《人民解放军占领南京》《情深谊长》《松花江上》《十送红军》《歌唱祖国》等多首脍炙人口的歌曲，更是以隽永的艺术魅力</span>50<span style=\"font-family: 宋体;\">多年来被一代代的人们喜爱和传唱。</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">总 顾 问：武丽华</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">总 监 制：马崇友</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">艺术总监：李初建</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">策划统筹：李培禹 卫群</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">舞台监督：刘建国</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">演出：经典合唱团</span></p>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">支持单位：</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">中国军建书画艺术研究院北京分院</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">香港环球卫视</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">中国画任氏海派</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 宋体;\">特别鸣谢：中华和平发展促进会总会</span></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "",
+                            "socialCreditCode": "",
+                            "legalPerson": "",
+                            "regCapStr": "",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "",
+                            "entAddress": ""
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "须于演出结束后持门票至举办地场馆开具发票。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须兑换成纸质票验票入场，当天请按照【票夹】提示，前往取票点换取纸质票后入场"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "须于演出结束后持门票至举办地场馆开具发票。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/港澳居民来往内地通行证/护照/身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "10"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "现场为准"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "100"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "106",
+                    "venueName": "中山音乐堂",
+                    "venueProvinceName": "北京",
+                    "venueCityName": "北京市",
+                    "lng": 116.394353,
+                    "lat": 39.910719,
+                    "venueAddr": "北京市东城区天安门西侧中山公园内",
+                    "showCountText": "共有29个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D799387061095%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "73",
+                    "wantNumStr": "73",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i2/O1CN018aua481exC051EFzr_!!6000000003937-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/231453/46290609.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN013n7KRC1TtZ5bYGxgR_!!6000000002440-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/750854/150170951.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01WMBkkT1Lnb08vVqc0_!!6000000001344-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "特惠选座",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1716902795000",
+                "sellStartTimeStr": "05月28日 21:26",
+                "priceRange": "¥100-¥580",
+                "performBases": [
+                    {
+                        "name": "06.29 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1719590400000",
+                        "performs": [
+                            {
+                                "performId": "214589238",
+                                "performName": "2024-06-29 周六 19:30",
+                                "itemId": "799387061095",
+                                "projectId": "220332071",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1719660600000",
+                                "performTime": "2024.06.29 19:30",
+                                "performStartDate": "2024-06-29",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "优惠"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "380元票价打6.00折",
+                        "performanceIds": [
+                            "214589238"
+                        ]
+                    },
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "280元票价打6.00折",
+                        "performanceIds": [
+                            "214589238"
+                        ]
+                    },
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "580元票价打6.00折",
+                        "performanceIds": [
+                            "214589238"
+                        ]
+                    },
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "180元票价打6.00折",
+                        "performanceIds": [
+                            "214589238"
+                        ]
+                    }
+                ],
+                "promotionRemark": "您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "141889",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2602306",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "promotionList": [
+                    {
+                        "type": "SHOP",
+                        "tag": "满减",
+                        "isTagList": "false",
+                        "desc": "¥380票档，满1张打6折"
+                    }
+                ],
+                "promotionDetail": {
+                    "skuPromotionRelations": "799387061095&214589238&5614793106041_83205648417@5614793106042_83205054808@5614793106043_83204901902@5614793106044_83205324693",
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "2",
+                            "promotionGroupTypeDesc": "满减活动",
+                            "promotionList": [
+                                {
+                                    "promotionType": "4",
+                                    "promotionTag": "满减",
+                                    "promotionContentList": [
+                                        "¥180票档，每满1张打6折",
+                                        "¥280票档，每满1张打6折",
+                                        "¥380票档，每满1张打6折",
+                                        "¥580票档，每满1张打6折"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "¥380",
+                                            "displayContent": "每满1张打6折"
+                                        },
+                                        {
+                                            "skuName": "¥280",
+                                            "displayContent": "每满1张打6折"
+                                        },
+                                        {
+                                            "skuName": "¥180",
+                                            "displayContent": "每满1张打6折"
+                                        },
+                                        {
+                                            "skuName": "¥580",
+                                            "displayContent": "每满1张打6折"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7993870610/2/799387061095.jpg"
+            }
+        }
+    }
+}

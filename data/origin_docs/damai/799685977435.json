@@ -1,0 +1,476 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "852",
+    "cityname": "北京",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_799685977435",
+    "imgurl": "-593074818",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "北京 | 6.8 & 6.9「TANGO AMOR 探戈往事」0UR TANGO 乐团音乐会",
+    "nameNoHtml": "北京 | 6.8 & 6.9「TANGO AMOR 探戈往事」0UR TANGO 乐团音乐会",
+    "price": "280.0",
+    "price_str": "280",
+    "pricehigh": "280.0",
+    "privilegeTags": "[]",
+    "projectid": "799685977435",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.08-06.09",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "Blue Note Beijing 爵士乐俱乐部",
+    "venuecity": "北京",
+    "venueid": "61359",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01njtRo02GdSbPOQ5zf_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "799685977435",
+                    "itemName": "【北京】北京 | 6.8 & 6.9「TANGO AMOR 探戈往事」0UR TANGO 乐团音乐会",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "110100",
+                    "cityName": "北京市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01njtRo02GdSbPOQ5zf_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i1/2251059038/O1CN01njtRo02GdSbPOQ5zf_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.08-06.09",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "纸质发票",
+                            "tagDesc": "发票开具方：北京瀛寰文化传媒有限公司\r\n本项目支持开具纸质发票，该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并邮寄至收货地址，需自付邮费",
+                            "tagDescWithStyle": "<b>发票开具方：北京瀛寰文化传媒有限公司</b><br>本项目支持开具纸质发票，该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并邮寄至收货地址，需自付邮费",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "852",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Qt0LAv2GdSbOAWqKc_!!2251059038.png\" width=\"800\" height=\"800\" damai_width=\"800\" damai_height=\"800\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i37.79dd6b72nyf3eA\"></p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i48.79dd6b72nyf3eA\">OUR TANGO乐团： 承袭传统阿根廷探戈逾百年的发展与变革，直至20世纪晚期，由皮亚佐拉引领的“新探戈”（Tango Nuevo）风格，在此立足点上，不断挖掘和拓展多维度、个性化的表达：一面谨循正统阿根廷探戈风格，演绎原汁原味的探戈音乐；一面寻求中国传统音乐元素与探戈的结合——将对探戈的诠释与东方韵味的审美理念相融合，力图将“探戈”这一诞生于民间的大众艺术形式逐渐中国化、在地化，助推“”上两大万里之遥的文明，经由探戈艺术之桥连结在一起，交相辉映、煜煜生辉。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01TZzCMb2GdSbL4SaYX_!!2251059038.png\" width=\"709\" height=\"399\" damai_width=\"709\" damai_height=\"399\"></p><p style=\"text-align: center;\">OUR TANGO乐团： 承袭传统阿根廷探戈逾百年的发展与变革，直至20世纪晚期，由皮亚佐拉引领的“新探戈”（Tango Nuevo）风格，在此立足点上，不断挖掘和拓展多维度、个性化的表达：一面谨循正统阿根廷探戈风格，演绎原汁原味的探戈音乐；一面寻求中国传统音乐元素与探戈的结合——将对探戈的诠释与东方韵味的审美理念相融合，力图将“探戈”这一诞生于民间的大众艺术形式逐渐中国化、在地化，助推上两大万里之遥的文明，经由探戈艺术之桥连结在一起，交相辉映、煜煜生辉。</p>\n<p style=\"text-align: center;\">&nbsp;<br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01mW8boR2GdSbFGrzZ8_!!2251059038.png\" width=\"1182\" height=\"788\" damai_width=\"1182\" damai_height=\"788\"></p><p style=\"text-align: center;\">2017年，乐团受中国与阿根廷建交45周年首脑峰会邀请担任现场演奏嘉宾，见证两国的深厚友谊，以探戈奏响中阿友好新篇章。自2018年起，OUR TANGO乐团风雨兼程，举办了一系列全国探戈巡回音乐会，所到之处皆掀起一众热潮与好评。其演绎亮点在于：将中国传统音乐元素与阿根廷探戈以及爵士乐进行了巧妙的融合与改编，产生独特的音乐风格。</p>\n<p style=\"text-align: center;\">2022年5月出版专辑《米隆伽 &nbsp;MILONGA》；2023年5月，OUR TANGO乐团与北京人民艺术剧院合作话剧《海鸥》，并担任原创音乐及现场表演。<img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01XsgJmL2GdSbL4RiV0_!!2251059038.png\" width=\"985\" height=\"738\" damai_width=\"985\" damai_height=\"738\"></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01vMMMiY2GdSbFGs7rS_!!2251059038.png\" width=\"550\" height=\"366\" damai_width=\"550\" damai_height=\"366\"></p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i52.79dd6b72nyf3eA\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01FlaHnc2GdSbQWKIv8_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">于箭 Artistic Director/Bandoneón</p>\n<p style=\"text-align: center;\">李国垚 Piano</p>\n<p style=\"text-align: center;\">赵騹 Violin</p>\n<p style=\"text-align: center;\">王乾语 Guitar</p>\n<p style=\"text-align: center;\">王乐聪 Double Bass</p>\n<p style=\"text-align: center;\">田龙 Saxophone</p>\n<p style=\"text-align: center;\">吕小天 Drums</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01beN2252GdSbFGs7rT_!!2251059038.png\" width=\"489\" height=\"489\" damai_width=\"489\" damai_height=\"489\"></p><p style=\"text-align: center;\"><strong>Bandoneón 于箭</strong></p>\n<p style=\"text-align: center;\">班多钮手风琴(bandoneón)演奏家</p>\n<p style=\"text-align: center;\">OUR TANGO乐团创始人、艺术总监</p>\n<p style=\"text-align: center;\">&nbsp;2011年组建乐团至今演出足迹遍布全国，期间进行了多场探戈音乐的普及讲座活动，为探戈音乐的传播做出了贡献。2015年意大利兰恰诺国际手风琴艺术节中获得班多钮演奏组第一名，2016年与著名阿根廷班多钮手风琴演奏家Pablo Jaurena先生同台演绎，央视西语频道对此进行了全方位的报道；2017年与塞尔维亚班多钮手风琴大师Alex Nikolic先生在中央音乐学院艺术节中同台演出，并获得极高的评价；同年年初在中阿建交45周年峰会中演奏，这成为第一位在国会级别中献艺的班多钮手风琴演奏家 ，2019年受邀在艺术家加雷安德罗·埃利希的全球展览《太虚之镜》闭幕式中演出。带领OUR TANGO乐团进行2020年全国‘Fighting Covid-19’巡演，2021年“纪念皮亚佐拉诞辰百年巡演”，2022年“Tango&amp;Jazz”巡演，同年在京东文娱发行专辑《米隆伽》，2023年与北京人艺合作话剧《海鸥》并担任音乐总及监现场演奏。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01CjB0BR2GdSbQWFP6v_!!2251059038.png\" width=\"650\" height=\"866\" damai_width=\"650\" damai_height=\"866\"></p><p style=\"text-align: center;\"><strong>Saxophone&nbsp;田龙</strong></p>\n<p style=\"text-align: center;\">青年萨克斯演奏家，原军乐团萨克斯演奏员，中国音乐著作权协会会员， 龙乐队创始人，OUR TANGO乐团萨克斯手，服役期间跟随乐团出访10余个国家，担任独奏、重奏演出。参加建国60周年国庆首都阅兵，担任军乐团萨克斯声部演奏员，曾获军乐团树为“业务训练先进个人”荣誉称号。</p>\n<p style=\"text-align: center;\">2016年至今，活跃在各大院线及音乐节舞台上，如国家大剧院、上海东方艺术中心、广州大剧院、深圳音乐厅、天津大剧院、长沙音乐厅等。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN0188L5Yk2GdSbMZAz5u_!!2251059038.png\" width=\"411\" height=\"411\" damai_width=\"411\" damai_height=\"411\"></p><p style=\"text-align: center;\"><strong>Violin：赵騹&nbsp;</strong></p>\n<p style=\"text-align: center;\">4岁习琴，6岁登台，自幼即展露非凡的音乐才华。在探戈的演奏方面拥有娴熟的技艺与独到的见解。作为OUR TANGO小提琴手，演出足迹遍布各地，所演奏的探戈得到专家与广大听众的认可与喜爱。</p>\n<p style=\"text-align: center;\">·2016年应来华巡演的阿根廷班多钮演奏家Pablo Jaurena先生邀请，作为其演出的小提琴搭档，联袂演绎传统探戈舞曲及“新探戈”音乐 ，获得Jaurena先生认可与赞誉；</p>\n<p style=\"text-align: center;\">·2017年，在中阿建交45周年峰会的演奏获得两国领导高官的喜爱和高度评价。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN012tdFKh2GdSbNOzuA7_!!2251059038.png\" width=\"492\" height=\"491\" damai_width=\"492\" damai_height=\"491\"></p><p style=\"text-align: center;\"><strong>Double Bass 王乐聪</strong></p>\n<p style=\"text-align: center;\">爵士贝司手，青年低音提琴演奏家，毕业于天津音乐学院，主修低音提琴与电贝司演奏专业。先后担任天津青年爵士大乐队贝司手，“磁”乐队贝司手，“OUR TANGO”乐团低音提琴声部。</p>\n<p style=\"text-align: center;\">· 2012年在天津音乐学院举办“电贝司与低音提琴作品”个人专场音乐会，同年参加首届天津国际爵士音乐节演出；</p>\n<p style=\"text-align: center;\">· 2015年应俄罗斯莫斯科州文化部邀请参加“莫斯科国际音乐节”演出。2018年录制“磁”乐队录音室专辑《作业本》。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01P1yAcC2GdSbOc92YT_!!2251059038.png\" width=\"846\" height=\"564\" damai_width=\"846\" damai_height=\"564\"></p><p style=\"text-align: center;\"><strong>Keyboard/李国垚&nbsp;</strong></p>\n<p style=\"text-align: center;\">OUR TANGO乐团、磁爵士乐队键盘手，毕业于天津音乐学院。自由展现出杰出的爵士演奏天赋，演出经验丰富，跟随乐团在各大城市剧院巡演。</p>\n<p style=\"text-align: center;\">· 2021年美国匹兹堡国际钢琴大赛中荣获一等奖；</p>\n<p style=\"text-align: center;\">· 2023年在法国国际爵士钢琴比赛中获得三等奖。他以多样化且富有灵动感的演奏风格而备受好评。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01S15HX92GdSbR7i3Q9_!!2251059038.png\" width=\"691\" height=\"1037\" damai_width=\"691\" damai_height=\"1037\"></p><p style=\"text-align: center;\"><strong>Jazz Drums吕小天</strong></p>\n<p style=\"text-align: center;\">Arc Stone、CMA大乐队、桃源三重奏鼓手。师从鼓手罗超文、Dimitry与Izumi老师 并与作曲家杨明、粟畅、Anthony Vanacore老师学习爵士理论与实践。他不断观察、学习，并从他人的看法、声音和历史中找到灵感，他将学到的知识综合传达整理，不断吸收着这些音乐所带来的影响并创造着自己的声音。</p>\n<p style=\"text-align: center;\">· 2015年7月与崔健合作千人摇滚乐团并创吉尼斯世界纪录</p>\n<p style=\"text-align: center;\">· 2018年12月Tweak Tone Labs录制FFpro爵士大乐队专辑；</p>\n<p style=\"text-align: center;\">· 2019年1月担任沙宝亮生日酒会鼓手；</p>\n<p style=\"text-align: center;\">· 2020年8月Teen Town录制专辑《Around The Clock》</p>\n<p style=\"text-align: center;\">· 2020年10月录制央视晚会北音专场《Jasmine Flower》</p>\n<p style=\"text-align: center;\">· 2021年5月清华大学剧场专场演出；</p>\n<p style=\"text-align: center;\">· 2021年国家大剧院台湖星空爵士音乐节；常年江湖、东岸、DDC、Bluenote、The Bricks等Live巡回演出经历</p>\n<p style=\"text-align: center;\">· 2023年5月担任人民艺术剧院话剧《海鸥》爵士鼓配乐；</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN012xBCEI2GdSbL4R2uw_!!2251059038.png\" width=\"1264\" height=\"843\" damai_width=\"1264\" damai_height=\"843\"></p><p style=\"text-align: center;\"><strong>BASS王乾语&nbsp;</strong></p>\n<p style=\"text-align: center;\">职业吉他手，贝斯手，编曲人，从事器乐演奏与编曲录音工作多年，毕业于天津音乐学院。曾受邀参加天津爱乐交响乐团&nbsp;《千与千寻-宫崎骏与久石让作品音乐会》担任吉他手，龙乐队《寻找肯尼基》系列演出担任吉他手，JUMUA TRIO（卓穆 三重奏）中东/世界音乐担任贝斯手，并录制出版专辑《雨后》，活跃于各大音乐会的舞台，与不同风格的音乐人进行合作，潜心研习各种乐器与风格，致力于探索“跨乐器，跨地域，跨年代”的风格融合，尝试更多音乐的可能性。</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01ZwUgMK2GdSbMeI7Tl_!!2251059038.png\" width=\"1080\" height=\"150\" damai_width=\"1080\" damai_height=\"150\"></p><p style=\"text-align: center;\"><strong>2024.6.8-6.9 Sat. &amp; Sun.</strong></p>\n<p style=\"text-align: center;\"><strong>TANGO AMOR 探戈往事</strong></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Sgt4Si2GdSbNL4bxO_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i47.79dd6b72nyf3eA\"></p><p style=\"text-align: center;\">日期：2024年6月8日-9日（周六、周日）</p>\n<p style=\"text-align: center;\">入场时间：6:30 PM</p>\n<p style=\"text-align: center;\">演出时间：8:00 PM</p>\n<p style=\"text-align: center;\">地址：前门东大街23号 Blue Note Beijing</p>\n<p style=\"text-align: center;\">建议停车至前门23号院内（少量车位）；或前门东大街观旗宾馆收费停车场，步行过地下通道即可到达院内</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01jEAggD2GdSbL4Rmkr_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i63.79dd6b72nyf3eA\">单人坐席￥280</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01G1me2k2GdSbMZDOuT_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">1.所有网上购票观众请携带购票二维码到前台换取当日演出门票，凭票入场。门票一经出售，概不退换。</p>\n<p style=\"text-align: center;\">2.现场座位采取“先到先得”的方式，具体座位由前台工作人员进行安排。部分座位视线会受较大阻挡，建议购票客人提早入场至前台换票。</p>\n<p style=\"text-align: center;\">3. 观众凭前台换取的桌卡进入演出场地，由服务人员引领至相应座位入座。</p>\n<p style=\"text-align: center;\">4. 因场地座位有限，会有拼桌现象，敬请谅解。</p>\n<p style=\"text-align: center;\">5. 儿童观演须购票并由家长陪同入场，请家长善尽监护义务，禁止儿童在观众席内嬉闹，以免影响其他客人。</p>\n<p style=\"text-align: center;\">6. Blue Note提供餐饮服务，入场后即可点餐。谢绝自带食品与酒水进入场地。</p>\n<p style=\"text-align: center;\">7. 门票发票须演出当日凭桌卡开具。</p>\n<p style=\"text-align: center;\">8. 开车观众可将车停至前门23号院内（车位有限，建议提前到场）；如院内没有车位可将车辆停在前门东大街道路两侧市政收费车位或观旗宾馆收费停车场，步行即可到达院内。</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "北京瀛寰文化传媒有限公司",
+                            "socialCreditCode": "9111010158250075XB",
+                            "legalPerson": "高杉",
+                            "regCapStr": "3000万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "其他有限责任公司",
+                            "entAddress": "北京市东城区建国门内大街18号25层办公楼一座2501-1"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。演出结束后1个月左右邮寄给你，需自付邮费。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。演出结束后1个月左右邮寄给你，需自付邮费。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/身份证/港澳居民来往内地通行证/护照"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约90分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "61359",
+                    "venueName": "Blue Note Beijing 爵士乐俱乐部",
+                    "venueProvinceName": "北京",
+                    "venueCityName": "北京市",
+                    "lng": 116.40107,
+                    "lat": 39.901339,
+                    "venueAddr": "北京市东城区东华门街道北京市人民政府天安门地区管理委员会(东交民巷)",
+                    "showCountText": "共有6个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D799685977435%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1716620383000",
+                "sellStartTimeStr": "05月25日 14:59",
+                "priceRange": "¥280",
+                "performBases": [
+                    {
+                        "name": "06.08 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1717776000000",
+                        "performs": [
+                            {
+                                "performId": "214671101",
+                                "performName": "2024-06-08 周六 20:00",
+                                "itemId": "799685977435",
+                                "projectId": "220457025",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1717848000000",
+                                "performTime": "2024.06.08 20:00",
+                                "performStartDate": "2024-06-08",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "06.09 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1717862400000",
+                        "performs": [
+                            {
+                                "performId": "214691122",
+                                "performName": "2024-06-09 周日 20:00",
+                                "itemId": "799685977435",
+                                "projectId": "220457025",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1717934400000",
+                                "performTime": "2024.06.09 20:00",
+                                "performStartDate": "2024-06-09",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "2",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "141889",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7996859774/2/799685977435.jpg"
+            }
+        }
+    }
+}

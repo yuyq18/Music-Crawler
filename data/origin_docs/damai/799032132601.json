@@ -1,0 +1,449 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "852",
+    "cityname": "北京",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_799032132601",
+    "imgurl": "-599613266",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "北京 | 6.7 「端午时间」图灵⾳乐实验室TML《流沙龙》音乐会",
+    "nameNoHtml": "北京 | 6.7 「端午时间」图灵⾳乐实验室TML《流沙龙》音乐会",
+    "price": "260.0",
+    "price_str": "260",
+    "pricehigh": "260.0",
+    "privilegeTags": "[]",
+    "projectid": "799032132601",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.07 周五 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "Blue Note Beijing 爵士乐俱乐部",
+    "venuecity": "北京",
+    "venueid": "61359",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01AxJTzb2GdSbMlBmZ5_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "799032132601",
+                    "itemName": "【北京】北京 | 6.7 「端午时间」图灵⾳乐实验室TML《流沙龙》音乐会",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "110100",
+                    "cityName": "北京市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01AxJTzb2GdSbMlBmZ5_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i1/2251059038/O1CN01AxJTzb2GdSbMlBmZ5_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.07 周五 20:00",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "纸质发票",
+                            "tagDesc": "发票开具方：北京瀛寰文化传媒有限公司\r\n本项目支持开具纸质发票，该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并邮寄至收货地址，需自付邮费",
+                            "tagDescWithStyle": "<b>发票开具方：北京瀛寰文化传媒有限公司</b><br>本项目支持开具纸质发票，该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并邮寄至收货地址，需自付邮费",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "852",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN015emuPB2GdSbNboBvM_!!2251059038.png\" width=\"800\" height=\"800\" damai_width=\"800\" damai_height=\"800\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i66.79dd6b72FDAuZW\"></p><p style=\"text-align: center;\"><strong><span><span>图灵⾳乐实验室</span>Turing Music Lab</span></strong></p><p style=\"text-align: center;\"><span><span>图灵⾳乐实验室（</span><span>Turing Music Lab<span>&nbsp;</span></span><span>以下简称“</span><span>TML</span><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i13.1e676b72diz71v\">”）是⼀个由三位圈内知名的独⽴艺术家、演奏家、⾳乐制作⼈所组成的跨界类的⾳乐制作与演出团体。致⼒于将从古⾄今的各类⾳乐进⾏有机的结合。⻛格涉猎：古典⾳乐、电影原声、实验⾳乐、世界⾳乐、中国特⾊⾳乐、爵⼠乐、摇滚乐、电⼦乐、宗教⾳乐、等等。团队以“⾳乐实验室”的⽅式，制作并推出“突破常规的现场⾳乐表演”以及“充满灵⽓与质感的⾳乐作品”，对未来⾳乐演出题材、⾳乐演出模式以及⾳乐制作⽅式进⾏卓越⽽尖锐的探索，</span><span>TML</span><span>并不是⼀个简单意义下的三重奏、创作组合或者乐队。</span></span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN013I7N6B2GdSbLRqhwB_!!2251059038.png\" width=\"800\" height=\"326\" damai_width=\"800\" damai_height=\"326\"></p><p style=\"text-align: center;\"><span><span>其⼯作范围涵盖：⼤型⾳乐现场导演策划、各类影视配乐、各类⾳乐制作以及剧院级现场⾳乐会演出等。三位成员分别是：⾳乐制作⼈吉他演奏家胡晨</span><span>HUX</span><span>（</span><span>90</span><span>代）、电⾳制作⼈⼩提琴演奏家⻢骁⻜（</span><span>80</span><span>代）、⼤提琴先锋艺术家宋昭‧阿伊斯（</span><span>70</span><span>代）。</span></span></p><p style=\"text-align: center;\"><span><span>TML</span><span>团队因其独树⼀帜的⻛格已多次代表国家⽂化部出访交流，⾜迹遍布匈⽛利、以⾊列等地。包括太阳⻢戏团团⻓</span><span>Guy Laliberte</span><span>均对其印象深刻。</span></span></p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i18.1e676b72diz71v\"><span><span>2021</span><span>年，</span><span>TML</span><span>团队作为特邀艺术家参与国内顶流综艺“披荆斩棘的哥哥”，为李承铉组和陈⼩春组的哥哥们分别编创了《达拉崩吧》与《当年情》两个曲⽬，为两组拿下第⼀名与第⼆名的好成绩，节⽬⼀经播出便获得热烈反响与极⾼赞誉。在节⽬总决赛时，两⾸曲⽬均从</span><span>58</span><span>⾸曲⽬中脱颖⽽出，被观众投票评选为喜爱的节⽬。</span></span></p><p style=\"text-align: center;\"><span><br></span></p><p style=\"text-align: center;\"><span>【</span><span>他们如此评价图灵⾳乐实验室</span><span>】</span></p><p style=\"text-align: center;\"><em><span>“充斥想像⼒的全新东⽅⻛格⾳乐！他们的⾳乐呈现出⼀种难得的“震撼”与“精致”并存的⾳乐现场状态，他们为来⾃于东⻄⽅不同⽂化下的⾳乐，所进⾏的⼆度创作与创新，令⼈们感受到⼀种不可思议的中国东⽅式的世界思考，精彩得让⼈备感意外的丰富⾳乐享受</span></em><em><span>！</span></em><em><span>”</span></em></p><p style=\"text-align: center;\"><em><span><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i19.1e676b72diz71v\">——戏剧制作公司“太阳⻢戏团”团⻓</span><span>Guy Laliberte</span></span></em></p><p style=\"text-align: center;\"><em><span>&nbsp;</span></em><br></p><p style=\"text-align: center;\"><em><span><span>“我已来过中国</span><span>25</span><span>次，⾛访过许多地⽅，第⼀次看到这样的演出，东⻄⽅⾳乐的完美融合，</span></span></em></p><p style=\"text-align: center;\"><em><span>令我深深陶醉！这是⼀场超乎想象的演出！”</span></em></p><p style=\"text-align: center;\"><em><span><span>——第</span><span>14</span><span>届世界洲际⽉季⼤会瑞⼠⽇内瓦代表团团⻓</span></span></em></p><p style=\"text-align: center;\"><em><span>&nbsp;</span></em><br></p><p style=\"text-align: center;\"><em><span>“我们很幸运地经历了⼀场⾮凡的⽂化奇迹。“图灵⾳乐实验室”三位艺术家以⼤提琴、⼩提琴与吉他三件乐器创造了如此天才的合作，令我们欣赏到⻄⽅乐器与对东⽅中国⾳乐艺术的创新表达，我们感谢中国朋友对我们的友谊，中国传统⾳乐和⻄⽅⾳乐的结合是如此的完</span></em></p><p style=\"text-align: center;\"><em><span>美”。</span></em></p><p style=\"text-align: center;\"><em><span><span>——以⾊列</span><span>2019</span><span>新春⾳乐会，世界各国⼤使评论</span></span></em></p><p style=\"text-align: center;\"><em><span>&nbsp;</span></em><br></p><p style=\"text-align: center;\"><em><span>“指弹吉他天才胡晨、独⽴⼩提琴家⻢晓⻜、先锋⼤提琴家宋昭‧阿伊斯携⼿打造的⾳乐现</span></em></p><p style=\"text-align: center;\"><em><span>场，打磨七年之久，融合众多现场即兴创作、以及丰富的创意编排，让所有的观众都⼤开眼</span></em></p><p style=\"text-align: center;\"><em><span>界，狂呼惊喜！</span></em></p><p style=\"text-align: center;\"><em><span>——爱丁堡前沿剧展</span></em></p><p style=\"text-align: center;\"><span>&nbsp;</span><br></p><p style=\"text-align: center;\"><strong><span>【</span><span>音乐人介绍</span><span>】</span></strong></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01F2YCv42GdSbDJPvkV_!!2251059038.png\" width=\"800\" height=\"480\" damai_width=\"800\" damai_height=\"480\"></p><p style=\"text-align: center;\"><span><strong><span>HU CHEN<span>&nbsp;</span></span></strong><strong><span>胡晨</span></strong><strong><span>HUX</span></strong></span></p><p style=\"text-align: center;\"><span>音乐制作⼈ | 作曲 | 编曲 | 吉他演奏家 | TML艺术总监</span></p><p style=\"text-align: center;\"><span><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i21.1e676b72diz71v\">他是中国登上⻦巢年轻的乐⼿，他于</span><span>2019</span><span>年</span><span>FIBA</span><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i20.1e676b72diz71v\">篮球世界杯开幕式上创造了“在国家领导⼈ ⾯前演奏电声乐器”的历史。作为圈内炙⼿可热的⾳乐制作⼈与吉他演奏家，其参与编曲、 录制的专辑如《万松岭的嬉⽪⼠》、《</span><span>SEDAR</span><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i22.1e676b72diz71v\">》、《颁奖的时候我要缺席》等已多次提名 ⾦曲奖等奖项。在《</span><span>1 9 2 1</span><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i23.1e676b72diz71v\">》、《你好，李焕英》、《踏⾎寻梅》等等 电影的配乐中，他也留下了精彩的演绎。⽆论是在各⼤唱⽚的歌曲创作、编曲、制作名单 中，还是各类影视作品的配乐名单中，亦或是国内⼀线的⾳乐综艺节⽬中，“胡晨</span><span>HUX</span><span>”的名字都在频繁地出现。</span></span></p><p style=\"text-align: center;\"><span>合作艺⼈：腾格尔、刘欢、谭咏麟、汪峰、郑钧、李健、吴⻘峰、胡彦斌、胡海泉、李宇春、张杰、郁可唯、⿅晗、⽑不易、凤凰传奇、筷⼦兄弟、陈⼩春、张智霖、李克勤、⻩贯中、任贤⻬、林志炫、许茹芸、汪苏泷、关晓彤等等。</span></p><p style=\"text-align: center;\"><span><span>作为</span><span>TML</span><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i14.1e676b72diz71v\">团队的艺术总监，他受邀为知名诗⼈北岛所创作的《时间的玫瑰》也成为</span><span>TML</span></span></p><p style=\"text-align: center;\"><span>作品中最受欢迎的曲⽬之⼀。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01YyWqkG2GdSbDJPaxT_!!2251059038.png\" width=\"1268\" height=\"845\" damai_width=\"1268\" damai_height=\"845\"></p><p style=\"text-align: center;\"><span><strong><span>MA XIAOFEI<span>&nbsp;</span></span></strong><strong><span>⻢骁⻜</span></strong></span></p><p style=\"text-align: center;\"><span>电⼦⾳乐制作⼈ | ⼩提琴演奏家</span></p><p style=\"text-align: center;\"><span><span>先后毕业于中央⾳乐学院、德国慕尼⿊⾳乐学院（</span><span>Hochschule für Musikund Theater München</span><span>）。</span><span>4</span><span>岁学习⼩提琴，先后受教于曹修杰、徐律、严涛、刘培彦、林耀基、</span><span>Sebastian</span>&nbsp;<span>Erco</span><span>等</span><span>7</span><span>位⼩提琴名师。</span><span>2006</span><span>年尝试爵⼠、即兴创作。</span><span>2011</span><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i15.1e676b72diz71v\">年开始做跨界演出，得到了知名⾳乐⼈：三宝 刘欢、崔健、⼩柯等⾳乐家的启⽤和⼤⼒⽀持，被誉为最好的现场即兴创作乐⼿之⼀。</span></span></p><p style=\"text-align: center;\"><span><span>与中国歌舞剧院、中国电影乐团、天津交响乐团、</span><span>EOS</span><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i16.1e676b72diz71v\">交响乐团等合作演出近百场，参与瑞⼠琉森⾳乐节、法国夏⾄⾳乐节、慕尼⿊⻘年导演戏剧节、中德友好交流⾳乐会、崔健蓝⾊⻣头巡回演唱会等中外演出活动。曾与世界知名吉他⼤师</span><span>Steve Vai</span><span>进⾏跨界演出。</span></span></p><p style=\"text-align: center;\"><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i17.1e676b72diz71v\">世界知名指挥家祖宾·梅塔在⼀次⾳乐会后，兴奋的称赞：他对欧洲古典⾳乐的理解和诠释是在亚洲⼈⾥⾮常罕⻅的。知名指挥家⻢⾥斯·杨松斯在⼀次⾳乐会后称赞：他的琴声像是天使般纯净。参与创作录制了⼤量歌曲和影视⾳乐。应邀为电视剧《⾛进硝烟的⼥⼈》作曲、配乐获得好评，⼤量的原创作品也公开发表，成为了为数不多的集演奏家与制作⼈于⼀体的⾳乐⼈。</span></p><p style=\"text-align: center;\"><span><span>2014</span><span>年与⻘年⼥⾼⾳歌唱家曹雪组成了跨界⾳乐组合，“</span><span>VV</span><span>”发表了原创专辑《⽉如霜》 在圈内引起关注。</span></span></p><p style=\"text-align: center;\"><span><span>除了深厚的古典⾳乐功底，⾃</span><span>2005</span><span>年开始，⻢骁⻜开始了电⼦⾳乐的研究与探索</span>，<span>成为最早⼀批的电⼦⾳乐制作⼈，其精湛的制作能⼒深受包括“怪兽”电⼦⾳乐节等⼤型活动项⽬的⻘睐。由其创作制作的游戏⾳乐《⾬纪》荣获【</span><span>IMGA China2nd<span>&nbsp;</span></span><span>最佳⾳乐⾳效】【豌⾖设计最佳⾳乐设计】等奖项。</span></span></p><p style=\"text-align: center;\"><span><span>2018</span><span>年发⾏个⼈电⾳专辑《恶趣》</span></span></p><p style=\"text-align: center;\"><span><span>2019</span><span>年发⾏个⼈电⾳专辑《南⽆》，这是⼀张融合了包括国⻛、世界⾳乐等多种元素的电⼦乐专辑，获得圈内⼈⼠的⼀致好评。</span></span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01vw4TzI2GdSbOZtLzk_!!2251059038.png\" width=\"800\" height=\"449\" damai_width=\"800\" damai_height=\"449\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i76.79dd6b72FDAuZW\"></p><p style=\"text-align: center;\"><span><strong><span>AIYS SONG 宋昭·阿伊斯</span></strong></span></p><p style=\"text-align: center;\"><span>⽆声社创始⼈ | 玩家剧场空间合伙⼈ | ⾃由艺术者 | 独⽴艺术制作⼈ | 先锋⼤提琴艺术家 | 实验作曲家 | 导演 | 视觉设计师</span><span>&nbsp;</span></p><p style=\"text-align: center;\"><span><span>1998</span><span>⾄今，宋昭·阿伊斯以⼤提琴独奏家、室内乐演奏家、先锋⼤提琴艺术家身份活跃于各类⾳乐会、戏剧、舞剧、展览、影视、以及中国当代前沿艺术领域。应邀参加⾹港艺术节、墨尔本艺术节、美国</span><span>ASIA Society</span><span>、美国</span><span>COIL Festival</span><span>、</span><span>Israel International Arts Festival</span><span>以⾊列国际术节、波兰⽐亚⻙斯托克艺术节、格鲁吉亚第⽐利斯戏剧节、⻉多芬⾳乐节、德国</span><span>DAAD</span><span>艺术⽂化基⾦会、德国⻄⻔⼦⾳乐基⾦会、奥迪英杰⾳乐汇、北京国际⾳乐节、中央⾳乐学院⾳乐节、北京国际室内乐⾳乐节、轩尼诗⾳乐汇等众多国内外艺术节，并获得德国</span><span>DAAD</span><span>⽂化艺术交流基⾦⾼额奖学⾦，获得已故世界⾳乐⼤师</span><span>Mstislav Rostropovich</span><span>、</span><span>Isaac Stern</span><span>的卓越赞誉，被誉为“天才⼤提琴家”、“不可多得的⼤提琴⼈才”。作为⽆声社、宋朝策划、基因三重奏、阁楼北京越界⾳乐实验室、中华散乐集、</span><span>KUBI &amp; AIYS</span><span>、</span>北<span>⽅当代蒙古⾳乐实验室等众多艺术制作、演出品牌的创始⼈，宋昭·阿伊斯⻓年从事独⽴多元艺术策划、⼤提琴职业演奏、实验⾳乐、即兴⾳乐、艺术视觉设计、合作艺术探索等⼯作，创作并演出了两百余套兼具票房与艺术品位的⾳乐会作品，并先后制作推⼴【七贤】、【</span><span>WHO ARE WE<span>&nbsp;</span></span><span>我们是谁】、【座右听⾳】、【艺术⾮常道】等适应各类⼈群的艺术项⽬，被誉为国内最赋予创造⼒的多元⾳乐艺术家。 近年，宋昭·阿伊斯出任⽆声社⽂化艺术传播有限公司</span><span>CEO</span><span>及艺术总监，</span><span>AIYS</span><span>艺术实验室创始⼈，并创⽴《耘·⽆声之境》⾳乐节，以三天⾼密度艺术展演活动整合能⼒，备受艺术界⼈⼠关注。</span></span></p><p style=\"text-align: center;\"><span>宋昭·阿伊斯以导演、艺术总监、制作⼈、策划⼈、当代先锋艺术家等多元身份，先后</span></p><p style=\"text-align: center;\"><span><span>制作推出</span><span>30</span><span>余部跨界现场作品。赢得包括全球</span><span>40</span><span>个国家来宾、六千余名海内外观众的⾼度赞誉！瑞⼠⽇内瓦代表表示：我已来过中国</span><span>25</span><span>次，第⼀次看到这样的演出，东⻄⽅⾳乐的完美融合，令我深深陶醉！这是⼀场超乎想象的演出！</span><span>2018</span><span>年，宋昭·阿伊斯应邀成为北京亦庄“玩家”剧场空间合伙⼈，并出任艺术制作⼈及导演，将于</span><span>2018</span><span>～</span><span>2019</span><span>年制作推出多部前卫⻛格的剧场艺术项⽬和作品。</span></span></p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i27.1e676b72diz71v\"><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i26.1e676b72diz71v\">⼆⼗年以来，宋昭·阿伊斯以中国艺术家身份代表⽂化部、北京市⽂化局、上海国际艺术节等政府⽂化艺术机构，出访以⾊列、韩国、中国⾹港、中国台湾、澳⼤利亚、美国、英国、德国、南美、波兰、匈⽛利、格鲁吉亚等国家和地区，被海内外艺术同⾏们誉为“中国最繁忙的⼤提琴艺术家！”。</span></p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i28.1e676b72diz71v\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01D6vVkZ2GdSbMm67SK_!!2251059038.png\" width=\"1080\" height=\"199\" damai_width=\"1080\" damai_height=\"199\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i71.79dd6b72FDAuZW\"></p><p style=\"text-align: center;\">1.《动物新闻》</p><p style=\"text-align: center;\">2.《涅槃葬歌》</p><p style=\"text-align: center;\">3.《迪米特里的茶》</p><p style=\"text-align: center;\">4.《再別·香兰》</p><p style=\"text-align: center;\">5.《致敬“MJ”之 Smooth Criminal》</p><p style=\"text-align: center;\">6.《月如霜》</p><p style=\"text-align: center;\">7.《马》</p><p style=\"text-align: center;\">8.《十面》</p><p style=\"text-align: center;\">9.《流沙龙》</p><p style=\"text-align: center;\">10.《孤身一人》</p><p style=\"text-align: center;\">11.《时间的玫瑰》</p><p style=\"text-align: center;\">12.《超級魂斗罗》</p><p style=\"text-align: center;\">13.《天堂》</p><p style=\"text-align: center;\">14.《茶水》</p><p style=\"text-align: center;\">15.《女人的那些花儿》</p><p style=\"text-align: center;\">16.《河流之国》</p><p style=\"text-align: center;\">17.《碟中谍》</p><p style=\"text-align: center;\">18.《巴赫戈德堡变奏曲》</p><p style=\"text-align: center;\">*曲目以当天演出为准*</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01nb5qQd2GdSbKyZRrC_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">日期：2024年6月7日（周五）</p><p style=\"text-align: center;\">入场时间：6:30 PM</p><p style=\"text-align: center;\">演出时间：8:00 PM</p><p style=\"text-align: center;\">地址：前门东大街23号 Blue Note Beijing</p><p style=\"text-align: center;\">建议停车至前门23号院内（少量车位）；或前门东大街观旗宾馆收费停车场，步行过地下通道即可到达院内</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01lPCkOc2GdSbNbrkZE_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">单人坐席（预售）：260元</p><p style=\"text-align: center;\">单人坐席（现场）：300元</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01RGrmZA2GdSbMfUnUj_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">1. 所有网上购票观众请携带购票二维码到前台换取当日演出门票，凭票入场。门票一经出售，概不退换。</p><p style=\"text-align: center;\">2. 现场座位采取“先到先得”的方式，具体座位由前台工作人员进行安排。部分座位视线会受较大阻挡，建议购票客人提早入场至前台换票。</p><p style=\"text-align: center;\">3. 观众凭前台换取的桌卡进入演出场地，由服务人员引领至相应座位入座。</p><p style=\"text-align: center;\">4. 因场地座位有限，会有拼桌现象，敬请谅解。</p><p style=\"text-align: center;\">5. 儿童观演须购票并由家长陪同入场，请家长善尽监护义务，禁止儿童在观众席内嬉闹，以免影响其他客人。</p><p style=\"text-align: center;\">6. Blue Note提供餐饮服务，入场后即可点餐。谢绝自带食品与酒水进入场地。</p><p style=\"text-align: center;\">7. 门票发票须演出当日凭桌卡开具。</p><p style=\"text-align: center;\">​<br></p><p style=\"text-align: center;\"><br></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "北京瀛寰文化传媒有限公司",
+                            "socialCreditCode": "9111010158250075XB",
+                            "legalPerson": "高杉",
+                            "regCapStr": "3000万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "其他有限责任公司",
+                            "entAddress": "北京市东城区建国门内大街18号25层办公楼一座2501-1"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。演出结束后1个月左右邮寄给你，需自付邮费。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。演出结束后1个月左右邮寄给你，需自付邮费。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/护照/台湾居民来往大陆通行证/身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约90分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "61359",
+                    "venueName": "Blue Note Beijing 爵士乐俱乐部",
+                    "venueProvinceName": "北京",
+                    "venueCityName": "北京市",
+                    "lng": 116.40107,
+                    "lat": 39.901339,
+                    "venueAddr": "北京市东城区东华门街道北京市人民政府天安门地区管理委员会(东交民巷)",
+                    "showCountText": "共有6个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D799032132601%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1716431284000",
+                "sellStartTimeStr": "05月23日 10:28",
+                "priceRange": "¥260",
+                "performBases": [
+                    {
+                        "name": "06.07 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1717689600000",
+                        "performs": [
+                            {
+                                "performId": "214646060",
+                                "performName": "2024-06-07 周五 20:00",
+                                "itemId": "799032132601",
+                                "projectId": "220462010",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1717761600000",
+                                "performTime": "2024.06.07 20:00",
+                                "performStartDate": "2024-06-07",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "141889",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7990321326/2/799032132601.jpg"
+            }
+        }
+    }
+}

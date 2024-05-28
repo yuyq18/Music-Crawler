@@ -1,0 +1,54 @@
+{
+    "platform": "大麦",
+    "project_id": "797824963022",
+    "project_name": "「千万亿个梦」贰佰2024新专辑巡演 第二轮 南京站",
+    "category_name": "演唱会",
+    "artists": [
+        "贰佰"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.01 周日 20:00",
+    "session_time": [
+        "09.01 周日"
+    ],
+    "price": "150-180",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南京",
+    "venue_name": "1701 Live House Max",
+    "venue_info": {
+        "venue_address": " 南京市雨花台区安德门大街57号",
+        "lng": 118.764476,
+        "lat": 31.970526
+    },
+    "project_info": " \n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01tCMk9u2GdSbIsoxPT_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN012YmhS32GdSbGm3Wmk_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "799370032162",
+            "cityName": "温州站",
+            "showTime": "08.28"
+        },
+        {
+            "itemId": "799123739841",
+            "cityName": "杭州站",
+            "showTime": "08.30"
+        },
+        {
+            "itemId": "797824963022",
+            "cityName": "南京站",
+            "showTime": "09.01"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=797824963022"
+}

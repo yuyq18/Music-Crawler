@@ -1,0 +1,461 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "3167",
+    "cityname": "呼和浩特",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_798484568875",
+    "imgurl": "-605088904",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "【石磊4ROCK】2024“一万场” 巡演呼和浩特站",
+    "nameNoHtml": "【石磊4ROCK】2024“一万场” 巡演呼和浩特站",
+    "price": "100.0",
+    "price_str": "100-130",
+    "pricehigh": "130.0",
+    "privilegeTags": "[]",
+    "projectid": "798484568875",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.09 周日 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "新思路 WHOHOT LIVEHOUSE",
+    "venuecity": "呼和浩特",
+    "venueid": "10035",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01xb5PhB2GdSbNXtF2r_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "798484568875",
+                    "itemName": "【呼和浩特】【石磊4ROCK】2024“一万场” 巡演呼和浩特站",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "150100",
+                    "cityName": "呼和浩特市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01xb5PhB2GdSbNXtF2r_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01xb5PhB2GdSbNXtF2r_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.09 周日 20:00",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：成都太合乐动科技有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：成都太合乐动科技有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "3250",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "活动介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><h2 style=\"text-align: center;\">&nbsp; &nbsp; <strong>&nbsp; <span style=\"color: #000000; font-size: 24px;\">&nbsp;“端午节呼市见！ 我终于可以去吃呼市烧麦，内蒙羊杂汤了。还有我想去青城公园，因为我喜欢看平原上的摩西。”</span></strong>——磊叔说</h2>\n<h2 style=\"text-align: center;\">&nbsp; &nbsp; &nbsp; &nbsp; 磊叔的一万场巡演，每个城市都有藏在他心里的故事。</h2>\n<h2 style=\"text-align: center;\">这次要去的地方够远，也是他人生第一次去的城市，内蒙古呼和浩特。</h2>\n<h2 style=\"text-align: center;\">一个很重要的原因是那部他看了几十遍的剧集《平原上的摩西》，</h2>\n<h2 style=\"text-align: center;\">让他下定了决心，要去。</h2>\n<h2 style=\"text-align: center;\">《平原上的摩西》，呼市出生的80后导演张大磊把双雪涛笔下发生在东北的往事再创作并搬到了呼和浩特。</h2>\n<h2 style=\"text-align: center;\"><span style=\"color: #000000; font-size: 24px;\">磊叔对一件事的专注之狠，除了音乐，还体现在方方面面。</span></h2>\n<h2 style=\"text-align: center;\">剧里的每一个镜头被他反复看了N多遍，那个时代的印记和他自己的命运会在很多个失眠的夜里重叠，黑与白重叠出来的灰色，伴着酒精反复咀嚼，痛与苦，爱和救赎。</h2>\n<h2 style=\"text-align: center;\">最好的故事，总是那些小人物是用最朴素的办法坚守住自己认定的规则与信念后，讲述出来的。“高山大海皆可让路，只要心诚。”</h2>\n<h2 style=\"text-align: center;\">话说回来，磊叔不是去旅游的，是带着他的“一万场”跋山涉水去见内蒙的歌迷们，和热爱<span style=\"color: #e03e2d; font-size: 48px;\">“一万场”</span>，热爱Citywalk的石头们一起去的。</h2>\n<h2 style=\"text-align: center;\">演出场地的名字也特别好，“WHOHOT”一语双关。刚好，他的现场很热，非常热，这次会从平原，燃烧到高原。</h2>\n<h2 style=\"text-align: center;\"><span style=\"font-size: 56px; color: #e03e2d;\"> 6月9日，端午节，晚8点，呼市见！</span></h2>\n<h2 style=\"text-align: center;\">&nbsp;</h2>\n<h2><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN018Qtimk2GdSbGQHRen_!!2251059038.png\" alt=\"\" width=\"640\" height=\"617\" damai_width=\"null\" damai_height=\"null\"></h2>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 48px;\"><strong>2023中国新音乐排行榜 【最受欢迎独立音乐人】</strong></span></p>\n<p><span style=\"font-size: 48px;\"><strong>2023中国新音乐排行榜 【最佳现场奖】</strong></span></p>\n<p><span style=\"font-size: 36px;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01J4nPs72GdSbGmkcXq_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"360\" damai_width=\"null\" damai_height=\"null\"></span></p>\n<p><span style=\"color: #000000; font-size: 16px;\">代表作品：《哎呦》《上头歌》《青春之歌》《每条伤心的大街》《阳光灿烂的夜里》《漫山遍野都是你》《却有晴》《最后一首歌》《世界不会再有你和我》 等。</span></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01H6MFh62GdSbIISdwA_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"427\" damai_width=\"null\" damai_height=\"null\"></p>\n<p><span style=\"font-size: 16px;\">他不停创作只为音乐，写出人生每一个阶段，情绪的共鸣，触动人心底最深的角落。上头歌，却有晴，那些躁动的，感人的，歌词里咽下伤痛后释放的温暖，激励人们勇敢前行。他被歌迷称为现场之王，看一场就会有“一万场”，天南地北场场追随；他坚持做最真的自己，跌宕人生，却把青春另存！&nbsp;<strong>他说，一切都会好，一直在奔跑！</strong></span></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01lGqu292GdSbINlSrP_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"360\" damai_width=\"null\" damai_height=\"null\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01o0n3122GdSbLIvTYU_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"360\" damai_width=\"null\" damai_height=\"null\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01jurr7r2GdSbJutyL3_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"360\" damai_width=\"null\" damai_height=\"null\"></p>\n<p><span style=\"font-size: 18px;\"><strong>&nbsp;磊叔金句：看一场少一场，我们TMD还有一万场！</strong></span></p>\n<p>&nbsp;</p>\n<p><strong><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01wBP1IF2GdSbIeK93r_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"79\" damai_width=\"null\" damai_height=\"null\"></strong></p>\n<h2 style=\"text-align: center;\"><strong>呼和浩特！6月9日！&nbsp;</strong></h2>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01bop3M42GdSbJ8FkZp_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"853\" damai_width=\"null\" damai_height=\"null\"></p>\n<h2 style=\"text-align: center;\"><strong>呼和浩特见！</strong></h2>\n<p><strong><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01dacaVN2GdSbMH5sBn_!!2251059038.jpg\" alt=\"\" damai_width=\"null\" damai_height=\"null\"></strong></p>\n<p><span style=\"font-size: 18px;\">&nbsp;演出时间：2024年6月9日&nbsp; 20:00-22：00</span></p>\n<p><span style=\"font-size: 18px; color: #000000;\">演出地点：内蒙古呼和浩特市赛罕区展东路尚好家快捷酒店南巷内</span></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "",
+                            "socialCreditCode": "",
+                            "legalPerson": "",
+                            "regCapStr": "",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "",
+                            "entAddress": ""
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：身份证/台湾居民来往大陆通行证/港澳居民来往内地通行证/护照"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "12"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "100"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "10035",
+                    "venueName": "新思路 WHOHOT LIVEHOUSE",
+                    "venueProvinceName": "内蒙古自治区",
+                    "venueCityName": "呼和浩特市",
+                    "lng": 111.725836,
+                    "lat": 40.82091,
+                    "venueAddr": "内蒙古呼和浩特市赛罕区展东路尚好家快捷酒店南巷内100米",
+                    "showCountText": "共有10个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D798484568875%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1716903030000",
+                "sellStartTimeStr": "05月28日 21:30",
+                "priceRange": "¥100-¥130",
+                "performBases": [
+                    {
+                        "name": "06.09 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1717862400000",
+                        "performs": [
+                            {
+                                "performId": "214593305",
+                                "performName": "2024-06-09 周日 20:00",
+                                "itemId": "798484568875",
+                                "projectId": "220395056",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1717934400000",
+                                "performTime": "2024.06.09 20:00",
+                                "performStartDate": "2024-06-09",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "141889",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2602306",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "2507",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7984845688/2/798484568875.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "platform": "大麦",
+    "project_id": "798382209346",
+    "project_name": "喜力·泡泡岛音乐与艺术节·西南站",
+    "category_name": "演唱会",
+    "artists": [
+        "朴树",
+        "万能青年旅店",
+        "陈粒",
+        "新裤子",
+        "痛仰乐队",
+        "郭顶",
+        "陈楚生",
+        "橘子海",
+        "陈婧霏",
+        "木马乐队",
+        "麻园诗人",
+        "许钧",
+        "Fine乐团",
+        "闪星TWINKLESTAR",
+        "犬儒",
+        "假假條",
+        "花墙乐队",
+        "赵雷",
+        "灯诱LampLure"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.22-06.23",
+    "session_time": [],
+    "price": "298-788",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "贵阳",
+    "venue_name": "多彩贵州城3号广场",
+    "venue_info": {
+        "venue_address": "多彩贵州城内",
+        "lng": 106.790198,
+        "lat": 26.523872
+    },
+    "project_info": "\n \n\n\n\n\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01ufU9YF2GdSbQOMNNc_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01B2hTu02GdSbNxD9PJ_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN018JoBfT2GdSbKRw0Wq_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01w6QSc22GdSbNGFFL2_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01pq5Rdn2GdSbNYVw32_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01HSjItg2GdSbKRyUdU_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01BOGK7V2GdSbO1FpHs_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01q2yOjp2GdSbO1Ep0K_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "51738",
+        "wantNumStr": "5.2万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过87%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "794975845912",
+            "cityName": "福州站",
+            "showTime": "06.15-06.16"
+        },
+        {
+            "itemId": "798382209346",
+            "cityName": "贵阳站",
+            "showTime": "06.22-06.23"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=798382209346"
+}

@@ -1,0 +1,531 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "2812",
+    "cityname": "长春",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_799327918346",
+    "imgurl": "-596655409",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2024长春去野音乐节",
+    "nameNoHtml": "2024长春去野音乐节",
+    "price": "199.0",
+    "price_str": "199-599",
+    "pricehigh": "599.0",
+    "privilegeTags": "[]",
+    "projectid": "799327918346",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.29-06.30",
+    "sitestatus": "3",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": "青怡坊云琅艺术中心",
+    "venuecity": "长春",
+    "venueid": "6764050",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN015rOevI2GdSbMSaeOt_!!2251059038.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "799327918346",
+                    "itemName": "【长春】2024长春去野音乐节",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "220100",
+                    "cityName": "长春市",
+                    "categoryId": "127420006",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN015rOevI2GdSbMSaeOt_!!2251059038.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN015rOevI2GdSbMSaeOt_!!2251059038.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.29-06.30",
+                    "showDuration": "以现场为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。",
+                            "tagType": "2",
+                            "renderType": "2",
+                            "tagDescJson": "{\"generalNote\":\"该演出支持退票，您可以在【我的-订单详情页】中申请退票，退票需要收取手续费，具体规则如下；\",\"performRules\":[{\"rules\":[{\"endTime\":1716876000000,\"ruleStage\":3,\"ruleType\":2,\"startTime\":1716789600000},{\"endTime\":1716962400000,\"ruleFeeBP\":3000,\"ruleStage\":2,\"ruleType\":1,\"startTime\":1716876000000},{\"endTime\":1717048800000,\"ruleFeeBP\":5000,\"ruleStage\":1,\"ruleType\":1,\"startTime\":1716962400000},{\"ruleStage\":1,\"ruleType\":4,\"startTime\":1717048800000}]}],\"refundProcedureFeeRule\":1}",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：长春天谊兄弟传媒有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：长春天谊兄弟传媒有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "2812",
+                    "atomSplit": "1",
+                    "isHotProject": "true",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>演出介绍</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01O1jwqj2GdSbPE9K4w_!!2251059038.jpg\" width=\"3771\" height=\"13519\" damai_width=\"3771\" damai_height=\"13519\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN014jVC9f2GdSbKP4276_!!2251059038.jpg\" width=\"1267\" height=\"1791\" damai_width=\"1267\" damai_height=\"1791\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01VtfQ3D2GdSbQ8LTFi_!!2251059038.jpg\" width=\"1267\" height=\"1791\" damai_width=\"1267\" damai_height=\"1791\"></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>6月29日</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01014MXp2GdSbOkCv5W_!!2251059038.jpg\" width=\"415\" height=\"584\" damai_width=\"415\" damai_height=\"584\"></p>\n<p>宝石GEM 代表作：《他不爱我》《野狼disco》《电梯战神》《行走的鱼》 《执子之手》</p>\n<p>简介：宝石Gem，本名董宝石，1986年7月20日出生于吉林省长 春市，中国内地说唱男歌手、词曲作者、影视演员。 2008年，随“吾人族”发行说唱合辑《冲破》与《吾人族》。 2009年，随“吾人族”推出音乐单曲《出师表3.0》。2010年，参与 创立并加入音乐厂牌“吾人文化”。2016年，推出个人首张迷你音 乐专辑《样带：38场29镜2次》。2017年，推出迷你音乐专辑《G.E. M 董宝石》。2019年，参加说唱音乐节目《中国新说唱2019》。 2020年1月24日，参加中央电视台春节联欢晚会。2021年，参加浙江 2 卫视互动音乐综艺节目《为歌而赞》；同年，与“壹心娱乐”公司 签约成为旗下艺人。2022年，以本名发行首张专辑《More Than》。 2023年，参加综艺节目《5哈第三季》。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01K5R1oa2GdSbLHjW9F_!!2251059038.jpg\" width=\"415\" height=\"584\" damai_width=\"415\" damai_height=\"584\"></p>\n<p>早安 D.M.G 代表作：《麒麟》《在我的花园里要燥起来》《收声》《Pillow》 《闹笑话的优雅》</p>\n<p>简介：早安，原名孙旸，中国内地说唱男歌手，江苏南京人， 种梦音乐D.M.G旗下签约艺人、free-out厂牌Round_2成员。2022年 爱奇艺《中国说唱巅峰对决》冠军联盟成员，2023年再次参加《中 国说唱巅峰对决2023》最终所在联盟成功卫冕。 2023微博音乐盛典的颁奖典礼上荣获【年度价值说唱歌手】； 2022微博音乐盛典颁奖典礼荣获【年度突破说唱歌手】；2022年度 QQ音乐融合嘻哈颁奖典礼早安荣获【年度突破艺人】及《麒麟》（L ive）荣获【最受欢迎个人单曲】两大奖项；2021年度QQ音乐融合嘻 哈颁奖典礼早安与龚琳娜合作舞台《不忐忑》荣获【最佳综艺说唱舞台】。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01jCCxTA2GdSbR5IXpe_!!2251059038.jpg\" width=\"415\" height=\"584\" damai_width=\"415\" damai_height=\"584\"></p>\n<p>姚琛 代表作：《不必回答》《运动者联盟》《姚琛YAOCHEN》</p>\n<p>简介：姚琛，1998年3月23日出生于重庆市，中国内地流行乐男 歌手。2015年8月，通过JYP Entertainment在ETM的非公开选秀中被 4 选中，开始了自己的练习生生涯。2019年，参加腾讯视频青年团训 节目《创造营2019》，最终以总决赛第5名的成绩加入男子演唱组合 R1SE；6月8日，随R1SE推出了组合出道曲《R.1.S.E》；7月24日，随 组合R1SE献唱《全职高手》片尾曲 《荣耀的战场》。TMEA腾讯音乐 娱乐盛典年度新势力内地音乐人奖、亚洲新歌榜度盛典年度最受欢 迎新团体奖、融合嘻哈盛典年度全能艺人奖得主。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Hm7t4n2GdSbLdnegk_!!2251059038.jpg\" width=\"415\" height=\"584\" damai_width=\"415\" damai_height=\"584\"></p>\n<p>KC左元杰 代表作：《情歌一首》《炫舞国度》《如果有一天世界会毁灭》 《搭跑车》</p>\n<p>简介：Kc（左元杰），1995年12月5日出生于广东省广州市，毕 业于华东政法大学，中国内地说唱歌手，说唱厂牌Free-out成员。 2009年，Kc开始了他的说唱生涯。2011年，在“Real Life”说 唱Battle大赛中获得了冠军。2015年，成为男子团体BOX.COM成员。 2016年，成为说唱battle比赛“Iron Mic”史上唯一一位上海赛区连 续四年夺得冠军的选手。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01tid0d22GdSbQNb42u_!!2251059038.jpg\" width=\"415\" height=\"584\" damai_width=\"415\" damai_height=\"584\"></p>\n<ol>\n<li>G张思源 代表作：《Wanna take you》《BAD BOY,BAD GIRL》《天马》《 再靠近一点》《烂醉》</li>\n</ol>\n<p>简介：张思源（G.G），1994年9月16日出生于山西省运城市， 毕业于吉林动画学院，中国内地说唱歌手，说唱厂牌Free-out成员。 2016年4月，成立独立音乐团体F.T.S，并开始发布独立制作的音 乐作品；同年，在“网易云音乐全国第三届校园歌手大赛”中获得 总冠军、最佳人气奖。2017年，正式签约经纪公司；4月10日，发布 7 个人原创单曲《随便你》，从而正式出道。2018年3月9日，发布个 人原创歌曲《小可爱与小领带》；5月22日，发布个人原创歌曲《给 陌生的你听》，从而获得了一定的关注，该曲获得了“硬地围炉夜 ·2018年度网易云音乐原创盛典”年度十大歌曲。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01IBCXj82GdSbKP4N6G_!!2251059038.jpg\" width=\"415\" height=\"584\" damai_width=\"415\" damai_height=\"584\"></p>\n<p>AY楊佬叁&amp;国风DOM.T代表作：《骗自己PT.2》《慢慢来》</p>\n<p>简介：杨佬叁，出生于广东，中国内地女歌手。2017年1月，发表了首张单曲《骗自己PT.2》并登上网易云音乐榜单第二位。2018 年，在东莞举办首场演唱会。、 2017年1月，发表了首张单曲《骗自己PT.2》并登上网易云音乐 榜单第二位。9月，发布新歌《慢慢来》。 2018年，在东莞举办首场演唱会。12月，参加“第七届中国嘻 哈颁奖典礼”。 2019年8月10日，参加“2019第六届摸泥节暨goodmoni“无差别” 音乐节” 2023年2月，参加《2023厦门嗨浪音乐节》。3月，参加2023AYO! 音乐节深圳站；4月1日，参加2023AYO!音乐节成都站。4月30日，参加2023电糖公园音乐节。听佬叁的歌，你会发现她的声音有一种特有的性感与不羁，好像空气里都充斥着她的气息。与DOMT国风被称为最高甜说唱夫妇！</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01l2vwiB2GdSbPBCeMF_!!2251059038.jpg\" width=\"415\" height=\"584\" damai_width=\"415\" damai_height=\"584\"></p>\n<p>黄礼格 代表作：《类似爱情》《卅兮卅》《11》《ONE PIECE》《LOWK EY》</p>\n<p>简介：黄礼格，中国内地男演员、歌手。2014年出演电影《类似爱情》正式进入演艺圈。2015年，拍摄青春校园电影《泡妞秘籍》。2016年1月14日，发布个人首支单曲《You Get Me》；3月，参加了腾讯视频真人秀《惊喜旅程》的录制；4月，受邀出席“第四届音悦V榜年度盛典”；6月25日黄礼格正式发行第一张个人实体EP《卅兮卅》；8月6日，黄礼格个人第一场演唱会在宁波举行；2017年4月8日，出席“第五届音悦V榜年度盛典”，获得“年度突破男歌手”奖项；5月10日，发行单曲《Envy》。2018年7月，参加爱奇艺华语青年说唱音乐真人秀《中国新说唱》。2019年4月，发行个人首张创作专辑《No Tag》；2020年个人最新概念EP《ONE PIECE》；2021年，发行新单曲《拉黑》《LOWKEY》；2021年，为时代少年团创作歌曲《男儿歌》并担纲制作人；2022年1月，和队长合作发行全新单曲《11》；2022年4月，发行单曲《失眠》。2023年11月，发行单曲《游梦人》。12月15日，发布单曲《给我你的爱》。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01LztcP42GdSbRgWgzh_!!2251059038.jpg\" width=\"415\" height=\"584\" damai_width=\"415\" damai_height=\"584\"></p>\n<p>田玮 代表作：《香槟》《彩虹的午后》《keep going》《田玮 》《 带你回到old shchool》</p>\n<p>简介：CYMS KING 田玮，佤族，来自云南的90后新一代说唱歌 手， 来自GeneFlow音乐厂牌，音乐风格以Trap、 Dancehall、 POP 等为主 。 阿玮从小受到家乡的HIP-HOP音乐氛围影响， 发自 内心的要成 为一名说唱歌手。2016年发行个人第一 张MIXTAPE《田玮MIXITAPE VOL. 1》及同名单曲 《田玮》， 首次亮相就广受好评。随后陆续发 6 布两 张MIXITAPE系列和一张个人专辑《GAME LIFE》， 其中单曲《k eep going》和《带你回到old shchool》 相续登上中国嘻哈榜冠军， 崭露头角。</p>\n<p>&nbsp;</p>\n<p>6月30日</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01YzOu4q2GdSbLdozyP_!!2251059038.jpg\" width=\"415\" height=\"584\" damai_width=\"415\" damai_height=\"584\"></p>\n<p>GALA简介：</p>\n<p>GALA，中国乐队，亚洲巨星，组建于2004年。乐队由主唱苏朵、吉他手侯都都，贝斯手石亮、键盘手甘虎等组成，全平台媒体账号粉丝百万+；代表作《追梦赤子心》、《Young For You》等。全音乐平台播放量超10亿、评论超百万；曾获第12届音乐风云榜“年度最佳摇滚乐队”，“年度最佳摇滚歌曲”“年度最佳摇滚专辑”等奖项；在受邀参加各大音乐节的同时走进主流视野，登上央视元宵晚会、浙江卫视跨年晚会等大型晚会舞台</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01WJ0nJP2GdSbQNftZe_!!2251059038.jpg\" width=\"415\" height=\"584\" damai_width=\"415\" damai_height=\"584\"></p>\n<p>房东的猫 代表作：《云烟成雨》《New Boy》《我可以》《送别》《斑马 斑马》</p>\n<p>简介：房东的猫，中国内地女子双人唱作组合，由吉他手吴佩 岭和主唱王心怡组成。 2013年，房东的猫正式成立。2015年，在网易云音乐发表第一首原 创单曲《秋酿》获得了一定的关注度；同年，在网络上发布了翻唱 宋冬野的歌曲《斑马斑马》。2017年，推出组合首张同名专辑《房 东的猫》；同年，为动漫番剧《我是江小白》演唱片尾曲《云烟成 雨》。2018年，推出组合第二张专辑《柔软》；同年，获得“硬地 围炉夜·2017年度网易云音乐原创盛典”年度新人奖。2019年1月6 日，获得Q China2018年度音乐盛典最佳独立音乐团体奖；1月20日， 获得“硬地围炉夜·2018年度网易云音乐原创盛典”年度组合奖。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN017FfExi2GdSbNVbsjS_!!2251059038.jpg\" width=\"412\" height=\"582\" damai_width=\"412\" damai_height=\"582\"></p>\n<p>隔壁老樊 代表作：《晚婚》《多想在平庸的生活拥抱你》《那女孩对我 说》《宁愿》《四块五》</p>\n<p>简介：隔壁老樊，本名樊凯杰，1998年11月2日出生于河北省承 德市，中国内地唱作人。结业于北京现代音乐研修学院流行演唱学 院。2020年2月21日，参加湖南卫视音乐竞技节目《歌手·当打之年》 ，作为第三期的奇袭歌手演唱《多想在平庸的生活拥抱你》。2020 年11月，荣登“2020福布斯中国30岁以下精英榜”。2023年，获得 2023亚洲音乐盛典年度原创音乐人。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01bBfq0Q2GdSbR5MuI8_!!2251059038.jpg\" width=\"415\" height=\"584\" damai_width=\"415\" damai_height=\"584\"></p>\n<p>南征北战 代表作：《我的天空》《骄傲的少年》《原来》《最美的期待》 《生来倔强》</p>\n<p>简介：南征北战NZBZ，中国内地音乐组合，由胡汀洋、赵辰龙、 尼成三名成员组成。南征北战NZBZ创造出V-Pop（Various Pop Music） ，即多元化流行音乐，制作出“南征北战NZBZ”式的流行表达，重 新定位新一代的流行音乐。2021年3月，为CUBA中国大学生篮球联赛 创作主题曲《耀就现在》；4月，发行第七张EP专辑《不熄的烈火》。 《骄傲的少年》《最美的期待》更是被称为“国家队歌曲”。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01mt1L4Q2GdSbNyIcJE_!!2251059038.jpg\" width=\"415\" height=\"584\" damai_width=\"415\" damai_height=\"584\"></p>\n<p>南无乐队 代表作：《春来了》《好了歌》《火包胡同》《神仙》《天下》</p>\n<p>简介：南无乐队，成立于2007年10月，他们的音乐汲取中国文 化根基营养，寻求中西音乐多元的表达手段，创造出富有中国美学 韵味和青年幽默特色的杂交再生品种。南无乐队作为平民摇滚的新 生代领军人物，其作品表达了新一代中国年轻人对于自身与社会生 活的深度思考。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01bhAh472GdSbRgXMfo_!!2251059038.jpg\" width=\"415\" height=\"584\" damai_width=\"415\" damai_height=\"584\"></p>\n<p>陈硕子 代表作：《凌晨三点》《当我要走的时候》《亲爱的你去了何方》《再见了我的姑娘》</p>\n<p>简介：陈硕子，民谣歌手，1993年04月01日出生于山东省济宁 市，凭借民谣《凌晨三点》在社交媒体上走红。星光YOUNG年度热门 单曲、腾讯音乐季度最热独立音乐人获得者。2018年发行歌曲《当 我要走的时候》。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01IGhbjc2GdSbLdrDJR_!!2251059038.jpg\" width=\"415\" height=\"584\" damai_width=\"415\" damai_height=\"584\"></p>\n<p>福禄乐队 代表作：《最后一个巴图鲁》《天下一》《原谅ta》《铁锤妹 妹》《兰诺寺》</p>\n<p>简介：福禄乐队，一听就是个很吉祥的名字。该乐队于2013年 初组建于河北保定，成员为五个80后的年轻大叔组成。话说乐队原 来走小清新路线，后因成员调整，从而变为现在的“不着调”风格。 乐队主唱大福是个有趣且灵活的小胖，不知道这么说，他会不 会喜欢。个人以为，一个乐队的灵魂都集结主唱身上，从而在表演 中体现出整个乐队的风格和信仰。初听福禄乐队的歌，我总结出两 个字就是“有趣”。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01pyPdZd2GdSbR5O7BX_!!2251059038.jpg\" width=\"415\" height=\"584\" damai_width=\"415\" damai_height=\"584\"></p>\n<p>仙水乐队 8 代表作：《半生》《冇名之辈》《万丈光芒》《半张脸》《仙 水》</p>\n<p>简介：仙水乐队2019年成立于山东青岛；半张脸谱，独树一帜， 特点鲜明，旋律多高昂，具有生命力。歌词传承着民族传统文化内 涵，刚正不阿，一身正气，充满浓郁的人文思想，以及洞察世界的 大局观。 作为中国内地民族摇滚乐队，仙水乐队将中国民族音乐元素与 现代音乐结合，把不同传统民族乐器融入于各类音乐作品；就是仙 水乐队的风格，旨在为中国民族文化增添一笔浓墨重彩。 截止目前，以上演出人员社会评价良好，无严重的不良舆论、 风评和其他争议。</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "长春天谊兄弟传媒有限公司",
+                            "socialCreditCode": "91220100MADLNR3H7W",
+                            "legalPerson": "刘俊杰",
+                            "regCapStr": "5万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "长春市净月开发区净月影视文化创意产业园5号楼A区605-1-21号"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米以下儿童不得入场，避免造成听力损伤"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/护照/外国人永久居留身份证/身份证/军官证/港澳台居民居住证/台湾居民来往大陆通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "提前120分钟，仅供参考，最终以现场实际入场时间为准"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "26600"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "3",
+                            "name": "军官证"
+                        },
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "6764050",
+                    "venueName": "青怡坊云琅艺术中心",
+                    "venueProvinceName": "吉林省",
+                    "venueCityName": "长春市",
+                    "lng": 125.370143,
+                    "lat": 43.79533,
+                    "venueAddr": "青怡坊云琅艺术中心",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D799327918346%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "8224",
+                    "wantNumStr": "8224",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过61%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i3/O1CN01r0ZMup1vQzcdFJguf_!!6000000006168-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/248514/49702933.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01kGsJkI20pKkSdvFkC_!!6000000006898-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2490772/498154422_1716902405360.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01iK8hzV29a45VpFn7H_!!6000000008083-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1716789600000",
+                "sellStartTimeStr": "05月27日 14:00",
+                "priceRange": "¥199-¥599",
+                "performBases": [
+                    {
+                        "name": "06.29 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1719590400000",
+                        "performs": [
+                            {
+                                "performId": "214689115",
+                                "performName": "2024-06-29  周六 14:00",
+                                "itemId": "799327918346",
+                                "projectId": "220439017",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1719640800000",
+                                "performTime": "2024.06.29 14:00",
+                                "performStartDate": "2024-06-29",
+                                "performBeginTime": "14:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "双日通票",
+                        "type": "2",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "214691119",
+                        "performs": [
+                            {
+                                "performId": "214691119",
+                                "performName": "双日通票",
+                                "itemId": "799327918346",
+                                "projectId": "220439017",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performTime": "2024.06.29-06.30 14:00-22:00 多次通票",
+                                "performStartDate": "2024-06-29",
+                                "performBeginTime": "14:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performTimeDetail": "此场次适用于2024.06.29-06.30的14:00-22:00进场，可多次使用",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "06.30 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1719676800000",
+                        "performs": [
+                            {
+                                "performId": "214675139",
+                                "performName": "2024-06-30 周日 14:00",
+                                "itemId": "799327918346",
+                                "projectId": "220439017",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1719727200000",
+                                "performTime": "2024.06.30 14:00",
+                                "performStartDate": "2024-06-30",
+                                "performBeginTime": "14:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "3",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "141889",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "388674",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "3120770",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "2507",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7993279183/2/799327918346.jpg"
+            }
+        }
+    }
+}

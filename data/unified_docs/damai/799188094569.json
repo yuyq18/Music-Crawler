@@ -1,0 +1,76 @@
+{
+    "platform": "大麦",
+    "project_id": "799188094569",
+    "project_name": "脑浊乐队2024年“SOS”夏季巡演 长治站",
+    "category_name": "演唱会",
+    "artists": [
+        "脑浊乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.22 周六 20:00",
+    "session_time": [
+        "06.22 周六"
+    ],
+    "price": "100-240",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "长治",
+    "venue_name": "伟瓦Livehouse",
+    "venue_info": {
+        "venue_address": "山西省长治市潞州区太行西街159号双创梦工厂27号厂房 双创梦工厂（原锻压厂）VIVA livehouse",
+        "lng": 113.062222,
+        "lat": 36.097092
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01TTjy5q2GdSbPNScsp_!!2-item_pic.png",
+        "null",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Xsd7c62GdSb84F9z5_!!2251059038.jpg",
+        "null"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "795088143598",
+            "cityName": "大同站",
+            "showTime": "06.21"
+        },
+        {
+            "itemId": "799188094569",
+            "cityName": "长治站",
+            "showTime": "06.22"
+        },
+        {
+            "itemId": "799012909254",
+            "cityName": "郑州站",
+            "showTime": "06.30"
+        },
+        {
+            "itemId": "795142938158",
+            "cityName": "杭州站",
+            "showTime": "07.07"
+        },
+        {
+            "itemId": "795031544049",
+            "cityName": "福州站",
+            "showTime": "07.12"
+        },
+        {
+            "itemId": "795936197981",
+            "cityName": "厦门站",
+            "showTime": "07.13"
+        },
+        {
+            "itemId": "795328555953",
+            "cityName": "重庆站",
+            "showTime": "07.27"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=799188094569"
+}

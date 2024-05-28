@@ -1,0 +1,450 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_798271283061",
+    "imgurl": "-607221762",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "上海｜6.1 超燃日漫爵士乐专场，献给曾经的小孩与未来的大人们",
+    "nameNoHtml": "上海｜6.1 超燃日漫爵士乐专场，献给曾经的小孩与未来的大人们",
+    "price": "180.0",
+    "price_str": "180-280",
+    "pricehigh": "280.0",
+    "privilegeTags": "[]",
+    "projectid": "798271283061",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.01 周六 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "Blue Note Shanghai",
+    "venuecity": "上海",
+    "venueid": "2280002",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01X1W1Au2GdSbOEYTTP_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "798271283061",
+                    "itemName": "【上海】上海｜6.1 超燃日漫爵士乐专场，献给曾经的小孩与未来的大人们",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01X1W1Au2GdSbOEYTTP_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01X1W1Au2GdSbOEYTTP_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.01 周六 20:00",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：上海盈寰文化传媒有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：上海盈寰文化传媒有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01ZuRSJD2GdSbNOutdV_!!2251059038.png\" width=\"800\" height=\"800\" damai_width=\"800\" damai_height=\"800\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i33.79dd6b72bF9JWJ\"></p><p style=\"text-align: center;\">在童年的记忆里，我们都是英雄——穿梭星际，与超人并肩作战，或在球场挥洒汗水。</p><p style=\"text-align: center;\">为重温这些美妙时刻，Blue Note Shanghai特别推出了“儿童节燃情日漫之夜”，Star Walker乐队将演绎《星际牛仔》、《JOJO的奇妙冒险：黄金之风》、《龙珠》、《灌篮高手》等主题曲和配乐名作！给每一个大“小孩”和小“大人”一场爵士乐盛宴，过一个甜甜的六一。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01DzoKUw2GdSbLU8RNk_!!2251059038.jpg\" width=\"1447\" height=\"2047\" damai_width=\"1447\" damai_height=\"2047\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i29.79dd6b72bF9JWJ\"></p><p style=\"text-align: center;\">对啦还有更甜的惊喜！</p><p style=\"text-align: center;\">我们还会给每位观众赠送一份专为儿童节定制的小熊猫芝士蛋糕，让每个“小朋友”都很甜。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01PbtiZM2GdSbGgKlz9_!!2251059038.png\" width=\"1267\" height=\"1267\" damai_width=\"1267\" damai_height=\"1267\"></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01WNsfba2GdSbJW6mQC_!!2251059038.png\" width=\"1267\" height=\"713\" damai_width=\"1267\" damai_height=\"713\"></p><p style=\"text-align: center;\"><strong>小朋友请秉正道向光明掘进</strong></p><p style=\"text-align: center;\"><strong>《JOJO的奇妙冒险：黄金之风》</strong></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Oy7WX02GdSbGgIh3G_!!2251059038.png\" width=\"800\" height=\"494\" damai_width=\"800\" damai_height=\"494\"></p><p style=\"text-align: center;\">每个人初生的起点有着云泥之别，有的人选择安于现状，有的人竭尽一切渴望逆天改命。</p><p style=\"text-align: center;\">面对「人类是沉睡的命运的奴隶」这一主题，乔鲁诺·乔巴纳发出了一声金色的呐喊：<strong>所谓觉悟，就是从漆黑的荒野中开辟出一条应当前进的道路。</strong></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN0149IEXq2GdSbLU7hfs_!!2251059038.png\" width=\"1267\" height=\"713\" damai_width=\"1267\" damai_height=\"713\"></p><p style=\"text-align: center;\">命运是沉睡的奴隶，而我们依靠自己的力量解放了命运！这就是我们的胜利！！这就是黄金精神！！！</p><p style=\"text-align: center;\"><strong>“大人们”的童年回忆杀</strong></p><p style=\"text-align: center;\"><strong>《龙珠》</strong></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01XgIoz42GdSbKGNArA_!!2251059038.png\" width=\"964\" height=\"1446\" damai_width=\"964\" damai_height=\"1446\"></p><p style=\"text-align: center;\">传说，世界上散落着七颗龙珠，集齐龙珠就能召唤神龙，实现任何愿望……</p><p style=\"text-align: center;\">在遥远的90年代，孩子们放学后总是会守在电视机前，眼巴巴地期盼有一天悟空能集齐七颗龙珠，向神龙许愿！</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN013DQQb32GdSbNOscJm_!!2251059038.png\" width=\"635\" height=\"475\" damai_width=\"635\" damai_height=\"475\"></p><p style=\"text-align: center;\">如今那一代人终于成了小时候想变成的“大人”，但他们会永远记得那七颗闪闪发光的龙珠，会永远勇往直前面对挑战！</p><p style=\"text-align: center;\"><strong>童年是激情与勇气的主场</strong></p><p style=\"text-align: center;\"><strong>《灌篮高手》</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ykFtHP2GdSbHYSHze_!!2251059038.png\" width=\"1259\" height=\"1788\" damai_width=\"1259\" damai_height=\"1788\"></p><p style=\"text-align: center;\">《灌篮高手》的漫画结局里，主角们扳倒了强敌山王工高挺进决赛，却因前一场比赛消耗太大惜败于爱知学院。</p><p style=\"text-align: center;\">陪伴几代人童年的“湘北男篮”，最终却没有如愿以偿实现梦想。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01lZmdUQ2GdSbNOtcgw_!!2251059038.png\" width=\"800\" height=\"555\" damai_width=\"800\" damai_height=\"555\"></p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i46.79dd6b72bF9JWJ\"><span>《灌篮高手》用激情和热血，让每个人都忘记了其实那是一个失败的故事，就是要告诉我们激情和勇气才是最重要的。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01a9tTsR2GdSbHvSxpY_!!2251059038.png\" width=\"800\" height=\"600\" damai_width=\"800\" damai_height=\"600\"></p><p style=\"text-align: center;\">在爵士的旋律中，让自己变成曾经的“小孩”，也让现在的小孩学会如何变成未来的“大人”。6月1号，Blue Note Shanghai 现场见！</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01JF3zFT2GdSbHvSd23_!!2251059038.png\" width=\"1267\" height=\"713\" damai_width=\"1267\" damai_height=\"713\"></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01xv84r42GdSbHYSM5R_!!2251059038.png\" width=\"1080\" height=\"150\" damai_width=\"1080\" damai_height=\"150\"></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01c2H8Yf2GdSbJmmB3Y_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">Saxophone-郭明杰</p><p style=\"text-align: center;\">Piano-韩旭</p><p style=\"text-align: center;\">Vocal-徐梦韵</p><p style=\"text-align: center;\">Trumpet-李帆</p><p style=\"text-align: center;\">Bass-吴廷辉</p><p style=\"text-align: center;\">Drum-朱欣冬</p><p style=\"text-align: center;\">Guitar-邹琦玥</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01i9pg382GdSbNOuUhe_!!2251059038.png\" width=\"289\" height=\"434\" damai_width=\"289\" damai_height=\"434\"></p><p style=\"text-align: center;\"><strong>Saxophone-郭明杰</strong></p><p style=\"text-align: center;\">郭明杰，萨克斯音乐人，师从大师masahiro maeda，loren stillman，wataru hamasaki，作曲家张尽才老师。风格跨越 Jazz，Pop，Classical。QQ音乐人，网易云音乐人，发行专辑3张。日本大阪国际音乐比赛第一名，上海之春国际音乐比赛第一名，21music签约艺人，曾与Kenny g同台演出，喜力三亚音乐节特邀表演嘉宾，喜力雪山之巅滑雪音乐节特邀表演嘉宾，雅马哈官方直播间特邀嘉宾。</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01P0jA1Z2GdSbHvQ4zZ_!!2251059038.png\" width=\"358\" height=\"239\" damai_width=\"358\" damai_height=\"239\"></p><p style=\"text-align: center;\"><strong>Piano-韩旭</strong></p><p style=\"text-align: center;\">韩旭，青年爵士钢琴家，爵士作曲家，爵士大乐队编曲者，上海视觉艺术学院流行器乐专业教师，毕业于上海音乐学院爵士钢琴专业，获硕士学位。上海星漫沃克音乐文化发展有限公司创始人之一，同时担任于Rj jazz bigband、The Seven Countrymen、神秘之光爵士三重奏、Star Walker乐队钢琴手及乐队作曲。 2014年获得江西省音乐统考全省第一名，2015年以专业全国第一名考入南京艺术学院学习古典钢琴，2019年以专业第一名考入上海音乐学院爵士钢琴专业攻读硕士，师从于中国爵士钢琴家贺乐副教授。演出过的舞台包括:上海林肯爵士乐中心、上海商城剧院、上海保利大剧院、东方艺术中心、上海音乐厅、贺绿汀音乐厅、House of Blues andJazz、BlueNote等地。2022年参与美国纽约国际音乐大赛爵士钢琴组入围决赛；2023年参与首届法国VIVACE国际爵士钢琴大赛中国区取得一等奖。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01b4MmSw2GdSbJmonFl_!!2251059038.png\" width=\"367\" height=\"245\" damai_width=\"367\" damai_height=\"245\"></p><p style=\"text-align: center;\"><strong>Vocal-徐梦韵</strong></p><p style=\"text-align: center;\">徐梦韵，上海新生代优秀歌手，甜美可爱的外表，独具特色的 嗓音，搭配扎实的演唱功底，可清新、可浑厚、可治愈、可冷酷，优秀的唱功及变现力让 她⻛格百变。目前活跃在M-box，Ark等上海各大livehouse常驻演出。8岁起系统学习声乐，10岁起登台表演，学习美声唱法，14岁以优异成绩获得少儿声乐十级 演唱艺术级，17岁获得美声唱法六级。18岁开始逐渐转型学习流行唱法。曾作为上海市学生合唱团代表赴德 国、意大利等国家参加逾百场国际文 化交流 演出及比赛。至今以来已积累超过15年专业演唱表演功底</p><p style=\"text-align: center;\">比赛经历：</p><p style=\"text-align: center;\">2015年亚新之声冠军， 2015年上海电信天翼⻜young校园好声音前五， 2016年法国法语歌曲大赛华东赛区三甲，2016年大宁国际“大⺠星”唱歌比赛三甲。 2016年全国大学生校园歌手大赛华东赛区冠军。2017年上海大学十大歌手冠军 2017年全 球校友音乐盛典个人赛亚军。2017年全国职业歌手大赛亚军</p><p style=\"text-align: center;\">演出经历 • 2012年赴俄罗斯，波兰参加国际合唱比赛及交流活动荣获现代组第一</p><p style=\"text-align: center;\">• 2014年上海大学YOU&amp;ME外文歌曲大 赛担任复赛评委以及决赛表演嘉宾</p><p style=\"text-align: center;\">• 2014年上海大学中法文化节闭幕式乐 队主唱及话剧演员</p><p style=\"text-align: center;\">• 2014年赴德国进行音乐交流</p><p style=\"text-align: center;\">• 2014年同济樱花节歌会表演嘉宾</p><p style=\"text-align: center;\">• 2016年大宁国际跨年活动</p><p style=\"text-align: center;\">• 2017年中国乐展表演</p><p style=\"text-align: center;\">• 2017年奉贤创业大赛主题曲演唱及颁 奖典礼演出</p><p style=\"text-align: center;\">&nbsp;&nbsp;2017年挑战杯主题曲演唱+开闭幕式演 出</p><p style=\"text-align: center;\">• 2018年Kipling品牌主题歌录制</p><p style=\"text-align: center;\">• 2018年保时捷品牌宣传主题曲及宣传片 录制</p><p style=\"text-align: center;\">• 2018年上海大学生⻘春歌会开场曲演出 • 2018年全球高校校友联盟音乐会演出</p><p style=\"text-align: center;\">• 2018年虾米音乐节演出嘉宾</p><p style=\"text-align: center;\">• 2018-2019年复旦十大歌手决赛评委</p><p style=\"text-align: center;\">• 2019年上师大十大歌手决赛评委</p><p style=\"text-align: center;\">• 2019参与央视《闪亮的名字》颁奖典礼 主唱</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01NwQv4k2GdSbHYRDQW_!!2251059038.png\" width=\"426\" height=\"284\" damai_width=\"426\" damai_height=\"284\"></p><p style=\"text-align: center;\"><strong>Trumpet-李帆</strong></p><p style=\"text-align: center;\">李帆，活跃于上海和纽约的青年爵士小号演奏家，纽约市立大学艾伦科普兰音乐学院爵士乐表演硕士学位。</p><p style=\"text-align: center;\">在国内期间活跃于JZ Club、上海商城剧院、爵士春天音乐节、爵士上海音乐节等。</p><p style=\"text-align: center;\">在纽约期间取得纽约市立大学艾伦科普兰音乐学院爵士乐表演硕士学位，师从格莱美编曲大师 Micheal Mossman，爵士萨克斯大师 Antonio Hart。</p><p style=\"text-align: center;\">2021年与声入人心人气选手合作，参加《声色经典音乐会》《声色光影音乐会》。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01cIS5vi2GdSbJmpWyh_!!2251059038.png\" width=\"412\" height=\"273\" damai_width=\"412\" damai_height=\"273\"></p><p style=\"text-align: center;\"><strong>Bass-吴廷辉</strong></p><p style=\"text-align: center;\">吴廷辉，2018年考入上海音乐学院现代器乐与打击乐系爵士贝斯专业，师从祝海鸣。在校期间曾参加国家艺术基金传播交流推广项目等系列演出。2021年，获瑞士国际音乐大奖赛青年组单项排名第一及合奏组四等奖。参与2021年5月辰山音乐节、2021年6月秀岸音乐节、2021 MISA上海夏季音乐节小河与陶身体剧场演出，多次参加Blue note Shanghai,Wooden box,Jz live等各类专场演出，积累了丰富的演出经验。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01tUWJHo2GdSbHYRkff_!!2251059038.png\" width=\"452\" height=\"339\" damai_width=\"452\" damai_height=\"339\"></p><p style=\"text-align: center;\"><strong>Drum-朱欣冬</strong></p><p style=\"text-align: center;\">朱欣冬，2021年以爵士鼓专业第一名的成绩考入上海音乐学院跟随禇伟明老师学习。在2016年曾获得全国鼓手大赛预备青年组冠军，2017年随左声道乐队获晚安国际樱花节冠军并与迪玛希同台演出；曾受邀与Joy人声乐团参加湖南青年文化艺术节演出，曾受长沙特警队邀请作为打击乐手于长沙人民会堂演出，2022参加加拿大国际音乐大赛获得第一名，俄罗斯国际大赛获得第二名。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01eqMATO2GdSbL2fZpG_!!2251059038.png\" width=\"354\" height=\"469\" damai_width=\"354\" damai_height=\"469\"></p><p style=\"text-align: center;\"><strong>Guitar-邹琦玥</strong></p><p style=\"text-align: center;\">邹琦玥，本科及研究生就读于上海音乐学院现代乐器与打击乐系爵士吉他专业，师从爵士音乐家廖季文与张雄关。至今学习流行，古典和爵士等音乐风格演奏。以不同的组合方式积累了大量的音乐经验。曾获沈阳国际吉他艺术古典重奏组一等奖。湖北省荣获第十九届香港世界青少年‘金紫荆花奖’艺术大赛吉他项目一等奖。‘第二十二届中国国际专业音响灯光乐器及技术展览会第一届吉他中国木吉他大赛’指弹吉他最佳表演奖等。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Enq3lq2GdSbMfrAL3_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">2024年6月1日（周六）</p><p style=\"text-align: center;\">入场时间/Door Time：18:30</p><p style=\"text-align: center;\">演出时间/Show Time：20:00</p><p style=\"text-align: center;\">地址/Add：</p><p style=\"text-align: center;\">上海市虹口区四川北路867号中信广场3层</p><p style=\"text-align: center;\">（入口位于四川北路沿街，商场电梯直达）</p><p style=\"text-align: center;\">Add. 3F, CITIC Plaza, No. 867 North Sichuan Road, Hongkou District, Shanghai.</p><p style=\"text-align: center;\">(The entrance is located along North Sichuan Road</p><p style=\"text-align: center;\">and can be directly accessed via the mall elevator)</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN017WjMCO2GdSbHvQcFP_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">单人预售票：¥180</p><p style=\"text-align: center;\">单人现场票：¥220</p><p style=\"text-align: center;\">亲子套票（一大一小）：¥280</p><p style=\"text-align: center;\"><span><strong>购票须知：</strong></span></p><p style=\"text-align: center;\"><strong>130cm以下儿童可购亲子套票，130cm以上儿童须购买单人票；</strong></p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i60.79dd6b72bF9JWJ\"><strong>​单人票每人送一份甜品，亲子套票(一大一小)送一份甜品；</strong></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01JU1iaq2GdSbHvPXkD_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i61.79dd6b72bF9JWJ\"></p><p style=\"text-align: center;\">1.所有网上购票观众请携带购票二维码到前台换取当日演出门票，凭票入场。门票一经出售，概不退换；</p><p style=\"text-align: center;\"><span><strong>2.130cm以下儿童可购亲子套票，130cm以上儿童须购买单人票;</strong></span></p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i58.79dd6b72bF9JWJ\"><strong>3.单人票每人送一份甜品，亲子套票(一大一小)送一份甜品;</strong></p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i62.79dd6b72bF9JWJ\">4. 现场座位采取“先到先得”的方式，为能准时进场，请提前预留换票时间；</p><p style=\"text-align: center;\">5. 观众凭前台换取的桌卡进入演出场地，由服务人员引领至相应座位入座；</p><p style=\"text-align: center;\">6. 因场地座位有限，会有拼桌现象，敬请谅解；</p><p style=\"text-align: center;\">7. 儿童入场须家长陪同，请家长善尽监护义务，禁止儿童在观众席内嬉闹，以免影响其他客人；</p><p style=\"text-align: center;\">8. Blue Note Shanghai提供餐饮服务，入场后即可点餐。谢绝自带食品与酒水进入场地；</p><p style=\"text-align: center;\">9. 门票发票须演出当日凭桌卡开具；</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "上海盈寰文化传媒有限公司",
+                            "socialCreditCode": "91310109MA1G5MPL1E",
+                            "legalPerson": "高杉",
+                            "regCapStr": "1714.2857万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "上海市虹口区四川北路867号302室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/台湾居民来往大陆通行证/身份证/护照"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约90分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "2280002",
+                    "venueName": "Blue Note Shanghai",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.484046,
+                    "lat": 31.248428,
+                    "venueAddr": "上海市虹口区四川北路867号中信广场3-5层",
+                    "showCountText": "共有4个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D798271283061%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1716891072000",
+                "sellStartTimeStr": "05月28日 18:11",
+                "priceRange": "¥180-¥280",
+                "performBases": [
+                    {
+                        "name": "06.01 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1717171200000",
+                        "performs": [
+                            {
+                                "performId": "214674013",
+                                "performName": "2024-06-01 周六 20:00",
+                                "itemId": "798271283061",
+                                "projectId": "220432005",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1717243200000",
+                                "performTime": "2024.06.01 20:00",
+                                "performStartDate": "2024-06-01",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "141889",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2602306",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "2507",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7982712830/2/798271283061.jpg"
+            }
+        }
+    }
+}

@@ -174,7 +174,7 @@
                                 },
                                 {
                                     "title": "实名购票规则",
-                                    "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/身份证/护照/港澳居民来往内地通行证"
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/护照/台湾居民来往大陆通行证/身份证"
                                 },
                                 {
                                     "title": "异常排单说明",
@@ -253,7 +253,7 @@
                 },
                 "sharingBar": {
                     "sharingIcon": "",
-                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
                 },
                 "ticketPurchasesGuidePage": {
                     "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
@@ -346,16 +346,16 @@
                     "showWant": "true",
                     "subFlag": "false",
                     "title": "想看人数",
-                    "wantNum": "162",
-                    "wantNumStr": "162",
+                    "wantNum": "177",
+                    "wantNumStr": "177",
                     "wantNumSuffix": "人",
                     "wantDesc": "人气飙升中",
                     "userImgs": [
-                        "https://img.alicdn.com/imgextra/i2/O1CN01oExvMe1ZSRKI2YUn4_!!6000000003193-0-tps-500-500.jpg",
-                        "http://perico.damai.cn/userheadphotosnew/2205245/441049079_1690031257603.jpg",
-                        "https://img.alicdn.com/imgextra/i3/O1CN01tskbWG1hZKCvp2bX3_!!6000000004291-0-tps-500-500.jpg",
-                        "http://perico.damai.cn/userheadphotosnew/2309634/461926937_1698302549797.jpg",
-                        "https://img.alicdn.com/imgextra/i1/O1CN01k0453q1sPfdAAQ7YJ_!!6000000005759-0-tps-500-500.jpg"
+                        "https://img.alicdn.com/imgextra/i1/O1CN01Z4KBGi1TVkUeB77To_!!6000000002388-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2263010/452602007_1693737289218.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01NhsMhM1EE927ZzCv9_!!6000000000319-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2446789/489357808_1712836819737.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01uigUa01oEtr6yYcvP_!!6000000005194-0-tps-500-500.jpg"
                     ],
                     "thresholdNum": "10000",
                     "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
@@ -368,7 +368,7 @@
                     "useLocalCache": "false"
                 },
                 "tribes": [],
-                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
             },
             "item": {
                 "buyBtnStatus": "106",
@@ -376,8 +376,8 @@
                 "buyBtnOrigin": "20",
                 "sellStartTime": "1717129080000",
                 "sellStartTimeStr": "05月31日 12:18",
-                "countDown": "232377",
-                "rcdt": "232376681",
+                "countDown": "226655",
+                "rcdt": "226654199",
                 "notifyCustomerTimeBeforeSellStart": "3600",
                 "priceRange": "¥180-¥360",
                 "performBases": [

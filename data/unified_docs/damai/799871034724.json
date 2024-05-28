@@ -1,0 +1,54 @@
+{
+    "platform": "大麦",
+    "project_id": "799871034724",
+    "project_name": "汪晨蕊《今天是我的》2024全国巡演-长沙站",
+    "category_name": "演唱会",
+    "artists": [
+        "汪晨蕊"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.28 周五 20:00",
+    "session_time": [
+        "06.28 周五"
+    ],
+    "price": "138-328",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "长沙",
+    "venue_name": "易度时光LIVEHOUSE(阳光剧场)",
+    "venue_info": {
+        "venue_address": "长沙市岳麓区麻园路阳光100凤凰街16栋2楼",
+        "lng": 112.944894,
+        "lat": 28.142293
+    },
+    "project_info": "\n检票入场\nVIP票19:00 | 普票19:30\n*VIP权益*\n提前入场\n签名海报\n精美VIP礼包\n单人合影 （合影环节将在演出结束后进行）",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01flmdVc2GdSbOHpvzX_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01CG2NrD2GdSbHANSbo_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "798841707468",
+            "cityName": "深圳站",
+            "showTime": "06.14"
+        },
+        {
+            "itemId": "799871034724",
+            "cityName": "长沙站",
+            "showTime": "06.28"
+        },
+        {
+            "itemId": "799047992383",
+            "cityName": "南京站",
+            "showTime": "06.29"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=799871034724"
+}
