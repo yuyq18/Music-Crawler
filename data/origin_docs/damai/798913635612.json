@@ -1,0 +1,460 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "852",
+    "cityname": "北京",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_798913635612",
+    "imgurl": "-600798236",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "日本最后一位摇滚武士 Johnny Pandora 中国首巡 北京站，嘉宾：大叫控",
+    "nameNoHtml": "日本最后一位摇滚武士 Johnny Pandora 中国首巡 北京站，嘉宾：大叫控",
+    "price": "168.0",
+    "price_str": "168",
+    "pricehigh": "168.0",
+    "privilegeTags": "[]",
+    "projectid": "798913635612",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.28 周五 20:30",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "黄昏黎明DDC",
+    "venuecity": "北京",
+    "venueid": "10049",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01sNSEUR2GdSbK5FTyK_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "798913635612",
+                    "itemName": "【北京】日本最后一位摇滚武士 Johnny Pandora 中国首巡 北京站，嘉宾：大叫控",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "110100",
+                    "cityName": "北京市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01sNSEUR2GdSbK5FTyK_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i2/2251059038/O1CN01sNSEUR2GdSbK5FTyK_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.28 周五 20:30",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：成都太合乐动科技有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：成都太合乐动科技有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "852",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "活动介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong><span style=\"font-size: 16px;\">6/28 20:30 日本最后一位摇滚武士 Johnny Pandora 中国首巡 北京站，嘉宾：大叫控</span></strong></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-size: 16px;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN016wHmXc2GdSbAz5bAG_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"544\" damai_width=\"null\" damai_height=\"null\"></span></strong></p>\n<p><span style=\"font-size: 16px;\">整齐的油头、闪亮的皮衣，看过的人都多少都感叹一句“真精神啊！”但似乎这样有仪式感的打扮、活动只属于老爷爷老奶奶们。就像是根正苗红的摇滚乐，老龄化明显。但是，在<span class=\"wx_search_keyword_wrap\">代代木公园</span>中有几个年轻的身影，他们穿着成套制作精良的皮衣皮裤、头上抹着海量的发胶、驾驶着中古摩托车、玩着大半个世纪前的音乐，这就是JohnnyPandora, 在21世纪20年代将年轻的血液注入进这个已经开始褪色的舞池。</span></p>\n<p><span style=\"font-size: 16px;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01axtLDX2GdSbIOT4fT_!!2251059038.png\" alt=\"\" damai_width=\"null\" damai_height=\"null\"></span></p>\n<p><span style=\"font-size: 16px;\">作为日本最后一位摇滚武士，乐队核心人物Johnny向众人承诺将让日本摇滚乐在东京市中心一直留存。18 岁时，Johnny在东京第一次接触摇滚乐，开始了他的音乐之旅。在日本同风格的乐队中，他们是最年轻的存在。同时，在不同的领域当中（像是时装、影视等）他们也有极高的人气。</span></p>\n<p><span style=\"font-size: 16px;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01c5XYWY2GdSbEXKDci_!!2251059038.png\" alt=\"\" damai_width=\"null\" damai_height=\"null\"></span></p>\n<p><span style=\"font-size: 16px;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN0168mZyC2GdSbCFI7NV_!!2251059038.png\" alt=\"\" width=\"640\" height=\"1294\" damai_width=\"null\" damai_height=\"null\"></span></p>\n<p><span style=\"font-size: 16px;\">但其实从Johnny Pandora对音乐和打扮的喜好来看，刻板印象中穿着特攻服四处炸街的暴走族并不是最佳答案。他们演奏上世纪40-60年代的根源摇滚乐，这种日本文化语境下的美式音乐JohnnyPandora并不是先例。早在80年代，横滨银蝇就已经在这个领域崭露头角。不是单纯地玩“美国二手货”，而是将这种外来的文化吸收内化后再输出，创作出属于自己的作品。</span></p>\n<p><span style=\"font-size: 16px;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01IzXqCS2GdSb6REJZl_!!2251059038.png\" alt=\"\" width=\"640\" height=\"313\" damai_width=\"null\" damai_height=\"null\"></span></p>\n<section>\n<p>（横滨银蝇）</p>\n<p>&nbsp;</p>\n</section>\n<section>\n<section>\n<p>在形象上，JohnnyPandora与横滨银蝇也有共同之处。准确来说，更像是受到greaser文化影响最深的早期暴走族。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01YwTMNK2GdSbDlpy0j_!!2251059038.png\" alt=\"\" width=\"640\" height=\"400\" damai_width=\"null\" damai_height=\"null\"></p>\n<section>\n<p>（早期暴走族）</p>\n<p>&nbsp;</p>\n</section>\n<section>\n<section>\n<p>最初是二战后的日本，一群老兵们没有办法适应战后的生活，因此将注意力转移到了游走在法律边缘的载具改装各种活动上，以获得肾上腺素的刺激。这些早期的暴走族无论是在形象上、喜好上、还是在改装文化上，都深深受到了来自greaser文化的影响。在美国，男性Greaser们的形象通常是梳一个和早期摇滚明星（像是猫王）同款的发型。出身于工人阶级他们喜欢穿着工装裤、牛仔裤再加上一件摩托车皮夹克。对肌肉改装车文化还有摩托车着迷，喜欢听像是Doo-wop的根源摇滚乐。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01X3TmrV2GdSbBshgnR_!!2251059038.png\" alt=\"\" width=\"640\" height=\"421\" damai_width=\"null\" damai_height=\"null\"></p>\n<section>\n<p>(greaser)</p>\n<p>&nbsp;</p>\n</section>\n<section>\n<section>\n<p>即使是选择了这个拥有浓重的他国文化气息的赛道。JohnnyPandora努力地在这个赛道上寻找着自己。Johnny将日式的音乐语言与他爱的美式根源摇滚乐相结合，称之为“SAMURAI ROCK N' ROLL”，他们并不想单纯地属于某一种刻板印象，而是在各种影响自己的文化中找到一个属于自己的平衡点。</p>\n</section>\n</section>\n<p>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01lYHJDY2GdSbCFKOkY_!!2251059038.png\" alt=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>这个六月，别管热不热，穿上你的皮夹克，给自己梳个油头梳个卷儿，来现场和JohnnyPandora一起Rockabilly twist!!!</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01qoGAjg2GdSb6RF7Tz_!!2251059038.png\" alt=\"\" width=\"640\" height=\"360\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp;</p>\n<section>\n<p><strong>嘉宾</strong></p>\n<section><strong>大叫控</strong></section>\n<p><strong>Shouting Nerd</strong></p>\n<p><strong><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01R4M1PA2GdSbH2CnuY_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"415\" damai_width=\"null\" damai_height=\"null\"></strong></p>\n<p>当人们闭口沉默，只有大叫能划破外在的压抑。当媚俗横行霸道，只有创造才能描绘内心的不屑。大叫控就像一个满怀能量的热血青年，在时代一轮一轮的浪潮中寻求属于自己的麦克风发声。</p>\n<p>&nbsp;</p>\n</section>\n<section>\n<section>\n<section>\n<p><strong>【DDC入场须知】</strong></p>\n</section>\n</section>\n</section>\n<section>\n<section>\n<section>\n<p>非不可抗力因素，门票一经售出概不可退，可自行转票；</p>\n<p>谢绝自带酒水食物入场，入口处有存包柜，场内设有衣架；</p>\n<p>谢绝儿童入场；场内一楼不设座；</p>\n<p>严禁携带易燃易爆等危险品及管制刀具入场；</p>\n<p>手机建议静音或震动，拍照请勿开闪光灯；</p>\n<p>场内禁烟，文明观演，勿妨碍他人观演。</p>\n</section>\n</section>\n</section>\n<section>\n<p>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01J2EHVs2GdSbE6imRc_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"878\" damai_width=\"null\" damai_height=\"null\"></p>\n</section>\n</section>\n</section>\n</section>\n</section></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "",
+                            "socialCreditCode": "",
+                            "legalPerson": "",
+                            "regCapStr": "",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "",
+                            "entAddress": ""
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "谢绝儿童入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/身份证/台湾居民来往大陆通行证/护照"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "以页面为准"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "100"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "10049",
+                    "venueName": "黄昏黎明DDC",
+                    "venueProvinceName": "北京",
+                    "venueCityName": "北京市",
+                    "lng": 116.443407,
+                    "lat": 39.920009,
+                    "venueAddr": "北京市朝阳区神路街39号地下一层 DDC酒吧",
+                    "showCountText": "共有6个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D798913635612%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1716902431000",
+                "sellStartTimeStr": "05月28日 21:20",
+                "priceRange": "¥168",
+                "performBases": [
+                    {
+                        "name": "06.28 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1719504000000",
+                        "performs": [
+                            {
+                                "performId": "214541200",
+                                "performName": "2024-06-28 周五 20:30",
+                                "itemId": "798913635612",
+                                "projectId": "220395042",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1719577800000",
+                                "performTime": "2024.06.28 20:30",
+                                "performStartDate": "2024-06-28",
+                                "performBeginTime": "20:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "141889",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7989136356/2/798913635612.jpg"
+            }
+        }
+    }
+}

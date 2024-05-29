@@ -187,7 +187,7 @@
                                 },
                                 {
                                     "title": "实名购票规则",
-                                    "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/港澳台居民居住证/港澳居民来往内地通行证/外国人永久居留身份证/身份证/护照"
+                                    "content": "一张门票对应一个证件；证件支持：港澳台居民居住证/护照/身份证/台湾居民来往大陆通行证/港澳居民来往内地通行证/外国人永久居留身份证"
                                 },
                                 {
                                     "title": "异常排单说明",
@@ -309,7 +309,7 @@
                 ],
                 "sharingBar": {
                     "sharingIcon": "",
-                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
                 },
                 "ticketPurchasesGuidePage": {
                     "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
@@ -422,16 +422,16 @@
                     "showWant": "true",
                     "subFlag": "false",
                     "title": "想看人数",
-                    "wantNum": "418557",
-                    "wantNumStr": "41.9万",
+                    "wantNum": "422505",
+                    "wantNumStr": "42.3万",
                     "wantNumSuffix": "人",
                     "wantDesc": "超过97%同类演出",
                     "userImgs": [
-                        "https://img.alicdn.com/imgextra/i3/O1CN01xaKrwg1sZkLQhsrPN_!!6000000005781-0-tps-500-500.jpg",
-                        "http://perico.damai.cn/userheadphotos/860801/172160342.jpg",
-                        "https://img.alicdn.com/imgextra/i1/O1CN01Z4KBGi1TVkUeB77To_!!6000000002388-0-tps-500-500.jpg",
-                        "http://perico.damai.cn/userheadphotos/587758/117551734.jpg",
-                        "https://img.alicdn.com/imgextra/i2/O1CN01HLirt51NCcFriIDXd_!!6000000001534-0-tps-500-500.jpg"
+                        "https://img.alicdn.com/imgextra/i2/O1CN01uigUa01oEtr6yYcvP_!!6000000005194-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1134330/226866096_1678097961560.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01z79cll1I7y9jwGsmE_!!6000000000847-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/859602/171920544.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01fhSSIo1XHKUOi5w5Y_!!6000000002898-0-tps-500-500.jpg"
                     ],
                     "thresholdNum": "10000",
                     "tips": "我们将第一时间为您送上独家消息提醒～",

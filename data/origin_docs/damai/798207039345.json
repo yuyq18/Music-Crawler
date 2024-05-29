@@ -1,0 +1,434 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1377",
+    "cityname": "成都",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_798207039345",
+    "imgurl": "-607864199",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "“众生”欧比王（神棍乐团主唱）2024巡演成都站",
+    "nameNoHtml": "“众生”欧比王（神棍乐团主唱）2024巡演成都站",
+    "price": "90.0",
+    "price_str": "90",
+    "pricehigh": "90.0",
+    "privilegeTags": "[]",
+    "projectid": "798207039345",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.13 周四 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "LITTLE LIVE (小酒馆万象城店)",
+    "venuecity": "成都",
+    "venueid": "6575018",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01tT3hfR2GdSbLV6apP_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "798207039345",
+                    "itemName": "【成都】“众生”欧比王（神棍乐团主唱）2024巡演成都站",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "510100",
+                    "cityName": "成都市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01tT3hfR2GdSbLV6apP_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01tT3hfR2GdSbLV6apP_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.13 周四 20:00",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：成都太合乐动科技有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：成都太合乐动科技有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1377",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "活动介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>神棍乐团主唱欧比王，六月再度举办“众生”个人巡演，包含广州、成都、郑州、北京、杭州等场次。</p>\n<p>欧比王是神棍乐团主唱 / 主要词曲创作者，过去经历辉煌 ，曾获 2006 年海洋音乐祭评审团大赏。后于 2009 年获 得 YAMAHA&nbsp;热门音乐大赛台湾区冠军，同年发行首张专辑“万佛朝宗”获得各界好评，并入围第一届金音奖 “ 最佳乐团” “ 最佳新人 / 团” 两项大奖， 2012 年也以 “ 九号公路”入围第三届金音奖“最佳摇滚单 曲” 。&nbsp;</p>\n<p>2020 发行 “ 神一样的存在”专辑大获好评，入围第 31 届金曲奖“最佳乐团” 、 入选中华音乐人交流协 会“年度十大专辑” ， 华语金曲奖“最佳乐队” “ 最佳摇滚艺人”双提名， 2023 第三十四届金曲奖现场演出艺人。&nbsp;</p>\n<p>欧比王可以说是华语音乐圈独一无二的“乩童摇滚”代言人。此次“众生”巡演，欧比王将率乐手演出其神棍乐团时期经典作品以及数首新作，展现他音乐的独特魅力。</p>\n<p>乐团在2023年金曲奖作为开场嘉宾演唱了客语版《还山》，惊艳全场。主唱欧比王作为客家人，在歌曲开头竟然用了呼麦，让人出乎意料。</p>\n<p>&nbsp;</p>\n<p><strong><em>欧比王主要演出经历</em></strong></p>\n<p>2009 年 YAMAHA 热门音乐大赛台湾区冠军、&nbsp; &nbsp; &nbsp; &nbsp; 发行首张专辑「万佛朝宗」&nbsp;2010 年获第一届金音奖「最佳新人(团)」、「最佳乐团」两项入围&nbsp;2012 客语单曲「九号公路」入围第三届金音奖「最佳摇滚单曲」2013 年香港呼叫音乐节演出&nbsp;2014 年深圳迷笛音乐节演出、日本东京巡演</p>\n<p>2015 年 Wake Up 音乐节、山海屯音乐节、马来西亚 &amp; 新加坡巡演</p>\n<p>&nbsp;</p>\n<p>把我的灰烬洒下,神棍乐团</p>\n<p>2016 年南方四城(武汉、广州、中山、珠海)、澳洲、新西兰参访演出&nbsp;</p>\n<p>2017 台北世界大学生运动会闭幕典礼演出&nbsp;2018 韩国首尔音乐周 Seoul MusicWeek 演出&nbsp;2019 星巢音乐节海峡两岸青年原创音乐邀请赛冠军、&nbsp; &nbsp; &nbsp; &nbsp; 「乐队的夏天第二季」福州线下比赛&nbsp;2023 第三十四届金曲奖颁奖典礼演出</p>\n<p>&nbsp;</p>\n<p><strong><em>​</em></strong><strong><em>乐团成员</em></strong></p>\n<p>主唱及创作核心：欧比王</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01A26J1n2GdSbEgKM6r_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"253\" damai_width=\"null\" damai_height=\"null\"><br>擅游走于摇滚、新金属、蒙古呼麦、民乐，翻玩唢呐、客家音乐、佛道教元素、嘻哈说唱之间，近期更钻研电子音乐、工业摇滚等元素，舞台演出极具感染力，自称「乩童摇滚」，相信不论音乐或是演出必定能让内地的听众耳目一新。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01WmfdaX2GdSbDQqwpM_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"253\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>吉他手：修<br>台湾原住民，台湾省台中市出生，13～14岁开始接触吉他自学，现任24Hz吉他手兼团长，曾经与Break One's All 、MenliveN 米粒人、ZARAH、RiGHT NOW等乐团合作，参与各大音乐祭、Live houes演出，目前为新人制作人，并参与AZ李孝祖-《美式教育PAMERICAH》专辑制作该专辑荣获第 届金曲奖最佳原住民语专辑提名，粽邪3：鬼门开，主题曲吉他编曲录制。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01kKFG0Y2GdSbJDQCjm_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"235\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>贝斯手：冠廷台湾省台东县出生，一半阿美族血统。台北城市科技大学流行音乐事业系毕业。于2021年开始从事乐手工作，合作艺人包括：比杰、柏霖-PoLin、李玉玺。目前在《沉默绅士》乐团中担任贝斯手。<br><br></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Bv0Dyx2GdSbHod6cc_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"245\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>鼓手：基哥</p>\n<p>台湾省花莲县出生，世新大学毕业。17岁开始自学打鼓至今鼓龄约9年。曾担任TAMA代言人技师、网红Zack Groove亚洲巡回讲座担任台北站录音、混音师兼随行技师。同时为巡演唯一指定随团技术人员，亦擅长录音工程、动静态摄影、影像设计。</p>\n<p><br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01aqWLfY2GdSbJDOawB_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"228\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>唢呐手：柏彰</p>\n<p>台湾省桃园市出生，台湾戏曲学院传统音乐学系毕业，前神棍乐团唢呐手，亦擅长笛、萧。2004年随京剧团於戏剧院演出新创戏剧「孟姜女」、2006年「两岸小戏大展」2010至2022年间受邀于美国波士顿、澳洲悉尼、马来西亚吉隆坡国际客家戏曲艺术节演出嘉宾。</p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/护照/台湾居民来往大陆通行证/身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "6575018",
+                    "venueName": "LITTLE LIVE (小酒馆万象城店)",
+                    "venueProvinceName": "四川省",
+                    "venueCityName": "成都市",
+                    "lng": 104.116786,
+                    "lat": 30.650007,
+                    "venueAddr": "成都市成华区双庆路8号万象城A馆B1层B120号",
+                    "showCountText": "共有8个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D798207039345%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1716903092000",
+                "sellStartTimeStr": "05月28日 21:31",
+                "priceRange": "¥90",
+                "performBases": [
+                    {
+                        "name": "06.13 周四",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1718208000000",
+                        "performs": [
+                            {
+                                "performId": "214548248",
+                                "performName": "2024-06-13 周四 20:00",
+                                "itemId": "798207039345",
+                                "projectId": "220417030",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1718280000000",
+                                "performTime": "2024.06.13 20:00",
+                                "performStartDate": "2024-06-13",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "141889",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7982070393/2/798207039345.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,878 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：新裤子、朴树、痛仰乐队、二手玫瑰、房东的猫、郭顶、假假條、康士坦的变化球、梅卡德尔、南青乐队、闪星TWINKLESTAR、逃跑计划、邓典果DDG、队长YoungCaptain、黄誉博、姜云升、法老、蒲熠星、沙一汀、TizzyT、颜人中、尤长靖、早安、郑润泽、DOUDOU",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "2148",
+    "cityname": "郑州",
+    "couponTags": "[]",
+    "description": "艺人：新裤子、朴树、痛仰乐队、二手玫瑰、房东的猫、郭顶、假假條、康士坦的变化球、梅卡德尔、南青乐队、闪星TWINKLESTAR、逃跑计划、邓典果DDG、队长YoungCaptain、黄誉博、姜云升、法老、蒲熠星、沙一汀、TizzyT、颜人中、尤长靖、早安、郑润泽、DOUDOU",
+    "id": "1_1_798762576932",
+    "imgurl": "-602308823",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "中原·LMF音乐嘉年华",
+    "nameNoHtml": "中原·LMF音乐嘉年华",
+    "price": "188.0",
+    "price_str": "188-688",
+    "pricehigh": "688.0",
+    "privilegeTags": "[]",
+    "projectid": "798762576932",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.09-06.10",
+    "sitestatus": "3",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": "郑点中原体娱PARK",
+    "venuecity": "郑州",
+    "venueid": "6699039",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01NJXxRd2GdSbNEXUkJ_!!0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "798762576932",
+                    "itemName": "【郑州】中原·LMF音乐嘉年华",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "410100",
+                    "cityName": "郑州市",
+                    "categoryId": "127420006",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01NJXxRd2GdSbNEXUkJ_!!0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01NJXxRd2GdSbNEXUkJ_!!0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.09-06.10",
+                    "showDuration": "以现场为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。",
+                            "tagType": "2",
+                            "renderType": "2",
+                            "tagDescJson": "{\"generalNote\":\"该演出支持退票，您可以在【我的-订单详情页】中申请退票，退票需要收取手续费，具体规则如下；\",\"performRules\":[{\"rules\":[{\"endTime\":1716974280000,\"ruleStage\":2,\"ruleType\":2,\"startTime\":1716887880000},{\"endTime\":1717060680000,\"ruleFeeBP\":3000,\"ruleStage\":1,\"ruleType\":1,\"startTime\":1716974280000},{\"ruleStage\":1,\"ruleType\":4,\"startTime\":1717060680000}]}],\"refundProcedureFeeRule\":1}",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：安徽力策文化传播有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：安徽力策文化传播有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "2148",
+                    "atomSplit": "1",
+                    "isHotProject": "true",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01LYv9Nf2GdSbPyEbuz_!!2251059038.jpg\" width=\"1080\" height=\"3732\" damai_width=\"1080\" damai_height=\"3732\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01FrJFYW2GdSbMX0wBR_!!2251059038.jpg\" width=\"1080\" height=\"2340\" damai_width=\"1080\" damai_height=\"2340\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ctcsw82GdSbOPkSUx_!!2251059038.jpg\" width=\"1080\" height=\"1440\" damai_width=\"1080\" damai_height=\"1440\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ZMnqVP2GdSbStofez_!!2251059038.jpg\" width=\"3610\" height=\"2297\" damai_width=\"3610\" damai_height=\"2297\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN012fe1iq2GdSbNBYjt8_!!2251059038.jpg\" width=\"1080\" height=\"2340\" damai_width=\"1080\" damai_height=\"2340\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01zqmh6A2GdSbKcYwkc_!!2251059038.jpg\" width=\"1080\" height=\"2202\" damai_width=\"1080\" damai_height=\"2202\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN012ZHDzr2GdSbOw8dJ9_!!2251059038.jpg\" width=\"1080\" height=\"1266\" damai_width=\"1080\" damai_height=\"1266\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01dxvCf72GdSbKj8eV2_!!2251059038.jpg\" width=\"1080\" height=\"972\" damai_width=\"1080\" damai_height=\"972\"></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "安徽力策文旅娱乐发展有限责任公司",
+                            "socialCreditCode": "91340100MA2P158468",
+                            "legalPerson": "陈太毛",
+                            "regCapStr": "500万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "合肥市庐阳区颍上路58号都市清华C4#楼1402室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童须凭票入场，1.2m以下不建议入场，谢绝婴幼儿入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：外国人永久居留身份证/港澳台居民居住证/港澳居民来往内地通行证/护照/身份证/台湾居民来往大陆通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "120"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "痛仰、新裤子、颜人中、尤长靖、姜云升、MC法老、新裤子、二手玫瑰"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "400分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "20000"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "6699039",
+                    "venueName": "郑点中原体娱PARK",
+                    "venueProvinceName": "河南省",
+                    "venueCityName": "郑州市",
+                    "lng": 113.54668,
+                    "lat": 34.747853,
+                    "venueAddr": "河南省郑州市中原区中原西路北",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D798762576932%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "61524",
+                        "artistName": "新裤子",
+                        "archives": "新裤子是国内最为成功的一支乐队。作为中国独立音乐文化和年轻时尚的坐标，新裤子横跨12年，集音乐、影像、动画、平面等多媒体于一身，推陈出新引领中国青年时尚风潮，并活跃地出现在国际舞台上。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1634010504702/1634010504702-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "410",
+                        "artistName": "朴树",
+                        "archives": "中国内地男歌手、音乐制作人、影视演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1535534701516/1535534701516-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "18423",
+                        "artistName": "痛仰乐队",
+                        "archives": "当下中国享有最高声誉的摇滚乐队之一。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1692006157114/1692006157114-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "93302807",
+                        "artistName": "二手玫瑰",
+                        "archives": "由乐手梁龙于1999年建立的一只摇滚乐队。该乐队的音乐结合了东北二人转和现代摇滚乐，以夸张的舞台造型和表演、朴实戏谑的唱词为特色。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1624873577319/1624873577319-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "71831",
+                        "artistName": "房东的猫",
+                        "archives": "房东的猫，成立于2013年，由吉他手吴佩岭和主唱王心怡组成。房东的猫，中国内地民谣组合，由主唱王心怡，吉他手吴佩岭组成。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1687145319229/1687145319229-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "147",
+                        "artistName": "郭顶",
+                        "archives": "郭顶，当代唱作人、音乐制作人、华语男歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1659430991075/1659430991075-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1758541435",
+                        "artistName": "假假條",
+                        "archives": "90年代垃圾摇滚的回溯，中国民乐的荒谬融入。二十一世纪共和国朋克乐队假假條，博采众长，自成一体。民族乐器的加入非但没让他们沾染上任何“民族摇滚”的气息，反而使其听上去更加奇异，凶险，带有强烈讽刺意味；配上主唱刘与操神经质的歌词和那凶狠却不失优美的邪气唱腔，更加使得他们成为同龄乐队中的一个异类典范。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1634635445228/1634635445228-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "21590498",
+                        "artistName": "康士坦的变化球",
+                        "archives": "康士坦的变化球成立于2013年，团名来自希腊哲人赫拉克利特（Heraclitus）说的“change is the only constant in life”，唯一不变的就是永远在变化，也就是佛说无常。曲风由后摇、Emo Punk加入Hardcore及全员主唱的元素，复杂鼓点加上吉他、bass音墙，VJ与合成器的编制，影像与音乐结合，无疑使爽度加倍。乐团成员们看似沉默，却总是可以创作出充满躁动与反叛的音乐。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1712484853470/1712484853470-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "709836958",
+                        "artistName": "梅卡德尔",
+                        "archives": "中国年轻另类独立摇滚乐队",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1624864232252/1624864232252-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1439713798",
+                        "artistName": "南青乐队",
+                        "archives": "南青乐队建于2017年9月1号，由均为河南各地喜爱摇滚乐的青年组成，顾名思义，南青意为河南青年，风格为Grunge、Punk Rock",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1690353985370/1690353985370-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "9731565527",
+                        "artistName": "闪星TWINKLESTAR",
+                        "archives": "另类摇滚乐队",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1615971030095/1615971030095-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1537",
+                        "artistName": "逃跑计划",
+                        "archives": "Perdel逃跑计划乐队的前身是孔雀乐队，成立与2004年底，直到2007年夏天贝司手小刚的加入，乐队得以正式确立，并且乐队的音乐风格较之前也有所改变，以Indie pop(独立流行)为主，其间也融入了New wave(新浪潮)；Post punk(后朋) 等新音乐形式的元素，使得乐队的音乐在保留了原来唯美旋律的同时更加新鲜，时尚，更有活力。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1565237095040/1565237095040-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "27005842395",
+                        "artistName": "邓典果DDG",
+                        "archives": "邓典果DDG，来自成都集团，中文说唱Drill代表人物，有多年留法经历的他，精通法/英/中文多语种说唱，对于各种先锋音乐风格有着独特的理解，在作品中他把成都本土特色与之相结合，创作出属于他自己的音乐风格。\n\n·中国说唱巅峰对决2023人气选手\n·芒果TV《说唱听我的》 第二季全国亚军\n\n这个夏天邓典果DDG凭借《耍》、《帅到没朋友》、《陷阱摇滚明星》等多首热单，成为今年节目的新宠儿，也让更多的人了解到DDG不止做钻头音乐(Drill)，还有很多的音乐风格被他解锁！",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1693290999716/1693290999716-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "9129540124",
+                        "artistName": "队长YoungCaptain",
+                        "archives": "唱作人、音乐制作人、MV导演",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1646880238562/1646880238562-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1373775454",
+                        "artistName": "黄誉博",
+                        "archives": "黄誉博，代表Z世代的新声唱作人。\n\n曾出演《星际精灵蓝多多》的男一号蓝多多，是00后“共同的回忆”。因为对音乐的热爱，决定音乐为人生方向。除了参加竞演类节目，如在《中国新声代》中，靠一系列高难度歌曲的完美演绎展现自己唱功，获得优秀成绩外，还坚持创作，在2020全国原创歌曲大赛中，凭借自作曲《水》获得冠军。发表多首歌曲上线均获得歌迷好评，并在南京成功举办“黄誉博《你 在哪儿呢》音乐专场”，受邀多次参加南京森林音乐节，现场掌控力强、唱功稳、氛围佳。如今，这位音乐少年将带领大家一起找寻失窃档案的秘密。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1706843669503/1706843669503-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "10338992",
+                        "artistName": "姜云升",
+                        "archives": "姜云升——说唱歌手，姜云升录制了综艺节目《说唱新时代》，表现的可以说是十分的不错。姜云升进入说唱这个圈子已经有9年的时间了。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1626083475371/1626083475371-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "71808",
+                        "artistName": "法老",
+                        "archives": "MC法老，又名杀人狂魔鼠尾草，本名孙权，浙江Rapper。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1538202100948/1538202100948-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1759149360",
+                        "artistName": "蒲熠星",
+                        "archives": "蒲熠星，1994年4月20日出生于四川省绵阳市，中国内地男游戏主播、演员 、影评人、作家，本科毕业于南京大学，硕士毕业于约翰斯·霍普金斯大学。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1710125328391/1710125328391-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1158147286",
+                        "artistName": "沙一汀",
+                        "archives": "",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1618192234019/1618192234019-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "71923",
+                        "artistName": "TizzyT",
+                        "archives": "Tizzy T，中国内地说唱歌手、音乐制作人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1677144863711/1677144863711-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "72654",
+                        "artistName": "颜人中",
+                        "archives": "颜人中，1994年6月17日出生于台湾省，中国台湾创作型流行乐男歌手，毕业于中国文化大学（台湾）戏剧学系。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1636354603254/1636354603254-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "72144",
+                        "artistName": "尤长靖",
+                        "archives": "尤长靖，华语流行乐男歌手，练习生团体Trainee18、男子演唱组合NINE PERCENT成员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1551951734686/1551951734686-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "20220802",
+                        "artistName": "早安",
+                        "archives": "早安，说唱歌手，来自Free-Out最硬的双人组合Round_2。早安在2019年和组合的贰万一起发布mixtape《冷热》，2020年一起发布专辑《XU》。2019年，早安和贰万创作的《Kill the Game》成为了热单。2021年，早安获得《说唱听我的》全国总冠军；2022年，早安参加《中国说唱巅峰对决》，是节目的热门嘉宾。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1659403408380/1659403408380-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "2178914126",
+                        "artistName": "郑润泽",
+                        "archives": "华语男歌手 音乐人 2018年明日之子第二季选手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1683512154921/1683512154921-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "8874354474",
+                        "artistName": "DOUDOU",
+                        "archives": "福禄寿FloruitShow，世界音乐公司「北河三」旗下唱作组合",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1651026489195/1651026489195-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "61524",
+                        "name": "新裤子",
+                        "desc": "新裤子是国内最为成功的一支乐队。作为中国独立音乐文化和年轻时尚的坐标，新裤子横跨12年，集音乐、影像、动画、平面等多媒体于一身，推陈出新引领中国青年时尚风潮，并活跃地出现在国际舞台上。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1634010504702/1634010504702-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "410",
+                        "name": "朴树",
+                        "desc": "中国内地男歌手、音乐制作人、影视演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1535534701516/1535534701516-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "18423",
+                        "name": "痛仰乐队",
+                        "desc": "当下中国享有最高声誉的摇滚乐队之一。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1692006157114/1692006157114-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "93302807",
+                        "name": "二手玫瑰",
+                        "desc": "由乐手梁龙于1999年建立的一只摇滚乐队。该乐队的音乐结合了东北二人转和现代摇滚乐，以夸张的舞台造型和表演、朴实戏谑的唱词为特色。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1624873577319/1624873577319-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "71831",
+                        "name": "房东的猫",
+                        "desc": "房东的猫，成立于2013年，由吉他手吴佩岭和主唱王心怡组成。房东的猫，中国内地民谣组合，由主唱王心怡，吉他手吴佩岭组成。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1687145319229/1687145319229-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "147",
+                        "name": "郭顶",
+                        "desc": "郭顶，当代唱作人、音乐制作人、华语男歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1659430991075/1659430991075-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1758541435",
+                        "name": "假假條",
+                        "desc": "90年代垃圾摇滚的回溯，中国民乐的荒谬融入。二十一世纪共和国朋克乐队假假條，博采众长，自成一体。民族乐器的加入非但没让他们沾染上任何“民族摇滚”的气息，反而使其听上去更加奇异，凶险，带有强烈讽刺意味；配上主唱刘与操神经质的歌词和那凶狠却不失优美的邪气唱腔，更加使得他们成为同龄乐队中的一个异类典范。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1634635445228/1634635445228-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "21590498",
+                        "name": "康士坦的变化球",
+                        "desc": "康士坦的变化球成立于2013年，团名来自希腊哲人赫拉克利特（Heraclitus）说的“change is the only constant in life”，唯一不变的就是永远在变化，也就是佛说无常。曲风由后摇、Emo Punk加入Hardcore及全员主唱的元素，复杂鼓点加上吉他、bass音墙，VJ与合成器的编制，影像与音乐结合，无疑使爽度加倍。乐团成员们看似沉默，却总是可以创作出充满躁动与反叛的音乐。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1712484853470/1712484853470-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "709836958",
+                        "name": "梅卡德尔",
+                        "desc": "中国年轻另类独立摇滚乐队",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1624864232252/1624864232252-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1439713798",
+                        "name": "南青乐队",
+                        "desc": "南青乐队建于2017年9月1号，由均为河南各地喜爱摇滚乐的青年组成，顾名思义，南青意为河南青年，风格为Grunge、Punk Rock",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1690353985370/1690353985370-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "9731565527",
+                        "name": "闪星TWINKLESTAR",
+                        "desc": "另类摇滚乐队",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1615971030095/1615971030095-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1537",
+                        "name": "逃跑计划",
+                        "desc": "Perdel逃跑计划乐队的前身是孔雀乐队，成立与2004年底，直到2007年夏天贝司手小刚的加入，乐队得以正式确立，并且乐队的音乐风格较之前也有所改变，以Indie pop(独立流行)为主，其间也融入了New wave(新浪潮)；Post punk(后朋) 等新音乐形式的元素，使得乐队的音乐在保留了原来唯美旋律的同时更加新鲜，时尚，更有活力。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1565237095040/1565237095040-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "27005842395",
+                        "name": "邓典果DDG",
+                        "desc": "邓典果DDG，来自成都集团，中文说唱Drill代表人物，有多年留法经历的他，精通法/英/中文多语种说唱，对于各种先锋音乐风格有着独特的理解，在作品中他把成都本土特色与之相结合，创作出属于他自己的音乐风格。\n\n·中国说唱巅峰对决2023人气选手\n·芒果TV《说唱听我的》 第二季全国亚军\n\n这个夏天邓典果DDG凭借《耍》、《帅到没朋友》、《陷阱摇滚明星》等多首热单，成为今年节目的新宠儿，也让更多的人了解到DDG不止做钻头音乐(Drill)，还有很多的音乐风格被他解锁！",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1693290999716/1693290999716-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "9129540124",
+                        "name": "队长YoungCaptain",
+                        "desc": "唱作人、音乐制作人、MV导演",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1646880238562/1646880238562-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1373775454",
+                        "name": "黄誉博",
+                        "desc": "黄誉博，代表Z世代的新声唱作人。\n\n曾出演《星际精灵蓝多多》的男一号蓝多多，是00后“共同的回忆”。因为对音乐的热爱，决定音乐为人生方向。除了参加竞演类节目，如在《中国新声代》中，靠一系列高难度歌曲的完美演绎展现自己唱功，获得优秀成绩外，还坚持创作，在2020全国原创歌曲大赛中，凭借自作曲《水》获得冠军。发表多首歌曲上线均获得歌迷好评，并在南京成功举办“黄誉博《你 在哪儿呢》音乐专场”，受邀多次参加南京森林音乐节，现场掌控力强、唱功稳、氛围佳。如今，这位音乐少年将带领大家一起找寻失窃档案的秘密。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1706843669503/1706843669503-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "10338992",
+                        "name": "姜云升",
+                        "desc": "姜云升——说唱歌手，姜云升录制了综艺节目《说唱新时代》，表现的可以说是十分的不错。姜云升进入说唱这个圈子已经有9年的时间了。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1626083475371/1626083475371-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "71808",
+                        "name": "法老",
+                        "desc": "MC法老，又名杀人狂魔鼠尾草，本名孙权，浙江Rapper。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1538202100948/1538202100948-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1759149360",
+                        "name": "蒲熠星",
+                        "desc": "蒲熠星，1994年4月20日出生于四川省绵阳市，中国内地男游戏主播、演员 、影评人、作家，本科毕业于南京大学，硕士毕业于约翰斯·霍普金斯大学。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1710125328391/1710125328391-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1158147286",
+                        "name": "沙一汀",
+                        "desc": "",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1618192234019/1618192234019-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "71923",
+                        "name": "TizzyT",
+                        "desc": "Tizzy T，中国内地说唱歌手、音乐制作人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1677144863711/1677144863711-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "72654",
+                        "name": "颜人中",
+                        "desc": "颜人中，1994年6月17日出生于台湾省，中国台湾创作型流行乐男歌手，毕业于中国文化大学（台湾）戏剧学系。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1636354603254/1636354603254-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "72144",
+                        "name": "尤长靖",
+                        "desc": "尤长靖，华语流行乐男歌手，练习生团体Trainee18、男子演唱组合NINE PERCENT成员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1551951734686/1551951734686-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "20220802",
+                        "name": "早安",
+                        "desc": "早安，说唱歌手，来自Free-Out最硬的双人组合Round_2。早安在2019年和组合的贰万一起发布mixtape《冷热》，2020年一起发布专辑《XU》。2019年，早安和贰万创作的《Kill the Game》成为了热单。2021年，早安获得《说唱听我的》全国总冠军；2022年，早安参加《中国说唱巅峰对决》，是节目的热门嘉宾。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1659403408380/1659403408380-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "2178914126",
+                        "name": "郑润泽",
+                        "desc": "华语男歌手 音乐人 2018年明日之子第二季选手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1683512154921/1683512154921-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "8874354474",
+                        "name": "DOUDOU",
+                        "desc": "福禄寿FloruitShow，世界音乐公司「北河三」旗下唱作组合",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1651026489195/1651026489195-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "166842",
+                    "wantNumStr": "16.7万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过95%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01k0453q1sPfdAAQ7YJ_!!6000000005759-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/680657/136131456.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01J0daCP1yBpM2Wfr2y_!!6000000006541-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/722346/144469373.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01gM0Mx11TADscWr8GL_!!6000000002341-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "23723076423",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1716880015352/1716880015352-main.jpg",
+                    "note": "LMF音乐节是力策集团旗下的音乐节品牌，横跨摇滚、民谣、说唱、电音等多种音乐风格。\n注重：爱（Love）、遇见（Meet）、自由（Freedom）。\n在自由和多元化的音乐现场，唤醒我们强烈的情绪，当爱遇见自由，享悅属于我们LMF的音乐空间！\nLMF音乐节品牌视觉图形一魔方，灵感来源于完成魔方的过程中需要思维的创新和突破、需要挑战自我的意识、需要团队的沟通和协作，才能在变幻的未来坚守方向和实现理想。因此LMF音乐节以魔方作为主题立意，希望带给喧嚣城市疲惫的人们一袭音乐清泉的涤荡，希望给乐迷呈现更好的音乐现场，希望传递的音乐和人生理念是未来、创新、挑战、百变与合作。",
+                    "categoryName": "音乐节",
+                    "title": "LMF音乐节",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1716894270000",
+                "sellStartTimeStr": "05月28日 19:04",
+                "priceRange": "¥188-¥688",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "141889",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "388674",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "2507",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7987625769/2/798762576932.jpg"
+            }
+        }
+    }
+}

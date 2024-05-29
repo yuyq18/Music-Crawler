@@ -1,0 +1,448 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_798841312671",
+    "imgurl": "-601521466",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "Shanghai OK！狂热之夜",
+    "nameNoHtml": "Shanghai OK！狂热之夜",
+    "price": "90.0",
+    "price_str": "90",
+    "pricehigh": "90.0",
+    "privilegeTags": "[]",
+    "projectid": "798841312671",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.09 周日 20:30",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "育音堂(凯旋路店)",
+    "venuecity": "上海",
+    "venueid": "834004",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01BxlPM22GdSbMFEFI2_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "798841312671",
+                    "itemName": "【上海】Shanghai OK！狂热之夜",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01BxlPM22GdSbMFEFI2_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i1/2251059038/O1CN01BxlPM22GdSbMFEFI2_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.09 周日 20:30",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：成都太合乐动科技有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：成都太合乐动科技有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "活动介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>Shanghai OK！</strong><strong>狂热之夜</strong></p>\n<p><strong><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01snZgHS2GdSbIJz1Dq_!!2251059038.jpg\" alt=\"\" damai_width=\"null\" damai_height=\"null\"></strong></p>\n<p>你还记得第一次听到摇滚乐的时候是什么时候吗？是和谁在某一场音乐节现场，是在某个热门电视节目，还是独自骑着单车乘着风…你第一次听到<strong>Nirvana</strong><strong>的《NEVERMIND》</strong>时，内心是否也曾跟着Kurt一起呐喊；你是否也在某个迷茫的深夜，一个人听完了整张<strong>Pink Floyd</strong><strong>的</strong><strong>《The&nbsp;Dark Side Of The Moon》</strong>后想与Gilmour对谈；或许你也曾将<strong>Bullet </strong><strong>for</strong><strong>&nbsp;my Valentine的《Tears Don't Fall》</strong>设为闹铃，用来抵御新一天的困境。</p>\n<p>最近这几年，时间走得特别快，困境也特别多，还停在听这些旧CD的我们，在无数个一同举杯换盏的夜里都在反复思考这几个问题：现在还有人听摇滚乐吗？上海有属于这个城市的摇滚乐队吗？审美同质化的当今，流量是做乐队唯一的出路吗？</p>\n<p>于是便有了这一场<strong>Shanghai OK</strong>，3支风格迥异、对自己所热爱的音乐近乎偏执的上海地下乐队，将通过现场来诠释各自的见解，也希望和你一起寻找答案。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01amBeZr2GdSbCtcn8F_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"850\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>演出阵容：</p>\n<p>坚持纯粹的GRUNGE乐队——<strong>PRANK</strong></p>\n<p>PRANK组建于2011年，是上海仅有的一支老牌GRUNGE乐队。PRANK的音乐隐藏着躁动不安的灵魂，把最深层的孤独和无奈表现得淋漓尽致。</p>\n<p>幸福？谎言？伤害？我们充满着疑问！</p>\n<p>主唱/吉他：兔子 / 贝斯：茂子/ 鼓：King</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01WAkNKe2GdSbOA5oCH_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"960\" damai_width=\"null\" damai_height=\"null\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01mG5XKf2GdSbL1yvyg_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"322\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>独具色彩的太空迷幻摇滚乐队——<strong>BosonTidE</strong></p>\n<p>无聊源于想象匮乏</p>\n<p>真实不过有迹可循</p>\n<p>&nbsp;</p>\n<p>时代前进也可能后退</p>\n<p>你我存在也或许不存在</p>\n<p>&nbsp;</p>\n<p>少一点偏执，多一点喜欢</p>\n<p>少一点借口，多一点迷幻</p>\n<p><strong>&nbsp;</strong></p>\n<p>吉他/主唱：小朱</p>\n<p>贝斯/主唱：小新</p>\n<p>吉他：张帅</p>\n<p>鼓：陆子野</p>\n<p><strong>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01hk9BSM2GdSbKHemim_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"469\" damai_width=\"null\" damai_height=\"null\"></strong></p>\n<p><strong><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01IUakDr2GdSbNCD4GC_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"427\" damai_width=\"null\" damai_height=\"null\"></strong></p>\n<p>多元化的金属核重型乐队新锐——<strong>绝麓</strong></p>\n<p>绝麓乐队(On the verge of extermination)是一支来自于上海的新派重型乐队，成军于2016年。“绝麓”二字，意味着万事万物只有在绝境中才会孕育更强的生命力与希望，柳暗才见花明，否极终将泰来。乐队活跃于华东地区各Livehouse,积累了丰富的现场演出经验。2019年6月乐队发布首张EP,同年12月发布单曲,22年发布单曲&lt;残局Endless Ending&gt;,得到了乐迷的肯定与支持。成立至今，绝麓乐队从未停止探索新的脚步，2023年加入新的血液后，</p>\n<p>乐队重新出发，将更丰富的元素注入新作，期待为大家带来更极致的重型听觉盛宴!</p>\n<p><strong>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01BI766D2GdSbMMIi6C_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"351\" damai_width=\"null\" damai_height=\"null\"></strong></p>\n<p><strong><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01FBM6JA2GdSbL1wBVL_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"261\" damai_width=\"null\" damai_height=\"null\"></strong></p>\n<p>本场演出现场将特别推出<strong>Shanghai OK—</strong><strong>PRANK</strong><strong>&nbsp;X </strong><strong>BosonTidE</strong><strong>限量</strong><strong>联名T恤</strong>，并将联合发布单曲~</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN014uieTo2GdSbL1wmwN_!!2251059038.png\" alt=\"\" width=\"640\" height=\"331\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "",
+                            "socialCreditCode": "",
+                            "legalPerson": "",
+                            "regCapStr": "",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "",
+                            "entAddress": ""
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "未成年人谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：护照/身份证/台湾居民来往大陆通行证/港澳居民来往内地通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "834004",
+                    "venueName": "育音堂(凯旋路店)",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.416773,
+                    "lat": 31.209064,
+                    "venueAddr": "凯旋路851号(凯旋路延安西路)",
+                    "showCountText": "共有5个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D798841312671%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1716903030000",
+                "sellStartTimeStr": "05月28日 21:30",
+                "priceRange": "¥90",
+                "performBases": [
+                    {
+                        "name": "06.09 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1717862400000",
+                        "performs": [
+                            {
+                                "performId": "214635028",
+                                "performName": "2024-06-09 周日 20:30",
+                                "itemId": "798841312671",
+                                "projectId": "220431004",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1717936200000",
+                                "performTime": "2024.06.09 20:30",
+                                "performStartDate": "2024-06-09",
+                                "performBeginTime": "20:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "141889",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7988413126/2/798841312671.jpg"
+            }
+        }
+    }
+}

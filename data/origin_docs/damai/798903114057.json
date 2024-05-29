@@ -183,7 +183,7 @@
                                 },
                                 {
                                     "title": "实名购票规则",
-                                    "content": "一张门票对应一个证件；证件支持：护照/身份证/外国人永久居留身份证/台湾居民来往大陆通行证/军官证/港澳台居民居住证/港澳居民来往内地通行证"
+                                    "content": "一张门票对应一个证件；证件支持：港澳台居民居住证/军官证/外国人永久居留身份证/港澳居民来往内地通行证/台湾居民来往大陆通行证/护照/身份证"
                                 },
                                 {
                                     "title": "异常排单说明",
@@ -398,16 +398,16 @@
                     "showWant": "true",
                     "subFlag": "false",
                     "title": "想看人数",
-                    "wantNum": "390",
-                    "wantNumStr": "390",
+                    "wantNum": "395",
+                    "wantNumStr": "395",
                     "wantNumSuffix": "人",
                     "wantDesc": "人气飙升中",
                     "userImgs": [
-                        "https://img.alicdn.com/imgextra/i1/O1CN01HRvUZB1lBHsggFFau_!!6000000004780-0-tps-500-500.jpg",
-                        "http://perico.damai.cn/userheadphotosnew/1126343/225268685_1677512947180.jpg",
-                        "https://img.alicdn.com/imgextra/i1/O1CN01vY86me1ydJ7UVciBd_!!6000000006601-0-tps-500-500.jpg",
-                        "http://perico.damai.cn/userheadphotos/290205/58041098.jpg",
-                        "https://img.alicdn.com/imgextra/i1/O1CN01Pz4vWg1sTnCEV7XXp_!!6000000005768-0-tps-500-500.jpg"
+                        "https://img.alicdn.com/imgextra/i1/O1CN01KzqXrr1vW1ysOe3mS_!!6000000006179-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2480032/496006525_1715857931911.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01ZxeXaY1HAQfY81rFy_!!6000000000717-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2342213/468442744_1702799691985.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01YWgZb91s0TqjCVnw9_!!6000000005704-0-tps-500-500.jpg"
                     ],
                     "thresholdNum": "10000",
                     "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
@@ -420,7 +420,7 @@
                     "useLocalCache": "false"
                 },
                 "tribes": [],
-                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
             },
             "item": {
                 "buyBtnStatus": "106",
@@ -428,8 +428,8 @@
                 "buyBtnOrigin": "20",
                 "sellStartTime": "1717416000000",
                 "sellStartTimeStr": "06月03日 20:00",
-                "countDown": "519301",
-                "rcdt": "519300805",
+                "countDown": "513608",
+                "rcdt": "513607994",
                 "notifyCustomerTimeBeforeSellStart": "3600",
                 "priceRange": "¥531-¥651",
                 "performBases": [

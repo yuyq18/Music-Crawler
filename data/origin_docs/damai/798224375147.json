@@ -1,0 +1,445 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1377",
+    "cityname": "成都",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_798224375147",
+    "imgurl": "-607690841",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "万晓利【这里有你要的好风光】2024成都专场",
+    "nameNoHtml": "万晓利【这里有你要的好风光】2024成都专场",
+    "price": "198.0",
+    "price_str": "198-288",
+    "pricehigh": "288.0",
+    "privilegeTags": "[]",
+    "projectid": "798224375147",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.21 周五 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "成都麓湖水上剧场",
+    "venuecity": "成都",
+    "venueid": "2785023",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01IK86YO2GdSbKHR2MO_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "798224375147",
+                    "itemName": "【成都】万晓利【这里有你要的好风光】2024成都专场",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "510100",
+                    "cityName": "成都市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01IK86YO2GdSbKHR2MO_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i4/2251059038/O1CN01IK86YO2GdSbKHR2MO_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.21 周五 20:00",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：成都太合乐动科技有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：成都太合乐动科技有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1377",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "活动介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01XQopNs2GdSb7fVo3N_!!2251059038.png\" alt=\"\" width=\"500\" height=\"666\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"font-weight: 400;\">没有谁能将你阻挡</p>\n<p style=\"font-weight: 400;\">向着春天</p>\n<p style=\"font-weight: 400;\">期盼着，幻想着</p>\n<p style=\"font-weight: 400;\">寻找属于你的“好风光”</p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN011kHnVs2GdSbDaAteW_!!2251059038.png\" alt=\"\" width=\"500\" height=\"500\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"font-weight: 400;\">或许在梦中，你能拥有，也许是阳光，也许是蓝天，也许，是天边的花一朵，也许那就是你要的好风光。</p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN013M4psd2GdSbAKIXcH_!!2251059038.png\" alt=\"\" width=\"500\" height=\"477\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"font-weight: 400;\">他的歌，仿佛不为谁而作，却又好似专门为我们每个人而歌。是生活，是生命，是精神的支撑和火花，在这里你了解了自己，懂了自己内心深处的孤独、痛苦、无奈、脆弱……但也正因如此，真正勇敢的人，敢于直面惨淡的人生，敢于正视淋漓的现实，要去找到一个自洽的角度，懂得与生活、与这个世界和解，找到属于你自己的好风光。</p>\n<p style=\"font-weight: 400;\">2024万晓利“这里有你要的好风光”成都专场，我们在这里拥抱欢笑，6.21不见不散。</p>\n<p style=\"font-weight: 400;\">&nbsp;</p>\n<p style=\"font-weight: 400;\"><strong>&nbsp;</strong><strong>万晓利</strong></p>\n<p style=\"font-weight: 400;\">中国70后独立唱作人，一位富有浓郁人文色彩的创作型歌手，现代民谣代表人物之一。&nbsp;</p>\n<p style=\"font-weight: 400;\">2002年签约摩登天空Badhead厂牌，2005年签约国内独立厂牌“十三月”;&nbsp;先后发行《走过来走过去》《这一切没有想象的那么糟》《北方的北方》等经典个人专辑;&nbsp;&nbsp;多次荣获国内音乐奖项及提名;参演众多国内知名音乐节，举办多次个人主题全国巡演;</p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01LBOY6C2GdSbDaBdNg_!!2251059038.png\" alt=\"\" width=\"500\" height=\"333\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"font-weight: 400;\">2002完成首张专辑《走过来走过去》。<br>2004年5月，获第4届华语音乐传媒大奖最佳民谣艺人提名。<br>2006年，发行专辑《这一切没有想象的那么糟》。<br>2007年，获第7届华语音乐传媒大奖最佳民谣艺人奖。<br>2007年4月，获第7届音乐风云榜年度最佳摇滚歌手提名。<br>2010年1月1日，独立制作发行第三张专辑《北方的北方》。<br>2015年3月26日，独立制作发行第四张专辑《太阳看起来圆圆的》。<br>2015年获中国摇滚迷笛奖-最佳年度民谣音乐奖。<br>2017年11月05日，独立制作发行第五张专辑 《天秤之舟／牙齿，菠菜和豆腐与诗人，流浪汉和门徒》。<br>2018年获第七届阿比鹿年度民谣唱片，专辑中《你，来替我做个梦》获年度民谣单曲。<br>2018年6月30日获第18届华语音乐传媒大奖年度民谣艺人提名。<br>2018年1月，获硬地围炉夜·2017网易云音乐原创盛典云村推荐专辑。<br>2018年7月31日，《天秤之舟／牙齿，菠菜和豆腐与诗人，流浪汉和门徒》获第二届唱工委音乐奖最佳当代民谣专辑。<br>2019年4月19日，发行单曲《哦，及时行乐》。</p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01lrdhCZ2GdSb82GItK_!!2251059038.png\" alt=\"\" width=\"500\" height=\"751\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01fcOYoF2GdSb9dLiA7_!!2251059038.png\" alt=\"\" width=\"500\" height=\"750\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN0146BwvL2GdSb9Z50Ko_!!2251059038.png\" alt=\"\" width=\"500\" height=\"961\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01bOvzzE2GdSbBCTsek_!!2251059038.png\" alt=\"\" width=\"500\" height=\"333\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"font-weight: 400;\">&nbsp;</p>\n<p style=\"font-weight: 400;\"><strong>演出时间</strong></p>\n<p style=\"font-weight: 400;\">2024年6月21日（五）20:00</p>\n<p style=\"font-weight: 400;\">&nbsp;</p>\n<p style=\"font-weight: 400;\"><strong>演出场地</strong></p>\n<p style=\"font-weight: 400;\">成都·麓湖水上剧场</p>\n<p style=\"font-weight: 400;\">&nbsp;</p>\n<p style=\"font-weight: 400;\"><strong>票价</strong></p>\n<p style=\"font-weight: 400;\">VIP票288</p>\n<p style=\"font-weight: 400;\"><strong>（提前30分钟进场，优先签售，定制版海报一张）</strong></p>\n<p style=\"font-weight: 400;\">全价 228</p>\n<p style=\"font-weight: 400;\">预售198</p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：身份证/护照/港澳居民来往内地通行证/台湾居民来往大陆通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "2785023",
+                    "venueName": "成都麓湖水上剧场",
+                    "venueProvinceName": "四川省",
+                    "venueCityName": "成都市",
+                    "lng": 104.070194,
+                    "lat": 30.467387,
+                    "venueAddr": "成都市天府新区天府大道南一段1600号麓湖水上剧场",
+                    "showCountText": "共有9个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D798224375147%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "68",
+                    "wantNumStr": "68",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01Z4KBGi1TVkUeB77To_!!6000000002388-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/308502/61700504.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01GQ87pz1DKj6sWkQVe_!!6000000000198-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/765041/153008259.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01sUUZpm1tgRkwPdMX0_!!6000000005931-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1716903272000",
+                "sellStartTimeStr": "05月28日 21:34",
+                "priceRange": "¥198-¥288",
+                "performBases": [
+                    {
+                        "name": "06.21 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1718899200000",
+                        "performs": [
+                            {
+                                "performId": "214589081",
+                                "performName": "2024-06-21 周五 20:00",
+                                "itemId": "798224375147",
+                                "projectId": "220404019",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1718971200000",
+                                "performTime": "2024.06.21 20:00",
+                                "performStartDate": "2024-06-21",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "141889",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2602306",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/7982243751/2/798224375147.jpg"
+            }
+        }
+    }
+}

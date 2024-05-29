@@ -1,0 +1,54 @@
+{
+    "platform": "大麦",
+    "project_id": "798841707468",
+    "project_name": "汪晨蕊《今天是我的》2024全国巡演-深圳站",
+    "category_name": "演唱会",
+    "artists": [
+        "汪晨蕊"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.14 周五 20:00",
+    "session_time": [
+        "06.14 周五"
+    ],
+    "price": "138-328",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "NUBOND AIR",
+    "venue_info": {
+        "venue_address": "广东省深圳市南山区粤海街道后海汇",
+        "lng": 113.940723,
+        "lat": 22.515826
+    },
+    "project_info": "\n检票入场\nVIP票19:00 | 普票19:30\n\n *VIP权益* \n提前入场\n签名海报\n精美VIP礼包\n单人合影 （合影环节将在演出结束后进行）",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN016cuIUJ2GdSbNeUk3e_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01vPvNa82GdSb7dzL7n_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "128",
+        "wantNumStr": "128",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "798841707468",
+            "cityName": "深圳站",
+            "showTime": "06.14"
+        },
+        {
+            "itemId": "799871034724",
+            "cityName": "长沙站",
+            "showTime": "06.28"
+        },
+        {
+            "itemId": "799047992383",
+            "cityName": "南京站",
+            "showTime": "06.29"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=798841707468"
+}

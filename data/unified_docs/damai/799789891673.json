@@ -1,0 +1,79 @@
+{
+    "platform": "大麦",
+    "project_id": "799789891673",
+    "project_name": "于贞Ingrita「奇迹」2024全国巡演 （成都站）",
+    "category_name": "演唱会",
+    "artists": [
+        "于贞"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.07.20 周六 19:30",
+    "session_time": [
+        "07.20 周六"
+    ],
+    "price": "249-399",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "成都",
+    "venue_name": "CH8绿树演艺中心",
+    "venue_info": {
+        "venue_address": " 昭青路333号天府国际动漫城CH8绿树演艺中心",
+        "lng": 104.107616,
+        "lat": 30.705624
+    },
+    "project_info": "VIP权益：\n· 提前入场尊享权\n· 实体纪念票根一张\n· 二人一组合影\n\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01v0RuVW2GdSbN5G2CQ_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01rE5wgC2GdSbJ3V2XM_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "1297",
+        "wantNumStr": "1297",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "797961782448",
+            "cityName": "武汉站",
+            "showTime": "06.22"
+        },
+        {
+            "itemId": "797839423099",
+            "cityName": "郑州站",
+            "showTime": "06.28"
+        },
+        {
+            "itemId": "798127280936",
+            "cityName": "杭州站",
+            "showTime": "06.30"
+        },
+        {
+            "itemId": "798123024522",
+            "cityName": "厦门站",
+            "showTime": "07.13"
+        },
+        {
+            "itemId": "799789891673",
+            "cityName": "成都站",
+            "showTime": "07.20"
+        },
+        {
+            "itemId": "797884707477",
+            "cityName": "南京站",
+            "showTime": "08.10"
+        },
+        {
+            "itemId": "799869430355",
+            "cityName": "广州站",
+            "showTime": "09.08"
+        },
+        {
+            "itemId": "797914180376",
+            "cityName": "上海站",
+            "showTime": "06.16"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=799789891673"
+}

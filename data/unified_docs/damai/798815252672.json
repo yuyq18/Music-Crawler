@@ -1,0 +1,79 @@
+{
+    "platform": "大麦",
+    "project_id": "798815252672",
+    "project_name": "“张嘴就来2024”BEATBOX巡演-长沙站",
+    "category_name": "演唱会",
+    "artists": [
+        "BEATBOX 张泽"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.09 周五 20:00",
+    "session_time": [
+        "08.09 周五"
+    ],
+    "price": "158-258",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "长沙",
+    "venue_name": "达丰空间",
+    "venue_info": {
+        "venue_address": "湖南省长沙市岳麓区银杉路382号锦秀拾光园区21号栋",
+        "lng": 112.950388,
+        "lat": 28.239411
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01JlxdiK2GdSbLrudtH_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01LcPHyq2GdSbMOw35N_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "797316607280",
+            "cityName": "西安站",
+            "showTime": "07.13"
+        },
+        {
+            "itemId": "798454664662",
+            "cityName": "上海站",
+            "showTime": "07.19"
+        },
+        {
+            "itemId": "797530157908",
+            "cityName": "杭州站",
+            "showTime": "07.20"
+        },
+        {
+            "itemId": "797848301493",
+            "cityName": "郑州站",
+            "showTime": "07.26"
+        },
+        {
+            "itemId": "797704098254",
+            "cityName": "大连站",
+            "showTime": "08.02"
+        },
+        {
+            "itemId": "797703574984",
+            "cityName": "长春站",
+            "showTime": "08.03"
+        },
+        {
+            "itemId": "798815252672",
+            "cityName": "长沙站",
+            "showTime": "08.09"
+        },
+        {
+            "itemId": "797648023430",
+            "cityName": "深圳站",
+            "showTime": "08.10"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=798815252672"
+}

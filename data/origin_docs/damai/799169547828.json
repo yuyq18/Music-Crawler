@@ -180,7 +180,7 @@
                                 },
                                 {
                                     "title": "实名购票规则",
-                                    "content": "一个订单对应一个证件；证件支持：外国人永久居留身份证/港澳台居民居住证/港澳居民来往内地通行证/护照/身份证/台湾居民来往大陆通行证"
+                                    "content": "一个订单对应一个证件；证件支持：护照/港澳居民来往内地通行证/身份证/外国人永久居留身份证/港澳台居民居住证/台湾居民来往大陆通行证"
                                 },
                                 {
                                     "title": "异常排单说明",
@@ -428,16 +428,16 @@
                     "showWant": "true",
                     "subFlag": "false",
                     "title": "想看人数",
-                    "wantNum": "970",
-                    "wantNumStr": "970",
+                    "wantNum": "985",
+                    "wantNumStr": "985",
                     "wantNumSuffix": "人",
                     "wantDesc": "人气飙升中",
                     "userImgs": [
-                        "https://img.alicdn.com/imgextra/i4/O1CN01so1NLY1lEx3KreQfP_!!6000000004788-0-tps-500-500.jpg",
-                        "http://perico.damai.cn/userheadphotos/807638/161527614.jpg",
-                        "https://img.alicdn.com/imgextra/i2/O1CN01WMBkkT1Lnb08vVqc0_!!6000000001344-0-tps-500-500.jpg",
-                        "http://perico.damai.cn/userheadphotos/597565/119513153.jpg",
-                        "https://img.alicdn.com/imgextra/i1/O1CN01uK2rVR245JPpd1bSf_!!6000000007339-0-tps-500-500.jpg"
+                        "https://img.alicdn.com/imgextra/i1/O1CN01KzqXrr1vW1ysOe3mS_!!6000000006179-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/326614/65322919.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01oExvMe1ZSRKI2YUn4_!!6000000003193-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1151784/230356844_1682033882719.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN017sq23P1nF4O5uJsRB_!!6000000005059-0-tps-500-500.jpg"
                     ],
                     "thresholdNum": "10000",
                     "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
@@ -458,8 +458,8 @@
                 "buyBtnOrigin": "20",
                 "sellStartTime": "1717128000000",
                 "sellStartTimeStr": "05月31日 12:00",
-                "countDown": "231296",
-                "rcdt": "231295455",
+                "countDown": "225570",
+                "rcdt": "225569246",
                 "notifyCustomerTimeBeforeSellStart": "3600",
                 "priceRange": "¥180-¥680",
                 "performBases": [

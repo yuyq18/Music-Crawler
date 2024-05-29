@@ -1,0 +1,54 @@
+{
+    "platform": "大麦",
+    "project_id": "799123739841",
+    "project_name": "「千万亿个梦」贰佰2024新专辑巡演 第二轮 杭州站",
+    "category_name": "演唱会",
+    "artists": [
+        "贰佰"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.30 周五 20:00",
+    "session_time": [
+        "08.30 周五"
+    ],
+    "price": "150-180",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "杭州",
+    "venue_name": "MAO Livehouse杭州",
+    "venue_info": {
+        "venue_address": "浙江省杭州市上城区紫阳街道中山南路77号尚城1157·利星",
+        "lng": 120.16859,
+        "lat": 30.227859
+    },
+    "project_info": " \n\n【条件退规则】无条件退票：开启售票后至 2024年5月25日0点收取票面价格50%为退票手续费：2024年5月25日0点-演出前72小时不接受任何理由退票：演出前72小时起",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01YDSYCo2GdSbQ8wwTB_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ZrnPLC2GdSbIkuLXz_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "799370032162",
+            "cityName": "温州站",
+            "showTime": "08.28"
+        },
+        {
+            "itemId": "799123739841",
+            "cityName": "杭州站",
+            "showTime": "08.30"
+        },
+        {
+            "itemId": "797824963022",
+            "cityName": "南京站",
+            "showTime": "09.01"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=799123739841"
+}

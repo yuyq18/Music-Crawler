@@ -1,0 +1,59 @@
+{
+    "platform": "大麦",
+    "project_id": "800590456105",
+    "project_name": "【造音呈现】井迪「追光旅行」2024全国巡演 成都站",
+    "category_name": "演唱会",
+    "artists": [
+        "井迪"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.07.20 周六 20:00",
+    "session_time": [
+        "07.20 周六"
+    ],
+    "price": "168-288",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "成都",
+    "venue_name": "正火艺术中心1号馆",
+    "venue_info": {
+        "venue_address": "四川成都市龙泉驿区东洪路666号正火1号馆",
+        "lng": 104.149694,
+        "lat": 30.621531
+    },
+    "project_info": "【造音呈现】井迪2024全国巡演 广州站-大麦",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01IOOnVs2GdSbNvkYvX_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN014a2Qkb2GdSafTC3jk_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "380",
+        "wantNumStr": "380",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "800413534092",
+            "cityName": "长沙站",
+            "showTime": "07.13"
+        },
+        {
+            "itemId": "800590456105",
+            "cityName": "成都站",
+            "showTime": "07.20"
+        },
+        {
+            "itemId": "795964245658",
+            "cityName": "深圳站",
+            "showTime": "06.22"
+        },
+        {
+            "itemId": "795963309050",
+            "cityName": "广州站",
+            "showTime": "06.23"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=800590456105"
+}
