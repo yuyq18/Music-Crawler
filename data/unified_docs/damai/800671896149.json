@@ -1,0 +1,59 @@
+{
+    "platform": "大麦",
+    "project_id": "800671896149",
+    "project_name": "Click#15「疯客惊奇秀」巡演·上半场（南京站）",
+    "category_name": "演唱会",
+    "artists": [
+        "Click#15"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.06.23 周日 20:30",
+    "session_time": [
+        "06.23 周日"
+    ],
+    "price": "180-220",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南京",
+    "venue_name": "1701 Live House Max",
+    "venue_info": {
+        "venue_address": " 南京市雨花台区安德门大街57号",
+        "lng": 118.764476,
+        "lat": 31.970526
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01rcVq642GdSbPGfien_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01axJPTu2GdSbRf7C3a_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "50",
+        "wantNumStr": "50",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "800662792123",
+            "cityName": "上海站",
+            "showTime": "06.22"
+        },
+        {
+            "itemId": "800671896149",
+            "cityName": "南京站",
+            "showTime": "06.23"
+        },
+        {
+            "itemId": "800506814442",
+            "cityName": "深圳站",
+            "showTime": "06.28"
+        },
+        {
+            "itemId": "800512790113",
+            "cityName": "广州站",
+            "showTime": "06.29"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=800671896149"
+}
