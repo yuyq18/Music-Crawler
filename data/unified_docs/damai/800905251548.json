@@ -1,0 +1,54 @@
+{
+    "platform": "大麦",
+    "project_id": "800905251548",
+    "project_name": "刘大壮  会不会3.0 心动如初”2024“全国巡演（西安站）",
+    "category_name": "演唱会",
+    "artists": [
+        "刘大壮"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.17 周六 20:00",
+    "session_time": [
+        "08.17 周六"
+    ],
+    "price": "168-298",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "西安",
+    "venue_name": "星球工厂LIVEHOUSE",
+    "venue_info": {
+        "venue_address": "陕西省西安市雁塔区西影路466号量子晨产业园5号楼",
+        "lng": 108.977137,
+        "lat": 34.222308
+    },
+    "project_info": "\n实际演出以现场为准",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01yqHheD2GdSbV73xIy_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01be3XKC2GdSbOstHk4_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "75",
+        "wantNumStr": "75",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "800905251548",
+            "cityName": "西安站",
+            "showTime": "08.17"
+        },
+        {
+            "itemId": "799014754623",
+            "cityName": "上海站",
+            "showTime": "07.06"
+        },
+        {
+            "itemId": "800461390135",
+            "cityName": "武汉站",
+            "showTime": "07.27"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=800905251548"
+}

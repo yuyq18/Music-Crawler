@@ -1,0 +1,450 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_801148940610",
+    "imgurl": "-578445186",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "6.13&30 About The Rain 雨之歌 -复古新星四重奏",
+    "nameNoHtml": "6.13&30 About The Rain 雨之歌 -复古新星四重奏",
+    "price": "168.0",
+    "price_str": "168-388",
+    "pricehigh": "388.0",
+    "privilegeTags": "[]",
+    "projectid": "801148940610",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.13-06.30",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "林肯爵士乐上海中心",
+    "venuecity": "上海",
+    "venueid": "92289",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01jmJIJs2GdSbSVDTaT_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "801148940610",
+                    "itemName": "【上海】6.13&30 About The Rain 雨之歌 -复古新星四重奏",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01jmJIJs2GdSbSVDTaT_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i1/2251059038/O1CN01jmJIJs2GdSbSVDTaT_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.13-06.30",
+                    "showDuration": "以现场为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：上海和筠文化传播有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：上海和筠文化传播有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><strong>曲目单：</strong></p><p style=\"text-align: center;\">&nbsp;A Song For You - 叶晔</p><p style=\"text-align: center;\">&nbsp;はじまりはいつも雨（开始总是雨天）- 飛鳥涼</p><p style=\"text-align: center;\">&nbsp;瞳はダイアモンド（瞳是钻石）- 松田聖子</p><p style=\"text-align: center;\">浏阳河&amp;牧歌 - 中国民歌, 叶晔</p><p style=\"text-align: center;\">&nbsp;Here’s That Rainy Day - Musical “Carnival in Flanders”</p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i115.93346b72n0yvUN\">&nbsp;私の歌（Growing） - 叶晔, Yuko Kishi</p><p style=\"text-align: center;\">&nbsp;自然的呐喊 - 孙斌, 叶晔</p><p style=\"text-align: center;\">&nbsp;ぎんいろの夢をみていた（We Dreamed） - Yuko Kishi&nbsp;</p><p style=\"text-align: center;\">&nbsp;Raindrops Keep Falling On My Head - Movie “Butch Cassidy and the Sundance Kid”</p><p style=\"text-align: center;\">&nbsp;Amazonas - João Donato</p><p style=\"text-align: center;\">&nbsp;最後の雨（最后的雨） - 中西圭三</p><p style=\"text-align: center;\">&nbsp;Freedom - 叶晔, Yuko Kishi</p><p style=\"text-align: center;\"><strong><span>*曲目以现场实际演出为准</span></strong></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i111.93346b72n0yvUN\"><strong><span><span>Vocal - 岸祐子Yuko Kishi</span></span></strong></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i111.93346b72n0yvUN\"><strong><span><span><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01NamDcB2GdSbRwc0uY_!!2251059038.jpg\" width=\"300px\" height=\"375px\" damai_width=\"730\" damai_height=\"913\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i122.93346b72n0yvUN\" style=\"width: 300px; height: 375px;\"></span></span></strong></p><p><span>“感情丰富、真诚、具有爆发力” 是对她音色的评价。她可运用自己宽厚的音色及跨越3个八度的音域，在各类歌曲的即兴演绎上游刃有余。高中时代，她参加学校合唱班在那里学习古典音乐的发声方法，之后她又被SOUL、MOTOWN等等黑人音乐所倾倒, 运用黑人音乐的演唱技法演绎Whitney Houston、Anita Baker、Dianne Reeves等著名歌手的名曲。在此之后，“想尝试各乐手对等呼应、即兴性强的音乐” 她萌发了学习爵士乐的想法。2005年她开始在东京和横滨的各爵士酒吧和餐厅上参演，获得很多好评。2009年移居上海。来沪后，她很快成为爵士乐酒吧及高级酒店的签约歌手。在BlueNote Shanghai/Beijing、 House of Blues and Jazz、<span>Jazz at Lincoln Center Shang Hai</span>、ARK Live House等著名的爵士乐酒吧演出。上海世博会(日本产业馆)、东海音乐节、日本电影周等大型活动中也留下了她的身影，并经常活跃在各种舞台上。同时个人音乐辅导班也正式启动，指导发声练习和唱歌技法。为培育音乐爱好者尽自己的绵薄之力。&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p><p><span>\"Emotive, sincere, energetic\" are the three words that clearly describe the voice of Yuko Kishi. She is sensational a jazz vocalist from Tokyo, Japan. Yuko began singing at 13, and initially she studied the Italian opera and more classical vocal stylings. Then soon she heard some contemporary American R and B divas and fell in love with American Urban Soul music. She listened closely to and was influenced by great singers such as Whitney Houston, Anita Baker, Dianne Reeves, and many others. After playing in a few pop bands she thought that she wanted to play music in a style where every player in the band can take a leading role, and play music with lots of improvisation. She started to learn jazz, and in 2005, began performing regularly with many jazz combos. Yuko has performed at many jazz clubs, restaurants and events not only in Tokyo, but also Saitama and Yokohama. In 2009, she moved to Shanghai and started performing. She got involved in concerts such as the Shanghai 2010 Expo, Encore Live's \"Take Me Home Country Roadhouse\" in 2016, and also numerous festivals, events, nightclubs, cafés and restaurants. Jazz standards form the foundation of her artistic style, but she also enjoys singing pop songs, show tunes, and Japanese traditional folk songs too. Yuko's incredible vocal range spans three octaves, and she is an outstanding \"scat\" singer. Yuko has extensive experience both as a soloist and in vocal ensembles. She is a passionate, vibrant and versatile performer.</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i116.93346b72n0yvUN\"><span><strong>Piano - 叶晔</strong></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i116.93346b72n0yvUN\"><span><strong data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i138.93346b72n0yvUN\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01H3BAiR2GdSbSmKxV1_!!2251059038.jpg\" width=\"300px\" height=\"197px\" damai_width=\"730\" damai_height=\"479\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i137.93346b72n0yvUN\" style=\"width: 300px; height: 197px;\"></strong></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i116.93346b72n0yvUN\"><span><span>上海音乐学院本科，巴塞罗那Liceu音乐学院弗拉门戈及拉丁爵士钢琴硕士。曾受邀巴塞罗那驻华领事馆新年音乐会进行钢琴独奏；作为“刘炜爵士四重奏”核心成员参演北京国际音乐节、上海国际艺术节等活动；曾任河马音乐节音乐总监，同时爱好合成器品牌的测评。</span></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i116.93346b72n0yvUN\"><span><span><span><strong>Bass - Danny Zanker</strong></span></span></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i116.93346b72n0yvUN\"><span><span><span><strong><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01aj3j8A2GdSbTBko5u_!!2251059038.jpg\" width=\"300px\" height=\"420px\" damai_width=\"875\" damai_height=\"1226\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i134.93346b72n0yvUN\" style=\"width: 300px; height: 420px;\"></strong></span></span></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i116.93346b72n0yvUN\"><span><span><span><span>Danny Zanker开始时是一名贝斯手。他对爵士音乐的热爱使他开始演奏了低音提提琴，并在2009年搬到了纽约和上海。从那以后，他与多支知名乐队一起演出，包括李晓川四重奏、Coco Zhao和the Possicobilities，以及张雄关三重奏。Danny Zanker还是Heyday俱乐部三重奏、The Wanderers的常驻成员，他还领导着一支的乐队，Zankin Fives。 Danny Zanker还与Antonio Hart、Wayne Escoffrey、Tina May、Stefan Karlsson等许多艺术家⼀起演出。他曾与Coco Zhao、李晓川、Jasmine Chen、张乐、李佳怡等人一起在JZ音乐节上演出，并在2015年夏天在法国安蒂布爵士音乐节上演出。</span></span></span></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i116.93346b72n0yvUN\"><span><span><span><span><span><strong>Drums - 孙斌</strong></span></span></span></span></span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i116.93346b72n0yvUN\"><span><span><span><span><span><strong><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01RSBrNZ2GdSbPg49Ra_!!2251059038.jpg\" width=\"300px\" height=\"375px\" damai_width=\"596\" damai_height=\"745\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i141.93346b72n0yvUN\" style=\"width: 300px; height: 375px;\"></strong></span></span></span></span></span></p><p><span>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 职业鼓手孙斌 毕业于上海音乐学院西打系</span></p><p><span>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2002年获得统一冰红茶原创音乐亚军；同年与齐秦老师同台献演</span></p><p><span>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 后加入轻音乐团参加全球邓丽君巡回演唱会</span></p><p><span data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i177.93346b72n0yvUN\">•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2005年参加录制上海外语频道说东道西节目担任现场音效总监；</span></p><p><span>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2008年应邀请参加百事可乐全国乐队巡回演出</span></p><p><span>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2012年参加channel v演唱会录制，与众多明星伴奏同台演出；后加入中国好声音好歌曲现场伴奏乐队至今</span></p><p><span>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2016年受邀参加法国戛纳midem音乐节；上海国际jazz音乐节</span></p><p><span>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2017年在北京鸟巢参演国风庆典（近10万人）；任聘IPEA国际打击乐协会理事，瑞典鼓棒Wincent代言人。</span></p><p><span>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2018年受聘参加湖南省首届爵士鼓大赛和乐队大赛评委以及个人演示</span></p><p><span>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019年至2020年至今活跃再各个大舞台以及各个地区的巡回讲座，深受孩子们的爱戴。</span></p><p><span>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2020年至2021年组建了参与刘令飞野路子音乐会担任队长巡演在各大城市剧院，并且作为压轴乐队参与中国音乐剧大赏的主演乐队。</span></p><p><span>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 同年受邀参加四川省泸州市音乐家协会邀请大师班讲座</span></p><p><span>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 合肥万达红魔电子鼓代言人大师班讲座，DW 2021年第五届中国爵士鼓大赛评委。</span></p><p><span>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 同年受CODA艺术中心邀请与安栋，周杰伦制作人黄雨勋，飞儿乐团阿沁老师等国内外优秀音乐人联合讲座。</span></p><p><span>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021年参演了上海交响乐团007主题音乐会（指挥家：余隆老师）。</span></p><p><span data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i172.93346b72n0yvUN\">•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 合作艺人：平安，吴莫愁，张磊，戴荃，二珂，宁桓宇，alin，王铮亮，郁可唯，邓见超，DJ Mosion，周深, 邓建超，刘令飞，郑云龙等</span></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "上海和筠文化传播有限公司",
+                            "socialCreditCode": "91310101350939368B",
+                            "legalPerson": "俞骏",
+                            "regCapStr": "2000万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(非自然人投资或控股的法人独资)",
+                            "entAddress": "上海市黄浦区南京东路139-171号4层M401-M402室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一个订单对应一个证件；证件支持：身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "2",
+                    "credentials": [
+                        "1"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        }
+                    ]
+                },
+                "venue": {
+                    "venueId": "92289",
+                    "venueName": "林肯爵士乐上海中心",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.486706,
+                    "lat": 31.238062,
+                    "venueAddr": "南京东路139号4层（近江西中路）",
+                    "showCountText": "共有15个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D801148940610%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看想玩]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1717033538000",
+                "sellStartTimeStr": "05月30日 09:45",
+                "priceRange": "¥168-¥388",
+                "performBases": [
+                    {
+                        "name": "06.30 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1719676800000",
+                        "performs": [
+                            {
+                                "performId": "214684279",
+                                "performName": "2024-06-30 周日 19:30",
+                                "itemId": "801148940610",
+                                "projectId": "220430048",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1719747000000",
+                                "performTime": "2024.06.30 19:30",
+                                "performStartDate": "2024-06-30",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "06.13 周四",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1718208000000",
+                        "performs": [
+                            {
+                                "performId": "214651288",
+                                "performName": "2024-06-13 周四 19:30",
+                                "itemId": "801148940610",
+                                "projectId": "220430048",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1718278200000",
+                                "performTime": "2024.06.13 19:30",
+                                "performStartDate": "2024-06-13",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "2",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "14155",
+                    "23883",
+                    "23115",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9099",
+                    "9867",
+                    "8843",
+                    "2443",
+                    "395",
+                    "1163",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "7371",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "1",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8011489406/2/801148940610.jpg"
+            }
+        }
+    }
+}
