@@ -1,0 +1,523 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "893",
+    "cityname": "广州",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_800126595616",
+    "imgurl": "-588668636",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "歌者来了-时空奇境音乐超现场",
+    "nameNoHtml": "歌者来了-时空奇境音乐超现场",
+    "price": "599.0",
+    "price_str": "599-1699",
+    "pricehigh": "1699.0",
+    "privilegeTags": "[]",
+    "projectid": "800126595616",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.22-06.23",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "广州市海心沙亚运公园",
+    "venuecity": "广州",
+    "venueid": "53305",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01Gp3EWD2GdSbP8rI2N_!!0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "800126595616",
+                    "itemName": "【广州】歌者来了-时空奇境音乐超现场",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "440100",
+                    "cityName": "广州市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01Gp3EWD2GdSbP8rI2N_!!0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01Gp3EWD2GdSbP8rI2N_!!0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.06.22-06.23",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "快递票",
+                            "tagDesc": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。该演出不支持修改收货地址，在购票时请确认收货地址填写正确。\r\n注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagDescWithStyle": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。<b>该演出不支持修改收货地址，在购票时请确认收货地址填写正确。</b><br/>注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：海南叁人行文化体育交流有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：海南叁人行文化体育交流有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "893",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>「歌者来了-时空奇境音乐超现场」演唱会6/22</strong></p>\n<p><strong>（第1天）</strong></p>\n<p>“歌者来了-时空奇境音乐超现场”Time And Space Wonderland 演唱会将于 6 月 22 日、23 日在广州海心沙亚运公园震撼登场！这场时空奇境音乐超现场将为观众带来连续两天的精彩演出。</p>\n<p>第一天6 月 22 日的演出阵容包括李宇春、黄子韬、王栎鑫、许绍洋、陈嘉桦和张远等 6 组艺人。本次演唱会不仅有强大的艺人阵容，此次整体制作及舞台设计更将结合超时空元素，打造出一个充满时空穿越感的时空奇境，欢迎歌迷朋友们来体验我们梦幻般的时空奇境，与歌者们共同度过一个难忘的音乐超现场。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Thao3Y2GdSbSMTbc3_!!2251059038.png\" width=\"245\" height=\"326\" damai_width=\"245\" damai_height=\"326\"></p>\n<p>&nbsp;</p>\n<p>《魅力的舞台巨星--李宇春》</p>\n<p>李宇春，一位全方位的艺人，华语乐坛的代表人物，在音乐方面其代表作品包括《下个，路口，见》《1991的晚风》《无价之姐》等。这些歌曲享誉华语乐坛，除了音乐，李宇春在影视方面也有所发展，她曾出演过《十月围城》《龙门飞甲》等电影，更展现了她全方位的表演才华。</p>\n<p>此次她应邀参加“歌者来了-时空奇境音乐超现场”，亦将让所有喜爱李宇春的歌迷朋友们再次感受李宇春现场的魅力。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ts0PiF2GdSbPuKKgp_!!2251059038.png\" width=\"245\" height=\"326\" damai_width=\"245\" damai_height=\"326\"></p>\n<p>&nbsp;</p>\n<p>《多才多艺的舞台王者--黄子韬》</p>\n<p>黄子韬，一位影视歌三栖巨星，他才华横溢、充满个性。他凭借在舞台上强大的魅力和独特的表演风格，拥有了无数粉丝的关注和喜爱。</p>\n<p>他的音乐作品风格多样，融合了流行、电子、说唱等元素，展现了他对音乐的独特理解和创造力。他的舞蹈技巧及舞台魅力堪称绝对的舞台王者。</p>\n<p>6月22日，这位舞台王者将带给所有歌迷朋友的什么样的惊喜呢？让我们一起期待他在“歌者来了-时空奇境音乐超现场”的震撼演出吧！</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ufxVEi2GdSbQkMHH9_!!2251059038.png\" width=\"245\" height=\"326\" damai_width=\"245\" damai_height=\"326\"></p>\n<p>&nbsp;</p>\n<p>《舞台上的闪耀之星--王栎鑫》</p>\n<p>王栎鑫，是一位多才多艺的艺人，他在音乐和演艺领域都有着出色的表现。他拥有独特的嗓音和扎实的唱功。他的歌曲风格多样涵盖了种元素，能够展现出不同的情感和氛围。无论是欢快的节奏还是深情的演绎，他都能够完美诠释。</p>\n<p>在演艺方面，王栎鑫也展现出了不俗的演技。他能够准确地理解角色的性格和情感，通过细腻的表演将角色形象栩栩如生地呈现出来。他在影视作品中的表现得到了观众和业内人士的认可，证明了他不仅仅是一名歌手，还是一位有实力的演员。</p>\n<p>我们期待6月22日在“歌者来了-时空奇境音乐超现场”近距离看到王栎鑫的闪耀演出！</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01F3IVzT2GdSbPuLsSp_!!2251059038.png\" width=\"245\" height=\"326\" damai_width=\"245\" damai_height=\"326\"></p>\n<p>&nbsp;</p>\n<p>《偶像剧男神的演艺传奇--许绍洋》</p>\n<p>许绍洋，一个充满魅力与才华的艺人。他在演艺界的旅程堪称精彩绝伦，早年的成长经历为他的演艺之路奠定了坚实的基础。</p>\n<p>许绍洋出生并成长于美国纽约。在成长过程中，他对音乐和表演产生了浓厚的兴趣，并展现出了卓越的天赋。这种早期的培养和熏陶无疑为他未来的演艺事业埋下了伏笔。</p>\n<p>2001 年，他发行了个人首张专辑《A1》，其中的主打歌《熏衣草》成为了他的成名作。这首歌的成功让他声名远扬，同时也为他打开了通往影视领域的大门。在电视剧《熏衣草》和《海豚湾恋人》中的出色表现让他迅速走红，成为炙手可热的偶像剧男主角！</p>\n<p>6月22日在“歌者来了-时空奇境音乐超现场”许绍洋将用他的歌带大家穿越时空回到青春的那些年。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01twYFHu2GdSbRAZjz7_!!2251059038.png\" width=\"245\" height=\"326\" damai_width=\"245\" damai_height=\"326\"></p>\n<p>&nbsp;</p>\n<p>《魅力四溢的灵动精灵—ELLA陈嘉桦》</p>\n<p>陈嘉桦，影视歌多栖全能艺人，陪伴几代人青春的华语女团SHE成员，《乘风2023》年度总冠军。</p>\n<p>她唱跳实力过人，各种风格驾驭自如，极具辨识度的声线，磁性中不失细腻，浑厚中不失温柔。她拍戏则敢于挑战丰富题材，用她极易令人共情的演技，塑造了许多经典角色。综艺、主持领域，她同样有可圈可点的亮眼表现。</p>\n<p>从“初代女团OG”到《乘风2023》年度总冠军，从大大咧咧的“假小子”，成为温柔中亦有力量的全能女艺人！她的音乐作品更是充满着魅力和力量，她的歌声总能让人深深着迷，陈嘉桦在舞台上的魅力四射也总是万众瞩目的焦点。</p>\n<p>这次Ella陈嘉桦在“歌者来了-时空奇境音乐超现场”又将用她的音乐引爆什么样不同的激情燃点呢？6月22日让我们拭目以待！</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01NLGCa42GdSbTfX9wS_!!2251059038.png\" width=\"245\" height=\"326\" damai_width=\"245\" damai_height=\"326\"></p>\n<p>&nbsp;</p>\n<p>《突破极限的音乐追梦人--张远》</p>\n<p>张远，歌手、演员，自出道以来，凭借扎实的唱功和舞台表演能力，赢得了众多粉丝的喜爱。</p>\n<p>&nbsp;</p>\n<p>他的嗓音极具辨识度，高音清澈有力，低音深情醇厚，能够出色地演绎各种风格的歌曲。张远的歌曲作品以情感真挚、歌词动人着称，如《棉花糖》、《嘉宾》等，这些歌曲中表达了关于爱情、友情和成长的诸多感悟。</p>\n<p>&nbsp;</p>\n<p>除了音乐才华外，张远还是一位极具舞台魅力的表演者。他在舞台上的表现总是充满激情和活力，能够与观众产生强烈的共鸣。在参加《创造营 2019》时，虽然已经出道多年，但他依然对舞台有着高度的热情和认真的态度。他在节目中展现出的努力、坚持与成长，也让更多人认识到了他的实力和魅力。</p>\n<p>&nbsp;6月22日“歌者来了-时空奇境音乐超现场”邀请大家来当张远的“嘉宾”！</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01C72mUc2GdSbTfYZLL_!!2251059038.png\" width=\"245\" height=\"326\" damai_width=\"245\" damai_height=\"326\"></p>\n<p>&nbsp;</p>\n<p><strong>「歌者来了-时空奇境音乐超现场」演唱会6/23</strong></p>\n<p><strong>（第2天）</strong></p>\n<p>“歌者来了-时空奇境音乐超现场”Time And Space Wonderland 演唱会将于 6 月 22 日、23 日在广州海心沙亚运公园震撼登场！这场时空奇境音乐超现场将为观众带来连续两天的精彩演出。</p>\n<p>第二天6 月 23 日的演出阵容包括李荣浩、张靓颖、郑恺、林峯、苏醒和魏巡等 6 组艺人。</p>\n<p>本次演唱会不仅有强大的艺人阵容，此次整体制作及舞台设计更将结合超时空元素，打造出一个充满时空穿越感的时空奇境，欢迎歌迷朋友们来体验我们梦幻般的时空奇境，与歌者们共同度过一个难忘的音乐超现场。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01vLyURC2GdSbP8nnWB_!!2251059038.png\" width=\"245\" height=\"326\" damai_width=\"245\" damai_height=\"326\"></p>\n<p>&nbsp;</p>\n<p>《才华横溢的音乐诗人--李荣浩》</p>\n<p>李荣浩，一位备受瞩目的音乐人，以其音乐才华在华语乐坛中占据了不可或缺的一席之地。</p>\n<p>他不仅在作曲和编曲方面展现出了卓越的才华，他的歌词也常常富有诗意和深度。他能够用简洁而有力的文字表达出复杂的情感，让他的歌成为传唱度极高的歌曲。</p>\n<p>李荣浩是一位多才多艺、极具才华的艺人。他的音乐作品和个人魅力都深受歌迷朋友们的喜爱。这次“歌者来了-时空奇境音乐超现场”怎能没有李荣浩的音乐！6月23日我们与李荣浩相约广州海心沙亚运公园，不见不散！</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Vr4N2h2GdSbMPTJ09_!!2251059038.png\" width=\"245\" height=\"326\" damai_width=\"245\" damai_height=\"326\"></p>\n<p>&nbsp;</p>\n<p>《天籁之音的灵魂天后--张靓颖》</p>\n<p>张靓颖，无疑是一位华语乐坛极具影响力的女歌手。 她以独特的嗓音条件和出色的唱功，征服了无数听众。张靓颖高超的唱功让她能够轻松驾驭各种风格的歌曲，曲曲都能展现出其独特的魅力。</p>\n<p>此外，张靓颖还在国际上取得了一定的成就。她曾与多位国际知名音乐人合作，并在全球范围内举办演唱会。她的努力和才华让世界看到了华语音乐的魅力。</p>\n<p>张靓颖的天籁之音跟她的音乐作品不仅给人带来视听上的享受，也能让人感受到情感的共鸣和力量的传递。相信她会继续创造出更多精彩的音乐作品，为华语乐坛发展做出更多贡献。</p>\n<p>这次我们力邀这位拥有天籁之音的歌手来与歌迷朋友们一起共度“歌者来了-时空奇境音乐超现场”，相信有了张靓颖的歌声，6月23日广州海心沙亚运公园的夜晚将美丽璀璨！</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Arl0sc2GdSbNcwRSY_!!2251059038.png\" width=\"245\" height=\"326\" damai_width=\"245\" damai_height=\"326\"></p>\n<p>&nbsp;</p>\n<p>《帅气十足的全能艺人--郑恺》</p>\n<p>郑恺，他是一位全能型的艺人，以其扎实的表演功底而闻名。他能够轻松地驾驭各种角色，无论是喜剧还是正剧，他都能给予角色独特的个性和生命力。</p>\n<p>他在综艺节目中也有出色的表现。他的幽默和机智使他成为观众喜爱的嘉宾，他的活力和热情给节目带来了许多欢乐和亮点。</p>\n<p>郑恺不仅在演艺界有着出色的表现，他的演唱功力也让人惊艳万分！嗓音独特而富有磁性，音域宽广，能够轻松驾驭不同风格的歌曲。他的歌声温暖而富有情感，能够将歌曲中的情感表达得淋漓尽致，亦能够在歌曲中自如地运用各种演唱技巧，使歌声更加富有层次感和表现力。无论是高音的嘹亮激昂，还是低音的深沉醇厚，他都能够演绎得恰到好处，展现出了他作为歌手的专业素养。</p>\n<p>这次是郑恺首次离开银光幕在“歌者来了-时空奇境音乐超现场”与大家见面并演唱他最喜欢的歌曲，6月23日广州海心沙亚运公园我们将用最热烈的掌声来欢迎这位超级嘉宾—郑恺！</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01XeaWFH2GdSbQkVXgp_!!2251059038.png\" width=\"245\" height=\"326\" damai_width=\"245\" damai_height=\"326\"></p>\n<p>&nbsp;</p>\n<p>《蓝调嘻哈的音乐行者--苏醒》</p>\n<p>苏醒，蓝调嘻哈创作歌手，音乐制作人也是主持人，可谓多才多艺。</p>\n<p>&nbsp;苏醒的音乐才华无疑是他最为耀眼的特质之一。他的歌曲充满了创意和个性，融合了蓝调、流行、摇滚、嘻哈等多种元素，形成了独特的音乐风格。</p>\n<p>2007年，参加湖南卫视选秀娱乐节目《快乐男声》，获得西安唱区冠军、全国总决赛亚军，正式出道。2009年，获得中国广播影视大奖中国原创歌曲奖典礼“最受欢迎男歌手奖”。2010年5月，获得年度北京流行音乐典礼年度金曲奖、雪碧音乐榜内地金曲奖。2011年12月获得BQ2011红人榜最佳专辑奖。2012年11月，发行专辑《新故式》，专辑中的歌曲《Hero》获得第二十届中国歌曲排行榜年度金曲。</p>\n<p>2023年8月，启动“2023苏醒WAKE UP巡回演唱会”。10月，参加音乐节目《我们的歌第五季》开播。2024年2月，登上2024年央视春晚舞台。这就是苏醒！</p>\n<p>6月23日“歌者来了-时空奇境音乐超现场”苏醒来了！我们在广州海心沙亚运公园等待着苏醒带给大家他的音乐，他的歌！6月23日见！</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN0188v3zD2GdSbPuVLK9_!!2251059038.png\" width=\"245\" height=\"326\" damai_width=\"245\" damai_height=\"326\"></p>\n<p>&nbsp;</p>\n<p>《唱作俱佳的闪亮新星--魏巡》</p>\n<p>魏巡，一位唱作俱佳的艺人，以其音乐创作及演唱才华在演艺圈中崭露头角。</p>\n<p>在舞台上，魏巡散发着强大的气场和感染力。他的表演充满激情和活力，能够迅速点燃现场观众的热情。无论是歌唱还是舞蹈，他都展现出了非凡的专业水准，让人们深深陶醉在他的魅力之中。</p>\n<p>除了音乐和舞台表演，魏巡还具备出色的创作才华。他能够创作出富有个性和创意的音乐作品，展现出他对音乐的独特理解和感悟。</p>\n<p>魏巡6月23日将在“歌者来了-时空奇境音乐超现场”等大家，魏巡也将用他最具感染力的创作歌曲来回馈给所有喜爱他的歌迷朋友们，6月23日让我们跟着魏巡一起唱跳欢呼！</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01muWEaI2GdSbPuTnih_!!2251059038.png\" width=\"245\" height=\"326\" damai_width=\"245\" damai_height=\"326\"></p>\n<p>&nbsp;</p>\n<p>《魅力无限的发光骄子--林峯》</p>\n<p>林峯，演艺界难得的天之骄子，既是歌者亦是演员，自出道以来，凭借其俊朗的外貌、深沉的嗓音以及卓越的演技，俘获了无数观众的心。</p>\n<p>林峯的演技才华令人瞩目。他可以轻松驾驭多种不同类型的角色，无论是《寻秦记》里年轻的秦始皇、《溏心风暴之家好月圆》中的“管家仔”，还是《使徒行者》中的爆Seed，他都能通过细腻的情感表达和自然的表演风格，将角色形象刻画得入木三分。林峯对待每个角色都全力以赴，用自己的理解赋予了角色生命，近期的电影作品《九龙城寨之围城》更登上各地票房宝座。</p>\n<p>除了演技，他在音乐上的才华更是出众，其代表作《爱在记忆中找你》、《爱不疚》等等，每一首都是金曲代表之作。</p>\n<p>6月23日“歌者来了-时空奇境音乐超现场”第二天，林峯将空降广州海心沙亚运公园现场，所有的粉丝朋友们准备好欢呼声，迎接热力爆棚的—林峯！</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN010T7Cv22GdSbMPYCgm_!!2251059038.png\" width=\"245\" height=\"326\" damai_width=\"245\" damai_height=\"326\"></p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "快递费",
+                        "content": "1.同城10.0元，发货后1-3天到达；省内12.0元，发货后1-3天到达；其他地区18.0元，发货后1-3天到达；澳门、香港、台湾40.0元，发货后1-5天到达。\r\n2.演出前4天不支持快递。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带纸质门票验票入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：身份证/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳台居民居住证/护照/外国人永久居留身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "53305",
+                    "venueName": "广州市海心沙亚运公园",
+                    "venueProvinceName": "广东省",
+                    "venueCityName": "广州市",
+                    "lng": 113.322418,
+                    "lat": 23.111458,
+                    "venueAddr": "海心沙岛",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=800126595616"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D800126595616%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "5387",
+                    "wantNumStr": "5387",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过51%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i3/O1CN01prjtaq1EkCl1Unc3U_!!6000000000389-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1184597/236919543_1683303636149.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01CGzEn91X9XkwbUHlz_!!6000000002881-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1207626/241525354_1685495788252.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01EILqiN1Fsjkn9nzCb_!!6000000000543-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1717228252000",
+                "sellStartTimeStr": "06月01日 15:50",
+                "priceRange": "¥599-¥1699",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8001265956/2/800126595616.jpg"
+            }
+        }
+    }
+}

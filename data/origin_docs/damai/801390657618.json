@@ -1,0 +1,492 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "852",
+    "cityname": "北京",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_801390657618",
+    "imgurl": "-576028016",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "【限时早鸟5折】「经典重现」浪漫爵士LIVE之夜",
+    "nameNoHtml": "【限时早鸟5折】「经典重现」浪漫爵士LIVE之夜",
+    "price": "288.0",
+    "price_str": "288-520",
+    "pricehigh": "520.0",
+    "privilegeTags": "[]",
+    "projectid": "801390657618",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.22 周六 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "三里屯·爱乐汇艺术空间-D3现场(Live&Bar)",
+    "venuecity": "北京",
+    "venueid": "6443050",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01MQ4It02GdSbQghXEW_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "801390657618",
+                    "itemName": "【北京】【限时早鸟5折】「经典重现」浪漫爵士LIVE之夜",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "110100",
+                    "cityName": "北京市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01MQ4It02GdSbQghXEW_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i1/2251059038/O1CN01MQ4It02GdSbQghXEW_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.22 周六 19:30",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：爱乐汇空间艺术(北京)有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：爱乐汇空间艺术(北京)有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "852",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "活动介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><strong><span style=\"color: #ff0000;\">限时早鸟5折</span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"color: #ff0000;\">截至6月7日</span></strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">当夜幕低垂</p>\n<p style=\"text-align: center;\">城市的喧嚣渐渐隐去</p>\n<p style=\"text-align: center;\">欢迎您步入爵士夜的世界</p>\n<p style=\"text-align: center;\">微醺的酒香与悠扬的爵士乐悄然交汇</p>\n<p style=\"text-align: center;\">开启一段悠长的梦境</p>\n<p>&nbsp;</p>\n<p>&nbsp; &nbsp; &nbsp; 爵士乐，这种起源于20世纪初的音乐形式，以其即兴的表现方式和深厚的情感表达，征服了无数音乐爱好者的心。在岁月的流转中，这些经典旋律依旧熠熠生辉，仿佛一杯陈年的美酒，历久弥新。</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><strong>顶尖</strong><strong>的爵士</strong><strong>乐队阵容</strong></p>\n<p>&nbsp; &nbsp; &nbsp; 爵士乐队，每一位成员，都是一个有自己表达风格的发声乐器，人声也如此。每一种乐器都是一个独特的声音载体。我们很荣幸邀请到国内杰出的爵士男歌手——Ronnie罗志杰，他以天赋异禀和充满魅力的音色而闻名，将为大家呈现一场充满灵感和激情的演出。</p>\n<p>&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp; &nbsp; &nbsp; Ronnie的演唱风格充满了爵士乐的底色，从旋律到即兴演奏，他总能自然而然地流露出流动的灵感。不论是经典曲目还是现代作品，他都能找到自己独特的演绎方式。Ronnie的音乐根基深植于爵士乐，天赋加充满魅力的音色也许是对Ronnie的演唱比较贴切的描述，从旋律到即兴演绎，他都能自如地表达自己的音乐灵感。无论是经典名曲还是现代爵士，从高音区到低音区自然流畅的切换和灵动的即兴他总能找到最具个性化的演绎方式。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>经典旋律 </strong><strong>VS</strong><strong>&nbsp;全新演绎</strong></p>\n<p>&nbsp; &nbsp; &nbsp; 开场曲《Blue Skies》，宛如一道明媚的阳光，照亮了整个夜晚的舞台；《Devil May Care》洒脱不羁，展现了爵士乐的自由灵魂；《Hit The Road Jack》的节奏感强烈，瞬间点燃观众的热情。I Wish You Love由爵士音乐人林冰Laufey演绎的弦乐版本清新动人，相信Ronnie和乐队的传统Bossa Nova呈现也会让观众感到被爱意围绕。For Sentimental Reasons是一首被很多大师演绎过的温柔婉转的慢速情歌ballad,Social Call被近年大热的格莱美获奖新星Samara Joy演绎，让这首曲子回到大众视野内，Ronnie的全新演绎版本值得期待。</p>\n<p>&nbsp;</p>\n<p>&nbsp; &nbsp; &nbsp; 当悠扬的《For Sentimental Reasons》响起，那些藏在心底的深情与回忆也随之浮现；《Cheek to Cheek》让我们仿佛置身于甜蜜的双人舞池中，感受爱意的温暖。《Social Call》以其独特的社交属性，将现场气氛推向高潮；《Crazy》则用深情的旋律，表达对爱情的痴狂与执着。紧接着，《Just You, Just Me》的二重奏，描绘出两人间的亲密无间，温馨而浪漫。在《La Vie En Rose》那优雅动听的旋律中，我们仿佛漫步于巴黎的浪漫街头；而压轴曲《Don’t You Worry’Bout A Thing》则以积极向上的旋律，鼓励我们放下烦恼，尽情享受音乐的快乐。</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><strong>阵容介绍</strong></p>\n<p style=\"text-align: center;\">歌手Vocal：罗志杰</p>\n<p style=\"text-align: center;\">键盘Keyboard：童炜</p>\n<p style=\"text-align: center;\">贝斯Bass：李政雄</p>\n<p style=\"text-align: center;\">鼓Drums: 徐沛晨</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>歌手Vocal：罗志杰</strong></p>\n<p style=\"text-align: center;\"><strong><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Yt97TJ2GdSbQktxxE_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></strong></p>\n<p>爵士男歌手。大学期间参加天津青年歌手大赛并成功入围十佳歌手。</p>\n<p>代表天津市青年歌手参加第十三届全运会开幕式演出；</p>\n<p>2017年网易云音乐全国校园歌手大赛 季军；</p>\n<p>2017年由台湾索尼音乐制作团队制作并发行单曲《你》打入中国原创单曲排行榜前50；</p>\n<p>2018中国好声音全国60强 2019受邀参与CCTV3《回声嘹亮》节目录制 并留下翻唱经典作品《女人花》；</p>\n<p>2019受邀参加张肇达《何为东西》画展开幕式暨时装秀开场演出；</p>\n<p>2019中国国际时装周 世凡.张权 城市之光秀场演唱嘉宾。</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><strong>键盘Keyboard：童炜</strong></p>\n<p style=\"text-align: center;\"><strong><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01a7vRzY2GdSbTjwmsE_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></strong></p>\n<p>进修于北京现代⾳乐学院，先后师从爵⼠学院院长宋军光，波兰爵⼠钢琴家Michał Ciesielski 学习 Jazz 钢琴。担任CMA爵⼠⼤乐队、桃园三重奏键盘手。荣获第十届佩利扎罗奖学金第二名，优秀毕业生。</p>\n<p>2020年受邀录制cctv-15节目《一起音乐吧》；</p>\n<p>2021年受邀参与台湖爵士音乐节；</p>\n<p>2022年受邀参与波兰大使馆演出活动；</p>\n<p>2023年参加阿那亚戏剧节演出，黄榕生《冷门的热情》巡演等；</p>\n<p>常年演出于北京知名livehouse: bluenote、the bricks、tokyo lounged等。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>贝斯Bass：李政雄</strong></p>\n<p style=\"text-align: center;\"><strong><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01xWz01P2GdSbRafGKg_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></strong></p>\n<p>毕业于北京现代音乐研修学院。师从于美国电贝斯演奏家jeffrey gilman、double bass演奏家徐广君（ET）老师、金东宁老师、法国贝斯演奏家飞路（Philoo）老师，学习各种类型音乐。</p>\n<p>跟随粟畅学习合奏以及爵士乐理论。</p>\n<p>演出经历：</p>\n<p>2019年施坦威之家北京爵士原创音乐会；</p>\n<p>2020年参加北京卫视跨年晚会《冰雪盛典》的现场录制；</p>\n<p>2021随SWG在其实唱片与Blue note举办大型Swing舞会；</p>\n<p>2021年参加第一届台湖爵士音乐节；</p>\n<p>2022年随SWG录制爵士专辑《Back to swing》；</p>\n<p>2022年8月录制芒果TV《宝贝游戏天籁童声》第二季现场贝斯的录制；</p>\n<p>2022年录制美版王者荣耀与新加坡版绝地求生英雄与人物的主题歌曲；</p>\n<p>2023年参与北京人民艺术剧院由濮存昕导演执导的话剧《海鸥》担任our tango现场贝斯手；</p>\n<p>活跃于北京一线的各种爵士俱乐部如江湖、bricks、东京酒廊、smoke、blue note等。</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01PPh4ZY2GdSbTxzakL_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>毕业于北京现代音乐研修学院，先后师从于姜威、Fiach Ó Briain与Izumi Koga（古贺泉）学习爵士鼓演奏。在校期间曾获校园翻弹大赛一等奖、优秀毕业生等奖项。擅长Jazz、Fusion、Funk等多种音乐风格。曾多次获得福建省各类鼓手大赛奖项，并于2021年10月随五香牛肉乐队前往上海参加JZ爵士高手争霸赛。在校跟随粟畅、张晶、Anthony Vanacore（安咚咚）、Simone Schirru、Nathaniel Gao（高太行）等多位音乐家学习爵士乐演奏。</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><strong>曲目单</strong></p>\n<p style=\"text-align: center;\">Repertoire List</p>\n<p style=\"text-align: center;\">Blue Skies</p>\n<p style=\"text-align: center;\">Devil May Care</p>\n<p style=\"text-align: center;\">Hit The Road Jack</p>\n<p style=\"text-align: center;\">I Wish You Love</p>\n<p style=\"text-align: center;\">Lullaby of Birdland</p>\n<p style=\"text-align: center;\">For Sentimental Reasons</p>\n<p style=\"text-align: center;\">Cheek to Cheek</p>\n<p style=\"text-align: center;\">Social Call</p>\n<p style=\"text-align: center;\">Crazy</p>\n<p style=\"text-align: center;\">Just You,Just me</p>\n<p style=\"text-align: center;\">La Vie En Rose</p>\n<p style=\"text-align: center;\">Don’t You Worry’Bout A Thing</p>\n<p style=\"text-align: center;\">*具体表演曲目及顺序以现场为准</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<h3 style=\"text-align: center;\"><strong>场地介绍</strong></h3>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01L5LS0A2GdSbAIfWBv_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>D3现场</strong></p>\n<p style=\"text-align: center;\">北京最繁华街区的三里屯soho——戏剧酒吧</p>\n<p style=\"text-align: center;\"><strong>灵魂与酒精的碰撞，带你寻找夜生活</strong></p>\n<p style=\"text-align: center;\"><strong>我们以酒会友，零距离感受，沉浸式体验「最in的场」</strong></p>\n<p style=\"text-align: center;\">倾听<strong>最风尚的音乐演出，体会质感的视听美学</strong></p>\n<p style=\"text-align: center;\"><strong>感受戏剧的故事盛宴，开启D3现场的不眠之夜</strong></p>\n<p style=\"text-align: center;\"><strong><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01eAgnh32GdSb7LfVyh_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></strong></p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须兑换成纸质票验票入场，当天请按照【票夹】提示，前往取票点换取纸质票后入场"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "13"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "罗志杰  童炜  李政雄  徐沛晨"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "100"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "6443050",
+                    "venueName": "三里屯·爱乐汇艺术空间-D3现场(Live&Bar)",
+                    "venueProvinceName": "北京",
+                    "venueCityName": "北京市",
+                    "lng": 116.453121,
+                    "lat": 39.931576,
+                    "venueAddr": " 北京市朝阳区三里屯soho 6号商场b1爱乐汇艺术空间D3现场",
+                    "showCountText": "共有11个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D801390657618%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "特惠购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1717128000000",
+                "sellStartTimeStr": "05月31日 12:00",
+                "priceRange": "¥144-¥260",
+                "performBases": [
+                    {
+                        "name": "06.22 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1718985600000",
+                        "performs": [
+                            {
+                                "performId": "214698166",
+                                "performName": "2024-06-22 星期六 19:30",
+                                "itemId": "801390657618",
+                                "projectId": "220440036",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1719055800000",
+                                "performTime": "2024.06.22 19:30",
+                                "performStartDate": "2024-06-22",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "2人套票可省56元",
+                    "折扣"
+                ],
+                "hasItemPromotionTag": "true",
+                "dashPrice": "¥288-¥520",
+                "promotions": [
+                    {
+                        "tag": "2人套票",
+                        "content": "520浪漫双人套票，可省56元"
+                    },
+                    {
+                        "tag": "折扣",
+                        "type": "1",
+                        "content": "288元、520元票价打5折",
+                        "performanceIds": [
+                            "214698166"
+                        ]
+                    }
+                ],
+                "promotionRemark": "您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。",
+                "itemPromotionIds": "65218266113",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "1630146",
+                    "2939586"
+                ],
+                "promotionList": [
+                    {
+                        "type": "ITEM_DISCOUNT",
+                        "tag": "折扣",
+                        "isTagList": "false",
+                        "desc": "¥288票档，5折，到手¥144"
+                    },
+                    {
+                        "type": "COMBINE",
+                        "tag": "套票",
+                        "isTagList": "false",
+                        "desc": "2人套票9折，到手¥520(票档¥288x2)"
+                    }
+                ],
+                "promotionDetail": {
+                    "skuPromotionRelations": "801390657618&214698166&5460001489886_65218266113@5460001489887_65218266113",
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "1",
+                            "promotionGroupTypeDesc": "票档优惠",
+                            "promotionList": [
+                                {
+                                    "promotionType": "2",
+                                    "promotionTag": "折扣",
+                                    "promotionContentList": [
+                                        "¥288票档，5折，到手¥144",
+                                        "¥520票档，5折，到手¥260"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "¥520",
+                                            "displayContent": "5折，到手¥260"
+                                        },
+                                        {
+                                            "skuName": "¥288",
+                                            "displayContent": "5折，到手¥144"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "promotionType": "3",
+                                    "promotionTag": "套票",
+                                    "promotionContentList": [
+                                        "2人套票9折，到手¥520(票档¥288x2)"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "9折，到手520（票档¥288x2）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8013906576/2/801390657618.jpg"
+            }
+        }
+    }
+}

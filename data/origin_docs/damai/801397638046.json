@@ -1,0 +1,447 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "852",
+    "cityname": "北京",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_801397638046",
+    "imgurl": "-575958212",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "北京 | 6.16  BNCJO父亲节特别企划：Song for My Father",
+    "nameNoHtml": "北京 | 6.16 BNCJO父亲节特别企划：Song for My Father",
+    "price": "360.0",
+    "price_str": "360-880",
+    "pricehigh": "880.0",
+    "privilegeTags": "[]",
+    "projectid": "801397638046",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.16 周日 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "Blue Note Beijing 爵士乐俱乐部",
+    "venuecity": "北京",
+    "venueid": "61359",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01WWX76y2GdSbW0rmvC_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "801397638046",
+                    "itemName": "【北京】北京 | 6.16  BNCJO父亲节特别企划：Song for My Father",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "110100",
+                    "cityName": "北京市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01WWX76y2GdSbW0rmvC_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i4/2251059038/O1CN01WWX76y2GdSbW0rmvC_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.16 周日 20:00",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票",
+                            "tagDesc": "本项目需实名制购票，购票完成后观演人信息不可更改。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "纸质发票",
+                            "tagDesc": "发票开具方：北京瀛寰文化传媒有限公司\r\n本项目支持开具纸质发票，该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并邮寄至收货地址，需自付邮费",
+                            "tagDescWithStyle": "<b>发票开具方：北京瀛寰文化传媒有限公司</b><br>本项目支持开具纸质发票，该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并邮寄至收货地址，需自付邮费",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "852",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01tnvHXx2GdSbQ5xatt_!!2251059038.png\" width=\"800\" height=\"800\" damai_width=\"800\" damai_height=\"800\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i36.79dd6b72UIjj4c\"></p><p style=\"text-align: center;\"><span>《</span><strong><span>Song for My Father</span></strong><span>》的歌词通过孩子的眼睛描绘了一位慈爱的父亲：</span></p><p style=\"text-align: center;\"><span>“</span><span><span>If there was ever a man</span></span><span>&nbsp;</span><span>如果世上有一个男人，</span><span><br></span><span><span>Who was generous, gracious, and good</span></span><span>&nbsp;</span><span>他慷慨、仁慈、善良，</span><span><br></span><span><span>That was my dad, the man!</span></span><span>&nbsp;</span><span>那就是我爸爸！</span><span>”</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01QptlLW2GdSbWjtmNK_!!2251059038.png\" width=\"971\" height=\"781\" damai_width=\"971\" damai_height=\"781\"></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i38.79dd6b72UIjj4c\" style=\"text-align: center;\"><span>霍勒斯·西尔弗</span><span><span>（</span></span><span><span>Horace Silver</span></span><span><span>）</span></span><span>的《</span><strong><span>Song for My Father</span></strong><span>》是一首永恒的爵士乐经典，</span><span>是</span><span>西尔弗</span><span>献给</span><span>父亲</span><span>的一首歌曲</span><span>。西尔弗</span><span>的父亲于<span>&nbsp;</span><span>1900<span>&nbsp;</span></span>年左右出生在佛得角马约岛，他的照片</span><span>被用于</span><span>1964</span><span>年<span>&nbsp;</span><span>Blue Note Records<span>&nbsp;</span></span>发行的《<span>Song For My Father</span></span><span><span>》</span></span><span>作为专辑封面</span><span><span>。</span></span><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01748MQE2GdSbUPuIXa_!!2251059038.png\" width=\"924\" height=\"747\" damai_width=\"924\" damai_height=\"747\"></p><p style=\"text-align: center;\"><span>“我的母亲是爱尔兰和黑人后裔，我的父亲是葡萄牙后裔，”</span></p><p style=\"text-align: center;\"><span>据</span><span>西尔弗</span><span><span>所说，</span><span>“爸爸会拉小提琴、弹吉他和曼陀林，完全凭听觉。他喜欢佛得角的民间音乐……有时，他们会在周六晚于家中厨房里举行舞会。他们把厨房桌子推到房间的角落，为跳舞腾出空间，爸爸和他的朋友们则提供音乐，弹奏和演唱所有古老的佛得角歌曲。”</span></span></p><p style=\"text-align: center;\"><span>这首歌曲不仅融合了</span><span>西尔弗</span><span>的蓝调摇摆钢琴与他父亲的佛得角民间音乐</span><span><span>，</span></span><span>曲目中也可以捕捉到波萨诺瓦节奏的精神。</span></p><p style=\"text-align: center;\"><span><span>在他</span><span>2006</span><span>年出版的自传《让我们直面现实》</span></span><span><span>（</span></span><span>Let's Get to the Nitty Gritty</span><span><span>）</span></span><span>中，西尔弗回忆</span><span>起</span><span><span>在</span><span>1964<span>&nbsp;</span></span><span>年录制这张标志性唱片</span></span><span>时写道</span><span><span>：</span></span><span>“拜访塞尔吉奥</span><span><span>（</span></span><span>Sergio</span><span><span>）</span></span><span><span>和鼓手多姆</span><span>·乌姆</span></span><span><span>（</span></span><span><span>Dom Um</span></span><span><span>）</span></span><span>后回到纽约，我</span><span>依然沉浸在</span><span>巴西听到的波萨诺瓦节奏</span><span>中</span><span><span>。所以我对自己说，</span><span>‘我要试着用这种节奏概念写一首歌。’我坐在钢琴前几个小时，想出了一首用波萨诺瓦节奏的新歌。然而，旋律对我来说听起来不像巴西的</span></span><span><span>，</span></span><span>更像我爸爸演奏过的一些古老的佛得角旋律。</span><span>我的</span><span>爸爸一直想让我把一些古老的佛得角歌曲改编成爵士乐。当我意识到我用巴西节奏概念和佛得角旋律概念写了一首新歌时，我立即想到要把这首歌献给爸爸。所以我把它命名为《</span><span>Song for My Father</span><span>》。</span></p><p style=\"text-align: center;\"><span>6</span><span>月</span><span>16</span><span>日</span><span><span>，</span></span><span><span>BNCJO</span><span>也将特别呈现大乐队版本的</span></span><span>《</span><span><span>Song For My Father</span></span><span>》</span><span><span>，</span></span><span>无论您是经验丰富的爵士乐迷还是爵士乐新手，《</span><span><span>Song For My Father</span></span><span>》都是必听之作，</span><span>这是一首听一次就不能忘怀的旋律</span><span><span>，</span></span><span>持续</span><span>数天打拍子并哼唱</span><span>的</span><span>曲调。</span></p><p style=\"text-align: center;\"><span>在这个特别的父亲节，我们诚邀您与我们一同度过一个充满音乐与爱意的夜晚。让音乐传递我们的爱与感激，带上您的父亲或与</span><span>家人</span><span>，共同庆祝这个特别的节日。让动人的旋律成为我们心中永恒的记忆。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01m2a5jc2GdSbSpNjFH_!!2251059038.png\" width=\"1080\" height=\"199\" damai_width=\"1080\" damai_height=\"199\"></p><p style=\"text-align: center;\">Alianza</p><p style=\"text-align: center;\">Coming About</p><p style=\"text-align: center;\">Greetings And Salutations</p><p style=\"text-align: center;\">Night Whtchman</p><p style=\"text-align: center;\">Song For My Father</p><p style=\"text-align: center;\">Stargazer</p><p style=\"text-align: center;\">Toys</p><p style=\"text-align: center;\">When You Wish Upon a Star</p><p style=\"text-align: center;\">德胜门箭楼</p><p style=\"text-align: center;\">西直门</p><p style=\"text-align: center;\">Faraway Place</p><p style=\"text-align: center;\">*最终演出曲目及顺序以当天演出为准*</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01LRWDZf2GdSbWjwbJd_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i42.79dd6b72UIjj4c\"></p><p style=\"text-align: center;\">Presented by Blue Note China Jazz Orchestra</p><p style=\"text-align: center;\">Blue Note China Jazz Orchestra</p><p style=\"text-align: center;\">音乐总监：杨明</p><p style=\"text-align: center;\">指挥：王凯基</p><p style=\"text-align: center;\">&nbsp;<br></p><p style=\"text-align: center;\">Saxophones 萨克斯声部</p><p style=\"text-align: center;\">孟庆泽</p><p style=\"text-align: center;\">王宗兴</p><p style=\"text-align: center;\">张燕歆</p><p style=\"text-align: center;\">刘晓光</p><p style=\"text-align: center;\">姬圣达</p><p style=\"text-align: center;\">&nbsp;<br></p><p style=\"text-align: center;\">Trumpets 小号声部</p><p style=\"text-align: center;\">毛沛卿</p><p style=\"text-align: center;\">刘楠乔</p><p style=\"text-align: center;\">何浩诚</p><p style=\"text-align: center;\">孙敦隆</p><p style=\"text-align: center;\">&nbsp;<br></p><p style=\"text-align: center;\">Trombones 长号声部</p><p style=\"text-align: center;\">杨明</p><p style=\"text-align: center;\">侯煜</p><p style=\"text-align: center;\">王超然</p><p style=\"text-align: center;\">周敬轩</p><p style=\"text-align: center;\">&nbsp;<br></p><p style=\"text-align: center;\">Rhythm Section 节奏组</p><p style=\"text-align: center;\">钢琴：刘凯</p><p style=\"text-align: center;\">贝斯：大中</p><p style=\"text-align: center;\">吉他：秦健喃</p><p style=\"text-align: center;\">鼓：高可超</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01cqYSna2GdSbQ5xWmv_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i45.79dd6b72UIjj4c\"></p><p style=\"text-align: center;\">日期：2024年6月16日（周日）</p><p style=\"text-align: center;\">入场时间：18:30</p><p style=\"text-align: center;\">演出时间：20:00</p><p style=\"text-align: center;\">地址：前门东大街23号 Blue Note Beijing</p><p style=\"text-align: center;\">建议停车至前门23号院内（少量车位）；</p><p style=\"text-align: center;\">或前门东大街观旗宾馆收费停车场，步行过地下通道即可到达院内。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01OBd0RS2GdSbRJze7X_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">单人座席&nbsp;¥ 360</p><p style=\"text-align: center;\">（含指定威士忌或红酒一杯）</p><p style=\"text-align: center;\">&nbsp;<br></p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i50.79dd6b72UIjj4c\">家庭套票&nbsp;¥ 880</p><p style=\"text-align: center;\">（含3张门票+2杯指定威士忌或红酒+1杯无酒精软饮）</p><p style=\"text-align: center;\">&nbsp;<br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01m2eq4v2GdSbTaCUXm_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">1.所有网上购买套餐观众请携带购票二维码到前台换取当日演出门票，凭票入场。门票一经出售，概不退换。</p><p style=\"text-align: center;\">2.现场座位采取\"先到先得\"的方式，具体座位由前台工作人员进行安排。部分座位视线会受较大阻挡，建议购买套餐客人提早入场至前台选座。</p><p style=\"text-align: center;\">3. 观众凭前台换取的桌卡进入演出场地，由服务人员引领至相应座位入座。</p><p style=\"text-align: center;\">4. 因场地座位有限，会有拼桌现象，敬请谅解。</p><p style=\"text-align: center;\">5. 儿童观演须购买套餐并由家长陪同入场，请家长善尽监护义务，禁止儿童在观众席内嬉闹，以免影响其他客人。</p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i14.3a746b72jA7GL5\">6. Blue Note Beijing提供餐饮服务，入场后即可点餐。谢绝自带食品与酒水进入场地。</p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i13.3a746b72jA7GL5\">7、开车观众可将车停至前门23号院内（车位有限，建议提前到场）；如院内没有车位可将车辆停在前门东大街道路两侧市政收费车位或观旗宾馆收费停车场，步行即可到达院内。</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "北京瀛寰文化传媒有限公司",
+                            "socialCreditCode": "9111010158250075XB",
+                            "legalPerson": "高杉",
+                            "regCapStr": "3000万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "其他有限责任公司",
+                            "entAddress": "北京市东城区建国门内大街18号25层办公楼一座2501-1"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。演出结束后1个月左右邮寄给你，需自付邮费。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。演出结束后1个月左右邮寄给你，需自付邮费。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/身份证/护照/港澳居民来往内地通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约90分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ]
+                },
+                "venue": {
+                    "venueId": "61359",
+                    "venueName": "Blue Note Beijing 爵士乐俱乐部",
+                    "venueProvinceName": "北京",
+                    "venueCityName": "北京市",
+                    "lng": 116.40107,
+                    "lat": 39.901339,
+                    "venueAddr": "北京市东城区东华门街道北京市人民政府天安门地区管理委员会(东交民巷)",
+                    "showCountText": "共有5个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D801397638046%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1717151201000",
+                "sellStartTimeStr": "05月31日 18:26",
+                "priceRange": "¥360-¥880",
+                "performBases": [
+                    {
+                        "name": "06.16 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1718467200000",
+                        "performs": [
+                            {
+                                "performId": "214788037",
+                                "performName": "2024-06-16 周日 20:00",
+                                "itemId": "801397638046",
+                                "projectId": "220552016",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1718539200000",
+                                "performTime": "2024.06.16 20:00",
+                                "performStartDate": "2024-06-16",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8013976380/2/801397638046.jpg"
+            }
+        }
+    }
+}
