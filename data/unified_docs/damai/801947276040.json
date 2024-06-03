@@ -1,0 +1,64 @@
+{
+    "platform": "大麦",
+    "project_id": "801947276040",
+    "project_name": "苏运莹「圆与自然」2024个人音乐会 合肥站",
+    "category_name": "演唱会",
+    "artists": [
+        "苏运莹"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.03 周六 20:00",
+    "session_time": [
+        "08.03 周六"
+    ],
+    "price": "288-588",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "合肥",
+    "venue_name": "合肥九莱福",
+    "venue_info": {
+        "venue_address": "安徽省合肥市包河区金寨路310号合柴1972文创园区C-1号",
+        "lng": 117.245358,
+        "lat": 31.797788
+    },
+    "project_info": "苏运莹「圆与自然」2024个人音乐会 合肥站\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01atAJhl2GdSbUcLKyp_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01e8AQ9y2GdSbTPtQKP_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "287",
+        "wantNumStr": "287",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "801947276040",
+            "cityName": "合肥站",
+            "showTime": "08.03"
+        },
+        {
+            "itemId": "773654451955",
+            "cityName": "北京站",
+            "showTime": "06.22"
+        },
+        {
+            "itemId": "784665451080",
+            "cityName": "武汉站",
+            "showTime": "07.06"
+        },
+        {
+            "itemId": "784239078529",
+            "cityName": "济南站",
+            "showTime": "07.13"
+        },
+        {
+            "itemId": "786776602810",
+            "cityName": "深圳站",
+            "showTime": "07.20"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=801947276040"
+}

@@ -1,0 +1,655 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：蔡健雅",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "586",
+    "cityname": "武汉",
+    "couponTags": "[]",
+    "description": "艺人：蔡健雅",
+    "id": "1_1_800626208712",
+    "imgurl": "-583672505",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "蔡健雅“Let’s Depart！给世界最悠长的吻”巡回演唱会-武汉站",
+    "nameNoHtml": "蔡健雅“Let’s Depart！给世界最悠长的吻”巡回演唱会-武汉站",
+    "price": "399.0",
+    "price_str": "399-1099",
+    "pricehigh": "1099.0",
+    "privilegeTags": "[]",
+    "projectid": "800626208712",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.07.27 周六 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "光谷国际网球中心",
+    "venuecity": "武汉",
+    "venueid": "57339",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01zOm0Xb2GdSbQgdjiE_!!0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "800626208712",
+                    "itemName": "【武汉】蔡健雅“Let’s Depart！给世界最悠长的吻”巡回演唱会-武汉站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "420100",
+                    "cityName": "武汉市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01zOm0Xb2GdSbQgdjiE_!!0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i1/2251059038/O1CN01zOm0Xb2GdSbQgdjiE_!!0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.07.27 周六 19:30",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京大麦文化传媒发展有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：北京大麦文化传媒发展有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "586",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>蔡健雅“Let’s Depart！给世界最悠长的吻”</strong></p>\n<p><strong>巡回演唱会-武汉站&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>终于，世界再度张开双手。你是不是，也在期待, 久违的出走？</p>\n<p>2021 年《给世界最悠长的吻》演唱会，Tanya 说：「世界是一面镜子，镜子里的是你和我。每当你回应世界的时候，世界也在回应着你。」然而，后来好长一段时间，世界彷彿被按下暂停键，我们在镜子里，暂时只能看见自己。</p>\n<p>尽管身体被限制，灵魂仍是自由的。世界以静止的姿态，让每个人照见纯粹的自己。于是，Tanya 写下《DEPART》专辑。用音符、旋律及歌声，作为传递幸福的 Bluebird，抚慰了一同走过这段崩坏重生的每一颗心。如今，世界的轨道开始重新运转，你准备好了吗？给自己的身心灵，一次久违的出走，一起完成那个想要给世界，未竟的悠长的吻。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01qLxta92GdSbPyD3yA_!!2251059038.jpg\" width=\"737\" height=\"1106\" damai_width=\"737\" damai_height=\"1106\"></p>\n<p>这一次，让我们一起拥抱所有的美好，再一次发自内心的微笑，也拥抱所有的缺憾吧！在期待的完美和不完美之间找个平衡自己的方式，收集曾获得的所有爱，然后再十倍的分享出去，爱自己，爱彼此，也爱世界，一起给世界最悠长的吻。</p>\n<p>&nbsp;</p>\n<p>曾经，你听着「抛物线」或「空白格」哭掉十万毫升泪水。或是听着「天使与魔鬼的对话」分析自己的冲突和矛盾。在「说到爱」和「Beautiful Love」中找回希望、再次出发，而「达尔文」的吉它声一响起，就像带你找回最初自己的心，因为我们都想进化成更好的人。而这一次的「出走」，我们都已经更懂得放下束缚「让浪漫作主」。每一首歌，都是 Tanya灵感小宇宙的火山爆发，每一次的演唱会，都串起了你和她共同进化的旅程，也是我们一起写下，一起分享的故事。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01pQCxYk2GdSbIclBVQ_!!2251059038.jpg\" width=\"1107\" height=\"738\" damai_width=\"1107\" damai_height=\"738\"></p>\n<p>2024年，Tanya 带着更轻松自信的微笑，将那些你最熟悉的经典歌曲灌注全新的生命力，也将你未曾现场听过的新歌真挚传递，她要将她丰沛饱满的温暖能量，透过音乐折射出各色光芒，也希望能感受到从现场每一双眼睛、每一对耳朵、每一张脸，映照回应的温暖力量。因为「世界是一面镜子」，而这一次镜子里，有你，也有我。</p>\n<p>&nbsp;</p>\n<p>准备好了吗？Let’s Depart! 给世界最悠长的吻</p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：身份证/外国人永久居留身份证/护照/台湾居民来往大陆通行证/港澳台居民居住证/港澳居民来往内地通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "蔡健雅"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "57339",
+                    "venueName": "光谷国际网球中心",
+                    "venueProvinceName": "湖北省",
+                    "venueCityName": "武汉市",
+                    "lng": 114.462419,
+                    "lat": 30.474901,
+                    "venueAddr": "湖北省武汉市东湖高新区高新二路附近",
+                    "showCountText": "共有3个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "800626208712",
+                        "cityName": "武汉站",
+                        "showTime": "07.27",
+                        "tourId": "4008"
+                    },
+                    {
+                        "itemId": "785126594013",
+                        "cityName": "杭州站",
+                        "showTime": "06.15",
+                        "tourId": "4008"
+                    },
+                    {
+                        "itemId": "784437285457",
+                        "cityName": "厦门站",
+                        "showTime": "06.29",
+                        "tourId": "4008"
+                    },
+                    {
+                        "itemId": "787103423710",
+                        "cityName": "重庆站",
+                        "showTime": "07.20",
+                        "tourId": "4008"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=800626208712"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D800626208712%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "2115",
+                        "artistName": "蔡健雅",
+                        "archives": "知名新加坡歌手、词曲作者。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1571104925632/1571104925632-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "2115",
+                        "name": "蔡健雅",
+                        "desc": "知名新加坡歌手、词曲作者。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1571104925632/1571104925632-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "8839",
+                    "wantNumStr": "8839",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过63%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01bMZ0oW1WC0GXqoK9h_!!6000000002751-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2499405/499881131_1717071864088.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN0167wNGr1OXyL74kuTP_!!6000000001716-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1132078/226415688_1677512851782.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN013n7KRC1TtZ5bYGxgR_!!6000000002440-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「开售提醒」</span>购票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "24890712314",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1684376487748/1684376487748-main.jpg",
+                    "note": "每一次的演唱会，都串起了你和她共同进化的旅程，也是我们一起写下，一起分享的故事。",
+                    "categoryName": "其他",
+                    "title": "蔡健雅“LET’S DEPART!给世界最悠长的吻”演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊",
+                "inFieldComments": [
+                    {
+                        "id": "14389706",
+                        "comment": "蔡健雅的现场",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/8dd8f315072c4848a457d557e7fb2252.jpg",
+                        "nickName": "她是我的完美谢幕",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1172435/234487097_1706583711448.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13880521",
+                        "comment": "我要给世界最悠长的湿吻-蔡健雅\n\n之前蔡健雅这个名字对我来说， 不算陌生， 只是除了那几首大热门单曲， 倒是很少完整听完她的整张专辑。这次恰逢年底女歌手厮杀得厉害， 就决定好好听一下蔡健雅这张新专辑。个人认为， 一张专辑，除了强大的企划和概念之外， 所有歌曲能让人记住并且产生享受和共鸣很重要。耐心地听完三遍，这张专辑个人打分3星半， 专辑名字《我要给这个世界最悠长的湿吻》， 第一眼看到它的时候感觉有点难以消化， 后来才慢慢感受到， 它是为了表达一种与自然亲密接触， 与自我对话的感觉。抛开外界的抄袭传言不说， 虽然整张专辑的歌单从旋律来讲， 能让人印象深刻的并不多， 可是正如蔡健雅所说， 这是一张适合一个人公路旅行时戴上耳机整理思绪静静地当作背景音乐的专辑。\n\t\n她的歌， 总有一种动人的温度。她的声音， 在纷杂的乐坛里极具标识性。音域宽广却无需特意在自己的歌里炫技的蔡健雅， 是当之无愧的歌后。\n\t\n蔡健雅凭借着风格独特的曲风和朴实真挚的感情， 八次入围金曲奖提名， 收获三座金曲奖杯， 成为了“金曲三冠王”。\n\t\n❤️你1️⃣万年 つ😘つ つ😘つ つ😘つ「我想对你说的话」：我从未想过有一天我真的可以听到她在弹吉他， 在唱歌， 她就这么真实地站在耀眼的舞台里， 站在我目光所及的地方里， 唱着我爱的歌曲。我会一直支持你的！！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/b6d6a0b7f49049a688f7dd6b4446a62d.jpeg",
+                        "nickName": "真的假的,我太烦了",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1106821/221364289_1705373392605.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13722484",
+                        "comment": "蔡健雅｜该怎么形容你才贴切\n\n🎵把音乐带入我的世界，梦回蔡健雅演唱会现场。\n\n📍坐标：上海浦东东方体育中心\n\n🏟️场馆：场馆内的位置距离都比较近，坐在前区蔡健雅也很清楚站在面前。\n\n💭舞台：很轻松很好的氛围，仿佛只是一个人在静静地听着的蔡健雅和你用音乐在交流在聊天。现场氛围很不错，真的很喜欢～\n\n🎵音乐：特别录了红色高跟鞋这首歌，真的太好听了，以前常常KTV唱！真的太棒了～很喜欢！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/d0ec4449618f4bac84614c5e169d49d8.jpeg",
+                        "nickName": "小林三岁-",
+                        "userPic": "https://perico.damai.cn/userheadphotos/198167/39633480.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13697992",
+                        "comment": "为数不多喜欢的流行乐歌手，开票第三天在大麦上捡漏到🎫，结果昨天才出票给我，严重怀疑大麦也在搞超卖投机倒把[鄙视]还好还是那个独立有个性想法又细腻观察世界的Tanya，全程没有用program，除了两三首吧两个半小时的歌全都重新改编过了，这创新力度想想自己已经想躺平了，我需要努力去进化成更好的人（达尔文）[加油]当然这种程度改编的后果就是大家想合唱但都不在拍上了，哑火了[捂脸]给上海一个悠长的💋",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/837a584be64148c6b63c68ba1f180408.jpeg",
+                        "nickName": "petercasso",
+                        "userPic": "https://perico.damai.cn/userheadphotos/4609/921970.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13684967",
+                        "comment": "东体的看台有扶手，很尴尬，开场有段时间了，一帮人跟逛街似的，来来回回，有个女的被占座了，找保安求助，保安和她站在挡住观众视野的地方讨论，观众提醒，保安很不耐烦的说马上就好，大家一个劲的提醒可以到后面不挡视线的地方去讨论才走。其他好的地方，没想到蔡健雅的歌迷男粉很多，男女歌迷很会穿，看起来都有文艺气息，蔡健雅确实会唱，也唱嗨了，舞台精美，很多金曲，第一次发现蔡健雅的歌很有力量，听完后会豁然开朗，很舒服，不像苦情歌。今晚上海三场，陈奕迅，五月天还有蔡健雅，蔡健雅说到陈奕迅时还以为会唱多少，没唱，其他大热曲都唱了，闪光灯星海，手挥的酸，很值，心情舒畅",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/1bfc01da949b4ce08114aa6dba0eaca5.jpeg",
+                        "nickName": "yikunguanxi",
+                        "userPic": "https://perico.damai.cn/userheadphotos/755006/151001304.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    }
+                ]
+            },
+            "item": {
+                "buyBtnStatus": "90",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "13",
+                "sellStartTime": "1717307824000",
+                "sellStartTimeStr": "06月02日 13:57",
+                "priceRange": "¥399-¥1099",
+                "performBases": [
+                    {
+                        "name": "07.27 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1722009600000",
+                        "performs": [
+                            {
+                                "performId": "214637210",
+                                "performName": "2024-07-27  周六 19:30",
+                                "itemId": "800626208712",
+                                "projectId": "220451030",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1722079800000",
+                                "performTime": "2024.07.27 19:30",
+                                "performStartDate": "2024-07-27",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8006262087/2/800626208712.jpg"
+            }
+        }
+    }
+}

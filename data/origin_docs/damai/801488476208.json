@@ -1,0 +1,459 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1038",
+    "cityname": "南京",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_801488476208",
+    "imgurl": "-575049830",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "法国SKA著名乐团SKARFACE巡回南京站",
+    "nameNoHtml": "法国SKA著名乐团SKARFACE巡回南京站",
+    "price": "150.0",
+    "price_str": "150-240",
+    "pricehigh": "240.0",
+    "privilegeTags": "[]",
+    "projectid": "801488476208",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.30 周日 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "Owl Voice猫头鹰空间",
+    "venuecity": "南京",
+    "venueid": "60877",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01EAWsoN2GdSbUrlbeK_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "801488476208",
+                    "itemName": "【南京】法国SKA著名乐团SKARFACE巡回南京站",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "320100",
+                    "cityName": "南京市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01EAWsoN2GdSbUrlbeK_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i2/2251059038/O1CN01EAWsoN2GdSbUrlbeK_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.30 周日 20:00",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：成都太合乐动科技有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：成都太合乐动科技有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1038",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "活动介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><span style=\"font-size: 16px;\">LiveGigs呈现 | ▀▄▀▄▀法国SKA著名乐团SKARFACE中国巡回南京站▀▄▀▄▀</span></p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01rroZQZ2GdSbVbHPU9_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: center;\">【<strong>LiveGigs现场秀呈现</strong>】</p>\n<p style=\"text-align: center;\"><strong>法国SKARFACE 2024 CHINA TOUR</strong></p>\n<p style=\"text-align: center;\"><strong>南京站巡演特别嘉宾：THE NONAME無名、灰汁团</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01x5ibNb2GdSbQBFtIQ_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"990\" damai_width=\"null\" damai_height=\"null\"></strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>场次信息</strong></p>\n<p style=\"text-align: center;\">6月22日周六 香港 Soho House&nbsp;</p>\n<p style=\"text-align: center;\">w/&nbsp;General Lino &amp; The Captains</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>6月23日周日&nbsp;佛山 MyWork Live</strong></p>\n<p style=\"text-align: center;\">w/ 紫铜</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">6月25日周二&nbsp;<strong>北京 IMAGINE想象空间</strong></p>\n<p style=\"text-align: center;\">w/ THE NONAME無名、Uncle Bad坏叔叔</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">6月27日周四 武汉<strong>&nbsp;VOX LIVEHOUSE</strong></p>\n<p style=\"text-align: center;\">w/ Sky King Jack</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">6月28日周五 杭州<strong>&nbsp;9 CLUB酒球会</strong></p>\n<p style=\"text-align: center;\">Ska Music Festival</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">6月29日周六 上海<strong>&nbsp;Bandai NAMCO 未来剧场</strong></p>\n<p style=\"text-align: center;\">w/ THE NONAME無名、硬鸡</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">6月30日周日 南京<strong> Owl Voice 猫头鹰空间</strong></p>\n<p style=\"text-align: center;\">w/ THE NONAME無名、灰汁团</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>票价</strong><strong>（香港、杭州站除外）</strong></p>\n<p style=\"text-align: center;\">预售150元 预售双人260元 全价180元</p>\n<p style=\"text-align: center;\">VIP票220元（含CD一张及签名合影）</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ctfzsG2GdSbPpGzgc_!!2251059038.png\" alt=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;*购票提示</p>\n<p style=\"text-align: center;\">门票为有价证券非普通商品，具有极强的的实效性和有限性，</p>\n<p style=\"text-align: center;\">不适用7天无理由退换货规则。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">▀▄▀▄▀<span style=\"color: #e67e23; font-size: 18px;\"><strong>SKARFACE</strong></span>▀▄▀▄▀</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN0154AjKY2GdSbSVjF6j_!!2251059038.png\" alt=\"\" width=\"640\" height=\"427\" damai_width=\"null\" damai_height=\"null\"></p>\n<div style=\"text-align: center;\">\n<p class=\"p\" align=\"center\">自1991年以来33年的Ska音乐生涯从未止步！&nbsp;</p>\n</div>\n<div style=\"text-align: center;\">\n<p class=\"p\" align=\"center\">发行过13 张全长专辑，超过200首单曲的法国著名</p>\n</div>\n<div style=\"text-align: center;\">\n<p class=\"p\" align=\"center\">SKA PUNK/NEW WAVE乐队<strong><span class=\"15\">SKARFACE</span></strong></p>\n</div>\n<div style=\"text-align: center;\">\n<p class=\"p\" align=\"center\">在时隔18年后2024年再次躁访中国！</p>\n</div>\n<div style=\"text-align: center;\">\n<p class=\"p\" align=\"center\">乐队这些年来一直在巡演的路上，</p>\n</div>\n<div style=\"text-align: center;\">\n<p class=\"p\" align=\"center\">在四大洲共计举办了2000多场演出。</p>\n</div>\n<div style=\"text-align: center;\">\n<p class=\"p\" align=\"center\">从中国（2006年）到澳大利亚，包括加拿大、美国、日本、</p>\n</div>\n<div style=\"text-align: center;\">\n<p class=\"p\" align=\"center\">俄罗斯和欧洲所有国家......</p>\n<p class=\"p\" align=\"center\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN012a563V2GdSbTofLyG_!!2251059038.png\" alt=\"\" width=\"640\" height=\"480\" damai_width=\"null\" damai_height=\"null\"></p>\n</div>\n<p class=\"p\" style=\"text-align: center;\" align=\"center\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01fcfMNB2GdSbTgxHm3_!!2251059038.png\" alt=\"\" width=\"640\" height=\"480\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: center;\">（2006中国巡演）</p>\n<p style=\"text-align: center;\">乐队33周年的最新专辑刚刚发行，16 首爆炸性的新曲目，</p>\n<p style=\"text-align: center;\">可以说是迄今为止最有活力的、时代的标志SKA音乐。</p>\n<p style=\"text-align: center;\">本次巡演也将以“最好的SKARFACE”中国限量版本专辑发行：</p>\n<p style=\"text-align: center;\">包含最新及最经典的乐队优秀21首作品。</p>\n<p style=\"text-align: center;\">作为融合60's Ska、70's Punk及New Wave音乐风格的先驱乐队，</p>\n<p style=\"text-align: center;\">Skarface始终寻求开放的潮流新式思维，并不满足于成为一支</p>\n<p style=\"text-align: center;\">格式化的单一风格乐队。</p>\n<p style=\"text-align: center;\">时代在变，但Skarface将一如既往地在路上，带来和平与爱、</p>\n<p style=\"text-align: center;\">但拥有创造性精神的SKA音乐。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01PTNfWf2GdSbS44owR_!!2251059038.png\" alt=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01c9pY0C2GdSbTogQWe_!!2251059038.png\" alt=\"\" width=\"640\" height=\"660\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: center;\">巡演限量TEE（售完为止）</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">▀▄▀▄▀<span style=\"color: #169179;\"><strong><span style=\"font-size: 16px;\">THE NONAME無名</span></strong></span>▀▄▀▄▀</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01lbQjP92GdSbS45QM3_!!2251059038.png\" alt=\"\" width=\"300\" height=\"151\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01hTZqnQ2GdSbUtBQXx_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"504\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: center;\">中国不仅有功夫电影也有最火爆的朋克摇滚风暴，</p>\n<p style=\"text-align: center;\">这就是来自中国的THE NONAME無名乐队。</p>\n<p style=\"text-align: center;\">由主唱Ray领军的乐队希望</p>\n<p style=\"text-align: center;\">能给这个时代一点新的声音,</p>\n<p style=\"text-align: center;\">他们从不断革新的音乐中找到真正的自由,</p>\n<p style=\"text-align: center;\">他们为打破所有禁忌而坚持斗争。</p>\n<p style=\"text-align: center;\">他们的音乐可以认为是混合了</p>\n<p style=\"text-align: center;\">80年代正宗朋克摇滚乐</p>\n<p style=\"text-align: center;\">和拥有重吉他音效、很酷的贝司的硬核摇滚，</p>\n<p style=\"text-align: center;\">并极具旋律性高度唱腔的音乐。</p>\n<p style=\"text-align: center;\">乐队自2001年成立至今二十多年的朋克摇滚生涯中</p>\n<p style=\"text-align: center;\">一直保持着国际唱片公司等的密切联系，</p>\n<p style=\"text-align: center;\">坚持不断地进行着国内外巡回表演，</p>\n<p style=\"text-align: center;\">并且发行了多张专辑、EP和单曲，合作了许多</p>\n<p style=\"text-align: center;\">优秀的国内外朋克摇滚歌手/乐队。</p>\n<p style=\"text-align: center;\">直至今日，乐队仍代表中国的朋克摇滚乐</p>\n<p style=\"text-align: center;\">在国际上受到各国粉丝的青睐。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">▀▄▀▄▀<span style=\"color: #169179; font-size: 16px;\"><strong>灰汁团</strong></span>▀▄▀▄▀</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN018Bqdr42GdSbSRztyX_!!2251059038.jpg\" alt=\"\" width=\"300\" height=\"300\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN010ebO122GdSbSRzMiD_!!2251059038.jpg\" alt=\"\" width=\"640\" height=\"427\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: center;\">这支以宁波传统小吃为名的朋克乐队，</p>\n<p style=\"text-align: center;\">成员们深受拉丁地区Ska音乐以及自身中年危机的影响，</p>\n<p style=\"text-align: center;\">以一种独特的幽默方式，</p>\n<p style=\"text-align: center;\">表达敏感内心与残酷现实的种种冲突。</p>\n<p style=\"text-align: center;\">你可以说他们的音乐是一个玩笑，</p>\n<p style=\"text-align: center;\">而他们只是想透过音乐，</p>\n<p style=\"text-align: center;\">向世人传达这样一个信息：</p>\n<p style=\"text-align: center;\">别当为时已晚，才来庆祝生活。</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "",
+                            "socialCreditCode": "",
+                            "legalPerson": "",
+                            "regCapStr": "",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "",
+                            "entAddress": ""
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：身份证/台湾居民来往大陆通行证/护照/港澳居民来往内地通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "见详情"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "100"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "60877",
+                    "venueName": "Owl Voice猫头鹰空间",
+                    "venueProvinceName": "江苏省",
+                    "venueCityName": "南京市",
+                    "lng": 118.812772,
+                    "lat": 32.064609,
+                    "venueAddr": "南京玄武区阳光路3号太阳宫演艺广场负一层",
+                    "showCountText": "共有6个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D801488476208%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1717438411000",
+                "sellStartTimeStr": "06月04日 02:13",
+                "priceRange": "¥150-¥240",
+                "performBases": [
+                    {
+                        "name": "06.30 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1719676800000",
+                        "performs": [
+                            {
+                                "performId": "214778002",
+                                "performName": "2024-06-30 周日 20:00",
+                                "itemId": "801488476208",
+                                "projectId": "220563001",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1719748800000",
+                                "performTime": "2024.06.30 20:00",
+                                "performStartDate": "2024-06-30",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8014884762/2/801488476208.jpg"
+            }
+        }
+    }
+}

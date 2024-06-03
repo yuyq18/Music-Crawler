@@ -1,0 +1,79 @@
+{
+    "platform": "大麦",
+    "project_id": "799324845889",
+    "project_name": "Chris James : Dopamine Overload 2024巡演 - 武汉站",
+    "category_name": "演唱会",
+    "artists": [
+        "Chris James"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.06 周二 20:00",
+    "session_time": [
+        "08.06 周二"
+    ],
+    "price": "260-650",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "武汉",
+    "venue_name": "不晚IN TIME LIVE",
+    "venue_info": {
+        "venue_address": "武汉市汉阳区汉阳造文化创意园46栋",
+        "lng": 114.26832,
+        "lat": 30.557467
+    },
+    "project_info": "VIP权益：\n1.演出前1v1合影\n2.优先入场\n3.专属VIP证件与挂绳\n \n*为了确保您有一个愉快顺利的观演体验，在购票前请务必仔细阅读【购票须知】。具体入场需求，请密切留意演出前通过Live Nation微信和微博平台所发布的《观演指南》。\n*本场演出限一票一证，同场次请勿使用同一证件在多家售票平台购票，以免给您带来不便及不必要的损失，如因多平台购票损失的费用将由购票人全额承担。\n \n美国宝藏创作歌手Chris James将于8月携Dopamine Overload Asia Tour重返中国大陆。本次音乐旅程始发站为上海，接着将继续前往其他7个大陆城市，随后穿越亚洲，抵达中国香港、吉隆坡、曼谷、新加坡、中国台北、首尔和东京。\n\n关于Chris James\n快来认识你的新朋友，Chris James！他以富有感染力的旋律、贴近生活的歌词和温暖真挚的魅力征服了众多歌迷和业内人士。作为自己创作、制作和混音的独立音乐人，Chris凭借自己的创意视野，仅在过去三年中便已独立发布了许多令人印象深刻的作品，包括25首单曲、1张EP和4张专辑，吸引了超过1200万的听众，在Spotify上播放量更是超过了1亿次。\n \n2020年，Chris凭借其突破性单曲Not Angry席卷亚洲，该单曲在抖音上的使用量现已超过50亿次。随后，2023年8月，他在中国展开了首轮巡演，售出了超过4500张门票。同年，他还荣获KKBox颁发的欧美百强艺人荣誉。\n \n除了个人的音乐生涯外，Chris还是一位实力派词曲创作人。他的成就包括与Apache 207和Udo Lindenberg合作，共同创作了德国历史上持续时间最长的冠军单曲Komet。他在韩流音乐领域的贡献同样令人瞩目，助力了包括BTS的Life Goes On，Jimin的Like Crazy，以及TomorrowXTogether的Devil By The Window等全球大热单曲。他的两首韩流作品（Life Goes On和Like Crazy）均登顶了Billboard百强单曲榜，并获得了RIAA白金认证，而Devil By the Window更是在Billboard全球二百强榜单上荣登第一。Komet在德国、奥地利和瑞士已达到了7白金销量。2023年，Chris以在Spotify上16亿多次的播放量成为了德国最受欢迎的词曲创作人。",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01LDujuC2GdSba0lbrq_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01gwxkFs2GdSbPPfRbB_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "171",
+        "wantNumStr": "171",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "799238710493",
+            "cityName": "上海站",
+            "showTime": "08.01"
+        },
+        {
+            "itemId": "799166683975",
+            "cityName": "杭州站",
+            "showTime": "08.03"
+        },
+        {
+            "itemId": "799153175428",
+            "cityName": "南京站",
+            "showTime": "08.04"
+        },
+        {
+            "itemId": "799324845889",
+            "cityName": "武汉站",
+            "showTime": "08.06"
+        },
+        {
+            "itemId": "799542086260",
+            "cityName": "福州站",
+            "showTime": "08.08"
+        },
+        {
+            "itemId": "798985658689",
+            "cityName": "成都站",
+            "showTime": "08.10"
+        },
+        {
+            "itemId": "799485384788",
+            "cityName": "深圳站",
+            "showTime": "08.12"
+        },
+        {
+            "itemId": "799658512909",
+            "cityName": "广州站",
+            "showTime": "08.13"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=799324845889"
+}

@@ -1,0 +1,564 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：刘宇",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1038",
+    "cityname": "南京",
+    "couponTags": "[]",
+    "description": "艺人：刘宇",
+    "id": "1_1_801476073164",
+    "imgurl": "-575173861",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2024刘宇巡回演唱会南京站·漩",
+    "nameNoHtml": "2024刘宇巡回演唱会南京站·漩",
+    "price": "424.0",
+    "price_str": "424-1520",
+    "pricehigh": "1520.0",
+    "privilegeTags": "[]",
+    "projectid": "801476073164",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.29 周六 19:00",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "南京奥体中心体育馆",
+    "venuecity": "南京",
+    "venueid": "369",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01OAOHtU2GdSbRxswEX_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "801476073164",
+                    "itemName": "【南京】2024刘宇巡回演唱会南京站·漩",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "320100",
+                    "cityName": "南京市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01OAOHtU2GdSbRxswEX_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01OAOHtU2GdSbRxswEX_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.06.29 周六 19:00",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：合肥哔哟哔哟文化传媒有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：合肥哔哟哔哟文化传媒有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1038",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>水，至清，尽美。</p>\n<p>出高峡，纳百川，汇中原，行千里。</p>\n<p>少年似水，澄澈、凉爽，善于积淀。</p>\n<p>水之无形，奔腾向前。</p>\n<p>看似静止，实则会于深处形成“漩”涡，蓄积力量。</p>\n<p>“漩”是回转的水流，是不远千里的积聚。</p>\n<p>“漩”是无声的碰撞，温润天下之至柔，驰骋天下之至坚。</p>\n<p>2024年刘宇个人演唱会巡演第三场将来到历史文化名城——南京，邀请大家共同亲临“流泉得月光，化为一溪雪”的少年之境。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01NvKBZr2GdSbR7DijW_!!2251059038.jpg\" width=\"689\" height=\"1280\" damai_width=\"689\" damai_height=\"1280\"></p>\n<p>“流泉得月光，化为一溪雪。”</p>\n<p>再化云、化雾、化雨——万物新生。</p>\n<p>青瓷少年，自有其声。</p>\n<p>似玉非玉而胜玉，是不尚华彩的汝瓷，也是宁静澄澈的少年。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01xIcA322GdSbUEaO1Y_!!2251059038.jpg\" width=\"854\" height=\"1280\" damai_width=\"854\" damai_height=\"1280\"></p>\n<p>玄妙舞台、万千变化于篇章之间，将文化与艺术极致融合呈现，亦是如梦如幻的光影之境，亦有古今时代的对望，亦是波澜壮阔的山河之景，亦有前卫冲击的热血燃情，亦是青春活力的松弛洋溢，亦有不同空间下的自我找寻。在所有的篇章和空间里，亦是现实，亦如梦境，亦是对话。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01rI3Lk32GdSbVqgRhi_!!2251059038.jpg\" width=\"1170\" height=\"780\" damai_width=\"1170\" damai_height=\"780\"></p>\n<p>&nbsp;</p>\n<p>篇章一·雨过——是“银鞍照白马，飒沓如流星。”将军凯旋闪出的盛世光景，是时光流转，“雪”色弥漫，无法挣脱的彼刻沙场。</p>\n<p>篇章二·云破——白云绕绕，明月依依。金戈铁马，声光电共同打造一场如梦如幻的“雪月交光夜”。</p>\n<p>篇章三·宇出——大幕拉开，在钢筋铁架与缤纷光彩间，逃出银河，驶向未来之地。</p>\n<p>篇章四·谁起——像风一样自在肆意，把想念吹到你身边，风起时思念如潮。</p>\n<p>&nbsp;</p>\n<p><strong>个人新专舞台先行首秀</strong></p>\n<p>本场演唱会将作为个人新专的先行发布会，数十首全新未公开曲目，不仅是一场精美舞台秀，更是“演唱会限定版MV”。融合多曲风、多元素亮点设计，惊喜环节连连，只为带来独一无二的演出观赏体验。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01OqGJk62GdSbVqhr4r_!!2251059038.jpg\" width=\"1254\" height=\"837\" damai_width=\"1254\" damai_height=\"837\"></p>\n<p><strong>“汝瓷”作为核心概念icon</strong></p>\n<p>汝瓷不尚华彩、莹润如玉，其气质与刘宇十分契合。</p>\n<p>引入汝瓷作为整场演出核心概念icon，逻辑故事紧密围绕汝瓷设计展开，讲述中国少年、古老东方瓷器的故事。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01d2sLVc2GdSbVyE2hQ_!!2251059038.jpg\" width=\"1170\" height=\"780\" damai_width=\"1170\" damai_height=\"780\"></p>\n<p><strong>双故事逻辑线，现代和文化双线结合</strong></p>\n<p>国风与流行碰撞相合，以传统文化为土壤，运用新技术手段将国风与流行结合，融入整场演出。让传统文化能够以新的面貌回归大众视野，唤醒国人内心深处的文化基因，向世界展现东方之美，真正让传统文化“活起来”、“传下去”。</p>\n<p>本场演唱会也首次将双故事逻辑线的艺术表现形式引入，在“雨过、云破、宇出、谁起”的篇章故事之外另设一条故事线，篇章之间用非遗文化“评书”来讲述“汝瓷”故事，节目设计中特别加入非遗手工艺品扇子、纱带等作为表演道具，整场演出以非遗文化为载体，隐喻刘宇的成长与突破。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01aqyYUg2GdSbTqIZL4_!!2251059038.jpg\" width=\"1170\" height=\"780\" damai_width=\"1170\" damai_height=\"780\"></p>\n<p><strong>斗舞升级再现，致敬南京</strong></p>\n<p>南京，仿佛是一本厚重的书，每一页都承载着时代的遗痕和故事。一场硝烟，丰碑如林，但今日南京，平和安宁。</p>\n<p>南京场限定斗舞，突破以往形式，颠覆过往编舞，带来全新视觉震撼。</p>\n<p>以厚重历史为根基设计限定节目，向南京致敬。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN014FaNgG2GdSbRzpus6_!!2251059038.jpg\" width=\"1170\" height=\"780\" damai_width=\"1170\" damai_height=\"780\"></p>\n<p>本场演唱会舞美全新升级，声光电相辅相成，道具特效相得益彰，诚意献上一场高配演出。</p>\n<p>&nbsp;</p>\n<p>超长LED+圆形数控结构，将“天圆地方”的设计理念融入舞台，中国传统文化与舞美设计相结合，更适配艺人气质。</p>\n<p>首次在舞美设计中使用可移动延伸台，随着歌曲情绪，舞台前沿高低变幻或延伸向前，透明结构和灯架组合出多种变幻，丰富观众视觉体验。</p>\n<p>在升降台中巧妙设计多维空间机关，为艺人亮相提供新形式，舞台高低错落有致，特殊机关增加空间感，丰富观众感官。</p>\n<p>成都首站的千米真丝、青城武术以及安徽本地宣纸画卷的非遗故事，将在南京站延续，非遗蓝印花布笼罩全场，运用特别定制机关瞬间收起，燃炸开场，邀你共赴塞外疆场，享一场千年之梦。</p>\n<p>全新特效设计，无需冬月，雪落全场，今朝共赏瑞雪，祝大家如意顺遂。</p>\n<p>&nbsp;</p>\n<p>雨过天青云破处，这般颜色做将来。</p>\n<p>2024年6月29日，南京奥体中心体育馆，邀你们一起在“雪”夜里漫舞，倾听内心深处的“漩”律。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01OwWO572GdSbMavBEb_!!2251059038.jpg\" width=\"1170\" height=\"780\" damai_width=\"1170\" damai_height=\"780\"></p>\n<p>风华主创组：</p>\n<p>为此次演唱会总制作、总导演、总监制、总策划团队。</p>\n<p>&nbsp;</p>\n<p>导演团队：</p>\n<p>本场演唱会与一支极具年轻态度的导演团队KING KONG PRODUTION TEAM合作，只为呈现最纯粹的创意表达。团队曾制作房东的猫、黄子韬、痛仰、华晨宇等艺人演唱会。</p>\n<p>灯光设计团队：</p>\n<p>与行业资深THE ONE STUDIO联手，共同创作最具观赏体验的视觉呈现。THE ONE STUDIO合作艺人演唱会包括李健、张杰、黄子韬、华晨宇、陈粒等。</p>\n<p>硬体团队：</p>\n<p>由德峰演艺工程为整场演出舞台及相关设备保驾护航，演出行业资深硬体团队，大型演出舞台相关制作经验丰富，曾服务李宇春、华晨宇、张靓颖、潘玮柏等各类艺人演唱会。</p>\n<p>舞蹈团队：</p>\n<p>本场演唱会的中国舞部分与江苏省青年歌舞团合作，是江苏省工商局省文化厅批准成立的文艺团体。曾参与2008年北京奥运会开幕式演出，也多次参加央视各类晚会，多部作品获“五星工程奖”。</p>\n<p>本场演唱会的现代舞部分是与ShowPro—SDT娱乐旗下演艺制作厂牌合作，舞蹈总监是享誉国内外的资深明星编舞师。</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "合肥哔哟哔哟文化传媒有限公司",
+                            "socialCreditCode": "91340104MA2TR3CJ44",
+                            "legalPerson": "胡翠云",
+                            "regCapStr": "50万人民币",
+                            "opFrom": "",
+                            "opTo": "长期",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "安徽省合肥市蜀山区潜山北路凤凰帝豪商业办公楼803,804室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/外国人永久居留身份证/港澳台居民居住证/港澳居民来往内地通行证/护照/身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "刘宇"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "369",
+                    "venueName": "南京奥体中心体育馆",
+                    "venueProvinceName": "江苏省",
+                    "venueCityName": "南京市",
+                    "lng": 118.72464,
+                    "lat": 32.005856,
+                    "venueAddr": "南京市河西新城区中心区域",
+                    "showCountText": "共有4个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=801476073164"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D801476073164%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "16648248",
+                        "artistName": "刘宇",
+                        "archives": "中国内地男歌手、舞者、演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1711935928851/1711935928851-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "16648248",
+                        "name": "刘宇",
+                        "desc": "中国内地男歌手、舞者、演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1711935928851/1711935928851-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "8913",
+                    "wantNumStr": "8913",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过63%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN014hqoie1G2oSvT63ui_!!6000000000565-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/888083/177616689_1711865267198.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN014QIdE01itlV068vLP_!!6000000004471-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/696465/139293062.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01NhsMhM1EE927ZzCv9_!!6000000000319-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "30757239760",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1717404573376/1717404573376-main.jpg",
+                    "note": "中国内地男歌手、舞者、演员。",
+                    "categoryName": "其他",
+                    "title": "2024刘宇巡回演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1717405906000",
+                "sellStartTimeStr": "06月03日 17:11",
+                "priceRange": "¥424-¥1520",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8014760731/2/801476073164.jpg"
+            }
+        }
+    }
+}
