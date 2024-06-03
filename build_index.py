@@ -11,11 +11,14 @@ def read_json(file_name: str):
     return data
 
 def add_directory(dir: str):
-    print(f'Adding {dir} to elasticsearch')
-    for file_name in tqdm(os.listdir(dir)):
+    for file_name in os.listdir(dir):
         if not file_name.endswith('.json'):
             continue
         data = read_json(f'{dir}/{file_name}')
+        # 查询是否在es中
+        if client.exists(index='music_demo', id=file_name.split('.')[0]):
+            continue
+        print(f'Adding {file_name} to elasticsearch')
         client.index(index='music_demo', document=data, id=file_name.split('.')[0])
 
 platforms = ['damai', 'piaoxingqiu', 'gewara', 'fenwandao']
