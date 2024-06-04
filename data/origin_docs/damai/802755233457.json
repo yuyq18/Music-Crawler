@@ -1,0 +1,558 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：胡彦斌、魏巡、丁当、买辣椒也用券",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "2528",
+    "cityname": "芜湖",
+    "couponTags": "[]",
+    "description": "艺人：胡彦斌、魏巡、丁当、买辣椒也用券",
+    "id": "1_1_802755233457",
+    "imgurl": "-562382258",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "南陵大浦“iCAR”海啸音乐嘉年华",
+    "nameNoHtml": "南陵大浦“iCAR”海啸音乐嘉年华",
+    "price": "238.0",
+    "price_str": "238-288",
+    "pricehigh": "288.0",
+    "privilegeTags": "[]",
+    "projectid": "802755233457",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.15 周六 14:30",
+    "sitestatus": "3",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": "大浦乡村世界",
+    "venuecity": "芜湖",
+    "venueid": "6794002",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN016azdHO2GdSbZQNHHS_!!0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "802755233457",
+                    "itemName": "【芜湖】南陵大浦“iCAR”海啸音乐嘉年华",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "340200",
+                    "cityName": "芜湖市",
+                    "categoryId": "127420006",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN016azdHO2GdSbZQNHHS_!!0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN016azdHO2GdSbZQNHHS_!!0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.15 周六 14:30",
+                    "showDuration": "约430分钟，仅供参考，最终以现场实际时长为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。",
+                            "tagType": "2",
+                            "renderType": "2",
+                            "tagDescJson": "{\"generalNote\":\"该演出支持退票，您可以在【我的-订单详情页】中申请退票，退票需要收取手续费，具体规则如下；\",\"performRules\":[{\"rules\":[{\"endTime\":1718294340000,\"ruleFeeBP\":3000,\"ruleStage\":2,\"ruleType\":1,\"startTime\":1717491600000},{\"ruleStage\":1,\"ruleType\":4,\"startTime\":1718294340000}]}],\"refundProcedureFeeRule\":1}",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票",
+                            "tagDesc": "本项目需实名制购票，购票完成后观演人信息不可更改。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：上海逅果文化传播有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：上海逅果文化传播有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "2520",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>南陵大浦“iCAR”海啸音乐嘉年华震撼来袭<br><br>魅力陵之南，激情盛夏夜。6月15日，南陵大浦“iCAR”海啸音乐嘉年华将在安徽省南陵县大浦乡村世界景区震撼上演。届时，iCAR汽车、南陵文化旅游传媒发展有限公司、安徽中快旅大浦旅游开发有限公司携手胡彦斌、丁当、姚晓棠、魏巡、郑赟、买辣椒也用券等知名歌手、青年音乐人和朝气蓬勃的大学生团队倾情联动，用动人的音乐、璀璨的烟花、狂浪的海啸，与您共度一个“南”以忘怀、“陵”漓尽致的缤纷夏日。<br><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01XADAUb2GdSbWr3EGI_!!2251059038.jpg\" width=\"807\" height=\"454\" damai_width=\"807\" damai_height=\"454\"></p>\n<p>音乐，这种无边界的艺术形式，拥有着强大的感染力和凝聚力，南陵大浦“iCAR”海啸音乐嘉年华，致力打造成为一流品质的文旅IP。此次嘉年华众多国内知名原创音乐人将齐聚于此，并吸引众多青年人才的广泛参与，用他们的才华和激情，为广大乐迷们奉献一场魅力独特的文旅盛宴。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01fGJ2bM2GdSbZckpR3_!!2251059038.jpg\" width=\"805\" height=\"537\" damai_width=\"805\" damai_height=\"537\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN017rVoX42GdSbUbsR9V_!!2251059038.jpg\" width=\"810\" height=\"540\" damai_width=\"810\" damai_height=\"540\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01KZjDzS2GdSbY1kVuz_!!2251059038.jpg\" width=\"811\" height=\"541\" damai_width=\"811\" damai_height=\"541\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01MQRUqg2GdSbXC0Uox_!!2251059038.jpg\" width=\"811\" height=\"608\" damai_width=\"811\" damai_height=\"608\"><br><br></p>\n<p>大浦乡村世界景区，作为本次嘉年华的举办地，是“国家AAAA级景区”“国家农业科技园区”“全国休闲农业示范区”“安徽省十佳旅游景区”“安徽文旅十大新晋网红打卡地”。景区以高科技农业观光、海啸文化体验、花海生态为特色，拥有云天莲花玻璃桥+亲水玻璃栈道+云天玻霸玻璃等独特景点，是理想的旅游休闲度假区。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN012vZ1Co2GdSbXGzAnZ_!!2251059038.jpg\" width=\"806\" height=\"507\" damai_width=\"806\" damai_height=\"507\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01xPjSdZ2GdSbY1kNhy_!!2251059038.jpg\" width=\"811\" height=\"455\" damai_width=\"811\" damai_height=\"455\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01367Z2G2GdSbaLKxUe_!!2251059038.jpg\" width=\"811\" height=\"470\" damai_width=\"811\" damai_height=\"470\"></p>\n<p><br>嘉年华期间，iCAR将解锁更多潮酷嗨玩新体验，潮车试驾、潮改秀等精彩互动即将隆重登场，还将穿插格调多样的文旅集市和烟花表演。观众们不仅可以欣赏到嗨动心弦的音乐，还能与音乐人互动交流，沉浸式体验iCAR 03超预期的操控性能和领先的智能驾控、零距离感受iCAR 03潮改SHOW的无限魅力。精彩的活动、动感的音乐和炫酷的潮车，将共同打造这个夏日最热辣潮酷的狂欢盛宴！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01LTZw5h2GdSbY1k2xU_!!2251059038.jpg\" width=\"812\" height=\"515\" damai_width=\"812\" damai_height=\"515\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01VGhbsp2GdSbZclVAQ_!!2251059038.jpg\" width=\"812\" height=\"512\" damai_width=\"812\" damai_height=\"512\"></p>\n<p>陵之南，向阳而生，逐光追梦！<br>期待六月十五，我们相约大浦！</p>\n<p>购票和入场须知请往下查阅<br>温馨提示：购票前请务必确认好购票信息（购买场次、观演人信息等），请您阅读、理解并接受须知内容后再进行门票购买、持有或使用。</p>\n<p><br><strong>观众须知</strong><br>1、本场演出支持有条件退款，门票不可转赠及转售。如需退票，请联系原购票平台申请，申请方式、退款到账时间具体以各平台规则为准。<br>2、请认准官方正规票务平台，切勿轻信所谓“内部票”、“工作票”、“带人观演”、自称“内部工作人员”等不实信息，本场演出强实名，请乐迷朋友们提高警惕，谨防受骗。<br>4、所有门票仅限一次入场使用，出场即无效。<br>5、本场演出采用【无纸化电子票】核验通过后入场。<br>6、本场演出一人一票，凭本场演出票可体验景区日常自营项目；因现场音乐音量较大，儿童不建议购票入场。<br>7、演出现场禁止携带违禁食品、管制刀具、打火机、旗杆、冷焰火、宠物、含酒精制品、航拍飞行器、大型行李箱、雨伞、激光笔、专业摄影机/照相机，自拍杆等物品，不可携带瓶装饮料入园，可携带空的水杯。<br>8、演出现场的激光灯可能会损坏手机和相机的摄像头传感器，请不要用相机/手机对准舞台上的激光灯。具体以现场公告为准，感谢配合！<br>9、遵守法律、法规和社会公德，服从工作人员管理，不得扰乱音乐嘉年华现场治安秩序。</p>\n<p><br><strong>退票规则</strong><br>1、退票均须手续费，按所退门票实付价款的30%收取退票手续费。<br>2、2024年6月13日23:59之后停止办理退票。</p>\n<p><br>退票仅支持整单退票，同一订单下的门票不可拆分退票。<br>退票门票将返回官方售票平台继续销售，继续销售的门票同等适用本场音乐嘉年华退票、购票、入场等规则。<br>如需退票，请于原购票平台申请，申请方式、退款到账时间具体以各平台规则为准。</p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "上海逅果文化传播有限公司",
+                            "socialCreditCode": "91310112MA1GEQG96G",
+                            "legalPerson": "田珊珊",
+                            "regCapStr": "100万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "上海市黄浦区北京东路666号12F"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/港澳台居民居住证/港澳居民来往内地通行证/外国人永久居留身份证/身份证/护照/军官证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约430分钟，仅供参考，最终以现场实际时长为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "预计演出当日早上09:30，仅供参考，最终以现场实际入场时间为准"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "50"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "胡彦斌、丁当、姚晓棠、魏巡、郑赟、买辣椒也用券"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "200分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "演出现场禁止携带违禁食品、管制刀具、打火机、旗杆、冷焰火、宠物、含酒精制品、航拍飞行器、大型行李箱、雨伞、激光笔、专业摄影机/照相机，自拍杆等物品，不可携带瓶装饮料入园，可携带空的水杯。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "4980"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "3",
+                            "name": "军官证"
+                        },
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ]
+                },
+                "venue": {
+                    "venueId": "6794002",
+                    "venueName": "大浦乡村世界",
+                    "venueProvinceName": "安徽省",
+                    "venueCityName": "芜湖市",
+                    "lng": 118.417978,
+                    "lat": 31.107509,
+                    "venueAddr": "安徽省芜湖市南陵县黄塘村205国道大浦绿洲旁大浦乡村世界游客接待中心",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D802755233457%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "195",
+                        "artistName": "胡彦斌",
+                        "archives": "中国内地男歌手、音乐制作人、牛班app创始人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1705551196765/1705551196765-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "323175995",
+                        "artistName": "魏巡",
+                        "archives": "2017年《快乐男声》全国总决赛冠军",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1669967970140/1669967970140-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "53107",
+                        "artistName": "丁当",
+                        "archives": "丁当，华语女歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1616483033374/1616483033374-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "6091094712",
+                        "artistName": "买辣椒也用券",
+                        "archives": "",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1631072008501/1631072008501-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "195",
+                        "name": "胡彦斌",
+                        "desc": "中国内地男歌手、音乐制作人、牛班app创始人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1705551196765/1705551196765-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "323175995",
+                        "name": "魏巡",
+                        "desc": "2017年《快乐男声》全国总决赛冠军",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1669967970140/1669967970140-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "53107",
+                        "name": "丁当",
+                        "desc": "丁当，华语女歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1616483033374/1616483033374-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "6091094712",
+                        "name": "买辣椒也用券",
+                        "desc": "",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1631072008501/1631072008501-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "106",
+                    "wantNumStr": "106",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i3/O1CN01sUUZpm1tgRkwPdMX0_!!6000000005931-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/849969/169993975.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN0167wNGr1OXyL74kuTP_!!6000000001716-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1176309/235261888_1682479220878.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01j9rn0L1tPV6Q4jU87_!!6000000005894-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1717483157000",
+                "sellStartTimeStr": "06月04日 14:39",
+                "priceRange": "¥238-¥288",
+                "performBases": [
+                    {
+                        "name": "06.15 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1718380800000",
+                        "performs": [
+                            {
+                                "performId": "214756117",
+                                "performName": "2024-06-15  周六 14:30",
+                                "itemId": "802755233457",
+                                "projectId": "220579020",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1718433000000",
+                                "performTime": "2024.06.15 14:30",
+                                "performStartDate": "2024-06-15",
+                                "performBeginTime": "14:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8027552334/2/802755233457.jpg"
+            }
+        }
+    }
+}
