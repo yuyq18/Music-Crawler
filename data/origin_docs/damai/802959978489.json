@@ -1,0 +1,474 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "852",
+    "cityname": "北京",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_802959978489",
+    "imgurl": "-560334808",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "北京 | 6.21-22 欢迎来到Thierry Maillard三重奏的合成器世界",
+    "nameNoHtml": "北京 | 6.21-22 欢迎来到Thierry Maillard三重奏的合成器世界",
+    "price": "280.0",
+    "price_str": "280",
+    "pricehigh": "280.0",
+    "privilegeTags": "[]",
+    "projectid": "802959978489",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.21-06.22",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "Blue Note Beijing 爵士乐俱乐部",
+    "venuecity": "北京",
+    "venueid": "61359",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01dPzU9I2GdSbbZEPE7_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "802959978489",
+                    "itemName": "【北京】北京 | 6.21-22 欢迎来到Thierry Maillard三重奏的合成器世界",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "110100",
+                    "cityName": "北京市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01dPzU9I2GdSbbZEPE7_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01dPzU9I2GdSbbZEPE7_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.21-06.22",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "纸质发票",
+                            "tagDesc": "发票开具方：北京瀛寰文化传媒有限公司\r\n本项目支持开具纸质发票，该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并邮寄至收货地址，需自付邮费",
+                            "tagDescWithStyle": "<b>发票开具方：北京瀛寰文化传媒有限公司</b><br>本项目支持开具纸质发票，该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并邮寄至收货地址，需自付邮费",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "852",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i4.79dd6b72U7Wjl4\" style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN012zuw7I2GdSbYzUWDm_!!2251059038.png\" width=\"800\" height=\"800\" damai_width=\"800\" damai_height=\"800\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ev0BOc2GdSbQBUe7W_!!2251059038.png\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i5.79dd6b72U7Wjl4\"></p><p style=\"text-align: center;\">20世纪中叶，合成器第一次运用在流行音乐中，它不仅拥有模拟现实乐器声音的能力（如钢琴、提琴、底鼓、军鼓等），还能模仿或创造出自然界中各种环境声音（如风暴、浪潮等）。但说到合成器最引人注目的特点，那无疑是它“轻松”扭出那些难以捉摸的声音。无论是你从未听过的奇特声音，还是那些你只能在梦中想象到的神秘旋律，合成器都能一一为你实现。</p><p style=\"text-align: center;\">随着技术和时代的发展，合成器也从重达200吨的庞然大物升级为小巧可便携的设备，甚至是软件合成器。而这样变化多端、升级迅速的合成器，究竟能带来什么样的奇妙音乐呢？</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01JUTMeu2GdSbXSkeEe_!!2251059038.png\"></p><p style=\"text-align: center;\">如果你是流行旋律爱好者</p><p style=\"text-align: center;\">如果你同样喜欢电子音色</p><p style=\"text-align: center;\">如果你被合成器所创作的旋律、和声节奏所深深吸引</p><p style=\"text-align: center;\">那么你将会爱上他们的创作</p><p style=\"text-align: center;\">欢迎来到Thierry Maillard三重奏的合成器世界</p><p style=\"text-align: center;\">&nbsp;<br></p><p style=\"text-align: center;\">这是一支非典型的三重奏组合，Thierry Maillard曾用一张疯狂、独特且难以分类的《Moog&nbsp;Project》是，让各种不同的观众都在其中找到共鸣</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01n2aabg2GdSbYyy1rW_!!2251059038.png\"></p><p style=\"text-align: center;\"><span>领队Thierry Maillard同他最喜欢的鼓手Yoann Schmidt和在摇摆乐、bebop中自如表达的爵士钢琴家Amaury Faye组建成队，以爵士乐为基础，创造更加丰富多彩的音乐世界。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ox56fP2GdSbaa05Nk_!!2251059038.png\"></p><p style=\"text-align: center;\"><span>这一切都源自于1994年Thierry Maillard在即将开始职业生涯时收到的一个礼物：Moog合成器。他非常喜欢在练习钢琴之余使用它。后来他把它放在一旁，但仍然怀着极大的兴趣聆听他的偶像Chick Corea、Herbie Hancock或Joe Zawinul用这种乐器创造的迷人声音。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01HmARuP2GdSbXSlimC_!!2251059038.png\"></p><p style=\"text-align: center;\"><span>Joe Zawinul</span></p><p style=\"text-align: center;\">而最令他的喜悦是，Thierry Maillard重新发现这不仅是一个乐器，而是一系列大约二十种电子乐器，如同画家的调色板一样，每个Moog都有其特定的特点和用途，就像Herbie Hancock在1978年专辑《Sunlight》时用合成器包围自己一样。</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01MVLPTf2GdSbXougN2_!!2251059038.png\"></p><p style=\"text-align: center;\">于是Thierry为了向那个时代的爵士摇滚键盘手致敬，便开始有了用合成器、声学钢琴和真正的鼓（尤其不是鼓机）为基础，重新编排几首Supertramp（当时的英国流行乐队）著名歌曲的想法。Thierry Maillard不仅仅重新编排了Supertramp的《Breakfast&nbsp;in&nbsp;America》《Dreamer》《The Logical Song》等著名歌曲，还去掉歌词并为他的“电子爵士摇滚”三重奏重新编曲。同时，他创作了很多个人作品，如《Towards the Moon》《Kristelle》《Le Bagne》等等。</p><p style=\"text-align: center;\">本场以“Back To Basics”为主题的音乐会，作品均由Thierry&nbsp;Maillard创作，意在纪念他在纽约录制的第一张三重奏专辑《Paris&nbsp;/ New York》。</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01dClHm82GdSbZWbtzO_!!2251059038.png\"></p><p style=\"text-align: center;\">“1997年，我和Denis Chambers和John Pattitucci一起录制了我的第一张三重奏专辑，并于1998年2月由Verve Polygram发行。这张唱片是我一生中最美好的回忆之一。首张专辑可以与两位爵士乐‘圣人’一同完成，这对于我这个年轻音乐人来说，是一个前所未有的机会。我们仅在两天内就完成录制，但却让我铭记终生。至今我仍能回想起录制中第一个音符响起时带给我的巨大冲击，我甚至都无法演奏，只能静静聆听，沉浸在巨大的喜悦与幸福中。”</p><p style=\"text-align: center;\">26年后，Thierry Maillard将带领我们步入一个全新的音乐世界。那里充满了丰富的音乐层次感和强烈的电子气息，摇滚的强劲节奏将使你难以抗拒一同舞动。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01UGEupp2GdSbXSka54_!!2251059038.png\"></p><p style=\"text-align: center;\"><span>2024年6月20日Blue&nbsp;Note&nbsp;Shanghai，6月21日、22日Blue Note Beijing，Thierry Maillard三重奏归来！让我们一起感受电子乐风格与爵士乐灵魂的碰撞吧！</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN015xqUW32GdSbVuBC9L_!!2251059038.png\"></p><p style=\"text-align: center;\"><strong>Thierry Maillard&nbsp;</strong></p><p style=\"text-align: center;\">Thierry Maillard是一名钢琴家和作曲家，毕业于巴黎高等音乐师范学院。他学习了钢琴、手风琴、和声与对位等课程。经过传统技能训练，在学业结束时，他很快发现了爵士乐和其在表达上的自由。因此，在其个人经验和生活际遇的影响下，古典乐、爵士乐和世界音乐和谐交融，崭新的音乐风格诞生了。1998年，他的首张专辑《Paris&nbsp;/ New York》在纽约的 Verve Emarcy 唱片公司录制完成，鼓手为 Dennis Chambers，贝斯手为 John Patitucci。这位热情的音乐家曾与 Bireli Lagrène、Chris Minh Doky、Bobby Shew、Michel Portal、Bernard Lubat、Didier Lockwood、Dominique DiPiazza、Matthew Garrison 等伟大的爵士音乐家合作过。对弦乐和管弦乐的热爱让他自然而然地将其与爵士乐融合，形成爵士三重奏弦乐四重奏，《新七重奏》、《视觉》和《我们的故事》三张专辑中均有体现。在 2014 年，他开始了该项目的第一阶段，与室内乐团、演奏世界音乐的音乐家一起录制了专辑《炼金术士》。新专辑大获全胜，在舞台上取得成功，Thierry决定在巅峰期继续激流勇进。这位坚定的作曲家和管弦乐编曲家已录制了 15 张专辑。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01WoQf2Q2GdSbXPBa3R_!!2251059038.png\"></p><p style=\"text-align: center;\"><strong>Amaury Faye&nbsp;</strong></p><p style=\"text-align: center;\">出生于法国图卢兹，在大学取得爵士表演文凭后在美国伯克利音乐学院完成深造，并在当年获得伯克利爵士表演奖。作为乐队队长或联合创始人，阿莫里共发行过 6 张专辑，他也与众多音乐人合作，参与多元音乐项目。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN011r11HC2GdSbaZyoN9_!!2251059038.png\"></p><p style=\"text-align: center;\"><strong>Yoann Schmidt</strong></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i6.79dd6b72U7Wjl4\" style=\"text-align: center;\">尤安·施密特从 6 岁起学习鼓，10 岁时便进入法国北部的瓦伦西纳音乐学院学习并获奖。之后尤安决定常住巴黎，并开始和法国及世界上爵士等多元音乐类型的艺术家合作，包括Bireli Lagrene、Sylvain Luc、ZAP MAMA、ZAZ、Hadrien Feraud、Franck gambale、Dominique dipiazza、Antonio Farao 等。</p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i6.79dd6b72U7Wjl4\" style=\"text-align: center;\"><br></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i6.79dd6b72U7Wjl4\" style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01LWmlUO2GdSbaNiVZK_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i11.79dd6b72U7Wjl4\"></p><p style=\"text-align: center;\">日期：2024年6月21日、6月22日（周五、周六）</p><p style=\"text-align: center;\">入场时间：18:30</p><p style=\"text-align: center;\">演出时间：20:00</p><p style=\"text-align: center;\">地址：前门东大街23号Blue Note Beijing</p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i6.79dd6b72U7Wjl4\" style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01dqKxOa2GdSbaNimD8_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i6.79dd6b72U7Wjl4\" style=\"text-align: center;\"><span>单人坐席￥280</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i6.79dd6b72U7Wjl4\" style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01CGz4cR2GdSbZQOTkK_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">1.所有网上购票观众请携带购票二维码到前台换取当日演出门票，凭票入场。门票一经出售，概不退换。</p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i6.5f966b729Y2oLY\">2.现场座位采取“先到先得”的方式，具体座位由前台工作人员进行安排。部分座位视线会受较大阻挡，建议购票客人提早入场至前台换票。</p><p style=\"text-align: center;\">3. 观众凭前台换取的桌卡进入演出场地，由服务人员引领至相应座位入座。</p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i7.5f966b729Y2oLY\">4. 因场地座位有限，会有拼桌现象，敬请谅解。</p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i8.5f966b729Y2oLY\">5. 儿童观演须购票并由家长陪同入场，请家长善尽监护义务，禁止儿童在观众席内嬉闹，以免影响其他客人。</p><p style=\"text-align: center;\">6. Blue Note提供餐饮服务，入场后即可点餐。谢绝自带食品与酒水进入场地。</p><p style=\"text-align: center;\">7. 门票发票须演出当日凭桌卡开具。</p><p style=\"text-align: center;\">8. 开车观众可将车停至前门23号院内（车位有限，建议提前到场）；如院内没有车位可将车辆停在前门东大街道路两侧市政收费车位或观旗宾馆收费停车场，步行即可到达院内。</p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i6.79dd6b72U7Wjl4\" style=\"text-align: center;\"><br></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "北京瀛寰文化传媒有限公司",
+                            "socialCreditCode": "9111010158250075XB",
+                            "legalPerson": "高杉",
+                            "regCapStr": "3000万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "其他有限责任公司",
+                            "entAddress": "北京市东城区建国门内大街18号25层办公楼一座2501-1"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。演出结束后1个月左右邮寄给你，需自付邮费。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童观演须购票并由家长陪同入场，请家长善尽监护义务，禁止儿童在观众席内嬉闹，以免影响其他客人"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。演出结束后1个月左右邮寄给你，需自付邮费。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：护照/身份证/台湾居民来往大陆通行证/港澳居民来往内地通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约90分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "61359",
+                    "venueName": "Blue Note Beijing 爵士乐俱乐部",
+                    "venueProvinceName": "北京",
+                    "venueCityName": "北京市",
+                    "lng": 116.40107,
+                    "lat": 39.901339,
+                    "venueAddr": "北京市东城区东华门街道北京市人民政府天安门地区管理委员会(东交民巷)",
+                    "showCountText": "共有6个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D802959978489%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1717583179000",
+                "sellStartTimeStr": "06月05日 18:26",
+                "priceRange": "¥280",
+                "performBases": [
+                    {
+                        "name": "06.21 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1718899200000",
+                        "performs": [
+                            {
+                                "performId": "214792150",
+                                "performName": "2024-06-21 周五 20:00",
+                                "itemId": "802959978489",
+                                "projectId": "220563028",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1718971200000",
+                                "performTime": "2024.06.21 20:00",
+                                "performStartDate": "2024-06-21",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "06.22 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1718985600000",
+                        "performs": [
+                            {
+                                "performId": "214778193",
+                                "performName": "2024-06-22 周六 20:00",
+                                "itemId": "802959978489",
+                                "projectId": "220563028",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1719057600000",
+                                "performTime": "2024.06.22 20:00",
+                                "performStartDate": "2024-06-22",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "2",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "14155",
+                    "23883",
+                    "23115",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9099",
+                    "9867",
+                    "8843",
+                    "2443",
+                    "395",
+                    "1163",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "7371",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8029599784/2/802959978489.jpg"
+            }
+        }
+    }
+}

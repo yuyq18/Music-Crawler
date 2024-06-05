@@ -1,0 +1,732 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：五月天",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "906",
+    "cityname": "深圳",
+    "couponTags": "[]",
+    "description": "艺人：五月天",
+    "id": "1_1_801172928321",
+    "imgurl": "-578205309",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2024 五月天 [回到那一天] 25 周年巡回演唱会-深圳站",
+    "nameNoHtml": "2024 五月天 [回到那一天] 25 周年巡回演唱会-深圳站",
+    "price": "355.0",
+    "price_str": "355-1655",
+    "pricehigh": "1655.0",
+    "privilegeTags": "[]",
+    "projectid": "801172928321",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.07.01-07.07",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "深圳大运中心体育场",
+    "venuecity": "深圳",
+    "venueid": "53368",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01umwpZf2GdSbViLTyK_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "801172928321",
+                    "itemName": "【深圳】2024 五月天 [回到那一天] 25 周年巡回演唱会-深圳站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "440300",
+                    "cityName": "深圳市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01umwpZf2GdSbViLTyK_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01umwpZf2GdSbViLTyK_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.07.01-07.07",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京大麦文化传媒发展有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：北京大麦文化传媒发展有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "906",
+                    "atomSplit": "1",
+                    "isHotProject": "true",
+                    "isShowHotProjectModel": "true",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\">音乐是时光机&nbsp;&nbsp;&nbsp;回忆是任意门</p>\n<p style=\"text-align: center;\">从第1天到第9125天</p>\n<p style=\"text-align: center;\">MAYDAY&nbsp;&nbsp;&nbsp;摇滚万岁25周年</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">五月天&nbsp;[&nbsp;回到那一天&nbsp;]&nbsp;巡回演唱会&nbsp;</p>\n<p style=\"text-align: center;\">深圳站&nbsp;&nbsp;&nbsp;七月盛夏&nbsp;&nbsp;&nbsp;欢聚六夜</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">相遇那一年&nbsp;&nbsp;&nbsp;拥抱那一天</p>\n<p style=\"text-align: center;\">数1数25月天&nbsp;&nbsp;&nbsp;和你再干一杯</p>\n<p style=\"text-align: center;\">5525&nbsp;&nbsp;&nbsp;有你就知足</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">CMC&nbsp;Live&nbsp;X&nbsp;相信音乐　共同呈献</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">MAYDAY&nbsp;#5525&nbsp;LIVE&nbsp;TOUR&nbsp;</p>\n<p style=\"text-align: center;\">五月天&nbsp;[&nbsp;回到那一天&nbsp;]&nbsp;</p>\n<p style=\"text-align: center;\">25周年&nbsp;巡回演唱会&nbsp;深圳站</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">演出日期：2024年7月1日(一)－2日(二)－3日(三)－5日(五)－6日(六)－7日(日)</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">演出场地：深圳大运中心体育场</p>\n<p>&nbsp;</p>\n<p><strong>有一种友情叫做五月天</strong></p>\n<p><strong>有一种回忆叫做我们</strong></p>\n<p>&nbsp;</p>\n<p>有你的每一天，天天都是五月天！无论什么都不能阻挡盛夏深圳与五月天的重聚！2023年7月，五月天久别重逢，如约而至，带来「好好好想见到你」演唱会，深圳3晚狂欢！说好的很快就会再见面，CMC&nbsp;Live与相信音乐共同宣布五月天于2024年7月1、2、3、5、6、7日，6场盛举带来新主题巡演「MAYDAY&nbsp;#5525&nbsp;LIVE&nbsp;TOUR&nbsp;五月天&nbsp;[&nbsp;回到那一天&nbsp;]&nbsp;25周年巡回演唱会」，重返深圳大运中心体育场，搭乘5525时光机，有你有我回到那一天。继去年诺亚方舟大船华丽返航绕场，今年5525深圳站加码升级，精彩再现喵星人大飞球、「MAYDAY&nbsp;EXPRESS」环场串起无限五月天音乐宇宙。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01OP7Oe12GdSbVNnCam_!!2251059038.png\" width=\"976\" height=\"650\" damai_width=\"976\" damai_height=\"650\"></p>\n<p>&nbsp;</p>\n<p><strong>五位憨人与一份倔强</strong></p>\n<p><strong>8度叩关30场300万人鸟巢纪录</strong></p>\n<p>&nbsp;</p>\n<p>怀着共同梦想，2004年首度踏上北京「无名高地」Live&nbsp;House，一路从「工人体育馆」、「北展剧场」、「首都体育场」再到「工人体育场」，从30人唱到3万人，最终于2012年踏上北京10万人「鸟巢」，并在往后2013-2023年期间，带着各式大型世界巡演主题，完成了共计20场鸟巢纪录达阵，今年更进阶挑战10场空前新高，十全十美，8度叩关30场300万人鸟巢纪录，是每一位乐迷的支持与陪伴，携手五月天成为华语乐坛纪录保持王者乐团！五月天演唱会传奇诗篇，因为有你双向奔赴而不凡，而珍贵。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01LoLhDd2GdSbXd5qYH_!!2251059038.png\" width=\"976\" height=\"650\" damai_width=\"976\" damai_height=\"650\"></p>\n<p>&nbsp;</p>\n<p><strong>第一天到第9125天&nbsp;&nbsp;&nbsp;</strong></p>\n<p><strong>你会想回到有五月天的哪一天？</strong></p>\n<p>&nbsp;</p>\n<p>搭乘音乐时光机，任意门开启五月天的多重宇宙，你想回到有五月天的哪一天？当年诞生在漫画堆上、小房间里5个组团的大男孩，随着时间洪流一起走过9125天、共同经历了四分之一世纪，转眼瞬间，写下一首又一首陪伴你我青春、爱情、人生轨迹的歌曲，举办过一场又一场的签唱会、演唱会，累积无数难以忘怀的风景，缔造出无数的记录，25年来一路与你为「五」，因为有你，所以五月天。那一天，那一刻，那个场景，你出现在我生命。若真回到那一天，后来的我们，想对当时的自己说什么？又或，笑而不语呢？相遇那一年，拥抱那一天，现在就是永远，摇滚就能万岁，数1数25月天，和你再干一杯。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01tEog6z2GdSbXDJzNa_!!2251059038.png\" width=\"976\" height=\"650\" damai_width=\"976\" damai_height=\"650\"></p>\n<p>&nbsp;</p>\n<p><strong>No&nbsp;Music,&nbsp;No&nbsp;Live,&nbsp;No&nbsp;Life.</strong></p>\n<p><strong>9张专辑　525场大型演唱会</strong></p>\n<p><strong>我们都是在演唱会出生也重生的人</strong></p>\n<p>&nbsp;</p>\n<p>细数25年，9张专辑，3部演唱会电影，2部纪录电影，12个主题巡回演唱会，都是五月天因音乐而生，为LIVE而活的印记。我们都一样，都是在演唱会出生、也重生的人。从1999年首场万人「第168场演唱会」开始，巡演世界一圈又一圈，曾和你走过麦迪逊花园，北京鸟巢30场纪录达成，到最接近天空的台北101高楼开演，也在空无一人却思念满场的万人体育场突破时空隔阂与你一起在线倒数跨年，一直到2023年「好好好想见到你」演唱会，横跨4大洲，25个城市，76场，330万人次共襄盛举。25年来一路用LIVE贯彻快乐，累积至2023年底总共525场大型演唱会，巧合地与象征五月天25周年的&nbsp;“5”&nbsp;和“25”&nbsp;契合，呼应&nbsp;\"5525\"的神奇数字。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01grOWeD2GdSbXd8nUV_!!2251059038.png\" width=\"976\" height=\"650\" damai_width=\"976\" damai_height=\"650\"></p>\n<p>&nbsp;</p>\n<p><strong>携手必应创造、仙草影像&nbsp;&nbsp;&nbsp;再造「5懈可击」视听舞美感官</strong></p>\n<p><strong>13,000&nbsp;片LED&nbsp;球体屏幕&nbsp;&nbsp;&nbsp;360度幻化多变25周年音乐脉络</strong></p>\n<p>&nbsp;</p>\n<p>五月天在出道满25周年的重要里程碑，从舞台到曲目紧扣25年来的音乐轨迹，歌单集结第一张《五月天第一张创作专辑》到第九张《自传》的代表作，每一首都足以代表「每个人心中都有一首五月天」。舞台携手必应创造、仙草影像再次打造「5懈可击」的音乐、声光、视讯飨宴，主舞台上巨大LED球型的「天外有天时光机」，另有五颗飘浮「神的孩子都在跳5球」做视觉延伸，共使用了13,000片特别订制特殊规格的360度环绕三维曲面球体LED显示屏组合而成。视觉系统的规划，以Disguise多媒体服务器整合输出相当于整体宽面为16Ｋ像素，呈现最精致画质，创造出「5与伦比」视听觉的完美效果。这一切的悉心舞台呈现，顺着五月天25周年的音乐脉络，成为极具纪念意义的动人演出。</p>\n<p>&nbsp;</p>\n<p><strong><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01TB2q5F2GdSbXd83lv_!!2251059038.png\" width=\"976\" height=\"650\" damai_width=\"976\" damai_height=\"650\"></strong></p>\n<p>&nbsp;</p>\n<p><strong>五月天25岁的浪漫</strong></p>\n<p><strong>是一直有你&nbsp;&nbsp;&nbsp;与我们为五</strong></p>\n<p>&nbsp;</p>\n<p>转眼25，五月天长成一个青年了。从1岁的落地，开始拥抱世界的疯狂。2岁的学步，走自己的路的憨人。5岁的志愿，想当飞进你心的超人。12岁的梦想，登诺亚巡航四海一舟。17岁的青春，期盼人生能成名在望。21岁的无常，思念是突然好想见你。走过的，如歌也如烟，都是回忆的珍珠。五月天25岁的浪漫，是一直有你，与我们为五。你是五，我是五，五五二五，有你就知足。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01xDJlxE2GdSbXGyMVC_!!2251059038.png\" width=\"976\" height=\"650\" damai_width=\"976\" damai_height=\"650\"></p>\n<p>&nbsp;</p>\n<p><strong>一生一次五月天</strong></p>\n<p><strong>加入五月天永远不会太迟</strong></p>\n<p>&nbsp;</p>\n<p>或许你是和自己纪念25年来的第数不清场五月天，</p>\n<p>又或你是和情人、家人、孩子看的第一场五月天，</p>\n<p>请带着你的姓名与故事，</p>\n<p>回到属于你和五月天的那一天，</p>\n<p>在这一夜共创我们新的那一天！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Pd25OJ2GdSbaPQS0Y_!!2251059038.png\" width=\"1920\" height=\"1280\" damai_width=\"1920\" damai_height=\"1280\"></p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张、每个账号最多购买4张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳台居民居住证/外国人永久居留身份证/港澳居民来往内地通行证/身份证/台湾居民来往大陆通行证/护照"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "五月天"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "53368",
+                    "venueName": "深圳大运中心体育场",
+                    "venueProvinceName": "广东省",
+                    "venueCityName": "深圳市",
+                    "lng": 114.219199,
+                    "lat": 22.69269,
+                    "venueAddr": "深圳市龙岗区龙翔大道深圳大运中心",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=801172928321"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D801172928321%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "2726",
+                        "artistName": "五月天",
+                        "archives": "中国台湾地区的摇滚乐团，由乐队团长兼吉他手怪兽、主唱阿信、吉他手石头、贝斯玛莎和鼓手冠佑组成，前身为“So Band”乐团，在1997年3月29日改名为“五月天”。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1683270944063/1683270944063-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "2726",
+                        "name": "五月天",
+                        "desc": "中国台湾地区的摇滚乐团，由乐队团长兼吉他手怪兽、主唱阿信、吉他手石头、贝斯玛莎和鼓手冠佑组成，前身为“So Band”乐团，在1997年3月29日改名为“五月天”。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1683270944063/1683270944063-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "158623",
+                    "wantNumStr": "15.9万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过95%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN01ZtJoYQ1p4CDLYGtuD_!!6000000005306-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1124993/224998741_1677481295942.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN017sq23P1nF4O5uJsRB_!!6000000005059-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/924015/184803016.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01KzqXrr1vW1ysOe3mS_!!6000000006179-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "32040959255",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1713956050853/1713956050853-main.jpg",
+                    "note": "2024 五月天 [回到那一天] 25 周年",
+                    "categoryName": "其他",
+                    "title": "2024 五月天 [回到那一天] 25 周年",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊",
+                "inFieldComments": [
+                    {
+                        "id": "16005156",
+                        "comment": "下段旅程 你一定要更幸福丰盛",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/a08ce617f0ba4ff3adc7ccb5c043776b.jpg",
+                        "nickName": "Maynes",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/773359/154671832_1713148974032.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15932046",
+                        "comment": "我的30场五月天",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/adad0f673a3347d2929a03c2811bb095.jpg",
+                        "nickName": "桃桃奶欣",
+                        "userPic": "https://perico.damai.cn/userheadphotos/868419/173683866.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15920535",
+                        "comment": "你问我全世界是哪里最美",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/e1f234a0ae284709a4949bba3d68a707.jpg",
+                        "nickName": "接吻要深拥抱要真",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/98494/19698981_1693469374747.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15896609",
+                        "comment": "5525 回到那一天 直到约定融化成笑颜",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/f3feaa371bdc42248e768da89402901f.jpeg",
+                        "nickName": "赵咪呀",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/128539/25707875_1699284085810.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15869041",
+                        "comment": "五月就要有五月天！温柔，勇敢，浪漫和爱！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/00f9f1bb555d4c9cb44aa64ec867c9bb.jpg",
+                        "nickName": "浮生lb",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/756743/151348725_1678587319602.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15837141",
+                        "comment": "MAY DAY 五月天！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/c1bae65f5a674ee19e57c1d49a0520ac.jpg",
+                        "nickName": "alina",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/607513/121502773_1699164542687.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15828685",
+                        "comment": "5525回到那一天第七场526",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/8308b280cb8644688c0ca01b7b3010be.jpg",
+                        "nickName": "麦子4KSEl",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1198826/239765331_1684654451539.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15828503",
+                        "comment": "五月天2024鳥巢 Day4\n\n有人抱來5歲的孩子\n迎接人生中的第一場五月天\n\n有人陪著55歲的老爸\n一起再品嚐青春的盛宴\n\n有人靜靜的帶著35歲的自己\n在音樂中回憶人生的足跡\n\n我們   是25歲的五月天\n青春正盛\n只因有你\n\n明天\n讓我們共同迎接第5場\n鳥巢的五月天！\n\n-\n#五月天鸟巢演唱会# .\n#五月天5525回到那一天# .",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/b68c231edf524f778a254efcdc13b5de.jpg",
+                        "nickName": "松綦",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1109247/221849558_1715259870872.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15807913",
+                        "comment": "5525 25周年 北京 第6场 525",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/f9098795f670422a9b817a486a9eda05.jpg",
+                        "nickName": "麦子41HUD",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1093823/218764696_1666595708899.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15791796",
+                        "comment": "#五月天#",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/dec60478bad1496a96cb2859f1b8e1b4.jpeg",
+                        "nickName": "妖玲妖玲",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/595656/119131266_1682431095242.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15788127",
+                        "comment": "五月当然要听五月天",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/2b0d2dd2177f4bf2a5aa3a942245aaf2.png",
+                        "nickName": "繁.星.点.点.",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2454290/490858117_1713873224242.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15759848",
+                        "comment": "5525-回到那一天",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/e98f933f9e1d482a8ac25886ddbdfebc.jpg",
+                        "nickName": "-shinne-",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1188446/237689345_1685286893796.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15759176",
+                        "comment": "五月天演唱会·五迷们的大趴体",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/d142b567f5744095afcdf49461f4911b.jpg",
+                        "nickName": "曼帝92",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/288729/57745986_1694082820131.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15755023",
+                        "comment": "5525，回到那一天，来赴一场青春约会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/952b9dfb2e63470f9c95eb5bea3f0a0e.jpg",
+                        "nickName": "pastadai",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/193839/38767921_1697459582304.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15749221",
+                        "comment": "刚看完北京521的五月天❗️人生体验圆满❗️",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/2cf12f7a56f240ff86dee9f00fe0709f.jpg",
+                        "nickName": "美小崔",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/196671/39334292_1692618537971.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15746685",
+                        "comment": "“一颗心扑通的狂跳，一瞬间烦恼全忘掉”，热血青年的热血时刻，哪怕是山顶也要狂跳呐喊。五月天带给大家的是青春的回忆和这一刻忘掉所有负担的感动。冲破流言，倔强的只有用尽全力的呐喊才能证明他们是最棒的。如果我们不曾相遇，会不会有这一刻的知足，在鸟巢随着灯光闪烁，我们入阵，我们不听慢歌，我们成名在望，用温柔将名字刻在心底，或许在慢慢老去后，还会拥有今天那份回忆，回到那一天，属于我们每个人最幸福的一天。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/4a2a8a21daae4ad7a1f02578eb29b813.jpeg",
+                        "nickName": "英俊的大余仔",
+                        "userPic": "https://perico.damai.cn/userheadphotos/845568/169113673.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15745920",
+                        "comment": "五月天的粉丝真的太幸福了❗️",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/a23cec852f5142019875919068abf9b7.jpg",
+                        "nickName": "胖斌plus",
+                        "userPic": "https://perico.damai.cn/userheadphotos/581889/116377999.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15708464",
+                        "comment": "大家都好爱好爱阿信\n虽然他是个快五十岁的宝宝🥹\n所有站位最帅最C的一定属于阿信\n舞美团队都是非常爱他的🥹🥹\nwmls的爱在安可环节明明都知道还有几首歌还是很大声的喊着五月天喊着安可配合环节💙💙\n我承认洋葱让我破防了😎🥹如果你愿意..一层一层的剥开我的心…你会鼻酸..你会流泪..只要你能听到我看到我的..全心全意💙💙有收到了阿信的全心全意💙💙我承认我破防了我承认我破防了[泪][泪]我破防了[泪][泪][泪]完蛋了要爱五月天一辈子了💙💙#突然有点明白看演唱会的意义# 还有就是呃呃呃我们阿信怎么也快五十了就是说有的时候有点忘词有点破音有点辛苦有点蹦不动都是可以理解的吧🥹都快给我们阿信唱碎了🥹🥹年轻的时候写歌不知道轻重🥹🥹但我哥绝对是真唱💙💙（因为真唱错词嘻嘻🥹🥹）#阿信又幸福了##五月天##五月天鸟巢演唱会##回到那一天#",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/537ad5110ebb4a7384538567ea5492a6.jpg",
+                        "nickName": "why72639",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/683916/136783374_1683604572092.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15684365",
+                        "comment": "一二三牵着手四五六抬起头，我们去看五月天",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/618b95f89efb4b288dcbfa12ae270934.jpg",
+                        "nickName": "Doogle",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/7392/1478552_1698852013595.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15684225",
+                        "comment": "充满心意的25周年",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/d94c38a6f2c2493e9896481a661759ea.jpg",
+                        "nickName": "Rayant33",
+                        "userPic": "https://perico.damai.cn/userheadphotos/601878/120375712.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    }
+                ]
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1717739700000",
+                "sellStartTimeStr": "06月07日 13:55",
+                "priceRange": "¥355-¥1655",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "388674",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "4",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8011729283/2/801172928321.jpg"
+            }
+        }
+    }
+}

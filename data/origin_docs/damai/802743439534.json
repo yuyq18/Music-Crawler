@@ -1,0 +1,447 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_802743439534",
+    "imgurl": "-562500197",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "上海｜ 6.9 一首歌，一座城：《纽约，纽约》爵士之夜",
+    "nameNoHtml": "上海｜ 6.9 一首歌，一座城：《纽约，纽约》爵士之夜",
+    "price": "180.0",
+    "price_str": "180",
+    "pricehigh": "180.0",
+    "privilegeTags": "[]",
+    "projectid": "802743439534",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.09 周日 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "Blue Note Shanghai",
+    "venuecity": "上海",
+    "venueid": "2280002",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01QkYihA2GdSbb84Xdj_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "802743439534",
+                    "itemName": "【上海】上海｜ 6.9 一首歌，一座城：《纽约，纽约》爵士之夜",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01QkYihA2GdSbb84Xdj_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i4/2251059038/O1CN01QkYihA2GdSbb84Xdj_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.09 周日 20:00",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：上海盈寰文化传媒有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：上海盈寰文化传媒有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01hjOpEx2GdSbTrEp47_!!2251059038.png\" width=\"800\" height=\"800\" damai_width=\"800\" damai_height=\"800\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i27.79dd6b722UPuLH\"></p><p style=\"text-align: center;\"><span>1945年的纽约，战后的喧嚣已退，留下的是一座灯火辉煌、希望重燃的城市。在这个重新找到自我的时刻，一家充满烟雾和琴键声的爵士俱乐部里，一位才华横溢的萨克斯管手和一位怀揣梦想的小歌手不期而遇。灯光下，他们的目光交汇，旋律在空中缠绵悱恻。</span></p><p style=\"text-align: center;\"><span><span>经典的《</span><span>New York, New York》随着这两个寻梦者的邂逅诞生了，一个全新的时代也揭开了序幕。</span></span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01RQfLch2GdSbXKpRGP_!!2251059038.png\" width=\"628\" height=\"928\" damai_width=\"628\" damai_height=\"928\"></p><p style=\"text-align: center;\"><strong><span>一个属于爵士音乐与梦想的时代</span></strong></p><p style=\"text-align: center;\"><span><span>当弗朗西尼在舞台上唱响《</span><span>New York, New York》，她不仅唱出了自己的心声，也唱出了无数在这座城市中奋斗者的心声。</span></span></p><p style=\"text-align: center;\"><span><span>这就是马丁</span><span>·斯科塞斯通过《纽约，纽约》讲述的故事，</span></span><strong><span>一部电影，一首歌，成就了一座城市的文化符号</span></strong><span>，爵士乐也塑造了纽约的文化景观。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01hXqSnw2GdSbTrH2J0_!!2251059038.png\" width=\"1155\" height=\"851\" damai_width=\"1155\" damai_height=\"851\"></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i29.79dd6b722UPuLH\" style=\"text-align: center;\"><span>从</span><span>Louis Armstrong迁居纽约加入Fletcher Henderson的乐团，到Dizzy Gillespie与他的同伴们在Minton’s研究出Bebop，爵士乐大师们不仅在这座城市找到了自我表达的自由，也让纽约成为了全球爵士乐的中心。</span><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN011NCk2s2GdSbb3sbDH_!!2251059038.png\" width=\"1024\" height=\"1408\" damai_width=\"1024\" damai_height=\"1408\"></p><p style=\"text-align: center;\"><span>Dizzy Gillespie, New York, ca. 1947</span></p><p style=\"text-align: center;\"><span>Photo by William Gottlieb, Public Domain</span></p><p style=\"text-align: center;\"><span>&nbsp;</span><br></p><p style=\"text-align: center;\"><strong><span>旋律之城：爵士乐与纽约的不解之缘</span></strong></p><p style=\"text-align: center;\"><span>纽约，一座建筑在无数梦想与音符上的城市。</span></p><p style=\"text-align: center;\"><span>从爵士乐的诞生到其成为全球文化现象，纽约一直是这场音乐革命的前沿阵地。爵士乐的自由精神和即兴特性，使其成为表达个性与情感的完美媒介。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01G9uCWU2GdSbXKo65m_!!2251059038.png\" width=\"1200\" height=\"905\" damai_width=\"1200\" damai_height=\"905\"></p><p style=\"text-align: center;\"><span>在纽约，每一个夜晚，都有无数的音乐家在各式各样的舞台上展现他们的才华，正如影片《纽约，纽约》中的吉米和弗朗西尼。</span></p><p style=\"text-align: center;\"><span><span>现在，这场音乐盛宴即将在东方之珠</span><span>——上海——再度上演。</span></span></p><p style=\"text-align: center;\"><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i7.39ac6b72Y2JQF6\">6月9日，Blue Note Shanghai将举办“纽约，纽约”爵士之夜。在这里，您将体验来自纽约老牌爵士俱乐部的Frank Bray和爵士音乐家演奏经典的纽约旋律，感受那些曾在纽约街头回响的乐声，在上海的夜空下重新绽放光芒。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01czgMM12GdSbWa87qN_!!2251059038.png\" width=\"1080\" height=\"150\" damai_width=\"1080\" damai_height=\"150\"></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01UC1IdS2GdSbXKlwz9_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">Vocal - Frank Bray</p><p style=\"text-align: center;\">Trombone - CK曹侃</p><p style=\"text-align: center;\">Piano - Tony Bott</p><p style=\"text-align: center;\">Bass - Mike Hicks</p><p style=\"text-align: center;\">Drums - Dmitry Strelianny</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01hrggwr2GdSbWzmCEa_!!2251059038.png\" width=\"469\" height=\"469\" damai_width=\"469\" damai_height=\"469\"></p><p style=\"text-align: center;\"><strong><span><span>Frank Bray</span></span></strong></p><p style=\"text-align: center;\"><span><span>Frank Bray</span><span>出生于美国，是一位受过古典音乐训练的歌手，在他职业生涯的早期就被摇摆爵士乐所吸引。他在表演舞台上展现了自身天赋，并以其受到的深刻影响开始了自己的音乐之旅。他从</span><span>6</span><span>岁就开始登台唱歌，后来毕业于德克萨斯州达拉斯山景学院（</span><span>Mountain View</span><span>）的表演艺术音乐剧音乐学院。</span><span>Frank Bray</span><span>目前已经发行了两张专辑，其中，《</span><span>The Sting of Swing</span><span>》收录了他标志性的大乐队经典作品；第二张专辑《</span><span>So Far</span><span>》则展示了他在爵士乐创作和融合改编方面的才华。他在纽约、洛杉矶、上海等城市有着超过</span><span>20</span><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i13.39ac6b72Y2JQF6\">年的丰富表演经验，在各种爵士乐俱乐部如</span><span>Blue Note New York</span><span>、林肯中心的</span><span>Dizzy</span><span>’</span><span>s Club</span><span>等地演出，是公认的天才。同时，</span><span>Frank Bray</span><span>坚定地热爱着</span><span>Swing</span><span>的六十年代，并拥有弗兰克·辛纳屈<span>&nbsp;</span></span><span>(Frank Sinatra)<span>&nbsp;</span></span><span>赠送的麦克风，这也体现了他作为一名音乐界的传奇人物所具有的深厚历史底蕴。</span></span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01xvMgmF2GdSbXKqZxM_!!2251059038.png\" width=\"396\" height=\"396\" damai_width=\"396\" damai_height=\"396\"></p><p style=\"text-align: center;\"><strong><span><span>Trombone - CK</span><span>曹侃</span></span></strong></p><p style=\"text-align: center;\"><span><span>曹侃，南京艺术学院流行音乐学院爵士长号青年教师，上海音乐学院现代器乐与打击乐系爵士长号青年教师，星海音乐学院现代音乐与戏剧学院爵士器乐系特聘爵士长号青年教师。</span><span>2012<span>&nbsp;</span></span><span data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i34.79dd6b722UPuLH\">年本科毕业于上海音乐学院现代器乐与打击乐系，</span><span>2015<span>&nbsp;</span></span><span>年研究</span><span>Th</span><span>毕业于中俄克拉荷马大学。师从李大力，胡清文，</span><span>Jeff Kidwell, Brian Gorrell, Lee Rucker<span>&nbsp;</span></span><span>等。他是当下中国极具影响力的青年爵士长号演奏家，作曲家之一。</span></span></p><p style=\"text-align: center;\"><span><span>曹侃不仅拥有自己的乐队，</span><span>还参与了许多其他不同的音乐项目。他目前是英国手工长号品牌</span><span>Michael Rath</span><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i12.39ac6b72Y2JQF6\">，美国号嘴品牌吉丁斯</span><span>(Giddings)</span><span>品牌形象代言人。</span></span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN010lJwOP2GdSbZlLbnE_!!2251059038.png\" width=\"416\" height=\"624\" damai_width=\"416\" damai_height=\"624\"></p><p style=\"text-align: center;\"><strong><span><span>Piano - Tony Bott</span></span></strong></p><p style=\"text-align: center;\"><span><span>Tony Bott</span><span>出生和成长于伊利诺伊州的芝加哥，最初是通过弹奏风琴接触音乐的，</span><span>7</span><span>岁开始学习鼓。后来移居洛杉矶，在南加州大学（</span><span>USC</span><span>）获得学士和硕士学位，学习古典打击乐。正是在这里，他对鼓、打击乐器和钢琴的综合兴趣在所有音乐流派中得以实现。学业后他移居日本，追求在演奏和创作爵士音乐方面的更多个人目标。在</span><span>16</span><span>年的时间里，</span><span>Tony</span><span>为自己的乐队、主题公园、音乐会、商业广告和几张唱片创作、编曲和制作音乐。后他移居广州，在</span><span>AISG</span><span>教授声乐、乐队和爵士乐长达</span><span>11</span><span>年，</span><span>2020</span><span>年移居上海。</span></span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN014QY3rd2GdSbWzmSrd_!!2251059038.png\" width=\"338\" height=\"601\" damai_width=\"338\" damai_height=\"601\"></p><p style=\"text-align: center;\"><strong><span><span>Bass - Mike Hicks</span></span></strong></p><p style=\"text-align: center;\"><span><span>Michael Hicks</span><span>四岁开始接受音乐教育，他擅长独奏，直到高中转向电贝司前，他一直是州立管弦乐团的首席大提琴手。</span><span>Michael</span><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i6.39ac6b72Y2JQF6\">师从乐手</span><span>Jeff Campbell</span><span>和</span><span>Geoff Smith</span><span>，先后毕业于圣劳伦斯大学、伯克利音乐学院、和新英格兰音乐学院。曾是罗切斯特大学管弦乐团首席低音和新英格兰爱乐乐团成员。曾合作过的知名乐手包括：</span><span>Benny Golson, Lewis Nash, Michael Abene, Chico and Arturo O</span><span>’</span><span>Farril</span><span>等。</span></span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN0151uLBN2GdSbZYTRVD_!!2251059038.png\" width=\"374\" height=\"250\" damai_width=\"374\" damai_height=\"250\"></p><p style=\"text-align: center;\"><strong><span><span>Drums - Dmitry</span></span></strong></p><p style=\"text-align: center;\"><span>Dimitry Strelianny出生于俄罗斯的托木斯克。他在那里生活了5年，他最初的音乐灵感来自他哥哥和姐姐的黑胶唱片，从古典音乐到前卫音乐。Dimitry第一次聆听了来自纽约的由Max Roach、 Art Blakey、Ray Brown、he Thad Jones - Mel Lewis管弦乐团、Lee Morgan等大师的乐队演出，之后他知道自己将来想去这样的地方发展。他觉得他需要在这种氛围中生活，这样才能在音乐上成长。接下来，他便开始在莫斯科音乐学院学习。此后，他于2008年进入阿姆斯特丹音乐学院。随着求知探索的爆发力，闪电的速度，大师级节奏型和拍子记号，Dmitry 在他的音乐中呈现出来一种罕见的优雅的感觉。他的艺术独创性表现在他无与伦比的能力上。技巧，挥舞鼓棒的感觉，和非凡的能力，使他的音乐充满庄严和优雅共鸣。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01YUX1Wh2GdSbWa4hlw_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">日期：2024年6月9日（周日）</p><p style=\"text-align: center;\">入场时间：6:30 PM</p><p style=\"text-align: center;\">演出时间：8:00 PM</p><p style=\"text-align: center;\">地址/Add：上海市虹口区四川北路867号中信广场3层</p><p style=\"text-align: center;\">（入口位于四川北路沿街，商场电梯直达）</p><p style=\"text-align: center;\">Add. 3F, CITIC Plaza, No. 867 North Sichuan Road, Hongkou District, Shanghai.</p><p style=\"text-align: center;\">(The entrance is located along North Sichuan Road</p><p style=\"text-align: center;\">and can be directly accessed via the mall elevator)</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01yeoRdr2GdSbPM5z0R_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">线上预售<span>&nbsp;:</span><span>&nbsp;</span><span>¥</span>180</p><p style=\"text-align: center;\">现场全价&nbsp;:&nbsp;¥220</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01gygUwJ2GdSbUkVprt_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i42.79dd6b722UPuLH\"></p><p style=\"text-align: center;\">1. 所有网上购票观众请携带购票二维码到前台换取当日演出门票，凭票入场。门票一经出售，概不退换；</p><p style=\"text-align: center;\">2. 现场座位采取“先到先得”的方式，为能准时进场，请提前预留换票时间；</p><p style=\"text-align: center;\">3. 观众凭前台换取的桌卡进入演出场地，由服务人员引领至相应座位入座；</p><p style=\"text-align: center;\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i43.79dd6b722UPuLH\">4. 因场地座位有限，会有拼桌现象，敬请谅解；</p><p style=\"text-align: center;\">5. 儿童入场须家长陪同，请家长善尽监护义务，禁止儿童在观众席内嬉闹，以免影响其他客人；</p><p style=\"text-align: center;\">6. Blue Note Shanghai提供餐饮服务，入场后即可点餐。谢绝自带食品与酒水进入场地；</p><p style=\"text-align: center;\">7. 门票发票须演出当日凭桌卡开具；</p><p style=\"text-align: center;\"><br></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "上海盈寰文化传媒有限公司",
+                            "socialCreditCode": "91310109MA1G5MPL1E",
+                            "legalPerson": "高杉",
+                            "regCapStr": "1714.2857万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "上海市虹口区四川北路867号302室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：护照/身份证/台湾居民来往大陆通行证/港澳居民来往内地通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约90分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "2280002",
+                    "venueName": "Blue Note Shanghai",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.484046,
+                    "lat": 31.248428,
+                    "venueAddr": "上海市虹口区四川北路867号中信广场3-5层",
+                    "showCountText": "共有6个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D802743439534%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1717556531000",
+                "sellStartTimeStr": "06月05日 11:02",
+                "priceRange": "¥180",
+                "performBases": [
+                    {
+                        "name": "06.09 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1717862400000",
+                        "performs": [
+                            {
+                                "performId": "214817117",
+                                "performName": "2024-06-09 周日 20:00",
+                                "itemId": "802743439534",
+                                "projectId": "220543030",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1717934400000",
+                                "performTime": "2024.06.09 20:00",
+                                "performStartDate": "2024-06-09",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "14155",
+                    "23883",
+                    "23115",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9099",
+                    "9867",
+                    "8843",
+                    "2443",
+                    "395",
+                    "1163",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "7371",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8027434395/2/802743439534.jpg"
+            }
+        }
+    }
+}

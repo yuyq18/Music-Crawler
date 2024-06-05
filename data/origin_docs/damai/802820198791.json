@@ -1,0 +1,914 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：HENRY刘宪华、蒲熠星、陈楚生、遗忘俱乐部、单依纯、孟子坤、威神V、徐子未、颜人中、余景天(Tony)、黄誉博、沈以诚、张超、张星特、蒋芸、王晓佳、井胧、圈9、方书剑、小包zerinn",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "艺人：HENRY刘宪华、蒲熠星、陈楚生、遗忘俱乐部、单依纯、孟子坤、威神V、徐子未、颜人中、余景天(Tony)、黄誉博、沈以诚、张超、张星特、蒋芸、王晓佳、井胧、圈9、方书剑、小包zerinn",
+    "id": "1_1_802820198791",
+    "imgurl": "-561732605",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2024（上海）超级芒果音乐节",
+    "nameNoHtml": "2024（上海）超级芒果音乐节",
+    "price": "488.0",
+    "price_str": "488-688",
+    "pricehigh": "688.0",
+    "privilegeTags": "[]",
+    "projectid": "802820198791",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.29-06.30",
+    "sitestatus": "3",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": "上海国际音乐村(上海薰衣草公园北园)",
+    "venuecity": "上海",
+    "venueid": "1009019",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01v1Ml4p2GdSbXDezyD_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "802820198791",
+                    "itemName": "【上海】2024（上海）超级芒果音乐节",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "127420006",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01v1Ml4p2GdSbXDezyD_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01v1Ml4p2GdSbXDezyD_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.06.29-06.30",
+                    "showDuration": "约450分钟，仅供参考，最终以现场实际时长为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：上海快乐芒果音乐文化传媒有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：上海快乐芒果音乐文化传媒有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "4",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>上海2024首场音乐节——2024（上海）超级芒果音乐节<br>HENRY刘宪华音乐新章 ——上海音乐节首秀<br>威神V新曲风暴——携全新作品强势回归，新歌音乐节首唱舞台！<br>遗忘俱乐部全能主唱刘忻浪姐归来——2024年首场音乐节<br>周峻纬全新音乐征程——内地音乐节首秀舞台<br>蒋芸&amp;王晓佳“最佳拍档”——首次双人舞台登陆音乐节 <br>天籁之声即将官宣——超级唱将的首次音乐节演出<br>华语唱将精彩纷呈，神秘唱将即将发声<br>超多音乐人“首秀舞台”聚集地。敬请期待❗️<br>这么多的第一次，都将呈现在6月29、30日2024（上海）超级芒果音乐节<br>请大家提前点击想看，等待开票。票量不多，手慢无❗️</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01InL7oO2GdSbahCWkd_!!2251059038.jpg\" width=\"2160\" height=\"4371\" damai_width=\"2160\" damai_height=\"4371\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN0120K9UC2GdSbYO93JZ_!!2251059038.jpg\" width=\"1754\" height=\"13261\" damai_width=\"1754\" damai_height=\"13261\"></p></body></html>",
+                    "highLightsVO": {
+                        "title": "演出亮点",
+                        "content": [
+                            "芒果音乐节，为繁华热闹的魔都",
+                            "增添不一样的魅力"
+                        ]
+                    },
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "上海快乐芒果音乐文化传媒有限公司",
+                            "socialCreditCode": "91310106MA1FY9W65M",
+                            "legalPerson": "李宁",
+                            "regCapStr": "500万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(非自然人投资或控股的法人独资)",
+                            "entAddress": "上海市浦东新区申迪南路88号3303室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张、每个账号最多购买4张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：身份证/护照/外国人永久居留身份证/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳台居民居住证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约450分钟，仅供参考，最终以现场实际时长为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约60分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "150首"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "HENRY刘宪华/蒲熠星/陈楚生/刘忻&遗忘俱乐部/单依纯/孟子坤/威神V【钱锟、TEN(李永钦)、肖俊、黄冠亨、扬扬】/徐子未/颜人中/周峻纬/余景天/黄誉博/沈以诚/张超/张星特/蒋芸 王晓佳/Patti蔡宥绮/梁朋杰/井胧/圈9/方书剑/小包Zerinn"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "1009019",
+                    "venueName": "上海国际音乐村(上海薰衣草公园北园)",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.671462,
+                    "lat": 31.147797,
+                    "venueAddr": "上海市浦东新区申迪东路399弄188号上海国际音乐村（光明生态园内）",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=802820198791"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D802820198791%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "34186",
+                        "artistName": "HENRY刘宪华",
+                        "archives": "韩国男子组合Super Junior-M成员，歌手、演员",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1715595256440/1715595256440-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1759149360",
+                        "artistName": "蒲熠星",
+                        "archives": "蒲熠星，1994年4月20日出生于四川省绵阳市，中国内地男游戏主播、演员 、影评人、作家，本科毕业于南京大学，硕士毕业于约翰斯·霍普金斯大学。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1710125328391/1710125328391-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "70",
+                        "artistName": "陈楚生",
+                        "archives": "中国内地流行男歌手，演员，原创音乐人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1690253316543/1690253316543-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1370234251",
+                        "artistName": "遗忘俱乐部",
+                        "archives": "",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1624009672566/1624009672566-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "10721938599",
+                        "artistName": "单依纯",
+                        "archives": "中国内地流行乐女歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1701401784707/1701401784707-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "332719500",
+                        "artistName": "孟子坤",
+                        "archives": "孟子坤 Kanna Bush\n《明日之子》全国五强\n《中国新说唱》2020 人气选手\n2017年10月18日，受邀出席“ELLE风尚大典” ；2017年11月23日，获得网易年度态度大赏最有态度人气唱将 。 2019年5月29日，发行单曲《TELL ME WHY》 2019年6月27日，孟子坤受邀作為唯一表演嘉宾，出席EllE×FASHION ZOO时髦圈儿时髦之夜活动 2019年6月22日，国潮音乐节特邀表演嘉宾 2019年7月 6日，花世界音乐节特邀表演嘉宾 2019年8月30日，发行单曲《π》 2019年11月28日，发行首张EP《Healer》 2020年3月3日，发行单曲《Cause",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1603869324689/1603869324689-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "72605",
+                        "artistName": "威神V",
+                        "archives": "中国男子组合",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1689519100551/1689519100551-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1215076469",
+                        "artistName": "徐子未",
+                        "archives": "",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1634197986902/1634197986902-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "72654",
+                        "artistName": "颜人中",
+                        "archives": "颜人中，1994年6月17日出生于台湾省，中国台湾创作型流行乐男歌手，毕业于中国文化大学（台湾）戏剧学系。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1636354603254/1636354603254-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "28773737666",
+                        "artistName": "余景天(Tony)",
+                        "archives": "余景天(Tony)，2002年8月21日出生于四川省成都市，正能量全能偶像、流行乐男歌手、影视演员、舞者 。\n曾在海外参加Top级偶像选拔节目《Produce X 101》，成为决赛圈唯一外籍选手，并因此收获大量粉丝和行业内外的肯定与关注。回到国内后凭借其青春阳光的形象，积极向上的从业态度成为了偶像文化行业不可忽视的焦点。\n参与制作的个人首张专辑《旗》首首精品制作精良，收获行业内外的一致好评。舞台风格游刃有余感染力十足，每一次登场都会带来独一无二的视听盛宴",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1700357425308/1700357425308-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1373775454",
+                        "artistName": "黄誉博",
+                        "archives": "黄誉博，代表Z世代的新声唱作人。\n\n曾出演《星际精灵蓝多多》的男一号蓝多多，是00后“共同的回忆”。因为对音乐的热爱，决定音乐为人生方向。除了参加竞演类节目，如在《中国新声代》中，靠一系列高难度歌曲的完美演绎展现自己唱功，获得优秀成绩外，还坚持创作，在2020全国原创歌曲大赛中，凭借自作曲《水》获得冠军。发表多首歌曲上线均获得歌迷好评，并在南京成功举办“黄誉博《你 在哪儿呢》音乐专场”，受邀多次参加南京森林音乐节，现场掌控力强、唱功稳、氛围佳。如今，这位音乐少年将带领大家一起找寻失窃档案的秘密。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1706843669503/1706843669503-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "72675",
+                        "artistName": "沈以诚",
+                        "archives": "中国原创音乐人",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1626850663953/1626850663953-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "17232291",
+                        "artistName": "张超",
+                        "archives": "青年歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1590717932666/1590717932666-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1222962718",
+                        "artistName": "张星特",
+                        "archives": "",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1632306093656/1632306093656-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "62412010",
+                        "artistName": "蒋芸",
+                        "archives": "歌手、演员。音乐剧代表作《月亮与六便士》。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1684377766403/1684377766403-main.jpg",
+                        "tag": "演员",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "318214170",
+                        "artistName": "王晓佳",
+                        "archives": "王晓佳\n别名：天草\n中国内地女歌手、原创音乐人、演员，\n代表作：\n《单向镜面》、《禁止不开心》、《椰子拿铁Everything has a price》、《辛德瑞拉Cinderella》等\n参加综艺：《炙热的我们》、《准备好了就出发》",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1705462396310/1705462396310-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1224686715",
+                        "artistName": "井胧",
+                        "archives": "",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1623722917859/1623722917859-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "287972510",
+                        "artistName": "圈9",
+                        "archives": "圈住那个9（圈9），本名史兆怡，中国内地流行女歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1714451668646/1714451668646-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "25876738711",
+                        "artistName": "方书剑",
+                        "archives": "2016年通过上海音乐学院声乐歌剧系、音乐戏剧系双专业考试，同年被上海音乐学院音乐戏剧系录取，2020年以优异的专业成绩免试保送上海音乐学院研究生。在校期间获国家级“中银”奖学⾦、上海大学生年度人物入围奖、上海⾳乐学院⼀等奖学⾦、三好学⽣、优秀班⼲部、优秀志愿者；获2019 上海市舞台作品评选展演新人奖，2020 上海司法行政戒毒公益宣传大使，2021中央电视台《上线吧！华彩少年》“国风少年成长计划优秀代表”，2021 首届舞台剧产业发展论坛助力大使/青年音乐剧演员优秀代表，2022 星光YOUNG年度盛典最具潜力音乐剧男演员奖，2022“明天会更好”华语音乐剧大赏推广大使等荣誉。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1688608365032/1688608365032-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "29081024888",
+                        "artistName": "小包zerinn",
+                        "archives": "1997年7月8日出生\n唱作代表作：《入夜雪》《云朵亲吻月亮》《烂借口》《Maybe I》\n翻唱代表作：《匿名的好友》《左边》《如果的事》\n2017年参与真人秀百老汇的演员集训营《爱斗游戏》拍摄进入大众视野；2018年参加《星动亚洲》第三季获得全国五强称号，加入男子组合ADPLUS作为团内大主唱；随后参与爱奇艺《心动的味道2》录制，成为常驻嘉宾。2023年参与《火星情报局》第六季作为飞行嘉宾录制。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1701317346474/1701317346474-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "34186",
+                        "name": "HENRY刘宪华",
+                        "desc": "韩国男子组合Super Junior-M成员，歌手、演员",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1715595256440/1715595256440-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1759149360",
+                        "name": "蒲熠星",
+                        "desc": "蒲熠星，1994年4月20日出生于四川省绵阳市，中国内地男游戏主播、演员 、影评人、作家，本科毕业于南京大学，硕士毕业于约翰斯·霍普金斯大学。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1710125328391/1710125328391-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "70",
+                        "name": "陈楚生",
+                        "desc": "中国内地流行男歌手，演员，原创音乐人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1690253316543/1690253316543-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1370234251",
+                        "name": "遗忘俱乐部",
+                        "desc": "",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1624009672566/1624009672566-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "10721938599",
+                        "name": "单依纯",
+                        "desc": "中国内地流行乐女歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1701401784707/1701401784707-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "332719500",
+                        "name": "孟子坤",
+                        "desc": "孟子坤 Kanna Bush\n《明日之子》全国五强\n《中国新说唱》2020 人气选手\n2017年10月18日，受邀出席“ELLE风尚大典” ；2017年11月23日，获得网易年度态度大赏最有态度人气唱将 。 2019年5月29日，发行单曲《TELL ME WHY》 2019年6月27日，孟子坤受邀作為唯一表演嘉宾，出席EllE×FASHION ZOO时髦圈儿时髦之夜活动 2019年6月22日，国潮音乐节特邀表演嘉宾 2019年7月 6日，花世界音乐节特邀表演嘉宾 2019年8月30日，发行单曲《π》 2019年11月28日，发行首张EP《Healer》 2020年3月3日，发行单曲《Cause",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1603869324689/1603869324689-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "72605",
+                        "name": "威神V",
+                        "desc": "中国男子组合",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1689519100551/1689519100551-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1215076469",
+                        "name": "徐子未",
+                        "desc": "",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1634197986902/1634197986902-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "72654",
+                        "name": "颜人中",
+                        "desc": "颜人中，1994年6月17日出生于台湾省，中国台湾创作型流行乐男歌手，毕业于中国文化大学（台湾）戏剧学系。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1636354603254/1636354603254-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "28773737666",
+                        "name": "余景天(Tony)",
+                        "desc": "余景天(Tony)，2002年8月21日出生于四川省成都市，正能量全能偶像、流行乐男歌手、影视演员、舞者 。\n曾在海外参加Top级偶像选拔节目《Produce X 101》，成为决赛圈唯一外籍选手，并因此收获大量粉丝和行业内外的肯定与关注。回到国内后凭借其青春阳光的形象，积极向上的从业态度成为了偶像文化行业不可忽视的焦点。\n参与制作的个人首张专辑《旗》首首精品制作精良，收获行业内外的一致好评。舞台风格游刃有余感染力十足，每一次登场都会带来独一无二的视听盛宴",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1700357425308/1700357425308-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1373775454",
+                        "name": "黄誉博",
+                        "desc": "黄誉博，代表Z世代的新声唱作人。\n\n曾出演《星际精灵蓝多多》的男一号蓝多多，是00后“共同的回忆”。因为对音乐的热爱，决定音乐为人生方向。除了参加竞演类节目，如在《中国新声代》中，靠一系列高难度歌曲的完美演绎展现自己唱功，获得优秀成绩外，还坚持创作，在2020全国原创歌曲大赛中，凭借自作曲《水》获得冠军。发表多首歌曲上线均获得歌迷好评，并在南京成功举办“黄誉博《你 在哪儿呢》音乐专场”，受邀多次参加南京森林音乐节，现场掌控力强、唱功稳、氛围佳。如今，这位音乐少年将带领大家一起找寻失窃档案的秘密。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1706843669503/1706843669503-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "72675",
+                        "name": "沈以诚",
+                        "desc": "中国原创音乐人",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1626850663953/1626850663953-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "17232291",
+                        "name": "张超",
+                        "desc": "青年歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1590717932666/1590717932666-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1222962718",
+                        "name": "张星特",
+                        "desc": "",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1632306093656/1632306093656-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "62412010",
+                        "name": "蒋芸",
+                        "desc": "歌手、演员。音乐剧代表作《月亮与六便士》。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1684377766403/1684377766403-main.jpg",
+                        "tag": "演员",
+                        "type": "1"
+                    },
+                    {
+                        "id": "318214170",
+                        "name": "王晓佳",
+                        "desc": "王晓佳\n别名：天草\n中国内地女歌手、原创音乐人、演员，\n代表作：\n《单向镜面》、《禁止不开心》、《椰子拿铁Everything has a price》、《辛德瑞拉Cinderella》等\n参加综艺：《炙热的我们》、《准备好了就出发》",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1705462396310/1705462396310-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1224686715",
+                        "name": "井胧",
+                        "desc": "",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1623722917859/1623722917859-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "287972510",
+                        "name": "圈9",
+                        "desc": "圈住那个9（圈9），本名史兆怡，中国内地流行女歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1714451668646/1714451668646-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "25876738711",
+                        "name": "方书剑",
+                        "desc": "2016年通过上海音乐学院声乐歌剧系、音乐戏剧系双专业考试，同年被上海音乐学院音乐戏剧系录取，2020年以优异的专业成绩免试保送上海音乐学院研究生。在校期间获国家级“中银”奖学⾦、上海大学生年度人物入围奖、上海⾳乐学院⼀等奖学⾦、三好学⽣、优秀班⼲部、优秀志愿者；获2019 上海市舞台作品评选展演新人奖，2020 上海司法行政戒毒公益宣传大使，2021中央电视台《上线吧！华彩少年》“国风少年成长计划优秀代表”，2021 首届舞台剧产业发展论坛助力大使/青年音乐剧演员优秀代表，2022 星光YOUNG年度盛典最具潜力音乐剧男演员奖，2022“明天会更好”华语音乐剧大赏推广大使等荣誉。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1688608365032/1688608365032-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "29081024888",
+                        "name": "小包zerinn",
+                        "desc": "1997年7月8日出生\n唱作代表作：《入夜雪》《云朵亲吻月亮》《烂借口》《Maybe I》\n翻唱代表作：《匿名的好友》《左边》《如果的事》\n2017年参与真人秀百老汇的演员集训营《爱斗游戏》拍摄进入大众视野；2018年参加《星动亚洲》第三季获得全国五强称号，加入男子组合ADPLUS作为团内大主唱；随后参与爱奇艺《心动的味道2》录制，成为常驻嘉宾。2023年参与《火星情报局》第六季作为飞行嘉宾录制。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1701317346474/1701317346474-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "60474",
+                    "wantNumStr": "6.0万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过88%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01HRvUZB1lBHsggFFau_!!6000000004780-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2265146/453029303_1693541741982.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01VakeDk28c4Chw6wSJ_!!6000000007952-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/863607/172721524.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01sUUZpm1tgRkwPdMX0_!!6000000005931-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「开售提醒」</span>购票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "869470651",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1626746577874/1626746577874-main.jpg",
+                    "note": "上海的繁华,总是吸引着无数年轻人前去体验,如今,一场热情浪漫的音乐节,将要在上海举办,为繁华热闹的魔都,增添不一样的魅力。",
+                    "categoryName": "音乐节",
+                    "title": "芒果音乐节",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "90",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "13",
+                "sellStartTime": "1717578582000",
+                "sellStartTimeStr": "06月05日 17:09",
+                "priceRange": "¥488-¥688",
+                "performBases": [
+                    {
+                        "name": "06.29 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1719590400000",
+                        "performs": [
+                            {
+                                "performId": "214764088",
+                                "performName": "2024-06-29  周六 13:30",
+                                "itemId": "802820198791",
+                                "projectId": "220599012",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1719639000000",
+                                "performTime": "2024.06.29 13:30",
+                                "performStartDate": "2024-06-29",
+                                "performBeginTime": "13:30",
+                                "singleLimit": "4",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "06.30 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1719676800000",
+                        "performs": [
+                            {
+                                "performId": "214753128",
+                                "performName": "2024-06-30 周日 13:30",
+                                "itemId": "802820198791",
+                                "projectId": "220599012",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1719725400000",
+                                "performTime": "2024.06.30 13:30",
+                                "performStartDate": "2024-06-30",
+                                "performBeginTime": "13:30",
+                                "singleLimit": "4",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "2",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "1636290",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "4",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8028201987/2/802820198791.jpg"
+            }
+        }
+    }
+}
