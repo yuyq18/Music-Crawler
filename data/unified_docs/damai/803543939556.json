@@ -1,0 +1,59 @@
+{
+    "platform": "大麦",
+    "project_id": "803543939556",
+    "project_name": "「千万亿个梦」贰佰2024新专辑巡演 第二轮 长治站",
+    "category_name": "演唱会",
+    "artists": [
+        "贰佰"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.27 周五 20:00",
+    "session_time": [
+        "09.27 周五"
+    ],
+    "price": "150-180",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "长治",
+    "venue_name": "伟瓦Livehouse",
+    "venue_info": {
+        "venue_address": "山西省长治市潞州区太行西街159号双创梦工厂27号厂房 双创梦工厂（原锻压厂）VIVA livehouse",
+        "lng": 113.062222,
+        "lat": 36.097092
+    },
+    "project_info": " \n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01Ylt5Dl2GdSbZdF8tz_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01MgHesI2GdSbbdmQlH_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "799370032162",
+            "cityName": "温州站",
+            "showTime": "08.28"
+        },
+        {
+            "itemId": "799123739841",
+            "cityName": "杭州站",
+            "showTime": "08.30"
+        },
+        {
+            "itemId": "797824963022",
+            "cityName": "南京站",
+            "showTime": "09.01"
+        },
+        {
+            "itemId": "803543939556",
+            "cityName": "长治站",
+            "showTime": "09.27"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=803543939556"
+}

@@ -1,0 +1,40 @@
+{
+    "platform": "猫眼",
+    "project_id": "331950",
+    "project_name": "2024秦皇岛海洋音乐节",
+    "category_name": "音乐节",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2024.6.22 / 6.23",
+    "session_time": [
+        "2024.6.22 ",
+        " 6.23"
+    ],
+    "price": "80-380",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "秦皇岛",
+    "venue_name": "秦皇岛奥体中心体育场",
+    "venue_info": {
+        "venue_address": "河北大街西段",
+        "lng": "119.553327",
+        "lat": "39.908407"
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://p0.meituan.net/myvideodistribute/6e925fdc6609a6061ef8cb20754aba7b352302.png",
+        "https://p1.meituan.net/myvideodistribute/e1a6b1ca2f339140367cefc8554f8a1e238100.jpg?w=1280&h=960",
+        "https://p0.meituan.net/myvideodistribute/b8e7eb0a0916ae4a2d76c4370787c304186596.jpg?w=1280&h=960",
+        "https://p1.meituan.net/myvideodistribute/fdf2e9e1ddb303ccd1a4df5eb4ee9501304179.jpg?w=1280&h=1920",
+        "https://p0.meituan.net/myvideodistribute/13e548cd60473e70a352fd671ed41f01120473.jpg?w=1280&h=892"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/331950"
+}

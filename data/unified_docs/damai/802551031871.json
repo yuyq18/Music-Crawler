@@ -1,0 +1,57 @@
+{
+    "platform": "大麦",
+    "project_id": "802551031871",
+    "project_name": "2024 ICE杨长青“LIFE”巡演-成都站",
+    "category_name": "演唱会",
+    "artists": [
+        "ICE杨长青"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.07.06 周六 20:00",
+    "session_time": [
+        "07.06 周六"
+    ],
+    "price": "288-458",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "成都",
+    "venue_name": "东区超级音乐现场",
+    "venue_info": {
+        "venue_address": "四川省成都市成华区东郊记忆演艺中心",
+        "lng": 104.12217,
+        "lat": 30.669107
+    },
+    "project_info": "【VIP权益】：1. 优先进场 2. 纪念小卡（每场限定）3. 1v1合影（演出后进行）\n【团体福利合影权益】：每站将增加20个名额参与团体合照福利，凡是购买了预售/普通票的歌迷们将可获得与ICE杨长青合照的机会，10人为一组参与合影。所有名额将采取随机的形式进行抽取，每站合影名单将于对应演出日的14点在主办的社交平台及该站票务页面公布。\nICE杨长青全新巡演之旅即将启程！\n以“LIFE”为主题，意即是生活，也是生命；是感觉，也是态度。\n“LIVE”是听众的LIVE，是属于ICE的LIVE。从人出发，剥离表象，探寻内心；用音乐代替语言，让表达突破表达。\n“FIRE”“ICE”“IF”将从三个风格篇章呈现出ICE对LIVE的理解与感受，以及对自我生命的追问。春暖花开之时，以北京作为启程站，开启2024 ICE杨长青“LIFE”巡演之旅。北京、沈阳、厦门、杭州、南京、成都、广州从北走到南，和大家一起在现场体验属于“LIVE”的人生百态和生活过往。",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01141dJQ2GdSbZWerAk_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01UO0uJf2GdSbV3PGhH_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01049Cjm2GdSbaRkzlF_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01q9Qach2GdSbUiYK4C_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01SgUkpx2GdSbUiXeUH_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "811",
+        "wantNumStr": "811",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "802649994250",
+            "cityName": "广州站",
+            "showTime": "08.17"
+        },
+        {
+            "itemId": "777758670840",
+            "cityName": "南京站",
+            "showTime": "06.21"
+        },
+        {
+            "itemId": "802551031871",
+            "cityName": "成都站",
+            "showTime": "07.06"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=802551031871"
+}

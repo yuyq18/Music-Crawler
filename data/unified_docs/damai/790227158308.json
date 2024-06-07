@@ -1,0 +1,55 @@
+{
+    "platform": "大麦",
+    "project_id": "790227158308",
+    "project_name": "林志炫ONEtake2.0《我忘了我已老去》演唱会 - 北京站",
+    "category_name": "演唱会",
+    "artists": [
+        "林志炫"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.07 周六 19:00",
+    "session_time": [],
+    "price": "480-1380",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "华熙LIVE·五棵松·场馆",
+    "venue_info": {
+        "venue_address": "北京海淀区复兴路69号",
+        "lng": 116.280709,
+        "lat": 39.9083
+    },
+    "project_info": "\n\n\n \n我\n星辰大海，只为你而来\n \n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01FikIAi2GdSavYbrLI_!!2251059038.jpg",
+        "https://damai-mx-partner-admin.oss-cn-beijing.aliyuncs.com/3acd4488-5ced-42da-8093-07dbd61f6c87.jpg?x-oss-process=image/quality,q_60/format,webp",
+        "https://damai-mx-partner-admin.oss-cn-beijing.aliyuncs.com/0f2aca17-df6d-4c85-8f8a-fb9566022626.jpg?x-oss-process=image/quality,q_60/format,webp",
+        "https://damai-mx-partner-admin.oss-cn-beijing.aliyuncs.com/99c3c2fa-fa0d-444b-b2c2-92cc81d93854.jpg?x-oss-process=image/quality,q_60/format,webp",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01rhSNIa2GdSXPCN4q6_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "5933",
+        "wantNumStr": "5933",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过54%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "791775754321",
+            "cityName": "西安站",
+            "showTime": "08.17"
+        },
+        {
+            "itemId": "790227158308",
+            "cityName": "北京站",
+            "showTime": "09.07"
+        },
+        {
+            "itemId": "800718103001",
+            "cityName": "上海站",
+            "showTime": "07.20"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=790227158308"
+}

@@ -1,0 +1,618 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：安溥",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "893",
+    "cityname": "广州",
+    "couponTags": "[]",
+    "description": "艺人：安溥",
+    "id": "1_1_802487149529",
+    "imgurl": "-565063097",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "《安溥·时寐》巡回演唱会-广州站",
+    "nameNoHtml": "《安溥·时寐》巡回演唱会-广州站",
+    "price": "380.0",
+    "price_str": "380-980",
+    "pricehigh": "980.0",
+    "privilegeTags": "[]",
+    "projectid": "802487149529",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.06.29-06.30",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "广州亚运城综合体育馆",
+    "venuecity": "广州",
+    "venueid": "59633",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN014tCa4B2GdSbWRNDW9_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "802487149529",
+                    "itemName": "【广州】《安溥·时寐》巡回演唱会-广州站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "440100",
+                    "cityName": "广州市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN014tCa4B2GdSbWRNDW9_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN014tCa4B2GdSbWRNDW9_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.06.29-06.30",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：广州亚运城综合体育馆运营管理有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：广州亚运城综合体育馆运营管理有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "893",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><span style=\"font-size: 16px;\"><strong>《安溥·时寐》巡回演唱会-广州站预售时间说明：</strong></span><br><span style=\"font-size: 16px;\"><strong>6月29日场次 6月15日11：18 预售</strong></span><br><span style=\"font-size: 16px;\"><strong>6月30日场次 6月15日13：18 预售</strong></span></p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01MWL4CE2GdSbYpiJa9_!!2251059038.jpg\" width=\"750\" height=\"11530\" damai_width=\"750\" damai_height=\"11530\"></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "北京杰出安可文化传媒有限公司",
+                            "socialCreditCode": "91110105MA01G9R01F",
+                            "legalPerson": "程远",
+                            "regCapStr": "100万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人独资)",
+                            "entAddress": "北京市朝阳区管庄双桥路8号咸宁产业园G区一层1108"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张、每个账号最多购买4张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/护照/台湾居民来往大陆通行证/身份证/港澳台居民居住证/外国人永久居留身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "安溥"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "59633",
+                    "venueName": "广州亚运城综合体育馆",
+                    "venueProvinceName": "广东省",
+                    "venueCityName": "广州市",
+                    "lng": 113.480797,
+                    "lat": 22.942031,
+                    "venueAddr": "广州市番禺区兴亚大道33号",
+                    "showCountText": "共有4个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "802487149529",
+                        "cityName": "广州站",
+                        "showTime": "06.29-06.30",
+                        "tourId": "4312"
+                    },
+                    {
+                        "itemId": "797913675422",
+                        "cityName": "杭州站",
+                        "showTime": "07.05-07.06",
+                        "tourId": "4312"
+                    },
+                    {
+                        "itemId": "777258169056",
+                        "cityName": "济南站",
+                        "showTime": "06.15-06.16",
+                        "tourId": "4312"
+                    },
+                    {
+                        "itemId": "782730450219",
+                        "cityName": "南京站",
+                        "showTime": "06.08-06.09",
+                        "tourId": "4312"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=802487149529"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D802487149529%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "2512",
+                        "artistName": "安溥",
+                        "archives": "曾用名张悬，中国台湾女歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1708941288330/1708941288330-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "2512",
+                        "name": "安溥",
+                        "desc": "曾用名张悬，中国台湾女歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1708941288330/1708941288330-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "10570",
+                    "wantNumStr": "1.1万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过66%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i3/O1CN01prjtaq1EkCl1Unc3U_!!6000000000389-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/115348/23069679.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01xaKrwg1sZkLQhsrPN_!!6000000005781-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/906092/181218556_1681742896074.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01NhsMhM1EE927ZzCv9_!!6000000000319-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "149090216",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1700044181770/1700044181770-main.jpg",
+                    "note": "安溥，曾以笔名张悬于Sony BMG唱片公司作为签约歌手与创作者度过七年时光，期间曾发行四张华语全创作专辑，曾以作品“玫瑰色的你”获得金曲奖最佳作词人，以制作人与导演身份制作个人概念演唱会“潮水箴言”•“炼云”，均在票房表现与回响中大获好评，每有演出皆告完\n售。安溥演出风格鲜明，词风洗炼，语法奇异，意象与隐喻性多元深刻，是当代华语乐坛另类摇滚与民谣的标志性人物，此刻并以艺人，演唱会与音乐制作人的身份继续朝音乐与舞台艺术的哲学观深度，呈现广度与连结人心的可能性探索。",
+                    "categoryName": "其他",
+                    "title": "安溥《时寐》巡回演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊",
+                "inFieldComments": [
+                    {
+                        "id": "15565913",
+                        "comment": "看安溥的演唱会，我总是看歌词看着看着就开始出神，思维随着歌词就飞走了，一边费力把思维拽回来，一边想好奇怪啊自己怎么今天看演唱会总是出神？还在疑惑呢，安溥突然在talking里说“音乐有一刻会让人出神，是音乐和人之间最美妙的事情”，一瞬间大脑突然开始放烟花，这根本就是是歌手和听众和歌曲三者之间最最美妙的事情！[烟花R]\n另外感谢音乐和记忆的链接，听到这首歌一瞬间回忆起第一次听这首歌的十年前某个傍晚的音乐节，那种空旷的音色和半黑半亮的天色，好怀念那个时候的一切啊",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/fafbd23f9a45462389e0f341a8fb3491.jpeg",
+                        "nickName": "麦子",
+                        "userPic": "https://perico.damai.cn/userheadphotos/181637/36327456.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15149214",
+                        "comment": "上海时寐后劲太大了，用我现有的文化水平描述，我原以为自己一定会哭 ，但是当真正看到听到安溥的时候，内心是激动而又平静。没想到自己真的见到了安溥本人而不是之前只能在手机里看到，即使离得很远，可是真正听到她声音的时候，比往日戴着耳机听着她的歌少了一些惆怅而多了几分感慨，感慨生活和时间，她给予我们听众的，不止是她自己的经历得来的人生哲理，也给了我们一个精神依靠，是我们梦的依托，同时她的温柔和耐心，也是一份慰藉。在我糟糕的生活里架起一道彩虹🌈🌈即使这片彩虹仅仅只能维持两个小时，现在梦醒了 一切又回到从前。此刻感受就像麻麻酱说的那样：台上的人对观众而言是一场美梦，通过歌手们的一场场演出，我们得以在美梦里休息，或者因此想要醒过来继续过好自己的生活。焦安溥谢谢你来上海造的美梦，听到了my life will…和亲爱的已满足。在很多不被了解的时候，一直被你的歌声深深地祝福和鼓励着，谢谢时寐上海，我的电量充满咯。\n在去上海见安溥的路上见到了很多形形色色的人。和我完全同路，在地铁上互相瞟了好几眼的小哥；坐在我旁边安安静静听完你唱歌的姐姐，头发一直有一股淡淡的很好闻的香气（大概以后回想起上海时寐只能想到这一种味道）；还有举着与你握手的旗帜结束后自发唱着玫瑰色的大家。我想我会记很久。\n下午四点半开始排队进场，大家一起抵制插队的人，进场馆很多溥丝在发周边，真的非常感谢，三言两语大家的距离就拉近了，一起聊那些追安溥的日子，临时上厕所也帮我占位置，人美心善的安溥粉，喜欢听安溥的粉丝坏不到哪里去！排那么久的队，看到喜欢13年的人终于站在我的面前真的值了，《最好的时光》一开始我和旁边的粉丝就开始抹眼泪，听到“亲爱的，我想念你呀～”，泪更是止不住。。等她说到“听说昨天c区最后一排的朋友什么也看不到，今天我努力和你们招手。我也知道在前排的朋友们排了很久的队....”又开始哭😭这个人怎么这么好，昨天我就是最后一排的人，今天我也是前排的朋友，妆都哭花了，原来排在前面可以看到音响着火，可以看到ai先生设计的“如何避开上班压力”“不要去工作”，可以清楚听到“我你若担心你不能飞，你有我的 一切”，，《两者》的时候音响着火，我的心也开始火热。\n小学的时候听《宝贝》在家等着爸爸妈妈回家，初中听着《喜欢》开启暗恋之旅，高三失眠听着《亲爱的》入睡，前几年才开始了解这个叫张悬的人，她究竟有什么魅力能唱着这么好听的歌陪我长大，关注后才发现她真的魅力很大，我们没有走失真的太好了👍\n现在想起4月13号上海安溥首场真的美的就是一场梦，你说“谢谢我们活在你的美梦里”，我也谢谢你活在我的梦里，看演出前的疲惫全在这场梦里消失，我终于成长到可以一个人来看你的演唱会了，我们下一个梦见。\n每每看到看到这样的瞬间，作为第三视角，我都会遗憾自己是个胆小又懦弱的旁观者，很抱歉我实在没有勇气加入一次盛大的呐喊和欢呼。但每每听你唱歌，我又感觉自己是歌里和人生的主角，感谢你教会我许多，我会试着更勇敢💪\n从最好的时光第一句开始我的眼泪就在眼眶里打转，唱到如何的时候我却哭不出来了。我想不起来无数个头昏脑胀的夜晚你与我度过的时光，我看到你就站在那里，穿着漂亮的裙子，像神一样站在灯光下唱歌，特别美，我只想着下次再见。🥺\n我们没有走失真是太好了，谢谢我还能够见到你。\n安溥唱完安可结束后的最后一秒，我突然才意识到今天晚上真是一场盛大的美梦。梦醒来我又穿过人群走进拥挤的地铁，继续以第三人称的身份生活。\n但是还是要谢谢你，也只能谢谢你。谢谢你的语言和诗、音乐和歌声，谢谢你的爱与真诚，谢谢你陪我度过无数个难捱的深夜还有崩溃的瞬间，你的力量让漫长的黑夜凿出了一道微弱的光。\n谢谢你为我编织了一场不可言说的美梦！\n与你握手。🤝🤝🤝",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/873e43835ad94476b93c0e88ed2137e7.jpg",
+                        "nickName": "陪小坤看日落_",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1224820/244964055_1689572039436.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15056103",
+                        "comment": "我拥有的都是侥幸",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/4f6ff5eec1aa4b5696101ff0b2ef89aa.jpeg",
+                        "nickName": "zaq1mlp20989",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/33658/6731704_1714652894774.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    }
+                ]
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1718421480000",
+                "sellStartTimeStr": "06月15日 11:18",
+                "priceRange": "¥380-¥980",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "14155",
+                    "23883",
+                    "23115",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9099",
+                    "9867",
+                    "8843",
+                    "2443",
+                    "395",
+                    "1163",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "7371",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "4",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8024871495/2/802487149529.jpg"
+            }
+        }
+    }
+}

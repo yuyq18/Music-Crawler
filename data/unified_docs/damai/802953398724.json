@@ -1,0 +1,70 @@
+{
+    "platform": "大麦",
+    "project_id": "802953398724",
+    "project_name": "永庆升平2024德云社郭德纲·于谦相声专场-深圳站",
+    "category_name": "演唱会",
+    "artists": [
+        "郭德纲",
+        "于谦"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.07.19 周五 19:00",
+    "session_time": [],
+    "price": "366-1866",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "深圳湾体育中心\"春茧\"体育馆",
+    "venue_info": {
+        "venue_address": "深圳市滨海大道3001号（南山区科苑南路与海德三道交汇处）",
+        "lng": 113.949666,
+        "lat": 22.517593
+    },
+    "project_info": "演出名称：永庆升平2024德云社郭德纲·于谦相声专场-深圳站演出时间：2024年7月19日19:00演出地点：深圳湾体育中心“春茧”体育馆票价：内场：1866/1566/1266看台：1266/966/666/366\n \n演出介绍\n \n北京德云社是以弘扬北方民族文化、培养曲艺人才、服务大众为主旨的曲艺演出团体。上世纪九十年代中期相声艺术走进低谷时，在老艺术家的支持下郭德纲组织起了当初的演出社团“北京相声大会”，经历了二十一年的风雨历程走到今日实属艰辛，然值得欣慰的是经过郭德纲先生和众多位新老相声演员的不懈努力，德云社正在逐步走向辉煌。德云社在各地的演出持续火爆，也从一定程度上说明了好的相声在各地都是有很大的市场。如今，“到德云社听相声”已经成为一种时尚文化消费。\n\n郭德纲“非著名相声演员”、电影、电视剧演员、电视脱口秀主持人。1973年生于天津，自幼酷爱民间艺术，1979年投身艺坛，师从侯耀文，得到多位相声名家的指点、传授。其间又潜心学习了京剧、评剧、河北梆子等剧种，辗转于梨园多年的经历对丰富自己的相声表演起了十分重要的作用，通过对多种艺术形式的借鉴，逐渐地形成了自己的表演风格。\n\n于谦1969年1月24日出生于北京，祖籍陕西蓝田冯家村，中国内地相声演员、影视演员、主持人 。1982年，考入北京市戏曲学校相声班学艺，在校期间跟随相声演员王世臣、罗荣寿、高凤山、赵世忠学习。1985年，拜相声演员石富宽为师。2004年正式加盟德云社。\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01PQHN1a2GdSbaeALeI_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Y4Ek9t2GdSbQS1vNO_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN012YIEdj2GdSbVq5xaQ_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01fzInkv2GdSbXj2cKq_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "948",
+        "wantNumStr": "948",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "803811364655",
+            "cityName": "淮安站",
+            "showTime": "07.14"
+        },
+        {
+            "itemId": "802953398724",
+            "cityName": "深圳站",
+            "showTime": "07.19"
+        },
+        {
+            "itemId": "802207723719",
+            "cityName": "济南站",
+            "showTime": "08.10"
+        },
+        {
+            "itemId": "796784142035",
+            "cityName": "上海站",
+            "showTime": "06.08"
+        },
+        {
+            "itemId": "793436030622",
+            "cityName": "北京站",
+            "showTime": "06.10"
+        },
+        {
+            "itemId": "798186304224",
+            "cityName": "南京站",
+            "showTime": "06.29"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=802953398724"
+}

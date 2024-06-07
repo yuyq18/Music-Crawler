@@ -1,0 +1,431 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_803578239346",
+    "imgurl": "-554152199",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "【全座席】曹思義 2024「四时光景」吉他演奏会 上海站",
+    "nameNoHtml": "【全座席】曹思義 2024「四时光景」吉他演奏会 上海站",
+    "price": "180.0",
+    "price_str": "180-300",
+    "pricehigh": "300.0",
+    "privilegeTags": "[]",
+    "projectid": "803578239346",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.07.21 周日 14:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "新歌空间",
+    "venuecity": "上海",
+    "venueid": "6212003",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01mfRLCm2GdSbbpQBXL_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "803578239346",
+                    "itemName": "【上海】【全座席】曹思義 2024「四时光景」吉他演奏会 上海站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01mfRLCm2GdSbbpQBXL_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i2/2251059038/O1CN01mfRLCm2GdSbbpQBXL_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.07.21 周日 14:00",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：杭州可楠文化传媒有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：杭州可楠文化传媒有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><span data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i40.79dd6b72CQA0X7\">【</span><span>全座席</span><span>】</span><span>曹思義 2024「四时光景」吉他演奏会</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i41.79dd6b72CQA0X7\"><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01GSa4912GdSbN9190W_!!2251059038.png\" width=\"651\" height=\"811\" damai_width=\"651\" damai_height=\"811\"></span><br></p><p><span>国风指弹代表艺术家曹思义，在2024的春天推出全新音乐企划《二十四节气》系列，将二十四节气一一谱为乐曲，用自然的律动与吉他琴音交织。</span></p><p><span>&nbsp;</span><br></p><p><span>二十四节气，作为中国古老的时间系统，每个节气都有着独特的意义和特点。大地苏醒之时，是立春，曹思义的二十四节气系列的开篇曲《立春》，用轻柔的琴音勾勒出春天的绚丽画卷。《春</span><span>分</span><span>》温暖而舒缓，如同春风拂面。而后是有带着些许忧伤的《清明》，吉他的音符变得更加缠绵悠扬，勾起一些回忆，带着我们穿越时空，感受生命的流动。</span></p><p><span>跟随四季的流转循环，音符们穿越时光的长河，曹思义将节气的变化和情感的起伏编织成这一系列创作。</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i46.79dd6b72CQA0X7\"><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN014coiIA2GdSbLtcpMw_!!2251059038.jpg\" width=\"2000\" height=\"1333\" damai_width=\"2000\" damai_height=\"1333\"></span><br></p><p><span>《二十四节气》系列从春天出发，「四时光景」巡演将同样以时间为概念在夏天启程，曹思义将带来《23:30》、《星河》等经典曲目，以及最新发行的春夏篇章中的部分曲目。二十四节气系列歌曲将跟随今年的节气发行，期待共同在曹思义的音乐中度过</span><span>春、</span><span>夏。</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i51.79dd6b72CQA0X7\"><span>&nbsp;</span><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01CHYYjr2GdSbK1xrjG_!!2251059038.jpg\" width=\"1280\" height=\"1280\" damai_width=\"1280\" damai_height=\"1280\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01UYRjIg2GdSbN96VnR_!!2251059038.png\" width=\"712\" height=\"715\" damai_width=\"712\" damai_height=\"715\"></p><p><span>【关于《二十四节气》系列创作】</span></p><p><span>二十四节气，是上古先民对太阳周年运动的观察探索，古老的智慧里，有着中华文化独有的浪漫。</span></p><p><span>始于立春，终于大寒，循环往复，星移物换。节气轮转中，变换的又何止是物，还有人的心境与幽思。</span></p><p><span>春雨惊春清谷天。属于春天的六个节气，在画家的调色盘里，大约是葱绿与桃红，鹅黄与天青；在诗人的吟哦声中，大约是天街小雨润如酥，是枝上柳绵吹又少……</span></p><p><span>那么，琴弦上的春天，又会在你的心湖里，激起怎样的涟漪？</span></p><p><span>--</span></p><p><span>「曹思義」简介&nbsp;</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i59.79dd6b72CQA0X7\"><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01d1Yzdi2GdSbMIsQ0Z_!!2251059038.jpg\" width=\"2000\" height=\"1333\" damai_width=\"2000\" damai_height=\"1333\"></span><br></p><p><span>中国指弹吉他演奏家、作曲家，中国风吉他独奏音乐的先行者。</span></p><p><span>他的作品拥有梦幻般的意境，同时结合了中国古典美感，让人情不自禁地陶醉其中。他的演奏拥有独特的音色，在闭目聆听的瞬间，几乎让人难以分辨这个是吉他，还是古琴与古筝等中国古典乐器。</span></p><p><span>他的作品充满着禅意，演奏的每个音符仿佛都在触摸心底最柔然的地方，给予听众一次畅快淋漓的心灵疗愈之旅。</span></p><p><span>&nbsp;</span><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Nzn9FL2GdSbOWwCZT_!!2251059038.jpg\" width=\"2000\" height=\"1333\" damai_width=\"2000\" damai_height=\"1333\"></p><p><strong><span>巡演站次</span></strong></p><p><span>【苏州站】</span></p><p><span>7月20日 </span><span>19:30</span></p><p><span>场地</span><span>：&nbsp;</span><span><a href=\"https://www.showstart.com/venue/8933\"><span>苏州 山丘livehouse斜塘店</span></a></span></p><p><span>地址：苏州市苏州工业园区松涛街1088号斜塘老街36幢&nbsp;</span></p><p><span>&nbsp;</span><br></p><p><span>【</span><span>上海</span><span>站</span><span>】</span></p><p><span>7</span><span>月</span><span>21</span><span>日</span><span>&nbsp;</span><span>14:00</span></p><p><span>场地：&nbsp;</span><span><a href=\"https://www.showstart.com/venue/5417514\"><span>上海 新歌空间</span></a></span></p><p><span>地址：长宁区愚园路1250号长宁区工人文化宫3楼&nbsp;</span></p><p><span>&nbsp;</span><br></p><p><span>【</span><span>&nbsp;成都站</span><span>】</span></p><p><span>7月</span><span>27</span><span>日</span><span>&nbsp;</span><span>14:00</span></p><p><span>场地：&nbsp;</span><span><a href=\"https://www.showstart.com/venue/61643\"><span>成都 NUSPACE_纽空间</span></a></span></p><p><span>地址：四川省成都市青羊区奎星楼街9号 明堂创意工作区-B区•NU SPACE </span></p><p><span>&nbsp;</span><br></p><p><span>【深圳站】</span></p><p><span>7月</span><span>28</span><span>日</span><span>&nbsp;</span><span>13:00</span></p><p><span>场地：&nbsp;</span><span><a href=\"https://www.showstart.com/venue/1318325\"><span>深圳 HOU LIVE 下沙店</span></a></span></p><p><span>地址：深圳市福田区滨河大道9289号KK ONE购物中心负一层B112a（地铁9号线下沙站B出口）</span></p><p><span>&nbsp;</span><br></p><p><span>【</span><span>南京站</span><span>】</span></p><p><span>8</span><span>月3日</span><span>&nbsp;</span><span>14:00</span></p><p><span>场地：&nbsp;</span><span><a href=\"https://www.showstart.com/venue/7883489\"><span>南京 1701 Live House</span></a></span></p><p><span>地址： 南京市雨花台区安德门大街57号楚翘城&nbsp;</span></p><p><span><br></span></p><p><span>VIP票¥300</span><span>(提前入场、前排座位、单合影单签吉他、礼品)</span></p><p><span>预售票¥180</span><span>/</span><span>全价票¥200</span><span>(有座)</span></p><p data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i12.21c06b72vNywvl\"><span data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i11.21c06b72vNywvl\">演出门票为特殊商品，一经售出不支持退换，敬请理解。</span></p><p data-spm-anchor-id=\"a2o7u.ssp_reviewer_check.0.i6.21c06b72vNywvl\"><br></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "杭州可楠文化传媒有限公司",
+                            "socialCreditCode": "91330109MA2GKCU080",
+                            "legalPerson": "姚可",
+                            "regCapStr": "100万人民币",
+                            "opFrom": "",
+                            "opTo": "9999-09-09",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "浙江省杭州市钱塘区前进街道江东一路5000号诚智商务中心5号楼前进众智创业园14056室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "以现场为准,以现场为准"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "6212003",
+                    "venueName": "新歌空间",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.426146,
+                    "lat": 31.219277,
+                    "venueAddr": " 上海市长宁区愚园路1250号长宁区工人文化宫3楼",
+                    "showCountText": "共有9个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D803578239346%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1717755624000",
+                "sellStartTimeStr": "06月07日 18:20",
+                "priceRange": "¥180-¥300",
+                "performBases": [
+                    {
+                        "name": "07.21 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1721491200000",
+                        "performs": [
+                            {
+                                "performId": "214884032",
+                                "performName": "2024-07-21 周日 14:00",
+                                "itemId": "803578239346",
+                                "projectId": "220706006",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1721541600000",
+                                "performTime": "2024.07.21 14:00",
+                                "performStartDate": "2024-07-21",
+                                "performBeginTime": "14:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "14155",
+                    "23883",
+                    "23115",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9099",
+                    "9867",
+                    "8843",
+                    "2443",
+                    "395",
+                    "1163",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "7371",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8035782393/2/803578239346.jpg"
+            }
+        }
+    }
+}
