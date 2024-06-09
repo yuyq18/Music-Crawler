@@ -1,0 +1,587 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：黄誉博、连淮伟",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1580",
+    "cityname": "杭州",
+    "couponTags": "[]",
+    "description": "艺人：黄誉博、连淮伟",
+    "id": "1_1_803803673797",
+    "imgurl": "-551897855",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "黄誉博【怪诞影院】·2024夏季巡演-杭州站",
+    "nameNoHtml": "黄誉博【怪诞影院】·2024夏季巡演-杭州站",
+    "price": "228.0",
+    "price_str": "228-298",
+    "pricehigh": "298.0",
+    "privilegeTags": "[]",
+    "projectid": "803803673797",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.07.06 周六 19:00",
+    "sitestatus": "16",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "SoFun Live 杭州",
+    "venuecity": "杭州",
+    "venueid": "6467087",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01ttTf5e2GdSbaLAqZ0_!!0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "803803673797",
+                    "itemName": "【杭州】黄誉博【怪诞影院】·2024夏季巡演-杭州站",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "330100",
+                    "cityName": "杭州市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01ttTf5e2GdSbaLAqZ0_!!0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i1/2251059038/O1CN01ttTf5e2GdSbaLAqZ0_!!0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.07.06 周六 19:00",
+                    "showDuration": "以现场为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票",
+                            "tagDesc": "本项目需实名制购票，购票完成后观演人信息不可更改。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京大麦文化传媒发展有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：北京大麦文化传媒发展有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1580",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "活动介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>「花开半夏，美好日长」<br>延续冬日的音乐之旅，黄誉博2024「怪诞影院」全国夏巡如约而至。</p>\n<p>黄誉博，中国内地独立音乐创作人，拥有30首以上的原创单曲，以多变的风格和独特的唱腔收获了许多听众的喜爱。<br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01IHVi2s2GdSba5q1S8_!!2251059038.png\" width=\"756\" height=\"1147\" damai_width=\"756\" damai_height=\"1147\"></p>\n<p>2023年参加音综《舞台2023》<br>2023年9月29日，参加抖音&amp;北京卫视同步播出的《中秋登楼夜》；<br>2023年10月15日，参加抖音&amp;北京卫视同步播出的《美好奇妙夜》；<br>2023年10月28日，参加《新青年·向未来——亚洲青年音乐盛典》；<br>2023年12月2日，参加郑州《Yao郑州音乐嘉年华》；<br>2024年4月20日，参加《大美浙江音乐节》；<br>2024年4月21日，参加《爱玛追星·YOUNG音乐节》；<br>2024年4月26日参加浙江卫视音综《奇妙练歌房》；<br>2024年4月27日，参加《第四届新时代国际电视节》颁奖盛典；<br>2024年5月2日参加《太湖湾音乐节》；<br>2024年5月4日参加《横店OST音乐节》；<br>2024年5月18日参加《得物新潮发布会》；<br>2024年5月19日参加《蚌埠涂山音乐嘉年华》；<br>2024年5月27日参加《奇妙惊喜现场》等等<br><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01NOyVTu2GdSbZiiAeG_!!2251059038.png\" width=\"736\" height=\"982\" damai_width=\"736\" damai_height=\"982\"><br>本次巡演以黄誉博第二张原创正规专辑「怪诞影院」为主题，带领观影人一步步走进由音符构筑而成的故事情境之中。</p>\n<p>欢迎各位再次踏入“怪诞影院”的大门，不一样的奇遇，不一样的惊喜，这次的故事，由你们来续写…<br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01VHEUxR2GdSbSTF0Mx_!!2251059038.png\" width=\"465\" height=\"1507\" damai_width=\"465\" damai_height=\"1507\"></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "江苏恒东文化产业投资有限公司",
+                            "socialCreditCode": "91320411699322803D",
+                            "legalPerson": "张利学",
+                            "regCapStr": "500万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人独资)",
+                            "entAddress": "常州市钟楼区怀德北路29号亚细亚影视城四楼"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/外国人永久居留身份证/台湾居民来往大陆通行证/身份证/港澳台居民居住证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约90分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "有寄存处,具体位置请联系现场工作人员。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "830"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ]
+                },
+                "venue": {
+                    "venueId": "6467087",
+                    "venueName": "SoFun Live 杭州",
+                    "venueProvinceName": "浙江省",
+                    "venueCityName": "杭州市",
+                    "lng": 120.294732,
+                    "lat": 30.18123,
+                    "venueAddr": "浙江省杭州市萧山区通货路918号粮仓艺术公园7号楼",
+                    "showCountText": "共有7个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "803803673797",
+                        "cityName": "杭州站",
+                        "showTime": "07.06",
+                        "tourId": "4372"
+                    },
+                    {
+                        "itemId": "799087651847",
+                        "cityName": "厦门站",
+                        "showTime": "06.22",
+                        "tourId": "4372"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=803803673797"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D803803673797%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "1373775454",
+                        "artistName": "黄誉博",
+                        "archives": "黄誉博，代表Z世代的新声唱作人。\n\n曾出演《星际精灵蓝多多》的男一号蓝多多，是00后“共同的回忆”。因为对音乐的热爱，决定音乐为人生方向。除了参加竞演类节目，如在《中国新声代》中，靠一系列高难度歌曲的完美演绎展现自己唱功，获得优秀成绩外，还坚持创作，在2020全国原创歌曲大赛中，凭借自作曲《水》获得冠军。发表多首歌曲上线均获得歌迷好评，并在南京成功举办“黄誉博《你 在哪儿呢》音乐专场”，受邀多次参加南京森林音乐节，现场掌控力强、唱功稳、氛围佳。如今，这位音乐少年将带领大家一起找寻失窃档案的秘密。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1706843669503/1706843669503-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "66433510",
+                        "artistName": "连淮伟",
+                        "archives": "2015年，正式签约成为“音悦Stage”第一期练习生 。2016年，推出与杨添、杨鑫、叶子诚共同演唱的单曲《Jazz Man》；同年，参加爱奇艺明星生存能力教育纪实秀节目《明星的诞生》 。2017年，参加腾讯视频音乐偶像养成节目《明日之子》，获得盛世独秀赛道12强 。2018年，开始在北京接受为期一年多的封闭式训练 。2019年，作为训练生参加爱奇艺青年励志综艺节目《青春有你》，最终获得总决赛第10名，以一名之差未能出道；同年，他被评选为LikeTCCAsia中国区最美100张新面孔第3位 ；7月25日，其作为恋商观察员参加的湖南卫视社交恋爱观察秀节目《恋梦空间 第二季》首播",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1675307394517/1675307394517-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "1373775454",
+                        "name": "黄誉博",
+                        "desc": "黄誉博，代表Z世代的新声唱作人。\n\n曾出演《星际精灵蓝多多》的男一号蓝多多，是00后“共同的回忆”。因为对音乐的热爱，决定音乐为人生方向。除了参加竞演类节目，如在《中国新声代》中，靠一系列高难度歌曲的完美演绎展现自己唱功，获得优秀成绩外，还坚持创作，在2020全国原创歌曲大赛中，凭借自作曲《水》获得冠军。发表多首歌曲上线均获得歌迷好评，并在南京成功举办“黄誉博《你 在哪儿呢》音乐专场”，受邀多次参加南京森林音乐节，现场掌控力强、唱功稳、氛围佳。如今，这位音乐少年将带领大家一起找寻失窃档案的秘密。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1706843669503/1706843669503-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "66433510",
+                        "name": "连淮伟",
+                        "desc": "2015年，正式签约成为“音悦Stage”第一期练习生 。2016年，推出与杨添、杨鑫、叶子诚共同演唱的单曲《Jazz Man》；同年，参加爱奇艺明星生存能力教育纪实秀节目《明星的诞生》 。2017年，参加腾讯视频音乐偶像养成节目《明日之子》，获得盛世独秀赛道12强 。2018年，开始在北京接受为期一年多的封闭式训练 。2019年，作为训练生参加爱奇艺青年励志综艺节目《青春有你》，最终获得总决赛第10名，以一名之差未能出道；同年，他被评选为LikeTCCAsia中国区最美100张新面孔第3位 ；7月25日，其作为恋商观察员参加的湖南卫视社交恋爱观察秀节目《恋梦空间 第二季》首播",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1675307394517/1675307394517-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "31440",
+                    "wantNumStr": "3.1万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过82%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01EILqiN1Fsjkn9nzCb_!!6000000000543-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2404720/480944031_1717134040357.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01vY86me1ydJ7UVciBd_!!6000000006601-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2488948/497789749_1716138868548.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN0167wNGr1OXyL74kuTP_!!6000000001716-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1718013600000",
+                "sellStartTimeStr": "06月10日 18:00",
+                "countDown": "56894",
+                "rcdt": "56893198",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥228-¥298",
+                "performBases": [
+                    {
+                        "name": "07.06 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1720195200000",
+                        "performs": [
+                            {
+                                "performId": "214884027",
+                                "performName": "2024-07-06  周六 19:00",
+                                "itemId": "803803673797",
+                                "projectId": "220695005",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1720263600000",
+                                "performTime": "2024.07.06 19:00",
+                                "performStartDate": "2024-07-06",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "立即购买",
+                "buyBtnStatusAfterCountDown": "204",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "14155",
+                    "23883",
+                    "23115",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9099",
+                    "9867",
+                    "8843",
+                    "2443",
+                    "395",
+                    "1163",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "7371",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8038036737/2/803803673797.jpg"
+            }
+        }
+    }
+}
