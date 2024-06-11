@@ -1,0 +1,591 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：周传雄",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "200",
+    "cityname": "重庆",
+    "couponTags": "[]",
+    "description": "艺人：周传雄",
+    "id": "1_1_803632350169",
+    "imgurl": "-553611091",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2024周传雄「念念不忘·回响」巡回演唱会-重庆站",
+    "nameNoHtml": "2024周传雄「念念不忘·回响」巡回演唱会-重庆站",
+    "price": "388.0",
+    "price_str": "388-1288",
+    "pricehigh": "1288.0",
+    "privilegeTags": "[]",
+    "projectid": "803632350169",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.08.10 周六 19:00",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "华熙LIVE·鱼洞 文体中心",
+    "venuecity": "重庆",
+    "venueid": "1111007",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN014JPuMP2GdSbbglVwH_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "803632350169",
+                    "itemName": "【重庆】2024周传雄「念念不忘·回响」巡回演唱会-重庆站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "500100",
+                    "cityName": "重庆市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN014JPuMP2GdSbbglVwH_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN014JPuMP2GdSbbglVwH_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.08.10 周六 19:00",
+                    "showDuration": "以现场为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京大麦文化传媒发展有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：北京大麦文化传媒发展有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "200",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01eOCuOI2GdSbZfsU3p_!!2251059038.jpg\" width=\"3557\" height=\"2490\" damai_width=\"3557\" damai_height=\"2490\"></strong></p>\n<p>&nbsp;</p>\n<p><strong>周传雄「念念不忘·回响」巡回演唱会启动</strong></p>\n<p><strong>舞美全新升级 歌单惊喜焕新 延续音乐感动</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>当听到你们的声音，</strong></p>\n<p><strong>所有的念念不忘便有了回响。</strong></p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01TTelT22GdSbZhN3hA_!!2251059038.jpg\" width=\"2000\" height=\"1334\" damai_width=\"2000\" damai_height=\"1334\"></p>\n<p>&nbsp;</p>\n<p>他是情歌教父周传雄，也是许多人心目中最会唱情歌的“小刚”。</p>\n<p>唱过《黄昏》，唱过《寂寞沙洲冷》《冬天的秘密》《青花》《我的心太乱》《男人海洋》，为陈慧琳写下《记事本》，为周华健写下《有没有一首歌会让你想起我》，为那英写下《出卖》…… 华语乐坛几十年的岁月中，周传雄和他的歌，已经成为了一枚符号，陪伴过不止一代人成长。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01sSRxpS2GdSbe73NV6_!!2251059038.jpg\" width=\"620\" height=\"929\" damai_width=\"620\" damai_height=\"929\"></p>\n<p>&nbsp;</p>\n<p>2023年，周传雄念念不忘巡回演唱会，在一片欢呼与感动之中，走过了十五座城市。十五场售罄、百余热搜、万人合唱、百万想看人数……无数歌迷带着青春在现场相聚，新的友人在这里相识相知，来自音乐本身的诚意，带来线上线下的全民复古回潮，我们共同书写了名为“念念不忘”的新的回忆，而回响，是我们之间不止于此的共鸣。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>念念不忘感动延续 回响启程再聚新朋旧友</strong></p>\n<p>&nbsp;</p>\n<p>“做演唱会，台下很多以前的歌迷都跟我一起唱，那个感动的感觉、那个美好的感觉，对我来说，就是念念不忘。”</p>\n<p>&nbsp;</p>\n<p>2023年5月6日，周传雄「念念不忘」巡回演唱会从上海启程。十五站音乐之旅，周传雄与无数歌迷在巡演现场重逢，时间深处走来的想念，五湖四海奔赴的欢喜，在他们之间，成为了一首歌的长度，更是一声声呐喊的距离。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01nbrkka2GdSbblUtGr_!!2251059038.jpg\" width=\"1500\" height=\"2251\" damai_width=\"1500\" damai_height=\"2251\"></p>\n<p>&nbsp;</p>\n<p>现场的一首首合唱是岁月的回响，台下的一声声呼唤是爱的回响，热泪盈眶或是欣喜若狂，都一一印证着周传雄与每一位歌迷之间联结的回响。新的一年，「念念不忘」演出团队为了和无限热爱的大家继续同行，凝聚创意再度构想，与周传雄一起，力求打造更加顶级的音乐感官触动，让每一个声音都听到回响。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01oGNULg2GdSbbE6We6_!!2251059038.jpg\" width=\"2000\" height=\"1333\" damai_width=\"2000\" damai_height=\"1333\"></p>\n<p>&nbsp;</p>\n<p><strong>全新规格打造视听盛宴 舞美歌单造型回响升级</strong></p>\n<p>&nbsp;</p>\n<p>经过十五场的不断调整，2024「念念不忘·回响」巡演整合听众反馈，对现场进行了全方位的升级。续启新章，我们将每一位听众的声音，回响到舞台的每一个部分。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN016Nha3P2GdSbaUXEfW_!!2251059038.jpg\" width=\"2000\" height=\"1334\" damai_width=\"2000\" damai_height=\"1334\"></p>\n<p>&nbsp;</p>\n<p>周传雄亲自参与到整个巡演的筹划设计中，与团队一起重新复盘、整合、规划，舞台设计重新调整，新舞美、新歌单、新造型、新场次，诚意塑造不同以往的新鲜体验。舞台以“回响”为概念发散，通过灯光、VJ、舞台装置等效果，带来全新视觉舞台，并回溯和梳理周传雄历年来脍炙人口的金曲，将青春里的经典赋予新的生命力，力求为你带来最原汁原味的“周传雄式”情歌。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01RiPFYT2GdSbaP6Yg9_!!2251059038.jpg\" width=\"2000\" height=\"1334\" damai_width=\"2000\" damai_height=\"1334\"></p>\n<p>&nbsp;</p>\n<p>2024周传雄「念念不忘·回响」巡回演唱会现已全面启动，让磅礴的想念，在我们相见的每一个现场热烈回响。</p>\n<p>&nbsp;</p>\n<p><strong>禁限带物品：</strong></p>\n<p>(一)任何形式的旗帜、横幅、标语;任何形式的带有国家、政党、政治派别、意识形态流派、文化煽动、文化异化内容的,具有影射意义或符号化性质的标志、标识、服装、器具及宣传品。</p>\n<p>(二)危害公共安全物品类、枪支子弹类、爆炸物品类、管制器具类、易燃易爆类、毒害物品类、腐蚀性物品类、放射性物品类、感染性物品类、杀伤性器具类物品。</p>\n<p>(三)瓶装液体、硬质水杯、玻璃容器、长棍伞、激光笔、火柴、打火机等容易危害活动安全的物品。</p>\n<p>(四)酒类或含酒精饮料、冷焰火、闪光灯、彩色粉末、喷涂颜料、高分贝发音器材、扩音器材、长度超过50厘米的发光设备等容易影响活动秩序的物品。</p>\n<p>(五)不宜在座位摆放的大型箱包。</p>\n<p>(六)活动物，持有工作证明的导盲犬除外。</p>\n<p>(七)容易抛洒妨碍公共卫生的食物，具有较重刺激味道的食物，高温容易引发烫伤的食物。</p>\n<p>(八)容积超过200毫升的香水、花露水、摩丝、发胶、喷雾、凝胶等含易燃成分的非自喷压力容器，容积超过100毫升的冷烫精、染发剂、杀虫剂、空气清新剂等自喷压力容器。</p>\n<p>(九)法律、法规、规章规定的其他禁止携带的物品。</p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "重庆翘楚文化传媒有限公司",
+                            "socialCreditCode": "91500114MA5YYAF64B",
+                            "legalPerson": "海船",
+                            "regCapStr": "500万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股的法人独资)",
+                            "entAddress": "重庆市江津区珞璜镇马垭大道88号江津综合保税区综合大楼2138室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张、每个账号最多购买4张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：外国人永久居留身份证/台湾居民来往大陆通行证/护照/身份证/港澳台居民居住证/港澳居民来往内地通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "周传雄"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "有寄存处,具体位置请联系现场工作人员。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "1111007",
+                    "venueName": "华熙LIVE·鱼洞 文体中心",
+                    "venueProvinceName": "重庆",
+                    "venueCityName": "重庆市",
+                    "lng": 106.505837,
+                    "lat": 29.378358,
+                    "venueAddr": "平江东路5号（原巴南体育馆东侧）",
+                    "showCountText": "共有8个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "802130992359",
+                        "cityName": "大连站",
+                        "showTime": "07.06",
+                        "tourId": "3937"
+                    },
+                    {
+                        "itemId": "803632350169",
+                        "cityName": "重庆站",
+                        "showTime": "08.10",
+                        "tourId": "3937"
+                    },
+                    {
+                        "itemId": "788022059758",
+                        "cityName": "福州站",
+                        "showTime": "06.22",
+                        "tourId": "3937"
+                    },
+                    {
+                        "itemId": "795978196301",
+                        "cityName": "深圳站",
+                        "showTime": "07.20",
+                        "tourId": "3937"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=803632350169"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D803632350169%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "2024",
+                        "artistName": "周传雄",
+                        "archives": "中国台湾流行乐男歌手、音乐制作人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1690780286508/1690780286508-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "2024",
+                        "name": "周传雄",
+                        "desc": "中国台湾流行乐男歌手、音乐制作人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1690780286508/1690780286508-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "17050",
+                    "wantNumStr": "1.7万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过74%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i3/O1CN010Y49WU1vtqZhHVKPn_!!6000000006231-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/122931/24586282.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01Z4KBGi1TVkUeB77To_!!6000000002388-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2476882/495376412_1715477052362.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01iK8hzV29a45VpFn7H_!!6000000008083-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "24014809302",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1679629413733/1679629413733-main.jpg",
+                    "note": "这场名为「周传雄」的青春，等你一起来合唱。",
+                    "categoryName": "其他",
+                    "title": "2023周传雄念念不忘巡回演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1718679600000",
+                "sellStartTimeStr": "06月18日 11:00",
+                "priceRange": "¥388-¥1288",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "4",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8036323501/2/803632350169.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,447 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_804999090565",
+    "imgurl": "-539943687",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "上海 | 7.20 「Watch What Happens」Simone Basile三重奏",
+    "nameNoHtml": "上海 | 7.20 「Watch What Happens」Simone Basile三重奏",
+    "price": "220.0",
+    "price_str": "220",
+    "pricehigh": "220.0",
+    "privilegeTags": "[]",
+    "projectid": "804999090565",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.07.20 周六 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": "Blue Note Shanghai",
+    "venuecity": "上海",
+    "venueid": "2280002",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01L0Ggb12GdSbgr7E9Z_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "804999090565",
+                    "itemName": "【上海】上海 | 7.20 「Watch What Happens」Simone Basile三重奏",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "123606001",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01L0Ggb12GdSbgr7E9Z_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i4/2251059038/O1CN01L0Ggb12GdSbgr7E9Z_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.07.20 周六 20:00",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：上海盈寰文化传媒有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：上海盈寰文化传媒有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01FXyRhC2GdSbZx8iYu_!!2251059038.png\" width=\"800\" height=\"800\" damai_width=\"800\" damai_height=\"800\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01YIqrt52GdSbef3EwS_!!2251059038.png\" width=\"600\" height=\"750\" damai_width=\"600\" damai_height=\"750\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i26.79dd6b72XSzA3i\"></p><p style=\"text-align: center;\">Wes Montgomery——有史以来最伟大的爵士吉他手之一，被认为是现代爵士吉他演奏的先驱之一，他以其独特的演奏风格和深厚的音乐天赋而闻名于世。他的出现标志了吉他演奏技术的革命，更升华了吉他这一乐器在爵士乐中的地位。&nbsp;</p><p style=\"text-align: center;\">1967年荣获年度爵士乐人物和格莱美奖的他，或许是整个爵士音乐历史中最受到推崇的吉他演奏家。他的音乐，如同璀璨星辰，照亮了爵士乐的天空，也激励着后来无数的音乐家们。</p><p style=\"text-align: center;\">Simone Basile，正是一位深受Wes Montgomery影响，却又独具匠心的爵士吉他新星。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01s8bJeo2GdSbekpg1X_!!2251059038.png\" width=\"669\" height=\"669\" damai_width=\"669\" damai_height=\"669\"></p><p style=\"text-align: center;\">1990年出生于意大利塔兰托的Simone Basile，自幼学习古典吉他。后来在Salvatore Russo老师的影响下，对电吉他产生了兴趣，进而燃起了他对布鲁斯和爵士音乐的热情。在Umberto Fiorentino老师的指导下，他于2020年以最高荣誉毕业于佛罗伦萨路易吉·凯鲁比尼音乐学院的爵士吉他专业。&nbsp;</p><p style=\"text-align: center;\">2017年，比亚琴察的国家比赛“Chicco Bettinardi”肯定了他的爵士音乐的才华。</p><p style=\"text-align: center;\">2018年，他发行了三重奏专辑《Time》，这张专辑是由他与鼓手 Marco Valeri 和低音提琴手 Francesco Angiuli 合作完成。2021年，与哈蒙德的 Manrico Seghi 和鼓手 Giovanni Paolo Liguori 合作发行专辑《Wes or No》，向Wes Montgomery致敬。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01TpWzRB2GdSbfnwH5k_!!2251059038.jpg\" width=\"619\" height=\"322\" damai_width=\"619\" damai_height=\"322\"></p><p style=\"text-align: center;\">多年来，Simone参加了许多爵士音乐节，如佛罗伦萨爵士音乐节、卡迪斯爵士音乐节、尼格兰爵士音乐节、布达佩斯的Opus爵士俱乐部、 Musica sulle bocche音乐节、MEDIMEX 2023、巴尔干爵士音乐节2023、2023年的意大利爵士音乐在拉奎拉、Empoli爵士音乐节、JazzMi、“Strings city\"在佛罗伦萨、Fara音乐节、曼托瓦爵士音乐节、安科纳爵士音乐节、为地震地区带来爵士音乐、Cross音乐节、Cantina Bentivoglio、Alexanderplatz等等。&nbsp;</p><p style=\"text-align: center;\">2022年，他与他的意大利/法国五重奏发布了专辑《Morning Raga》，由Emme唱片公司发行。这张唱片由一些欧洲爵士音乐人组成，被选入了I-Jazz协会策划的“新爵士一代2023”计划，并在整个欧洲和美国受到了广泛的媒体和评论关注。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Yxq6Bq2GdSbdUoUhg_!!2251059038.png\" width=\"465\" height=\"465\" damai_width=\"465\" damai_height=\"465\"></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i34.79dd6b72XSzA3i\" style=\"text-align: center;\"><span>2023年，一张名为《Watch What Happens》的专辑再次由Simone Basile、Manrico Seghi和Giovanni Paolo Liguori录制，并标志着这一三重奏组合的新篇章。</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01RYxyyL2GdSbdUoQXK_!!2251059038.png\" width=\"800\" height=\"533\" damai_width=\"800\" damai_height=\"533\"></p><p style=\"text-align: center;\">这是继三重奏组合发行的首张专辑《Wes or No》之后，再次以Wes Montgomery的音乐理念为指导而创作的曲目合集。在这张新专辑《Watch What Happens》中，三重奏展现出了更加紧密与成熟的合作，他们深潜于爵士与布鲁斯的丰富底蕴中，细腻探索其中的差异与深沉情感。</p><p style=\"text-align: center;\">专辑中的每一首曲目都仿佛是一个独立的故事，为听众打开了一扇通往情感与声音交融世界的大门。其中，律动的节奏与多变的风格，布鲁斯与抒情曲的交织呈现，共同构成了一张充满惊喜、始终引人入胜的曲目单。</p><p style=\"text-align: center;\">三重奏曾表示：“Wes Montgomery以大胆和创新的态度展望未来，我们希望通过继承Wes的遗产，继续走自己的道路，创作出一张原创且精心编排的专辑，但始终脚踏实地，植根于爵士传统。”</p><p style=\"text-align: center;\">2024年7月19日晚Blue&nbsp;Note&nbsp;Shanghai,7月20日晚Blue&nbsp;Note&nbsp;Beijing，Simone Basile三重奏将带着新专辑《Watch What Happens》诚邀大家一同探索爵士音乐的深度内核，致敬Wes Montgomery！</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01ly8ou32GdSbchDWuD_!!2251059038.png\" width=\"800\" height=\"533\" damai_width=\"800\" damai_height=\"533\"></p><p style=\"text-align: center;\"><strong>Manrico Seghi</strong></p><p style=\"text-align: center;\">JAZZIT杂志评价Manrico Seghi是意大利最优秀的爵士风琴手之一。他的风格以扎实的贝斯线和流畅的乐句为特点，将灵魂充满的声音与对Bebop传统的深刻理解相融合。他于1980年出生在佛罗伦萨的Fucecchio，四岁开始弹钢琴，并很快与一些佛罗伦萨最优秀的爵士音乐家一起演出。他被哈蒙德风琴的声音所吸引，这使他发现了这个乐器的所有伟大大师：Jimmy Smith、Joey DeFrancesco、Jimmy McGriff、Brother Jack McDuff、Richard Groove Holmes、Shirley Scott、Don Patterson、Pat Bianchi、Larry Goldings。他有幸参加了几次由伟大的Joey DeFrancesco主持的大师班，从中获得了许多建议和赞赏。随后，他与美国风琴手Pat Bianchi合作，进一步完善了对乐器的认识。Pat Bianchi目前被认为是世界上最重要的风琴手之一，他将永远是Manrico的巨大灵感之源。</p><p style=\"text-align: center;\">多年来，他与一些国际爵士乐坛上最知名的音乐家合作过，如Ed Cherry、Scott Hamilton、Joe Magnarelli、Rachel Gould、Byron Landham、Flavio Boltro、Fabrizio Bosso、Emanuele Cisi、Nico Gori、Dario Cecchini、Fabrizio Morganti、Carlo Atti、Massimo Manzi等等。2019年，Manrico发行了他的首张领导专辑《Food House》，该专辑已经得到了许多好评和积极的反馈。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN011wLGBz2GdSbd3cs1V_!!2251059038.png\" width=\"800\" height=\"533\" damai_width=\"800\" damai_height=\"533\"></p><p style=\"text-align: center;\"><strong>Giovanni Liguori</strong></p><p style=\"text-align: center;\">Giovanni Paolo Liguori，出生于1991年，是一名鼓手和作曲家。他15岁开始接触爵士乐，参加了两届“Siena Jazz”研讨会，在2009年获得了参加“Nuoro Jazz 2010”研讨会的奖学金。在Nuoro，他凭借在课程中的表现获得了最佳鼓手奖学金，并与其他音乐家组成了一个八重奏，录制了一张专辑，次年在“Time in Jazz”，“Nuoro Jazz”和“Alghero Estate”等节日演出。2013年，在Roberto Gatto和Eric Harland的指导下，并借助“Siena Jazz”的奖学金，他参加了“Mittel European Jazz Academy”的研讨会。</p><p style=\"text-align: center;\">多年来，他与众多组合合作，与国内外艺术家如Joe Cohn、Stjepko Gut、Jerome Sabbagh、Fabrizio Bosso、Flavio Boltro、Carlo Atti、Joe Magnarelli、Robin Eubanks、Michael Rosen、Ralph Alessi、Glenn Ferries、Luciano Milanese、Battista Lena、Pierre Do Sameiro、Ares Tavolazzi、Fabio Zeppetella、Maurizio Giammarco、Wayne Tucker、Nico Gori、Simone Basile、Manrico Seghi等一起录音和现场演出。</p><p style=\"text-align: center;\">他还在许多音乐节上表演，包括Umbria Jazz、JazzMi、Time in Jazz、Siena Jazz、Nigran Jazz、Cadiz Jazz、Opus Jazz Club Budapest、Sunset Sunside、Komeda Jazz Festival、Jazz Dock、Nuoro Jazz、Valdarno Jazz、Italia Wave、Empoli Jazz、Ancona Jazz、Tolfa Jazz等等。</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01VWymNJ2GdSbfnxswT_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i30.79dd6b72XSzA3i\"></p><p style=\"text-align: center;\">2024年7月20日（周六）</p><p style=\"text-align: center;\">入场时间/Door Time：18:30</p><p style=\"text-align: center;\">演出时间/Show Time：20:00</p><p style=\"text-align: center;\">地址/Add：</p><p style=\"text-align: center;\">上海市虹口区四川北路867号中信广场3层</p><p style=\"text-align: center;\">（入口位于四川北路沿街，商场电梯直达）</p><p style=\"text-align: center;\">Add. 3F, CITIC Plaza, No. 867 North Sichuan Road, Hongkou District, Shanghai.</p><p style=\"text-align: center;\">(The entrance is located along North Sichuan Road</p><p style=\"text-align: center;\">and can be directly accessed via the mall elevator)</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01kqWCIV2GdSbcfMCDA_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">单人坐席预售票： ¥220</p><p style=\"text-align: center;\">单人坐席全价票：<span>&nbsp;¥</span>260</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01dCozvI2GdSbdORD15_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">1. 所有网上购票观众请携带购票二维码到前台换取当日演出门票，凭票入场。门票一经出售，概不退换；</p><p style=\"text-align: center;\">2. 现场座位采取“先到先得”的方式，为能准时进场，请提前预留换票时间；</p><p style=\"text-align: center;\">3. 观众凭前台换取的桌卡进入演出场地，由服务人员引领至相应座位入座；</p><p style=\"text-align: center;\">4. 因场地座位有限，会有拼桌现象，敬请谅解；</p><p style=\"text-align: center;\">5. 儿童入场须家长陪同，请家长善尽监护义务，禁止儿童在观众席内嬉闹，以免影响其他客人；</p><p style=\"text-align: center;\">6. Blue Note Shanghai提供餐饮服务，入场后即可点餐。谢绝自带食品与酒水进入场地；</p><p style=\"text-align: center;\">7. 门票发票须演出当日凭桌卡开具；</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "上海盈寰文化传媒有限公司",
+                            "socialCreditCode": "91310109MA1G5MPL1E",
+                            "legalPerson": "高杉",
+                            "regCapStr": "1714.2857万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "上海市虹口区四川北路867号302室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/护照/身份证/台湾居民来往大陆通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约90分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "2280002",
+                    "venueName": "Blue Note Shanghai",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.484046,
+                    "lat": 31.248428,
+                    "venueAddr": "上海市虹口区四川北路867号中信广场3-5层",
+                    "showCountText": "共有8个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D804999090565%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1718100939000",
+                "sellStartTimeStr": "06月11日 18:15",
+                "priceRange": "¥220",
+                "performBases": [
+                    {
+                        "name": "07.20 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1721404800000",
+                        "performs": [
+                            {
+                                "performId": "214861074",
+                                "performName": "2024-07-20 周六 20:00",
+                                "itemId": "804999090565",
+                                "projectId": "220674018",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1721476800000",
+                                "performTime": "2024.07.20 20:00",
+                                "performStartDate": "2024-07-20",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "14155",
+                    "23883",
+                    "23115",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9099",
+                    "9867",
+                    "8843",
+                    "2443",
+                    "395",
+                    "1163",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "7371",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8049990905/2/804999090565.jpg"
+            }
+        }
+    }
+}
