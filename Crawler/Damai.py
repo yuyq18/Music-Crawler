@@ -329,9 +329,12 @@ class DamaiCrawler(MusicCrawler):
                             })
                     ###########################################################################
                     if 'want' in file_json['guide']:
-                        unified_json_docs["wantVO"]["wantNum"] = file_json['guide']['want']['wantNum']
-                        unified_json_docs["wantVO"]["wantNumStr"] = file_json['guide']['want']['wantNumStr']
-                        unified_json_docs["wantVO"]["wantNumSuffix"] = file_json['guide']['want']['wantNumSuffix']
+                        if "wantNum" in file_json['guide']['want']:
+                            unified_json_docs["wantVO"]["wantNum"] = file_json['guide']['want']['wantNum']
+                        if "wantNumStr" in file_json['guide']['want']:
+                            unified_json_docs["wantVO"]["wantNumStr"] = file_json['guide']['want']['wantNumStr']
+                        if "wantNumSuffix" in file_json['guide']['want']:
+                            unified_json_docs["wantVO"]["wantNumSuffix"] = file_json['guide']['want']['wantNumSuffix']
                         if 'wantDesc' in file_json['guide']['want']:
                             unified_json_docs["wantVO"]["wantDesc"] = file_json['guide']['want']['wantDesc']
                     ###########################################################################

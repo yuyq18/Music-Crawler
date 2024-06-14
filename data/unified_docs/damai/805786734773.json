@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "805786734773",
+    "project_name": "「千万亿个梦」贰佰2024新专辑巡演 第二轮 台州站",
+    "category_name": "演唱会",
+    "artists": [
+        "贰佰"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.04 周三 20:00",
+    "session_time": [],
+    "price": "150-180",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "台州",
+    "venue_name": "乐八度 x 都不酷台州 Chizhaospace",
+    "venue_info": {
+        "venue_address": "台州市椒江区广场南路万达广场金街西区1041号 ",
+        "lng": 121.416863,
+        "lat": 28.635406
+    },
+    "project_info": " \n\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01hqOfwS2GdSbfJrzQz_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01p8yaXr2GdSbUm347a_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "799370032162",
+            "cityName": "温州站",
+            "showTime": "08.28"
+        },
+        {
+            "itemId": "799123739841",
+            "cityName": "杭州站",
+            "showTime": "08.30"
+        },
+        {
+            "itemId": "797824963022",
+            "cityName": "南京站",
+            "showTime": "09.01"
+        },
+        {
+            "itemId": "805786734773",
+            "cityName": "台州站",
+            "showTime": "09.04"
+        },
+        {
+            "itemId": "803543939556",
+            "cityName": "长治站",
+            "showTime": "09.27"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=805786734773"
+}

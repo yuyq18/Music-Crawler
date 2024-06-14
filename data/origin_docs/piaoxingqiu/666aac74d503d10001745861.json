@@ -1,0 +1,210 @@
+{
+    "searchType": "SHOW",
+    "showId": "666aac74d503d10001745861",
+    "stdShowId": "666aabacb2085d00010f1b61",
+    "showName": "【北京】6.23 「若⻅晗影升 将惜曈暖归」晗曈爵⼠五重奏 · XU QUINTET",
+    "showDate": "2024.06.23 20:00",
+    "cityName": "北京",
+    "cityId": "1101",
+    "showStatus": "ONSALE",
+    "minOriginalPrice": "280.0",
+    "posterUrl": "https://cdn.ticketmars.com/image/prod/20240613_19/17182668102979132.png",
+    "venueId": "585a2ab60cf2477fb36e1f96",
+    "venueName": "Blue Note Beijing",
+    "backendCategory": "{'code': 19, 'displayName': 'Livehouse', 'name': 'Livehouse'}",
+    "isFree": "False",
+    "firstShowTime": "1719144000000",
+    "lastShowTime": "1719149400000",
+    "minOriginalPriceInfo": "{'yuanNum': '280', 'centNum': '', 'suffix': '', 'prefix': '￥'}",
+    "latestShowTime": "1719144000000",
+    "showSessionDates": "['20240623']",
+    "soldOut": "False",
+    "sessionNum": "1",
+    "seatPlanNum": "1",
+    "rsCode": 200,
+    "basicInfo": {
+        "hotMode": true,
+        "stdShowId": "666aabacb2085d00010f1b61",
+        "showName": "【北京】6.23 「若⻅晗影升 将惜曈暖归」晗曈爵⼠五重奏 · XU QUINTET",
+        "sourceType": "SELF_DISTRIBUTION",
+        "originalSeatPickType": "SUPPORT_NONE",
+        "contentUrl": "https://cdn.ticketmars.com/prod/showContent/666aac74d503d10001745861/content_666ba9066558510001b92d1a.content",
+        "posterUrl": "https://cdn.ticketmars.com/image/prod/20240613_19/17182668102979132.png",
+        "posterColor": "#3b2859ff",
+        "venueId": "585a2ab60cf2477fb36e1f96",
+        "venueName": "Blue Note Beijing",
+        "venueAddress": "北京市东城区前门23号",
+        "venueLat": 39.900825,
+        "venueLng": 116.401444,
+        "cityId": "1101",
+        "cityName": "北京市",
+        "onSaleShowCount": 9,
+        "showTags": [],
+        "authorizationUrl": "",
+        "minOriginalPriceInfo": {
+            "yuanNum": "280",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "maxOriginalPriceInfo": {
+            "yuanNum": "280",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "showDate": "2024年06月23日 20:00",
+        "showDuration": "约90分钟（以现场为准）",
+        "displayAdvance": false,
+        "venueDisplayAdvance": false,
+        "sessionDisplayAdvance": false,
+        "seatPlanDisplayAdvance": false,
+        "showType": {
+            "name": "Livehouse"
+        },
+        "showDetailStatus": "ON_SALE",
+        "parentMerchantId": "662f11e055f02200014c27e0",
+        "existsPrivilegePurchase": false,
+        "displayCountdownTime": true,
+        "captchaTypes": []
+    },
+    "additionalInfo": {
+        "hasCoupon": true,
+        "hasPromo": false,
+        "hasAddPurchase": false,
+        "hasUserPromo": false,
+        "hasPCard": false,
+        "hasPriority": false,
+        "hasChannelDiscount": false,
+        "checkChannelFreeCombo": false,
+        "channelPickSeatProject": false,
+        "hasTyingSale": false
+    },
+    "descInfo": {
+        "observationInstructions": [
+            {
+                "key": "TICKETS_AND_ADMISSION",
+                "name": "票品及入场",
+                "value": "电子票：须扫描二维码验票入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "SHOW_DURATION",
+                "name": "演出时长",
+                "value": "约90分钟（以现场为准）",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "MAIN_ACTOR",
+                "name": "主要演员(团体)",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "ENTRY_TIME",
+                "name": "入场时间",
+                "value": "请于开始前约30分钟入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "RESTRICTED_ITEM",
+                "name": "禁止携带物品",
+                "value": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "LUGGAGE_DEPOSIT",
+                "name": "物品寄存",
+                "value": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            }
+        ],
+        "ticketInstructions": [
+            {
+                "key": "CHILDREN_INTRODUCTION",
+                "name": "儿童购票",
+                "value": "1.2米以上凭成人票入场，1.2米以下谢绝入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "REAL_NAME_PURCHASE_TICKET_INTRODUCTION",
+                "name": "实名购票规则",
+                "value": "无证件要求",
+                "isMarked": false,
+                "tagContent": "非实名购票",
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "EXCEPTION_ORDER_INTRODUCTION",
+                "name": "异常排单说明",
+                "value": "对于异常订购行为，商家有权在订单成立或者生效之后取消相应订单。 异常订购行为包括但不限于以下情形： （1）通过同一ID订购超出限购张数的订单。 （2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "LIMITATION",
+                "name": "限购规则",
+                "value": "每个场次限购4张/套，项目限购4张/套",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "EXCHANGE_POLICY",
+                "name": "退换政策",
+                "value": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "INVOICE_INTRODUCTION",
+                "name": "发票说明",
+                "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            }
+        ],
+        "markedTextList": []
+    },
+    "noteInfos": [
+        {
+            "name": "不支持七天无理由退换",
+            "value": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+            "type": false,
+            "code": "NO_SUPPORT_REFUND"
+        },
+        {
+            "name": "电子票",
+            "value": "通过票舱中的二维码，可以直接验票入场（具体以下单后票舱信息为准）",
+            "type": true,
+            "code": "E_TICKET"
+        },
+        {
+            "name": "发票说明",
+            "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具",
+            "type": false,
+            "code": "BILL_APPLY"
+        }
+    ],
+    "announcement": [],
+    "whiteTags": [],
+    "watcherReplacer": "观演"
+}

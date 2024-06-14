@@ -1,0 +1,51 @@
+{
+    "platform": "大麦",
+    "project_id": "804531547242",
+    "project_name": "2024周柏豪「奔赴」世界巡回演唱会-东莞站",
+    "category_name": "演唱会",
+    "artists": [
+        "周柏豪"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.07.06 周六 19:30",
+    "session_time": [
+        "07.06 周六"
+    ],
+    "price": "380-1380",
+    "isGeneralAgent": "true",
+    "isHotProject": "true",
+    "rating": null,
+    "city_name": "东莞",
+    "venue_name": "东莞银行篮球中心(原东莞篮球中心)",
+    "venue_info": {
+        "venue_address": "寮步镇东部快速路与松山湖大道交汇处",
+        "lng": 113.840246,
+        "lat": 22.9962
+    },
+    "project_info": "人生\n是一次充满不确定的远行\n前方虽有迷雾\n更有扑面的光\n我们愿为之迈开脚步 向此奔赴\n \n\n \n奔 向期待已久的光\n赴 一场七彩绚烂的梦\n2024周柏豪「奔赴」世界巡回演唱会\n耳机中的男歌手跨越山海，向你奔赴而来。\n \n\n \n奔赴主题的巡演着眼于柏豪在音乐上的新风格尝试，务求为观众呈现全新的音乐体验。\n这一轮的巡演已在各地陆续袭来，新的一年，柏豪将继续奔赴，去到更多城市与歌迷见面。\n \n2024年7月6日，他将再次来到东莞举行个人演唱会。\n期待这次在现场的点点星海，共同完成这一次不负期待的双向奔赴。\n \n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN0144J6i02GdSbgKpQBM_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN019tZlh02GdSbbjALRS_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01uAJiGp2GdSbcspFDy_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01SJqXoG2GdSbaT5oc9_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "38342",
+        "wantNumStr": "3.8万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过84%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "804531547242",
+            "cityName": "东莞站",
+            "showTime": "07.06"
+        },
+        {
+            "itemId": "795371870553",
+            "cityName": "上海站",
+            "showTime": "06.15"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=804531547242"
+}

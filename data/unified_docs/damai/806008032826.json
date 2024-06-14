@@ -1,0 +1,47 @@
+{
+    "platform": "大麦",
+    "project_id": "806008032826",
+    "project_name": "凯瑟喵「猫猫假日2.0」2024夏日巡演 广州站 嘉宾:买辣椒也用券",
+    "category_name": "演唱会",
+    "artists": [
+        "凯瑟喵"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.07.20 周六 20:00",
+    "session_time": [],
+    "price": "130-280",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "广州",
+    "venue_name": "声音共和Livehouse",
+    "venue_info": {
+        "venue_address": "广州市海珠区新滘中路88号海珠同创汇东一街11号",
+        "lng": 113.319598,
+        "lat": 23.077078
+    },
+    "project_info": "造音呈现-凯瑟喵2024夏日巡演-大麦",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01z6R2UY2GdSbfMeaTg_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01xjzrpY2GdSbdpRSJG_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "78",
+        "wantNumStr": "78",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "805942289957",
+            "cityName": "成都站",
+            "showTime": "07.14"
+        },
+        {
+            "itemId": "806008032826",
+            "cityName": "广州站",
+            "showTime": "07.20"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=806008032826"
+}

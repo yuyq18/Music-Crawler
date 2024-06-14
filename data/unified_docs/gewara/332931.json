@@ -1,0 +1,37 @@
+{
+    "platform": "猫眼",
+    "project_id": "332931",
+    "project_name": "蓝池音乐节",
+    "category_name": "音乐节",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2024.7.5 / 7.6",
+    "session_time": [
+        "2024.7.5 ",
+        " 7.6"
+    ],
+    "price": "99-268",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "邢台",
+    "venue_name": "蓝池音乐节",
+    "venue_info": {
+        "venue_address": "莲池大街蓝池汽车物流园",
+        "lng": "114.450178",
+        "lat": "37.099877"
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://p0.meituan.net/myvideodistribute/b64e5ca259c41633383cd7457569676f107698.jpg",
+        "https://p0.meituan.net/myvideodistribute/9c1d0cb72085e991ce20e2b7ef2e54c52616155.jpg?w=1684&h=3253"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/332931"
+}

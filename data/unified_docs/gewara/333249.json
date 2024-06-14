@@ -1,0 +1,40 @@
+{
+    "platform": "猫眼",
+    "project_id": "333249",
+    "project_name": "燊野音乐节",
+    "category_name": "音乐节",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2024.6.29 / 6.30",
+    "session_time": [
+        "2024.6.29 ",
+        " 6.30"
+    ],
+    "price": "58-328",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "安吉县",
+    "venue_name": "中南百草原欧洲牧场-燊野音乐节",
+    "venue_info": {
+        "venue_address": "递铺街道梅园路1号附近中南百草原欧洲牧场（中南百草原景区外）",
+        "lng": "119.65527",
+        "lat": "30.6745"
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://p1.meituan.net/myvideodistribute/80e80a7f10c9a1d8e53d9162ad12fca1332948.jpg",
+        "https://p1.meituan.net/myvideodistribute/87bf0dc45fa9b63a4b53be1a673ae9832415073.png?w=1080&h=1920",
+        "https://p0.meituan.net/myvideodistribute/aba1261b6cea7a25533f7c900b6e8eec1801535.png?w=1020&h=1360",
+        "https://p0.meituan.net/myvideodistribute/001b3415eb8d7291ae7714bd0c8c5cf54116189.png?w=1080&h=4320",
+        "https://p0.meituan.net/myvideodistribute/b5b9fe0b4074a8a66d6321809dc1d3862381035.png?w=1080&h=1920"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://www.gewara.com/detail/333249"
+}

@@ -1,0 +1,787 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：张惠妹",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "2520",
+    "cityname": "合肥",
+    "couponTags": "[]",
+    "description": "艺人：张惠妹",
+    "id": "1_1_805118161261",
+    "imgurl": "-538752980",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "张惠妹ASMR MAX巡回演唱会-合肥站",
+    "nameNoHtml": "张惠妹ASMR MAX巡回演唱会-合肥站",
+    "price": "380.0",
+    "price_str": "380-1380",
+    "pricehigh": "1380.0",
+    "privilegeTags": "[]",
+    "projectid": "805118161261",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "nan",
+    "showtime": "2024.10.02 周三 19:00",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "nan",
+    "venue": "合肥体育中心体育场",
+    "venuecity": "合肥",
+    "venueid": "923",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01EV6zqi2GdSbdPjHee_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "805118161261",
+                    "itemName": "【合肥】张惠妹ASMR MAX巡回演唱会-合肥站",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "340100",
+                    "cityName": "合肥市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01EV6zqi2GdSbdPjHee_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01EV6zqi2GdSbdPjHee_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.10.02 周三 19:00",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：苏州嘉纳文化艺术有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：苏州嘉纳文化艺术有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "2520",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>她唱的是他的歌，还是你的故事？</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN0183KmeA2GdSbg8XdZB_!!2251059038.png\" width=\"1020\" height=\"680\" damai_width=\"1020\" damai_height=\"680\"></p>\n<p>「零七年那一首定情曲的前奏，要是你念念不忘太不称头」<br>她的歌，没有人忘记<br>&nbsp;<br>「我和你手牵手，说要一起走到最后」<br>她的歌，每一句都串联着你的故事<br>&nbsp;<br>「如果你想起我，你会想到什么」<br>她的歌，都是陪伴你爱恨痴迷的剧本<br>&nbsp;<br>「说你在离开我的时候，是怎样的心情」<br>她的歌，让那些苦涩回忆都变成美好<br>&nbsp;<br>「是我勇敢太久，决定为你一个人而活」<br>她的歌，是曾经耳机里妳偷偷给自己的慰藉</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN011k9FP42GdSbfw32Jq_!!2251059038.png\" width=\"907\" height=\"1360\" damai_width=\"907\" damai_height=\"1360\"></p>\n<p>生命里听过太多歌，刻进血肉的又有多少？<br>追着日子过<br>当下的喧嚣其实埋葬不了那些曾经<br>你没有忘、那些感觉也没有消失<br>城市太吵、行程太吵、资讯太吵<br>有没有那个奢侈<br>可以给自己两个多小时<br>什么也不做<br>就是坐在自己的任性里，重新活那么一下<br>&nbsp;<br>張惠妹，唱了二十几年的歌给你听<br>那一晚，她将用你最熟悉的声线<br>在夜风星空下<br>让那些你最私密的感动重来一次</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01TgZItS2GdSbdp8CXz_!!2251059038.png\" width=\"1020\" height=\"680\" damai_width=\"1020\" damai_height=\"680\"></p>\n<p>「这世界辽阔，我总会实现一个梦」<br>&nbsp;<br>越来越惜歌如金的aMEI<br>将带给你不可以错过的一场音乐盛宴<br>在这场演唱会里<br>你的青春、你压抑的疯狂和眼泪<br>你在阿妹歌声中成长的那些轨迹<br>都將延续、悸动、鲜活<br>&nbsp;<br>如此珍贵的交会<br>或将不会重来<br>珍惜且期待在aMEI的歌里见面</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "苏州嘉纳文化艺术有限公司",
+                            "socialCreditCode": "913205093240032918",
+                            "legalPerson": "杨宇",
+                            "regCapStr": "100万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "苏州工业园区顺达商业广场1幢429室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张、每个账号最多购买4张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳台居民居住证/护照/台湾居民来往大陆通行证/外国人永久居留身份证/身份证/港澳居民来往内地通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "张惠妹"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "923",
+                    "venueName": "合肥体育中心体育场",
+                    "venueProvinceName": "安徽省",
+                    "venueCityName": "合肥市",
+                    "lng": 117.224931,
+                    "lat": 31.796659,
+                    "venueAddr": "合肥市政务文化新区习友路交潜山路西南角",
+                    "showCountText": "共有3个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "805118161261",
+                        "cityName": "合肥站",
+                        "showTime": "10.02",
+                        "tourId": "4395"
+                    },
+                    {
+                        "itemId": "796717034285",
+                        "cityName": "沈阳站",
+                        "showTime": "10.12",
+                        "tourId": "4395"
+                    },
+                    {
+                        "itemId": "798144505303",
+                        "cityName": "福州站",
+                        "showTime": "11.09",
+                        "tourId": "4395"
+                    },
+                    {
+                        "itemId": "796393036371",
+                        "cityName": "南宁站",
+                        "showTime": "11.23",
+                        "tourId": "4395"
+                    },
+                    {
+                        "itemId": "779841318842",
+                        "cityName": "苏州站",
+                        "showTime": "06.15",
+                        "tourId": "4395"
+                    },
+                    {
+                        "itemId": "220428010",
+                        "cityName": "上海站",
+                        "showTime": "2024.09.07~2024.09.08",
+                        "tourId": "4395"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=805118161261"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D805118161261%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "2513",
+                        "artistName": "张惠妹",
+                        "archives": "中国台湾著名流行女歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1680572482219/1680572482219-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "2513",
+                        "name": "张惠妹",
+                        "desc": "中国台湾著名流行女歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1680572482219/1680572482219-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "14448",
+                    "wantNumStr": "1.4万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过71%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01fhSSIo1XHKUOi5w5Y_!!6000000002898-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/1021545/204309119.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01XWxmOi1OrfMwRZv2s_!!6000000001759-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/245329/49065996_1711628252681.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01AFdO1d1QyedvCel2W_!!6000000002045-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "1604292124",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1706608704678/1706608704678-main.jpg",
+                    "note": "每每给歌迷惊喜的张惠妹这次玩得不小，ASMR的现场全新体验给所有人带来震撼，LIVE现场每分每秒营造沉浸式体验。",
+                    "categoryName": "其他",
+                    "title": "张惠妹ASMR MAX巡回演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊",
+                "inFieldComments": [
+                    {
+                        "id": "16078396",
+                        "comment": "太赞了 又赶赴一场属于自己的乌托邦，从开始唱到结束，氛围感不要太好 现场真的超级棒，阿妹还是适合更大的奥体场馆，",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/a1e7df1fe31948cba20c25570639151c.jpeg",
+                        "nickName": "Bob",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/620353/124070769_1685629944448.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16036438",
+                        "comment": "我的第四场阿妹",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/e3e4ca2395124b7aa0ed791d885182ba.jpeg",
+                        "nickName": "Calmmmmm",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1126194/225238946_1691490786014.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16036432",
+                        "comment": "我的第三次阿妹",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/da90e82670944c79af26c64844f93b33.jpeg",
+                        "nickName": "Calmmmmm",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1126194/225238946_1691490786014.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16020849",
+                        "comment": "张惠妹 /天津演唱会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/cc8f97aa4ae74b3f95db5ed70521618b.jpg",
+                        "nickName": "两个蛋是双黄蛋i",
+                        "userPic": "https://perico.damai.cn/userheadphotos/587836/117567358.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15941365",
+                        "comment": "2024张惠妹ASMR MAX演唱会天津",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/023b778a748746fd973ca699ab87f6f0.jpeg",
+                        "nickName": "阿飞sir",
+                        "userPic": "https://perico.damai.cn/userheadphotos/42535/8507067.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15936937",
+                        "comment": "不能没有张惠妹",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/c5fb972cfb83470986bedcc1173f2864.jpg",
+                        "nickName": "jlovek425",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/116200/23240139_1684717491340.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15933665",
+                        "comment": "好好好好嗨啊啊啊\n一半是KTV一半是蹦迪夜\n还是那个可爱的性感小女孩\n能量更强了！也更华丽了\n巨大的声浪淹没过往\n趁早的停顿中我也哭了\n一切都熟悉的仿佛昨天\n天津的声音真的太好听了吗\n场比馆大的甚至看不清灯牌\n好了好了还是定格在三天三夜的嘶吼和返场的惊喜里吧\n真是现场多快乐会后PCD就多凶猛\n如果快乐守恒 就把emo留给等待吧\n期待再来！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/08c998687cfb44248cacd93c47effcb2.jpg",
+                        "nickName": "Harlever_忆苡",
+                        "userPic": "https://perico.damai.cn/userheadphotos/593379/118675935.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15932720",
+                        "comment": "燃爆了，开场血腥爱情故事，结束三天三夜，最后竟然安可成功！！！\n耳朵怀了孕，嗓子劈了叉！！！\n演唱会的魅力必须到现场才能体会，北京没抢到票，天津抢到，激动激动，太值了，一定要去现场！！\n阿妹魅力不减当年，歌迷从小学生到耄耋老人～",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/df9f91d6541e4c779e6cadaba91384d1.jpg",
+                        "nickName": "芒果919",
+                        "userPic": "https://perico.damai.cn/userheadphotos/625355/125071194.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15928918",
+                        "comment": "张惠妹演唱会天津站哈哈第一次进奥体开心",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/560c928733d04be98c4fb5731bd97d30.jpg",
+                        "nickName": "妍阿妍1",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2424075/484815137_1710585456194.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15896516",
+                        "comment": "阿妹的超绝现场-2024咸阳演唱会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/32c1bb0ffa424f4f84d71357f7967ccf.jpg",
+                        "nickName": "冰凝叶子",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/32341/6468348_1689658274093.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15829938",
+                        "comment": "🤍🖤🤍\nA  mei\n又见到你😱😱😱😱😱😱\n📼里喜欢了三十年的人\n😱😱😱😱😱😱😱😱😱\n好一场酣畅淋漓的演唱会\n😱😱😱😱😱😱😱😱😱\n好一场嗨翻全场的LiveMusic\n😱😱😱😱😱😱😱😱😱\n嗨疯了😱😱😱😱😱😱跳爽了\n我觉得我还能再跳三天三夜\n除过华语天后“张惠妹”\n谁还能带给这样的现场体验\n ？？？？？？？？？？？？？\n当我开始偷偷的想你/剪爱  /解脱  /Badboy/ 听海/姊妹/牵手/别在伤口上撒盐/我要飞/连名带姓/记得/三天三夜………\n耳熟能详的旋律一下子拉入那个曾经\n耳边伴着磁带📼或mp3入眠的时代\n我们的青春  压抑的疯狂    眼泪\n是在A Mei的天籁之音中成长的轨迹\n都将继续延续    悸动    鲜活    在生命中跳跃\n这个时代不能没有你\n张惠妹\n气场全开的霸者\n永远爱你\n（A Mei\n安可了\n太宠歌迷了\n第一次给了我们咸阳\n破例了✌✌✌🤟🤟🤟🤟🤟🤟）\n \n\n \n​",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/721a5638464a4997a8426748cb420add.jpg",
+                        "nickName": "麦子4bDP9",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1130727/226145534_1677479220326.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15814029",
+                        "comment": "超级无敌棒，咸阳竟然安可了记得！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/b1806133585b427a91637680463db93b.jpg",
+                        "nickName": "Leoholy",
+                        "userPic": "https://perico.damai.cn/userheadphotos/119349/23869975.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15804537",
+                        "comment": " 看完了 跳完了\n作为体育场演唱会，还是最大程度考虑到了金曲的传唱度\n也很开心听到《我恨我爱你》《掉了》《我要快乐》\n遗憾《连名带姓》《人质》的缺席\n不过有得就有失\n谢谢你给了我们珍贵的安可\n你真的是非常厉害的女歌手，不管从哪个角度\n快歌慢歌相互交错开来\n唱到喉咙沙哑也要唱\n最喜欢《离别是那么突然》的那一部分\n我还是没有吃到汇通面\n那就把所有遗憾留给下次吧",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/e0de33af5f8b4684b1fce8cd2cb42d92.jpg",
+                        "nickName": "从前峰文",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2367079/473415912_1709436929502.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15702027",
+                        "comment": "在我4️⃣0️⃣的时候  去听了1️⃣4️⃣岁开始喜欢的",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/a7e3090b419d4e78aa5507dc5e3bdc98.jpeg",
+                        "nickName": "我发烧你来看我了么",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/626887/125377470_1701516199219.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15567633",
+                        "comment": "张惠妹户外场｜带着十月龄儿子来南京见阿妹",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/633a2f95b6c248a194630bd9ee5da0d4.jpg",
+                        "nickName": "Jaiden黄小明",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1161612/232322557_1713734491860.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15566347",
+                        "comment": "阿妹ASMR Max首场=来南京军训",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/41779765614545ca9de2877f83ee2e17.jpeg",
+                        "nickName": "霖大麦子",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/464653/92930617_1714372548766.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14342345",
+                        "comment": "看一场阿妹的演唱会，感受偶像带来的力量",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/e5a7bc8afb374a5bbb38e2ded4259077.jpg",
+                        "nickName": "秦牧",
+                        "userPic": "https://perico.damai.cn/userheadphotos/235244/47048982.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14321797",
+                        "comment": "本次巡演有多首阿妹的经典老歌，在现场听到的时候会非常震撼",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/0bba39d492fd4b15a37850b50e984070.jpg",
+                        "nickName": "秦牧",
+                        "userPic": "https://perico.damai.cn/userheadphotos/235244/47048982.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14054901",
+                        "comment": "张惠妹❤️‍❤️‍❤️‍谢谢张小姐冬至点了一首人质",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/ab3483d470874dc58154c9bf4b268207.jpg",
+                        "nickName": "圆圆球102",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2232959/446591941_1691940289825.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13924490",
+                        "comment": "如梦如幻，如痴如醉\n阿妹这场演唱会真是让我见识到了女歌手唱功天花板！第一首就冲血腥爱情故事，直冲天灵盖的唱功，虽然有很多经典慢歌没唱到，但是根本没差啊，因为阿妹大热歌太多了，听说这是阿妹自己选的歌单，可能还是有些冷门歌，旁边的观众不是很够嗨，不过最后一趴还是都嗨爆了。\n舞美绝了！虽然不是正对面，但是可以想象正对面的效果，哭死了，下次必买680档的。阿妹下次能不能来合肥开啊！我必定全程跟完。\n有两个吐槽的地方，第一个是字幕有时在左边有时在右边，在右边的时候挺好的，可以看清歌词，但是在左边的时候，五楼看台明显看不到下面一部分歌词，有点影响体验了。还有一个就是荧光棒好多坏的，我的荧光棒中途也坏了，只能甩不亮的棒子\n不过还是不影响，阿妹是神这件事",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/6f5e3bc701a748f89b41c1888f87e589.jpeg",
+                        "nickName": "佩德里16",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/851536/170307254_1711174122819.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    }
+                ]
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1718162278000",
+                "sellStartTimeStr": "06月12日 11:17",
+                "priceRange": "¥380-¥1380",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "558273",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "2507",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "4",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8051181612/2/805118161261.jpg"
+            }
+        }
+    }
+}
