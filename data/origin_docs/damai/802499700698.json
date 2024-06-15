@@ -1,0 +1,628 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：邓紫棋",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "850",
+    "cityname": "中国澳门",
+    "couponTags": "[]",
+    "description": "艺人：邓紫棋",
+    "id": "1_1_802499700698",
+    "imgurl": "-564937586",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "G.E.M. 邓紫棋 I AM GLORIA 世界巡回演唱会 - 澳门站",
+    "nameNoHtml": "G.E.M. 邓紫棋 I AM GLORIA 世界巡回演唱会 - 澳门站",
+    "price": "580.0",
+    "price_str": "580-1680",
+    "pricehigh": "1680.0",
+    "privilegeTags": "[]",
+    "projectid": "802499700698",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.08.02-08.04",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "银河综艺馆",
+    "venuecity": "中国澳门",
+    "venueid": "6245002",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01EAXKdn2GdSbgvztUa_!!0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "802499700698",
+                    "itemName": "G.E.M. 邓紫棋 I AM GLORIA 世界巡回演唱会 - 澳门站",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "820200",
+                    "cityName": "中国澳门",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01EAXKdn2GdSbgvztUa_!!0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i2/2251059038/O1CN01EAXKdn2GdSbgvztUa_!!0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.08.02-08.04",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "快递票",
+                            "tagDesc": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。发货前支持修改一次收货地址。\r\n注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagDescWithStyle": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。<b>发货前支持修改一次收货地址。</b><br/>注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "门票即发票",
+                            "tagDesc": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagDescWithStyle": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "893",
+                    "atomSplit": "1",
+                    "isHotProject": "true",
+                    "isShowHotProjectModel": "true",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>温馨提示：</p>\n<p>本项目不支持退换，购票成功的客户，请您提前规划好行程以及办理好港澳通行证-中国澳门签注，实体门票将于演出前一周左右寄出，请您耐心等待，现场当天如忘记带票及对票情况不予处理，感谢您的支持与理解。&nbsp;</p>\n<p>&nbsp;</p>\n<p>票价说明：</p>\n<p>港币/澳门币票面价（HKD/MOP）：1680 /1380/980/780/580</p>\n<p>大麦人民币售价(CNY)：1680/1380/980/780/580，门票已含中国港澳台服务费。</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><strong><span style=\"font-size: 18px;\">G.E.M. 邓紫棋 I AM GLORIA 世界巡回演唱会 - 澳门站</span></strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">从Gloria开始，认识一个全新的邓紫棋。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN011W3Jty2GdSbgS22LR_!!2251059038.jpg\" width=\"870\" height=\"1280\" damai_width=\"870\" damai_height=\"1280\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">她是首位登上香港体育馆开唱的90后女歌手，是金曲奖华语最佳女歌手最年轻入围者，也是首位BILLBOARD RADIO CHINA年度艺人。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">睽违六年，华语乐坛创作天后邓紫棋将以I AM GLORIA为主题正式启动个人主题巡演。当熟悉的歌声在耳边响起，你是否能听懂她的心声？</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01RcpE2l2GdSbcG4pvr_!!2251059038.jpg\" width=\"1333\" height=\"2000\" damai_width=\"1333\" damai_height=\"2000\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">2020年，邓紫棋凭借专辑《摩天动物园》获得第31届台湾金曲奖评审团奖”，并成为流媒体平台Spotify“全球最受欢迎华语女歌手”，获得Mnet亚洲音乐大奖“最佳亚洲艺人奖”。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">2021年，《光年之外》MV被吉尼斯世界纪录认证为“YouTube上观看次数最多的中文音乐视频”。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">2022年，耗费三年心血，邓紫棋发行第八张全创作专辑《启示录》，首创14集MV音乐连续剧，史无前例地以连续剧的形式呈现专辑中的每一首歌，翻开流行乐坛的崭新一页。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ROCDaY2GdSbdAKkAT_!!2251059038.jpg\" width=\"1333\" height=\"2000\" damai_width=\"1333\" damai_height=\"2000\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">2023年，历经期待相见的日日夜夜，邓紫棋以Gloria之名再次启动个人主题巡演，用歌声唱出内心的爱与坚持，诠释每一份点滴感动。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01flLqGX2GdSbbIpR6d_!!2251059038.jpg\" width=\"1333\" height=\"2000\" damai_width=\"1333\" damai_height=\"2000\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">2022年8月，邓紫棋发行《启示录》先行曲《GLORIA》，为启示之路掀开神圣序幕。邓紫棋曾经分享说：“Gloria是爸爸给我取的名字。我从小就觉得很好听，而且充满荣耀。长大了，更认定这是我的使命——在世上作盐作光。”一如既往地，她用音乐向听众传递生命力，传递爱与希望。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Q491M12GdSbbPJZoX_!!2251059038.jpg\" width=\"2000\" height=\"1333\" damai_width=\"2000\" damai_height=\"1333\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">此次巡演，邓紫棋以“I AM GLORIA”为名，带领大家在歌声中探寻内心，在音符的跳动中，拥抱最真实的自我。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">六年前，邓紫棋的演唱会以扑克牌中的红心Q作为主题，因她坚信人人可以征服、掌管自己的心，并成为自己的心之女王。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01ggR0kt2GdSbZJ0wQc_!!2251059038.jpg\" width=\"1333\" height=\"2000\" damai_width=\"1333\" damai_height=\"2000\"></p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01PGsPh92GdSbdAQmiB_!!2251059038.jpg\" width=\"2000\" height=\"1333\" damai_width=\"2000\" damai_height=\"1333\"></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">时光浩渺流转，四时交替更迭。六年之后，邓紫棋I AM GLORIA演唱会正式起航，用歌声穿透时间的壁垒，与前来的每个人一道，共同写下新的珍贵章节。这一次，和邓紫棋一起跟随爱的指引，唱出心中絮语，谱写爱与感动。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ZbDAry2GdSbbIyZ88_!!2251059038.jpg\" width=\"2000\" height=\"1333\" damai_width=\"2000\" damai_height=\"1333\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01XptiXs2GdSbdkzuvt_!!2251059038.jpg\" width=\"2000\" height=\"1333\" damai_width=\"2000\" damai_height=\"1333\"></p>\n<p style=\"text-align: center;\">&nbsp;</p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "快递费",
+                        "content": "1.同城10.0元，发货后1-3天到达；省内12.0元，发货后1-3天到达；其他地区18.0元，发货后1-3天到达；澳门、香港、台湾40.0元，发货后1-5天到达。\r\n2.演出前4天不支持快递。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "本项目门票即是发票。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带纸质门票验票入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "本项目门票即是发票。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约60分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "邓紫棋"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "6245002",
+                    "venueName": "银河综艺馆",
+                    "venueProvinceName": "中国澳门",
+                    "venueCityName": "中国澳门",
+                    "lng": 113.55875,
+                    "lat": 22.146093,
+                    "venueAddr": "澳門路氹望德聖母灣大馬路",
+                    "showCountText": "共有2个演出",
+                    "region": "2"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "788954703059",
+                        "cityName": "福州站",
+                        "showTime": "07.06-07.07",
+                        "tourId": "4302"
+                    },
+                    {
+                        "itemId": "793310011719",
+                        "cityName": "台州站",
+                        "showTime": "07.20",
+                        "tourId": "4302"
+                    },
+                    {
+                        "itemId": "789383245294",
+                        "cityName": "呼和浩特站",
+                        "showTime": "07.27",
+                        "tourId": "4302"
+                    },
+                    {
+                        "itemId": "802499700698",
+                        "cityName": "中国澳门站",
+                        "showTime": "08.02-08.04",
+                        "tourId": "4302"
+                    },
+                    {
+                        "itemId": "781168189140",
+                        "cityName": "青岛站",
+                        "showTime": "06.16",
+                        "tourId": "4302"
+                    },
+                    {
+                        "itemId": "789240991916",
+                        "cityName": "南京站",
+                        "showTime": "06.21-06.23",
+                        "tourId": "4302"
+                    },
+                    {
+                        "itemId": "773116621667",
+                        "cityName": "郑州站",
+                        "showTime": "06.29-06.30",
+                        "tourId": "4302"
+                    },
+                    {
+                        "itemId": "795109482937",
+                        "cityName": "哈尔滨站",
+                        "showTime": "07.13",
+                        "tourId": "4302"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址",
+                                    "海外邮箱"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=802499700698"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D802499700698%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "17267",
+                        "artistName": "邓紫棋",
+                        "archives": "邓紫棋（G.E.M.），本名邓诗颖，1991年8月16日出生于上海市，中国香港女歌手、词曲作者、音乐制作人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1699583886568/1699583886568-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "17267",
+                        "name": "邓紫棋",
+                        "desc": "邓紫棋（G.E.M.），本名邓诗颖，1991年8月16日出生于上海市，中国香港女歌手、词曲作者、音乐制作人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1699583886568/1699583886568-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "25507",
+                    "wantNumStr": "2.6万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过79%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01ZxeXaY1HAQfY81rFy_!!6000000000717-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/297859/59571865.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01bMZ0oW1WC0GXqoK9h_!!6000000002751-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1144970/228994034_1679840203235.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN014QIdE01itlV068vLP_!!6000000004471-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1719288000000",
+                "sellStartTimeStr": "06月25日 12:00",
+                "countDown": "812817",
+                "rcdt": "812816262",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥580-¥1680",
+                "performBases": [
+                    {
+                        "name": "08.03 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1722614400000",
+                        "performs": [
+                            {
+                                "performId": "214748061",
+                                "performName": "2024-08-03 周六 20:00",
+                                "itemId": "802499700698",
+                                "projectId": "220552026",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1722686400000",
+                                "performTime": "2024.08.03 20:00",
+                                "performStartDate": "2024-08-03",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "4",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "08.04 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1722700800000",
+                        "performs": [
+                            {
+                                "performId": "214748062",
+                                "performName": "2024-08-04 周日 20:00",
+                                "itemId": "802499700698",
+                                "projectId": "220552026",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1722772800000",
+                                "performTime": "2024.08.04 20:00",
+                                "performStartDate": "2024-08-04",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "4",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "08.02 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1722528000000",
+                        "performs": [
+                            {
+                                "performId": "214795072",
+                                "performName": "2024-08-02  周五 20:00",
+                                "itemId": "802499700698",
+                                "projectId": "220552026",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1722600000000",
+                                "performTime": "2024.08.02 20:00",
+                                "performStartDate": "2024-08-02",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "4",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "3",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "缺货登记",
+                "buyBtnStatusAfterCountDown": "91",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "388674",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "558273",
+                    "19403",
+                    "7371",
+                    "2507",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8024997006/2/802499700698.jpg"
+            }
+        }
+    }
+}
