@@ -1,0 +1,423 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1691",
+    "cityname": "丽水",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_806332884127",
+    "imgurl": "-526605751",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "《陈乐基【中转直飞】全国巡回演唱会丽水站》",
+    "nameNoHtml": "《陈乐基【中转直飞】全国巡回演唱会丽水站》",
+    "price": "180.0",
+    "price_str": "180-580",
+    "pricehigh": "580.0",
+    "privilegeTags": "[]",
+    "projectid": "806332884127",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.07.27 周六 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "丽水大剧院",
+    "venuecity": "丽水",
+    "venueid": "55319",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Zkn4iN2GdSbh1FRrd_!!2251059038.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "806332884127",
+                    "itemName": "【丽水】《陈乐基【中转直飞】全国巡回演唱会丽水站》",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "331100",
+                    "cityName": "丽水市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Zkn4iN2GdSbh1FRrd_!!2251059038.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Zkn4iN2GdSbh1FRrd_!!2251059038.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.07.27 周六 19:30",
+                    "showDuration": "预计时长100分钟，无中场休息,实际以现场为准",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京保利票务发展有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：北京保利票务发展有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1597",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>购票温馨提示：</p>\n<p>演出票为特殊商品，售出后即为出票成功，<span style=\"background-color: #f5db4d;\"><strong>演出票售出后不退不换，下单前请注意。</strong></span></p>\n<p>——————————————————————————</p>\n<p style=\"text-align: center;\">有一类人，他们永远激情和摇滚</p>\n<p style=\"text-align: center;\">天生为舞台和音乐而生</p>\n<p style=\"text-align: center;\"><strong>2024年7月27日（周六）19:30</strong></p>\n<p style=\"text-align: center;\"><em><strong>陈乐基 &amp; KillerSoap 杀手锏 </strong></em></p>\n<p style=\"text-align: center;\"><strong>x ShuKan 手简</strong></p>\n<p style=\"text-align: center;\"><strong>陈乐基 「中转直飞」2024 全国巡演</strong></p>\n<p style=\"text-align: center;\"><strong>演唱会——丽水站</strong></p>\n<p style=\"text-align: center;\"><img alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: center;\"><strong>陈乐基 「中转直飞」2024 全国巡演</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>|演出时间|</strong></p>\n<p style=\"text-align: center;\"><strong>2024年7月27日(周六)19:30</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>｜票价｜</strong></p>\n<p style=\"text-align: center;\">180、280、380、480、580元</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>｜早鸟优惠｜</strong></p>\n<p style=\"text-align: center;\"><span style=\"color: #fa5359;\">6月15日-6月21日期间</span></p>\n<p style=\"text-align: center;\">购买580、480、380、280元价位档</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>｜套票优惠｜</strong></p>\n<p style=\"text-align: center;\">400元（含280元门票两张）</p>\n<p style=\"text-align: center;\">500元（含380元门票两张）</p>\n<p style=\"text-align: center;\">600元（含480元门票两张）</p>\n<p style=\"text-align: center;\">750元（含580元门票两张）</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p><strong>杀手锏（KillerSoap）</strong></p>\n<p><span style=\"font-size: 15px;\"><em><strong>中国香港摇滚乐队，由主唱陈乐基（Rocky）、吉他手刘健文（ManMan）、欧家伟（Kevin）鼓手张永燊（SaNn）及贝斯手陈乐恒（Lawrence）组成。</strong></em></span></p>\n<p>&nbsp;</p>\n<p><strong>主唱：陈乐基（Rocky chan）</strong></p>\n<p><strong>吉他手：刘健文(文文 ManMan)</strong></p>\n<p><strong>贝斯手：陈乐恒（Lawrence）</strong></p>\n<p><strong>吉他手：欧家伟（欧仔 Kevin）</strong></p>\n<p><strong>鼓手：张永燊（SaNn）</strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 15px;\">中转直飞就好像本来出发去 vegas 梦想他的繁华、刺激和五光十色，但旅途上的成长，发现自己的向往的，其实是拉隆，追求的是思巧和内在的声音。</span></p>\n<p style=\"text-align: right;\"><span style=\"font-size: 15px;\">——陈乐基</span></p>\n<p style=\"text-align: right;\">&nbsp;</p>\n<p><strong>陈乐基（Rocky chan）</strong>中国香港音乐人、歌手、KillerSoap 杀手锏乐队主唱、SHUKAN手简乐队主唱。</p>\n<p>2004 年大学时期和朋友们组建KillerSoap 杀手锏乐队；2011年陈乐基杀手锏乐队发行首张专辑《Bittersweet》。</p>\n<p>2014 年，陈乐基参加第三季《中国好声音》用一首《月半小夜曲》夺得观众和乐迷的喜爱。同年参加《好声音盛典之夜》，<strong>凭借《月半小夜曲》获得好声音“年度金曲奖”。</strong></p>\n<p>2015 年，陈乐基参加江西卫视《超级歌单》，演唱多首经典歌曲《吻别》《谁明浪子心》等，同年，以杀手锏乐队形式发行全新国语专辑《长大就是这样》，<strong>专辑主打歌被选为电影《脱皮爸爸》主题曲</strong>。</p>\n<p style=\"text-align: justify;\">2016 年，<strong>参加广东广播电视台《麦王争霸》并获得“麦王称号”</strong>，同年，在音乐之声中国 TOP 音乐盛典一举夺得<strong>“年度校园人气乐队奖”</strong>，并在时尚星秀年度盛典获得<strong>“年度最具风尚摇滚乐队奖”</strong>，并受邀<strong>参加厦门卫视春晚录制</strong>；</p>\n<p style=\"text-align: justify;\">2017 年，陈乐基&amp;杀手锏乐队发行全新 EP《伍》，并参加<strong>江苏卫视《中国乐队》录制演唱原创歌曲《风铃的味道》</strong>；</p>\n<p style=\"text-align: justify;\">2018 年，陈乐基受邀参加《蒙面唱将猜猜猜》第三季，并在珠江频道与音乐之声倾力打造的<strong>大型音乐节目《粤语好声音》中担任导师</strong>，同年，录制广东广播电视台节目《流淌的歌声》。</p>\n<p style=\"text-align: justify;\">2019 年，<strong>参加江西卫视春晚</strong><em>，同年5月发布全新 EP《Rocky Chan》。2020 年发行专辑《敢悟》；2021 年与刘卓辉，崔轼玄歌曲《这一首歌》《过期情歌》；2022 年发行专辑《不变》；2023年推出全新概念专辑《彼此》《手简》；2024 年发行《雨燕》《命中注定》等歌曲。</em></p>\n<p style=\"text-align: justify;\">&nbsp;</p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须兑换成纸质票验票入场，当天请按照【票夹】提示，前往取票点换取纸质票后入场"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "所有观众凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "预计时长100分钟，无中场休息,实际以现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "12"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "陈乐基"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "100分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "55319",
+                    "venueName": "丽水大剧院",
+                    "venueProvinceName": "浙江省",
+                    "venueCityName": "丽水市",
+                    "lng": 119.92475,
+                    "lat": 28.464776,
+                    "venueAddr": "丽水市人民街处州公园东首",
+                    "showCountText": "共有12个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D806332884127%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "选座购买",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1718561221000",
+                "sellStartTimeStr": "06月17日 02:07",
+                "priceRange": "¥180-¥580",
+                "performBases": [
+                    {
+                        "name": "07.27 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1722009600000",
+                        "performs": [
+                            {
+                                "performId": "214977077",
+                                "performName": "2024-07-27 周六 19:30",
+                                "itemId": "806332884127",
+                                "projectId": "220734007",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1722079800000",
+                                "performTime": "2024.07.27 19:30",
+                                "performStartDate": "2024-07-27",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "605761",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "409985",
+                    "599425",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "558273",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8063328841/2/806332884127.jpg"
+            }
+        }
+    }
+}
