@@ -1,0 +1,95 @@
+{
+    "platform": "大麦",
+    "project_id": "806707242011",
+    "project_name": "「2024中国BBOX锦标赛」「张嘴就来BEATBOX巡演」-广州站",
+    "category_name": "演唱会",
+    "artists": [
+        "BEATBOX 张泽"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.16-08.17",
+    "session_time": [],
+    "price": "298-788",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "广州",
+    "venue_name": "MAO Livehouse 广州(太古仓店)",
+    "venue_info": {
+        "venue_address": "广东省广州市海珠区革新路124号太古仓码头54汇4仓MAOLivehouse",
+        "lng": 113.252513,
+        "lat": 23.088883
+    },
+    "project_info": "评委嘉宾陆续公布\n（暂公布四位评委嘉宾，还有五位陆续公布）\n比赛在晚上8点前\n演出在晚上8点后\n \n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01N7kdVH2GdSbhPiL59_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01JX38Ez2GdSbj0f9uB_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01iWidUI2GdSbkOpvMj_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01EsQ4dW2GdSbelkYva_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ZBJ8Zi2GdSbaGDYIS_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "218",
+        "wantNumStr": "218",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "802657742299",
+            "cityName": "成都站",
+            "showTime": "07.12"
+        },
+        {
+            "itemId": "797316607280",
+            "cityName": "西安站",
+            "showTime": "07.13"
+        },
+        {
+            "itemId": "798454664662",
+            "cityName": "上海站",
+            "showTime": "07.19"
+        },
+        {
+            "itemId": "797530157908",
+            "cityName": "杭州站",
+            "showTime": "07.20"
+        },
+        {
+            "itemId": "797848301493",
+            "cityName": "郑州站",
+            "showTime": "07.26"
+        },
+        {
+            "itemId": "804882955374",
+            "cityName": "北京站",
+            "showTime": "07.27"
+        },
+        {
+            "itemId": "797704098254",
+            "cityName": "大连站",
+            "showTime": "08.02"
+        },
+        {
+            "itemId": "797703574984",
+            "cityName": "长春站",
+            "showTime": "08.03"
+        },
+        {
+            "itemId": "798815252672",
+            "cityName": "长沙站",
+            "showTime": "08.09"
+        },
+        {
+            "itemId": "797648023430",
+            "cityName": "深圳站",
+            "showTime": "08.10"
+        },
+        {
+            "itemId": "806707242011",
+            "cityName": "广州站",
+            "showTime": "08.16-08.17"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=806707242011"
+}
