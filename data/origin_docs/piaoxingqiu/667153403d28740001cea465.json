@@ -1,0 +1,448 @@
+{
+    "searchType": "SHOW",
+    "showId": "667153403d28740001cea465",
+    "stdShowId": "667153403d28740001cea464",
+    "showName": "【张家口】张北草原音乐季",
+    "showDate": "2024.07.26 - 07.28",
+    "cityName": "张家口",
+    "cityId": "1307",
+    "showStatus": "PRESALE",
+    "minOriginalPrice": "99.0",
+    "posterUrl": "https://cdn.ticketmars.com/image/prod/20240618_44/17187035093759500.jpg",
+    "venueId": "646ae2dac9eb9e0001efdc9d",
+    "venueName": "张北中都原始草原",
+    "backendCategory": "{'code': 18, 'displayName': '音乐节', 'name': 'MusicFestival'}",
+    "isFree": "False",
+    "firstShowTime": "1721973600000",
+    "lastShowTime": "1722175200000",
+    "minOriginalPriceInfo": "{'yuanNum': '99', 'centNum': '', 'suffix': '起', 'prefix': '￥'}",
+    "latestShowTime": "1721973600000",
+    "showSessionDates": "['20240726', '20240728', '20240727']",
+    "soldOut": "False",
+    "sessionNum": "6",
+    "seatPlanNum": "12",
+    "rsCode": 200,
+    "basicInfo": {
+        "hotMode": true,
+        "stdShowId": "667153403d28740001cea464",
+        "showName": "【张家口】张北草原音乐季",
+        "sourceType": "SELF_BUILT_EXTERNAL_PRODUCE",
+        "originalSeatPickType": "SUPPORT_NONE",
+        "contentUrl": "https://cdn.ticketmars.com/prod/showContent/667153403d28740001cea465/content_6671564bc69db5000112f6ee.content",
+        "posterUrl": "https://cdn.ticketmars.com/image/prod/20240618_44/17187035093759500.jpg",
+        "posterColor": "#2d6653ff",
+        "venueId": "646ae2dac9eb9e0001efdc9d",
+        "venueName": "张北中都原始草原",
+        "venueAddress": "张北原始草原郝家营乡三宝营盘村",
+        "venueLat": 41.296269,
+        "venueLng": 114.752057,
+        "cityId": "1307",
+        "cityName": "张家口市",
+        "onSaleShowCount": 1,
+        "showTags": [],
+        "authorizationUrl": "",
+        "minOriginalPriceInfo": {
+            "yuanNum": "99",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "maxOriginalPriceInfo": {
+            "yuanNum": "599",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "showDate": "2024年07月26日 - 07月28日",
+        "showDuration": "以现场为准",
+        "displayAdvance": false,
+        "venueDisplayAdvance": false,
+        "sessionDisplayAdvance": false,
+        "seatPlanDisplayAdvance": false,
+        "showType": {
+            "name": "MusicFestival"
+        },
+        "showDetailStatus": "PRE_SALE",
+        "existsPrivilegePurchase": false,
+        "displayCountdownTime": true,
+        "captchaTypes": []
+    },
+    "additionalInfo": {
+        "hasCoupon": true,
+        "hasPromo": false,
+        "hasAddPurchase": false,
+        "hasUserPromo": false,
+        "hasPCard": false,
+        "hasPriority": false,
+        "hasChannelDiscount": false,
+        "checkChannelFreeCombo": false,
+        "channelPickSeatProject": false,
+        "hasTyingSale": false
+    },
+    "descInfo": {
+        "observationInstructions": [
+            {
+                "key": "TICKETS_AND_ADMISSION",
+                "name": "票品及入场",
+                "value": "纸质票：须携带纸质门票验票入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "ENTRY_TIME",
+                "name": "入场时间",
+                "value": "请于开始前约120分钟入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "SHOW_DURATION",
+                "name": "演出时长",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "MAIN_ACTOR",
+                "name": "主要演员(团体)",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "RESTRICTED_ITEM",
+                "name": "禁止携带物品",
+                "value": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "LUGGAGE_DEPOSIT",
+                "name": "物品寄存",
+                "value": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            },
+            {
+                "key": "MINIMUM_SHOW_DURATION",
+                "name": "最低演出时长",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 7
+            },
+            {
+                "key": "MINIMUM_SHOW_NUMBER",
+                "name": "最低演出曲目",
+                "value": "10首（以现场为准）",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 8
+            }
+        ],
+        "ticketInstructions": [
+            {
+                "key": "CHILDREN_INTRODUCTION",
+                "name": "儿童购票",
+                "value": "1.2米以上凭成人票入场，1.2米以下谢绝入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "DELIVERY_DESC",
+                "name": "配送信息说明",
+                "value": "不支持修改配送电话、地址等信息",
+                "seq": 2
+            },
+            {
+                "key": "REAL_NAME_PURCHASE_TICKET_INTRODUCTION",
+                "name": "实名购票规则",
+                "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证/外国人永久居留身份证",
+                "isMarked": false,
+                "tagContent": "门票对应唯一证件(身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证/外国人永久居留身份证)",
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "EXCEPTION_ORDER_INTRODUCTION",
+                "name": "异常排单说明",
+                "value": "对于异常订购行为，商家有权在订单成立或者生效之后取消相应订单。 异常订购行为包括但不限于以下情形： （1）通过同一ID订购超出限购张数的订单。 （2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "LIMITATION",
+                "name": "限购规则",
+                "value": "每个场次限购6张/套，项目限购20张/套",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "EXCHANGE_POLICY",
+                "name": "退换政策",
+                "value": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            },
+            {
+                "key": "INVOICE_INTRODUCTION",
+                "name": "发票说明",
+                "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 7
+            }
+        ],
+        "markedTextList": []
+    },
+    "noteInfos": [
+        {
+            "name": "支持有条件退",
+            "value": "",
+            "type": true,
+            "code": "CONDITION_REFUND",
+            "refundCfg": {
+                "showName": "【张家口】张北草原音乐季",
+                "refundTimes": 1,
+                "type": "SESSION_SETTING",
+                "rateItems": [
+                    {
+                        "rate": 0.0,
+                        "sessionItems": [
+                            {
+                                "sessionBeginTime": 1721973600000,
+                                "sessionName": "三日通票（26日-28日）",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-18 15:58",
+                                        "right": "2024-06-20 15:57"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1721973600000,
+                                "sessionName": "2024-07-26 周五 14:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-18 15:58",
+                                        "right": "2024-06-20 15:57"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1721973600000,
+                                "sessionName": "两日通票（26日-27日）",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-18 15:58",
+                                        "right": "2024-06-20 15:57"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1722060000000,
+                                "sessionName": "两日通票（27日-28日）",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-18 15:58",
+                                        "right": "2024-06-20 15:57"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1722060000000,
+                                "sessionName": "2024-07-27 周六 14:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-18 15:58",
+                                        "right": "2024-06-20 15:57"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1722146400000,
+                                "sessionName": "2024-07-28 周日 14:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-18 15:58",
+                                        "right": "2024-06-20 15:57"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "rate": 30.0,
+                        "sessionItems": [
+                            {
+                                "sessionBeginTime": 1721973600000,
+                                "sessionName": "三日通票（26日-28日）",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-20 15:58",
+                                        "right": "2024-06-22 23:59"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1721973600000,
+                                "sessionName": "2024-07-26 周五 14:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-20 15:58",
+                                        "right": "2024-06-22 23:59"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1721973600000,
+                                "sessionName": "两日通票（26日-27日）",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-20 15:58",
+                                        "right": "2024-06-22 23:59"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1722060000000,
+                                "sessionName": "两日通票（27日-28日）",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-20 15:58",
+                                        "right": "2024-06-22 23:59"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1722060000000,
+                                "sessionName": "2024-07-27 周六 14:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-20 15:58",
+                                        "right": "2024-06-22 23:59"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1722146400000,
+                                "sessionName": "2024-07-28 周日 14:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-20 15:58",
+                                        "right": "2024-06-22 23:59"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "rate": 50.0,
+                        "sessionItems": [
+                            {
+                                "sessionBeginTime": 1721973600000,
+                                "sessionName": "三日通票（26日-28日）",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-23 00:00",
+                                        "right": "2024-06-29 23:59"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1721973600000,
+                                "sessionName": "2024-07-26 周五 14:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-23 00:00",
+                                        "right": "2024-06-29 23:59"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1721973600000,
+                                "sessionName": "两日通票（26日-27日）",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-23 00:00",
+                                        "right": "2024-06-29 23:59"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1722060000000,
+                                "sessionName": "两日通票（27日-28日）",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-23 00:00",
+                                        "right": "2024-06-29 23:59"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1722060000000,
+                                "sessionName": "2024-07-27 周六 14:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-23 00:00",
+                                        "right": "2024-06-29 23:59"
+                                    }
+                                ]
+                            },
+                            {
+                                "sessionBeginTime": 1722146400000,
+                                "sessionName": "2024-07-28 周日 14:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-06-23 00:00",
+                                        "right": "2024-06-29 23:59"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "name": "实名观演",
+            "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证/外国人永久居留身份证",
+            "type": true,
+            "code": "REAL_NAME_TICKET"
+        },
+        {
+            "name": "快递送票",
+            "value": "纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。注：到达离开演时间最少配送天数时，不再寄送快递票（具体以下单过程提示为准）",
+            "type": true,
+            "code": "EXPRESS"
+        },
+        {
+            "name": "发票说明",
+            "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具。",
+            "type": false,
+            "code": "BILL_APPLY"
+        }
+    ],
+    "specialNoteInfos": [
+        {
+            "name": "预售",
+            "value": "本项目正在预售，下单后无法立即为您配票。正式开票后（一般于节目举办前1-2周），票品信息（包括换票、入场方式）将陆续更新，届时您可通过订单详情页或票舱详情查看。",
+            "type": true,
+            "code": "SHOW_PRESALE",
+            "desc": "此项目为预售，待项目正式开票后为您配票"
+        }
+    ],
+    "announcement": [],
+    "whiteTags": [],
+    "watcherReplacer": "观演"
+}
