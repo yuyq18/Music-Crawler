@@ -1,0 +1,437 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "2017",
+    "cityname": "东营",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_808018457272",
+    "imgurl": "-509750020",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "海阔天空怀念家驹海山致敬Beyond金曲演唱会",
+    "nameNoHtml": "海阔天空怀念家驹海山致敬Beyond金曲演唱会",
+    "price": "30.0",
+    "price_str": "30-120",
+    "pricehigh": "120.0",
+    "privilegeTags": "[]",
+    "projectid": "808018457272",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.07.19 周五 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "利津县文化活动中心",
+    "venuecity": "东营",
+    "venueid": "6471095",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN013r2t012GdSborILEU_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "808018457272",
+                    "itemName": "【东营】海阔天空怀念家驹海山致敬Beyond金曲演唱会",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "370500",
+                    "cityName": "东营市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN013r2t012GdSborILEU_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i1/2251059038/O1CN013r2t012GdSborILEU_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.07.19 周五 19:30",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：滨州保利大剧院管理有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：滨州保利大剧院管理有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1835",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">【演出名称】</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">海阔天空 怀念家驹 海山致敬Beyond金曲演唱会</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">【演出时间】</span></p><p style=\"text-align: center; line-height: 2;\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i27.500f6b72S6mVcW\"><span style=\"font-size: 14px;\">2024年07月19日（周五）19:30</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i21.500f6b727klafH\" style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">【演出地点】</span></p><p style=\"text-align: center; line-height: 2;\"><span data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i27.500f6b727klafH\" style=\"font-size: 14px;\">利津县文化活动中心</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">山东省东营市利津县津二路凤翔路（文化艺术中心）</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">【演出时长】</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">约120分钟</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">【主唱乐队】</span></p><p style=\"text-align: center; line-height: 2;\" data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i26.500f6b727klafH\"><span style=\"font-size: 14px;\">海山&amp;HS乐队</span></p><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i23.500f6b727klafH\" style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">【演出票价】</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">120、100、80、50、30元</span></p><div style=\"text-align: center; line-height: 2;\"><p><span style=\"font-size: 14px;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01xLnzWv2GdSbmMDbhJ_!!2251059038.jpg\" width=\"1020\" height=\"1360\" damai_width=\"1020\" damai_height=\"1360\"><br></span></p></div><p style=\"text-align: center; line-height: 2;\"><strong><span style=\"font-size: 14px;\">乐队介绍:—海山&amp;HS乐队</span></strong></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\"><strong>主唱-海山：</strong>Beyond 歌曲演出经验丰富。多次受邀参加纪念BEYOND演唱会及电视晚会录制，赴东南亚地区举办致敬BEYOND演唱会，场场爆满，无一差评，整场演出个人几乎无间断演唱30+曲目，毫无水分：圈内公认声线和黄家驹契合度90%。</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\"><br></span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\"><strong>音乐总监（特邀）-马俊杰：</strong>丰富的演唱会监制经验，参与AK41乐团，新秀组合等多场大型演唱会现场监制工作。</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\"><strong>Bassist-李金水：</strong>圈内最具黄家强传承的气质贝斯手。</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\"><strong>Guitarist-陈国东(绰号 吉他佬）</strong>：20年吉他演奏生涯，素有“六指琴魔”的美誉，受邀参加《迷笛音乐节》《西湖音乐节》为知名歌手担任主音吉他。</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\"><strong>Bandleader-大飞：</strong>《广东唛王争霸》 音乐总监和多位著名歌手合作。</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\"><strong>Drummer-阮进星：</strong>不论fusion，爵士、摇滚，演奏起来都行云流水、得心应手：2008年《谁是鼓王》冠军。</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\"><strong>Monitor调音—路健豪：</strong>studio imagine创始人，国内一级音响师，那英御用调音师，先后为何洁、毛不易等圈内著名歌手担任现场、演出调音工作。</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\"><strong>PA调音-吴彤：</strong>Audinate中国区技术总监，国内著名音响系統工程师。</span></p><p style=\"text-align: center; line-height: 2;\"><strong><span style=\"font-size: 14px;\">曲目单：</span></strong></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">沮丧时：光辉岁月</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">失意时：海阔天空</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">落寞时：午夜怨曲</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">思念时：遥望</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">孤寂时：谁伴我闯荡</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">奔波时：岁月无声</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">踌躇时：不再犹豫</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">无助时：无尽空虛</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">压抑时：我是愤怒</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">无奈时：冷雨夜</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">放奔时：再见理想</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">想你时：遥远的paradise</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">恋爱时：喜欢你</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">微醺时：灰色轨迹</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">失恋时：情人</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">许愿时：为了你 为了我</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">怀旧时：旧日的足迹</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">为父亲：报答一生</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">祈祷时：Amani</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">为母亲：真的爱你</span></p><p style=\"text-align: center; line-height: 2;\"><span style=\"font-size: 14px;\">（本场曲目以实际现场演出为准，此曲目单仅供参考）</span></p><div style=\"text-align: center; line-height: 2;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01sjdFxm2GdSbky0pks_!!2251059038.jpg\" img_width=\"960\" img_height=\"569\" image_type=\"1\" mime_type=\"image/png\" web_uri=\"tos-cn-i-6w9my0ksvp/c62043d431f04a62813a08386d550f73\" class=\"syl-page-img\" style=\"box-sizing: border-box; border: 0px; margin: 0px auto 8px; padding: 0px; cursor: zoom-in; max-width: 100%; display: block; border-radius: 4px; height: auto;\" width=\"960\" height=\"569\" damai_width=\"960\" damai_height=\"569\"><p><span style=\"font-size: 14px;\"><br></span></p></div><div style=\"text-align: center; line-height: 2;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN019rNLtm2GdSbnANcdm_!!2251059038.jpg\" img_width=\"960\" img_height=\"569\" image_type=\"1\" mime_type=\"image/png\" web_uri=\"tos-cn-i-6w9my0ksvp/65b51a7ca47845e69d0be8e9d258dac8\" class=\"syl-page-img\" style=\"box-sizing: border-box; border: 0px; margin: 0px auto 8px; padding: 0px; cursor: zoom-in; max-width: 100%; display: block; border-radius: 4px; height: auto;\" width=\"960\" height=\"569\" damai_width=\"960\" damai_height=\"569\"><p><span style=\"font-size: 14px;\"><br></span></p></div><div style=\"text-align: center; line-height: 2;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01VGVozF2GdSbl3jV6D_!!2251059038.jpg\" img_width=\"960\" img_height=\"569\" image_type=\"1\" mime_type=\"image/png\" web_uri=\"tos-cn-i-6w9my0ksvp/3ef67e101da149c29898fc57164ebaba\" class=\"syl-page-img\" style=\"box-sizing: border-box; border: 0px; margin: 0px auto 8px; padding: 0px; cursor: zoom-in; max-width: 100%; display: block; border-radius: 4px; height: auto;\" width=\"960\" height=\"569\" damai_width=\"960\" damai_height=\"569\"><p><span style=\"font-size: 14px;\"><br></span></p></div><div style=\"text-align: center; line-height: 2;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN019ikiMI2GdSbo2TG9C_!!2251059038.jpg\" img_width=\"960\" img_height=\"569\" image_type=\"1\" mime_type=\"image/png\" web_uri=\"tos-cn-i-6w9my0ksvp/a55a04c555594d86b4d05a7a9773652a\" class=\"syl-page-img\" style=\"box-sizing: border-box; border: 0px; margin: 0px auto 8px; padding: 0px; cursor: zoom-in; max-width: 100%; display: block; border-radius: 4px; height: auto;\" width=\"960\" height=\"569\" damai_width=\"960\" damai_height=\"569\"><p><span style=\"font-size: 14px;\"><br></span></p></div><div style=\"text-align: center; line-height: 2;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01hEX4ds2GdSbmCnLDX_!!2251059038.jpg\" img_width=\"960\" img_height=\"569\" image_type=\"1\" mime_type=\"image/png\" web_uri=\"tos-cn-i-6w9my0ksvp/b495a14e255745a4a2602447a30d3e85\" class=\"syl-page-img\" style=\"box-sizing: border-box; border: 0px; margin: 0px auto 8px; padding: 0px; cursor: zoom-in; max-width: 100%; display: block; border-radius: 4px; height: auto;\" width=\"960\" height=\"569\" damai_width=\"960\" damai_height=\"569\"><p><span style=\"font-size: 14px;\"><br></span></p></div><div style=\"text-align: center; line-height: 2;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01uOR91w2GdSbilikH3_!!2251059038.jpg\" img_width=\"960\" img_height=\"569\" image_type=\"1\" mime_type=\"image/png\" web_uri=\"tos-cn-i-6w9my0ksvp/45fcbfefd8c146908d634d8d40e85c37\" class=\"syl-page-img\" style=\"box-sizing: border-box; border: 0px; margin: 0px auto 8px; padding: 0px; cursor: zoom-in; max-width: 100%; display: block; border-radius: 4px; height: auto;\" width=\"960\" height=\"569\" damai_width=\"960\" damai_height=\"569\"><p><span style=\"font-size: 14px;\"><br></span></p></div><div style=\"text-align: center; line-height: 2;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN016mjWyk2GdSbl3iQZl_!!2251059038.jpg\" img_width=\"960\" img_height=\"569\" image_type=\"1\" mime_type=\"image/png\" web_uri=\"tos-cn-i-6w9my0ksvp/e8272e509de84fe196c82a8947aa2fe8\" class=\"syl-page-img\" style=\"box-sizing: border-box; border: 0px; margin: 0px auto 8px; padding: 0px; cursor: zoom-in; max-width: 100%; display: block; border-radius: 4px; height: auto;\" width=\"960\" height=\"569\" damai_width=\"960\" damai_height=\"569\"><p><span style=\"font-size: 14px;\"><br></span></p></div><div style=\"text-align: center; line-height: 2;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01U0f4LH2GdSbmIO638_!!2251059038.png\" img_width=\"942\" img_height=\"558\" image_type=\"1\" mime_type=\"image/png\" web_uri=\"tos-cn-i-6w9my0ksvp/34b0a9f8dadb41f5a09db2defa56154a\" class=\"syl-page-img\" style=\"box-sizing: border-box; border: 0px; margin: 0px auto 8px; padding: 0px; cursor: zoom-in; max-width: 100%; display: block; border-radius: 4px; height: auto;\" width=\"942\" height=\"558\" damai_width=\"942\" damai_height=\"558\"><p><span style=\"font-size: 14px;\"><br></span></p></div><div style=\"text-align: center; line-height: 2;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01J51t6u2GdSbnLs3Su_!!2251059038.jpg\" img_width=\"960\" img_height=\"569\" image_type=\"1\" mime_type=\"image/png\" web_uri=\"tos-cn-i-6w9my0ksvp/bd604ffeeedc46708dca0e359507bb66\" class=\"syl-page-img\" style=\"box-sizing: border-box; border: 0px; margin: 0px auto 8px; padding: 0px; cursor: zoom-in; max-width: 100%; display: block; border-radius: 4px; height: auto;\" width=\"960\" height=\"569\" damai_width=\"960\" damai_height=\"569\"><p><span style=\"font-size: 14px;\"><br></span></p></div><div style=\"text-align: center; line-height: 2;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01UZgteK2GdSbmINUdH_!!2251059038.jpg\" img_width=\"960\" img_height=\"569\" image_type=\"1\" mime_type=\"image/png\" web_uri=\"tos-cn-i-6w9my0ksvp/c3c9a368289741cebf1ed8d8c86f34e2\" class=\"syl-page-img\" style=\"box-sizing: border-box; border: 0px; margin: 0px auto 8px; padding: 0px; cursor: zoom-in; max-width: 100%; display: block; border-radius: 4px; height: auto;\" width=\"960\" height=\"569\" damai_width=\"960\" damai_height=\"569\"><p><span style=\"font-size: 14px;\"><br></span></p></div><div style=\"text-align: center; line-height: 2;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN011vspiE2GdSbkGdgkF_!!2251059038.jpg\" img_width=\"960\" img_height=\"569\" image_type=\"1\" mime_type=\"image/png\" web_uri=\"tos-cn-i-6w9my0ksvp/17cbbc793afd45a2a04fc4a6572c7afe\" class=\"syl-page-img\" style=\"box-sizing: border-box; border: 0px; margin: 0px auto 8px; padding: 0px; cursor: zoom-in; max-width: 100%; display: block; border-radius: 4px; height: auto;\" width=\"960\" height=\"569\" damai_width=\"960\" damai_height=\"569\"><p><span style=\"font-size: 14px;\"><br></span></p></div><div style=\"text-align: center; line-height: 2;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01fKtY7T2GdSboeFuvn_!!2251059038.jpg\" img_width=\"960\" img_height=\"569\" image_type=\"1\" mime_type=\"image/png\" web_uri=\"tos-cn-i-6w9my0ksvp/f40b56abfc74436fa150d81b33fae5cc\" class=\"syl-page-img\" style=\"box-sizing: border-box; border: 0px; margin: 0px auto 8px; padding: 0px; cursor: zoom-in; max-width: 100%; display: block; border-radius: 4px; height: auto;\" width=\"960\" height=\"569\" damai_width=\"960\" damai_height=\"569\"></div></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "滨州市滨城区整合营销策划中心",
+                            "socialCreditCode": "92371602MA3GHCG47P",
+                            "legalPerson": "田海滨",
+                            "regCapStr": "3万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "个体工商户",
+                            "entAddress": "山东省滨州市滨城区黄河十一路渤海十六路(滨州大剧院)【101室】"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "6471095",
+                    "venueName": "利津县文化活动中心",
+                    "venueProvinceName": "山东省",
+                    "venueCityName": "东营市",
+                    "lng": 118.250752,
+                    "lat": 37.476625,
+                    "venueAddr": "东营市利津县津二路900号",
+                    "showCountText": "共有2个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D808018457272%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1718881856000",
+                "sellStartTimeStr": "06月20日 19:10",
+                "priceRange": "¥30-¥120",
+                "performBases": [
+                    {
+                        "name": "07.19 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1721318400000",
+                        "performs": [
+                            {
+                                "performId": "215079045",
+                                "performName": "2024-07-19 周五 19:30",
+                                "itemId": "808018457272",
+                                "projectId": "220884005",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1721388600000",
+                                "performTime": "2024.07.19 19:30",
+                                "performStartDate": "2024-07-19",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "14155",
+                    "23883",
+                    "23115",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "9355",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9099",
+                    "9867",
+                    "8843",
+                    "2443",
+                    "395",
+                    "1163",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "558273",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "7371",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8080184572/2/808018457272.jpg"
+            }
+        }
+    }
+}
