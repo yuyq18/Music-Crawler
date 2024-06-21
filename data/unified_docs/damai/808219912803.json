@@ -1,0 +1,77 @@
+{
+    "platform": "大麦",
+    "project_id": "808219912803",
+    "project_name": "马頔「亿万落日里的心」2024巡演—佛山站",
+    "category_name": "演唱会",
+    "artists": [
+        "马頔"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.31 周六 20:00",
+    "session_time": [],
+    "price": "228-288",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "佛山",
+    "venue_name": "ALSO LIVE",
+    "venue_info": {
+        "venue_address": "怡和路6号ALSO(C座2层)",
+        "lng": 113.222632,
+        "lat": 22.933802
+    },
+    "project_info": "活动介绍：",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN0163sop22GdSbp17S5F_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01X59Xn82GdSbqJLmOx_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "221",
+        "wantNumStr": "221",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "808048568018",
+            "cityName": "南京站",
+            "showTime": "08.08"
+        },
+        {
+            "itemId": "807718487888",
+            "cityName": "合肥站",
+            "showTime": "08.10"
+        },
+        {
+            "itemId": "807982225861",
+            "cityName": "上海站",
+            "showTime": "08.15"
+        },
+        {
+            "itemId": "807992182736",
+            "cityName": "武汉站",
+            "showTime": "08.17"
+        },
+        {
+            "itemId": "808166293057",
+            "cityName": "成都站",
+            "showTime": "08.24"
+        },
+        {
+            "itemId": "808153873851",
+            "cityName": "深圳站",
+            "showTime": "08.29"
+        },
+        {
+            "itemId": "808219912803",
+            "cityName": "佛山站",
+            "showTime": "08.31"
+        },
+        {
+            "itemId": "808226900948",
+            "cityName": "沈阳站",
+            "showTime": "09.07"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=808219912803"
+}

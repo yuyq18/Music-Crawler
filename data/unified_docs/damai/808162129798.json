@@ -1,0 +1,67 @@
+{
+    "platform": "大麦",
+    "project_id": "808162129798",
+    "project_name": "潮池蓝2024[今夜睡大街]巡演  昆明站",
+    "category_name": "演唱会",
+    "artists": [
+        "潮池蓝"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.18 周日 20:30",
+    "session_time": [],
+    "price": "110",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "昆明",
+    "venue_name": "MODERNSKY LAB(昆明店)",
+    "venue_info": {
+        "venue_address": "昆明滇池路569号南亚风情第壹城B1 NEW MALL三层",
+        "lng": 102.683658,
+        "lat": 25.009534
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Di0fOI2GdSblhCwie_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01P1fo2s2GdSbn3TYiq_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "799327489499",
+            "cityName": "宁波站",
+            "showTime": "06.27"
+        },
+        {
+            "itemId": "799327721152",
+            "cityName": "温州站",
+            "showTime": "06.28"
+        },
+        {
+            "itemId": "797815043254",
+            "cityName": "太原站",
+            "showTime": "07.07"
+        },
+        {
+            "itemId": "797497861527",
+            "cityName": "天津站",
+            "showTime": "07.21"
+        },
+        {
+            "itemId": "808217981531",
+            "cityName": "贵阳站",
+            "showTime": "08.17"
+        },
+        {
+            "itemId": "808162129798",
+            "cityName": "昆明站",
+            "showTime": "08.18"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=808162129798"
+}

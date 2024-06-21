@@ -1,0 +1,249 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_808053494017",
+    "imgurl": "-509399652",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "时代红人 致敬音乐会",
+    "nameNoHtml": "时代红人 致敬音乐会",
+    "price": {
+        "range": "150"
+    },
+    "price_str": "150",
+    "pricehigh": "150.0",
+    "privilegeTags": "[]",
+    "projectid": "808053494017",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.07.06 周六 20:30",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": {
+        "lat": 31.251919,
+        "lng": 121.485906,
+        "region": "1",
+        "showCountText": "13个演出",
+        "venueAddr": "四川北路街道乍浦路471号",
+        "venueCityName": "上海市",
+        "venueId": "868001",
+        "venueName": "珍珠剧场The Pearl",
+        "venueProvinceName": "上海"
+    },
+    "venuecity": "上海",
+    "venueid": "868001",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01rtMnyP2GdSbnGgnNO_!!0-item_pic.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "上海泛景文化传播有限公司",
+            "entAddress": "上海市虹口区乍浦路471号",
+            "entType": "有限责任公司(自然人独资)",
+            "legalPerson": "THAIN GLENN DOUGLAS",
+            "opFrom": "",
+            "opTo": "",
+            "regCapStr": "100万人民币",
+            "socialCreditCode": "913101093987407028"
+        }
+    },
+    "buyButton": {
+        "origin": "1",
+        "status": "204",
+        "text": "立即购买"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p data-spm-anchor-id=\"a2o7u.ssp_merchant_form.0.i114.345b106eT7PJg0\">关于现场座位问题请查看文末【观演提示】 <br>郑重声明：此活动为致敬音乐会，由剧场驻场外籍乐队演绎，非本人出演。 <br>门票为有价证券，非普通商品，一旦出售，不支持退换。未成年人不可入场。<br>请购票前查看演出详情并合理规划您的行程。<br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01PxEtgI2GdSbpckqNs_!!2251059038.jpg\" width=\"1600\" height=\"7940\" damai_width=\"1600\" damai_height=\"7940\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01BKOO9X2GdSbedKFvf_!!2251059038.jpg\" width=\"1600\" height=\"9740\" damai_width=\"1600\" damai_height=\"9740\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01iNJPCG2GdSbk0hf4n_!!2251059038.jpg\" width=\"1600\" height=\"4500\" damai_width=\"1600\" damai_height=\"4500\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN019KSwXw2GdSbovlTH0_!!2251059038.jpg\" width=\"1600\" height=\"1796\" damai_width=\"1600\" damai_height=\"1796\"></p></body></html>",
+        "introduceTitle": "项目介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "false",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "useLocalCache": "false",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wPOZN01jRf2eaC3Jz_!!6000000004545-2-tps-1125-702.png",
+        "categoryId": "123606001",
+        "cityName": "上海市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "808053494017",
+        "itemName": "【上海】时代红人 致敬音乐会",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01rtMnyP2GdSbnGgnNO_!!0-item_pic.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "310100",
+        "performSeatImages": [],
+        "projectId": "220840007",
+        "projectStatus": "1",
+        "realName": {
+            "credentialNames": [],
+            "credentials": [],
+            "type": "3"
+        },
+        "showDuration": "约120分钟（以现场为准）",
+        "showTime": "2024.07.06 周六 20:30",
+        "tcCategoryId": "0301020100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "215104038",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=808053494017",
+        "showFlag": "false"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须打开【票夹】扫码入场，截图无效。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "18岁以下禁止购买",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "须于演出结束后持门票至举办地场馆开具发票。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "无需实名购票",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "约120分钟（以现场为准）",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约30分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过票夹中的二维码验票入场",
+                "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本演出发票需要在场馆凭门票自取",
+                "tagDescWithStyle": "本演出发票需要在场馆凭门票自取",
+                "tagName": "场馆自取发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}
