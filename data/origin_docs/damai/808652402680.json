@@ -1,0 +1,662 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：张靓颖",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1087",
+    "cityname": "苏州",
+    "couponTags": "[]",
+    "description": "艺人：张靓颖",
+    "id": "1_1_808652402680",
+    "imgurl": "-503410566",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "张靓颖“光”巡回演唱会-苏州站",
+    "nameNoHtml": "张靓颖“光”巡回演唱会-苏州站",
+    "price": "380.0",
+    "price_str": "380-1580",
+    "pricehigh": "1580.0",
+    "privilegeTags": "[]",
+    "projectid": "808652402680",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.09.07 周六 19:00",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "苏州奥林匹克体育中心体育馆",
+    "venuecity": "苏州",
+    "venueid": "982001",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01jf9xXF2GdSbrRk6mY_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "808652402680",
+                    "itemName": "【苏州】张靓颖“光”巡回演唱会-苏州站",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "320500",
+                    "cityName": "苏州市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01jf9xXF2GdSbrRk6mY_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01jf9xXF2GdSbrRk6mY_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.09.07 周六 19:00",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：成都一切顺利文化传播有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：成都一切顺利文化传播有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1087",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>“成都-广州-南京-北京-南昌-长沙-无锡-济南-深圳-重庆-武汉-福州-上海-杭州-澳门”</p>\n<p><br>张靓颖光巡回演唱会从2023跨越2024，在各城熠熠闪耀。9月7日，让我们双向奔赴，相约苏州奥体中心体育馆，收集更多更璀璨的光芒。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01cKCJRY2GdSboYWbbP_!!2251059038.jpg\" width=\"3333\" height=\"5292\" damai_width=\"3333\" damai_height=\"5292\"></p>\n<p>她是极具影响力的华语实力女歌手，不仅拥有颇具辨识度的华丽声线和宽广音域，其功底深厚的声音表现力和与技巧相得益彰的情感力量更是深受歌迷的认可和喜爱。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01MzkkqU2GdSbltbkYo_!!2251059038.jpg\" width=\"1333\" height=\"2000\" damai_width=\"1333\" damai_height=\"2000\"></p>\n<p>她是首位为好莱坞电影演唱全球主题曲的亚洲歌手，三度参加格莱美颁奖典礼，是Victoria's Secret Fashion Show的唯一亚洲歌手嘉宾，以中国歌手的身份多次献唱国际舞台。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01i4nNbi2GdSbrdrc9m_!!2251059038.jpg\" width=\"2444\" height=\"3792\" damai_width=\"2444\" damai_height=\"3792\"></p>\n<p>&nbsp;</p>\n<p>张靓颖自2005年正式出道，十九年里，发表了中文专辑7张，英文专辑1张，发行近三百首作品，举办个人演唱会50+场，一路横扫各大音乐颁奖礼，多次获得其他国家地区奖项，成为站上世界舞台的实力歌后。龙年，新的光芒正在凝聚，新的征程正在开启！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01NIovHM2GdSboYeapG_!!2251059038.jpg\" width=\"1274\" height=\"2000\" damai_width=\"1274\" damai_height=\"2000\"></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "成都一切顺利文化传播有限公司",
+                            "socialCreditCode": "91510100MACUYL172D",
+                            "legalPerson": "于明",
+                            "regCapStr": "100万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(外商投资企业与内资合资)",
+                            "entAddress": "中国(四川)自由贸易试验区成都高新区天府大道中段1366号2栋6层18号"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/台湾居民来往大陆通行证/港澳台居民居住证/外国人永久居留身份证/护照/身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "张靓颖"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "982001",
+                    "venueName": "苏州奥林匹克体育中心体育馆",
+                    "venueProvinceName": "江苏省",
+                    "venueCityName": "苏州市",
+                    "lng": 120.749086,
+                    "lat": 31.305026,
+                    "venueAddr": "苏州工业园区中新大道东999号",
+                    "showCountText": "共有5个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "808652402680",
+                        "cityName": "苏州站",
+                        "showTime": "09.07",
+                        "tourId": "4444"
+                    },
+                    {
+                        "itemId": "797534267783",
+                        "cityName": "中国澳门站",
+                        "showTime": "07.20",
+                        "tourId": "4444"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=808652402680"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D808652402680%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "1267",
+                        "artistName": "张靓颖",
+                        "archives": "中国流行女歌手，被誉为“海豚公主”。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1701405611309/1701405611309-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "1267",
+                        "name": "张靓颖",
+                        "desc": "中国流行女歌手，被誉为“海豚公主”。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1701405611309/1701405611309-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "18341",
+                    "wantNumStr": "1.8万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过74%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN013n7KRC1TtZ5bYGxgR_!!6000000002440-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/480837/96167431.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01uigUa01oEtr6yYcvP_!!6000000005194-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1213642/242728599_1686834780703.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01JRwhGM1y3aE69B5P1_!!6000000006523-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "25178912351",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1695091032485/1695091032485-main.jpg",
+                    "note": "张靓颖“光”2023巡回演唱会",
+                    "categoryName": "其他",
+                    "title": "张靓颖“光”巡回演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊",
+                "inFieldComments": [
+                    {
+                        "id": "16287946",
+                        "comment": "张靓颖的海豚音，绝绝子！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/f7671dd91e3c44b1b7d3896b9ea93628.jpg",
+                        "nickName": "xiaomitong_168",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/122686/24537397_1703080354322.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15327321",
+                        "comment": "华熙包厢看张靓颖",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/0bbf42bbb8a0495bb0dfcd6a32bd5365.jpg",
+                        "nickName": "君筱冉",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2267451/453490334_1696327984754.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14607193",
+                        "comment": "心動與美妙歌聲交織的一晚",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/82975aecf5c045e5968d87cff6470769.jpeg",
+                        "nickName": "演唱會狂熱者",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2325790/465158138_1700736602264.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14277364",
+                        "comment": "张靓颖济南追“光”之旅",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/4071d8daacbf46849adefcdfd9461484.jpeg",
+                        "nickName": "秦牧",
+                        "userPic": "https://perico.damai.cn/userheadphotos/235244/47048982.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13855678",
+                        "comment": "在11月11日的国家体育馆，我亲眼目睹了张靓颖的精彩演唱会。她用她的海豚音、情歌，以及经典歌曲《这就是爱情》等，深深地打动了我。在她的演唱中，我仿佛看到了一个不一样的张靓颖，一个充满激情和活力的音乐狂人。\n当晚的演唱会，张靓颖展现了她多才多艺的一面。她的海豚音犹如天籁之音，让人们陶醉其中。而她的情歌则深情款款，唱出了爱情中的甜蜜和苦涩。在演唱经典歌曲《这就是爱情》时，全场观众跟随着她的歌声一起挥舞着荧光棒，营造出一种难以忘怀的氛围。\n除此之外，张靓颖还带来了一些不一样的电音歌曲，让观众们感受到了不一样的张靓颖。在她的演唱中，我们看到了一个疯狂的张靓颖，一个敢于挑战自我、不断创新的音乐人。她的表演充满了力量和激情，让人们无法抵挡她的魅力。\n在这场演唱会中，我深刻地感受到了张靓颖的音乐才华和表演能力。她的歌声、她的舞蹈、她的表演都让人难以忘怀。我相信，这场演唱会对于每一个到场的观众来说，都是一次难忘的音乐盛宴。\n最后，我要说一句：张靓颖，你真是太棒了！我期待着你的下一次演唱会！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/6140595c2e22461c977a67ccf1246099.jpeg",
+                        "nickName": "keelvin",
+                        "userPic": "https://perico.damai.cn/userheadphotos/14640/2928096.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13586157",
+                        "comment": "张靓颖北京演唱会唱跳3小时！她说北京站会是所有场次里面时间最长的，她做到了，来之前还问了，都说9点半会结束，大概就是持续两个半小时，没想到会有意外收获！\n先是一些很有意思的桥段，喝水用了茶杯和大瓷缸哈哈哈；然后因为今天是2023年11月11日，抽取了20排23号和11排11号，清空他们的购物车，可惜23号没来，他左右两边猜拳，胜利的得到这个机会；\n最初最最喜欢的，也是开始认识张靓颖的时候，是神雕侠侣的天下无双，怎么会有这么空灵的海豚音！好听哭了！过了这么多年，现场听到高音部分，竟是会起鸡皮疙瘩的程度！震撼，完美！嗓音依旧，现场发挥很稳定！还有画心也是，高音太震撼了！之前在薛之谦演唱会见到了姐姐！没想到11月还有机会再见，盒盒盒，开心！\n北京还挺冷的，我们穿着羽绒服在看台坐着，姐姐还要光膀子唱歌，冻的一直流鼻涕🤧辛苦了，赶紧回去好好暖暖。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/07ef20e068bb4a599059ce74907f5a52.jpeg",
+                        "nickName": "栗山未来n",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/765327/153065525_1709263925701.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13584133",
+                        "comment": "来不就是听海豚音的嘛哈哈哈哈那我觉得我不虚此行，想听的都在了，但是属于北京的冬夜实在是太冷了，给珍姐都冻的瑟瑟发抖，又关风扇又喝热水哈哈哈哈😂简直是太招笑了，希望珍姐下次多穿点，不管怎样我们都爱听👍\n双十一的夜晚有珍姐的海豚音，情歌，DJ，唱跳和现场的互动，我觉得今夜我非常的丰富，非常的知足。\n这是一个特别的夜晚特别的回忆，让我把耳机里的声音走进了国家体育馆，这里有最长时长的演出，有天下无双，有我们说好的，有终于等到你，张靓颖！！！相遇来之不及，今夜陪我聊天的多了一人，让我如此的充实，只想说太赞了！！！（默念一百遍哈哈哈哈）",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/5d47f6755664454aaa0c19c38387ce45.jpeg",
+                        "nickName": "麦子4KSEl",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1198826/239765331_1684654451539.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13582452",
+                        "comment": "首先首先首先，两个小时的演唱会她足足唱了三个小时！全场30多首歌，首首用心，就这份真诚就很打动人！很多耳熟能详的歌曲，不出意外的变成了大合唱，今天的观众也很好热情而克制，全场都很和谐温暖，气氛挺温馨的。张靓颖的唱功真的不用质疑，太好听了！讲真我都想把某个音乐软件拆了，现场的效果真的跟音乐软件上的天差地别，有的听着平平无奇的歌曲，现场听一身鸡皮疙瘩！她的声音特别好听，真的不要错过她的演唱会，绝对绝对值回票价，良心推荐！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/30d089aa50064f0b904f9ea54633eff7.jpg",
+                        "nickName": "刘菀秝佳多宝",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/497011/99402239_1695707918810.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13234645",
+                        "comment": "虽然是散粉，但还是喜欢了张靓颖好多年，从初中开始到现在… 现场还是非常棒啊 很喜欢一些小改编 小free style🥰\n\n🌟演出亮点：感冒😷➕鼻炎👃也没有“打败”我们的女战士，唱完一首就小小抿一口水也是超级可爱的啊😘 最最最重要的是 从19:30开场一直不停歇 唱到了22:12左右 妈耶 真的是太🐮🍺了 说话的时候能听出来嗓子确实是不舒服 但一开口唱就真的感觉不到一点儿影响\n\n💺座位视野：山顶的话 基本有点看不到主屏幕 但因为场子不是很大 山顶的距离真的也是不算远 尤其我们这次在靠近舞台的边侧 真的很近\n\n🎭惊艳表演：蓝色裙子那一套真的好美 后面的蹦迪time真的超级嗨 我们女神真的是一直蹦 一直跳 一直嗨 太开心了 只恨看台没法站起来蹦\n\n最后一首《终于等到你》我真的直接泪奔😭 感慨万千 是终于等到今天与你相见 是过往终于等到与你相遇 是未来害怕等不到你～ \n\n还是很感谢 很感恩 很感慨 终于等到你 我的靓颖 和你见面的这一天❤️",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/7c9cc34a8b684d849f0c0a066401a1a7.jpeg",
+                        "nickName": "minejingjing",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/16251/3250326_1694319889229.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    }
+                ]
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1719197954000",
+                "sellStartTimeStr": "06月24日 10:59",
+                "priceRange": "¥380-¥1580",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "558273",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8086524026/2/808652402680.jpg"
+            }
+        }
+    }
+}

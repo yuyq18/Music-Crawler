@@ -1,0 +1,52 @@
+{
+    "platform": "大麦",
+    "project_id": "809083160503",
+    "project_name": "迪斯科女王张蔷 《蔷行世界》南京站",
+    "category_name": "演唱会",
+    "artists": [
+        "张蔷"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.07.28 周日 20:00",
+    "session_time": [],
+    "price": "258-368",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南京",
+    "venue_name": "1701 Live House Max",
+    "venue_info": {
+        "venue_address": " 南京市雨花台区安德门大街57号",
+        "lng": 118.764476,
+        "lat": 31.970526
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01OTaH7H2GdSbrjtTZi_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN014xLcgy2GdSbsnj3Fp_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "696",
+        "wantNumStr": "696",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "809210472056",
+            "cityName": "合肥站",
+            "showTime": "07.26"
+        },
+        {
+            "itemId": "809083160503",
+            "cityName": "南京站",
+            "showTime": "07.28"
+        },
+        {
+            "itemId": "807688579427",
+            "cityName": "海口站",
+            "showTime": "07.12"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=809083160503"
+}
