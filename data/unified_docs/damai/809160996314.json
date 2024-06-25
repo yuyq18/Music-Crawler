@@ -1,0 +1,82 @@
+{
+    "platform": "大麦",
+    "project_id": "809160996314",
+    "project_name": "杭盖20年，依旧热爱 2024全国巡演—深圳站",
+    "category_name": "演唱会",
+    "artists": [
+        "杭盖乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.09 周五 20:00",
+    "session_time": [],
+    "price": "198-398",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "BO LIVE(前海店)",
+    "venue_info": {
+        "venue_address": "南山区听海大道2061号",
+        "lng": 113.884283,
+        "lat": 22.51273
+    },
+    "project_info": "活动介绍：",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01aYAzAv2GdSbrTKavn_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN011ODY4I2GdSbi7YaLM_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "291",
+        "wantNumStr": "291",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "809052873958",
+            "cityName": "呼和浩特站",
+            "showTime": "08.03"
+        },
+        {
+            "itemId": "809160996314",
+            "cityName": "深圳站",
+            "showTime": "08.09"
+        },
+        {
+            "itemId": "809069053726",
+            "cityName": "广州站",
+            "showTime": "08.10"
+        },
+        {
+            "itemId": "807475267103",
+            "cityName": "上海站",
+            "showTime": "08.17"
+        },
+        {
+            "itemId": "809143112846",
+            "cityName": "杭州站",
+            "showTime": "08.23"
+        },
+        {
+            "itemId": "809148972468",
+            "cityName": "南京站",
+            "showTime": "08.24"
+        },
+        {
+            "itemId": "808906254815",
+            "cityName": "西安站",
+            "showTime": "08.30"
+        },
+        {
+            "itemId": "808816063312",
+            "cityName": "郑州站",
+            "showTime": "09.08"
+        },
+        {
+            "itemId": "808795455451",
+            "cityName": "重庆站",
+            "showTime": "10.07"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=809160996314"
+}

@@ -1,0 +1,391 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：徐子未、号外乐团、何屹繁、潘星宇、苏勋伦、买辣椒也用券、吴莫愁、张栋梁、郑智化",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1580",
+    "cityname": "杭州",
+    "couponTags": "[]",
+    "description": "艺人：徐子未、号外乐团、何屹繁、潘星宇、苏勋伦、买辣椒也用券、吴莫愁、张栋梁、郑智化",
+    "id": "1_1_808849418236",
+    "imgurl": "-501440410",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2024蓝星音乐节严州古城站",
+    "nameNoHtml": "2024蓝星音乐节严州古城站",
+    "price": {
+        "range": "99-399"
+    },
+    "price_str": "99-399",
+    "pricehigh": "399.0",
+    "privilegeTags": "[]",
+    "projectid": "808849418236",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.07.05-07.06",
+    "sitestatus": "3",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": {
+        "lat": 29.537645,
+        "lng": 119.465684,
+        "region": "1",
+        "venueAddr": " 梅城镇千鹤村下高路",
+        "venueCityName": "杭州市",
+        "venueId": "6272026",
+        "venueName": "鹤彩乐园",
+        "venueProvinceName": "浙江省"
+    },
+    "venuecity": "杭州",
+    "venueid": "6272026",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01uXrZ702GdSbpCQ6SE_!!2251059038.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "buyButton": {
+        "origin": "-41",
+        "status": "90",
+        "text": "预约抢票",
+        "tip": "提前选票档 抢票更丝滑"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01wlM5W92GdSbslBXs3_!!2251059038.jpg\" width=\"600\" height=\"788\" damai_width=\"600\" damai_height=\"788\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01pRkd9a2GdSbrwjsr5_!!2251059038.jpg\" width=\"2000\" height=\"2650\" damai_width=\"2000\" damai_height=\"2650\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01uREiHC2GdSbszDcRF_!!2251059038.png\" width=\"900\" height=\"1600\" damai_width=\"900\" damai_height=\"1600\"><br><br></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01RvvnYZ2GdSbslF6an_!!2251059038.jpg\" width=\"2000\" height=\"2694\" damai_width=\"2000\" damai_height=\"2694\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01nt2sz32GdSbjFnWch_!!2251059038.jpg\" width=\"1000\" height=\"3462\" damai_width=\"1000\" damai_height=\"3462\"></p>\n<p>&nbsp;</p></body></html>",
+        "introduceTitle": "演出介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "",
+                "id": "1215076469",
+                "name": "徐子未",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1634197986902/1634197986902-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "",
+                "id": "2892869754",
+                "name": "号外乐团",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1631692712312/1631692712312-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "何屹繁，中国内地影视男演员、流行乐歌手，音乐代表作《太多话想要对你说》《繁星坠入我眼里》《LEO KING》等。",
+                "id": "1107854288",
+                "name": "何屹繁",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1682068004522/1682068004522-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地男艺人、舞者、歌手、演员FLYXDANCE、FLYYMUSIC 厂牌主理人。潘星宇工作室主理人\n流派风格：流行 Pop",
+                "id": "3472352919",
+                "name": "潘星宇",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1707013058987/1707013058987-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "艺术研修教育类节目《以团之名》参赛选手。",
+                "id": "3039866479",
+                "name": "苏勋伦",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1691996721083/1691996721083-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "",
+                "id": "6091094712",
+                "name": "买辣椒也用券",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1631072008501/1631072008501-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地流行乐女歌手、影视演员。",
+                "id": "71353",
+                "name": "吴莫愁",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1534413438189/1534413438189-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "马来西亚歌手、演员。",
+                "id": "2056",
+                "name": "张栋梁",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1521704728462/1521704728462-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国台湾歌手。",
+                "id": "2083",
+                "name": "郑智化",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1521703376835/1521703376835-main.jpg",
+                "tag": "歌手"
+            }
+        ],
+        "artistsTitle": "演出阵容",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i3/O1CN01kGsJkI20pKkSdvFkC_!!6000000006898-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotos/1003359/200671990.jpg",
+                "https://img.alicdn.com/imgextra/i3/O1CN01prjtaq1EkCl1Unc3U_!!6000000000389-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotos/763447/152689521.jpg",
+                "https://img.alicdn.com/imgextra/i1/O1CN01JSYxme1pHw65ihWBV_!!6000000005336-0-tps-500-500.jpg"
+            ],
+            "wantNum": "213",
+            "wantNumStr": "213",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01R3THyh1QT3Y3gWguc_!!6000000001976-2-tps-1125-702.png",
+        "categoryId": "127420006",
+        "cityName": "杭州市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "808849418236",
+        "itemName": "【杭州】2024蓝星音乐节严州古城站",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01uXrZ702GdSbpCQ6SE_!!2251059038.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "330100",
+        "performSeatImages": [],
+        "projectId": "220851012",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                },
+                {
+                    "id": "7",
+                    "name": "港澳台居民居住证"
+                },
+                {
+                    "id": "8",
+                    "name": "外国人永久居留身份证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "约240分钟，仅供参考，最终以现场实际时长为准",
+        "showTime": "2024.07.05-07.06",
+        "tcCategoryId": "0301030100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "215066162",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=808849418236",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须携带购票时对应证件验证入场。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "儿童一律凭票入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/港澳台居民居住证/外国人永久居留身份证/身份证/护照/港澳居民来往内地通行证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "约240分钟，仅供参考，最终以现场实际时长为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约60分钟入场，VIP票观众可于专属通道提前30分钟入场。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "240分钟",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "最低演出时长"
+            },
+            {
+                "content": "DJ PUENGPENG，缔壹StarT x Lil猩猩，DJ Mousaäca，徐子未，号外乐团，何屹繁，潘星宇，苏勋伦 ，陈琪东 ，买辣椒也用券，吴莫愁，张栋梁，郑智化",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01N7Icez1vcu9JtnH1e_!!6000000006194-2-tps-144-144.png",
+                "title": "主要演员"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            },
+            {
+                "content": "9000",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01g1Fs6025i4mGCqzxa_!!6000000007559-2-tps-144-144.png",
+                "title": "大麦网初始开售时全场可售门票总张数"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过身份证验票入场",
+                "tagDescWithStyle": "通过身份证验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：上海乘羡文化传媒有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                "tagDescWithStyle": "<b>发票开具方：上海乘羡文化传媒有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}
