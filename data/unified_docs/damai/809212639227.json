@@ -1,0 +1,110 @@
+{
+    "platform": "大麦",
+    "project_id": "809212639227",
+    "project_name": "海阔天空 怀念家驹【海山】致敬BEYOND金曲演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "黄海山"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.07.21 周日 19:30",
+    "session_time": [
+        "07.21 周日"
+    ],
+    "price": "68-480",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "邯郸",
+    "venue_name": "邯郸市工人文化宫",
+    "venue_info": {
+        "venue_address": "邯郸市邯山区中华南大街35正南方向120米",
+        "lng": 114.491348,
+        "lat": 36.598162
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01JzHfmH2GdSbj8hXTG_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01o5XpOK2GdSbuYTphr_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01IMZw3m2GdSbraUGHA_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01qEbFcA2GdSbqozGvM_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01flA3Vr2GdSbsokkr4_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01xPgxl52GdSbpJzMFi_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01VfUStL2GdSbrAqi9n_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01xqjzWX2GdSbskaLkd_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01q5acRg2GdSbtrlugL_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01yvtvxj2GdSbrWa6wW_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01kSiWMr2GdSbsJCNkF_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01HuSJJx2GdSbskZD4C_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN013lw4YU2GdSbsJ95yx_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "805805510372",
+            "cityName": "眉山站",
+            "showTime": "06.28"
+        },
+        {
+            "itemId": "798975610939",
+            "cityName": "成都站",
+            "showTime": "06.29"
+        },
+        {
+            "itemId": "804760835535",
+            "cityName": "内江站",
+            "showTime": "06.30"
+        },
+        {
+            "itemId": "808070774287",
+            "cityName": "唐山站",
+            "showTime": "07.05"
+        },
+        {
+            "itemId": "799771291513",
+            "cityName": "葫芦岛站",
+            "showTime": "07.06"
+        },
+        {
+            "itemId": "803860554888",
+            "cityName": "阜新站",
+            "showTime": "07.07"
+        },
+        {
+            "itemId": "805736477325",
+            "cityName": "南通站",
+            "showTime": "07.13"
+        },
+        {
+            "itemId": "806673016994",
+            "cityName": "郑州站",
+            "showTime": "07.20"
+        },
+        {
+            "itemId": "809212639227",
+            "cityName": "邯郸站",
+            "showTime": "07.21"
+        },
+        {
+            "itemId": "785121549517",
+            "cityName": "无锡站",
+            "showTime": "07.27"
+        },
+        {
+            "itemId": "807142494522",
+            "cityName": "福州站",
+            "showTime": "08.03"
+        },
+        {
+            "itemId": "805197912422",
+            "cityName": "银川站",
+            "showTime": "09.16"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=809212639227"
+}

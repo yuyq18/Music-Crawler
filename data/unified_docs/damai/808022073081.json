@@ -1,0 +1,63 @@
+{
+    "platform": "大麦",
+    "project_id": "808022073081",
+    "project_name": "棱镜「多少年·多少面」2024巡回演唱会-上海站",
+    "category_name": "演唱会",
+    "artists": [
+        "棱镜乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.10 周六 19:00",
+    "session_time": [],
+    "price": "380-880",
+    "isGeneralAgent": "true",
+    "isHotProject": "true",
+    "rating": null,
+    "city_name": "上海",
+    "venue_name": "浦发银行东方体育中心",
+    "venue_info": {
+        "venue_address": "上海市浦东新区耀体路701号",
+        "lng": 121.479292,
+        "lat": 31.15753
+    },
+    "project_info": "棱镜「多少年·多少面」2024巡回演唱会\n \n\n \n关于「多少年·多少面」演唱会\n \n多少年，多少面\n如果人生是一道数学题的话，答案应该并不复杂。\n每个人都可以或多或少推导出自己的人生极限。\n但不可预知的是在通往极限的过程中，我们会和哪些人相遇，会经历多少遗憾与欣喜，多少错过与重逢。\n所以，无论我和你还拥有多少年，还可以再见面多少次。\n我仍坚信，我们还能再次遇见。\n \n就像《克林》里唱的：“人生是偶然，在自己的路上义无反顾地狂奔吧！”我们都无法预测未来，却也依旧可以如鲸向海，踏浪而行；我们不知还有多少面可以见，但却拥有珍惜当下每一次见面的权利。\n所以，见面吧朋友们！\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01DdwYJD2GdSbs1cO09_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01P0Tx292GdSbj6VaBj_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Xg3N6k2GdSbs5Ywwk_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "66977",
+        "wantNumStr": "6.7万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过89%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "808022073081",
+            "cityName": "上海站",
+            "showTime": "08.10"
+        },
+        {
+            "itemId": "808981882407",
+            "cityName": "武汉站",
+            "showTime": "08.31"
+        },
+        {
+            "itemId": "807297399806",
+            "cityName": "厦门站",
+            "showTime": "07.20"
+        },
+        {
+            "itemId": "803145691891",
+            "cityName": "合肥站",
+            "showTime": "08.03"
+        },
+        {
+            "itemId": "779180611609",
+            "cityName": "广州站",
+            "showTime": "07.06"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=808022073081"
+}
