@@ -1,0 +1,543 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_809934558685",
+    "imgurl": "-490589006",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "莫文蔚 「大秀一场」2024 演唱会上海站",
+    "nameNoHtml": "莫文蔚 「大秀一场」2024 演唱会上海站",
+    "price": "499.0",
+    "price_str": "499-1399",
+    "pricehigh": "1399.0",
+    "privilegeTags": "[]",
+    "projectid": "809934558685",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.07.27 周六 19:00",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "上海体育场",
+    "venuecity": "上海",
+    "venueid": "40",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01WGGHcZ2GdSbuJwOcH_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "809934558685",
+                    "itemName": "【上海】莫文蔚 「大秀一场」2024 演唱会上海站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01WGGHcZ2GdSbuJwOcH_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01WGGHcZ2GdSbuJwOcH_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.07.27 周六 19:00",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京大麦文化传媒发展有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：北京大麦文化传媒发展有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01QIc9rb2GdSbwXgJP0_!!2251059038.png\" width=\"772\" height=\"1180\" damai_width=\"772\" damai_height=\"1180\"></strong></p>\n<p><strong>【禁限带物品清单】</strong></p>\n<p>对于现场观众所携带物品中的禁止和限制带入场物品现做详细说明如下：</p>\n<p>1.禁止携带旗帜、旗杆、自拍杆（包括任何伸缩旗帜及旗杆）。</p>\n<p>2.禁止携带横幅、条幅。</p>\n<p>3.禁止携带灯牌、灯幅等应援物品。</p>\n<p>4.禁止携带使用激光笔、投影设备。</p>\n<p>5.禁止携带打火机。</p>\n<p>6.禁止携带冷焰火。</p>\n<p>7.禁止管制刀具。</p>\n<p>8.禁止携带枪支弹药。</p>\n<p>9.禁止携带易燃易爆危险物品。</p>\n<p>10.禁止携带宠物。</p>\n<p>11.禁止携带高度酒精类饮品。</p>\n<p>12.禁止携带航拍器。</p>\n<p>13.禁止携带瓶装饮料。</p>\n<p>14.禁止携带使用长柄雨伞。</p>\n<p>15.禁止携带充气物（如气球，气棒等）。</p>\n<p>16.禁止携带大件行李：尺寸超过50cmX36cm的行李箱禁止。（现场无寄存）</p>\n<p>&nbsp;</p>\n<p><strong>【项目介绍】</strong></p>\n<p>世界很大，时间很长，</p>\n<p>让眼界无穷远，</p>\n<p>让创意无限大，</p>\n<p>准备好迎接，一场大秀，</p>\n<p>与莫文蔚一起，大秀一场。</p>\n<p>&nbsp;</p>\n<p>莫文蔚&nbsp;「大秀一场」2024&nbsp;演唱会上海站正式揭晓</p>\n<p>超越三十年华语经典，精彩一夜唱尽！</p>\n<p>07&nbsp;月&nbsp;27&nbsp;日&nbsp;</p>\n<p>上海体育场&nbsp;&nbsp;与你不见不散</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01q4Ddt32GdSblevsOT_!!2251059038.jpg\" width=\"10004\" height=\"14114\" damai_width=\"10004\" damai_height=\"14114\"></p>\n<p>莫文蔚一路以来的先锋姿态，鲜明的个性、独特的姿态、高辨识度的声线，把有趣的、想不到的、非理所当然的选择，铸造出截然不同的可能性，那些突破的限制、跳脱的巢咎、走出的型格人生，让一路上形形色色的惊喜丰富了每个人青春。此次，莫文蔚再次运用她饶富新意的观看视角与创意，催生了一场从奇观到奇点、从一秒钟到一光年、从微观细胞到宏观星云、从五行相克相生，到宇宙融合汇聚的精采大秀，这一次，我们玩大的！</p>\n<p>&nbsp;</p>\n<p><strong>***&nbsp;&nbsp;一场汇聚生涯最佳的极致“大”秀，缔造视听饷宴！</strong></p>\n<p>&nbsp;</p>\n<p>Karen&nbsp;莫文蔚一向对音乐剧抱有丰沛兴趣，曾经作为参演远近驰名的百老汇歌舞剧《吉屋出租&nbsp;Rent》之首位亚洲演员，更发下宏愿盼望能打造一档属于华人的音乐剧。此次莫文蔚以传统舞台“Show”的概念，把戏剧开闭幕、三幕剧、复古电影与现场乐团之关系，甚至是带有些意识流的电影风格来打造这“大秀一场”演唱会，并借由在格局庞大的万人絕佳场地，搭配跨度超过八十米的巨型&nbsp;LED，与超过&nbsp;40&nbsp;人的震撼乐队，一同在舞台的“硬体”与概念的“软体”上尽显“大秀”气质，再加上演唱会里每一首歌曲也有其对应的舞台机关安排和道具陈设，每一个演出桥段无不用尽心机，就是希望给观众最精彩的感官体验！</p>\n<p>&nbsp;</p>\n<p><strong>***&nbsp;&nbsp;莫文蔚自组限定乐团，打造独一无二的音乐体验！</strong></p>\n<p>&nbsp;</p>\n<p>过去以经典情歌风靡歌坛的莫文蔚，此次透过《大秀一场》演唱会这个绝佳机会，与三位乐坛中流砥柱般的知名资深音乐人一同组&nbsp;Band，成立&nbsp;“The&nbsp;Masters”&nbsp;限定乐队，大过摇滚瘾！&nbsp;Karen&nbsp;Mok&nbsp;X&nbsp;The&nbsp;Masters&nbsp;不仅作为整场演唱会的创作轴心，为其过往精彩作品做了全新诠释，更为演唱会端出了全新摇滚创作作品和独家限定表演，热力十足的摇滚能量将展现每位音乐大师独有的气场与互相碰撞的火光四射！</p>\n<p>&nbsp;</p>\n<p><strong>***&nbsp;&nbsp;东西融合的精彩迸发，从熟悉中找新意！</strong></p>\n<p>&nbsp;</p>\n<p>东方文化与西方元素的精彩碰撞，一直都是&nbsp;Karen&nbsp;莫文蔚在音乐创作上的拿手绝活，打从小学时期力排众议学起了古筝，此后便不断把古筝元素放入西洋流行音乐编制或现场演出中，相关特质在《DIVA》、《只带一支行李箱》与《不待续》等音乐单曲中都能略见一二。此外，中西融合的独特风格亦一直是莫文蔚在音乐世界里的强大标签，1996年《全身》专辑中《比夜更黑》、《未了情》中式吟唱与西式乐曲的独特成色，2009年《回蔚》专辑里唾手可得的民族歌曲与西洋乐器之对话，甚至是2013年《Somewhere&nbsp;I&nbsp;Belong》爵士专辑中与中式乐器的完美融合，乃至于最新莫猫三部曲之主题曲《月光光》，柔并古典钢琴与中国广东民歌的创新尝试，再显示莫文蔚独有的音乐基因。</p>\n<p>这次在《大秀一场》演唱会中东西文化的融会将达到更为崭新的高度。作为演唱会的创意导演，莫文蔚在演唱会的章节概念中取材易经卦象，运用戏剧的『三幕剧』形式呈现“兑卦灿烂、革卦变革、离卦暖辉”的起承转合，表演中更特别融合了展现中国传统武术“咏春”元素的现代舞蹈，尽展中西融合之独特性。</p>\n<p>&nbsp;</p>\n<p><strong>***&nbsp;&nbsp;31年出道大爆金曲，一定有你想听的！</strong></p>\n<p>&nbsp;</p>\n<p>作为金曲制造机的&nbsp;Karen&nbsp;莫文蔚，生涯中朗朗上口的代表作难以胜数，每一次开演唱会歌单如何抉择总是让她万般头疼，精心策划加上万般考量依然有大量遗珠在列。此次“大秀一场”中，莫文蔚精心挑选出道31周年最经典的歌曲，表演中“每一句”都将直击你的青春回忆，让演唱会化身为大型&nbsp;KTV&nbsp;现场。</p>\n<p>&nbsp;</p>\n<p><strong>***&nbsp;&nbsp;看一场少一场的精彩内容，人生绝不能错过！</strong></p>\n<p>&nbsp;</p>\n<p>此次“大秀一场”借用演唱会场地的难得庞大舞台，搭配巨型&nbsp;LED&nbsp;屏幕，结合拥有多样变化型态的舞台机关，大跨度的裸眼&nbsp;3D&nbsp;画面、宏大的多人编制乐队、华美而奇幻的服装设计、精致设计的表演桥段，加上莫文蔚极富感染力的现场表演，将共同构成一场人生绝对不能错过的大秀，无论是舞台硬件或整体表演内容，都是难以复刻的经典之选，你，准备好跟莫文蔚一起大秀一场了吗？</p>\n<p>&nbsp;</p>\n<p><strong>莫文蔚&nbsp;Karen&nbsp;Mok&nbsp;</strong></p>\n<p><strong>大秀一场&nbsp;The&nbsp;Big&nbsp;Big&nbsp;Show&nbsp;</strong></p>\n<p><strong>2024&nbsp;演唱会【上海站】</strong></p>\n<p>&nbsp;</p>\n<p>【演出时间】：2024年07月27日</p>\n<p>（《大秀一场》演唱会每分每秒皆有精采设计，请妥善安排到场时间，以免抱憾。）</p>\n<p>【演出地点】：上海体育场</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "上海蕴华文化发展有限公司",
+                            "socialCreditCode": "91310109MA1G5PY3XR",
+                            "legalPerson": "余飞菲",
+                            "regCapStr": "1000万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(外商投资企业法人独资)",
+                            "entAddress": "上海市虹口区四川北路1318号1幢1802-A19室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张、每个账号最多购买4张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/身份证/港澳居民来往内地通行证/港澳台居民居住证/护照/外国人永久居留身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "莫文蔚"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "40",
+                    "venueName": "上海体育场",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.440634,
+                    "lat": 31.181288,
+                    "venueAddr": "上海市徐汇区天钥桥路666号",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=809934558685"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D809934558685%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "28986",
+                    "wantNumStr": "2.9万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过80%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i3/O1CN01kGsJkI20pKkSdvFkC_!!6000000006898-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/201932/40386515.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01j9rn0L1tPV6Q4jU87_!!6000000005894-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2509333/501866744_1718851145176.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN014hqoie1G2oSvT63ui_!!6000000000565-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "1036070396",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1715603632771/1715603632771-main.jpg",
+                    "note": "莫文蔚「大秀一场」2024演唱会",
+                    "categoryName": "其他",
+                    "title": "莫文蔚「大秀一场」2024演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1719496116000",
+                "sellStartTimeStr": "06月27日 21:48",
+                "priceRange": "¥499-¥1399",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "558273",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "4",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8099345586/2/809934558685.jpg"
+            }
+        }
+    }
+}
