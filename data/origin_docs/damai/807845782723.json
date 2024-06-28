@@ -1,0 +1,760 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：周杰伦",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "906",
+    "cityname": "深圳",
+    "couponTags": "[]",
+    "description": "艺人：周杰伦",
+    "id": "1_1_807845782723",
+    "imgurl": "-511476765",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "周杰伦2024“嘉年华”世界巡回演唱会-深圳站",
+    "nameNoHtml": "周杰伦2024“嘉年华”世界巡回演唱会-深圳站",
+    "price": "580.0",
+    "price_str": "580-2000",
+    "pricehigh": "2000.0",
+    "privilegeTags": "[]",
+    "projectid": "807845782723",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.09.12-09.15",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "深圳大运中心体育场",
+    "venuecity": "深圳",
+    "venueid": "53368",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01AFKPds2GdSbq6FvzK_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "807845782723",
+                    "itemName": "【深圳】周杰伦2024“嘉年华”世界巡回演唱会-深圳站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "440300",
+                    "cityName": "深圳市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01AFKPds2GdSbq6FvzK_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01AFKPds2GdSbq6FvzK_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.09.12-09.15",
+                    "showDuration": "约120分钟，仅供参考，最终以现场实际时长为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：广州宝辉文化发展有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：广州宝辉文化发展有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "906",
+                    "atomSplit": "1",
+                    "isHotProject": "true",
+                    "isShowHotProjectModel": "true",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN010EJI662GdSbvtAbzQ_!!2251059038.jpg\" width=\"769\" height=\"8000\" damai_width=\"769\" damai_height=\"8000\"></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "广州宝辉文化发展有限公司",
+                            "socialCreditCode": "9144010132106147XC",
+                            "legalPerson": "林小平",
+                            "regCapStr": "100万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人独资)",
+                            "entAddress": "广州市越秀区侨光路八号A座10楼1015-1018房"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买2张、每个账号最多购买2张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭成人票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：外国人永久居留身份证/身份证/台湾居民来往大陆通行证/港澳台居民居住证/港澳居民来往内地通行证/护照"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟，仅供参考，最终以现场实际时长为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "周杰伦"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合."
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "53368",
+                    "venueName": "深圳大运中心体育场",
+                    "venueProvinceName": "广东省",
+                    "venueCityName": "深圳市",
+                    "lng": 114.219199,
+                    "lat": 22.69269,
+                    "venueAddr": "深圳市龙岗区龙翔大道深圳大运中心",
+                    "showCountText": "共有3个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "807845782723",
+                        "cityName": "深圳站",
+                        "showTime": "09.12-09.15",
+                        "tourId": "1780"
+                    },
+                    {
+                        "itemId": "797847571937",
+                        "cityName": "南京站",
+                        "showTime": "09.26-09.29",
+                        "tourId": "1780"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=807845782723"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D807845782723%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "2031",
+                        "artistName": "周杰伦",
+                        "archives": "华语流行歌手、著名音乐人、音乐创作家、作曲家、作词人、制作人、杰威尔音乐公司老板之一、导演。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1684737181072/1684737181072-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "2031",
+                        "name": "周杰伦",
+                        "desc": "华语流行歌手、著名音乐人、音乐创作家、作曲家、作词人、制作人、杰威尔音乐公司老板之一、导演。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1684737181072/1684737181072-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "2126002",
+                    "wantNumStr": "212.6万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过99%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN01zFBvUY1YFmleJTIQm_!!6000000003030-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/330957/66191540.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01vY86me1ydJ7UVciBd_!!6000000006601-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2514886/502977289_1718730748470.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN018aua481exC051EFzr_!!6000000003937-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "23568711382",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1676776423942/1676776423942-main.jpg",
+                    "note": "2000年出道的周杰伦，惊人的音乐魅力犹如龙卷风席卷乐坛，一出道便收获好评如潮，之后所发行的歌曲更是堪称\"首首经典\"。演出期间带来了《半兽人》《本草纲目》《彩虹》《暗号》《简单爱》《园游会》等经典歌曲。",
+                    "categoryName": "其他",
+                    "title": "周杰伦【嘉年华】世界巡回演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊",
+                "inFieldComments": [
+                    {
+                        "id": "16169929",
+                        "comment": "雨下整夜 我的爱溢出就像雨水",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/a5fc90e0a4414dbda059aae97977163e.jpeg",
+                        "nickName": "永远有花_yu",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1137290/227458119_1683166930243.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16142884",
+                        "comment": "周杰伦的每一场都不想缺席",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/f0e26e81ae5b4109a154f0e9116fa58f.jpeg",
+                        "nickName": "文啊文的文",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1138377/227675499_1707006714967.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16105534",
+                        "comment": "没错没错，就是雨下一整夜那一场，就是他把外套给了点歌的小姐姐的那一场，狠狠羡慕住了…………杭州这雨下的好下的秒呀。\n\n7点 30准时开场，10点40结束，杰伦说要不降key多唱几首，因为今天真的是雨下一整晚[捂脸]内场一姑娘点歌因为没有雨衣获得了杰伦的外套[强]时隔五年，你的演唱会永远有超多大合唱，大概是因为年少的梦最炽热最怀念吧[爱心]",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/1354e5a2c567479c8cd51f38fe925b8b.jpeg",
+                        "nickName": "肖十爷",
+                        "userPic": "https://perico.damai.cn/userheadphotos/827779/165555823.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15910403",
+                        "comment": "Jay 华语乐坛的王！！！！！！！！！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/85d8895b9fb441f4b2f4e83bf2f1e5a2.jpeg",
+                        "nickName": "麦子0Eav4",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/663954/132790883_1716379034122.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15896041",
+                        "comment": "把永远爱你写进诗的结尾",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/64e505266bff410d9b2b5aab7c652d2e.jpeg",
+                        "nickName": "茜瓜妹",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/230918/46183764_1696831596303.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15826396",
+                        "comment": "你我的青春，周杰伦，我们都老了",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/1e601f3f69a849e688a54c72a15c98e7.jpeg",
+                        "nickName": "黄小姐_M378H",
+                        "userPic": "https://perico.damai.cn/userheadphotos/29019/5803911.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15711763",
+                        "comment": "小时候的歌我现在终于听到live版了",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/aa562833fa0643748b2760d1d7745999.jpeg",
+                        "nickName": "早餐包也想有票版",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2214752/442950577_1714644441882.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15665151",
+                        "comment": "福州嘉年华518",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/f60db45acbdc44639912bf6e1567f93d.jpg",
+                        "nickName": "麦子41HUD",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1093823/218764696_1666595708899.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15267301",
+                        "comment": "周杰伦！！这可是周杰伦！爽死我了啊啊！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/782f55c45f2240cca97b573bf176449b.jpeg",
+                        "nickName": "你怎么知道我抢到了哈哈",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1191629/238325918_1697082933065.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15212590",
+                        "comment": "一场杰伦雨中浪漫演唱会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/9328b99b50a14dd1a26dbd64efae36ec.jpg",
+                        "nickName": "麦子5vlbc7556",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2260748/452149687_1700146308812.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15211713",
+                        "comment": "杭州演唱会完美",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/a59c055e68d64e51988f3cc411873e18.jpeg",
+                        "nickName": "发呆的感觉太好了",
+                        "userPic": "https://perico.damai.cn/userheadphotos/256353/51270656.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15203316",
+                        "comment": "周杰伦这阵龙卷风，终于吹来了杭州~ ",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/8c1a1ae2b8de4125b66de206fdab6afb.jpg",
+                        "nickName": "ReggaeLive",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1225203/245040653_1711510111518.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15135551",
+                        "comment": "周杰伦唱歌太好听了下次还想去",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/c0a011466c61464083526631f3e6cb8f.jpg",
+                        "nickName": "南宫婉莹",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2213847/442769511_1690731087606.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15129363",
+                        "comment": "粉色海洋我的青春印记 周杰伦我爱你",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/427e864717034f86961b3cd8a62150d9.jpeg",
+                        "nickName": "Chevalcc",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/589508/117901651_1697475721163.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15123979",
+                        "comment": "大爱杰伦！！！！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/fb8647f112d0441d9721d31020106ba0.jpeg",
+                        "nickName": "清黎victor",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/985149/197029882_1713489979467.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15107082",
+                        "comment": "欢迎大家拿我拍的周杰伦！！我来看青春了！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/27856dfe1e8d4cd5859727b4534296d7.jpeg",
+                        "nickName": "大耳琪仔",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/834166/166833224_1713666234016.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14767335",
+                        "comment": "最顶的音乐现场氛围！不愧是顶级男歌手！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/b822e95f9ad547ecaf424913b031c405.jpg",
+                        "nickName": "ReggaeLive",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1225203/245040653_1711510111518.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13625619",
+                        "comment": "👇时隔很多年再次来看周杰伦的演唱会\n\n👆虽然不是我的青春，也没有这么喜欢周杰伦，但是不能否认他的歌曲很多都耳熟能详～\n\n👇现场氛围的话随机分配，有的人跟唱超大声，有的歌过分安静🤫\n\n🫨座位的话八万人体育场真的很巨大🏟️如果真的很想来建议抢看台一个是成功几率更高，还有就是没看过的话建议先看完整版舞美～不然贸然入内场又看不见人的话会对演唱会失望！\n\n🫨就是开不了口让她知道～特别录了这首歌，很喜欢这首歌也很喜欢大家一起整齐合唱！Nice！\n\n👆总的来说还是很不错的～",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/9b97ad1ce33348c7b1ad74cd6b26d9f6.jpeg",
+                        "nickName": "小林三岁-",
+                        "userPic": "https://perico.damai.cn/userheadphotos/198167/39633480.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13275700",
+                        "comment": "这辈子总要来听一次周杰伦的演唱会吧!!!!\n终于圆梦了，陪伴了我好久好久的杰伦，终于见到了，听着一首首每天在耳机里循环播放的音乐逐一在现场的耳边回响，无与伦比的震撼也随之而来，想看了很久很久，终于也是抢到了票,一个人来看周杰伦，一直听到最后的七里香，直到把永远爱你写进诗的结尾，你是我唯一想要的了解才惊觉这次的演唱会已落下了帷幕，我也该在明天离开上海，把你的歌声的陪伴，继续出现在我生活中诗的每一页。希望下次再见可以是在内场，是在离你更近一些的地方。写完评论的话，也算是重新回忆了一遍演唱会，也代表我已经走远(只是距离走远）生活里还是要继续加油! !努力学习，站在更高的地方，离你更近一点!!",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/38483f247745428bb1f672ba2b72e857.jpg",
+                        "nickName": "剑落疾风斩众生",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1217752/243550416_1690211164867.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13265037",
+                        "comment": "²⁰²³🎠₁₀.₁₅\n   - 童年的纸飞机 现在终于飞回我手里🎡\n今天终于在现场啦！！！！！！💗💗💗\n真的好爱周董！！！！第一次在大麦抢票就如此顺滑！太幸运了！！现场氛围真的好棒啊！！！荧光海真的是太震撼了！真的一定要看一次现场呜呜呜🥹绝对是不一样的体验！强实名这次做的好棒👍大家和周董一起合唱的时候莫名被感动的热泪盈眶，周董是我们所有人的青春代名词啊！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/be103508f6b44baa919f5f9b28c5b217.jpeg",
+                        "nickName": "BeccaZhang",
+                        "userPic": "https://perico.damai.cn/userheadphotos/474136/94827333.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    }
+                ]
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1719972000000",
+                "sellStartTimeStr": "07月03日 10:00",
+                "priceRange": "¥580-¥2000",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "388674",
+                    "591425",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "558273",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "2",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8078457827/2/807845782723.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,641 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：张信哲、王心凌、吴克群、郑源",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "653",
+    "cityname": "荆门",
+    "couponTags": "[]",
+    "description": "艺人：张信哲、王心凌、吴克群、郑源",
+    "id": "1_1_809809471992",
+    "imgurl": "-491839873",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "“厚道荆门候着您”明星演唱会",
+    "nameNoHtml": "“厚道荆门候着您”明星演唱会",
+    "price": "180.0",
+    "price_str": "180-980",
+    "pricehigh": "980.0",
+    "privilegeTags": "[]",
+    "projectid": "809809471992",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.08.03 周六 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "荆门市漳河新区生态运动公园体育场",
+    "venuecity": "荆门",
+    "venueid": "6467147",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01a2Y6l72GdSbvdhBkT_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "809809471992",
+                    "itemName": "【荆门】“厚道荆门候着您”明星演唱会",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "420800",
+                    "cityName": "荆门市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01a2Y6l72GdSbvdhBkT_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01a2Y6l72GdSbvdhBkT_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.08.03 周六 19:30",
+                    "showDuration": "约140分钟",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京城乡行文化艺术有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：北京城乡行文化艺术有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "586",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><span style=\"font-size: 18px;\"><strong>“厚道荆门AWAITING”演唱会</strong></span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">AWAITING</p>\n<p style=\"text-align: center;\">等待在如此平淡的岁月里</p>\n<p style=\"text-align: center;\">一场音乐的酣畅淋漓</p>\n<p style=\"text-align: center;\">正在悄悄发生</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">给自己一场约会</p>\n<p style=\"text-align: center;\">前方就是舞台</p>\n<p style=\"text-align: center;\">台上正在闪闪发光</p>\n<p style=\"text-align: center;\">台下必须热泪盈眶</p>\n<p style=\"text-align: center;\">给你一张厚道的门票</p>\n<p style=\"text-align: center;\">攥手里</p>\n<p style=\"text-align: center;\">唱响记忆里的青春</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">聆听</p>\n<p style=\"text-align: center;\">往事之音</p>\n<p style=\"text-align: center;\">合唱</p>\n<p style=\"text-align: center;\">共鸣之音</p>\n<p style=\"text-align: center;\">「厚道荆门」演唱会</p>\n<p style=\"text-align: center;\">WAITING FOR YOU&nbsp;&nbsp;</p>\n<p style=\"text-align: center;\">让情绪</p>\n<p style=\"text-align: center;\">彻夜不眠</p>\n<p style=\"text-align: center;\">燃在现场</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01ytzpnn2GdSbu0wImS_!!2251059038.jpg\" width=\"2000\" height=\"2666\" damai_width=\"2000\" damai_height=\"2666\"></p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01tLJnYs2GdSbuhqvdr_!!2251059038.png\" width=\"550\" height=\"731\" damai_width=\"550\" damai_height=\"731\"></p>\n<p>&nbsp;</p>\n<p>“我的爱如潮水，爱如潮水将我向你推”</p>\n<p>我不得而知，你通过哪首歌与阿哲相识，但现在，他的声音将不单单出现在收音机里、手机里、电脑里，此时此刻，他正“用情付出流水”在「厚道荆门」现场等着你。</p>\n<p>“哲式情歌”犹如一个烙印，已经深深埋藏在每一位听众心里，此时，不必再压抑情感，亲临阿哲现场，明白“爱就一个字”他究竟只说的是哪一次。</p>\n<p>“我为你翻山越岭，却无心看风景”，来现场与阿哲一起，漫步在音乐的星河，聆听那些温暖过我们的歌声，感受那份独特的魅力，这是一场青春送给你的演唱会，在这里任何人都不会《过火》，给自己和爱的人一个机会“听山盟海誓，曾经说的字字珍贵”。</p>\n<p>终将，我们都会明白“我爱你，是多么清楚，多么坚固的信仰。”</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ZvhMal2GdSbu4JRAE_!!2251059038.jpg\" width=\"504\" height=\"708\" damai_width=\"504\" damai_height=\"708\"></p>\n<p>&nbsp;</p>\n<p>“天空是绵绵的糖，就算塌下来又怎样”，心凌从始至终都向我们传达着，她坚定不移的信心和甜度爆表的温暖。</p>\n<p>那个“睫毛弯弯，眼睛眨啊眨”的元气女孩，一甜就是20年。</p>\n<p>那年夏天，我们坐在电视机前，看着台湾偶像剧，听着CYNDI的超甜情歌。</p>\n<p>在长大中的低谷期，也曾经“都快忘了怎样恋一个爱，我被虚度了的青春，也许还能活过来。”才明白恍然大悟，心凌为我们讲述的不止有甜，还有《当你》。</p>\n<p>那年夏天，突然一句“爱你”引爆我们记忆中所有关于甜美的回忆。她温柔恬静唱着暖心情歌，用甜蜜超能力拯救缺糖的心灵；她依旧是那个从地球甜到宇宙再甜回我们心里的甜蜜放射线。</p>\n<p>来与CYNDI一起，大声唱“爱你”，来与全场一起，“DaDaDa”，对着荆门夜晚的天空说“Honey”</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01OO2fBX2GdSbt8znhH_!!2251059038.png\" width=\"617\" height=\"824\" damai_width=\"617\" damai_height=\"824\"></p>\n<p>&nbsp;</p>\n<p>“为你写诗，为你静止，为你做不可能的事”</p>\n<p>在年少时，你为他/她做过多少不可能的事？校园里的爱情已经悄然化作旋律，随着为你写过的情诗，触动着藏在心底的那段回忆。</p>\n<p>与其说克羣伴随着我们的青春，不如说我们伴随着他从一个《大舌头》“说说说说你爱我，说说说说说不出口”的大男孩，变成了为华语乐坛奋勇拼杀的大将军，他告诉每一个中国人“yoyoyo不是我们的语言，外国的月亮没比较圆”。</p>\n<p>这次，“音乐诗人”克羣将带着他的乐队，为「厚道荆门」演唱会激荡最令人震撼的音符，用歌声续写玫瑰的故事，“如何描述我爱你，因你爱停止寻觅，写在星星的夜里”。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01HZ0dGS2GdSbu4L7Ld_!!2251059038.jpg\" width=\"1130\" height=\"1714\" damai_width=\"1130\" damai_height=\"1714\"></p>\n<p>&nbsp;</p>\n<p>“想你爱你留不住你 亲爱的你 我已用尽我的力气 去爱去接受你······”</p>\n<p>那时候的我们，总是在课间拿着小小的纸条，哼着专属的“源式情歌”，传递着学生时代青涩懵懂的感情，在现场，让我们一起重写纸条里的《红尘情歌》。</p>\n<p>假如你非要问我，来现场的理由，那我给你《一万个理由》够不够，我只想在告诉你“只要和你在一起，还有什么不愿意”，我们早已把舞台变成了《爱情码头》“不会让你等到荒芜的花季”。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN011syOu92GdSbtI0EgF_!!2251059038.jpg\" width=\"520\" height=\"780\" damai_width=\"520\" damai_height=\"780\"></p>\n<p>&nbsp;</p>\n<p>她凭借一首《拉拉爱》风靡全网，被喜爱她电子音乐的粉丝，称为”电音公主“。</p>\n<p>她不仅歌声动人，就连时尚界也有她的一席之地。</p>\n<p>她的音乐作品和演唱风格都已大受外界认可，是华语乐坛少见的才华横溢的全能型歌手，我相信当“lalalalalalalalala”的音乐响起，所有人的青春回忆都将被唤醒，来跟随音乐律动摇摆，燃动全场。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN011gg6pA2GdSbrHpJr2_!!2251059038.png\" width=\"616\" height=\"925\" damai_width=\"616\" damai_height=\"925\"></p>\n<p>&nbsp;</p>\n<p>她是荆门走向全国的歌手，她的演唱激情四溢，擅长把情感融入音乐，用歌声传递心声。</p>\n<p>她的音乐作品饱含深情，充满了对生活的热爱和对未来的憧憬，为人们注入积极向上的力量。在「厚道荆门」现场，亲身感受家乡歌手带来的独特魅力。</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "北京城乡行文化艺术有限公司",
+                            "socialCreditCode": "91110108700371785B",
+                            "legalPerson": "费刚",
+                            "regCapStr": "500万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人独资)",
+                            "entAddress": "北京市海淀区大钟寺13号院1号楼华杰大厦7C1室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    },
+                    {
+                        "title": "活动告知",
+                        "content": "19：30—19：55为荆门首届“寻访厚道荆门人”媒体见证会，20：00—22：20为浪漫激情演唱时间段，让我们一起在这场音乐盛宴中激情狂欢吧！请大家提前入场见证“厚道荆门人”的荣耀时刻！"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：护照/台湾居民来往大陆通行证/港澳台居民居住证/身份证/外国人永久居留身份证/港澳居民来往内地通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约140分钟"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "15"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "张信哲、王心凌、吴克群、郑源、李梦、邵雨涵"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "140分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "活动告知",
+                                    "content": "19：30—19：55为荆门首届“寻访厚道荆门人”媒体见证会，20：00—22：20为浪漫激情演唱时间段，让我们一起在这场音乐盛宴中激情狂欢吧！请大家提前入场见证“厚道荆门人”的荣耀时刻！"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "6467147",
+                    "venueName": "荆门市漳河新区生态运动公园体育场",
+                    "venueProvinceName": "湖北省",
+                    "venueCityName": "荆门市",
+                    "lng": 112.188695,
+                    "lat": 30.980326,
+                    "venueAddr": "湖北省荆门市漳河新区象山大道337号",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=809809471992"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D809809471992%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "2041",
+                        "artistName": "张信哲",
+                        "archives": "华语男歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1709953386311/1709953386311-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "2404",
+                        "artistName": "王心凌",
+                        "archives": "中国台湾流行女歌手及女演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1698723640965/1698723640965-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1938",
+                        "artistName": "吴克群",
+                        "archives": "中国台湾歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1713417282670/1713417282670-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "761",
+                        "artistName": "郑源",
+                        "archives": "2004年，凭借《一万个理由》在网络和手机铃声中传播，歌手郑源在中国大陆迅速走红，他成为了既刀郎、庞龙之后又一个“先闻其声，后见其人”靠网络走红的歌手。郑源的声音有一点沙哑，还带着一点忧伤，所以歌曲中也有一种深情、忧伤的感觉。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1521704732234/1521704732234-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "2041",
+                        "name": "张信哲",
+                        "desc": "华语男歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1709953386311/1709953386311-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "2404",
+                        "name": "王心凌",
+                        "desc": "中国台湾流行女歌手及女演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1698723640965/1698723640965-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1938",
+                        "name": "吴克群",
+                        "desc": "中国台湾歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1713417282670/1713417282670-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "761",
+                        "name": "郑源",
+                        "desc": "2004年，凭借《一万个理由》在网络和手机铃声中传播，歌手郑源在中国大陆迅速走红，他成为了既刀郎、庞龙之后又一个“先闻其声，后见其人”靠网络走红的歌手。郑源的声音有一点沙哑，还带着一点忧伤，所以歌曲中也有一种深情、忧伤的感觉。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1521704732234/1521704732234-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "2411",
+                    "wantNumStr": "2411",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i2/O1CN01GQ87pz1DKj6sWkQVe_!!6000000000198-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1139079/227815839_1678033200873.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01sUUZpm1tgRkwPdMX0_!!6000000005931-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1120613/224122759_1677074993816.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01r0ZMup1vQzcdFJguf_!!6000000006168-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「开售提醒」</span>购票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "90",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "13",
+                "sellStartTime": "1719564948000",
+                "sellStartTimeStr": "06月28日 16:55",
+                "priceRange": "¥180-¥980",
+                "performBases": [
+                    {
+                        "name": "08.03 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1722614400000",
+                        "performs": [
+                            {
+                                "performId": "215173075",
+                                "performName": "2024-08-03  周六 19:30",
+                                "itemId": "809809471992",
+                                "projectId": "221013009",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1722684600000",
+                                "performTime": "2024.08.03 19:30",
+                                "performStartDate": "2024-08-03",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "558273",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8098094719/2/809809471992.jpg"
+            }
+        }
+    }
+}
