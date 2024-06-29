@@ -1,0 +1,48 @@
+{
+    "platform": "大麦",
+    "project_id": "810273695037",
+    "project_name": "留声玩具2024《行在时光里的船》专辑巡演 西安站",
+    "category_name": "演唱会",
+    "artists": [
+        "留声玩具"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.15 周日 20:30",
+    "session_time": [],
+    "price": "99",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "西安",
+    "venue_name": "西演SPACE·福星现场",
+    "venue_info": {
+        "venue_address": "陕西省西安市新城区西一路282号易俗社文化街区1号楼3F",
+        "lng": 108.949399,
+        "lat": 34.260905
+    },
+    "project_info": "\n夏日的旅程就是不断寻找风的过程风把萤火带入崭新的国度煽动着翅膀捕获新的生活篇章流动的盛宴被时刻记录着\n吉他奏响的音符在黑夜中为你起舞献给每位旅人献给在夏日晚风中的我们\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01ygSKRC2GdSbsbKaN8_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01uAKXMh2GdSbxvAqUu_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01fghjuQ2GdSbxKb6fZ_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "810638904086",
+            "cityName": "昆明站",
+            "showTime": "07.14"
+        },
+        {
+            "itemId": "810273695037",
+            "cityName": "西安站",
+            "showTime": "09.15"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=810273695037"
+}
