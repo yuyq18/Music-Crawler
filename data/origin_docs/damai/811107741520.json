@@ -1,0 +1,390 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：赵品霖",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "702",
+    "cityname": "长沙",
+    "couponTags": "[]",
+    "description": "艺人：赵品霖",
+    "id": "1_1_811107741520",
+    "imgurl": "-478857177",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "赵品霖2024 OWNWAY巡演长沙站",
+    "nameNoHtml": "赵品霖2024 OWNWAY巡演长沙站",
+    "price": {
+        "range": "180-629"
+    },
+    "price_str": "180-629",
+    "pricehigh": "629.0",
+    "privilegeTags": "[]",
+    "projectid": "811107741520",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.07.27 周六 20:00",
+    "sitestatus": "16",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": {
+        "lat": 28.195744,
+        "lng": 112.905414,
+        "region": "1",
+        "showCountText": "14个演出",
+        "venueAddr": "湖南省长沙市岳麓区天顶街道环湖路1200号梅溪湖国际文化艺术中心小剧场101号地下一层",
+        "venueCityName": "长沙市",
+        "venueId": "92583",
+        "venueName": "长沙VOX LIVEHOUSE",
+        "venueProvinceName": "湖南省"
+    },
+    "venuecity": "长沙",
+    "venueid": "92583",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01y9PmSD2GdSbtXtLG5_!!2251059038.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "",
+            "entAddress": "",
+            "entType": "",
+            "legalPerson": "",
+            "opFrom": "",
+            "opTo": "",
+            "regCapStr": "",
+            "socialCreditCode": ""
+        }
+    },
+    "atmosphere": {
+        "level": "2",
+        "type": "3"
+    },
+    "buyButton": {
+        "afterCountdown": {
+            "origin": "5",
+            "status": "207",
+            "text": "特惠购买"
+        },
+        "origin": "2",
+        "status": "106",
+        "text": "预约抢票",
+        "tip": "提前选票档 抢票更丝滑"
+    },
+    "countdown": {
+        "countdown": "35146",
+        "rcdt": "35145967",
+        "sellStartTime": "1719892800000",
+        "sellStartTimeStr": "07月02日 12:00"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01y886xr2GdSbxGESbS_!!2251059038.jpg\" width=\"620\" height=\"3535\" damai_width=\"620\" damai_height=\"3535\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01d9WIt92GdSbpKHL5h_!!2251059038.jpg\" width=\"985\" height=\"3346\" damai_width=\"985\" damai_height=\"3346\"></p></body></html>",
+        "introduceTitle": "活动介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "赵品霖，内地男歌手、演员。2015 年参加综艺《星动亚洲第一季》走进大众视野，并于 2016年加入男子组合 SWIN-S，担任主唱。2019 年，他以综艺《以团之名》人气 C 位加入组合Black ACE，同年发行个人首张 EP《Beautiful》，并在古装玄幻电影《妖宴长安》中首次担纲男主 。如今出道近七年的他，以实力歌手、演员的身份活跃在大众视野，以其卓越的音乐才能、演艺实力和独树一帜的个人魅力赢得了众多粉丝的喜爱。2023 年，赵品霖携全新 EP《不完美命题》强势回归，以歌手身份在这个夏天留下浓墨重彩的一笔，并参加多个万人音乐节演出夯实实力歌手身份，同年开启广州、杭州等多地巡演，更多城",
+                "fansCount": "843",
+                "fansCountDesc": "粉丝",
+                "fansCountStr": "843",
+                "id": "1555075363",
+                "name": "赵品霖",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1697682594198/1697682594198-main.jpg",
+                "sellCount": "1场",
+                "sellCountDesc": "在售演出",
+                "tag": "歌手"
+            }
+        ],
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i1/O1CN01KzqXrr1vW1ysOe3mS_!!6000000006179-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotos/552522/110504486.jpg",
+                "https://img.alicdn.com/imgextra/i1/O1CN01fhSSIo1XHKUOi5w5Y_!!6000000002898-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotos/746330/149266068.jpg",
+                "https://img.alicdn.com/imgextra/i1/O1CN017sq23P1nF4O5uJsRB_!!6000000005059-0-tps-500-500.jpg"
+            ],
+            "wantNum": "129",
+            "wantNumStr": "129",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wPOZN01jRf2eaC3Jz_!!6000000004545-2-tps-1125-702.png",
+        "categoryId": "123606001",
+        "cityName": "长沙市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "false",
+            "generalType": "2"
+        },
+        "itemId": "811107741520",
+        "itemName": "【长沙】赵品霖2024 OWNWAY巡演长沙站",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01y9PmSD2GdSbtXtLG5_!!2251059038.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "430100",
+        "performSeatImages": [],
+        "projectId": "221108008",
+        "projectStatus": "1",
+        "purchaseLimitation": "10",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "3",
+                    "name": "军官证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                },
+                {
+                    "id": "7",
+                    "name": "港澳台居民居住证"
+                },
+                {
+                    "id": "8",
+                    "name": "外国人永久居留身份证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "type": "1"
+        },
+        "showDuration": "以现场为准",
+        "showTime": "2024.07.27 周六 20:00",
+        "tcCategoryId": "0301020100"
+    },
+    "marketing": {
+        "promotionDetail": {
+            "promotionGroupList": [
+                {
+                    "promotionGroupType": "1",
+                    "promotionGroupTypeDesc": "票档优惠",
+                    "promotionList": [
+                        {
+                            "promotionCategoryDetails": [
+                                {
+                                    "displayContent": "6.4折，到手¥180",
+                                    "skuName": "¥280"
+                                }
+                            ],
+                            "promotionTag": "早鸟",
+                            "promotionType": "5"
+                        }
+                    ]
+                }
+            ],
+            "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。"
+        }
+    },
+    "performLimits": [
+        {
+            "performId": "215375104",
+            "singleLimitation": "10"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=811107741520",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买10张、每个账号最多购买10张。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须打开【票夹】扫码入场，截图无效。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "儿童一律凭票入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/身份证/外国人永久居留身份证/港澳台居民居住证/军官证/台湾居民来往大陆通行证/护照",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约30分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "10",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            },
+            {
+                "content": "200",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01g1Fs6025i4mGCqzxa_!!6000000007559-2-tps-144-144.png",
+                "title": "大麦网初始开售时全场可售门票总张数"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票，购票完成后观演人信息不可更改。",
+                "tagName": "实名制购票",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过票夹中的二维码验票入场",
+                "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：上海鹊吟文化传播有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                "tagDescWithStyle": "<b>发票开具方：上海鹊吟文化传播有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}
