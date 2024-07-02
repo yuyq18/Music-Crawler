@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "811030647776",
+    "project_name": "黄礼格「庆祝我们搞砸的一切」2024巡演 上海站",
+    "category_name": "演唱会",
+    "artists": [
+        "黄礼格"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.07 周六 20:00",
+    "session_time": [],
+    "price": "138-520",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "上海",
+    "venue_name": "MAO Livehouse上海",
+    "venue_info": {
+        "venue_address": "重庆南路308号3F(近建国中路)",
+        "lng": 121.472096,
+        "lat": 31.209894
+    },
+    "project_info": "黄礼格「庆祝我们搞砸的一切」2024巡演 上海站\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01GD8Tlt2GdSc0B7TnP_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01A8NRss2GdSc063d0v_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "225",
+        "wantNumStr": "225",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "811030647776",
+            "cityName": "上海站",
+            "showTime": "09.07"
+        },
+        {
+            "itemId": "802834158895",
+            "cityName": "天津站",
+            "showTime": "07.27"
+        },
+        {
+            "itemId": "803018080138",
+            "cityName": "广州站",
+            "showTime": "08.23"
+        },
+        {
+            "itemId": "809374131195",
+            "cityName": "深圳站",
+            "showTime": "08.24"
+        },
+        {
+            "itemId": "809394015616",
+            "cityName": "南京站",
+            "showTime": "09.09"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=811030647776"
+}
