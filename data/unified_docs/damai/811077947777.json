@@ -1,0 +1,73 @@
+{
+    "platform": "大麦",
+    "project_id": "811077947777",
+    "project_name": "留声玩具2024《行在时光里的船》专辑巡演 沈阳站",
+    "category_name": "演唱会",
+    "artists": [
+        "留声玩具"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.04 周日 19:30",
+    "session_time": [],
+    "price": "99",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "沈阳",
+    "venue_name": "美帝奇X1905Livehouse",
+    "venue_info": {
+        "venue_address": "沈阳市铁西区兴华北街8号1905文化创意园1楼",
+        "lng": 123.382652,
+        "lat": 41.812279
+    },
+    "project_info": "\n夏日的旅程就是不断寻找风的过程风把萤火带入崭新的国度煽动着翅膀捕获新的生活篇章流动的盛宴被时刻记录着\n吉他奏响的音符在黑夜中为你起舞献给每位旅人献给在夏日晚风中的我们\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01juEfnJ2GdSbqDpGbr_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01h41aJc2GdSbtxNd5J_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01VsZz2J2GdSbwdU9H4_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "810640372378",
+            "cityName": "贵阳站",
+            "showTime": "07.12"
+        },
+        {
+            "itemId": "810638904086",
+            "cityName": "上海站",
+            "showTime": "07.14"
+        },
+        {
+            "itemId": "811140666861",
+            "cityName": "日照站",
+            "showTime": "07.19"
+        },
+        {
+            "itemId": "811456192186",
+            "cityName": "鞍山站",
+            "showTime": "08.02"
+        },
+        {
+            "itemId": "811077947777",
+            "cityName": "沈阳站",
+            "showTime": "08.04"
+        },
+        {
+            "itemId": "811367693100",
+            "cityName": "长春站",
+            "showTime": "08.09"
+        },
+        {
+            "itemId": "810273695037",
+            "cityName": "西安站",
+            "showTime": "09.15"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=811077947777"
+}

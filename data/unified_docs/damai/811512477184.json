@@ -1,0 +1,57 @@
+{
+    "platform": "大麦",
+    "project_id": "811512477184",
+    "project_name": "【造音呈现】井迪「追光旅行」2024巡演 七夕北京站 嘉宾:井胧",
+    "category_name": "演唱会",
+    "artists": [
+        "井迪"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.10 周六 20:00",
+    "session_time": [],
+    "price": "168-288",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "本土王牌LIVE",
+    "venue_info": {
+        "venue_address": "北京市朝阳区平房路北京电影学院文创园内",
+        "lng": 116.545085,
+        "lat": 39.936037
+    },
+    "project_info": "【造音呈现】井迪2024全国巡演 七夕北京站-大麦",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN017hFGVW2GdSbqnAWuP_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN014a2Qkb2GdSafTC3jk_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "705",
+        "wantNumStr": "705",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "811512477184",
+            "cityName": "北京站",
+            "showTime": "08.10"
+        },
+        {
+            "itemId": "811606164038",
+            "cityName": "沈阳站",
+            "showTime": "08.17"
+        },
+        {
+            "itemId": "800413534092",
+            "cityName": "长沙站",
+            "showTime": "07.13"
+        },
+        {
+            "itemId": "800590456105",
+            "cityName": "成都站",
+            "showTime": "07.20"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=811512477184"
+}

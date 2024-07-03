@@ -1,0 +1,72 @@
+{
+    "platform": "大麦",
+    "project_id": "811059011690",
+    "project_name": "「千万亿个梦」贰佰2024新专辑巡演 第二轮 哈尔滨站",
+    "category_name": "演唱会",
+    "artists": [
+        "贰佰"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.21 周六 19:30",
+    "session_time": [],
+    "price": "100",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "哈尔滨",
+    "venue_name": "SUBLIVE",
+    "venue_info": {
+        "venue_address": "黑龙江省哈尔滨市道里区机场路8号",
+        "lng": 126.555235,
+        "lat": 45.706465
+    },
+    "project_info": " \n\n【条件退规则】开票7天内无理由：即刻起 - 7月12日12:007天-演出前72小时50%：7月12日12:00 - 9月18日19: 30小于72小时内不退票：9月18日19: 30 - 演出开始\n \n如需退票联系在线客服\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN012GdSc1KAZzJHlIs_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Vf3KJh2GdSbvPJyfo_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "799370032162",
+            "cityName": "温州站",
+            "showTime": "08.28"
+        },
+        {
+            "itemId": "799123739841",
+            "cityName": "杭州站",
+            "showTime": "08.30"
+        },
+        {
+            "itemId": "797824963022",
+            "cityName": "南京站",
+            "showTime": "09.01"
+        },
+        {
+            "itemId": "805786734773",
+            "cityName": "台州站",
+            "showTime": "09.04"
+        },
+        {
+            "itemId": "811059011690",
+            "cityName": "哈尔滨站",
+            "showTime": "09.21"
+        },
+        {
+            "itemId": "811445820654",
+            "cityName": "长春站",
+            "showTime": "09.22"
+        },
+        {
+            "itemId": "803543939556",
+            "cityName": "长治站",
+            "showTime": "09.27"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=811059011690"
+}
