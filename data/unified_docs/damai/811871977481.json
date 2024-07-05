@@ -1,0 +1,99 @@
+{
+    "platform": "大麦",
+    "project_id": "811871977481",
+    "project_name": "Zkaaai-2024巡演南京站",
+    "category_name": "演唱会",
+    "artists": [
+        "zkaaai"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.09 周五 20:00",
+    "session_time": [],
+    "price": "128-268",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南京",
+    "venue_name": "Owl Voice猫头鹰空间",
+    "venue_info": {
+        "venue_address": "南京玄武区阳光路3号太阳宫演艺广场负一层",
+        "lng": 118.812772,
+        "lat": 32.064609
+    },
+    "project_info": "【VIP权益】\n1、可优先排队入场\n2、赠送zkaaai签名专辑\n3、演出结束后单人合影\n（注：预售及全价票可现场购买专辑，无签名合影）\n\nZkaaai是一个长相非常甜美可爱的女孩子，却有着非常独特的声线。她真的很适合悲伤的歌啊！就像她那双大眼睛一样忧郁深邃。她一张口，我们就仿佛看到了蓝色的天空，灰色的海岸线。从最初的《有一种悲伤》《wonderful  u》到后来的《迟来的情话》这些热门翻唱。再到《蓝色灰色》《万千》《海平面的星》zkaaai逐渐摆脱掉翻唱歌手的标签，更多的融入了自己的理解！没有绚丽的外表包装，没有过度的技巧修饰，zkaaai呈现给我们的是对生活和爱情实实在在的爱和投入，清澈而明耀，遗世而独立。\n\n关于巡演，zkaaai会唱哪些歌你有什么期待吗？听说她还为大家带来了她首次作词作曲的原创歌曲，这也是本次巡演的主打歌曲，非常好听，强烈建议！伤感系第一女声，你的女朋友zkaaai，将会以唱作人身份和大家见面。\n炎热夏季，踏上全国巡演的旅程，让我们现场见吧！\n专辑示例：\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01J3dV4n2GdSc2qSEGB_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01QkkDcJ2GdSc0j7Mhm_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN013kE1zm2GdSbzNDZtk_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01hyLhTC2GdSc0jC44j_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "46",
+        "wantNumStr": "46",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "811871977481",
+            "cityName": "南京站",
+            "showTime": "08.09"
+        },
+        {
+            "itemId": "811575137277",
+            "cityName": "苏州站",
+            "showTime": "08.11"
+        },
+        {
+            "itemId": "811271379575",
+            "cityName": "西安站",
+            "showTime": "08.16"
+        },
+        {
+            "itemId": "811272127988",
+            "cityName": "天津站",
+            "showTime": "08.23"
+        },
+        {
+            "itemId": "811664480948",
+            "cityName": "郑州站",
+            "showTime": "08.25"
+        },
+        {
+            "itemId": "811409762950",
+            "cityName": "福州站",
+            "showTime": "08.30"
+        },
+        {
+            "itemId": "811868925328",
+            "cityName": "厦门站",
+            "showTime": "08.31"
+        },
+        {
+            "itemId": "803900555343",
+            "cityName": "广州站",
+            "showTime": "07.06"
+        },
+        {
+            "itemId": "803865268691",
+            "cityName": "深圳站",
+            "showTime": "07.07"
+        },
+        {
+            "itemId": "802819716643",
+            "cityName": "长沙站",
+            "showTime": "07.19"
+        },
+        {
+            "itemId": "805282718465",
+            "cityName": "武汉站",
+            "showTime": "07.21"
+        },
+        {
+            "itemId": "802542543463",
+            "cityName": "沈阳站",
+            "showTime": "07.26"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=811871977481"
+}

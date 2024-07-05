@@ -1,0 +1,440 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：杨钰莹",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "539",
+    "cityname": "宜春",
+    "couponTags": "[]",
+    "description": "艺人：杨钰莹",
+    "id": "1_1_811961999813",
+    "imgurl": "-470314594",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "人间烟火家和万载诗画焰火秀",
+    "nameNoHtml": "人间烟火家和万载诗画焰火秀",
+    "price": "198.0",
+    "price_str": "198-398",
+    "pricehigh": "398.0",
+    "privilegeTags": "[]",
+    "projectid": "811961999813",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.07.27 周六 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "万载县龙湖公园烟花燃放国际赛事中心",
+    "venuecity": "宜春",
+    "venueid": "6810007",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN018smVTB2GdSc00fT3A_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "811961999813",
+                    "itemName": "【宜春】人间烟火家和万载诗画焰火秀",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "360900",
+                    "cityName": "宜春市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN018smVTB2GdSc00fT3A_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN018smVTB2GdSc00fT3A_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.07.27 周六 20:00",
+                    "showDuration": "约60分钟，仅供参考，最终以现场实际时长为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。",
+                            "tagType": "2",
+                            "renderType": "2",
+                            "tagDescJson": "{\"generalNote\":\"该演出支持退票，您可以在【我的-订单详情页】中申请退票，退票需要收取手续费，具体规则如下；\",\"performRules\":[{\"rules\":[{\"endTime\":1720569600000,\"ruleStage\":2,\"ruleType\":2,\"startTime\":1720141200000},{\"endTime\":1721174400000,\"ruleFeeBP\":2000,\"ruleStage\":1,\"ruleType\":1,\"startTime\":1720569600000},{\"endTime\":1721433600000,\"ruleFeeBP\":3000,\"ruleStage\":1,\"ruleType\":1,\"startTime\":1721174400000},{\"ruleStage\":1,\"ruleType\":4,\"startTime\":1721433600000}]}],\"refundProcedureFeeRule\":1}",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：江西炫彩文旅有限公司\r\n本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagDescWithStyle": "<b>发票开具方：江西炫彩文旅有限公司</b><br>本项目支持开具电子发票。该发票由主办方提供，需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "465",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01vP3wLY2GdSc4J2dBC_!!2251059038.png\" width=\"656\" height=\"925\" damai_width=\"656\" damai_height=\"925\"></p>\n<p>当空气中的蝉鸣渐盛<br>窗外的绿意愈加葱茏时<br>我真切地感受到<br>夏天已然来临<br>每逢这个炽热的季节<br>想看烟花的渴望就格外强烈<br>当然<br>如果能带着你，一起去参加烟花音乐节<br>就更完美了。</p>\n<p>而现在，一场视听盛宴即将在万载拉开帷幕！就在 7 月 27 日，“人间烟火·家和万载”四时国风诗画焰火大赏即将点亮万载的夜空，为您带来一个璀璨夺目的梦幻之夜。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01jWtNwV2GdSbxKPAgY_!!2251059038.jpg\" width=\"999\" height=\"375\" damai_width=\"999\" damai_height=\"375\"></p>\n<p><br>【甜歌皇后】</p>\n<p>杨钰莹</p>\n<p>本次晚会星光熠熠！甜歌天后杨钰莹将亲临现场，用她那温柔甜美的嗓音，为我们带来《轻轻的告诉你》《心雨》《我不想说》等经典歌曲，带您重温那些美好的回忆。<br>【千万粉丝人气歌手】</p>\n<p>&nbsp;</p>\n<p>小阿七</p>\n<p>还有人气歌手小阿七，她将献唱《从前说》《酒家》《愿你越过人间山水长》等热门曲目，用她充满感染力的歌声点燃现场的热情。</p>\n<p>本次晚会还有令人惊叹的烟花表演，精心融合了国风诗画元素，将为您呈现四季轮转的绝美画卷。当绚丽的烟花在夜空中绽放，仿佛是时间的笔触在书写着岁月的诗篇，每一簇火花都是大自然与艺术的完美结合，让人陶醉在这如梦如幻的美景之中，当璀璨烟花与动人歌声相互交融，这场晚会注定将成为一个令人难以忘怀的美好时刻。<br>7 月 27 日，让我们相聚万载，共同见证这场烟花与音乐交织的华丽盛宴！一同在这绚烂的夜空下，感受浪漫与激情的碰撞，留下属于我们的独特回忆！！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01kzP6dh2GdSc3o5rJM_!!2251059038.jpg\" width=\"2582\" height=\"1402\" damai_width=\"2582\" damai_height=\"1402\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01wYHBaj2GdSc06p7w0_!!2251059038.jpg\" width=\"2582\" height=\"1402\" damai_width=\"2582\" damai_height=\"1402\"></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "江西炫彩文旅有限公司",
+                            "socialCreditCode": "91360922MACQ0B627F",
+                            "legalPerson": "况庆辉",
+                            "regCapStr": "500万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "江西省宜春市万载县康乐街道水悦龙湖8栋1号楼101号"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "需兑换成纸质票验票入场，须打开【票夹】的二维码前往取票点换取，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米(含)以下儿童，可在已购票成人家长陪同下免票入场(一名成人仅限携带一名儿童)，请家长做好未成年人监管，远离危险施工区域。1.2米以上儿童购买全票入场。"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：身份证/外国人永久居留身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约60分钟，仅供参考，最终以现场实际时长为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "演出前30-60分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "5"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "1500"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "6810007",
+                    "venueName": "万载县龙湖公园烟花燃放国际赛事中心",
+                    "venueProvinceName": "江西省",
+                    "venueCityName": "宜春市",
+                    "lng": 114.441828,
+                    "lat": 28.088076,
+                    "venueAddr": "龙湖公园烟花燃放国际赛事中心",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D811961999813%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "1208",
+                        "artistName": "杨钰莹",
+                        "archives": "原名杨岗丽，中国江西南昌人，知名歌手，1990年签约广州新时代影音公司，以爱情题材歌曲为主，出版有多部专辑。其相貌清纯，歌喉甜美，深受歌迷喜爱，在1990年代初期曾红极一时，有“歌坛玉女”之称，至1997年逐渐淡出歌坛。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1521704767139/1521704767139-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "1208",
+                        "name": "杨钰莹",
+                        "desc": "原名杨岗丽，中国江西南昌人，知名歌手，1990年签约广州新时代影音公司，以爱情题材歌曲为主，出版有多部专辑。其相貌清纯，歌喉甜美，深受歌迷喜爱，在1990年代初期曾红极一时，有“歌坛玉女”之称，至1997年逐渐淡出歌坛。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1521704767139/1521704767139-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1720171343000",
+                "sellStartTimeStr": "07月05日 17:22",
+                "priceRange": "¥198-¥398",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "558273",
+                    "573377",
+                    "19403",
+                    "7371",
+                    "31947",
+                    "33739",
+                    "2507",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8119619998/2/811961999813.jpg"
+            }
+        }
+    }
+}
