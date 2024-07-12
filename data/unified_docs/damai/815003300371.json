@@ -1,0 +1,54 @@
+{
+    "platform": "大麦",
+    "project_id": "815003300371",
+    "project_name": "痛仰乐队「三四五」巡演景德镇站",
+    "category_name": "演唱会",
+    "artists": [
+        "痛仰乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.07.26 周五 20:00",
+    "session_time": [],
+    "price": "300",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "景德镇",
+    "venue_name": "景德镇陶溪川大剧院·小剧场",
+    "venue_info": {
+        "venue_address": "景德镇市珠山区陶溪川路与珠山大道交叉口西北40米",
+        "lng": 117.237948,
+        "lat": 29.298446
+    },
+    "project_info": "【退票机制】7月15日12:00-7月16日12:00，免费退票；7月16日12:01-7月18日12:00，按门票票面金额的20%收取退票手续费；7月18日12:01后，不予退票。\n \n\n自2022年夏日起，痛仰开启「三四五」主题巡演，演出相继在众多三四五线城市展开，我们探索着每座小城的特有属性，感受着当地乐迷的别样热情。\n \n再往前追溯，从20年前的全国巡演开始，到7年前的「百城巡演」，再到后来的「二十四城」，“在路上”三个字一直伴随着痛仰的音乐历程，并成为我们践行信仰的实际行动。\n \n淄博的烧烤、哈尔滨的冻梨，以及今年夏天阿勒泰的青青草地，让我们再次意识到独属于每块土地的美丽。所以2024年度「三四五」主题巡演将带着我们一如既往的初心，继续去到更多三四五线城市。\n \n\n \n千年窑火，匠心不灭的景德镇，因瓷而生，因瓷而盛。\n \n本轮演出依然延续往期「三四五」的配置，以大乐队、全编制的形式进行，个别站次会邀请后浪音乐人作为嘉宾参与其中，并在演出的同时探寻当地的风光名胜及风土人情。\n \n尽管他们以三四五为名\n我们却觉得每座城都是唯一\n或藏于群山之中 不言不语\n或落于江河之畔 静水流深\n有些街巷深幽 有些砖瓦斑驳\n静静诉说着厚重的历史\n这个夏天 我们继续现场见\n \n\n \n【演出详情】\n7月26日-景德镇\n文艺复兴音乐现场｜陶溪川大剧院\n地址：景德镇陶溪川大剧院·小剧场\n演出时间：20:00\n \n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01AlphZO2GdSc7VumW6_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01IOCCKW2GdSc70idIb_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01INzqUh2GdSc7VvJtp_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN019VXw8v2GdSc6J0PV1_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "1448",
+        "wantNumStr": "1448",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "815003632760",
+            "cityName": "吉安站",
+            "showTime": "07.24"
+        },
+        {
+            "itemId": "815003300371",
+            "cityName": "景德镇站",
+            "showTime": "07.26"
+        },
+        {
+            "itemId": "812835638667",
+            "cityName": "沧州站",
+            "showTime": "07.22"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=815003300371"
+}

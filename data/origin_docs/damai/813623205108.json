@@ -1,0 +1,410 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：张信哲、杨坤、房东的猫、万妮达、霓虹花园、金志文、Aflou阿弗娄、AY楊佬叁、国风Dom.T、理想后花园、王睿卓",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "712",
+    "cityname": "张家界",
+    "couponTags": "[]",
+    "description": "艺人：张信哲、杨坤、房东的猫、万妮达、霓虹花园、金志文、Aflou阿弗娄、AY楊佬叁、国风Dom.T、理想后花园、王睿卓",
+    "id": "1_1_813623205108",
+    "imgurl": "-453702541",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2024张家界峰林音乐节",
+    "nameNoHtml": "2024张家界峰林音乐节",
+    "price": {
+        "range": "388-418"
+    },
+    "price_str": "388-418",
+    "pricehigh": "418.0",
+    "privilegeTags": "[]",
+    "projectid": "813623205108",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.08.17-08.18",
+    "sitestatus": "3",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": {
+        "lat": 29.361243,
+        "lng": 110.587377,
+        "region": "1",
+        "venueAddr": "张家界市武陵源区大热武陵源营地",
+        "venueCityName": "张家界市",
+        "venueId": "6822011",
+        "venueName": "张家界市武陵源区大热武陵源营地",
+        "venueProvinceName": "湖南省"
+    },
+    "venuecity": "张家界",
+    "venueid": "6822011",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01bXCuuS2GdSc3S7PHA_!!2251059038.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "buyButton": {
+        "origin": "1",
+        "status": "204",
+        "text": "立即购买"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01GLDeD72GdSc2eFOOv_!!2251059038.jpg\" width=\"1587\" height=\"2245\" damai_width=\"1587\" damai_height=\"2245\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01HAqDmp2GdSbvXyfSz_!!2251059038.jpg\" width=\"1587\" height=\"1971\" damai_width=\"1587\" damai_height=\"1971\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01jk0PdW2GdSc5iD0bp_!!2251059038.jpg\" width=\"1587\" height=\"1806\" damai_width=\"1587\" damai_height=\"1806\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01U8duGU2GdSc4A4bHn_!!2251059038.jpg\" width=\"1587\" height=\"1150\" damai_width=\"1587\" damai_height=\"1150\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ypd5lc2GdSc4A5L1S_!!2251059038.jpg\" width=\"1587\" height=\"2245\" damai_width=\"1587\" damai_height=\"2245\"></p></body></html>",
+        "introduceTitle": "演出介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "华语男歌手",
+                "id": "2041",
+                "name": "张信哲",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1709953386311/1709953386311-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "内地流行歌手",
+                "id": "661",
+                "name": "杨坤",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1521703371810/1521703371810-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "房东的猫，成立于2013年，由吉他手吴佩岭和主唱王心怡组成。房东的猫，中国内地民谣组合，由主唱王心怡，吉他手吴佩岭组成。",
+                "id": "71831",
+                "name": "房东的猫",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1687145319229/1687145319229-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地说唱女歌手。",
+                "id": "72199",
+                "name": "万妮达",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1687147639319/1687147639319-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国摇滚乐队",
+                "id": "72680",
+                "name": "霓虹花园",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1696929071424/1696929071424-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地唱作型艺人。",
+                "id": "254",
+                "name": "金志文",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1521704542782/1521704542782-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "Aflou阿弗娄，以感性为性感的唱作新声。见过阿弗娄（Aflou）本人，就一定不会忘记；而听完他的歌，则会感到体内情意充盈。其人其声，纤柔，沉静，从不刻意打扰，却能顷刻间浸润一个人的生活，乃至一整个生命。作为兼擅词曲及制作的全能型音乐人，阿弗娄就是这样统一了他的外在与内心、日常与创作，让你禁不住想要透过音乐，结识这样一个有魅力的人。",
+                "id": "30857771593",
+                "name": "Aflou阿弗娄",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1709533535904/1709533535904-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "杨佬叁，中国内地女歌手。",
+                "id": "779569233",
+                "name": "AY楊佬叁",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1651895611955/1651895611955-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "国风DomT,歌手,制作人",
+                "id": "779566255",
+                "name": "国风Dom.T",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1651895714063/1651895714063-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "2010年夏，几个多年蒙受西洋音乐洗礼的手足青年，决议玩一支叫作“理想后花园”的摇滚乐队。自此几个在京城西南一隅长大的童年挚友，便走上了这条不归路，开始在各大知名LIVE HOUSE崭露头角。 然而混杂着些许郊野气息和都市感的音乐风格，看似毫无流派可循，却更加富有一种无法言说的独特性和力量感，他们甚至尝试在作品中表达这种对于土地的纠葛。 不太小众化的视角，又异于大众化的主流价值，或许才是他们要表现的美学品味。 他们轻易地从一众摇滚乐队中脱颖，并完成一次次蜕变，他们像一枚攥死的拳头，必将给这个世界重重一击。 乐队成员 吉他/唱：白雪川 吉他/唱：张冲 贝斯/唱：史洪任 鼓/唱：于晨 斩获殊荣 2",
+                "id": "870734513",
+                "name": "理想后花园",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1521704630513/1521704630513-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "好乐无荒旗下音乐人\n2014年在《中国新声代》以一首《带我到山项》一战成名，一经出道即被誉为“天籁童声”，成为最被期待的乐坛新声代。\n\n2024年四月以《重生之我在异乡为异客》席卷短视频平台，以其极具辨识度和富有质感的音色与独特的音乐表达受到了众多听众的关注，蝉联各大音乐平台榜单并在短视频平台持续发酵。歌曲一经面世即问鼎QQ音乐热歌榜top3，酷狗500榜单top2.并持续霸榜说唱榜新歌飙升榜，听歌识曲榜top3的佳绩。\n\n2024年六月受邀在《天赐的声音第五季》以天赐唱将的身份合唱《异客》，并在该期节目中夺得金曲奖，歌曲上线发布即获点赞130万➕，一天之内入驻抖音百万爆款俱乐部。",
+                "id": "1422676809",
+                "name": "王睿卓",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1720418695676/1720418695676-main.jpg",
+                "tag": "歌手"
+            }
+        ],
+        "artistsTitle": "演出阵容",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i4/O1CN01NhsMhM1EE927ZzCv9_!!6000000000319-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/1181715/236343194_1682997765200.jpg",
+                "https://img.alicdn.com/imgextra/i1/O1CN01bMZ0oW1WC0GXqoK9h_!!6000000002751-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/2535651/507130322_1720806918513.jpg",
+                "https://img.alicdn.com/imgextra/i2/O1CN01VakeDk28c4Chw6wSJ_!!6000000007952-0-tps-500-500.jpg"
+            ],
+            "wantNum": "607",
+            "wantNumStr": "607",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01R3THyh1QT3Y3gWguc_!!6000000001976-2-tps-1125-702.png",
+        "categoryId": "127420006",
+        "cityName": "张家界市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "813623205108",
+        "itemName": "【张家界】2024张家界峰林音乐节",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01bXCuuS2GdSc3S7PHA_!!2251059038.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "430800",
+        "performSeatImages": [],
+        "projectId": "221291015",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "3",
+                    "name": "军官证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                },
+                {
+                    "id": "7",
+                    "name": "港澳台居民居住证"
+                },
+                {
+                    "id": "8",
+                    "name": "外国人永久居留身份证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "以现场为准",
+        "showTime": "2024.08.17-08.18",
+        "subTitle": "",
+        "tcCategoryId": "0301030100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "215531102",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "215509103",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=813623205108",
+        "showFlag": "false"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须携带购票时对应证件验证入场。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "儿童需购票入场，1.2m以下儿童不建议入内。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：港澳台居民居住证/军官证/护照/身份证/港澳居民来往内地通行证/台湾居民来往大陆通行证/外国人永久居留身份证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约120分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "10",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            },
+            {
+                "content": "11000",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01g1Fs6025i4mGCqzxa_!!6000000007559-2-tps-144-144.png",
+                "title": "大麦网初始开售时全场可售门票总张数"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "2",
+                "tagDesc": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。",
+                "tagDescJson": "{\"generalNote\":\"该演出支持退票，您可以在【我的-订单详情页】中申请退票，退票需要收取手续费，具体规则如下；\",\"performRules\":[{\"rules\":[{\"endTime\":1720612800000,\"ruleStage\":3,\"ruleType\":2,\"startTime\":1720440000000},{\"endTime\":1721217600000,\"ruleFeeBP\":2000,\"ruleStage\":2,\"ruleType\":1,\"startTime\":1720612800000},{\"endTime\":1722427200000,\"ruleFeeBP\":5000,\"ruleStage\":1,\"ruleType\":1,\"startTime\":1721217600000},{\"endTime\":1723464000000,\"ruleFeeBP\":8000,\"ruleStage\":1,\"ruleType\":1,\"startTime\":1722427200000},{\"ruleStage\":1,\"ruleType\":4,\"startTime\":1723464000000}]}],\"refundProcedureFeeRule\":1}",
+                "tagName": "条件退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过身份证验票入场",
+                "tagDescWithStyle": "通过身份证验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：张家界市武陵源区融媒文化传播有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：张家界市武陵源区融媒文化传播有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}

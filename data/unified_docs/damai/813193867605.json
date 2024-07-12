@@ -1,0 +1,92 @@
+{
+    "platform": "大麦",
+    "project_id": "813193867605",
+    "project_name": "小沈阳2024《我不!是歌手》巡回演唱会--长春站",
+    "category_name": "演唱会",
+    "artists": [
+        "小沈阳"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.07 周六 19:30",
+    "session_time": [
+        "09.07 周六"
+    ],
+    "price": "298-998",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "长春",
+    "venue_name": "长春经济技术开发区体育场",
+    "venue_info": {
+        "venue_address": "吉林省长春市东南部，毗邻长春国际会展中心及净月潭国家森林公园",
+        "lng": 125.397054,
+        "lat": 43.839256
+    },
+    "project_info": "我不是传统意义上的歌手，不代表，我不是歌手\n我不是出身科班的演员，不代表，我没有跳出自身角色的本钱\n我从泥泞中走来，不代表，我不能抵达有那束光的彼岸\n我是小沈阳，不止，你们眼中的小沈阳\n昔日烈阳如期归来!\n\n小沈阳，本名沈鹤，歌手、中国内地男演员、二人转演员、导演、编剧、主持人。\n代表歌曲:《美了美了》、《东北的冬》、《我的好兄弟》、《大笑江湖》、《我叫小沈阳》、《我只是个传说》等。\n\n2009-2024《不差钱》之后的音乐理想\n\n\n2024《我不！是歌手》巡回演唱会长春站-长春经济技术开发区体育场，让我们共同沉浸在音乐和快乐的氛围中，享受一场音乐盛宴！",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01Uu1Cpp2GdSc0ktxs6_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01ZHBLVB2GdSc51qEpp_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN015bhUzx2GdSc2t8IfO_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01ufud4q2GdSc2BvYZU_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Aq1DQe2GdSc4AyfQj_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "21675",
+        "wantNumStr": "2.2万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过76%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "805783217367",
+            "cityName": "济南站",
+            "showTime": "08.31"
+        },
+        {
+            "itemId": "813193867605",
+            "cityName": "长春站",
+            "showTime": "09.07"
+        },
+        {
+            "itemId": "800476790386",
+            "cityName": "深圳站",
+            "showTime": "10.26"
+        },
+        {
+            "itemId": "801275268084",
+            "cityName": "海口站",
+            "showTime": "11.30"
+        },
+        {
+            "itemId": "773583436670",
+            "cityName": "大连站",
+            "showTime": "07.13"
+        },
+        {
+            "itemId": "774246839369",
+            "cityName": "青岛站",
+            "showTime": "07.27"
+        },
+        {
+            "itemId": "810232634891",
+            "cityName": "临沂站",
+            "showTime": "08.10"
+        },
+        {
+            "itemId": "799198346573",
+            "cityName": "石家庄站",
+            "showTime": "08.17"
+        },
+        {
+            "itemId": "801003072821",
+            "cityName": "天津站",
+            "showTime": "09.14"
+        },
+        {
+            "itemId": "801273204619",
+            "cityName": "北京站",
+            "showTime": "10.19"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=813193867605"
+}

@@ -1,0 +1,781 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：蔡依林",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "艺人：蔡依林",
+    "id": "1_1_813836763517",
+    "imgurl": "-451566957",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "蔡依林 Ugly Beauty 2024 巡回演唱会 FINALE 上海站",
+    "nameNoHtml": "蔡依林 Ugly Beauty 2024 巡回演唱会 FINALE 上海站",
+    "price": "490.0",
+    "price_str": "490-1690",
+    "pricehigh": "1690.0",
+    "privilegeTags": "[]",
+    "projectid": "813836763517",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.08.02-08.11",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "虹口足球场",
+    "venuecity": "上海",
+    "venueid": "144",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01tYp97C2GdSc3LuaW1_!!2251059038.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "813836763517",
+                    "itemName": "【上海】蔡依林 Ugly Beauty 2024 巡回演唱会 FINALE 上海站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01tYp97C2GdSc3LuaW1_!!2251059038.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01tYp97C2GdSc3LuaW1_!!2251059038.png"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.08.02-08.11",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：上海观渼文化传播有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：上海观渼文化传播有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "true",
+                    "isShowHotProjectModel": "true",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "4",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>演出日期：8月2/3/4日、8月9/10/11日</strong></p>\n<p>&nbsp;</p>\n<p>The&nbsp;FEAST&nbsp;of&nbsp;the&nbsp;Broken&nbsp;Hearts&nbsp;!</p>\n<p>带着你曾破碎的心赴约，</p>\n<p>别让她嗅到你的恐惧，</p>\n<p>你的丑陋将壮大她，</p>\n<p>请一切小心，</p>\n<p>来见我吧&nbsp;-&nbsp;UGLY&nbsp;BEAUTY，</p>\n<p>───蔡依林</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01GBjbR52GdSc1xKiHG_!!2251059038.png\" width=\"459\" height=\"306\" damai_width=\"459\" damai_height=\"306\"></p>\n<p>耗时多年筹备、台北高雄23场&amp;大陆11场演出的蔡依林Ugly&nbsp;Beauty世界巡回演唱会开启新一轮巡演！更宽阔的延伸台、更惊喜的服装、更用心的设计、更多站次的见面……2024年，Jolin和Ugly&nbsp;Beauty一起重新启程！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN0179KiF82GdSc4rkKT0_!!2251059038.png\" width=\"384\" height=\"575\" damai_width=\"384\" damai_height=\"575\"></p>\n<p>以&lt;Ugly&nbsp;Beauty&gt;正视内在恐惧为主轴，把整场演唱会设计成一本探索自我内在的「魔幻小说」，为演唱会撰写脚本、藉着自己的音乐说故事的Jolin更画龙点睛地写下引言：「最惊悚的恐怖故事是，你总以为，你别无选择，只能待在原处。大胆和我一起踏上内在英雄之路，和恐惧相视吧！我，一直都在-Ugly&nbsp;Beauty」，短短的几句话带出这次演唱会篇章，发展出『THE&nbsp;ORPHAN孤儿』、『UNCONSCIOUS&nbsp;DESIRE漠视的欲望』、『UNHINGED破碎的心』、『INNOCENT&nbsp;MINDS纯真』、『DISCLOSURE脆弱』、『HERORIC&nbsp;EMERGENCE内在英雄』六个章节起承转合，透过出道以来40首经典好歌重新编曲演绎娓娓道来Jolin与Ugly&nbsp;Beauty系列蜕变成长的进程！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ooU5Q22GdSc0o5Wzk_!!2251059038.png\" width=\"395\" height=\"593\" damai_width=\"395\" damai_height=\"593\"></p>\n<p>演唱会在视觉上以绚丽夺人的「怪美的」舞台呈现磅礡气势，在历经台北&amp;大陆的巡演后增添了多组全新造型，舞者造型、场面布景、特效镭射光、LED&nbsp;VCR等多层次配合，在视觉上给予观众更惊喜、更「怪美」的呈现，无论听觉、视觉都贯彻&lt;Ugly&nbsp;Beauty&gt;概念发挥到淋漓尽致，可谓为Jolin出道25年写下创新里程碑，更让整场演唱会宛如结合时尚、艺术、音乐的华丽乐章，引领歌迷进入Jolin的&lt;Ugly Beauty Finale&gt;之旅！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ntzj002GdSbwFcFXh_!!2251059038.png\" width=\"462\" height=\"260\" damai_width=\"462\" damai_height=\"260\"></p>\n<p><strong>【禁限带物品清单】</strong></p>\n<p>对于现场观众所携带物品中的禁止和限制带入场物品现做详细说明如下：</p>\n<p>1.禁止携带旗帜、旗杆、自拍杆（包括任何伸缩旗帜及旗杆）。</p>\n<p>2.禁止携带横幅、条幅。</p>\n<p>3.禁止携带灯牌、灯幅等应援物品。</p>\n<p>4.禁止携带使用激光笔、投影设备。</p>\n<p>5.禁止携带打火机。</p>\n<p>6.禁止携带冷焰火。</p>\n<p>7.禁止管制刀具。</p>\n<p>8.禁止携带枪支弹药。</p>\n<p>9.禁止携带易燃易爆危险物品。</p>\n<p>10.禁止携带宠物。</p>\n<p>11.禁止携带高度酒精类饮品。</p>\n<p>12.禁止携带航拍器。</p>\n<p>13.禁止携带瓶装饮料。</p>\n<p>14.禁止携带使用长柄雨伞。</p>\n<p>15.禁止携带充气物（如气球，气棒等）。</p>\n<p>16.禁止携带大件行李：尺寸超过50cmX36cm的行李箱禁止。（现场无寄存）</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "上海观渼文化传播有限公司",
+                            "socialCreditCode": "91310114MA1GUC6K1D",
+                            "legalPerson": "柳巍",
+                            "regCapStr": "100万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "上海市静安区中山北路988号3幢206室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张、每个账号最多购买4张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳台居民居住证/港澳居民来往内地通行证/身份证/外国人永久居留身份证/台湾居民来往大陆通行证/护照"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "蔡依林"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "144",
+                    "venueName": "虹口足球场",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.480592,
+                    "lat": 31.271447,
+                    "venueAddr": "上海市东江湾路444号",
+                    "showCountText": "共有2个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "813836763517",
+                        "cityName": "上海站",
+                        "showTime": "08.02-08.11",
+                        "tourId": "4012"
+                    },
+                    {
+                        "itemId": "809104840747",
+                        "cityName": "合肥站",
+                        "showTime": "07.19-07.20",
+                        "tourId": "4012"
+                    },
+                    {
+                        "itemId": "805719812892",
+                        "cityName": "咸阳站",
+                        "showTime": "07.13",
+                        "tourId": "4012"
+                    },
+                    {
+                        "itemId": "810636049828",
+                        "cityName": "衢州站",
+                        "showTime": "07.27",
+                        "tourId": "4012"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=813836763517"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D813836763517%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "2230",
+                        "artistName": "蔡依林",
+                        "archives": "华语流行乐女歌手、服装设计师。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1685935726232/1685935726232-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "2230",
+                        "name": "蔡依林",
+                        "desc": "华语流行乐女歌手、服装设计师。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1685935726232/1685935726232-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "319085",
+                    "wantNumStr": "31.9万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过97%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01Pz4vWg1sTnCEV7XXp_!!6000000005768-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1010611/202122289_1706616442026.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01KzqXrr1vW1ysOe3mS_!!6000000006179-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1225285/245057027_1687375268832.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01vY86me1ydJ7UVciBd_!!6000000006601-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "7211200793",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1687141387977/1687141387977-main.jpg",
+                    "note": "蔡依林 Ugly Beauty 2024 巡回演唱会 FINALE",
+                    "categoryName": "其他",
+                    "title": "蔡依林 Ugly Beauty 2024 巡回演唱会 FINALE",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊",
+                "inFieldComments": [
+                    {
+                        "id": "16552707",
+                        "comment": "\n我最近有幸看了一场邓紫棋的演唱会，看完之后的整体感觉十分震撼，她的演唱会整体达到了内地艺人的顶尖水平。那么这期视频给大家带来邓紫棋2024 I AM GLORIA世界巡回演唱会的全方位测评。本次测评将从演唱状态、编曲新意、人物塑造、舞台设计、舞蹈编排等各个角度来展开，每一项的满分为五分。\n邓紫棋的演唱状态可以打到五颗星，首先从年龄上看，邓紫棋32岁，仍然处于巅峰期，而现阶段在内地开演唱会的一线歌手很多年龄上已经不再占优势，比如周杰伦已经45岁，陈奕迅已经接近50岁，而同样是女歌手的蔡依林也已经43岁，相比较这些一线歌手，邓紫棋还是有着相当的年龄优势；从唱功来看，演唱会上展示的清唱稳定度比较高，特别是后半段持续的高音，确实是非常震撼的。我本身现场偶尔跟着唱也没有很大声，到后面也唱不动了，但是邓紫棋能长期保持良好的高音状态，是十分不易的。与其他某些使用大量垫音的歌手相比，邓紫棋全场都是没有垫音的真唱，虽然有些歌曲某些场次下音准有些波动，但是基本全场没有一首是车祸的歌，这点是非常不容易的。\n编曲新意是我特别看重的一个角度，这个角度主要衡量的是歌手的歌曲与CD之间的差别有多大，是否在音乐效果上能够达到或者整体超越CD。毕竟如果说演唱会还不如CD的水平的话，我们还不如在家听CD。我认为邓紫棋的演唱会基本上是超越了之前CD的效果，比如我很喜欢《再见》这首歌这里添加的Outro，比较好地拓展了这首歌的和声效果。不过大量经典歌曲特别是新歌的编曲跟CD没有太大差别，可能是因为这些歌曲原来的编排就已经很好了。这一项我能给到四分。\n邓紫棋演唱会的一大亮点是观众互动性非常强，这一项我打到了五分，这一点有很多体现，首先是在邓紫棋演唱会上求婚的情侣比较多，这是一个非常独特的歌迷的记忆，并且演唱会还有一个环节是给到情侣镜头然后情侣会自发性地接吻，这个环节也给我留下了很好的印象，另外GEM这首歌设计地也非常好，通过与歌迷互动的方式来很好地完成了这首歌，给歌迷留下了比较深刻的洗脑一样的印象。我在路上还忍不住回想“give me GEM“的这个过程，是比较震撼的。如果不亲身体会万人一起喊GEM的过程，是很难理解这种快感的。同时邓紫棋演唱会放了很多她成长过程中的照片，包括一些不开心的回忆，这点让演唱会的亲和力拉满。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/20ce33fa8c464c61b64f63c58b59d06c.jpg",
+                        "nickName": "Straw蓝",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1166627/233325563_1715700007117.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16548988",
+                        "comment": "蔡依林 Ugly Beauty-常州站",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/6300a0e2d1834c25b50a5754d244dd1a.jpeg",
+                        "nickName": "LastQuarterMoon",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/274707/54941535_1712895476632.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16544926",
+                        "comment": "最最最努力的人ƪ(˘⌣˘)ʃ",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/906d014afa3d4368b42298f5ed403daa.jpg",
+                        "nickName": "谙离丶",
+                        "userPic": "https://perico.damai.cn/userheadphotos/17703/3540758.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16539986",
+                        "comment": "说实话有那么点失望",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/6405c570678748a39bab498a24da9633.jpeg",
+                        "nickName": "麦子",
+                        "userPic": "https://perico.damai.cn/userheadphotos/297831/59566229.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16530767",
+                        "comment": "时尚重生，用完美定义女人",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/62383b0c19874eecb452420c0ee3e1f8.jpeg",
+                        "nickName": "玩美是种本能",
+                        "userPic": "https://perico.damai.cn/userheadphotos/31855/6371158.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16529265",
+                        "comment": "常州·蔡依林ugly Beauty",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/02874a342b5947958b96eadc09019853.jpeg",
+                        "nickName": "Nakayama",
+                        "userPic": "https://perico.damai.cn/userheadphotos/132043/26408607.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16527462",
+                        "comment": "蔡依林，高温补贴费你收到了吗？",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/1d75a243e9ac4442bc886a42dae2b62b.jpg",
+                        "nickName": "邱小滚",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/289725/57945111_1679107453146.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16478573",
+                        "comment": "我的Finale第三场——審陽站",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/c4e5776801c04bf6b963b82cbc72a13c.jpg",
+                        "nickName": "きたえん",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2222132/444426536_1701827581960.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16470475",
+                        "comment": "蔡依林",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/de3374cfcfbe4d55a42d7aa1676b49ce.jpg",
+                        "nickName": "南宫婉莹",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2213847/442769511_1690731087606.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16427803",
+                        "comment": "Ugly Beauty你怪美的💋\n\n尖叫划破漫长黑夜🙀\n\n参加了一场盛大的Party，演唱会全程的舞美、灯光、造型都是顶级❗️唱跳150分钟，气息平稳一点不喘，Diva 果然是 Diva💃🏻唱了很多限定彩蛋曲《你快乐吗》《舍不得》《即时生效》《离人节》～～还有《Someday，Somewhere》全球首唱，真的太值了🎊\n\t\n我想，我喜欢的不仅是她的音乐，更是她强大的精神内核，Girl‘s Power满满💪她用她的故事在告诉我们，正视自我的脆弱，从害怕到拥抱，从而由内在生出坚实的力量，成为自己的英雄🦸🏻\n\nBe myself，Be yourself👸🏻\n\n",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/a9b8b330f30f41ffbb1faba845f7c3e3.jpeg",
+                        "nickName": "被佑锡迷住了",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/513360/102672006_1720807153394.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16418040",
+                        "comment": "每一次感动，每一次ugly beauty",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/061173a2db864ad2b29c412309affe50.jpeg",
+                        "nickName": "MOMO00O",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/38080/7616131_1718099453021.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16350489",
+                        "comment": "      蔡依林在佛山的演唱会获得了广泛的好评。这场演唱会不仅展现了蔡依林出色的歌唱才华，还通过精彩的舞台设计和表演内容，为观众带来了一场视听盛宴。\n首先，从舞台设计来看，蔡依林的演唱会非常用心，舞台布置精美，视觉效果震撼。通过现代化的灯光和舞台效果，营造出了一个充满魔幻色彩的演出空间，让观众仿佛置身于一个梦幻的世界中。\n      其次，蔡依林在演唱会上演唱了多首经典歌曲，包括《说爱你》、《日不落》等，这些歌曲不仅展现了她的音乐才华，也让观众重温了那些年的青春记忆。蔡依林在演唱过程中，不仅展现了出色的唱功，还通过丰富的肢体语言和表情，与观众进行互动，让整个演唱会氛围非常热烈。\n此外，蔡依林还通过这次演唱会传达了积极向上的信息，鼓励观众勇敢追求自己的梦想。她的表演不仅是一场音乐的盛宴，也是一次精神的洗礼，让观众在享受音乐的同时，也能获得正面的能量和启发。\n        总的来说，蔡依林在佛山的演唱会是一次成功的演出，无论是从舞台设计、音乐表现还是精神传达方面，都获得了观众的高度评价。这场演唱会不仅让观众享受到了音乐的魅力，也让人们感受到了蔡依林作为一位艺术家的魅力和影响力。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/176fdaf14fa44489ab3531edf21549c7.jpg",
+                        "nickName": "UNIQUEV",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1197550/239510102_1693496617283.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16341350",
+                        "comment": "这个世界不能没有蔡依林",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/7db9c8566f0d4c39a8882c00f852fbd0.jpeg",
+                        "nickName": "渐渐521",
+                        "userPic": "https://perico.damai.cn/userheadphotos/33020/6604066.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16299772",
+                        "comment": "蔡依林济南演唱会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/87fd83b3e2b84da7a3d662409576d9dd.jpeg",
+                        "nickName": "果果酱的晴天",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1224729/244945840_1718029716135.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16292762",
+                        "comment": "爱一个人别带认真，爱蔡依林可以认真",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/a1ef3d7cfcd241b086781b6f87e9ac72.jpeg",
+                        "nickName": "jlovek425",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/116200/23240139_1684717491340.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16289839",
+                        "comment": "蔡姨的现场无法不吹，简直绝了",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/0b210eff411444a2bd7aa3d6823ebac4.jpg",
+                        "nickName": "盟主1987",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/453415/90683008_1693148690685.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16288737",
+                        "comment": "Jolin蔡依林",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/02e4c958641d4058ad323f3f1c1075e9.jpg",
+                        "nickName": "猪宝贝的老公",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1190192/238038477_1716043853535.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16288487",
+                        "comment": "最后的最后我们是“亲爱的对象”",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/dc742b388be64455bed14e061ea3f71c.jpg",
+                        "nickName": "ATINSHAN",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/203062/40612491_1681872729939.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16207936",
+                        "comment": "二刷蔡姐完成！去年在郑州首刷UB，嗨到爆，今年直接买了内场第一档，只可惜体验没能再升一档。😭大麦开出的V229排71号，本来是本人内场最靠前的一次了，可惜71号是仅次于最边上的72号，偏到已经上了跑道，🙄结果不管是看大屏还是延伸台都是完全被挡死，全场起立时歌词也看不见，蔡姐的身影也看不见，只能跟着大家一起乱嗨，气氛也感受到了，但总觉得体验差了一些，全场抻着脖子却也看不见想看的，唯一的安慰是太原的服务很暖心，接驳车接送伴手礼无人机这些都很到位，🫰只是座位让我不太尽兴😔",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/8a4da63f982845aaadc8f34463ecc288.jpg",
+                        "nickName": "17730556",
+                        "userPic": "https://perico.damai.cn/userheadphotos/452533/90506742.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16179439",
+                        "comment": "太原没有唱甜秘密！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/50db62b13b68413dae8291017c65026c.jpg",
+                        "nickName": "Jolin的甜椒婆",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2270973/454194703_1718264398312.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    }
+                ]
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1720841400000",
+                "sellStartTimeStr": "07月13日 11:30",
+                "priceRange": "¥490-¥1690",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "388674",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "1636290",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "4",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8138367635/2/813836763517.jpg"
+            }
+        }
+    }
+}

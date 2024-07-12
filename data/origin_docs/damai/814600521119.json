@@ -1,0 +1,446 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "2329",
+    "cityname": "秦皇岛",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_814600521119",
+    "imgurl": "-443929381",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2024阿那亚·虾米音乐节",
+    "nameNoHtml": "2024阿那亚·虾米音乐节",
+    "price": {
+        "range": "0"
+    },
+    "price_str": "0",
+    "pricehigh": "0.0",
+    "privilegeTags": "[]",
+    "projectid": "814600521119",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.08.30-09.01",
+    "sitestatus": "3",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": {
+        "lat": 39.659243,
+        "lng": 119.323453,
+        "region": "1",
+        "venueAddr": "阿那亚·黄金海岸 孤独图书馆北侧沙滩",
+        "venueCityName": "秦皇岛市",
+        "venueId": "1646011",
+        "venueName": "阿那亚·北戴河·黄金海岸",
+        "venueProvinceName": "河北省"
+    },
+    "venuecity": "秦皇岛",
+    "venueid": "1646011",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01e8956p2GdSc4YqY4y_!!2251059038.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "buyButton": {
+        "origin": "-41",
+        "status": "90",
+        "text": "预约抢票",
+        "tip": "提前选票档 抢票更丝滑"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN018pSbvo2GdSc6iPafb_!!2251059038.jpg\" width=\"853\" height=\"1299\" damai_width=\"853\" damai_height=\"1299\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01zH7Xex2GdSc3fbgAa_!!2251059038.jpg\" width=\"1127\" height=\"2440\" damai_width=\"1127\" damai_height=\"2440\"></p></body></html>",
+        "introduceTitle": "演出介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "brands": [
+            {
+                "bgPicUrl": "https://img.alicdn.com/imgextra/i2/O1CN01RzZbc91MqdKL1S8tn_!!6000000001486-0-tps-1125-1269.jpg",
+                "desc": "虾米音乐娱乐是大麦旗下音乐内容厂牌，基于内容、场景和音乐人形成三大业务板块，致力于演出内容制作、影视音乐制作和新人发掘计划。",
+                "fansCount": "1673276",
+                "fansCountStr": "167.3万",
+                "id": "656",
+                "label": "虾米音乐娱乐，看见不同",
+                "name": "虾米音乐娱乐",
+                "picUrl": "https://img.alicdn.com/imgextra/i3/O1CN01wl7qls1wLmomLnZSa_!!6000000006292-0-tps-720-720.jpg",
+                "tag": "品牌"
+            }
+        ],
+        "mediaList": [
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "https://mec-comment.damai.cn/dy/img/20230613/cb0a478f6296c01c9d73214481e5b0b9.jpg",
+                "type": "2",
+                "videoUrl": "https://dianying.taobao.com/PlayVodShowH5?videoId=XNTk3MTU1MzkwNA==&timestamp=1686667667209&streamType=hd&sign=9eff5f2f6fe336a0fe28a2ac72151127"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "https://mec-comment.damai.cn/dy/img/20230829/a09dfe5b234967af26846ef37ad8fe79.jpg",
+                "type": "2",
+                "videoUrl": "https://dianying.taobao.com/PlayVodShowH5?videoId=XNjAxMDU4MTM2NA==&timestamp=1693335888291&streamType=hd&sign=5944d47e0e4c9896e891469ea1cdafe3"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "https://mec-comment.damai.cn/dy/img/20230829/790cec431f6e079e87207bc8a95f55ab.jpg",
+                "type": "2",
+                "videoUrl": "https://dianying.taobao.com/PlayVodShowH5?videoId=XNjAxMzI0OTQ0MA==&timestamp=1693308072383&streamType=hd&sign=155850da234b43536b9d0a2090da7894"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "https://mec-comment.damai.cn/dy/img/20230829/b142649f07c5e9cac62acaafea184b81.jpg",
+                "type": "2",
+                "videoUrl": "https://dianying.taobao.com/PlayVodShowH5?videoId=XNjAxMzI1MjM4OA==&timestamp=1693308514134&streamType=hd&sign=d9f701b74f920d1dda0f7087578026fb"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "https://mec-comment.damai.cn/dy/img/20230913/9072247647d5c781597aad1cce5b13b1.jpg",
+                "type": "2",
+                "videoUrl": "https://dianying.taobao.com/PlayVodShowH5?videoId=XNjAyNTAwOTg4NA==&timestamp=1694593039797&streamType=hd&sign=f8e296c423fc1943b88eb6a92af8738d"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "https://mec-comment.damai.cn/dy/img/20240711/a185cb65c523d2e70c7be8965b80da25.jpg",
+                "type": "2",
+                "videoUrl": "https://dianying.taobao.com/PlayVodShowH5?videoId=XNjQwNTI2NjE0NA==&timestamp=1720672618039&streamType=hd&sign=d452fbf1db065b397a69b24276007740"
+            }
+        ],
+        "showGuides": [
+            {
+                "comment": "夏日爆款推荐，阳光沙滩海浪，音乐节顶配",
+                "id": "13976483",
+                "nickName": "pastadai",
+                "picUrl": "https://comment-cdn.damai.cn/dynimg/fa1c93e5d60146a0bc8f0578de6b472e.jpg",
+                "showVideoIcon": "true",
+                "type": "STRATEGY",
+                "userPic": "https://perico.damai.cn/userheadphotosnew/193839/38767921_1697459582304.jpg"
+            },
+            {
+                "comment": "以此标记沈阳专场\n\n🎸MONO乐队\n来自日本的后摇乐队，真·暴力美学，我一度用小拳拳捂好胸口怕给自己梗过去。前阵子读陈春成的夜晚的潜水艇，最后一个故事音乐家里的人物看乐谱听音乐会浮现出各种意象，今天算是浅体验了一把。一个半小时我闭着眼睛画面有日出/山峦/潮汐/海啸/地震/爆炸/血液/搏击/黑洞/宇宙/光斑/旧工厂/旧车床/城市噪光……非常神奇的体验，更神奇的是，这么“暴力”的曲子竟然是我在公司的午睡专用曲，听着MONO中午深睡眠然后一点二十准时苏醒😂",
+                "id": "12567175",
+                "nickName": "一颗小田",
+                "picUrl": "https://comment-cdn.damai.cn/dynimg/964f76b9fa43404aa572e9a6b974f712.jpeg",
+                "showVideoIcon": "true",
+                "type": "STRATEGY",
+                "userPic": "https://perico.damai.cn/userheadphotos/225114/45022821.jpg"
+            },
+            {
+                "comment": "舞台音响效果是我听了这么多音乐节里最好的\n就是交通真的很不方便 毕竟出了阿那亚 真的就荒地\n12年听的痛仰现场 一下子十几年过去了\n再听现场感觉他们也有种中年人的佛性气息了\n最后的聊天说的是真心话啊\n虾米app没了 但居然还有音乐节\n相信它是有一颗真的热爱音乐的心\n另外看了suede的现场 能量太强了 仿佛真的是用生命在演唱 感觉国内的摇滚乐队现场仿佛是在敷衍观众（特指盘XXX）",
+                "id": "12502461",
+                "nickName": "不不不囧",
+                "picUrl": "https://comment-cdn.damai.cn/dynimg/50c874f951504329af4648f2a6fc93c8.jpeg",
+                "showVideoIcon": "true",
+                "type": "STRATEGY",
+                "userPic": "https://perico.damai.cn/userheadphotos/283155/56631032.jpg"
+            },
+            {
+                "comment": "作为综艺迷，今天第一次看白皮书现场，在echo专场里觉得很神奇，主唱和鼓手非常可爱，talk时交流的话题都是“不许说我胖了”这类接地气的话，感觉不端着，也挺放得开的，非常不错！我期待后续在其他音乐场里还能碰到他们。",
+                "id": "9322991",
+                "nickName": "手扶拖拉女司机",
+                "picUrl": "https://img.alicdn.com/imgextra/i4/O1CN017jroUo1T3LxejWXvJ_!!0-alitrip.jpg",
+                "showVideoIcon": "true",
+                "type": "STRATEGY",
+                "userPic": "https://perico.damai.cn/userheadphotos/126738/25347613.jpg"
+            },
+            {
+                "comment": "Colorfulbar彩文乐队的网易云大热999+歌曲《1995》也在这次音乐节听到，现场的氛围好像提前进入了重金属音乐式的嗨翻模式，好多前排的乐迷被举起来托着传到后面，不过我这个社恐患者并没有参与到托举中hhh😂\n\n其实这首歌的前奏比较具有电子迷幻，不像是那种可以燃爆全场的曲目，然而到了歌曲中后期主唱胡然加入黑嗓之类的摇滚元素，使得这首歌渐入佳境，最后才有了这种几乎重金属或者夜店DJ舞曲音乐现场才有的场面。",
+                "id": "9315100",
+                "nickName": "丹绒马林有颗树",
+                "picUrl": "https://comment-cdn.damai.cn/dynimg/da0c5c1765d44eec9cba9e89cce67ccb.jpg",
+                "showVideoIcon": "true",
+                "type": "STRATEGY",
+                "userPic": "https://perico.damai.cn/userheadphotos/141344/28268889.jpg"
+            },
+            {
+                "comment": "第一次在livehouse里人挤人站了五个多小时没动窝，可比爬山累多了。。。\n野孩子的现场，有机会一定要来听！张佺1968年生人，声音依旧清亮辽远，最可气的是一头卷发特老艺术家，发量顶我六个。。。  ",
+                "id": "9307667",
+                "nickName": "减雷",
+                "picUrl": "https://comment-cdn.damai.cn/dynimg/16dae53f36e247c4b4e76bec034c9f64",
+                "showVideoIcon": "false",
+                "type": "STRATEGY",
+                "userPic": "https://perico.damai.cn/userheadphotos/121569/24313933.jpg"
+            },
+            {
+                "comment": "目前北京最大的livehouse，首次举办了虾米音乐节。阵容口味确实不少，各看口味，好几天呢。\n地址：靠近望京南，坐地铁十四号线走过来没多远；晚上地铁返程差意思，十四号线末班车往南结束很早；开车的话，每小时收费4或者5元，看一场演出下来还可以，毕竟园区，很多车位。\n价格：这次演出价格定位非常奇特，从第一天开始，一共四支乐队399，快赶上音乐节双日票。这样算下来，就有些不划算，要是180早鸟、220预售、260全价可以接受，毕竟那么大场地呢。\n差评：五号之前开票时买了两张，后来淘票vip领票，以及还有可以填问卷得票的活动，导致心理失衡。毕竟是场地或者虾米首场，定价之高，导致人不多，后来开始赠票，就比较尴尬。\n其他：水泥地板，蹦起来费腿，而且现场的调音师灯光师似乎不太专业，希望后面补足。",
+                "id": "9307567",
+                "nickName": "达摩不再相信佛法",
+                "picUrl": "https://comment-cdn.damai.cn/dynimg/e1ea92d8bfbc4ef38fb1f8c85786bc0e.jpg",
+                "showVideoIcon": "true",
+                "type": "STRATEGY",
+                "userPic": "https://perico.damai.cn/userheadphotos/195398/39079739.jpg"
+            },
+            {
+                "comment": "让我找回了以前去live现场的氛围感。",
+                "id": "9307013",
+                "nickName": "丹绒马林有颗树",
+                "picUrl": "https://sentiment.damai.cn/feedBack/3eaHdTycW872ThSe6EFk.jpg",
+                "showVideoIcon": "false",
+                "type": "STRATEGY",
+                "userPic": "https://perico.damai.cn/userheadphotos/141344/28268889.jpg"
+            }
+        ],
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i1/O1CN01JSYxme1pHw65ihWBV_!!6000000005336-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotos/596523/119304792.jpg",
+                "https://img.alicdn.com/imgextra/i4/O1CN01so1NLY1lEx3KreQfP_!!6000000004788-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotos/832694/166538800.jpg",
+                "https://img.alicdn.com/imgextra/i3/O1CN01sUUZpm1tgRkwPdMX0_!!6000000005931-0-tps-500-500.jpg"
+            ],
+            "wantNum": "10688",
+            "wantNumStr": "1.1万",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01R3THyh1QT3Y3gWguc_!!6000000001976-2-tps-1125-702.png",
+        "categoryId": "127420006",
+        "cityName": "秦皇岛市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "ipId": "691",
+        "itemId": "814600521119",
+        "itemName": "【秦皇岛】2024阿那亚·虾米音乐节",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01e8956p2GdSc4YqY4y_!!2251059038.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "130300",
+        "performSeatImages": [],
+        "projectId": "221402006",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "3",
+                    "name": "军官证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                },
+                {
+                    "id": "7",
+                    "name": "港澳台居民居住证"
+                },
+                {
+                    "id": "8",
+                    "name": "外国人永久居留身份证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "以现场为准",
+        "showTime": "2024.08.30-09.01",
+        "tcCategoryId": "0301030100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "215666035",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=814600521119",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须携带购票时对应证件验证入场。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/港澳居民来往内地通行证/身份证/港澳台居民居住证/军官证/外国人永久居留身份证/护照",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约90分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "10",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过身份证验票入场",
+                "tagDescWithStyle": "通过身份证验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：北京大麦文化传播有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：北京大麦文化传播有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}

@@ -1,0 +1,54 @@
+{
+    "platform": "大麦",
+    "project_id": "812835638667",
+    "project_name": "痛仰乐队「三四五」巡演沧州站",
+    "category_name": "演唱会",
+    "artists": [
+        "痛仰乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.07.22 周一 19:30",
+    "session_time": [],
+    "price": "300",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "沧州",
+    "venue_name": "沧州会展中心荀慧生大剧院",
+    "venue_info": {
+        "venue_address": "沧州市运河区吉林南大道(沧州市国际会展中心)",
+        "lng": 116.802854,
+        "lat": 38.302668
+    },
+    "project_info": "*沧州站演出场地为剧院，但现场不对号入座，座位先到先得，请悉知。\n\n自2022年夏日起，痛仰开启「三四五」主题巡演，演出相继在众多三四五线城市展开，我们探索着每座小城的特有属性，感受着当地乐迷的别样热情。\n再往前追溯，从20年前的全国巡演开始，到7年前的「百城巡演」，再到后来的「二十四城」，“在路上”三个字一直伴随着痛仰的音乐历程，并成为我们践行信仰的实际行动。\n淄博的烧烤、哈尔滨的冻梨，以及今年夏天阿勒泰的青青草地，让我们再次意识到独属于每块土地的美丽。所以2024年度「三四五」主题巡演将带着我们一如既往的初心，继续去到更多三四五线城市。\n\n作为此次巡演的第一站，临水而生、河海相济的沧州，伫立着历经风雨变迁的镇海吼铁狮子。\n本轮演出依然延续往期「三四五」的配置，以大乐队、全编制的形式进行，个别站次会邀请后浪音乐人作为嘉宾参与其中，并在演出的同时探寻当地的风光名胜及风土人情。\n \n尽管他们以三四五为名我们却觉得每座城都是唯一或藏于群山之中 不言不语或落于江河之畔 静水流深有些街巷深幽 有些砖瓦斑驳静静诉说着厚重的历史这个夏天 我们继续现场见\n \n\n【演出详情】7月22日-沧州荀慧生大剧院地址：沧州国际会议中心演出时间：19:30\n【开票时间】7月9日 12:00\n \n*沧州站演出场地为剧院，但现场不对号入座，座位先到先得，请悉知。\n【退票机制】\n7月9日12:00-7月10日12:00，免费退票；7月10日12:01-7月12日12:00，按门票票面金额的20%收取退票手续费；7月12日12:01后，不予退票。",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01kpST362GdSc4A27yp_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01xcjXHN2GdSc5DTnQZ_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01AHIaii2GdSc39gymX_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01sQLDfB2GdSc0weEdp_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "4941",
+        "wantNumStr": "4941",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "815003632760",
+            "cityName": "吉安站",
+            "showTime": "07.24"
+        },
+        {
+            "itemId": "815003300371",
+            "cityName": "景德镇站",
+            "showTime": "07.26"
+        },
+        {
+            "itemId": "812835638667",
+            "cityName": "沧州站",
+            "showTime": "07.22"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=812835638667"
+}

@@ -1,0 +1,705 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：周华健",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "2812",
+    "cityname": "长春",
+    "couponTags": "[]",
+    "description": "艺人：周华健",
+    "id": "1_1_812688269355",
+    "imgurl": "-463051899",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "周华健「少年侠客」巡回演唱会-长春站",
+    "nameNoHtml": "周华健「少年侠客」巡回演唱会-长春站",
+    "price": "0.0",
+    "price_str": "0",
+    "pricehigh": "0.0",
+    "privilegeTags": "[]",
+    "projectid": "812688269355",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.08.24 周六 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "长春五环体育馆",
+    "venuecity": "长春",
+    "venueid": "53007",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Uv0Gc42GdSc26yZI1_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "812688269355",
+                    "itemName": "【长春】周华健「少年侠客」巡回演唱会-长春站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "220100",
+                    "cityName": "长春市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Uv0Gc42GdSc26yZI1_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Uv0Gc42GdSc26yZI1_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.08.24 周六 19:30",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京大麦文化传媒发展有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：北京大麦文化传媒发展有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "2812",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>2024周华健［少年侠客］巡回演唱会-长春站</p>\n<p>2024年 「国民歌王」周华健 世界巡回再度起航</p>\n<p>老灵魂新生命 「少年侠客」双主题经典演绎</p>\n<p>一场演唱会 两面周华健</p>\n<p>在纷乱不安的年代 留住温暖隽永的情怀</p>\n<p>&nbsp;</p>\n<p>历经沧桑的世界慢慢在寻找愈合的管道，我们迎来一个复苏与重生的新时代。许多人经过了外在剧烈的翻转与内在宁静的沉淀，对人生有了不同体会。多少坎坷，都打击不了一个还能哈哈笑的人，只要依然相信人与人之间的温度，听听华健暖心的歌，未来还是充满希望！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01gG9D4o2GdSc2LTdIS_!!2251059038.png\" width=\"832\" height=\"554\" damai_width=\"832\" damai_height=\"554\"></p>\n<p>选在这样的时刻开启巡回演唱会，也是华健想动身出发、用音乐问候朋友们的心意。有些人不再见了，有些梦已淡忘了，但一路陪着我们的华健，还是唱着每一首歌的快乐，与记忆紧紧相连。华健将生命历练都融在专辑【少年】里，许多体会也将搬上大舞台与歌迷分享。他依然是最初那个爱唱歌的男孩，「风雨无阻」、「孤枕难眠」地唱着，他关心「你现在还好吗」，他低语「让我欢喜让我忧」，他串起世间的「爱相随」。多少年，他始终「站在全世界的屋顶」静静地存在，是我们身旁不离不弃的「朋友」。</p>\n<p>&nbsp;</p>\n<p>2023年9月2日，周华健「少年侠客」世界巡回演唱会从北京启程，走过深圳、济南、哈尔滨、上海...每一首经典歌曲，都唤起大家的侠客情怀。2024年周华健「少年侠客」世界巡回演唱会再度起航，去到更多的城市，期待新朋老友再相聚。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN014LkUhy2GdSc3u7vfZ_!!2251059038.png\" width=\"832\" height=\"554\" damai_width=\"832\" damai_height=\"554\"></p>\n<p>在这次巡回的节目中，周华健将老灵魂里灌注新生命，献上「少年侠客」双主题演唱会。引领观众像翻开一本小说，上卷看新时代的经典武侠（侠客），下卷听一路至今隽永的好歌绵延（少年）；旧歌提炼出新生命，新歌则听见华健的自身领悟，一场层次丰富的音乐飨宴。整体舞台也将配合上下卷呈现截然不同的设计，将现代武侠奇观，与日常的音乐场景交错，极致线条与虚实元素变换，有如一次观赏两场演唱会，两面周华健，曲目成双，心意成双，听好听满。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01cgqoEH2GdSc1GSvxs_!!2251059038.png\" width=\"832\" height=\"554\" damai_width=\"832\" damai_height=\"554\"></p>\n<p>【上卷：侠客行】</p>\n<p>江湖在刀剑如梦，</p>\n<p>江湖在难唸的经，</p>\n<p>江湖在天下有情人，</p>\n<p>江湖在周华健的歌中，沸沸扬扬。</p>\n<p>名字中藏着「华山之剑（健）」，</p>\n<p>华健的歌手生涯，命定成江湖。</p>\n<p>他以麦克风为剑，曲式为招，以歌声传江湖。</p>\n<p>世道纷乱，我们更常念及情义为本的纯洁。</p>\n<p>渴望一个理想形象，引领我们的人生行旅。</p>\n<p>在华健的歌声里，</p>\n<p>那令人向往的江湖，历历在目，</p>\n<p>是永不消音的歌曲，</p>\n<p>给我们一个生生不息的武侠大梦。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01sC0Q7c2GdSc3hGlwc_!!2251059038.png\" width=\"832\" height=\"554\" damai_width=\"832\" damai_height=\"554\"></p>\n<p>【下卷：少年游】</p>\n<p>过去在华健的歌里，我们听见爱；</p>\n<p>如今在华健的音乐里，我们听见人生。</p>\n<p>从一只麦克风唱到一把高脚椅与吉他，</p>\n<p>他把整个人生唱成一首给你的歌。</p>\n<p>一路越走越深入灵魂的华健，</p>\n<p>在放下包袱、回归初心之后，</p>\n<p>正一页一页翻开他年少时难有机会显露的幽默与智慧。</p>\n<p>他笑谈「我吃故我在」，也抱怨「佛洛伊德惹的祸」，</p>\n<p>现在他更通透音乐的本质：是放手去玩。</p>\n<p>他用胸襟宽广的坚持，向我们演绎他一生的挚爱。</p>\n<p>一个极致圆润、纯熟的周华健，</p>\n<p>从年少的岁月，唱回少年的初心，</p>\n<p>从「花心」到「少年」，</p>\n<p>经典值得我们一次又一次，再次聆听。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN015isBjo2GdSc58HILC_!!2251059038.png\" width=\"832\" height=\"554\" damai_width=\"832\" damai_height=\"554\"></p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/港澳居民来往内地通行证/身份证/港澳台居民居住证/外国人永久居留身份证/护照"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "周华健"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "53007",
+                    "venueName": "长春五环体育馆",
+                    "venueProvinceName": "吉林省",
+                    "venueCityName": "长春市",
+                    "lng": 125.345916,
+                    "lat": 43.86941,
+                    "venueAddr": "长春市南关区亚泰大街4899号",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "812688269355",
+                        "cityName": "长春站",
+                        "showTime": "08.24",
+                        "tourId": "4242"
+                    },
+                    {
+                        "itemId": "805951085369",
+                        "cityName": "杭州站",
+                        "showTime": "09.15",
+                        "tourId": "4242"
+                    },
+                    {
+                        "itemId": "808968514548",
+                        "cityName": "合肥站",
+                        "showTime": "10.03",
+                        "tourId": "4242"
+                    },
+                    {
+                        "itemId": "808612268656",
+                        "cityName": "重庆站",
+                        "showTime": "10.19",
+                        "tourId": "4242"
+                    },
+                    {
+                        "itemId": "800227769860",
+                        "cityName": "成都站",
+                        "showTime": "07.20",
+                        "tourId": "4242"
+                    },
+                    {
+                        "itemId": "805182327097",
+                        "cityName": "郑州站",
+                        "showTime": "08.31",
+                        "tourId": "4242"
+                    },
+                    {
+                        "itemId": "798586871637",
+                        "cityName": "广州站",
+                        "showTime": "09.07",
+                        "tourId": "4242"
+                    },
+                    {
+                        "itemId": "798319778904",
+                        "cityName": "南昌站",
+                        "showTime": "08.10",
+                        "tourId": "4242"
+                    },
+                    {
+                        "itemId": "787267702007",
+                        "cityName": "南京站",
+                        "showTime": "08.17",
+                        "tourId": "4242"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=812688269355"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D812688269355%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "2026",
+                        "artistName": "周华健",
+                        "archives": "中国台湾著名创作歌手、音乐人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1521704732893/1521704732893-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "2026",
+                        "name": "周华健",
+                        "desc": "中国台湾著名创作歌手、音乐人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1521704732893/1521704732893-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "16593",
+                    "wantNumStr": "1.7万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过72%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01uK2rVR245JPpd1bSf_!!6000000007339-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/298279/59655958.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01GQ87pz1DKj6sWkQVe_!!6000000000198-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/454208/90841601.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01oExvMe1ZSRKI2YUn4_!!6000000003193-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "23616332635",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1691997457153/1691997457153-main.jpg",
+                    "note": "听听华健暖心的歌，未来还是充满希望！",
+                    "categoryName": "其他",
+                    "title": "周华健[少年侠客]演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊",
+                "inFieldComments": [
+                    {
+                        "id": "16499884",
+                        "comment": "刀剑如梦快意恩仇，恣意的人生只有华健",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/b8e45e96f17f4f92914914e9b2b469e5.jpg",
+                        "nickName": "嚒嚒叽爱音乐",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1155966/231193383_1681130815291.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14249767",
+                        "comment": "跟着周华健的歌感受江湖儿女情",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/701f870d85bf412baba4f10c14917ef1.jpg",
+                        "nickName": "klashe",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/276600/55320072_1692835821391.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14006048",
+                        "comment": "94年哪有什么移动互联网，\n放学到家赶紧吃完晚饭做完功课七点半准时打开电视机啃着冰西瓜看倚天屠龙记，\n马景涛叶童孙兴还有本人心中最美周芷若\n眉心那一颗红点、黑化前后眼神变化真的神化了。\n\n上个月单纯为这部电视剧的主题曲抢了票，\n来现场怀念儿时那些无忧无虑、不紧不慢的青葱日子，\n现在 也怀念下这位逝去的美女姐姐，\n愿好。\n\n0和音\n3套服装（后两套我觉得是优衣库同款）\n看过最简单舞美灯光\n周围很多白发奶奶爷爷大师大伯阿姨还有坐轮椅来的\n促成本人今年看过的最“冷静”演唱会[破涕为笑]\n但华健蜀黍纯靠一把好嗓子唱足2.5小时👏 我也两度鼻酸[流泪]\n连同辈的哲哥我此刻就很想@他请不要翻那么多和音服装花头好吧😑",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/2b55eea38a9a4a859c90afc62a67ee1f.jpeg",
+                        "nickName": "JerryJeang",
+                        "userPic": "https://perico.damai.cn/userheadphotos/40987/8197505.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13996178",
+                        "comment": "周华健大哥在演唱会上说，这首歌，献给最美的周芷若。\n直接泪目。\n佳人已不在，刀剑曾入梦。\n那一段江湖长歌，是多少人的求不得，放不下。\n是可以不断重温的煌煌经典，如今，也许，已不忍再回看。\n但那位浅笑靥然、出尘脱俗的仙子道姑，那位敢爱敢恨的红尘侠女，那珠清泪滑过面颊，点点滴滴，俱在心间，从未忘怀。😭",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/ec7ec34048974b169a727e442e1c9c42.jpeg",
+                        "nickName": "谷玄",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/13923/2784762_1712390798918.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13996135",
+                        "comment": "感谢淘麦VIP会员、头号玩家的邀请，在黑钻包厢体验极致的音乐享受。\n周华健作为流行乐坛的常青树，演绎了一首又一首老歌，以及一首又一首新歌。虽然他自己自嘲，是4年前的新歌了。\n整场演出，有流行，有武侠，有怀念，有鼓励。\n有彼此的青春，也有都会触及的未来。\n有风雨无阻的热血，也有明天就要嫁给你的柔情。\n有那个懵懂无措的纯真少年，也有一生情一杯酒的友谊。\n感谢华健哥，感谢那个黄金年代，感谢优秀的创作人，感谢屠颖老师，今天的钢琴伴奏很棒。\n感谢你们为岁月谱下动人的旋律，让我们可以对这个世界报之以歌，在过去和未来的岁月永远永远温暖着每一个人。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/63bad344aeff4e8ebf40ba91a8b1af12.jpeg",
+                        "nickName": "谷玄",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/13923/2784762_1712390798918.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13256297",
+                        "comment": "期待了很久的周华健演唱会！是从小收音机里的声音。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/600d0f91335c47dd96aff9dfab7d4906.jpg",
+                        "nickName": "熹華",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/119688/23937779_1678348240075.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "8556061",
+                        "comment": "恋曲1980-周华健",
+                        "picUrl": "http://mec-comment.damai.cn/dy/img/20200929/b0a4c1a6b6fd69b3686963601f165485.jpg",
+                        "nickName": "我爱演唱会-",
+                        "userPic": "https://perico.damai.cn/userheadphotos/793379/158675806.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "8555909",
+                        "comment": "凡人歌 - 周华健 罗大佑 李宗盛 张震岳",
+                        "picUrl": "http://mec-comment.damai.cn/dy/img/20200929/d509ac264fb2f3962166c5a9004e0a59.jpg",
+                        "nickName": "我爱演唱会-",
+                        "userPic": "https://perico.damai.cn/userheadphotos/793379/158675806.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "8547114",
+                        "comment": "周华健《爱相随》演唱会现场版，一首经典老歌, 满满的回忆",
+                        "picUrl": "http://mec-comment.damai.cn/dy/img/20200926/e1b954a48c2b42962c235281ef54ce60.jpg",
+                        "nickName": "我爱演唱会-",
+                        "userPic": "https://perico.damai.cn/userheadphotos/793379/158675806.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "8544040",
+                        "comment": "周华健吉他弹唱《少年》",
+                        "picUrl": "https://gw.alicdn.com/tfs/TB1NjAmY.Y1gK0jSZFMXXaWcVXa-400-400.gif",
+                        "nickName": "最爱音乐现场",
+                        "userPic": "https://perico.damai.cn/userheadphotos/793388/158677633.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    }
+                ]
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1720410965000",
+                "sellStartTimeStr": "07月08日 11:56",
+                "priceRange": "¥0",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8126882693/2/812688269355.jpg"
+            }
+        }
+    }
+}

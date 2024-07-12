@@ -1,0 +1,331 @@
+{
+    "searchType": "SHOW",
+    "showId": "668a3fc735c7330001f5d9eb",
+    "stdShowId": "668a3fc735c7330001f5d9e9",
+    "showName": "【长春】小沈阳2024《我不！是歌手》巡回演唱会--长春站",
+    "showDate": "2024.09.07 19:30",
+    "cityName": "长春",
+    "cityId": "2201",
+    "showStatus": "PENDING",
+    "minOriginalPrice": "298.0",
+    "posterUrl": "https://cdn.ticketmars.com/image/prod/20240707_85/17203363975969063.png",
+    "venueId": "5af11418908c384f15961ab6",
+    "venueName": "长春经济技术开发区体育场",
+    "backendCategory": "{'code': 17, 'displayName': '演唱会', 'name': 'YanChangHui'}",
+    "isFree": "False",
+    "firstShowTime": "1725708600000",
+    "lastShowTime": "1725714000000",
+    "minOriginalPriceInfo": "{'yuanNum': '298', 'centNum': '', 'suffix': '起', 'prefix': '￥'}",
+    "latestShowTime": "1725708600000",
+    "showSessionDates": "['20240907']",
+    "soldOut": "False",
+    "sessionNum": "1",
+    "seatPlanNum": "5",
+    "rsCode": 200,
+    "basicInfo": {
+        "hotMode": true,
+        "stdShowId": "668a3fc735c7330001f5d9e9",
+        "showName": "【长春】小沈阳2024《我不！是歌手》巡回演唱会--长春站",
+        "sourceType": "SELF_BUILT_EXTERNAL_PRODUCE",
+        "originalSeatPickType": "SUPPORT_NONE",
+        "contentUrl": "https://cdn.ticketmars.com/prod/showContent/668a3fc735c7330001f5d9eb/content_668a40985ee83d000124a2e6.content",
+        "posterUrl": "https://cdn.ticketmars.com/image/prod/20240707_85/17203363975969063.png",
+        "posterColor": "#994826ff",
+        "venueId": "5af11418908c384f15961ab6",
+        "venueName": "长春经济技术开发区体育场",
+        "venueAddress": "吉林省长春市东南部，毗邻长春国际会展中心及净月潭国家森林公园",
+        "venueLat": 43.839472,
+        "venueLng": 125.397015,
+        "cityId": "2201",
+        "cityName": "长春市",
+        "onSaleShowCount": 1,
+        "showTags": [],
+        "authorizationUrl": "",
+        "minOriginalPriceInfo": {
+            "yuanNum": "298",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "maxOriginalPriceInfo": {
+            "yuanNum": "998",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "showDate": "2024年09月07日 19:30",
+        "showDuration": "约120分钟（以现场为准）",
+        "displayAdvance": false,
+        "venueDisplayAdvance": false,
+        "sessionDisplayAdvance": false,
+        "seatPlanDisplayAdvance": false,
+        "showType": {
+            "name": "YanChangHui"
+        },
+        "showDetailStatus": "PENDING",
+        "existsPrivilegePurchase": false,
+        "displayCountdownTime": true,
+        "captchaTypes": [],
+        "tourId": "66645d6ba356a100017f8324"
+    },
+    "additionalInfo": {
+        "hasCoupon": true,
+        "hasPromo": false,
+        "hasAddPurchase": false,
+        "hasUserPromo": false,
+        "hasPCard": false,
+        "hasPriority": false,
+        "hasChannelDiscount": false,
+        "checkChannelFreeCombo": false,
+        "channelPickSeatProject": false,
+        "hasTyingSale": false,
+        "hasJumpGuid": false
+    },
+    "descInfo": {
+        "observationInstructions": [
+            {
+                "key": "TICKETS_AND_ADMISSION",
+                "name": "票品及入场",
+                "value": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场",
+                "isMarked": false,
+                "isOrderMarked": true,
+                "seq": 1
+            },
+            {
+                "key": "ENTRY_TIME",
+                "name": "入场时间",
+                "value": "请于开始前约120分钟入场，演出开始90分钟停止检票，请提前安排好出行方式和时间。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "SHOW_DURATION",
+                "name": "演出时长",
+                "value": "约120分钟（以现场为准）",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "MAIN_ACTOR",
+                "name": "主要演员(团体)",
+                "value": "小沈阳",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "MINIMUM_SHOW_DURATION",
+                "name": "最低演出时长",
+                "value": "约120分钟（以现场为准）",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "MINIMUM_SHOW_NUMBER",
+                "name": "最低演出曲目",
+                "value": "20首（以现场为准）",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            },
+            {
+                "key": "RESTRICTED_ITEM",
+                "name": "禁止携带物品",
+                "value": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 7
+            },
+            {
+                "key": "LUGGAGE_DEPOSIT",
+                "name": "物品寄存",
+                "value": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 8
+            }
+        ],
+        "ticketInstructions": [
+            {
+                "key": "CHILDREN_INTRODUCTION",
+                "name": "儿童购票",
+                "value": "儿童一律凭票入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "REAL_NAME_PURCHASE_TICKET_INTRODUCTION",
+                "name": "实名购票规则",
+                "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证",
+                "isMarked": false,
+                "tagContent": "门票对应唯一证件(身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证)",
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "EXCEPTION_ORDER_INTRODUCTION",
+                "name": "异常排单说明",
+                "value": "对于异常订购行为，商家有权在订单成立或者生效之后取消相应订单。 异常订购行为包括但不限于以下情形： （1）通过同一ID订购超出限购张数的订单。 （2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "EXCHANGE_POLICY",
+                "name": "退换政策",
+                "value": "本项目支持有条件退，具体退票细则详见演出介绍",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "INVOICE_INTRODUCTION",
+                "name": "发票说明",
+                "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具.",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "1720340065396",
+                "name": "限购说明",
+                "value": "每个场次限购6张。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            }
+        ],
+        "markedTextList": []
+    },
+    "noteInfos": [
+        {
+            "name": "支持有条件退",
+            "value": "",
+            "type": true,
+            "code": "CONDITION_REFUND",
+            "refundCfg": {
+                "showName": "【长春】小沈阳2024《我不！是歌手》巡回演唱会--长春站",
+                "rateItems": []
+            }
+        },
+        {
+            "name": "实名观演",
+            "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证",
+            "type": true,
+            "code": "REAL_NAME_TICKET"
+        },
+        {
+            "name": "电子票-身份证",
+            "value": "通过身份证件，可以直接验票入场（具体以下单后票舱信息为准）",
+            "type": true,
+            "code": "ID_CARD"
+        },
+        {
+            "name": "发票说明",
+            "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具.",
+            "type": false,
+            "code": "BILL_APPLY"
+        }
+    ],
+    "announcement": [],
+    "whiteTags": [],
+    "watcherReplacer": "观演",
+    "tour": {
+        "id": "66645d6ba356a100017f8324",
+        "tourName": "小沈阳2024《我不！是歌手》巡回演唱会",
+        "tourPosterUrl": "https://cdn.ticketmars.com/image/prod/20240608_63/17178535324662923.jpg",
+        "shows": [
+            {
+                "showId": "65f2b4c09a167000019a2e64",
+                "showName": "【大连】小沈阳2024 《我不！是歌手》巡回演唱会-大连站",
+                "showDate": "07.13",
+                "cityName": "大连站",
+                "showStatus": "PRESALE",
+                "existLatestSaleTime": false,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240314_90/17104048735233032.jpg",
+                "showStatusTag": "预订中"
+            },
+            {
+                "showId": "66370f4e125fc00001fdb526",
+                "showName": "【青岛】小沈阳2024《我不！是歌手》巡回演唱会--青岛站",
+                "showDate": "07.27",
+                "cityName": "青岛站",
+                "showStatus": "PRESALE",
+                "existLatestSaleTime": false,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240505_97/17148844765128666.jpg",
+                "showStatusTag": "预订中"
+            },
+            {
+                "showId": "6684cd90ccead90001a603b5",
+                "showName": "【临沂】小沈阳2024《我不！是歌手》巡回演唱会--临沂站",
+                "showDate": "08.10",
+                "cityName": "临沂站",
+                "showStatus": "PRESALE",
+                "existLatestSaleTime": false,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240703_50/17199794941654850.png",
+                "showStatusTag": "预订中"
+            },
+            {
+                "showId": "66504cf61d06bc000168206b",
+                "showName": "【石家庄】小沈阳2024《我不！是歌手》巡回演唱会--石家庄站",
+                "showDate": "08.17",
+                "cityName": "石家庄站",
+                "showStatus": "PRESALE",
+                "existLatestSaleTime": false,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240524_20/17165386666379424.jpg",
+                "showStatusTag": "预订中"
+            },
+            {
+                "showId": "6684b07205af1e0001612482",
+                "showName": "【济南】小沈阳2024《我不！是歌手》巡回演唱会--济南站",
+                "showDate": "08.31",
+                "cityName": "济南站",
+                "showStatus": "PENDING",
+                "existLatestSaleTime": false,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240703_47/17199720630856294.png"
+            },
+            {
+                "showId": "668a3fc735c7330001f5d9eb",
+                "showName": "【长春】小沈阳2024《我不！是歌手》巡回演唱会--长春站",
+                "showDate": "09.07",
+                "cityName": "长春站",
+                "showStatus": "PENDING",
+                "existLatestSaleTime": false,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240707_85/17203363975969063.png"
+            },
+            {
+                "showId": "66726e2a3ef42500017962e9",
+                "showName": "【天津】小沈阳2024《我不！是歌手》巡回演唱会-天津站",
+                "showDate": "09.14",
+                "cityName": "天津站",
+                "showStatus": "PRESALE",
+                "existLatestSaleTime": false,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240619_30/17187755052692303.png",
+                "showStatusTag": "预订中"
+            },
+            {
+                "showId": "66581eb41d06bc000185c9a3",
+                "showName": "【北京】小沈阳2024《我不！是歌手》巡回演唱会--北京站",
+                "showDate": "10.19",
+                "cityName": "北京站",
+                "showStatus": "PRESALE",
+                "existLatestSaleTime": false,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240530_98/17170511516486151.jpg",
+                "showStatusTag": "预订中"
+            },
+            {
+                "showId": "6656c5ccddfc8100011fe219",
+                "showName": "【深圳】小沈阳2024《我不！是歌手》巡回演唱会-深圳站",
+                "showDate": "10.26",
+                "cityName": "深圳站",
+                "showStatus": "PENDING",
+                "existLatestSaleTime": false,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240529_82/17169628094396925.jpeg"
+            }
+        ]
+    }
+}

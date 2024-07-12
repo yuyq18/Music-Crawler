@@ -1,0 +1,362 @@
+{
+    "searchType": "SHOW",
+    "showId": "6688c51f05af1e00010c41b7",
+    "stdShowId": "6688c51f05af1e00010c41b5",
+    "showName": "【北京】A-Lin黄丽玲「A-LINK with PASSENGERS」2024巡回演唱会-北京站",
+    "showDate": "2024.08.04 19:00",
+    "cityName": "北京",
+    "cityId": "1101",
+    "showStatus": "PRESALE",
+    "minOriginalPrice": "380.0",
+    "posterUrl": "https://cdn.ticketmars.com/image/prod/20240706_75/17202396436353397.jpg",
+    "venueId": "571dec000cf22ad1941ae0ba",
+    "venueName": "华熙LIVE·五棵松·场馆",
+    "backendCategory": "{'code': 17, 'displayName': '演唱会', 'name': 'YanChangHui'}",
+    "isFree": "False",
+    "firstShowTime": "1722769200000",
+    "lastShowTime": "1722774600000",
+    "minOriginalPriceInfo": "{'yuanNum': '380', 'centNum': '', 'suffix': '起', 'prefix': '￥'}",
+    "latestShowTime": "1722769200000",
+    "showSessionDates": "['20240804']",
+    "soldOut": "False",
+    "sessionNum": "1",
+    "seatPlanNum": "5",
+    "rsCode": 200,
+    "basicInfo": {
+        "hotMode": true,
+        "stdShowId": "6688c51f05af1e00010c41b5",
+        "showName": "【北京】A-Lin黄丽玲「A-LINK with PASSENGERS」2024巡回演唱会-北京站",
+        "sourceType": "SELF_BUILT_EXTERNAL_PRODUCE",
+        "originalSeatPickType": "SUPPORT_NONE",
+        "contentUrl": "https://cdn.ticketmars.com/prod/showContent/6688c51f05af1e00010c41b7/content_6690a31dea87e400015ab2ac.content",
+        "posterUrl": "https://cdn.ticketmars.com/image/prod/20240706_75/17202396436353397.jpg",
+        "posterColor": "#813427ff",
+        "venueId": "571dec000cf22ad1941ae0ba",
+        "venueName": "华熙LIVE·五棵松·场馆",
+        "venueAddress": "北京市海淀区复兴路69号",
+        "venueLat": 39.911302,
+        "venueLng": 116.28076,
+        "cityId": "1101",
+        "cityName": "北京市",
+        "onSaleShowCount": 2,
+        "showTags": [],
+        "authorizationUrl": "",
+        "minOriginalPriceInfo": {
+            "yuanNum": "380",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "maxOriginalPriceInfo": {
+            "yuanNum": "1380",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "showDate": "2024年08月04日 19:00",
+        "showDuration": "以现场为准",
+        "seatPlanURL": "https://cdn.ticketmars.com/image/prod/20240712_59/17207541706619706.png",
+        "displayAdvance": false,
+        "venueDisplayAdvance": false,
+        "sessionDisplayAdvance": false,
+        "seatPlanDisplayAdvance": false,
+        "showType": {
+            "name": "YanChangHui"
+        },
+        "showDetailStatus": "PRE_SALE",
+        "existsPrivilegePurchase": false,
+        "displayCountdownTime": true,
+        "captchaTypes": [],
+        "tourId": "6664581da1bf540001060c1d"
+    },
+    "additionalInfo": {
+        "hasCoupon": true,
+        "hasPromo": false,
+        "hasAddPurchase": false,
+        "hasUserPromo": false,
+        "hasPCard": false,
+        "hasPriority": false,
+        "hasChannelDiscount": false,
+        "checkChannelFreeCombo": false,
+        "channelPickSeatProject": false,
+        "hasTyingSale": false,
+        "hasJumpGuid": false
+    },
+    "descInfo": {
+        "observationInstructions": [
+            {
+                "key": "TICKETS_AND_ADMISSION",
+                "name": "票品及入场",
+                "value": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场",
+                "isMarked": false,
+                "isOrderMarked": true,
+                "seq": 1
+            },
+            {
+                "key": "ENTRY_TIME",
+                "name": "入场时间",
+                "value": "请于开始前约120分钟入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "SHOW_DURATION",
+                "name": "演出时长",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "MAIN_ACTOR",
+                "name": "主要演员(团体)",
+                "value": "黄丽玲",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "MINIMUM_SHOW_DURATION",
+                "name": "最低演出时长",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "MINIMUM_SHOW_NUMBER",
+                "name": "最低演出曲目",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            },
+            {
+                "key": "RESTRICTED_ITEM",
+                "name": "禁止携带物品",
+                "value": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 7
+            },
+            {
+                "key": "LUGGAGE_DEPOSIT",
+                "name": "物品寄存",
+                "value": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 8
+            }
+        ],
+        "ticketInstructions": [
+            {
+                "key": "CHILDREN_INTRODUCTION",
+                "name": "儿童购票",
+                "value": "儿童一律凭票入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "REAL_NAME_PURCHASE_TICKET_INTRODUCTION",
+                "name": "实名购票规则",
+                "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证/外国人永久居留身份证",
+                "isMarked": false,
+                "tagContent": "门票对应唯一证件(身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证/外国人永久居留身份证)",
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "EXCEPTION_ORDER_INTRODUCTION",
+                "name": "异常排单说明",
+                "value": "对于异常订购行为，商家有权在订单成立或者生效之后取消相应订单。 异常订购行为包括但不限于以下情形： （1）通过同一ID订购超出限购张数的订单。 （2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "LIMITATION",
+                "name": "限购规则",
+                "value": "每个场次限购4张/套，项目限购4张/套",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "EXCHANGE_POLICY",
+                "name": "退换政策",
+                "value": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "INVOICE_INTRODUCTION",
+                "name": "发票说明",
+                "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            }
+        ],
+        "markedTextList": []
+    },
+    "noteInfos": [
+        {
+            "name": "支持有条件退",
+            "value": "",
+            "type": true,
+            "code": "CONDITION_REFUND",
+            "refundCfg": {
+                "showName": "【北京】A-Lin黄丽玲「A-LINK with PASSENGERS」2024巡回演唱会-北京站",
+                "refundTimes": 1,
+                "type": "SESSION_SETTING",
+                "rateItems": [
+                    {
+                        "rate": 0.0,
+                        "sessionItems": [
+                            {
+                                "sessionBeginTime": 1722769200000,
+                                "sessionName": "2024-08-04 周日 19:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-07-12 13:27",
+                                        "right": "2024-07-14 13:27"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "rate": 20.0,
+                        "sessionItems": [
+                            {
+                                "sessionBeginTime": 1722769200000,
+                                "sessionName": "2024-08-04 周日 19:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-07-14 13:28",
+                                        "right": "2024-07-19 23:59"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "rate": 50.0,
+                        "sessionItems": [
+                            {
+                                "sessionBeginTime": 1722769200000,
+                                "sessionName": "2024-08-04 周日 19:00",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-07-20 00:00",
+                                        "right": "2024-07-25 23:59"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "name": "实名观演",
+            "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证/外国人永久居留身份证",
+            "type": true,
+            "code": "REAL_NAME_TICKET"
+        },
+        {
+            "name": "电子票-身份证",
+            "value": "通过身份证件，可以直接验票入场（具体以下单后票舱信息为准）",
+            "type": true,
+            "code": "ID_CARD"
+        },
+        {
+            "name": "发票说明",
+            "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具。",
+            "type": false,
+            "code": "BILL_APPLY"
+        }
+    ],
+    "specialNoteInfos": [
+        {
+            "name": "预售",
+            "value": "本项目正在预售，下单后无法立即为您配票。正式开票后（一般于节目举办前1-2周），票品信息（包括换票、入场方式）将陆续更新，届时您可通过订单详情页或票舱详情查看。",
+            "type": true,
+            "code": "SHOW_PRESALE",
+            "desc": "此项目为预售，待项目正式开票后为您配票"
+        }
+    ],
+    "announcement": [],
+    "whiteTags": [],
+    "watcherReplacer": "观演",
+    "tour": {
+        "id": "6664581da1bf540001060c1d",
+        "tourName": "A-Lin黄丽玲「A-LINK with PASSENGERS」2024巡回演唱会",
+        "tourPosterUrl": "https://cdn.ticketmars.com/image/prod/20240608_29/17178521692956525.png",
+        "shows": [
+            {
+                "showId": "6661866ccf4d440001322266",
+                "showName": "【青岛】A-Lin黄丽玲「A-LINK with PASSENGERS」2024巡回演唱会--青岛站",
+                "showDate": "07.13",
+                "cityName": "青岛站",
+                "showStatus": "ONSALE",
+                "existLatestSaleTime": false,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240606_14/17176675963904906.png",
+                "showStatusTag": "热销中"
+            },
+            {
+                "showId": "664451bcfc299c0001e1e521",
+                "showName": "【成都】A-Lin黄丽玲「A-LINK with PASSENGERS」2024巡回演唱会-成都站",
+                "showDate": "07.20-07.21",
+                "cityName": "成都站",
+                "showStatus": "PRESALE",
+                "existLatestSaleTime": true,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240616_53/17185051138524923.png",
+                "showStatusTag": "预订中"
+            },
+            {
+                "showId": "665ed3dc9b79890001f46e70",
+                "showName": "【无锡】A-Lin黄丽玲「A-LINK with PASSENGERS」2024巡回演唱会-无锡站",
+                "showDate": "07.27",
+                "cityName": "无锡站",
+                "showStatus": "PRESALE",
+                "existLatestSaleTime": false,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240604_27/17174907054981296.jpg",
+                "showStatusTag": "预订中"
+            },
+            {
+                "showId": "6688c51f05af1e00010c41b7",
+                "showName": "【北京】A-Lin黄丽玲「A-LINK with PASSENGERS」2024巡回演唱会-北京站",
+                "showDate": "08.04",
+                "cityName": "北京站",
+                "showStatus": "PRESALE",
+                "existLatestSaleTime": false,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240706_75/17202396436353397.jpg",
+                "showStatusTag": "预订中"
+            },
+            {
+                "showId": "667e1e55afa0e900010536bd",
+                "showName": "【武汉】A-Lin黄丽玲「A-LINK with PASSENGERS」2024巡回演唱会--武汉站",
+                "showDate": "08.10",
+                "cityName": "武汉站",
+                "showStatus": "PRESALE",
+                "existLatestSaleTime": false,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240628_43/17195465706623135.png",
+                "showStatusTag": "预订中"
+            },
+            {
+                "showId": "664acb3a6f0182000160eede",
+                "showName": "【合肥】A-Lin黄丽玲「A-LINK with PASSENGERS」2024巡回演唱会-合肥站",
+                "showDate": "08.24",
+                "cityName": "合肥站",
+                "showStatus": "PENDING",
+                "existLatestSaleTime": true,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240520_58/17161778098565157.png",
+                "showStatusTag": "即将抢票"
+            }
+        ]
+    }
+}

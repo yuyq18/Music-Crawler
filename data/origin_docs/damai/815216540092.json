@@ -1,0 +1,690 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：尚雯婕、程响、莫西子诗、陈柯宇、吴岱林、大阵象粤语合唱团、梦然",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "893",
+    "cityname": "广州",
+    "couponTags": "[]",
+    "description": "艺人：尚雯婕、程响、莫西子诗、陈柯宇、吴岱林、大阵象粤语合唱团、梦然",
+    "id": "1_1_815216540092",
+    "imgurl": "-437769192",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2024宙响天河元宇宙音乐会",
+    "nameNoHtml": "2024宙响天河元宇宙音乐会",
+    "price": "180.0",
+    "price_str": "180-680",
+    "pricehigh": "680.0",
+    "privilegeTags": "[]",
+    "projectid": "815216540092",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.08.02 周五 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "广州市海心沙亚运公园",
+    "venuecity": "广州",
+    "venueid": "53305",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01HptJHO2GdSc63c5Se_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "815216540092",
+                    "itemName": "【广州】2024宙响天河元宇宙音乐会",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "440100",
+                    "cityName": "广州市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01HptJHO2GdSc63c5Se_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01HptJHO2GdSc63c5Se_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.08.02 周五 20:00",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "快递票",
+                            "tagDesc": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。发货前支持修改一次收货地址。\r\n注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagDescWithStyle": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。<b>发货前支持修改一次收货地址。</b><br/>注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：广东星泽文化传媒有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：广东星泽文化传媒有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "893",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01LOHWZo2GdSc3dm59Q_!!2251059038.png\" width=\"817\" height=\"1454\" damai_width=\"817\" damai_height=\"1454\"></p>\n<p><span style=\"font-size: 18px;\"><strong>一整晚好听的歌宙响海心沙</strong></span></p>\n<p><span style=\"font-size: 18px;\">最热金曲 + 实力歌手 + 炫酷的元宇宙空间呈现 + 广州最美夜景</span></p>\n<p>&nbsp;</p>\n<p>“鹿Be free”、“The Faith 最终信仰”、</p>\n<p>“少年“、</p>\n<p>“世界那么大还是遇见你”、“可能”、</p>\n<p>”若月亮没来“、</p>\n<p>“要死就死在你手你“、</p>\n<p>“生僻字“</p>\n<p>。。。。。。</p>\n<p>炎热的夏日，忙碌的一天之后，漫天星空下，把珠江两岸璀璨城市灯火一揽入怀，小蛮腰动人的身姿在夜空闪耀，江风徐徐，而这一首首刷爆各平台榜单的至HIT歌曲那动人的旋律一再再地点燃海心沙。翘首等待一年之后，宙响天河元宇宙音乐会这次携一众”TOP榜至尊歌手“尚雯婕、程响、莫西子诗、梦然、陈柯宇、王宇宙、天生快活人家族、大阵象粤语合唱团等以及AI传奇巨星以一整晚好听的歌宙响海心沙！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01AIBr8C2GdSbz5E2KZ_!!2251059038.png\" width=\"478\" height=\"645\" damai_width=\"478\" damai_height=\"645\"></p>\n<p>今年的音乐会将继续由2023年宙响天河元宇宙音乐会原导演、著名电影人张全欣导演及主创班底率领酷狗、网易、无忧、趣丸、鸿威、洲明、超元力、咏声、荔枝等众多头部平台、科技公司，以及各界顶尖艺术主创团队共同打造。</p>\n<p>作为国内首创、规模最大的元宇宙音乐会，宙响天河元宇宙音乐会今年的主题为”TOP榜金曲 夏的盛宴“。本次音乐会根据各平台榜单王TOP500、新歌榜、抖音热歌榜、快手热歌榜、粤语金曲榜、国风新语榜、说唱先锋榜、腾讯音乐榜、DJ热歌榜、蜂巢流行音乐榜，确定网友最爱歌手及最喜欢的金曲。其中包括开篇所列及众多全网排名第一的TOP金曲以及多首粤语经典歌曲的原唱共同出演，全场音乐会分为”记忆之夏“、”湾区之夏“，”未来之夏“三大篇章，以音乐剧主题、元宇宙视听包装，是国内罕见的独具科技与艺术融合的创新音乐盛宴。本次受邀的二十多位歌手将作为中国数字文娱大会元宇宙创新未来的元神、首批“TOP榜至尊歌手”，将在虚拟现实世界里与万千听迷、粉丝共度一个亮眼、养耳、润心的难忘夏夜。</p>\n<p>&nbsp;</p>\n<p><strong>AI元年神话之夜 酷炫声光电虚拟现实空间</strong></p>\n<p>AI在2024走下神坛，走入几乎每一天的生活。这一夜，“宙响天河“的创意和技术团队将利用AI技术与多种舞台语言、影像语言、音乐语言的结合、互动，运用虚拟现实（VR）、增强现实（AR）、拓展现实（XR）、混合现实（MR）、元宇宙、数字光影、智能感知等技术和设备，以声光电缔造的酷炫空间再次带着观众自由穿梭虚拟与现实之间。</p>\n<p>邓丽君、BEYOND、张国荣、陈百强。。。跨越时空而来，那些经久不衰的动人旋律也再次响起，掀起感人心怀的回忆杀，让湾区的这个夏天充满了甜蜜、遗憾、想念、温暖。。。的味道。这也是我们对元宇宙的最完美期待，所有的感觉、心情都跨越时空，虚拟现实一如此刻。</p>\n<p>&nbsp;</p>\n<p><strong>最新XR虚拟拍摄呈现无限想象空间</strong></p>\n<p>山海经灵兽，也许；外太空宇宙，也许；山川湖海，上天入地；想象之羽，无所不至。。。。。。集结代表目前最前沿XR虚拟拍摄技术及设备的强大团队组合，现场观众将与表演嘉宾一同畅游至无限想象空间，从海心沙、天河、广州，穿越至世界任一地点、至宇宙任一空间。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01vVYWVJ2GdSc6yg0gI_!!2251059038.png\" width=\"865\" height=\"463\" damai_width=\"865\" damai_height=\"463\"></p>\n<p>江风吹来，歌声悠扬，这一晚，忘却烦忧、还身心自由，让广州最美的夜景陪我们在“宙响天河元宇宙音乐会“畅享夏的盛宴！</p>\n<p>8月2日晚8:00，一整晚的好歌约定你，在广州海心沙亚运公园，不见不散。</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "广东星泽文化传媒有限公司",
+                            "socialCreditCode": "91440101MA59KDDL3L",
+                            "legalPerson": "何星",
+                            "regCapStr": "1000万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人独资)",
+                            "entAddress": "广州市天河区天河北路460号201房之145"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "快递费",
+                        "content": "1.同城10.0元，发货后1-3天到达；省内12.0元，发货后1-3天到达；其他地区18.0元，发货后1-3天到达；澳门、香港、台湾40.0元，发货后1-5天到达。\r\n2.演出前4天不支持快递。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带纸质门票验票入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭成人票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/外国人永久居留身份证/港澳台居民居住证/身份证/港澳居民来往内地通行证/护照"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "25"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "尚雯婕、程响、莫西子诗、梦然、吴岱林、陈柯宇、王宇宙、天生快活家族（林颐、林琳、张炜、梁山山、牛哥、心悦、林致成、肖公子、猪红、紫F、陈洁柔）、大阵象粤语合唱团"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "110分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "53305",
+                    "venueName": "广州市海心沙亚运公园",
+                    "venueProvinceName": "广东省",
+                    "venueCityName": "广州市",
+                    "lng": 113.322418,
+                    "lat": 23.111458,
+                    "venueAddr": "海心沙岛",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=815216540092"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D815216540092%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "2363",
+                        "artistName": "尚雯婕",
+                        "archives": "中国内地女歌手、演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413399196/1534413399196-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "725366946",
+                        "artistName": "程响",
+                        "archives": "程响，1989年3月26日出生于安徽省淮南市，中国内地流行乐女歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1699411482900/1699411482900-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "71614",
+                        "artistName": "莫西子诗",
+                        "archives": "\"代表作《阿皆咯》 2014年第一季中国好歌曲年度总决赛亚军《要死就一定要死在你手里》\n彝族 先锋独立音乐人 川西南大凉山螺髻山人，\"\n莫西子诗，汉名莫春林，四川凉山州人，彝族音乐人，歌手。\n莫西子诗和老乡们有过音乐合作的渊源。原“山鹰组合”成员瓦其依合推出了首张个人专辑，其中就有《不要怕》，就是来自于莫西子诗的作品。2012年彝族歌手吉克隽逸在参加“中国好声音”比赛时，也曾经将这首《不要怕》当成表演曲目。\n莫西子诗也不全然是玩抽象的音乐人，只会吟唱、不会唱词。如果说《当风儿吹过这里，故乡已很遥远》和《路上有人在说着他遥远的故乡》里的他，是出世的他，那么《要死就一定要死在你手里》和《将城市拉回乡下去喂狗》的他，无疑就是入世的他，是和这个社会同呼吸、共命运的他，也是和他的那个她真性情、真感性的他。2013年年初，吉杰也在自己的个人专辑《自深深处》中，邀请到了莫西子诗合作了《引子魂归路漫漫》。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413434875/1534413434875-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "636500639",
+                        "artistName": "陈柯宇",
+                        "archives": "陈柯宇\n出生于江苏省苏州市，中国内地流行乐男歌手，毕业于四川音乐学院通俗演唱专业。\n2015年，推出首张个人音乐EP《正·反面》，从而正式进入演艺圈。\n2016年，推出首张个人全创作音乐专辑。其中《直到遇见了你我只喜欢你》深受听众的喜爱。\n2017年，推出个人原创单曲《生僻字》，并于2018年12月在自媒体平台上传了自己演唱该歌曲的视频，从而获得了一定的关注度，播放量超过50个亿。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1682418439382/1682418439382-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "992709737",
+                        "artistName": "吴岱林",
+                        "archives": "吴岱林，中国内地男歌手、YY直播直播金牌艺人",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1656315340192/1656315340192-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "32021885641",
+                        "artistName": "大阵象粤语合唱团",
+                        "archives": "大阵象粤语合唱团，一个因喜爱粤语歌而走到一起的精神合唱团，成立至今举行超过30场粤语主题音乐演出。由省级交响乐团主力超哥担任音乐总监，加上实力雄厚的歌手阵容和才华洋溢的乐手班底，从改编致敬粤语经典开始，一路坚持原创，累计创作粤语歌60多首。2023年大阵象原创粤语歌《鸡蛋叔叔》斩获南方都市报主办“岭南新民谣传唱计划”十优作品；2024年初获邀登上大湾区卫视“大湾区除夕晚会”舞台。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1713859648094/1713859648094-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "18532612",
+                        "artistName": "梦然",
+                        "archives": "梦然，中国内地女歌手、唱作人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1706760664155/1706760664155-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "2363",
+                        "name": "尚雯婕",
+                        "desc": "中国内地女歌手、演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413399196/1534413399196-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "725366946",
+                        "name": "程响",
+                        "desc": "程响，1989年3月26日出生于安徽省淮南市，中国内地流行乐女歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1699411482900/1699411482900-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "71614",
+                        "name": "莫西子诗",
+                        "desc": "\"代表作《阿皆咯》 2014年第一季中国好歌曲年度总决赛亚军《要死就一定要死在你手里》\n彝族 先锋独立音乐人 川西南大凉山螺髻山人，\"\n莫西子诗，汉名莫春林，四川凉山州人，彝族音乐人，歌手。\n莫西子诗和老乡们有过音乐合作的渊源。原“山鹰组合”成员瓦其依合推出了首张个人专辑，其中就有《不要怕》，就是来自于莫西子诗的作品。2012年彝族歌手吉克隽逸在参加“中国好声音”比赛时，也曾经将这首《不要怕》当成表演曲目。\n莫西子诗也不全然是玩抽象的音乐人，只会吟唱、不会唱词。如果说《当风儿吹过这里，故乡已很遥远》和《路上有人在说着他遥远的故乡》里的他，是出世的他，那么《要死就一定要死在你手里》和《将城市拉回乡下去喂狗》的他，无疑就是入世的他，是和这个社会同呼吸、共命运的他，也是和他的那个她真性情、真感性的他。2013年年初，吉杰也在自己的个人专辑《自深深处》中，邀请到了莫西子诗合作了《引子魂归路漫漫》。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413434875/1534413434875-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "636500639",
+                        "name": "陈柯宇",
+                        "desc": "陈柯宇\n出生于江苏省苏州市，中国内地流行乐男歌手，毕业于四川音乐学院通俗演唱专业。\n2015年，推出首张个人音乐EP《正·反面》，从而正式进入演艺圈。\n2016年，推出首张个人全创作音乐专辑。其中《直到遇见了你我只喜欢你》深受听众的喜爱。\n2017年，推出个人原创单曲《生僻字》，并于2018年12月在自媒体平台上传了自己演唱该歌曲的视频，从而获得了一定的关注度，播放量超过50个亿。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1682418439382/1682418439382-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "992709737",
+                        "name": "吴岱林",
+                        "desc": "吴岱林，中国内地男歌手、YY直播直播金牌艺人",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1656315340192/1656315340192-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "32021885641",
+                        "name": "大阵象粤语合唱团",
+                        "desc": "大阵象粤语合唱团，一个因喜爱粤语歌而走到一起的精神合唱团，成立至今举行超过30场粤语主题音乐演出。由省级交响乐团主力超哥担任音乐总监，加上实力雄厚的歌手阵容和才华洋溢的乐手班底，从改编致敬粤语经典开始，一路坚持原创，累计创作粤语歌60多首。2023年大阵象原创粤语歌《鸡蛋叔叔》斩获南方都市报主办“岭南新民谣传唱计划”十优作品；2024年初获邀登上大湾区卫视“大湾区除夕晚会”舞台。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1713859648094/1713859648094-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "18532612",
+                        "name": "梦然",
+                        "desc": "梦然，中国内地女歌手、唱作人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1706760664155/1706760664155-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "851",
+                    "wantNumStr": "851",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN01Ws9UMq2266sGyyZBX_!!6000000007070-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/656/131391.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01vY86me1ydJ7UVciBd_!!6000000006601-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2534563/506912645_1720781810795.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01z79cll1I7y9jwGsmE_!!6000000000847-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「开售提醒」</span>购票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "90",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "13",
+                "sellStartTime": "1720791983000",
+                "sellStartTimeStr": "07月12日 21:46",
+                "priceRange": "¥180-¥680",
+                "performBases": [
+                    {
+                        "name": "08.02 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1722528000000",
+                        "performs": [
+                            {
+                                "performId": "215668122",
+                                "performName": "2024-08-02  周五 20:00",
+                                "itemId": "815216540092",
+                                "projectId": "221421029",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1722600000000",
+                                "performTime": "2024.08.02 20:00",
+                                "performStartDate": "2024-08-02",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8152165400/2/815216540092.jpg"
+            }
+        }
+    }
+}

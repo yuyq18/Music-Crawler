@@ -1,0 +1,602 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "852",
+    "cityname": "北京",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_812521213810",
+    "imgurl": "-464722454",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "【8折早鸟】伦敦西区音乐剧明星演唱会-经典版",
+    "nameNoHtml": "【8折早鸟】伦敦西区音乐剧明星演唱会-经典版",
+    "price": "144.0",
+    "price_str": "144-680",
+    "pricehigh": "680.0",
+    "privilegeTags": "[]",
+    "projectid": "812521213810",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.10.25-10.26",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "北京展览馆剧场",
+    "venuecity": "北京",
+    "venueid": "26",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01cDV2UG2GdSc2QJalJ_!!2251059038.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "812521213810",
+                    "itemName": "【北京】【8折早鸟】伦敦西区音乐剧明星演唱会-经典版",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "110100",
+                    "cityName": "北京市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01cDV2UG2GdSc2QJalJ_!!2251059038.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01cDV2UG2GdSc2QJalJ_!!2251059038.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.10.25-10.26",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "快递票",
+                            "tagDesc": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。发货前支持修改一次收货地址。\r\n注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagDescWithStyle": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。<b>发货前支持修改一次收货地址。</b><br/>注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：上海超燃文化传媒有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：上海超燃文化传媒有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "852",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01BsH7LT2GdSc1K94I8_!!2251059038.png\" width=\"830\" height=\"1160\" damai_width=\"830\" damai_height=\"1160\"></p>\n<p>2024年8月2日前早鸟8折，全价位参与活动</p>\n<p>主演：</p>\n<p>迈克·斯特林（Mike Sterling）</p>\n<p>肖娜·林赛（Shona Lindsay）</p>\n<p>露西·奥伯恩（Lucy O'Byrne）</p>\n<p>蒂姆·奥克斯布罗（Tim Oxbrow）</p>\n<p>米兰达·威尔福德（Miranda Wilford）</p>\n<p>帕特里克·史密斯（Patrick Smyth）</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN016WmArk2GdSc3Lsnm8_!!2251059038.png\" width=\"850\" height=\"400\" damai_width=\"850\" damai_height=\"400\"></p>\n<p>伦敦西区音乐剧明星演唱会汇聚6名在伦敦西区备受赞誉的音乐剧明星，演唱流行音乐剧曲目。本次访华演出将带来两个版本：《经典版》和《摇滚版》，分别在北京站演出2场经典版演唱会和1场摇滚版演唱会。经典版也将向音乐剧历史上著名R&amp;H组合（作曲家理查德·罗杰斯与 剧本创作大师汉默斯坦）以及作曲家科尔·波特致敬。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN011GkGCy2GdSbyjz8UP_!!2251059038.png\" width=\"850\" height=\"478\" damai_width=\"850\" damai_height=\"478\"></p>\n<p>在经典版中，将演唱音乐剧史上最杰出的作品如《芝加哥》《巴黎圣母院》《悲惨世界》《猫》《贝隆夫人》《西区故事》《歌剧魅影》等音乐剧中的经典歌曲，比如《爵士春秋》（All that Jazz）,《回忆》（Memory）,《我曾有梦》（I dreamed a dream）,《带他回家》（Bring him home）,《阿根廷别为我哭泣》（Don't Cry for me Argentina）,《歌剧魅影》（The Phantom of the Opera）,《爱是我唯一所求》（All I ask for you）等，一场最具创作才华且直达人心的音乐盛宴将淋漓尽致地上演。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01gkYgyV2GdSbz4RRS4_!!2251059038.png\" width=\"532\" height=\"636\" damai_width=\"532\" damai_height=\"636\"></p>\n<p>由知名音乐剧明星、出演过1000场魅影的迈克·斯特林（Mike Sterling）、饰演《剧院魅影》中克里斯汀一角的肖娜·林赛（Shona Lindsay）、出演《猫》《悲惨世界》的露西·奥伯恩（Lucy O'Byrne）、出演《摇滚时代》《吉屋出租》的蒂姆·奥克斯布罗（Tim Oxbrow）、出演《舞动奇迹》《颤栗现场》的米兰达·威尔福德（Miranda Wilford）、出演《我们将震撼你》《我们的房子》《歌剧魅影》的帕特里克·史密斯（Patrick Smyth）共同倾情演绎！原班英国乐队现场伴奏！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01K3yDUP2GdSc1D0OIc_!!2251059038.png\" width=\"830\" height=\"494\" damai_width=\"830\" damai_height=\"494\"></p>\n<p>经典音乐剧《歌剧魅影》、《悲惨世界》、《猫》、《西贡小姐》、《芝加哥》、《窈窕淑女》、《西区故事》、《棋王》等知名作品一网打尽。</p>\n<p>&nbsp;</p>\n<p>主演介绍：</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01SslQTc2GdSc0Uy5tS_!!2251059038.png\" width=\"794\" height=\"992\" damai_width=\"794\" damai_height=\"992\"></p>\n<p>Mike Sterling迈克·斯特林</p>\n<p>英国知名歌手、演员、主持人</p>\n<p>出演《歌剧魅影》中魅影超过1000场。及《悲惨世界》冉阿让。这两个角色的演绎让他赢得了很高的国际赞誉。</p>\n<p>演出作品包括在伦敦西区剧院的《歌剧魅影》中的魅影（伦敦女王陛下剧院演出了 1000 多场）和《悲惨世界》中的冉·阿让。其他作品如《歌剧魅影》、《悲惨世界》、《艾薇塔》、《Finellis》等。他在北京世纪剧院出演了《黑暗中的女人》，这是中国历史上第一部完整制作的百老汇/西区音乐剧。伦敦皇家阿尔伯特音乐厅举行的第10届和第25届《悲惨世界》（Les missamrables）周年音乐会，并在诸多自己的巡演音乐会《迈克·斯特林演唱会》中上演这些作品。</p>\n<p>主持自己的系列电视节目《迈克·斯特林的音乐论坛》，并发行个人专辑。</p>\n<p>参与《悲惨世界》10周年 （皇家阿尔伯特音乐厅） 及25周年（O2体育馆） 音乐会。拥有30 多年的表演经验，涉及伦敦西区剧院、电视、广播、古典舞台和录音等。</p>\n<p>曾合作明星包括雪莉·巴斯女爵士（Dame Shirley Bassey）、巴瑞·曼尼洛（Barry Manilow）、迈克尔·波尔（Michael Ball）和恩格尔伯特·汉伯丁克（Engelbert Humperdinck）。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01J6Tech2GdSbyk360p_!!2251059038.png\" width=\"794\" height=\"1054\" damai_width=\"794\" damai_height=\"1054\"></p>\n<p>Shona Lindsay 肖娜·林赛</p>\n<p>英国知名歌手、演员、主持人</p>\n<p>1990年，作曲家韦伯指定她担任《歌剧魅影》克里斯汀一角，她也是这个角色有史以来最年轻的演员。她成为伦敦西区最受欢迎的女主角之一。</p>\n<p>在音乐剧《拜访森林》的世界首演中担任Sally Veitch一角。</p>\n<p>在12岁时便以安妮的角色首次亮相，在戏剧和电视中扮演了许多儿童角色。在爱德华王子剧院担任客座独唱家，参与《安德鲁·韦伯作品音乐会》的演出，与莎拉·布莱曼同台演唱。</p>\n<p>其他出演过作品音乐剧如《芝加哥》、《爱的观点》、《辣身舞》、《国王与我》、《两日姻缘三日情》全球首演、《变身怪医》英国首演、《雨中曲》 、《礼帽》、《旧情人的烦恼》、《不赞成合唱团》、《美丽的邪恶世界》、《爱丽丝梦游仙境》 、《被激怒的丈夫》、《霍布森的选择》、《热铁皮屋顶上的猫》《Top Hat》等；出演过电影电视剧如《电话侦探》、《在星际间遇见你》、《医生》、《星城》、《笙歌满丽池》、《伤亡》、《母亲的废墟》等。</p>\n<p>由英国广播电台选定在《悲惨世界》25周年音乐会录音中演唱芳汀一角。还担任Ideal World TV和Must Have Ideas TV的主要主持人。作为经验丰富的音乐会演唱家，曾在世界各地与许多顶级乐团合作，如皇家爱乐乐团和香港交响乐团等。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01r62IqS2GdSc0UzN1I_!!2251059038.png\" width=\"794\" height=\"1116\" damai_width=\"794\" damai_height=\"1116\"></p>\n<p>Lucy O'Byrne露西·奥伯恩</p>\n<p>爱尔兰 知名歌手、演员 出演音乐剧 《猫》、《艾薇塔》、《悲惨世界》、《音乐之声》、《阳光小美女》、《红杏出墙》等。参加英国好声音加入了威廉战队，成为英国好声音第一个进入决赛的古典歌手，并获得亚军。</p>\n<p>她曾作为独唱家出现在BBC逍遥音乐节上，并在BBC广播2台在伦敦帕拉迪姆音乐厅录制的《周五之夜是音乐之夜》上现场表演。电视作品包括《大陆》（The Continental）,《英国好声音》（The Voice UK）和动画片《Ballybraddan》。露西的录音作品包括《梦想与回忆》(个人EP)、《首秀》(个人专辑)、露西·奥伯恩演唱的《音乐之声》、《现在就是我所说的古典》、《红杏出墙》(原声带)。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN016Bknd32GdSc204n39_!!2251059038.png\" width=\"790\" height=\"1180\" damai_width=\"790\" damai_height=\"1180\"></p>\n<p>Tim Oxbrow蒂姆·奥克斯布罗</p>\n<p>英国知名演员、歌手</p>\n<p>作品包括《摇滚时代》中的朗尼；</p>\n<p>《耶稣基督超级巨星》中的加略人犹大；</p>\n<p>《吉屋出租》中的罗杰·戴维斯；。</p>\n<p>在《神话》的原版中创造了宙斯的角色，并且是热门音乐剧《蝙蝠出地狱》的原始演员之一，创造了马科维奇的角色，并替演了法尔科的角色。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Dxrs1f2GdSc0v6NIO_!!2251059038.png\" width=\"794\" height=\"992\" damai_width=\"794\" damai_height=\"992\"></p>\n<p>Miranda Wilford米兰达·威尔福德</p>\n<p>英国知名歌手、演员、导演</p>\n<p>在伦敦西区和世界各地出演过许多主角。</p>\n<p>担任《舞动奇迹》“珍妮特和阿尔杰兹秀”（Janette and Aljaz’s show）的主唱。</p>\n<p>担任驻场导演和编舞，在伦敦和洛杉矶与大型节目制片人和导演合作；曾与伦敦电影管弦乐队一起主持了詹姆斯·邦德50周年巡演；</p>\n<p>她的独唱音乐会 \"Singing the Songs That Speak \"场场爆满；</p>\n<p>伦敦西区演出的主要角色包括《颤栗现场》、《毛发》（她同时是这两部剧的驻场导演）、《谁是汤米》、《油脂》、《约瑟夫的神奇彩衣》、《老蓝眼睛》（Ol' Blue Eyes）全球首演中扮演标志性人物多丽丝·戴......等等！</p>\n<p>电影作品包括《邮差》（Films United/51 Degrees Film）中的安吉拉、《镇痛》（Dacha Studios）中的母亲和《金鱼》（Zaim Oneeb）中的桑德拉。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01D6cR3r2GdSc3Yxn0k_!!2251059038.png\" width=\"794\" height=\"1190\" damai_width=\"794\" damai_height=\"1190\"></p>\n<p>Patrick Smyth帕特里克·史密斯</p>\n<p>北爱尔兰歌手、演员</p>\n<p>毕业于英国皇家音乐学院。他的伦敦西区首秀是在吉尔古德剧院与百老汇《头发》（Hair）的原班人马合作。音乐剧作品还包括：《我们将震撼你》《我们的房子》《歌剧魅影》《鞋子：音乐剧》《最后的探戈》《燃烧地板》。</p>\n<p>曾在英国广播公司的《舞动奇迹》节目中担任现场主唱，并加入《舞动奇迹Live - Arena》巡演，成为主唱之一。他还曾与迈克尔·波尔（Michael Ball）和阿尔菲·波（Alfie Boe）一起巡演。他在《最后的多米诺》（The Last Domino）英国、美国和欧洲巡回演出中与创世纪乐队（Genesis）合作；参加在皇家阿尔伯特音乐厅举行的英国广播公司逍遥音乐会约翰·威尔逊管弦乐团十周年演出。</p>\n<p>曾与许多顶级乐团合作音乐会如与皇家爱乐乐团合作的《ABBAphonic》、与伯恩茅斯交响乐团合作的《80年代交响乐》、《安德鲁·劳埃德·韦伯音乐剧庆典》、与RTE音乐厅管弦乐团合作的《70年代之声》、《铃儿响叮当》、BBC 广播二台《周五之夜是音乐之夜》、与托尼·布莱克本合作的《60 年代之声》、《歌剧魅影25周年庆典》、与哈雷交响乐团、利物浦爱乐乐团和伯明翰交响乐团合作《埃尔顿·约翰的音乐：尔之歌声50年》等。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01ZfgTrf2GdSc1D5pMN_!!2251059038.png\" width=\"826\" height=\"464\" damai_width=\"826\" damai_height=\"464\"></p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "上海超燃文化传媒有限公司",
+                            "socialCreditCode": "91310230MA1K0X2P40",
+                            "legalPerson": "李富顺",
+                            "regCapStr": "20万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "上海市崇明区三星镇宏海公路4588号1号楼121-7室(上海三星经济小区)"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "快递费",
+                        "content": "1.同城10.0元，发货后1-3天到达；省内12.0元，发货后1-3天到达；其他地区18.0元，发货后1-3天到达；澳门、香港、台湾40.0元，发货后1-5天到达。\r\n2.演出前4天不支持快递。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带纸质门票验票入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一个订单对应一个证件；证件支持：身份证/港澳台居民居住证/护照/外国人永久居留身份证/台湾居民来往大陆通行证/港澳居民来往内地通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "提前30-60分钟，仅供参考，最终以现场实际入场时间为准"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "10"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "迈克·斯特林、肖娜·林赛、露西·奥伯恩等"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "800"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "2",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ]
+                },
+                "venue": {
+                    "venueId": "26",
+                    "venueName": "北京展览馆剧场",
+                    "venueProvinceName": "北京",
+                    "venueCityName": "北京市",
+                    "lng": 116.343741,
+                    "lat": 39.94218,
+                    "venueAddr": "北京市西城区西直门外大街135号院",
+                    "showCountText": "共有29个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "rankListVO": {
+                    "id": "3075",
+                    "name": "演唱会上新榜",
+                    "order": "1",
+                    "type": "2"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D812521213810%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "614",
+                    "wantNumStr": "614",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN01z79cll1I7y9jwGsmE_!!6000000000847-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/118560/23712047.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01AFdO1d1QyedvCel2W_!!6000000002045-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2541219/508243829_1720763703497.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01Ws9UMq2266sGyyZBX_!!6000000007070-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "特惠选座",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1720667880000",
+                "sellStartTimeStr": "07月11日 11:18",
+                "priceRange": "¥144-¥680",
+                "performBases": [
+                    {
+                        "name": "10.25 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1729785600000",
+                        "performs": [
+                            {
+                                "performId": "215438082",
+                                "performName": "2024-10-25  周五 19:30",
+                                "itemId": "812521213810",
+                                "projectId": "221203014",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1729855800000",
+                                "performTime": "2024.10.25 19:30",
+                                "performStartDate": "2024-10-25",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "10.26 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1729872000000",
+                        "performs": [
+                            {
+                                "performId": "215516070",
+                                "performName": "2024-10-26 周六 19:30",
+                                "itemId": "812521213810",
+                                "projectId": "221203014",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1729942200000",
+                                "performTime": "2024.10.26 19:30",
+                                "performStartDate": "2024-10-26",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "2",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "单人票可省136元"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "单人票",
+                        "content": "早鸟8折144元（原价180），可省36元\n早鸟8折224元（原价280），可省56元\n早鸟8折304元（原价380），可省76元\n早鸟8折384元（原价480），可省96元\n早鸟8折464元（原价580），可省116元\n早鸟8折544元（原价680），可省136元"
+                    }
+                ],
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "1611",
+                    "4939",
+                    "1900354",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3237314"
+                ],
+                "promotionList": [
+                    {
+                        "type": "EARLY_BIRD",
+                        "tag": "早鸟",
+                        "isTagList": "false",
+                        "desc": "¥680票档，早鸟优惠8折，到手¥544"
+                    }
+                ],
+                "promotionDetail": {
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "1",
+                            "promotionGroupTypeDesc": "票档优惠",
+                            "promotionList": [
+                                {
+                                    "promotionType": "5",
+                                    "promotionTag": "早鸟",
+                                    "promotionContentList": [
+                                        "¥680票档，早鸟优惠8折，到手¥544",
+                                        "¥380票档，早鸟优惠8折，到手¥304",
+                                        "¥280票档，早鸟优惠8折，到手¥224",
+                                        "¥180票档，早鸟优惠8折，到手¥144",
+                                        "¥480票档，早鸟优惠8折，到手¥384",
+                                        "¥580票档，早鸟优惠8折，到手¥464"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "¥280",
+                                            "displayContent": "8折，到手¥224"
+                                        },
+                                        {
+                                            "skuName": "¥380",
+                                            "displayContent": "8折，到手¥304"
+                                        },
+                                        {
+                                            "skuName": "¥680",
+                                            "displayContent": "8折，到手¥544"
+                                        },
+                                        {
+                                            "skuName": "¥580",
+                                            "displayContent": "8折，到手¥464"
+                                        },
+                                        {
+                                            "skuName": "¥180",
+                                            "displayContent": "8折，到手¥144"
+                                        },
+                                        {
+                                            "skuName": "¥480",
+                                            "displayContent": "8折，到手¥384"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "true",
+                "earlyBirdVO": {
+                    "priceRange": "¥144-¥680",
+                    "showTips": "true",
+                    "tips": "还剩20天"
+                },
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "1",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8125212138/2/812521213810.jpg"
+            }
+        }
+    }
+}
