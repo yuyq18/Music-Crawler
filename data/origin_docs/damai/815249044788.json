@@ -1,0 +1,570 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：梅塔文·欧帕⻄安卡琼（Win）",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "2024",
+    "cityname": "南宁",
+    "couponTags": "[]",
+    "description": "艺人：梅塔文·欧帕⻄安卡琼（Win）",
+    "id": "1_1_815249044788",
+    "imgurl": "-437444145",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "WIN HOLIDATE FANCON IN NANNING win林汉洲南宁个人演唱会",
+    "nameNoHtml": "WIN HOLIDATE FANCON IN NANNING win林汉洲南宁个人演唱会",
+    "price": "480.0",
+    "price_str": "480-1880",
+    "pricehigh": "1880.0",
+    "privilegeTags": "[]",
+    "projectid": "815249044788",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.08.03 周六 19:00",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "广西南宁国际会展中心E区",
+    "venuecity": "南宁",
+    "venueid": "2800020",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01nGkTZv2GdSc3bXaMy_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "815249044788",
+                    "itemName": "【南宁】WIN HOLIDATE FANCON IN NANNING win林汉洲南宁个人演唱会",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "450100",
+                    "cityName": "南宁市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01nGkTZv2GdSc3bXaMy_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01nGkTZv2GdSc3bXaMy_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.08.03 周六 19:00",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：杭州飞象互动文化传媒有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：杭州飞象互动文化传媒有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "2024",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01O6WYru2GdSc4Q59QY_!!2251059038.jpg\" width=\"2109\" height=\"1280\" damai_width=\"2109\" damai_height=\"1280\"></p>\n<p><br>请您特别注意:<br>1.购票前请仔细阅读票务须知。<br>2.同一“实名观演人”请勿在多个官方票务平台上重复购买。若同一“实名观演人”在多个官方票务平台购买同场次门票，产生无效重复订单、不可退票等所有损失，由购票人和实名观演人自行承担。<br>3.所有退票仅支持整单整退，请务必根据个人时间及行程安排合理选择观演场次，谨慎购买。<br>4.请勿从非官方售票平台购票，否则购票权益可能无法得到保障。<br>5.该演出为强实名电子票，入场观演人需与原购票人信息保持一致。入场时经查验观演人实体身份证和人脸识别后，信息一致后方可入场。</p>\n<p>&nbsp;</p>\n<p>「WIN HOLIDATE FANCON IN NANNING win林汉洲南宁个人演唱会」</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01N6ET7E2GdSc4k9pQk_!!2251059038.jpg\" width=\"1019\" height=\"1360\" damai_width=\"1019\" damai_height=\"1360\"><br><br>当我们相聚在一起时<br>所有的喜欢便有了意义<br>8月3日 这个盛夏<br>我们不见不散</p>\n<p>&nbsp;</p>\n<p><strong>座位明细</strong></p>\n<p><br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01R0MMIJ2GdSc4QC05d_!!2251059038.jpg\" width=\"2672\" height=\"2671\" damai_width=\"2672\" damai_height=\"2671\"><br><br><strong>粉丝福利</strong></p>\n<p>&nbsp;</p>\n<p><strong><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ABRvle2GdScAO9r3R_!!2251059038.jpg\" width=\"750\" height=\"750\" damai_width=\"750\" damai_height=\"750\"></strong></p>\n<p>&nbsp;</p>\n<p><strong>线路建议</strong></p>\n<p><br><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01UEIiWa2GdSc6rOwHt_!!2251059038.png\" width=\"946\" height=\"668\" damai_width=\"946\" damai_height=\"668\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01YCNf4z2GdSbz3EEzR_!!2251059038.png\" width=\"945\" height=\"668\" damai_width=\"945\" damai_height=\"668\"><br><br><strong>【艺人介绍】</strong><br>林汉洲（ Metawin Opas-iamkajorn），1999年2月21日出生于泰国曼谷，泰国男演员、模特、歌手，毕业于泰国国立法政大学经济系。<br>2020年，发行个人首支单曲《คนนั้นต้องเป็นเธอ》；同年，主演泰国版青春校园剧《流星花园》。2022年，主演的爱情喜剧《恶魔姐姐》播出。2023年，主演的悬疑惊悚剧《咒中人》播出。2024年创造营亚洲演唱歌曲《Night Ride》。<br>2023年，首次在中国香港举办了个人演唱会。<br>Win林汉洲作为亚太区广受欢迎的演员，他认真对待每一部作品。他不断审视自身，继续出发，带着他蓄满能量的储藏舱和热爱舞台的心，他在时间里歌唱，一往无前的发光发亮。<br><br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01TT4TwK2GdSc8ydhoG_!!2251059038.jpg\" width=\"828\" height=\"1116\" damai_width=\"828\" damai_height=\"1116\"></p>\n<p><br><strong>违禁物品：</strong><br><strong>1.玻璃制品、镭射激光笔、手电筒、长柄雨伞等任何尖锐物体与危险物品；</strong><br><strong>2.弩、匕首、仿真枪等管制器具；打火机、蜡烛、烟火等任何明火性质物品；</strong><br><strong>3.酒精、加压型喷雾、香水、防狼喷雾剂、瓦斯罐、煤油等易燃易爆物品；</strong><br><strong>4.剧毒、腐蚀性等化学危险物品及放射性物质、有害生物制剂、传染病病原体等危险物品；</strong><br><strong>5.毒品、淫秽等违禁物品，及危害国家利益，公共安全或有影响大型活动秩序的其它物品;</strong><br><strong>6.以任何形式涉及政治、种族、宗教和违反中国律法规的横幅、标语、衣服及其它用于宣传的物品;</strong><br><strong>7.铝罐、铝箔包、罐装食品等任何包装饮料食品；板凳、折叠椅、发泡胶砖等任何形式垫高的物品；</strong><br><strong>8.超过A4尺寸的大型应援物。如应援手幅、海报与标语、LED灯牌类、气球。</strong><br><strong>9.各式录影机、录音机、相机及镜头、无人机、平板及GoPro，禁止直播等任何形式的现场录制。</strong><br><strong>10.任何宠物、植物，持有工作证明的导盲犬除外。</strong><br><strong>11.任何可投掷、发射或具有喷射功能的物品。</strong><br><strong>12.自拍杆及各类用于照相机、摄像机的三脚支架独脚架或类似支撑物;</strong><br><strong>13.禁止大型/手提行李</strong><br><strong>(现场检出将直接没收丢弃,不予保管)</strong><br><br><strong>温馨提示：</strong><br>*入场皆需要通过安检程序，请提前到达现场。并详阅禁带物品内容，减少随身携带物品，以加快您的入场速度。<br>*衷心感谢歌迷朋友们的理解与支持，让我们一起营造公平有序的售票观演秩序!</p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "杭州飞象互动文化传媒有限公司",
+                            "socialCreditCode": "91330106MAD4MMNM0T",
+                            "legalPerson": "陈羽杰",
+                            "regCapStr": "1000万人民币",
+                            "opFrom": "",
+                            "opTo": "9999-09-09",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "浙江省杭州市西湖区西溪谷商务中心7号楼5层508室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭成人票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：外国人永久居留身份证/台湾居民来往大陆通行证/身份证/港澳居民来往内地通行证/护照/港澳台居民居住证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "win"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "2800020",
+                    "venueName": "广西南宁国际会展中心E区",
+                    "venueProvinceName": "广西壮族自治区",
+                    "venueCityName": "南宁市",
+                    "lng": 108.380226,
+                    "lat": 22.809692,
+                    "venueAddr": "南宁市青秀区民族大道106号",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=815249044788"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D815249044788%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "31773336455",
+                        "artistName": "梅塔文·欧帕⻄安卡琼（Win）",
+                        "archives": "梅塔文·欧帕⻄安卡琼（Win），1999年2月21日出生于泰国曼谷，中泰混血，泰国男演员、模特，就读于泰国国立法政大学经济系。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1712736387006/1712736387006-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "31773336455",
+                        "name": "梅塔文·欧帕⻄安卡琼（Win）",
+                        "desc": "梅塔文·欧帕⻄安卡琼（Win），1999年2月21日出生于泰国曼谷，中泰混血，泰国男演员、模特，就读于泰国国立法政大学经济系。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1712736387006/1712736387006-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "404",
+                    "wantNumStr": "404",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01fhSSIo1XHKUOi5w5Y_!!6000000002898-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/610789/122157822.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01bMZ0oW1WC0GXqoK9h_!!6000000002751-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2233470/446694191_1691489207717.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01Z4KBGi1TVkUeB77To_!!6000000002388-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "31773319623",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1712736454870/1712736454870-main.jpg",
+                    "note": "梅塔文·欧帕⻄安卡琼（Win）巡演",
+                    "categoryName": "其他",
+                    "title": "梅塔文·欧帕⻄安卡琼（Win）巡演",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1721110380000",
+                "sellStartTimeStr": "07月16日 14:13",
+                "priceRange": "¥480-¥1880",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售商品，正式开票后将第一时间为您配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8152490447/2/815249044788.jpg"
+            }
+        }
+    }
+}

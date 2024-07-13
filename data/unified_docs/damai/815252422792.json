@@ -1,0 +1,72 @@
+{
+    "platform": "大麦",
+    "project_id": "815252422792",
+    "project_name": "刘大壮 会不会 3.0心动如初 2024全国巡演（北京站）",
+    "category_name": "演唱会",
+    "artists": [
+        "刘大壮"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.10.05 周六 20:00",
+    "session_time": [],
+    "price": "168-298",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "MAO Livehouse北京",
+    "venue_info": {
+        "venue_address": "北京海淀区复兴路69号院2号136-G23Mao livehouse",
+        "lng": 116.277185,
+        "lat": 39.910269
+    },
+    "project_info": "刘大壮 会不会 3.0心动如初 2024全国巡演（北京站）\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01LxsK282GdSc73ISh0_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01bJzAiO2GdSc7Ahbe6_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "801264604487",
+            "cityName": "杭州站",
+            "showTime": "07.20"
+        },
+        {
+            "itemId": "800461390135",
+            "cityName": "武汉站",
+            "showTime": "07.27"
+        },
+        {
+            "itemId": "808171429172",
+            "cityName": "南昌站",
+            "showTime": "08.03"
+        },
+        {
+            "itemId": "808149913700",
+            "cityName": "长沙站",
+            "showTime": "08.04"
+        },
+        {
+            "itemId": "800905251548",
+            "cityName": "西安站",
+            "showTime": "08.17"
+        },
+        {
+            "itemId": "808243225722",
+            "cityName": "郑州站",
+            "showTime": "08.25"
+        },
+        {
+            "itemId": "815252422792",
+            "cityName": "北京站",
+            "showTime": "10.05"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=815252422792"
+}
