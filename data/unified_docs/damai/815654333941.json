@@ -1,0 +1,84 @@
+{
+    "platform": "大麦",
+    "project_id": "815654333941",
+    "project_name": "2024张信哲「未来式终极版」巡回演唱会—洛阳站",
+    "category_name": "演唱会",
+    "artists": [
+        "张信哲"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.31 周六 19:30",
+    "session_time": [
+        "08.31 周六"
+    ],
+    "price": "388-1388",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "洛阳",
+    "venue_name": "洛阳市体育中心体育场(洛阳新区体育场)",
+    "venue_info": {
+        "venue_address": "洛阳新区体育场",
+        "lng": 112.430924,
+        "lat": 34.620366
+    },
+    "project_info": "\n\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01Px5uzw2GdScAtddPX_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01jFXGEQ2GdSc8I2TPE_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01gOwk4B2GdScCCOwCY_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01HEGol32GdSc0m3z8U_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01wtlgEu2GdSc7t93WZ_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01o582Yk2GdSc7pB0t9_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ojubKB2GdSc9Lr7YR_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "8560",
+        "wantNumStr": "8560",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过60%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "798056505138",
+            "cityName": "沈阳站",
+            "showTime": "07.27"
+        },
+        {
+            "itemId": "815654333941",
+            "cityName": "洛阳站",
+            "showTime": "08.31"
+        },
+        {
+            "itemId": "809500008313",
+            "cityName": "太原站",
+            "showTime": "09.15"
+        },
+        {
+            "itemId": "807142718596",
+            "cityName": "滁州站",
+            "showTime": "09.21"
+        },
+        {
+            "itemId": "814428278833",
+            "cityName": "南通站",
+            "showTime": "09.28"
+        },
+        {
+            "itemId": "809890722856",
+            "cityName": "乌鲁木齐站",
+            "showTime": "08.10"
+        },
+        {
+            "itemId": "803528522786",
+            "cityName": "兰州站",
+            "showTime": "08.24"
+        },
+        {
+            "itemId": "795393918044",
+            "cityName": "青岛站",
+            "showTime": "07.20"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=815654333941"
+}

@@ -1,0 +1,61 @@
+{
+    "platform": "大麦",
+    "project_id": "815589311252",
+    "project_name": "2024长春银河左岸音乐节",
+    "category_name": "演唱会",
+    "artists": [
+        "十个勤天",
+        "陆虎",
+        "苏醒",
+        "王栎鑫",
+        "张远",
+        "郑人予",
+        "旅行新蜜蜂乐队",
+        "周峻纬",
+        "李宸旭",
+        "许钊豪"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.15-09.16",
+    "session_time": [],
+    "price": "199-498",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "长春",
+    "venue_name": "长春奥林匹克公园东侧停车场(吉林省长春市宽城区中科大街与大学城路交汇)",
+    "venue_info": {
+        "venue_address": "吉林省长春市宽城区中科大街与大学城路交汇",
+        "lng": 125.418615,
+        "lat": 43.993868
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01P9v2gz2GdScD1TvoL_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01nHqal22GdScBosQpb_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "13164",
+        "wantNumStr": "1.3万",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "815589311252",
+            "cityName": "长春站",
+            "showTime": "09.15-09.16"
+        },
+        {
+            "itemId": "798960762535",
+            "cityName": "贵阳站",
+            "showTime": "08.03-08.04"
+        },
+        {
+            "itemId": "805351105047",
+            "cityName": "扬州站",
+            "showTime": "09.07-09.08"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=815589311252"
+}

@@ -1,0 +1,581 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1377",
+    "cityname": "成都",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_815040582796",
+    "imgurl": "-439528765",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "《信乐团“伟大信仰”全国巡回演唱会》成都站",
+    "nameNoHtml": "《信乐团“伟大信仰”全国巡回演唱会》成都站",
+    "price": "288.0",
+    "price_str": "288-588",
+    "pricehigh": "588.0",
+    "privilegeTags": "[]",
+    "projectid": "815040582796",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.09.21 周六 19:30",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "CH8绿树演艺中心",
+    "venuecity": "成都",
+    "venueid": "6559007",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01UTh8dd2GdSc8JRRAi_!!0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "815040582796",
+                    "itemName": "【成都】《信乐团“伟大信仰”全国巡回演唱会》成都站",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "510100",
+                    "cityName": "成都市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01UTh8dd2GdSc8JRRAi_!!0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i4/2251059038/O1CN01UTh8dd2GdSc8JRRAi_!!0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.09.21 周六 19:30",
+                    "showDuration": "约120分钟，仅供参考，最终以现场实际时长为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票",
+                            "tagDesc": "本项目需实名制购票，购票完成后观演人信息不可更改。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：河南新空气文化传播有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：河南新空气文化传播有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1377",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>信乐团“伟大信仰”全国巡回演唱会-成都站</strong></p>\n<p>时间：2024年9月21日晚19：30</p>\n<p>地点：CH8绿树演艺中心</p>\n<p>&nbsp;</p>\n<p>门票价格</p>\n<p>预售288/全价368/VIP588</p>\n<p>购买VIP588价位门票的，均可获得以下权益：</p>\n<p>信乐团亲笔签名照一张</p>\n<p>定制折扇一把</p>\n<p>定制T恤一件</p>\n<p>10人大合影机会</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01i8rXth2GdSc6qy8He_!!2251059038.png\" width=\"553\" height=\"368\" damai_width=\"553\" damai_height=\"368\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01rujpBG2GdSc8PprxV_!!2251059038.png\" width=\"553\" height=\"790\" damai_width=\"553\" damai_height=\"790\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN015uWCTJ2GdSc7unS7y_!!2251059038.png\" width=\"553\" height=\"553\" damai_width=\"553\" damai_height=\"553\"></p>\n<p>信乐团，作为华语乐坛最具代表力和影响力的乐团，发表了许多脍炙人口的名曲，</p>\n<p>有风靡学生时代的《死了都要爱》、即使心碎也要学会放手的《离歌》、能掀起大合唱的《海阔天空》……。</p>\n<p>现在，信乐团将携熟悉的旋律和精心准备的舞台抵达成都，再次演绎伟大信仰！</p>\n<p>信乐团成都演唱会将激情唱响，等你一起摇滚，一起狂欢，全身心感受音乐的魅力！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01V4zCdD2GdSc8JOPjD_!!2251059038.png\" width=\"378\" height=\"504\" damai_width=\"378\" damai_height=\"504\"></p>\n<p><strong>信乐团，华人摇滚天团。</strong></p>\n<p>由团长兼鼓手黄迈可、主唱刘飞鸣（原名，刘文杰）、键盘手傅超华、吉他手吴力匀组成，自2002年成团以来先后推出多首经典之作，他们的作品也成为了摇滚乐迷心中的经典，出于对生活的爱与摇滚精神的坚持，乐团取名为“信”。</p>\n<p>回望来时路，最开始一群热血莽撞的少年在华语音乐道路上闷头向前，一路跌跌撞撞走到了今天，不忘初心，摇滚不停，热爱不灭！</p>\n<p>信乐团自成团以来先后推出多首经典之作，他们的作品受到了无数粉丝的喜爱，一时间红遍大街小巷。</p>\n<p>流行乐坛，新人辈出，各领风骚，更新换代常态，而能屹立乐坛20多年，不被时代大浪淘沙所淹没实属不易，信乐团堪称摇滚传奇。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN012H1ASe2GdSc6r0Y9I_!!2251059038.png\" width=\"552\" height=\"414\" damai_width=\"552\" damai_height=\"414\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ratb802GdSc6NglGO_!!2251059038.png\" width=\"552\" height=\"414\" damai_width=\"552\" damai_height=\"414\"></p>\n<p><strong>正如其名字一样，信乐团，是对摇滚精神生与活的坚持与信仰！</strong></p>\n<p>信乐团巡回演唱会，先后走过上海、杭州，佛山，郑州等城市，将来到成都，音乐不停，巡演不断，信乐团的到来，只为唤醒观众内心的记忆，激起压抑的热情之火，现场零距离的接触，让等候许久的铁粉大呼过瘾。</p>\n<p>这一次，信乐团重新启动，坚持规划全新舞台视觉，届时，他们将带来最活跃的演出，宠粉无极限，激情四射，劲爆来袭！</p>\n<p>难熬的夜终于过去，让我们跟随信乐团，用歌声抒发埋藏心中深处的压抑与哀叹，让不屈的灵魂在这场万众瞩目的演唱会上彻底释放，唯有音乐是解药，不淋漓尽致不痛快。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01MDwAzO2GdSc9S0ObV_!!2251059038.png\" width=\"552\" height=\"414\" damai_width=\"552\" damai_height=\"414\"></p>\n<p><strong>为呈现更好的舞台，信乐团精心筹备</strong></p>\n<p>在见证了2024信乐团20周年巡演成都站的你，一定会被演唱会现场震撼，曲目编排为你我唱响《伟大信仰》—囊括了信乐团二十年来的大量经典歌曲，全场歌迷与信乐团一起重温了20年来的音乐之路。</p>\n<p>为了此次演出，他们精心筹备包括演出舞美、灯光，曲目单等演出环节都将亲自参与，只为观众朋友呈现绝佳的音乐盛宴，届时，信乐团将带来二十余首摇滚歌曲，无论是从《One Night In BeiJing》，到《假如》、《死了都要爱》、《回不去了》、《离歌》、《海阔天空》，还是其他经典曲目，势必掀起全场大合唱、集体回忆杀，让所有观众都享受一场热烈的音乐风暴！</p>\n<p>让我们跟随信乐团，用音乐抒发埋藏心中深处的情绪，</p>\n<p>让不屈的灵魂，在这场万众瞩目的演唱会上，彻底释放！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01QjcolY2GdScAeN3fs_!!2251059038.png\" width=\"635\" height=\"414\" damai_width=\"635\" damai_height=\"414\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01y60Y3q2GdSc6r25tU_!!2251059038.png\" width=\"640\" height=\"360\" damai_width=\"640\" damai_height=\"360\"></p>\n<p>信乐团成都演唱会与你相约现场，去见曾陪伴整个青春的信乐团，不淋漓尽致不痛快！</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "河南新空气文化传播有限公司",
+                            "socialCreditCode": "91410105674135219H",
+                            "legalPerson": "陈乐乐",
+                            "regCapStr": "1000万人民币",
+                            "opFrom": "",
+                            "opTo": "长期",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "河南省郑州市金水区经三北路32号财富广场3号楼20楼2001"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    },
+                    {
+                        "title": "转送说明",
+                        "content": "本项目支持电子票转送，转送功能将在演出前24小时关闭。（注：当前仅支持大麦下单用户，暂不支持淘宝／天猫，支付宝本地生活下单用户发起转送，仅支持大麦APP发起和接收转送票品）"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳台居民居住证/港澳居民来往内地通行证/护照/台湾居民来往大陆通行证/身份证/外国人永久居留身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟，仅供参考，最终以现场实际时长为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约90分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "10"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "信乐团"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "100分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "1120"
+                                },
+                                {
+                                    "title": "转送说明",
+                                    "content": "本项目支持电子票转送，转送功能将在演出前24小时关闭。（注：当前仅支持大麦下单用户，暂不支持淘宝／天猫，支付宝本地生活下单用户发起转送，仅支持大麦APP发起和接收转送票品）"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ]
+                },
+                "venue": {
+                    "venueId": "6559007",
+                    "venueName": "CH8绿树演艺中心",
+                    "venueProvinceName": "四川省",
+                    "venueCityName": "成都市",
+                    "lng": 104.107616,
+                    "lat": 30.705624,
+                    "venueAddr": " 昭青路333号天府国际动漫城CH8绿树演艺中心",
+                    "showCountText": "共有9个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=815040582796"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D815040582796%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "110",
+                    "wantNumStr": "110",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01bMZ0oW1WC0GXqoK9h_!!6000000002751-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/798186/159637295.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN017sq23P1nF4O5uJsRB_!!6000000005059-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/716269/143253846.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN010Y49WU1vtqZhHVKPn_!!6000000006231-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "30205455518",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1706065333012/1706065333012-main.jpg",
+                    "note": "“伟大信仰”信乐团成团20周年世界巡回演唱会",
+                    "categoryName": "其他",
+                    "title": "“伟大信仰”信乐团成团20周年世界巡回演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1721114280000",
+                "sellStartTimeStr": "07月16日 15:18",
+                "countDown": "47012",
+                "rcdt": "47011401",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥288-¥588",
+                "performBases": [
+                    {
+                        "name": "09.21 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1726848000000",
+                        "performs": [
+                            {
+                                "performId": "215653085",
+                                "performName": "2024-09-21  周六 19:30",
+                                "itemId": "815040582796",
+                                "projectId": "221391024",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1726918200000",
+                                "performTime": "2024.09.21 19:30",
+                                "performStartDate": "2024-09-21",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "立即购买",
+                "buyBtnStatusAfterCountDown": "204",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8150405827/2/815040582796.jpg"
+            }
+        }
+    }
+}
