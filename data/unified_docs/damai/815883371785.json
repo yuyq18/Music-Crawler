@@ -1,0 +1,57 @@
+{
+    "platform": "大麦",
+    "project_id": "815883371785",
+    "project_name": "苏运莹「圆与自然」2024个人音乐会 南京站",
+    "category_name": "演唱会",
+    "artists": [
+        "苏运莹"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.31 周六 20:00",
+    "session_time": [],
+    "price": "288-588",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南京",
+    "venue_name": "稻香演艺中心",
+    "venue_info": {
+        "venue_address": "西城路277号稻香演艺中心",
+        "lng": 118.73722,
+        "lat": 31.979592
+    },
+    "project_info": "苏运莹「圆与自然」2024个人音乐会 南京站\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01iAalMZ2GdScDX6NzC_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01fGk8L32GdSc6zg9Gr_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "208",
+        "wantNumStr": "208",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "815883371785",
+            "cityName": "南京站",
+            "showTime": "08.31"
+        },
+        {
+            "itemId": "786776602810",
+            "cityName": "深圳站",
+            "showTime": "07.20"
+        },
+        {
+            "itemId": "801947276040",
+            "cityName": "合肥站",
+            "showTime": "08.03"
+        },
+        {
+            "itemId": "804868395594",
+            "cityName": "成都站",
+            "showTime": "08.10"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=815883371785"
+}
