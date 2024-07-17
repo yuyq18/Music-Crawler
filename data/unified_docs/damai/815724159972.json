@@ -1,0 +1,82 @@
+{
+    "platform": "大麦",
+    "project_id": "815724159972",
+    "project_name": "马頔「亿万落日里的心」2024巡演—北京站",
+    "category_name": "演唱会",
+    "artists": [
+        "马頔"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.14 周六 20:00",
+    "session_time": [],
+    "price": "228-288",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "福浪LIVEHOUSE-福",
+    "venue_info": {
+        "venue_address": "北京市朝阳区奥园西路1号院",
+        "lng": 116.395081,
+        "lat": 39.981128
+    },
+    "project_info": "活动介绍：",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01WYp4km2GdSc9HNYe6_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01gu6gX52GdScFLZZVS_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "2917",
+        "wantNumStr": "2917",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "815724159972",
+            "cityName": "北京站",
+            "showTime": "09.14"
+        },
+        {
+            "itemId": "807718487888",
+            "cityName": "合肥站",
+            "showTime": "08.10"
+        },
+        {
+            "itemId": "807992182736",
+            "cityName": "武汉站",
+            "showTime": "08.17"
+        },
+        {
+            "itemId": "808166293057",
+            "cityName": "成都站",
+            "showTime": "08.24"
+        },
+        {
+            "itemId": "808219912803",
+            "cityName": "佛山站",
+            "showTime": "08.31"
+        },
+        {
+            "itemId": "808226900948",
+            "cityName": "沈阳站",
+            "showTime": "09.07"
+        },
+        {
+            "itemId": "808048568018",
+            "cityName": "南京站",
+            "showTime": "08.08"
+        },
+        {
+            "itemId": "807982225861",
+            "cityName": "上海站",
+            "showTime": "08.15"
+        },
+        {
+            "itemId": "808153873851",
+            "cityName": "深圳站",
+            "showTime": "08.29"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=815724159972"
+}

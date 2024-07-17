@@ -1,0 +1,218 @@
+{
+    "searchType": "SHOW",
+    "showId": "66976a6cecfab60001663687",
+    "stdShowId": "66953592ea87e40001fa6f9f",
+    "showName": "【长春】“月亮代表我的心”致敬邓丽君经典金曲演唱会",
+    "showDate": "2024.09.17 19:30",
+    "cityName": "长春",
+    "cityId": "2201",
+    "showStatus": "ONSALE",
+    "minOriginalPrice": "80.0",
+    "posterUrl": "https://cdn.ticketmars.com/image/prod/20240715_14/17210549100699077.jpg",
+    "venueId": "5b9f705e908c382e93b36906",
+    "venueName": "桃李梅大剧院",
+    "backendCategory": "{'code': 17, 'displayName': '演唱会', 'name': 'YanChangHui'}",
+    "isFree": "False",
+    "firstShowTime": "1726572600000",
+    "lastShowTime": "1726578000000",
+    "minOriginalPriceInfo": "{'yuanNum': '80', 'centNum': '', 'suffix': '起', 'prefix': '￥'}",
+    "latestShowTime": "1726572600000",
+    "showSessionDates": "['20240917']",
+    "soldOut": "False",
+    "sessionNum": "1",
+    "seatPlanNum": "4",
+    "rsCode": 200,
+    "basicInfo": {
+        "hotMode": true,
+        "stdShowId": "66953592ea87e40001fa6f9f",
+        "showName": "【长春】“月亮代表我的心”致敬邓丽君经典金曲演唱会",
+        "sourceType": "SELF_DISTRIBUTION",
+        "originalSeatPickType": "SUPPORT_NONE",
+        "contentUrl": "https://cdn.ticketmars.com/prod/showContent/66976a6cecfab60001663687/content_66976a6cecfab6000166368e.content",
+        "posterUrl": "https://cdn.ticketmars.com/image/prod/20240715_14/17210549100699077.jpg",
+        "posterColor": "#593122ff",
+        "venueId": "5b9f705e908c382e93b36906",
+        "venueName": "桃李梅大剧院",
+        "venueAddress": "长春市朝阳区自由大路509号",
+        "venueLat": 43.864286,
+        "venueLng": 125.314533,
+        "cityId": "2201",
+        "cityName": "长春市",
+        "onSaleShowCount": 1,
+        "showTags": [],
+        "authorizationUrl": "",
+        "minOriginalPriceInfo": {
+            "yuanNum": "80",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "maxOriginalPriceInfo": {
+            "yuanNum": "380",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "showDate": "2024年09月17日 19:30",
+        "showDuration": "约120分钟（以现场为准）",
+        "seatPlanURL": "https://cdn.ticketmars.com/image/prod/20240715_83/17210549293353463.png",
+        "displayAdvance": false,
+        "venueDisplayAdvance": false,
+        "sessionDisplayAdvance": false,
+        "seatPlanDisplayAdvance": false,
+        "showType": {
+            "name": "YanChangHui"
+        },
+        "showDetailStatus": "ON_SALE",
+        "parentMerchantId": "653f9a7c477f8c0001cdcac0",
+        "existsPrivilegePurchase": false,
+        "displayCountdownTime": true,
+        "captchaTypes": []
+    },
+    "additionalInfo": {
+        "hasCoupon": true,
+        "hasPromo": false,
+        "hasAddPurchase": false,
+        "hasUserPromo": false,
+        "hasPCard": false,
+        "hasPriority": false,
+        "hasChannelDiscount": false,
+        "checkChannelFreeCombo": false,
+        "channelPickSeatProject": false,
+        "hasTyingSale": false,
+        "hasJumpGuid": false
+    },
+    "descInfo": {
+        "observationInstructions": [
+            {
+                "key": "TICKETS_AND_ADMISSION",
+                "name": "票品及入场",
+                "value": "纸质票：须携带纸质门票验票入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "ENTRY_TIME",
+                "name": "入场时间",
+                "value": "请于开始前约30分钟入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "SHOW_DURATION",
+                "name": "演出时长",
+                "value": "约120分钟（以现场为准）",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "MAIN_ACTOR",
+                "name": "主要演员(团体)",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "RESTRICTED_ITEM",
+                "name": "禁止携带物品",
+                "value": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "LUGGAGE_DEPOSIT",
+                "name": "物品寄存",
+                "value": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            }
+        ],
+        "ticketInstructions": [
+            {
+                "key": "CHILDREN_INTRODUCTION",
+                "name": "儿童购票",
+                "value": "1.2米以上凭成人票入场，1.2米以下谢绝入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "DELIVERY_DESC",
+                "name": "配送信息说明",
+                "value": "不支持修改配送电话、地址等信息",
+                "seq": 2
+            },
+            {
+                "key": "REAL_NAME_PURCHASE_TICKET_INTRODUCTION",
+                "name": "实名购票规则",
+                "value": "无证件要求",
+                "isMarked": false,
+                "tagContent": "非实名购票",
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "EXCEPTION_ORDER_INTRODUCTION",
+                "name": "异常排单说明",
+                "value": "对于异常订购行为，商家有权在订单成立或者生效之后取消相应订单。 异常订购行为包括但不限于以下情形： （1）通过同一ID订购超出限购张数的订单。 （2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "LIMITATION",
+                "name": "限购规则",
+                "value": "每个场次限购6张/套，项目限购20张/套",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "EXCHANGE_POLICY",
+                "name": "退换政策",
+                "value": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            },
+            {
+                "key": "INVOICE_INTRODUCTION",
+                "name": "发票说明",
+                "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 7
+            }
+        ],
+        "markedTextList": []
+    },
+    "noteInfos": [
+        {
+            "name": "不支持七天无理由退换",
+            "value": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+            "type": false,
+            "code": "NO_SUPPORT_REFUND"
+        },
+        {
+            "name": "快递送票",
+            "value": "纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。注：到达离开演时间最少配送天数时，不再寄送快递票（具体以下单过程提示为准）",
+            "type": true,
+            "code": "EXPRESS"
+        },
+        {
+            "name": "发票说明",
+            "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具。",
+            "type": false,
+            "code": "BILL_APPLY"
+        }
+    ],
+    "announcement": [],
+    "whiteTags": [],
+    "watcherReplacer": "观演"
+}
