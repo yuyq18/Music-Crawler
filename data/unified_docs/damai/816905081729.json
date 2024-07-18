@@ -1,0 +1,69 @@
+{
+    "platform": "大麦",
+    "project_id": "816905081729",
+    "project_name": "2024郎朗音乐盛典—福州站",
+    "category_name": "演唱会",
+    "artists": [
+        "郎朗",
+        "黄子弘凡"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.16 周五 19:30",
+    "session_time": [
+        "08.16 周五"
+    ],
+    "price": "280-2280",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "福州",
+    "venue_name": "福州海峡奥林匹克体育中心综合馆",
+    "venue_info": {
+        "venue_address": "福州南台岛仓山道山路59号",
+        "lng": 119.284567,
+        "lat": 26.019484
+    },
+    "project_info": "2024郎朗音乐盛典—福州站\n演出时间：2024年8月16日19:30演出地点：福州海峡奥林匹克体育中心综合体育馆演出单票价：280元 480元 680元 1080元 1280元1680元双人套票票价：（1080*2）1980 （1280*2）2280\n中国的骄傲 世界的郎朗2024郎朗音乐盛典福州站8月16日 19:30海峡奥林匹克中心综合馆天籁之音 琴动榕城让我们一起聆听一场关于音乐、关于梦想、关于热爱的视听盛宴中国名片 享誉国际\n钢琴家郎朗，被称为“当今世界最年轻、最受欢迎钢琴大师”是首位受聘于柏林爱乐乐团和美国五大交响乐团的亚洲钢琴家，已成为中国人在国际艺术舞台成功典范，是中国文化名片。更是享誉国际的艺术家，是联合国历史上最年轻的和平大使也是首位获此殊荣的中国人。郎朗以音乐感染力和其个人影响力，为世界文化交流做出贡献。音符闪烁 定义热爱\n在音乐的浩瀚星空中，钢琴家郎朗如同一颗璀璨的星辰，用他独特的魅力照亮了无数人的梦想之路。他的故事，是关于音符闪烁的传奇，是关于美好生活的诠释，更是关于梦想与坚持的赞歌。\n天籁之音 琴动榕城\n福州这座山清水秀、人文温暖的城市，以其独特的魅力和丰富的文化底蕴吸引着无数游客和艺术家，郎朗的到来，无疑为福州的文化艺术界注入了新的活力。让福州热爱艺术的人在家门口就能享受到国际级的高水平音乐盛宴，他用自己的音乐才华和人格魅力，为福州的文化生活增添了浓墨重彩的一笔，也为福州的青少年音乐教育和音乐事业的发展贡献了自己的力量。有福之州 音为有你\n8月16日 诚邀您共享此次音乐盛宴，不仅能够欣赏到郎朗精湛的演奏技艺，更能够感受到他对音乐的执着与追求。让我们一同沉浸在这美妙的音乐世界中，感受郎朗带给我们的无尽感动与震撼吧！有福之州，音为有你更精彩！",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01TxsuRI2GdScE4NHRr_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01eatdRE2GdScC3l25M_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01UxAI9O2GdSc519xeP_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01X8E9C72GdScC86RBG_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01hiD5a72GdScFiJzdQ_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01xhGTWJ2GdScF60dj5_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "4247",
+        "wantNumStr": "4247",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "816905081729",
+            "cityName": "福州站",
+            "showTime": "08.16"
+        },
+        {
+            "itemId": "813874595805",
+            "cityName": "重庆站",
+            "showTime": "08.18"
+        },
+        {
+            "itemId": "807718709492",
+            "cityName": "沈阳站",
+            "showTime": "08.23"
+        },
+        {
+            "itemId": "807887413840",
+            "cityName": "烟台站",
+            "showTime": "08.02"
+        },
+        {
+            "itemId": "805024041275",
+            "cityName": "西安站",
+            "showTime": "08.08"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=816905081729"
+}

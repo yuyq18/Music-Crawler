@@ -1,0 +1,70 @@
+{
+    "platform": "大麦",
+    "project_id": "816328939598",
+    "project_name": "HAYA乐团「迁徙」武汉专场",
+    "category_name": "演唱会",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2024.10.19 周六 20:00",
+    "session_time": [
+        "10.19 周六"
+    ],
+    "price": "150-260",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "武汉",
+    "venue_name": "VOX LIVEHOUSE 武昌店",
+    "venue_info": {
+        "venue_address": "武汉市洪山区光谷步行街意大利风情街5号楼负1楼",
+        "lng": 114.407552,
+        "lat": 30.501782
+    },
+    "project_info": "巡演现场见！",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01AjReGA2GdScCtDqxr_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN012DIWm32GdScCzpnk5_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN017ZhVtx2GdSc8bIB6O_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01qZQVfe2GdSc8bIiO6_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01b90yrL2GdSc9P3Cqx_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01bA7jKq2GdScE8ImmG_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01c5BGXB2GdScDvObfb_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01DaKX1T2GdScFKifVE_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01uIiUfv2GdScE8LXDO_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01AnvKiy2GdScE8Jafs_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01vZWRbi2GdScBos0h5_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01DJqi5K2GdScBAD6IT_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN0150iBXd2GdScEkecda_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN0185nMx42GdScBXuCTI_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01XxrtaR2GdScB5biYB_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "815976931745",
+            "cityName": "杭州站",
+            "showTime": "09.17"
+        },
+        {
+            "itemId": "816762412344",
+            "cityName": "郑州站",
+            "showTime": "09.27"
+        },
+        {
+            "itemId": "816328939598",
+            "cityName": "武汉站",
+            "showTime": "10.19"
+        },
+        {
+            "itemId": "816651437559",
+            "cityName": "厦门站",
+            "showTime": "11.01"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=816328939598"
+}
