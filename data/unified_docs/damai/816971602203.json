@@ -1,0 +1,52 @@
+{
+    "platform": "大麦",
+    "project_id": "816971602203",
+    "project_name": "2024 R.E.D组合 “DateDay”主题见面会-深圳站",
+    "category_name": "演唱会",
+    "artists": [
+        "R.E.D"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.23-08.24",
+    "session_time": [],
+    "price": "318-518",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "HOU LIVE X Mixc cube",
+    "venue_info": {
+        "venue_address": "科苑南路2666号中国华润大厦B1层发布厅",
+        "lng": 113.946639,
+        "lat": 22.514938
+    },
+    "project_info": "R.E.D Date Day 来自东方的眼眸投向世界的耀眼新光\n共同的信念集结，声响自东方而起历经100天考验，7位少女一路披荆斩棘，最终破茧成蝶。从稚嫩的舞台见习生到帅气的R.E.D组合，回首一路的风景，虽有来自各方的声音，但女孩们从未怀疑过初心，而是更加坚定心中的梦想。练习室和舞台上挥洒的汗水与泪水，为她们炽热的青春和赤火的热情添油助火。她们，要让世界看到东方的力量！\n以东方血脉向世界Show it all！R.E.D组合携首张迷你专辑《Oriental - R.E.D》向世界传递她们的思考，选曲从内化的成长意识出发，回归更加纯粹的个性表达，希望探索出属于中国女子团体独有的风潮。她们用先锋性的作品，带给大家全新的视听盛宴，努力创造属于R.E.D的时代。\n\n她们带着对世界的好奇，一起闯进了不同的挑战关卡，经历让她们在懵懂青涩的年纪，从追风人变成了造风者。回忆种种际遇，是世界的温柔与爱，簇拥着她们茁壮成长。我们一直相信，实力是最好的证词，真诚是最深的爱意。为了回馈一路伴我们成长的同行者，七个女孩潜心训练，用感谢和决心为观众带来惊喜约会。R.E.D“Date Day”主题见面会将在8月登陆北京、上海、深圳三座城市，邀请各位一起奔赴约会，在这个火一样的盛夏，我们不见不散！",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01og6AV12GdScAObeek_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01rokkaX2GdScENtR6b_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "3239",
+        "wantNumStr": "3239",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "816522230338",
+            "cityName": "北京站",
+            "showTime": "08.08-08.09"
+        },
+        {
+            "itemId": "816565135543",
+            "cityName": "上海站",
+            "showTime": "08.21-08.22"
+        },
+        {
+            "itemId": "816971602203",
+            "cityName": "深圳站",
+            "showTime": "08.23-08.24"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=816971602203"
+}

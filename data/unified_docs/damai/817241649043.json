@@ -1,0 +1,61 @@
+{
+    "platform": "大麦",
+    "project_id": "817241649043",
+    "project_name": "阿悄【来了】2024巡回演唱会-深圳站",
+    "category_name": "演唱会",
+    "artists": [
+        "阿悄"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.23 周五 19:30",
+    "session_time": [
+        "08.23 周五"
+    ],
+    "price": "98-520",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "华夏艺术中心",
+    "venue_info": {
+        "venue_address": "深圳市华侨城光侨街1号华夏艺术中心",
+        "lng": 113.985373,
+        "lat": 22.534395
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01YWUXv02GdScF8QbVS_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN018ZhyzJ2GdScG3uRVH_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01WqJGeK2GdScGGseI6_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01AeB5ZE2GdSc6CsKoD_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01rZPtC92GdScE2iTsO_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Tw5tq42GdScGsrzgb_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN0160d4f72GdScF8NeSl_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01cBjHbP2GdScDJOQT8_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01sYUIBK2GdScDh99U6_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "342",
+        "wantNumStr": "342",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "817241649043",
+            "cityName": "深圳站",
+            "showTime": "08.23"
+        },
+        {
+            "itemId": "812070378319",
+            "cityName": "北京站",
+            "showTime": "08.03"
+        },
+        {
+            "itemId": "814294813045",
+            "cityName": "重庆站",
+            "showTime": "08.10"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=817241649043"
+}
