@@ -1,0 +1,506 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1847",
+    "cityname": "青岛",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_817737269034",
+    "imgurl": "-412561902",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "极光乐队 海阔天空·致敬BEYOND40周年演唱会",
+    "nameNoHtml": "极光乐队 海阔天空·致敬BEYOND40周年演唱会",
+    "price": "70.0",
+    "price_str": "70-220",
+    "pricehigh": "220.0",
+    "privilegeTags": "[]",
+    "projectid": "817737269034",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.11.16 周六 19:00",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "博兰斯勒(青岛)大剧院(青岛即墨)",
+    "venuecity": "青岛",
+    "venueid": "91827",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01wXrQoy2GdSc7w4Qqj_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "817737269034",
+                    "itemName": "【青岛】极光乐队 海阔天空·致敬BEYOND40周年演唱会",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "370200",
+                    "cityName": "青岛市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01wXrQoy2GdSc7w4Qqj_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i1/2251059038/O1CN01wXrQoy2GdSc7w4Qqj_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.11.16 周六 19:00",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：博兰斯勒（青岛）国际艺术中心有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：博兰斯勒（青岛）国际艺术中心有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1847",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><h3 style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong>极光乐队</strong></span></h3>\n<h3 style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong>海阔天空·致敬传奇BEYOND40年演唱会</strong></span></h3>\n<h4 style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01QIe3cV2GdScHm739T_!!2251059038.png\" width=\"337\" height=\"433\" damai_width=\"337\" damai_height=\"433\"><br></strong></span></h4>\n<p style=\"text-align: left;\"><span style=\"color: #ff0000;\"><span style=\"color: #000000;\">&nbsp; &nbsp; &nbsp; 海阔天空-致敬传奇·缅怀华语乐坛《黄家驹》1993年6月30日Beyond乐队黄家驹短暂又传奇的</span></span><span style=\"color: #ff0000;\"><span style=\"color: #000000;\">一生按下暂停键存在的光辉在人间为我们留下的是不朽的歌声和自由的灵魂。</span></span></p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01k7exff2GdScFBsQoe_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><span style=\"color: #000000;\">数十年后的今天他的歌声依旧深深烙印在我们心中激励我们<span style=\"color: #ff0000;\">坚强、不屈、热爱、自由、飞扬。</span></span></span><span style=\"color: #ff0000;\"><span style=\"color: #000000;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01NbjVE92GdScDAU35l_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff0000;\"><span style=\"color: #000000;\">&nbsp; &nbsp; &nbsp; 音乐的本质是让人开心、发泄心中的情绪，然而BEYOND乐队音乐包含了人性对社会的理解与宽大、从开心到励志他传递的是大爱、是包容。</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff0000;\"><span style=\"color: #000000;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01xWB44P2GdScF4bYQh_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff0000;\"><span style=\"color: #000000;\">&nbsp; &nbsp; &nbsp; 如果非要我说出一句《我为何喜欢BEYOND音乐》那么我只有一句话可以概括，那就是一种励志的爱，黄家驹倾尽毕生所有，创造出了无人可及的音乐作品，给我们后世留下的是音乐中的文化精神与精髓。</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff0000;\"><span style=\"color: #000000;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01iTIVI52GdScBopqBy_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></span></span></p>\n<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><span style=\"color: #000000;\">∧来自现场BEYOND歌迷的情怀∨</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff0000;\"><span style=\"color: #000000;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01DARg1c2GdScEgZZIR_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff0000;\"><span style=\"color: #000000;\">&nbsp; &nbsp; &nbsp; 他们吼出的不仅是歌声，更是他们对偶像一种崇拜的呐喊大家都是听Beyond的歌长大的对大家来说Beyond乐队是一个时代的印记一种不朽的精神纵使世间干万曲， 人间也再无黄家驹 。<img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01cZCv8L2GdScDda0lS_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></span></span></p>\n<p style=\"text-align: center;\">虽然人间再无黄家驹、但是他的精神永存于世</p>\n<p style=\"text-align: center;\">有的人即使活着亦是仿佛逝去</p>\n<p style=\"text-align: center;\">有的人即使逝去但他依然活着</p>\n<p style=\"text-align: left;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01bIraeb2GdScDAst7l_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp; &nbsp; &nbsp;<span style=\"color: #ff0000;\"> 极光乐队是国内唯一被香港著名音乐人、BEYOND御用填词人刘卓辉老师合作认可、致敬BEYOND的乐队</span>，2021极光乐队携手刘卓辉老师合作《刘卓辉作品粤语金曲》巡回演唱会深圳站、沈阳站。刘卓辉老师给予极光乐队的现场演奏质量以及专业粤语演唱以高度肯定和评价。</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Chx6od2GdScHPfhXu_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: center;\">极光乐队秉承着传承BEYOND音乐文化精神</p>\n<p>&nbsp; &nbsp; &nbsp; 将BEYOND音乐精神带到每一寸大地。2017－2023年在上海、深圳、成都、北京、沈阳、西安、长沙、&nbsp;山东、新疆、内蒙古等全国各大体育馆以及剧院、场场观众爆满完成几十场超万人次的演唱会。</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01KrEupx2GdScAhoDgD_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: center;\">&nbsp; 2023年3月团队赶赴马来西亚开启了海外巡演，当晚在吉隆坡现场上千位观众全程跟着大合唱，掀起演唱会的高潮。</p>\n<p style=\"text-align: left;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Cvh04e2GdSc69XUeX_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: left;\">&nbsp; &nbsp; &nbsp;这是国内致敬BEYOND乐队中首次第一支把BEYOND音乐文化精神传递延续到了海外的乐队，这也证明了了极光乐队表演水平，是可以跟国际接轨的。</p>\n<p style=\"text-align: left;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01IA3NL82GdScDB2I6C_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<h3 style=\"text-align: center;\"><strong>乐队主唱&nbsp;</strong></h3>\n<p style=\"text-align: left;\"><strong>&nbsp; &nbsp; &nbsp; 皮特·阿博&nbsp;</strong>唱作型歌⼿；上海⾳乐家协会流⾏⾳乐专业委员会会员；上海商会⽂化使者；演唱以国语、粤语、英语、等歌曲为主。演唱上幽默轻快的表演⻛格，在平淡⽆华⾃如流畅之中给⼈以⽿⽬⼀新的感觉，带动现场氛围的演唱能反馈出⾳乐本⾝的敏感情绪化特质。</p>\n<p style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; 皮特·阿博曾被刘卓辉老师点评是国内致敬BEYOND乐队中的天花板歌手，主要原因是其原音最接近黄家驹粤语发音。</p>\n<p style=\"text-align: left;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01EE9k9f2GdScBVc8HS_!!2251059038.jpg\" damai_width=\"null\" damai_height=\"null\"></p>\n<div class=\"tn-comp-top-level tn-from-house-paper-cp tn-comp-anim-pin tn-comp ng-scope\">\n<div class=\"tn-cell tn-cell-text horizontal-tb tn-state-active ng-scope\">\n<h3 style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong>曲目单</strong></span></h3>\n</div>\n</div>\n<div class=\"tn-comp-top-level tn-from-house-paper-cp tn-comp-anim-pin tn-comp ng-scope\" style=\"text-align: center;\">\n<div class=\"tn-cell tn-cell-image tn-state-active ng-scope\">&nbsp;</div>\n</div>\n<div class=\"tn-comp-top-level tn-from-house-paper-cp tn-comp-anim-pin tn-comp ng-scope\" style=\"text-align: center;\">\n<div class=\"tn-cell tn-cell-text horizontal-tb tn-state-active ng-scope\">\n<p><strong>喜欢你</strong></p>\n<p><strong>光辉岁月</strong></p>\n<p><strong>我是愤怒</strong></p>\n<p><strong>不再犹豫</strong></p>\n<p><strong>海阔天空</strong></p>\n<p><strong>情人</strong></p>\n<p><strong>真的爱你</strong></p>\n<p><strong>谁伴我闯荡</strong></p>\n<p><strong>冷雨夜</strong></p>\n<p><strong>午夜怨曲</strong></p>\n<p><strong>无泪的遗憾</strong></p>\n<p><strong>赤红热血</strong></p>\n<p><strong>无悔这一生</strong></p>\n<p><strong>冲开一切</strong></p>\n<p>&nbsp;</p>\n</div>\n</div>\n<div class=\"tn-comp-top-level tn-from-house-paper-cp tn-comp-anim-pin tn-comp ng-scope\">\n<div class=\"tn-cell tn-cell-text horizontal-tb tn-state-active ng-scope\">\n<h4 style=\"text-align: right;\"><span style=\"color: #ff0000;\"><strong>*曲目以当天演出为准</strong></span></h4>\n<h3><strong>博兰斯勒（青岛）大剧院温馨提示：</strong></h3>\n<h3><strong>1、为了您和其他观众的安全，排队等候期间，请听从剧院工作人员安排，有序排队、等候入场，文明观演。</strong></h3>\n<h3><strong>2、进入观众厅后，请按照演出票上的座位，对号入座，请勿在演出期间换座。</strong></h3>\n<h3><strong>3、演出期间，请遵守基本观演礼仪，禁止进行拍照、录音、录像，共同创造一个安全和谐的观演环境。</strong></h3>\n<h3><strong>4、观演期间，如有其他问题，请联系在场工作人员，我们将为您提供最优质服务。购票后请妥善保管票券，出现遗失、忘带等情况剧院不提供补票服务，窗口购票后离开柜台后概不负责。&nbsp;</strong></h3>\n<h3><span style=\"color: #ff0000;\"><strong>特别提醒：</strong></span></h3>\n<h3><span style=\"color: #ff0000;\"><strong>鉴于演出类门票为观演资格凭证，全网售票，与现场座位一一对应，具有唯一性、时效性，具有不同于普通商品的特殊性。</strong></span></h3>\n<h3><span style=\"color: #ff0000;\"><strong>所以，除不可抗力导致的演出取消、演出时间变更等情形外，大剧院演出票一经售出不退不换，不提供退换票服务。敬请购票方在购票时务必仔细核对您的订单信息后下单，并确定对此特别提示已经充分理解和接受，且此为购买方购票的前提条件，否则，敬请切勿下单购买。</strong></span></h3>\n<h3><span style=\"color: #ff0000;\"><strong>购票方一经下单购票，即视为已经认真阅读、充分理解和自愿接受此特别提示，并承诺在购票成功后不因购买方自身的原因退换票。</strong></span></h3>\n</div>\n</div></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须兑换成纸质票验票入场，当天请按照【票夹】提示，前往取票点换取纸质票后入场"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "5"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "100"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "91827",
+                    "venueName": "博兰斯勒(青岛)大剧院(青岛即墨)",
+                    "venueProvinceName": "山东省",
+                    "venueCityName": "青岛市",
+                    "lng": 120.542222,
+                    "lat": 36.403716,
+                    "venueAddr": "青岛市即墨区龙吉路85号",
+                    "showCountText": "共有3个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D817737269034%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "特惠选座",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1721526782000",
+                "sellStartTimeStr": "07月21日 09:53",
+                "priceRange": "¥56-¥176",
+                "performBases": [
+                    {
+                        "name": "11.16 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1731686400000",
+                        "performs": [
+                            {
+                                "performId": "215787011",
+                                "performName": "2024-11-16 星期六 19:00",
+                                "itemId": "817737269034",
+                                "projectId": "221486003",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1731754800000",
+                                "performTime": "2024.11.16 19:00",
+                                "performStartDate": "2024-11-16",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "黄家驹8折"
+                ],
+                "hasItemPromotionTag": "true",
+                "dashPrice": "¥70-¥220",
+                "promotions": [
+                    {
+                        "tag": "黄家驹8折",
+                        "type": "1",
+                        "content": "70元、100元、120元、150元、180元、220元票价打8.0折",
+                        "performanceIds": [
+                            "215787011"
+                        ]
+                    }
+                ],
+                "promotionRemark": "您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。",
+                "itemPromotionIds": "87553485451",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "1630146",
+                    "2939586"
+                ],
+                "promotionList": [
+                    {
+                        "type": "ITEM_DISCOUNT",
+                        "tag": "折扣",
+                        "isTagList": "false",
+                        "desc": "¥220票档，8折，到手¥176"
+                    }
+                ],
+                "promotionDetail": {
+                    "skuPromotionRelations": "817737269034&215787011&5520025481796_87553485451@5520025481797_87553485451@5520025481798_87553485451@5520025481799_87553485451@5520025481800_87553485451@5520025481801_87553485451",
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "1",
+                            "promotionGroupTypeDesc": "票档优惠",
+                            "promotionList": [
+                                {
+                                    "promotionType": "2",
+                                    "promotionTag": "折扣",
+                                    "promotionContentList": [
+                                        "¥70票档，8折，到手¥56",
+                                        "¥100票档，8折，到手¥80",
+                                        "¥120票档，8折，到手¥96",
+                                        "¥150票档，8折，到手¥120",
+                                        "¥180票档，8折，到手¥144",
+                                        "¥220票档，8折，到手¥176"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "¥120",
+                                            "displayContent": "8折，到手¥96"
+                                        },
+                                        {
+                                            "skuName": "¥100",
+                                            "displayContent": "8折，到手¥80"
+                                        },
+                                        {
+                                            "skuName": "¥180",
+                                            "displayContent": "8折，到手¥144"
+                                        },
+                                        {
+                                            "skuName": "¥220",
+                                            "displayContent": "8折，到手¥176"
+                                        },
+                                        {
+                                            "skuName": "¥150",
+                                            "displayContent": "8折，到手¥120"
+                                        },
+                                        {
+                                            "skuName": "¥70",
+                                            "displayContent": "8折，到手¥56"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8177372690/2/817737269034.jpg"
+            }
+        }
+    }
+}
