@@ -1,0 +1,545 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：徐佳莹",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "848",
+    "cityname": "中国香港",
+    "couponTags": "[]",
+    "description": "艺人：徐佳莹",
+    "id": "1_1_818465820511",
+    "imgurl": "-405276387",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "徐佳莹「变得有些奢侈的事」巡回演唱会",
+    "nameNoHtml": "徐佳莹「变得有些奢侈的事」巡回演唱会",
+    "price": "480.0",
+    "price_str": "480-1180",
+    "pricehigh": "1180.0",
+    "privilegeTags": "[]",
+    "projectid": "818465820511",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.09.21 周六 20:15",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "香港体育馆(红磡体育馆)",
+    "venuecity": "中国香港",
+    "venueid": "245",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01y4kbaV2GdScKxv1pW_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "818465820511",
+                    "itemName": "徐佳莹「变得有些奢侈的事」巡回演唱会",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "810100",
+                    "cityName": "中国香港",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01y4kbaV2GdScKxv1pW_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01y4kbaV2GdScKxv1pW_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01h8msWG2GdScH6kQCq_!!2251059038.jpg",
+                    "seatImages": [
+                        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01h8msWG2GdScH6kQCq_!!2251059038.jpg"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "2024.09.21 周六 20:15",
+                    "showDuration": "以现场为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "快递票",
+                            "tagDesc": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。发货前支持修改一次收货地址。\r\n注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagDescWithStyle": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。<b>发货前支持修改一次收货地址。</b><br/>注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "门票即发票",
+                            "tagDesc": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagDescWithStyle": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "893",
+                    "atomSplit": "1",
+                    "isHotProject": "true",
+                    "isShowHotProjectModel": "true",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>票价说明：</p>\n<p>港币票面价（HKD）：1180/880/680/480</p>\n<p>大麦人民币售价(CNY)：1180/880/680/480，门票已含中国港澳台服务费。</p>\n<p>&nbsp;</p>\n<p>配送说明：</p>\n<p>本项目不支持退换，购票成功的客户，请您提前规划好行程以及办理好港澳通行证-中国香港签注，实体门票将于演出前一周左右寄出，请您耐心等待，现场当天如忘记带票及对票情况不予处理，感谢您的支持与理解。&nbsp;</p>\n<p>&nbsp;</p>\n<p>演出介绍：</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01CCl9mr2GdScIzr1MY_!!2251059038.jpg\" width=\"3418\" height=\"5123\" damai_width=\"3418\" damai_height=\"5123\"></p>\n<p>敢「要」很奢侈，能「给」更奢侈。</p>\n<p>活在当下，言而由衷，敢不敢？</p>\n<p>我爱我的分身乏术，但我也恨它。</p>\n<p>保留一点ME&nbsp;TIME的寂寞，在看似坐拥一切时竟然感觉不可思议。</p>\n<p>还无法移除灵魂里「不羡慕别人」的木马程序。</p>\n<p>定义单纯的关系，原来不是初阶的问题。</p>\n<p>被爱的时候突然想念起那些痛苦去爱人的片刻。</p>\n<p>听完一首歌，能更喜欢自己一些，多奢侈！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ggjTlb2GdScIcdSB1_!!2251059038.jpg\" width=\"1500\" height=\"2163\" damai_width=\"1500\" damai_height=\"2163\"></p>\n<p>人一生只要学会好好呼吸就很难了。</p>\n<p>不是不知足，其实是我懂得珍惜了。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01RRmY312GdScHZhaSV_!!2251059038.jpg\" width=\"2000\" height=\"2832\" damai_width=\"2000\" damai_height=\"2832\"></p>\n<p>日子久了，有些事忽然变得有些奢侈，比如说，成为一位像徐佳莹这样的歌者。</p>\n<p>&nbsp;</p>\n<p>把爱过的人藏在歌里，公开自知秘密。把恨过的人写进歌里，让你哭笑着听。不忧心沉默，因为总有谁的故事接龙，为了懂得爱人，坦率地不安、善妒、脆弱。自我厌恶是一份灵感，像吃一顿早餐忍痛加颗蛋。快五年发一张专辑，简直迟到干脆直接睡过头！对这世界已没话好说，却还期待被一个人听懂。繁复的时代岂能轻易演算回答出单纯的感动？那让人又痛苦又快乐的初心，终究才最该被捧着。她说是废物，也满足，因为能给就是收获，准明星坐拥旷世巨作，开口从不跟谁平起平坐。</p>\n<p>&nbsp;</p>\n<p>作家黄丽群在「感觉有点奢侈的事」书里写着，「『从来不去讨谁欢心』这件事，正是生而为人至上的奢侈。」而对歌手徐佳莹来说，能在你面前唱歌，感动你、陪伴你，让你更喜欢自己一些，是她此刻最珍惜的奢侈。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01k90OVx2GdScJw25ol_!!2251059038.jpg\" width=\"3355\" height=\"5028\" damai_width=\"3355\" damai_height=\"5028\"></p>\n<p>徐佳瑩「變得有些奢侈的事」巡迴演唱會</p>\n<p>&nbsp;</p>\n<p>敢「要」很奢侈，能「給」更奢侈。</p>\n<p>活在當下，言而由衷，敢不敢？</p>\n<p>我愛我的分身乏術，但我也恨它。</p>\n<p>保留一點ME TIME的寂寞，看似坐擁一切時竟然感覺不可思議。</p>\n<p>還無法移除靈魂裡「不羨慕別人」的木馬程式。</p>\n<p>定義單純的關係，原來不是初階的問題。</p>\n<p>被愛的時候突然想念那些痛苦去愛人的片刻。</p>\n<p>聽完一首歌，能更喜歡自己一些，多奢侈啊！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01xomdTB2GdScKjYxf5_!!2251059038.jpg\" width=\"1820\" height=\"2782\" damai_width=\"1820\" damai_height=\"2782\"></p>\n<p>人一生只要學會好好呼吸就很難了。</p>\n<p>不是不知足，其實是我懂得珍惜了。</p>\n<p>&nbsp;</p>\n<p>日子久了，有些事忽然變得有些奢侈，比如說，成為像徐佳瑩這樣的歌者。</p>\n<p>&nbsp;</p>\n<p>把愛過的人藏在歌裡，公開自知秘密。把恨過的人寫進歌裡，讓你哭笑著聽。不憂心沉默，因為總有誰的故事接龍，為了懂得愛人，坦率地不安、善妒、脆弱。自我厭惡是一份靈感，像吃一頓早餐忍痛加顆蛋。快五年發一張專輯，簡直遲到乾脆直接睡過頭！對這世界已沒話好說，卻還期待被一個人聽懂。繁複的時代豈能輕易演算回答單純的感動？那讓人又痛苦又快樂的初心，終究才最該被捧著。她說是廢物，也滿足，因為能給就是收穫，準明星坐擁曠世鉅作，開口從不跟誰平起平坐。</p>\n<p>&nbsp;</p>\n<p>作家黃麗群在「感覺有點奢侈的事」書裡寫著，「『從來不去討誰歡心』這件事，正是生而為人至上的奢侈。」而對歌手徐佳瑩來說，能在你面前唱歌，感動你、陪伴你，讓你更喜歡自己一些，是她此刻最珍惜的奢侈。</p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "快递费",
+                        "content": "1.同城10.0元，发货后1-3天到达；省内12.0元，发货后1-3天到达；其他地区18.0元，发货后1-3天到达；澳门、香港、台湾40.0元，发货后1-5天到达。\r\n2.演出前4天不支持快递。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "本项目门票即是发票。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带纸质门票验票入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭门票入场，3岁以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "本项目门票即是发票。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约60分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "徐佳莹"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "100分鐘"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "245",
+                    "venueName": "香港体育馆(红磡体育馆)",
+                    "venueProvinceName": "中国香港",
+                    "venueCityName": "中国香港",
+                    "lng": 114.187031,
+                    "lat": 22.298631,
+                    "venueAddr": "香港九龙油尖旺区红磡畅运道九号",
+                    "region": "2"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "818465820511",
+                        "cityName": "中国香港站",
+                        "showTime": "09.21",
+                        "tourId": "4366"
+                    },
+                    {
+                        "itemId": "807081243052",
+                        "cityName": "上海站",
+                        "showTime": "08.03",
+                        "tourId": "4366"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址",
+                                    "海外邮箱"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=818465820511"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D818465820511%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "2431",
+                        "artistName": "徐佳莹",
+                        "archives": "中国台湾创作型女歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413397617/1534413397617-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "2431",
+                        "name": "徐佳莹",
+                        "desc": "中国台湾创作型女歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413397617/1534413397617-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "1759",
+                    "wantNumStr": "1759",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i2/O1CN01WMBkkT1Lnb08vVqc0_!!6000000001344-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2260827/452165524_1693131682152.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01sUUZpm1tgRkwPdMX0_!!6000000005931-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1212312/242462553_1686676694574.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01uK2rVR245JPpd1bSf_!!6000000007339-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1721872800000",
+                "sellStartTimeStr": "07月25日 10:00",
+                "countDown": "27911",
+                "rcdt": "27910767",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥480-¥1180",
+                "performBases": [
+                    {
+                        "name": "09.21 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1726848000000",
+                        "performs": [
+                            {
+                                "performId": "215757164",
+                                "performName": "2024-09-21  周六 20:15",
+                                "itemId": "818465820511",
+                                "projectId": "221489013",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1726920900000",
+                                "performTime": "2024.09.21 20:15",
+                                "performStartDate": "2024-09-21",
+                                "performBeginTime": "20:15",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "立即购买",
+                "buyBtnStatusAfterCountDown": "204",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "388674",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "1611",
+                    "4939",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8184658205/2/818465820511.jpg"
+            }
+        }
+    }
+}

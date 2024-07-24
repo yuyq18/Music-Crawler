@@ -1,0 +1,606 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：蔡健雅、詹雯婷、希林娜依·高、黄誉博、符龙飞、刘忻、旅行新蜜蜂乐队、袁娅维、曾轶可、二手玫瑰、回春丹乐队、棱镜乐队、旅行团乐队、朴树、逃跑计划、夏日入侵企画、新裤子、赵雷、陈绮贞、黄子弘凡、林宥嘉、汪苏泷、谢可寅、颜人中、周峻纬、郑润泽、h3R3刘清云、队长YoungCaptain、陈楚生、陆虎、蒲熠星、石凯、苏醒、王栎鑫、王铮亮、张远",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1077",
+    "cityname": "常州",
+    "couponTags": "[]",
+    "description": "艺人：蔡健雅、詹雯婷、希林娜依·高、黄誉博、符龙飞、刘忻、旅行新蜜蜂乐队、袁娅维、曾轶可、二手玫瑰、回春丹乐队、棱镜乐队、旅行团乐队、朴树、逃跑计划、夏日入侵企画、新裤子、赵雷、陈绮贞、黄子弘凡、林宥嘉、汪苏泷、谢可寅、颜人中、周峻纬、郑润泽、h3R3刘清云、队长YoungCaptain、陈楚生、陆虎、蒲熠星、石凯、苏醒、王栎鑫、王铮亮、张远",
+    "id": "1_1_818786569574",
+    "imgurl": "-402068897",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "柏瑞美·第九届太湖湾音乐节",
+    "nameNoHtml": "柏瑞美·第九届太湖湾音乐节",
+    "price": {
+        "range": "399"
+    },
+    "price_str": "399",
+    "pricehigh": "399.0",
+    "privilegeTags": "[]",
+    "projectid": "818786569574",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.10.02-10.05",
+    "sitestatus": "3",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": {
+        "lat": 31.500342,
+        "lng": 120.047319,
+        "region": "1",
+        "venueAddr": "江苏省常州市武进区太湖湾嬉戏谷大道1号",
+        "venueCityName": "常州市",
+        "venueId": "53767",
+        "venueName": "常州嬉戏谷",
+        "venueProvinceName": "江苏省"
+    },
+    "venuecity": "常州",
+    "venueid": "53767",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01aKj9en2GdScJ3gmlq_!!2251059038.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "嬉戏族集团有限公司",
+            "entAddress": "武进区雪堰镇太北路1号",
+            "entType": "有限责任公司",
+            "legalPerson": "杨惠明",
+            "opFrom": "",
+            "opTo": "",
+            "regCapStr": "68000万人民币",
+            "socialCreditCode": "913204126683837698"
+        }
+    },
+    "buyButton": {
+        "origin": "-41",
+        "status": "90",
+        "text": "预约抢票",
+        "tip": "提前选票档 抢票更丝滑"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01R1A6k32GdScKSkLgE_!!2251059038.png\" width=\"667\" height=\"890\" damai_width=\"667\" damai_height=\"890\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01XGSZrY2GdScJ3i3wP_!!2251059038.png\" width=\"621\" height=\"620\" damai_width=\"621\" damai_height=\"620\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN0161LAcG2GdScMCViFI_!!2251059038.png\" width=\"563\" height=\"514\" damai_width=\"563\" damai_height=\"514\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01AsmaAu2GdScMCXj0j_!!2251059038.png\" width=\"780\" height=\"518\" damai_width=\"780\" damai_height=\"518\"></p></body></html>",
+        "introduceTitle": "演出介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "知名新加坡歌手、词曲作者。",
+                "id": "2115",
+                "name": "蔡健雅",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1571104925632/1571104925632-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "创作演唱实力兼具的新天后",
+                "id": "72393",
+                "name": "詹雯婷",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1666327736844/1666327736844-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地流行乐女歌手",
+                "id": "8216253666",
+                "name": "希林娜依·高",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1721018558238/1721018558238-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "黄誉博，代表Z世代的新声唱作人。\n\n曾出演《星际精灵蓝多多》的男一号蓝多多，是00后“共同的回忆”。因为对音乐的热爱，决定音乐为人生方向。除了参加竞演类节目，如在《中国新声代》中，靠一系列高难度歌曲的完美演绎展现自己唱功，获得优秀成绩外，还坚持创作，在2020全国原创歌曲大赛中，凭借自作曲《水》获得冠军。发表多首歌曲上线均获得歌迷好评，并在南京成功举办“黄誉博《你 在哪儿呢》音乐专场”，受邀多次参加南京森林音乐节，现场掌控力强、唱功稳、氛围佳。如今，这位音乐少年将带领大家一起找寻失窃档案的秘密。",
+                "id": "1373775454",
+                "name": "黄誉博",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1706843669503/1706843669503-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "生于广东，中国内地唱作歌手、演员、音乐制作人、新锐导演。",
+                "id": "1954351786",
+                "name": "符龙飞",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1653879867153/1653879867153-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国流行原创女歌手。",
+                "id": "948",
+                "name": "刘忻",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1534413416731/1534413416731-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国大陆不另类摇滚乐队\n中国第一支谐音梗乐队\n中国国内首档乐队成长类音乐真人秀\n《一起乐队吧》全国总冠军",
+                "id": "28079033323",
+                "name": "旅行新蜜蜂乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1697682688757/1697682688757-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "袁娅维，实力唱作歌手，灵魂流行先锋。2022年，她的第四张创作专辑《月亮失眠了》入围金曲奖“最佳华语女歌手”及“最佳演唱录音专辑奖”，近年获得东方风云榜年度最受欢迎女歌手奖、中国歌曲TOP排行榜最受欢迎女歌手奖等大奖。2018年，袁娅维的作品成为IFPI（国际唱片业协会） 全球销量最高 TOP 10单曲之一，是第一位华语歌手登上此榜。\n\n2022年，袁娅维推出十周年纪念专辑《TRIP》。袁娅维作为当今华语乐坛公认的最棒女声，她是新一代华语乐坛最先锋的歌手。",
+                "id": "71334",
+                "name": "袁娅维",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1671010822314/1671010822314-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "创作型女歌手，演员。",
+                "id": "1272",
+                "name": "曾轶可",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1534413413761/1534413413761-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "由乐手梁龙于1999年建立的一只摇滚乐队。该乐队的音乐结合了东北二人转和现代摇滚乐，以夸张的舞台造型和表演、朴实戏谑的唱词为特色。",
+                "id": "93302807",
+                "name": "二手玫瑰",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1624873577319/1624873577319-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国广西独立摇滚乐队，2016年成立于钦州。乐队成员为刘西蒙、郭泽群、简丹、韦高飞。代表作有《鲜花》《艾米莉》《兴奋到死的东西》《五彩斑斓的黑》《正义》等。2021年11月13日，《2021粤语好声音——乐队风暴》在广东广播电视台珠江频道正式“登陆”。2023年8月，参加《乐队的夏天3》节目；正式成为国内当红乐队。9月30日，发行单曲《鲜花》；10月22日，参加的《2023重阳奇妙游》播出，演唱歌曲《鲜花》。12月31日，参演《踏上新征程——2024 BRTV跨年之夜》，演唱歌曲《鲜花》和《初恋》。2024年2月2日，参加《中央广播电视总台2024网络春晚》，与薛凯琪演唱歌曲《鲜花》",
+                "id": "12026694",
+                "name": "回春丹乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1712719578021/1712719578021-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "【棱镜简介】 记录所有人认真生活过的世界，流动音阶组合纯粹词句，以真诚口吻表达真切情感。无关风格，无关悲喜，皆是这个时代里真实的情绪，是平凡生活的伟大意义。 置换光芒斑斓颜色，重塑生活纷繁美好。 彩光入眼，旋律入耳，时节正好。 愿你与我们一起，铭记生命中所有的痕迹，回归到本真的自己。 透过棱镜，你成为你。 Be yourself in prism.",
+                "id": "72678",
+                "name": "棱镜乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1658372502359/1658372502359-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "旅行团乐队，中国内地组合，由主唱孔阳、吉他手黄子君、键盘手韦伟、鼓手徐彪组成。",
+                "id": "1528",
+                "name": "旅行团乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1605597161056/1605597161056-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地男歌手、音乐制作人、影视演员。",
+                "id": "410",
+                "name": "朴树",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1535534701516/1535534701516-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "Perdel逃跑计划乐队的前身是孔雀乐队，成立与2004年底，直到2007年夏天贝司手小刚的加入，乐队得以正式确立，并且乐队的音乐风格较之前也有所改变，以Indie pop(独立流行)为主，其间也融入了New wave(新浪潮)；Post punk(后朋) 等新音乐形式的元素，使得乐队的音乐在保留了原来唯美旋律的同时更加新鲜，时尚，更有活力。",
+                "id": "1537",
+                "name": "逃跑计划",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1565237095040/1565237095040-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "成立于2014年。活在记忆里执拗的乐队",
+                "id": "72637",
+                "name": "夏日入侵企画",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1697173932994/1697173932994-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地摇滚乐队",
+                "id": "61524",
+                "name": "新裤子",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1634010504702/1634010504702-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地民谣歌手、音乐人。",
+                "id": "71668",
+                "name": "赵雷",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1706002449955/1706002449955-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国台湾创作型民谣歌手。",
+                "id": "2144",
+                "name": "陈绮贞",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1535596279004/1535596279004-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "内地男高音歌手",
+                "id": "3126284820",
+                "name": "黄子弘凡",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1594364290161/1594364290161-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "华语流行乐男歌手、音乐制作。",
+                "id": "1833",
+                "name": "林宥嘉",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1712045093296/1712045093296-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地男唱作歌手、音乐人。",
+                "id": "71329",
+                "name": "汪苏泷",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1685940087671/1685940087671-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地女歌手、演员。",
+                "id": "7478863403",
+                "name": "谢可寅",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1701421960055/1701421960055-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "颜人中，1994年6月17日出生于台湾省，中国台湾创作型流行乐男歌手，毕业于中国文化大学（台湾）戏剧学系。",
+                "id": "72654",
+                "name": "颜人中",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1636354603254/1636354603254-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "周峻纬，1995年11月16日出生于吉林省长春市，毕业于加拿大麦吉尔大学社会学心理学专业。中国内地男演员、歌手。",
+                "id": "3787854174",
+                "name": "周峻纬",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1717655217864/1717655217864-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "华语男歌手 音乐人 2018年明日之子第二季选手",
+                "id": "2178914126",
+                "name": "郑润泽",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1683512154921/1683512154921-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "h3R3刘清云，原创歌⼿/⾳乐制作⼈",
+                "id": "2157307713",
+                "name": "h3R3刘清云",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1657011381225/1657011381225-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "唱作人、音乐制作人、MV导演",
+                "id": "9129540124",
+                "name": "队长YoungCaptain",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1646880238562/1646880238562-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地流行男歌手，演员，原创音乐人。",
+                "id": "70",
+                "name": "陈楚生",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1690253316543/1690253316543-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地流行乐男歌手、影视演员、作词人、作曲人、音乐制作人。",
+                "id": "369",
+                "name": "陆虎",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1719458042980/1719458042980-main.jpg",
+                "tag": "歌手、演员"
+            },
+            {
+                "desc": "蒲熠星，1994年4月20日出生于四川省绵阳市，中国内地男游戏主播、演员 、影评人、作家，本科毕业于南京大学，硕士毕业于约翰斯·霍普金斯大学。",
+                "id": "1759149360",
+                "name": "蒲熠星",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1710125328391/1710125328391-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "石凯，中国内地男歌手、影视演员，毕业于四川师范大学音乐学院。2018参加《声入人心》、2020年起，参与《明星大侦探之名侦探学院》、《密室逃脱大神版》等综艺节目。2023年，参加《湖南卫视元宵喜乐会》并演唱歌曲。歌曲代表作品：《Romance》、《独家听众》、《麋鹿王》等",
+                "id": "55654902",
+                "name": "石凯",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1692770886856/1692770886856-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地嘻哈蓝调创作型男歌手、音乐制作人、主持人。",
+                "id": "118669",
+                "name": "苏醒",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1688433930997/1688433930997-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地流行乐男歌手、影视演员。",
+                "id": "544",
+                "name": "王栎鑫",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1690352090977/1690352090977-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地实力唱作人，2007年参加湖南卫视节目《快乐男声》进入大众视野。音乐代表作：《时间都去哪儿了》《还是爱着》《只是没有如果》《不凡》等。\n2014年首登央视总台马年春晚，独唱歌曲《时间都去哪儿了》，2023年再次登上春晚演唱歌曲《和往事干了好几杯》",
+                "id": "21023120",
+                "name": "王铮亮",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1682664343444/1682664343444-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "2007年“快乐男生”南京赛区第2名，全国总决赛第9名，其粉丝叫元宝。现为天娱旗下“至上励合”组合成员，队长。",
+                "id": "739",
+                "name": "张远",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1705563052380/1705563052380-main.jpg",
+                "tag": "歌手"
+            }
+        ],
+        "artistsTitle": "演出阵容",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i2/O1CN01HLirt51NCcFriIDXd_!!6000000001534-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/2401893/480378609_1717135952939.jpg",
+                "https://img.alicdn.com/imgextra/i4/O1CN01zFBvUY1YFmleJTIQm_!!6000000003030-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotos/858700/171740167.jpg",
+                "https://img.alicdn.com/imgextra/i4/O1CN013n7KRC1TtZ5bYGxgR_!!6000000002440-0-tps-500-500.jpg"
+            ],
+            "wantNum": "23479",
+            "wantNumStr": "2.3万",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01R3THyh1QT3Y3gWguc_!!6000000001976-2-tps-1125-702.png",
+        "categoryId": "127420006",
+        "cityName": "常州市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "818786569574",
+        "itemName": "【常州】柏瑞美·第九届太湖湾音乐节",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01aKj9en2GdScJ3gmlq_!!2251059038.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "320400",
+        "performSeatImages": [],
+        "projectId": "221564003",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                },
+                {
+                    "id": "7",
+                    "name": "港澳台居民居住证"
+                },
+                {
+                    "id": "8",
+                    "name": "外国人永久居留身份证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "以现场为准",
+        "showTime": "2024.10.02-10.05",
+        "tcCategoryId": "0301030100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "215831041",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "215831054",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "215831055",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "215831056",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=818786569574",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张、每个账号最多购买6张。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须携带购票时对应证件验证入场。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "儿童一律凭成人票入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：护照/港澳居民来往内地通行证/台湾居民来往大陆通行证/身份证/港澳台居民居住证/外国人永久居留身份证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约120分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "420分钟",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "最低演出时长"
+            },
+            {
+                "content": "蔡健雅/Faye詹雯婷/希林娜依·高/黄誉博/JA符龙飞/刘忻/旅行新蜜蜂/TIA RAY袁娅维/曾轶可/二手玫瑰/回春丹/棱镜/旅行团/朴树/逃跑计划/夏日入侵企画/新裤子/赵雷/陈绮贞/黄子弘凡/林宥嘉/汪苏泷/谢可寅ShakingChloe/颜人中/周峻纬/郑润泽&h3R3刘清云&队长YoungCaptain/陈楚生/陆虎/蒲熠星/石凯/苏醒/王栎鑫/王铮亮/张大大/张远",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01N7Icez1vcu9JtnH1e_!!6000000006194-2-tps-144-144.png",
+                "title": "主要演员"
+            },
+            {
+                "content": "10",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "有寄存处,具体以现场指示为准",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                "tagName": "条件退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过身份证验票入场",
+                "tagDescWithStyle": "通过身份证验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：嬉戏族集团有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：嬉戏族集团有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}

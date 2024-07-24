@@ -1,0 +1,92 @@
+{
+    "platform": "大麦",
+    "project_id": "818499160125",
+    "project_name": "杭盖20年，依旧热爱 2024全国巡演—成都站",
+    "category_name": "演唱会",
+    "artists": [
+        "杭盖乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.10.06 周日 20:00",
+    "session_time": [],
+    "price": "198-398",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "成都",
+    "venue_name": "东区超级音乐现场",
+    "venue_info": {
+        "venue_address": "四川省成都市成华区东郊记忆演艺中心",
+        "lng": 104.12217,
+        "lat": 30.669107
+    },
+    "project_info": "活动介绍：",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01REA5XY2GdScBhgLe7_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01UwUgGP2GdScH9LLBK_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "818386653262",
+            "cityName": "北京站",
+            "showTime": "08.31-09.01"
+        },
+        {
+            "itemId": "818499160125",
+            "cityName": "成都站",
+            "showTime": "10.06"
+        },
+        {
+            "itemId": "809160996314",
+            "cityName": "深圳站",
+            "showTime": "08.09"
+        },
+        {
+            "itemId": "809069053726",
+            "cityName": "广州站",
+            "showTime": "08.10"
+        },
+        {
+            "itemId": "807475267103",
+            "cityName": "上海站",
+            "showTime": "08.17"
+        },
+        {
+            "itemId": "809143112846",
+            "cityName": "杭州站",
+            "showTime": "08.23"
+        },
+        {
+            "itemId": "809148972468",
+            "cityName": "南京站",
+            "showTime": "08.24"
+        },
+        {
+            "itemId": "808906254815",
+            "cityName": "西安站",
+            "showTime": "08.30"
+        },
+        {
+            "itemId": "808816063312",
+            "cityName": "郑州站",
+            "showTime": "09.08"
+        },
+        {
+            "itemId": "808795455451",
+            "cityName": "重庆站",
+            "showTime": "10.07"
+        },
+        {
+            "itemId": "809052873958",
+            "cityName": "呼和浩特站",
+            "showTime": "08.03"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=818499160125"
+}

@@ -1,0 +1,142 @@
+{
+    "platform": "大麦",
+    "project_id": "817827123635",
+    "project_name": "「机器情人」梅卡德尔2024新专辑巡演·沈阳站",
+    "category_name": "演唱会",
+    "artists": [
+        "梅卡德尔"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.25 周三 20:00",
+    "session_time": [],
+    "price": "200-240",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "沈阳",
+    "venue_name": "原料库livehouse(红梅店)",
+    "venue_info": {
+        "venue_address": "卫工北街44号红梅文创园1号楼",
+        "lng": 123.351473,
+        "lat": 41.810605
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01BTfZiB2GdScGu6Hdu_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN017isCCk2GdScHN9dgF_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "561",
+        "wantNumStr": "561",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "817854677537",
+            "cityName": "贵阳站",
+            "showTime": "08.22"
+        },
+        {
+            "itemId": "817911942100",
+            "cityName": "南宁站",
+            "showTime": "08.26"
+        },
+        {
+            "itemId": "817870226760",
+            "cityName": "长沙站",
+            "showTime": "09.01"
+        },
+        {
+            "itemId": "817864021521",
+            "cityName": "武汉站",
+            "showTime": "09.02"
+        },
+        {
+            "itemId": "818076663933",
+            "cityName": "西安站",
+            "showTime": "09.04"
+        },
+        {
+            "itemId": "818443877457",
+            "cityName": "合肥站",
+            "showTime": "09.07"
+        },
+        {
+            "itemId": "817458227170",
+            "cityName": "厦门站",
+            "showTime": "09.10"
+        },
+        {
+            "itemId": "817827123635",
+            "cityName": "沈阳站",
+            "showTime": "09.25"
+        },
+        {
+            "itemId": "817838683159",
+            "cityName": "长春站",
+            "showTime": "09.27"
+        },
+        {
+            "itemId": "818269304617",
+            "cityName": "哈尔滨站",
+            "showTime": "09.28"
+        },
+        {
+            "itemId": "817982576130",
+            "cityName": "昆明站",
+            "showTime": "08.24"
+        },
+        {
+            "itemId": "818046361540",
+            "cityName": "广州站",
+            "showTime": "08.28"
+        },
+        {
+            "itemId": "818776724966",
+            "cityName": "深圳站",
+            "showTime": "08.29"
+        },
+        {
+            "itemId": "818029921326",
+            "cityName": "郑州站",
+            "showTime": "09.05"
+        },
+        {
+            "itemId": "818154597319",
+            "cityName": "南昌站",
+            "showTime": "09.08"
+        },
+        {
+            "itemId": "818433785183",
+            "cityName": "上海站",
+            "showTime": "09.13"
+        },
+        {
+            "itemId": "818087833232",
+            "cityName": "济南站",
+            "showTime": "09.20"
+        },
+        {
+            "itemId": "818042829470",
+            "cityName": "青岛站",
+            "showTime": "09.24"
+        },
+        {
+            "itemId": "818569568048",
+            "cityName": "石家庄站",
+            "showTime": "10.10"
+        },
+        {
+            "itemId": "817807295840",
+            "cityName": "太原站",
+            "showTime": "10.11"
+        },
+        {
+            "itemId": "818514656195",
+            "cityName": "包头站",
+            "showTime": "10.13"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=817827123635"
+}
