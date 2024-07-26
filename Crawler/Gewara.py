@@ -101,7 +101,9 @@ class GewaraCrawler(MusicCrawler):
                 json_docs[col_] = str(details_df[details_df['performanceId']==id][col_].values[0])
             print(f'正在爬取 {id} details')
             detail_json = self.crawl_detail(id)
-
+            if detail_json is None:
+                print(f'爬取 {id} details 失败！')
+                continue
             json_docs.update(detail_json)
             if f'{id}.json' not in os.listdir(f'data/origin_docs/{self.platform}/'):
                 with open(f'data/origin_docs/{self.platform}/{id}.json', 'w') as f:
@@ -152,10 +154,13 @@ class GewaraCrawler(MusicCrawler):
                 content_soup = soup.find_all('div', attrs={'class': 'detailContent'}) #detailContent
                 if len(content_soup) == 0:
                     fail_cnt += 1
+                else:
+                    break
             if fail_cnt > 20:
                 print(f'no data in {id}, fail_cnt: {fail_cnt}')
-                assert False
-
+                return None
+        if len(content_soup) == 0:
+            return None
         content_soup = content_soup[0]
         img_soup = content_soup.find_all('img')
         img_list = [img.get('src') for img in img_soup]
