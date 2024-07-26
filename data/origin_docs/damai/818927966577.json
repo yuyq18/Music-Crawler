@@ -1,0 +1,439 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "848",
+    "cityname": "中国香港",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_818927966577",
+    "imgurl": "-400654927",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "ANNE-MARIE 2024 LIVE IN ASIA",
+    "nameNoHtml": "ANNE-MARIE 2024 LIVE IN ASIA",
+    "price": "699.0",
+    "price_str": "699-799",
+    "pricehigh": "799.0",
+    "privilegeTags": "[]",
+    "projectid": "818927966577",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.10.03 周四 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "麦花臣场馆",
+    "venuecity": "中国香港",
+    "venueid": "58132",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01nUn4xD2GdScMaGIVf_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "818927966577",
+                    "itemName": "ANNE-MARIE 2024 LIVE IN ASIA",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "810100",
+                    "cityName": "中国香港",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01nUn4xD2GdScMaGIVf_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01nUn4xD2GdScMaGIVf_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01gvPYau2GdScNCTPIH_!!2251059038.jpg",
+                    "seatImages": [
+                        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01gvPYau2GdScNCTPIH_!!2251059038.jpg"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "2024.10.03 周四 20:00",
+                    "showDuration": "约80分钟，仅供参考，最终以现场实际时长为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "门票即发票",
+                            "tagDesc": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagDescWithStyle": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "893",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>票价说明：</strong><br>港币HKD ： $799站票/$699坐票<br>人民币CNY售价：¥799站票/¥699坐票<br>【门票已含境外（含港澳台）服务费】<br><br><strong>取票说明：</strong><br>本项目不支持退换。购票成功的客户，请您提前办理好港澳通行证-中国香港签注。观演当天，请出示大麦票夹动态二维码核验换票入场。</p>\n<p>取票点：麦花臣场馆G/F 主入口<br>取票时间：演出当天17:00-20:00</p>\n<p>&nbsp;</p>\n<p><strong>演出介绍：</strong></p>\n<p>ANNE-MARIE 2024 LIVE IN ASIA<br>日期: 2024年10月3日 (星期四)<br>演出时间： 晚上8时<br>地点： 麦花臣场馆</p>\n<p>Anne-Marie 凭着独特的声线在音乐界崭露头角，她曾在乐队 Rudimental 的歌曲亮相，又在Clean Bandit的全球冠军单曲《Rockabye》中担任主唱，出道不久便取得了冠军佳绩。 Anne-Marie 除了是一名歌手，也是一位曾获三届世界空手道冠军的运动员。 Anne-Marie抱着自谦的态度，在歌曲中不忌讳地大谈关于被出轨、身体问题和性别自由恋爱的题材，成功与数以百万的粉丝建立良好的关系。 她的首张个人专辑《Speak Your Mind》成为2018年英国大热专辑之一，专辑包含节奏轻快的歌曲，亦有充满笑与泪的歌曲，迅速在名人榜晋升成为时尚偶像、专栏作家，以及一位勇敢表现自我的女性。</p>\n<p>Anne-Marie 出道前与音乐界并不相及，也没有参加过真人秀节目。 出身于英国埃塞克斯郡的伊斯特蒂尔伯里（East Tilbury）的 Anne-Marie， 出道前一直与当地一支灵魂乐队以翻唱曲表演，直至现在圈中的Ed Sheeran 和Marshmello也是她的粉丝！ Anne-Marie就这样在毫无准备的情况下突然人气急升。</p>\n<p>Anne-Marie 人气席卷全球，她曾推出五首单曲登上英国榜行榜首十名。 自2015年正式出道以来，她的直接坦率的真性情使一众粉丝非常受落，她以那种与好朋友聊天的方法与粉丝相处，关系非常难得，尤其是谈及情感方面的问题，Anne-Marie 曾说：「我们都会经历心碎，谈论它很重要。 认识到一段糟糕的关系，但也要认识到这些心碎的感觉不会永远持续，你在经历中的事情上并不孤单。 」</p>\n<p><br><strong>站位观众注意事项：</strong><br>1. 企位观众年龄限制: 只限12岁或以上及身高140cm或以上。<br>2. 所有观众进场前，须进行金属探测器的安检程序 (如适用)。<br>3. 所有企位观众须佩戴保安检测手带，以助场馆监察人流及应对紧急情况 (如适用)。<br>4. 表演场内不准进行未获授权的摄影、录像及录音。观众进入场馆前，或须接受手提袋/背包检查。38 X 30 X 20 厘米 (15 X 12 X 8吋) 以上物品、所有相机、摄录及录音器材及矮凳/可折迭式座椅均禁止带进表演场内。不准携带长伞进入演唱会企位区。<br>5. 活动门票必须从官方票务销售点购买。任何损毁、污损、经过涂改、残缺不全或复印之门票，一概将不受理。<br>6. 所有门票均不设退款或作任何转让。每票只限一人，并须按照主办机构设定的观众年龄限制。任何情况下，遗失的企位或不设划位门票均不获补发。<br>7. 基于安全理由，场馆范围内不准携带「自拍杆」。<br>8. 场馆鼓励观众尽量避免携带手提袋/背包入场。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01nX7gpw2GdScK40yTa_!!2251059038.png\" width=\"940\" height=\"940\" damai_width=\"940\" damai_height=\"940\"><br><br></p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "本项目门票即是发票。"
+                    },
+                    {
+                        "title": "转送说明",
+                        "content": "本项目支持电子票转送，转送功能将在演出前24小时关闭。（注：当前仅支持大麦下单用户，暂不支持淘宝／天猫，支付宝本地生活下单用户发起转送，仅支持大麦APP发起和接收转送票品）"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买8张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "需兑换成纸质票验票入场，须打开【票夹】的二维码前往取票点换取，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "站票只限12岁或以上及身高140cm或以上"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "本项目门票即是发票。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约80分钟，仅供参考，最终以现场实际时长为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约60分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "ANNE-MARIE"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "80分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "150"
+                                },
+                                {
+                                    "title": "转送说明",
+                                    "content": "本项目支持电子票转送，转送功能将在演出前24小时关闭。（注：当前仅支持大麦下单用户，暂不支持淘宝／天猫，支付宝本地生活下单用户发起转送，仅支持大麦APP发起和接收转送票品）"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "58132",
+                    "venueName": "麦花臣场馆",
+                    "venueProvinceName": "香港特别行政区",
+                    "venueCityName": "中国香港",
+                    "lng": 114.17785,
+                    "lat": 22.315991,
+                    "venueAddr": "香港特别行政区油尖旺区",
+                    "showCountText": "共有2个演出",
+                    "region": "2"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D818927966577%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1721899342000",
+                "sellStartTimeStr": "07月25日 17:22",
+                "priceRange": "¥699-¥799",
+                "performBases": [
+                    {
+                        "name": "10.03 周四",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1727884800000",
+                        "performs": [
+                            {
+                                "performId": "215817091",
+                                "performName": "2024-10-03  周四 20:00",
+                                "itemId": "818927966577",
+                                "projectId": "221581014",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1727956800000",
+                                "performTime": "2024.10.03 20:00",
+                                "performStartDate": "2024-10-03",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "8",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "567361",
+                    "23115",
+                    "23883",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8189279665/2/818927966577.jpg"
+            }
+        }
+    }
+}

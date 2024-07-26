@@ -1,0 +1,77 @@
+{
+    "platform": "大麦",
+    "project_id": "819113520324",
+    "project_name": "刘大壮  会不会3.0 心动如初”2024“全国巡演（广州站）",
+    "category_name": "演唱会",
+    "artists": [
+        "刘大壮"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.14 周六 20:00",
+    "session_time": [],
+    "price": "168-298",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "广州",
+    "venue_name": "声音共和Livehouse",
+    "venue_info": {
+        "venue_address": "广州市海珠区新滘中路88号海珠同创汇东一街11号",
+        "lng": 113.319598,
+        "lat": 23.077078
+    },
+    "project_info": "\n实际演出以现场为准",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01gisvgI2GdSbn1piLE_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01be3XKC2GdSbOstHk4_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "52",
+        "wantNumStr": "52",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "800461390135",
+            "cityName": "武汉站",
+            "showTime": "07.27"
+        },
+        {
+            "itemId": "808171429172",
+            "cityName": "南昌站",
+            "showTime": "08.03"
+        },
+        {
+            "itemId": "808149913700",
+            "cityName": "长沙站",
+            "showTime": "08.04"
+        },
+        {
+            "itemId": "800905251548",
+            "cityName": "西安站",
+            "showTime": "08.17"
+        },
+        {
+            "itemId": "808243225722",
+            "cityName": "郑州站",
+            "showTime": "08.25"
+        },
+        {
+            "itemId": "819113520324",
+            "cityName": "广州站",
+            "showTime": "09.14"
+        },
+        {
+            "itemId": "816910577699",
+            "cityName": "沈阳站",
+            "showTime": "10.03"
+        },
+        {
+            "itemId": "815252422792",
+            "cityName": "北京站",
+            "showTime": "10.05"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=819113520324"
+}

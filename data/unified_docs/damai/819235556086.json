@@ -1,0 +1,52 @@
+{
+    "platform": "大麦",
+    "project_id": "819235556086",
+    "project_name": "廖俊涛「罐装的浪花」2024全国巡演-成都站",
+    "category_name": "演唱会",
+    "artists": [
+        "廖俊涛"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.31 周六 20:00",
+    "session_time": [],
+    "price": "320-520",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "成都",
+    "venue_name": "福馆 Full House成都",
+    "venue_info": {
+        "venue_address": "建设南路4号东郊记忆北大门",
+        "lng": 104.121452,
+        "lat": 30.66964
+    },
+    "project_info": "演出介绍：\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01ewsUFN2GdScHy2Lxd_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01EgOY0G2GdSc3hRitW_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "360",
+        "wantNumStr": "360",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "819235556086",
+            "cityName": "成都站",
+            "showTime": "08.31"
+        },
+        {
+            "itemId": "812623600277",
+            "cityName": "厦门站",
+            "showTime": "07.28"
+        },
+        {
+            "itemId": "818467088888",
+            "cityName": "深圳站",
+            "showTime": "08.25"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=819235556086"
+}

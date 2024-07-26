@@ -1,0 +1,57 @@
+{
+    "platform": "大麦",
+    "project_id": "819007325393",
+    "project_name": "于贞Ingrita「奇迹」2024全国巡演 （北京站）",
+    "category_name": "演唱会",
+    "artists": [
+        "于贞"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.03 周六 20:00",
+    "session_time": [],
+    "price": "249-399",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "本土王牌LIVE",
+    "venue_info": {
+        "venue_address": "北京市朝阳区平房路北京电影学院文创园内",
+        "lng": 116.545085,
+        "lat": 39.936037
+    },
+    "project_info": " VIP权益：\n· 提前入场尊享权\n· 实体纪念票根一张\n· 二人一组合影\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN0192Fefw2GdScMELpmK_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01l9r2XD2GdScHNaDDt_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "2265",
+        "wantNumStr": "2265",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "819007325393",
+            "cityName": "北京站",
+            "showTime": "08.03"
+        },
+        {
+            "itemId": "818807782394",
+            "cityName": "长沙站",
+            "showTime": "09.15"
+        },
+        {
+            "itemId": "797884707477",
+            "cityName": "南京站",
+            "showTime": "08.10"
+        },
+        {
+            "itemId": "799869430355",
+            "cityName": "广州站",
+            "showTime": "09.08"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=819007325393"
+}

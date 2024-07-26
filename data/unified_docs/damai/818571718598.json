@@ -1,0 +1,60 @@
+{
+    "platform": "大麦",
+    "project_id": "818571718598",
+    "project_name": "王若琳爱的呼唤巡演西安站",
+    "category_name": "演唱会",
+    "artists": [
+        "王若琳"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.21 周六 19:30",
+    "session_time": [],
+    "price": "399-699",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "西安",
+    "venue_name": "长安乐·一带一路文化艺术中心-歌剧院",
+    "venue_info": {
+        "venue_address": "港务区奥体中心西南侧",
+        "lng": 109.017952,
+        "lat": 34.371719
+    },
+    "project_info": "王若琳爱的呼唤全国巡演西安站与王若琳一起，感触【爱的呼唤】\n \n王若琳优雅温柔的声线，显露着世界音乐风味的东方风情，慵懒而松弛，是属于她独有的音乐气质。她为大家带来的这一场兼具复古时髦格调的音乐穿越之旅；倾听，如同留声机质感一般的声音，在这炎炎夏日中洒下一丝清雅宁静。\n \n此次巡演名称来自Joanna王若琳的专辑《爱的呼唤》，这张专辑也使得Joanna入围金曲奖最佳国语女歌手奖等五项大奖，并获得了金曲奖最佳国语专辑奖，实至名归。专辑中的每首诠释都仿佛为其赋予了新的生命，创造了极具当代性的新意，是艺术经典的传承与开拓。巡演中不仅可以听到专属于王若琳独家演绎的《亲密爱人》、《夜来香》、《漫步人生路》、《我只在乎你》等，更有多首来自她的原创歌曲，品味之间不由自主地暂时遗忘现实生活中的一切，是身心的放松与沉醉。\n\n\n在音乐道路上不断探索前进的Joanna，经过十余年一次次的尝试打破、温柔的坚定自己对音乐的理解和无限的创造力，Joanna用她多变的音乐魅力诠释什么叫做有趣的灵魂。未来，王若琳与乐队将走到更多的城市，邀您一起聆听【爱的呼唤】，期待与您现场的相见。\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01qd94Ko2GdScGoBiuR_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN0132MfSr2GdScKLYZiQ_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Zjy0mi2GdScJCfLeJ_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01z9g0ex2GdScKLYdwC_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01s4vaSh2GdScIwbnFI_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "818571718598",
+            "cityName": "西安站",
+            "showTime": "09.21"
+        },
+        {
+            "itemId": "782023592460",
+            "cityName": "广州站",
+            "showTime": "07.27"
+        },
+        {
+            "itemId": "797973431423",
+            "cityName": "重庆站",
+            "showTime": "09.14"
+        },
+        {
+            "itemId": "778047672527",
+            "cityName": "合肥站",
+            "showTime": "10.19"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=818571718598"
+}
