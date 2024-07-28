@@ -1,0 +1,238 @@
+{
+    "searchType": "SHOW",
+    "showId": "669e2ba71e7fda00014c359a",
+    "stdShowId": "669e2ba71e7fda00014c3599",
+    "showName": "【大庆】吴克群《我们的冒险》巡回演唱会—大庆站",
+    "showDate": "2024.09.15 19:00",
+    "cityName": "大庆",
+    "cityId": "2306",
+    "showStatus": "PENDING",
+    "minOriginalPrice": "380.0",
+    "posterUrl": "https://cdn.ticketmars.com/image/prod/20240728_58/17221327279369537.jpg",
+    "venueId": "6569458b7401b80001e65aac",
+    "venueName": "大庆市体育馆",
+    "backendCategory": "{'code': 17, 'displayName': '演唱会', 'name': 'YanChangHui'}",
+    "isFree": "False",
+    "firstShowTime": "1726398000000",
+    "lastShowTime": "1726403400000",
+    "minOriginalPriceInfo": "{'yuanNum': '380', 'centNum': '', 'suffix': '起', 'prefix': '￥'}",
+    "latestShowTime": "1726398000000",
+    "showSessionDates": "['20240915']",
+    "soldOut": "False",
+    "sessionNum": "1",
+    "seatPlanNum": "5",
+    "rsCode": 200,
+    "basicInfo": {
+        "hotMode": true,
+        "stdShowId": "669e2ba71e7fda00014c3599",
+        "showName": "【大庆】吴克群《我们的冒险》巡回演唱会—大庆站",
+        "sourceType": "SELF_BUILT_EXTERNAL_PRODUCE",
+        "originalSeatPickType": "SUPPORT_NONE",
+        "contentUrl": "https://cdn.ticketmars.com/prod/showContent/669e2ba71e7fda00014c359a/content_66a5a8feb67c7600015b2595.content",
+        "posterUrl": "https://cdn.ticketmars.com/image/prod/20240728_58/17221327279369537.jpg",
+        "posterColor": "#312859ff",
+        "venueId": "6569458b7401b80001e65aac",
+        "venueName": "大庆市体育馆",
+        "venueAddress": "大庆市萨尔图区新萨区政府后身奥林匹克公园内",
+        "venueLat": 46.641776,
+        "venueLng": 125.135405,
+        "cityId": "2306",
+        "cityName": "大庆市",
+        "onSaleShowCount": 1,
+        "showTags": [],
+        "authorizationUrl": "",
+        "minOriginalPriceInfo": {
+            "yuanNum": "380",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "maxOriginalPriceInfo": {
+            "yuanNum": "1280",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "showDate": "2024年09月15日 19:00",
+        "showDuration": "约120分钟（以现场为准）",
+        "displayAdvance": false,
+        "venueDisplayAdvance": false,
+        "sessionDisplayAdvance": false,
+        "seatPlanDisplayAdvance": false,
+        "showType": {
+            "name": "YanChangHui"
+        },
+        "showDetailStatus": "PENDING",
+        "existsPrivilegePurchase": false,
+        "displayCountdownTime": true,
+        "captchaTypes": []
+    },
+    "additionalInfo": {
+        "hasCoupon": true,
+        "hasPromo": false,
+        "hasAddPurchase": false,
+        "hasUserPromo": false,
+        "hasPCard": false,
+        "hasPriority": false,
+        "hasChannelDiscount": false,
+        "checkChannelFreeCombo": false,
+        "channelPickSeatProject": false,
+        "hasTyingSale": false,
+        "hasJumpGuid": false
+    },
+    "descInfo": {
+        "observationInstructions": [
+            {
+                "key": "TICKETS_AND_ADMISSION",
+                "name": "票品及入场",
+                "value": "身份证直刷：本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场",
+                "isMarked": false,
+                "isOrderMarked": true,
+                "seq": 1
+            },
+            {
+                "key": "ENTRY_TIME",
+                "name": "入场时间",
+                "value": "请于开始前约30分钟入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "SHOW_DURATION",
+                "name": "演出时长",
+                "value": "约120分钟（以现场为准）",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "MAIN_ACTOR",
+                "name": "主要演员(团体)",
+                "value": "吴克群",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "MINIMUM_SHOW_NUMBER",
+                "name": "最低演出曲目",
+                "value": "25首（以现场为准）",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "MINIMUM_SHOW_DURATION",
+                "name": "最低演出时长",
+                "value": "约120分钟（以现场为准）",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            },
+            {
+                "key": "RESTRICTED_ITEM",
+                "name": "禁止携带物品",
+                "value": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 7
+            },
+            {
+                "key": "LUGGAGE_DEPOSIT",
+                "name": "物品寄存",
+                "value": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 8
+            }
+        ],
+        "ticketInstructions": [
+            {
+                "key": "CHILDREN_INTRODUCTION",
+                "name": "儿童购票",
+                "value": "儿童一律凭票入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "REAL_NAME_PURCHASE_TICKET_INTRODUCTION",
+                "name": "实名购票规则",
+                "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证/外国人永久居留身份证",
+                "isMarked": false,
+                "tagContent": "门票对应唯一证件(身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证/外国人永久居留身份证)",
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "EXCEPTION_ORDER_INTRODUCTION",
+                "name": "异常排单说明",
+                "value": "对于异常订购行为，商家有权在订单成立或者生效之后取消相应订单。 异常订购行为包括但不限于以下情形： （1）通过同一ID订购超出限购张数的订单。 （2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "LIMITATION",
+                "name": "限购规则",
+                "value": "每个场次限购6张/套，项目限购20张/套",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "EXCHANGE_POLICY",
+                "name": "退换政策",
+                "value": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "INVOICE_INTRODUCTION",
+                "name": "发票说明",
+                "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            }
+        ],
+        "markedTextList": []
+    },
+    "noteInfos": [
+        {
+            "name": "支持有条件退",
+            "value": "",
+            "type": true,
+            "code": "CONDITION_REFUND",
+            "refundCfg": {
+                "showName": "【大庆】吴克群《我们的冒险》巡回演唱会—大庆站",
+                "refundTimes": 1,
+                "type": "SESSION_SETTING",
+                "rateItems": []
+            }
+        },
+        {
+            "name": "实名观演",
+            "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证/外国人永久居留身份证",
+            "type": true,
+            "code": "REAL_NAME_TICKET"
+        },
+        {
+            "name": "电子票-身份证",
+            "value": "通过身份证件，可以直接验票入场（具体以下单后票舱信息为准）",
+            "type": true,
+            "code": "ID_CARD"
+        },
+        {
+            "name": "发票说明",
+            "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具。",
+            "type": false,
+            "code": "BILL_APPLY"
+        }
+    ],
+    "announcement": [],
+    "whiteTags": [],
+    "watcherReplacer": "观演"
+}
