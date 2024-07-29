@@ -1,0 +1,215 @@
+{
+    "searchType": "SHOW",
+    "showId": "66a75cfb655d95000196a9ae",
+    "stdShowId": "66a1c7ec62e0940001be4c95",
+    "showName": "【沈阳】开心麻花戏剧音乐live秀《燃烧》",
+    "showDate": "2024.08.23 - 08.24",
+    "cityName": "沈阳",
+    "cityId": "2101",
+    "showStatus": "ONSALE",
+    "minOriginalPrice": "180.0",
+    "posterUrl": "https://cdn.ticketmars.com/prod/external/img/20240729/66a75cfaaa0f5800019c7c99.jpg",
+    "venueId": "66a7545492b4c00001bc0111",
+    "venueName": "梦田音乐Live House（沈阳旗舰店）",
+    "backendCategory": "{'code': 19, 'displayName': 'Livehouse', 'name': 'Livehouse'}",
+    "isFree": "False",
+    "firstShowTime": "1724411100000",
+    "lastShowTime": "1724504700000",
+    "minOriginalPriceInfo": "{'yuanNum': '180', 'centNum': '', 'suffix': '起', 'prefix': '￥'}",
+    "latestShowTime": "1724411100000",
+    "showSessionDates": "['20240824', '20240823']",
+    "soldOut": "False",
+    "sessionNum": "2",
+    "seatPlanNum": "8",
+    "rsCode": 200,
+    "basicInfo": {
+        "hotMode": true,
+        "stdShowId": "66a1c7ec62e0940001be4c95",
+        "showName": "【沈阳】开心麻花戏剧音乐live秀《燃烧》",
+        "sourceType": "EXTERNAL_DISTRIBUTION",
+        "originalSeatPickType": "SUPPORT_SEAT",
+        "contentUrl": "https://cdn.ticketmars.com/prod/showContent/66a75cfb655d95000196a9ae/content_66a75cfb655d95000196a9af.content",
+        "posterUrl": "https://cdn.ticketmars.com/prod/external/img/20240729/66a75cfaaa0f5800019c7c99.jpg",
+        "venueId": "66a7545492b4c00001bc0111",
+        "venueName": "梦田音乐Live House（沈阳旗舰店）",
+        "venueAddress": "沈阳市和平区青年大街304巷9号",
+        "venueLat": 41.768808,
+        "venueLng": 123.432211,
+        "cityId": "2101",
+        "cityName": "沈阳市",
+        "onSaleShowCount": 1,
+        "showTags": [],
+        "authorizationUrl": "",
+        "minOriginalPriceInfo": {
+            "yuanNum": "180",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "maxOriginalPriceInfo": {
+            "yuanNum": "380",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "showDate": "2024年08月23日 - 08月24日",
+        "showDuration": "以现场为准",
+        "displayAdvance": false,
+        "venueDisplayAdvance": false,
+        "sessionDisplayAdvance": false,
+        "seatPlanDisplayAdvance": false,
+        "showType": {
+            "name": "Livehouse"
+        },
+        "showDetailStatus": "ON_SALE",
+        "existsPrivilegePurchase": false,
+        "displayCountdownTime": true,
+        "captchaTypes": []
+    },
+    "additionalInfo": {
+        "hasCoupon": true,
+        "hasPromo": false,
+        "hasAddPurchase": false,
+        "hasUserPromo": false,
+        "hasPCard": false,
+        "hasPriority": false,
+        "hasChannelDiscount": true,
+        "checkChannelFreeCombo": false,
+        "channelPickSeatProject": false,
+        "hasTyingSale": false,
+        "hasJumpGuid": false
+    },
+    "descInfo": {
+        "observationInstructions": [
+            {
+                "key": "TICKETS_AND_ADMISSION",
+                "name": "票品及入场",
+                "value": "现场取票：现场凭电子取票凭证至现场换取纸质票",
+                "isMarked": false,
+                "isOrderMarked": true,
+                "seq": 1
+            },
+            {
+                "key": "ENTRY_TIME",
+                "name": "入场时间",
+                "value": "请于开始前约30分钟入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "SHOW_DURATION",
+                "name": "演出时长",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "MAIN_ACTOR",
+                "name": "主要演员(团体)",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "RESTRICTED_ITEM",
+                "name": "禁止携带物品",
+                "value": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "LUGGAGE_DEPOSIT",
+                "name": "物品寄存",
+                "value": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            }
+        ],
+        "ticketInstructions": [
+            {
+                "key": "CHILDREN_INTRODUCTION",
+                "name": "儿童购票",
+                "value": "儿童一律凭票入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "REAL_NAME_PURCHASE_TICKET_INTRODUCTION",
+                "name": "实名购票规则",
+                "value": "无证件要求",
+                "isMarked": false,
+                "tagContent": "非实名购票",
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "EXCEPTION_ORDER_INTRODUCTION",
+                "name": "异常排单说明",
+                "value": "对于异常订购行为，商家有权在订单成立或者生效之后取消相应订单。 异常订购行为包括但不限于以下情形： （1）通过同一ID订购超出限购张数的订单。 （2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "LIMITATION",
+                "name": "限购规则",
+                "value": "每个场次限购6张/套，项目限购20张/套",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "EXCHANGE_POLICY",
+                "name": "退换政策",
+                "value": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "INVOICE_INTRODUCTION",
+                "name": "发票说明",
+                "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            }
+        ],
+        "markedTextList": []
+    },
+    "noteInfos": [
+        {
+            "name": "不支持七天无理由退换",
+            "value": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+            "type": false,
+            "code": "NO_SUPPORT_REFUND"
+        },
+        {
+            "name": "可选座",
+            "value": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在倒计时内支付成功，选座生效",
+            "type": true,
+            "code": "SUPPORT_PICK_SEAT"
+        },
+        {
+            "name": "现场取票",
+            "value": "需要在指定的换票地点换票，下单后可通过票舱中的二维码换取纸质票（具体以下单后票舱信息为准）",
+            "type": true,
+            "code": "VENUE"
+        },
+        {
+            "name": "发票说明",
+            "value": "该发票由演出主办方提供。请在演出开始前，通过【我的-客服】提交发票申请，一般演出结束后1个月内开具。",
+            "type": false,
+            "code": "BILL_APPLY"
+        }
+    ],
+    "announcement": [],
+    "whiteTags": [],
+    "watcherReplacer": "观演"
+}

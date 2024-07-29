@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "820027118976",
+    "project_name": "泥鳅zinco「FM.2024」巡演 武汉站",
+    "category_name": "演唱会",
+    "artists": [
+        "泥鳅Zinco"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.10.13 周日 20:00",
+    "session_time": [],
+    "price": "160-260",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "武汉",
+    "venue_name": "不晚IN TIME LIVE",
+    "venue_info": {
+        "venue_address": "武汉市汉阳区汉阳造文化创意园46栋",
+        "lng": 114.26832,
+        "lat": 30.557467
+    },
+    "project_info": "泥鳅zinco「FM.2024」巡演即将开启！\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01dHW10X2GdScQ19qex_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01iPJgR32GdScOR276Y_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "100",
+        "wantNumStr": "100",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "820027118976",
+            "cityName": "武汉站",
+            "showTime": "10.13"
+        },
+        {
+            "itemId": "816377607500",
+            "cityName": "深圳站",
+            "showTime": "09.06"
+        },
+        {
+            "itemId": "816658849236",
+            "cityName": "广州站",
+            "showTime": "09.07"
+        },
+        {
+            "itemId": "816679862494",
+            "cityName": "杭州站",
+            "showTime": "09.27"
+        },
+        {
+            "itemId": "816473198550",
+            "cityName": "上海站",
+            "showTime": "09.28"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=820027118976"
+}
