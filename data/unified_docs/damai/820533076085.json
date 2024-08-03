@@ -1,0 +1,83 @@
+{
+    "platform": "大麦",
+    "project_id": "820533076085",
+    "project_name": "【黑豹乐队·红星】全金属外壳2024巡演 济南站",
+    "category_name": "演唱会",
+    "artists": [
+        "黑豹乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.01 周日 20:00",
+    "session_time": [],
+    "price": "188-888",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "济南",
+    "venue_name": "济南 Caper Land雀跃之地音乐现场",
+    "venue_info": {
+        "venue_address": "山东省济南历下区历山路132号Caper Land雀跃之地（历下区大润发东对面往北100米，新航大厦南侧",
+        "lng": 117.038441,
+        "lat": 36.656148
+    },
+    "project_info": "\n跃 燥响传奇的摇滚盛世\n破 时代洪流的褴褛衣衫\n铸 超脱纷扰的金属外壳\n忠 源启新章的灵魂之声\n全新黑豹首巡启动，攥紧摇滚之锁链，揭开真理之假面，感悟“生”的真谛，以不灭之初心，照进每寸黑原，聚声怒吼，响彻深渊！\n时间之火铸就全新黑豹的「全金属外壳」。\n自2023年全新黑豹乐队集结亮相各大音乐节舞台，再到2024首张EP《Smokescreen视陷》发布，黑豹乐队从理念到曲风的变革之心有目共睹，在经典中创新，在创新中沉思，用音乐自省，用创作发声。全新EP《全金属外壳》更是挖掘出黑豹精神的无限可能，任外界噪声鼎沸，「全金属外壳」下的炙热之躯只会愈发强韧，以迅雷之势聚力，【金装】待发，燥燃启程巡演舞台！\n\n唱，时新境迁！\n敢，革新飞跃！\n黑豹摇滚「Never say Die」。",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN017tnrqg2GdScREy4GV_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN016KsE262GdScRHMRGq_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01nb3xpi2GdScM2WLVU_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "97",
+        "wantNumStr": "97",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "820203703110",
+            "cityName": "石家庄站",
+            "showTime": "08.30"
+        },
+        {
+            "itemId": "820533076085",
+            "cityName": "济南站",
+            "showTime": "09.01"
+        },
+        {
+            "itemId": "820202675943",
+            "cityName": "南京站",
+            "showTime": "09.06"
+        },
+        {
+            "itemId": "820504494125",
+            "cityName": "杭州站",
+            "showTime": "09.07"
+        },
+        {
+            "itemId": "819873675931",
+            "cityName": "天津站",
+            "showTime": "09.20"
+        },
+        {
+            "itemId": "820530609561",
+            "cityName": "沈阳站",
+            "showTime": "09.22"
+        },
+        {
+            "itemId": "820339984711",
+            "cityName": "西安站",
+            "showTime": "10.19"
+        },
+        {
+            "itemId": "820295000273",
+            "cityName": "郑州站",
+            "showTime": "10.20"
+        },
+        {
+            "itemId": "820660560773",
+            "cityName": "深圳站",
+            "showTime": "10.25"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=820533076085"
+}

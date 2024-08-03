@@ -1,0 +1,47 @@
+{
+    "platform": "大麦",
+    "project_id": "820825530572",
+    "project_name": "【17日】时代少年团「叁重楼」—「楼非楼」演唱会常州站",
+    "category_name": "演唱会",
+    "artists": [
+        "时代少年团"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.17 周六 19:30",
+    "session_time": [],
+    "price": "480-1880",
+    "isGeneralAgent": "true",
+    "isHotProject": "true",
+    "rating": null,
+    "city_name": "常州",
+    "venue_name": "常州奥体中心体育场",
+    "venue_info": {
+        "venue_address": "新北区晋陵北路与龙城大道交汇处",
+        "lng": 119.978985,
+        "lat": 31.806026
+    },
+    "project_info": "常州市反诈骗中心提醒：如果遇到卖票方高价出售特权码，且以“未备注姓名”“账户被冻结””等理由要求反复转账或共享屏幕的，警惕是诈骗。\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN018HZg2r2GdScWVCFEA_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01ydFZM42GdScWW5ZU0_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "331618",
+        "wantNumStr": "33.2万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过96%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "820825530572",
+            "cityName": "常州站",
+            "showTime": "08.17"
+        },
+        {
+            "itemId": "818390141618",
+            "cityName": "常州站",
+            "showTime": "08.16"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=820825530572"
+}

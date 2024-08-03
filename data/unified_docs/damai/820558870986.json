@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "820558870986",
+    "project_name": "黄礼格「庆祝我们搞砸的一切」2024巡演 北京站",
+    "category_name": "演唱会",
+    "artists": [
+        "黄礼格"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.10.19 周六 20:00",
+    "session_time": [],
+    "price": "138-520",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "EAST LIVE",
+    "venue_info": {
+        "venue_address": "建国门外郎家园10号61幢1层A3-062层(印艺文创园内)",
+        "lng": 116.472599,
+        "lat": 39.907242
+    },
+    "project_info": "黄礼格「庆祝我们搞砸的一切」2024巡演 北京站\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01dYbq792GdScS60IXu_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01pcCf7o2GdScNbtrwr_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "1853",
+        "wantNumStr": "1853",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "803018080138",
+            "cityName": "广州站",
+            "showTime": "08.23"
+        },
+        {
+            "itemId": "809374131195",
+            "cityName": "深圳站",
+            "showTime": "08.24"
+        },
+        {
+            "itemId": "811030647776",
+            "cityName": "上海站",
+            "showTime": "09.07"
+        },
+        {
+            "itemId": "809394015616",
+            "cityName": "南京站",
+            "showTime": "09.09"
+        },
+        {
+            "itemId": "820558870986",
+            "cityName": "北京站",
+            "showTime": "10.19"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=820558870986"
+}

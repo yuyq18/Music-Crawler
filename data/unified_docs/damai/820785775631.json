@@ -1,0 +1,48 @@
+{
+    "platform": "大麦",
+    "project_id": "820785775631",
+    "project_name": "种下一个未来-十个勤天巡回演唱会厦门站",
+    "category_name": "演唱会",
+    "artists": [
+        "十个勤天"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.22 周日 19:30",
+    "session_time": [],
+    "price": "388-1588",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "厦门",
+    "venue_name": "厦门奥林匹克体育中心-凤凰体育馆",
+    "venue_info": {
+        "venue_address": "厦门市翔安区刘五店片区",
+        "lng": 118.205477,
+        "lat": 24.563207
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01qPYcHJ2GdScSN4ScM_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01srbEUc2GdScTdQeLw_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ZUpzBS2GdScRkYD8I_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "79652",
+        "wantNumStr": "8.0万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过90%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "820938658300",
+            "cityName": "佛山站",
+            "showTime": "08.31"
+        },
+        {
+            "itemId": "820785775631",
+            "cityName": "厦门站",
+            "showTime": "09.22"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=820785775631"
+}

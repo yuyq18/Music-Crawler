@@ -1,0 +1,81 @@
+{
+    "platform": "大麦",
+    "project_id": "821351921255",
+    "project_name": "海阔天空 怀念家驹·【海山】致敬BEYOND 金曲演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "黄海山"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.07 周六 19:30",
+    "session_time": [
+        "09.07 周六"
+    ],
+    "price": "78-318",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "天津",
+    "venue_name": "天津大剧院歌剧厅",
+    "venue_info": {
+        "venue_address": "天津市河西区越秀路天津文化中心天津大剧院（天津乐园原址）",
+        "lng": 117.216161,
+        "lat": 39.087342
+    },
+    "project_info": "\n演出名称：《海阔天空 怀念家驹·【海山】致敬BEYOND(超越）金曲演唱会》\n演出时间：2024年9月7日 19:30 \n演出地点：天津大剧院 歌剧厅\n演出时长：约120分钟\n\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01Ciuc112GdScWl8wL1_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN013PIa3l2GdScIL6Ryc_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01338sVE2GdScQAhjNC_!!2251059038.jpg",
+        null
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "816679283441",
+            "cityName": "南昌站",
+            "showTime": "08.17"
+        },
+        {
+            "itemId": "815836546750",
+            "cityName": "岳阳站",
+            "showTime": "08.18"
+        },
+        {
+            "itemId": "813973290918",
+            "cityName": "宁波站",
+            "showTime": "08.24"
+        },
+        {
+            "itemId": "815673161950",
+            "cityName": "昆明站",
+            "showTime": "08.31"
+        },
+        {
+            "itemId": "815013672196",
+            "cityName": "普洱站",
+            "showTime": "09.01"
+        },
+        {
+            "itemId": "821351921255",
+            "cityName": "天津站",
+            "showTime": "09.07"
+        },
+        {
+            "itemId": "805197912422",
+            "cityName": "银川站",
+            "showTime": "09.16"
+        },
+        {
+            "itemId": "815117841777",
+            "cityName": "莆田站",
+            "showTime": "时间待定"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=821351921255"
+}
