@@ -104,18 +104,18 @@ class PiaoxingqiuCrawler(MusicCrawler):
                 json_docs[col_] = str(details_df[details_df['showId']==id][col_].values[0])
             
             detail_json = self.crawl_detail(id)
-
-            json_docs.update(detail_json)
-            if f'{id}.json' not in os.listdir(f'data/origin_docs/{self.platform}/'):
-                with open(f'data/origin_docs/{self.platform}/{id}.json', 'w') as f:
-                    json.dump(json_docs, f, indent=4, ensure_ascii=False)
-            sleep(random.randint(1, 3))
+            if detail_json:
+                json_docs.update(detail_json)
+                if f'{id}.json' not in os.listdir(f'data/origin_docs/{self.platform}/'):
+                    with open(f'data/origin_docs/{self.platform}/{id}.json', 'w') as f:
+                        json.dump(json_docs, f, indent=4, ensure_ascii=False)
+                sleep(random.randint(1, 3))
 
     def crawl_detail(self, id):
         r = requests.get(self.detail_url % id, headers=self.headers)
         json_r = json.loads(r.text)
-
-        return json_r['data']
+        if 'data' in json_r:
+            return json_r['data']
 
     def unify_docs(self):
         origin_ids_list = self.get_origin_ids()
@@ -215,4 +215,11 @@ class PiaoxingqiuCrawler(MusicCrawler):
 
                 with open(f'data/unified_docs/{self.platform}/{origin_id}.json', 'w') as f:
                     json.dump(unified_json_docs, f, ensure_ascii=False, indent=4)
-            
+
+
+if __name__ == '__main__':
+    piaoxingqiu = PiaoxingqiuCrawler()
+    # piaoxingqiu.crawl_origin_docs()
+    test_id = 344122
+    piaoxingqiu.crawl_detail(test_id)
+    piaoxingqiu.unify_one_docs(test_id)
