@@ -1,0 +1,587 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：安达乐队、Mr. miss、九连真人、盘尼西林、五条人、Supper Moment",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "906",
+    "cityname": "深圳",
+    "couponTags": "[]",
+    "description": "艺人：安达乐队、Mr. miss、九连真人、盘尼西林、五条人、Supper Moment",
+    "id": "1_1_822957554016",
+    "imgurl": "-360359052",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "乐队的夏天「Hot Summer」演唱会-深圳站",
+    "nameNoHtml": "乐队的夏天「Hot Summer」演唱会-深圳站",
+    "price": "380.0",
+    "price_str": "380-880",
+    "pricehigh": "880.0",
+    "privilegeTags": "[]",
+    "projectid": "822957554016",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.08.31 周六 18:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "深圳湾体育中心\"春茧\"体育场",
+    "venuecity": "深圳",
+    "venueid": "1637",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01uNrstz2GdSchUvHd2_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "822957554016",
+                    "itemName": "【深圳】乐队的夏天「Hot Summer」演唱会-深圳站",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "440300",
+                    "cityName": "深圳市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01uNrstz2GdSchUvHd2_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01uNrstz2GdSchUvHd2_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01FatF8Z2GdScm2D4Xd_!!2251059038.jpg",
+                    "seatImages": [
+                        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01FatF8Z2GdScm2D4Xd_!!2251059038.jpg"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "2024.08.31 周六 18:30",
+                    "showDuration": "约150分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。",
+                            "tagType": "2",
+                            "renderType": "2",
+                            "tagDescJson": "{\"generalNote\":\"该演出支持退票，您可以在【我的-订单详情页】中申请退票，退票需要收取手续费，具体规则如下；\",\"performRules\":[{\"rules\":[{\"endTime\":1723964400000,\"ruleStage\":3,\"ruleType\":2,\"startTime\":1723791600000},{\"endTime\":1724137200000,\"ruleFeeBP\":2000,\"ruleStage\":3,\"ruleType\":1,\"startTime\":1723964400000},{\"endTime\":1724310000000,\"ruleFeeBP\":3000,\"ruleStage\":2,\"ruleType\":1,\"startTime\":1724137200000},{\"ruleStage\":1,\"ruleType\":4,\"startTime\":1724310000000}]}],\"refundProcedureFeeRule\":1}",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：广州乐腾演艺文化有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：广州乐腾演艺文化有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "906",
+                    "atomSplit": "1",
+                    "isHotProject": "true",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01b9HvRR2GdSckSskqW_!!2251059038.jpg\" width=\"1080\" height=\"1855\" damai_width=\"1080\" damai_height=\"1855\">乐队的夏天Hot Summer演唱会</strong></p>\n<p>&nbsp;</p>\n<p>每一个夏天都意义非凡<br>虽然时光匆匆<br>但还好夏天一直都在<br>从荧幕到现场<br>有关乐夏的记忆一直都不曾退却<br>在这个格外“热”的夏天<br>那些有音乐的夏天<br>又回来了</p>\n<p>&nbsp;</p>\n<p>《乐队的夏天》自2019年播出开始，就以匠心好品质的乐队舞台不断出圈。在早前进行的《乐队的夏天》相关巡回演唱会上，现场乐队用沉浸投入的舞台，将《乐队的夏天》IP真实延展至乐迷的现实生活，为乐迷营造场场难忘的盛夏绮梦……</p>\n<p>&nbsp;</p>\n<p>本次演唱会以「Hot Summer」为主题，云集安达组合、Mr.Miss、九连真人、盘尼西林、五条人、SupperMoment六支知名乐队来延续节目在每年夏天为大家带来的乐队热潮记忆。《乐队的夏天》「Hot Summer」演唱会从台前到幕后，都是乐迷们熟悉的那个“乐夏”，本次演唱会不以夏天为收尾，而是抓住夏日的余温。</p>\n<p>&nbsp;</p>\n<p><strong>《乐队的夏天》「Hot Summer」演唱会深圳站</strong><br>8月31日 深圳湾体育中心“春茧”体育场</p>\n<p>一起抓住盛夏的温度，重回那个“乐队的夏天”。</p>\n<p>&nbsp;</p>\n<p><strong>乐队阵容</strong></p>\n<p>&nbsp;</p>\n<p><strong>安达组合</strong><br>蒙古语“安达”，有“结拜兄弟”“结盟”等含义。2003年至今，安达组合成立已有21年之久，成员有那日苏、其其格玛、毕力格巴特尔、乌日根、乌尼、青格乐、赛汗尼亚、阿乌日根、青格乐图，他们是当今蒙古族马头琴、长调、呼麦、冒顿潮尔、蒙古打击乐等艺术领域中的青年一代代表人物。</p>\n<p><br>融传统与现代一身，揉民族与世界一体，构成了安达音乐独特的艺术风格。在安达组合的音乐中，我们可以听到蒙古史诗的恢宏博大，长调民歌的辽阔舒展，马头琴的深沉悠扬、呼麦与潮尔的神奇古朴和说唱音乐的活泼俏丽以及短调民歌的鲜活与灵动。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01mNWltt2GdScaUTY3I_!!2251059038.png\" width=\"863\" height=\"509\" damai_width=\"863\" damai_height=\"509\"></p>\n<p>&nbsp;</p>\n<p><strong>Mr.Miss</strong><br>由刘恋和杜凯两位北大毕业生组成的人声爵士乐男女组合，成立于2009年。以美国三四十年代叮砰巷音乐和民国上海时代曲为其风格来源，创作出反映当下都市年轻人生活的一系列歌曲。<br>与大众眼中“小资情调”的爵士乐成见不同，Mr.Miss希望爵士乐能够在都市人群的生活中起到更实际的作用，他们化身为“都市生活观察员”，用诙谐却深刻的洞见，表达自己对现代社会生活、爱情和理想的独到见解。精美复古的创作风格，配合简单直白却四两拨千斤的歌词，带爵士回归 Tin Pan Alley 黄金年代的风采。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Grlhh62GdSca2VGtl_!!2251059038.png\" width=\"861\" height=\"1291\" damai_width=\"861\" damai_height=\"1291\"></p>\n<p>&nbsp;</p>\n<p><strong>九连真人</strong><br>九连真人，一支来自中国广东河源连平县以客家话为主要语言的摇滚乐队。九连的音乐富于文学性也富于情感，富于地域性又很辽阔，更加富于故事性和音乐性。九连真人虽然以客家话行世，但其作风激越，乐风明亮，大开大阖，光明疏朗，居山中而瞰天下，歌曲以“不正”之风抚触灵魂。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN0168WNHn2GdScbQSLWf_!!2251059038.png\" width=\"864\" height=\"576\" damai_width=\"864\" damai_height=\"576\"></p>\n<p>&nbsp;</p>\n<p><strong>盘尼西林</strong><br>盘尼西林乐队，是成立于2012年的中国内地摇滚乐队，由主唱张哲轩（小乐）、贝斯手熊花和鼓手小羊组成。作为九零一代乐队里备受瞩目的新星，他们拥有着超越年龄的思维与渴望，以一颗历经沧桑的老灵魂，歌唱新一代年轻人敏感而丰富的世界与生活。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01W6dnAj2GdScYLaXdz_!!2251059038.png\" width=\"864\" height=\"1152\" damai_width=\"864\" damai_height=\"1152\"></p>\n<p>&nbsp;</p>\n<p><strong>五条人</strong><br>广东海丰民谣道山靓仔，珠江三角洲布鲁斯狂人，Canton Pop 劲歌金曲新浪潮，中国迷幻摇滚土特产。五条人乐队由仁科和茂涛创立于 2008 年，五条人是披着民谣外衣的朋克，也是戴着娱乐面具的艺术家，五条人是一出出马不停蹄永不落幕的大时代迷你剧。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01dXzJTx2GdScXXVm0I_!!2251059038.png\" width=\"865\" height=\"577\" damai_width=\"865\" damai_height=\"577\"></p>\n<p>&nbsp;</p>\n<p><strong>SupperMoment</strong><br>Supper Moment是一支于2006年8月成立的中国香港摇滚乐队。四个小伙子用了十八年时间探索音乐，并继续向外推展，将他们的音乐带到更远。2022年Supper Moment在广州、长沙、东莞、深圳、珠海、江门、佛山、中山、肇庆、顺德、惠州等11个城市举行了18场《一直相信音乐会》，场场爆满。2023年9月、12月、2024年3月分别在广州、深圳和佛山举办Supper Moment“THE MOMENTUM LIVE时刻定律”演唱会。<br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Han2jy2GdScT27YjP_!!2251059038.png\" width=\"865\" height=\"1244\" damai_width=\"865\" damai_height=\"1244\"></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "广州乐腾演艺文化有限公司",
+                            "socialCreditCode": "91440101MA5D0B163T",
+                            "legalPerson": "李丽芬",
+                            "regCapStr": "2000万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "其他有限责任公司",
+                            "entAddress": "广州市天河区珠江东路6号5501房(部位自编12单元)(仅限办公)"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张、每个账号最多购买4张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳台居民居住证/外国人永久居留身份证/身份证/港澳居民来往内地通行证/台湾居民来往大陆通行证/护照"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约150分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "25"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "150分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "5300"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "1637",
+                    "venueName": "深圳湾体育中心\"春茧\"体育场",
+                    "venueProvinceName": "广东省",
+                    "venueCityName": "深圳市",
+                    "lng": 113.94861,
+                    "lat": 22.520191,
+                    "venueAddr": "深圳市南山区滨海大道",
+                    "showCountText": "共有2个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "rankListVO": {
+                    "id": "3190",
+                    "name": "演唱会上新榜",
+                    "order": "2",
+                    "type": "2"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D822957554016%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "26856766496",
+                        "artistName": "安达乐队",
+                        "archives": "《乐队的夏天3》参演乐队，融传统与现代一身，揉民族与世界一体，构成了安达音乐独特的艺术风格。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1692675425244/1692675425244-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "72440",
+                        "artistName": "Mr. miss",
+                        "archives": "Mr. Miss是一支人声爵士乐男女组合。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1666691825472/1666691825472-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "72359",
+                        "artistName": "九连真人",
+                        "archives": "中国内地摇滚乐队",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1562578145018/1562578145018-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "72511",
+                        "artistName": "盘尼西林",
+                        "archives": "中国内地摇滚乐队",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1571743288530/1571743288530-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "72536",
+                        "artistName": "五条人",
+                        "archives": "中国内地民谣乐队",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1686901242199/1686901242199-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "72325",
+                        "artistName": "Supper Moment",
+                        "archives": "是一支独立乐队。成员包括主音/吉他手Sunny、吉他手阿鸡、低音吉他手CK和鼓手阿达。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1716358272721/1716358272721-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "26856766496",
+                        "name": "安达乐队",
+                        "desc": "《乐队的夏天3》参演乐队，融传统与现代一身，揉民族与世界一体，构成了安达音乐独特的艺术风格。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1692675425244/1692675425244-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "72440",
+                        "name": "Mr. miss",
+                        "desc": "Mr. Miss是一支人声爵士乐男女组合。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1666691825472/1666691825472-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "72359",
+                        "name": "九连真人",
+                        "desc": "中国内地摇滚乐队",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1562578145018/1562578145018-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "72511",
+                        "name": "盘尼西林",
+                        "desc": "中国内地摇滚乐队",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1571743288530/1571743288530-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "72536",
+                        "name": "五条人",
+                        "desc": "中国内地民谣乐队",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1686901242199/1686901242199-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "72325",
+                        "name": "Supper Moment",
+                        "desc": "是一支独立乐队。成员包括主音/吉他手Sunny、吉他手阿鸡、低音吉他手CK和鼓手阿达。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1716358272721/1716358272721-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "5162",
+                    "wantNumStr": "5162",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN01JRwhGM1y3aE69B5P1_!!6000000006523-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/889398/177879749.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01so1NLY1lEx3KreQfP_!!6000000004788-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1139869/227973911_1722354885490.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN014hqoie1G2oSvT63ui_!!6000000000565-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1724141116000",
+                "sellStartTimeStr": "08月20日 16:05",
+                "priceRange": "¥380-¥880",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售，正式开票后将第一时间配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "2906626",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "388674",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "23883",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2782018",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2781890",
+                    "2873026",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "4",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8229575540/2/822957554016.jpg"
+            }
+        }
+    }
+}

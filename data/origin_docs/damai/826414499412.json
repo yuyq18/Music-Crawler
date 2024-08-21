@@ -1,0 +1,624 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：谭维维、南征北战",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "2495",
+    "cityname": "石家庄",
+    "couponTags": "[]",
+    "description": "艺人：谭维维、南征北战",
+    "id": "1_1_826414499412",
+    "imgurl": "-325789598",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "摇滚之夜群星演唱会",
+    "nameNoHtml": "摇滚之夜群星演唱会",
+    "price": "380.0",
+    "price_str": "380-1280",
+    "pricehigh": "1280.0",
+    "privilegeTags": "[]",
+    "projectid": "826414499412",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.09.15 周日 19:30",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "石家庄市裕彤国际体育中心体育场",
+    "venuecity": "石家庄",
+    "venueid": "1034",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01QLWetQ2GdScqyC9SN_!!0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "826414499412",
+                    "itemName": "【石家庄】摇滚之夜群星演唱会",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "130100",
+                    "cityName": "石家庄市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01QLWetQ2GdScqyC9SN_!!0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01QLWetQ2GdScqyC9SN_!!0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01IpnOTY2GdScnxsmS9_!!2251059038.jpg",
+                    "seatImages": [
+                        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01IpnOTY2GdScnxsmS9_!!2251059038.jpg"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "2024.09.15 周日 19:30",
+                    "showDuration": "约150分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。",
+                            "tagType": "2",
+                            "renderType": "2",
+                            "tagDescJson": "{\"generalNote\":\"该演出支持退票，您可以在【我的-订单详情页】中申请退票，退票需要收取手续费，具体规则如下；\",\"performRules\":[{\"rules\":[{\"endTime\":1724472000000,\"ruleFeeBP\":300,\"ruleStage\":1,\"ruleType\":1,\"startTime\":1724292600000},{\"endTime\":1725357600000,\"ruleFeeBP\":3000,\"ruleStage\":1,\"ruleType\":1,\"startTime\":1724472000000},{\"ruleStage\":1,\"ruleType\":4,\"startTime\":1725357600000}]}],\"refundProcedureFeeRule\":1}",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：穆棱市龙穆影业有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：穆棱市龙穆影业有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "2495",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01SSjAEJ2GdScqEJGBW_!!2251059038.png\" width=\"976\" height=\"1138\" damai_width=\"976\" damai_height=\"1138\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01RmrGtR2GdScnvlGID_!!2251059038.png\" width=\"970\" height=\"1108\" damai_width=\"970\" damai_height=\"1108\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN016PkQ6F2GdScrKn2vC_!!2251059038.png\" width=\"976\" height=\"634\" damai_width=\"976\" damai_height=\"634\"></p>\n<p>迎中秋 9.15摇滚之夜演唱会<br><strong>摇滚歌迷专享</strong>嘉年华音乐现场<br>谭维维、南征北战、王建房、杜歌、刘刚，关力扬，牛犇，刘建东<br>9位华语乐坛摇滚巨星强势加盟<br>国内顶级摇滚歌手<br>打造石家庄摇滚之城市知名片<br>&nbsp;<br><strong>【演唱会专属畅游】</strong><br>这不仅仅是一场演唱会，更是一次前所未有的摇滚豪华派对！本次摇滚音乐仅对演唱会购票观众开放。我们邀请您一同登上这艘音乐巨轮，开启一场歌迷航母专属音乐嘉年华！</p>\n<p><br>我们承诺，演唱会全场9位歌手倾情演唱，绝无其他演员占用演唱时间！本次音乐节谭维维将作为主咖出场，带乐队演唱不少于5首歌曲！万人共赏沉浸式视听盛宴，带上你特别想在现场感受的歌单、歌词本，和你喜欢的明星在轻柔的海风中大声合唱！谭维维是中国女摇滚青年歌手，她代表着新时代的摇滚之风采。<br>9月15日“摇滚之夜”，群星璀璨，引爆全城！ <br>这个金秋，热烈，自由。<br>夏天的热浪中，共赴一场摇滚之约。</p>\n<p>晚19:30分 让我们共赴星辰大海！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN012l061I2GdScoo4rvD_!!2251059038.jpg\" width=\"1020\" height=\"1360\" damai_width=\"1020\" damai_height=\"1360\"></p>\n<p>嘉宾介绍</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01SYQ4O22GdScohrett_!!2251059038.png\" width=\"675\" height=\"900\" damai_width=\"675\" damai_height=\"900\"></p>\n<p>她--谭维维。<br>摇滚与民族的重塑者，摇滚女王。</p>\n<p>年华渐去，请十八岁的自己听一场演唱会。<br>告诉曾经的自己，人生浪涌云翻，我虽赤脚上场，却也一生铿锵。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01AxBdCl2GdScmKSu0h_!!2251059038.png\" width=\"675\" height=\"900\" damai_width=\"675\" damai_height=\"900\"></p>\n<p>他们-南征北战<br>重新定义潮流音乐</p>\n<p>播放南征北战的歌曲片段。<br>青春如火，共赴南征北战之约。<br>正青春，敬勇气、敬梦想、敬未来。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN013cTxvf2GdScooCzlF_!!2251059038.png\" width=\"675\" height=\"900\" damai_width=\"675\" damai_height=\"900\"></p>\n<p>他--王建房<br>西安摇滚乐代表人物。<br>播放王建房的歌。</p>\n<p>穿越千年，与李白走过长安夜。<br>纳三千年汉唐古韵为魂魄，<br>刚硬、 狂热、 荡气回肠</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01jx5g8S2GdScsiKTyU_!!2251059038.png\" width=\"675\" height=\"900\" damai_width=\"675\" damai_height=\"900\"></p>\n<p>他--刘刚<br>旭日阳刚星光大道总决赛亚军，荣登2011年央视春晚。<br>代表作《怀念青春》《飞鸟》《你是我的理想》</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01PtLG6Z2GdScpSosK4_!!2251059038.png\" width=\"675\" height=\"900\" damai_width=\"675\" damai_height=\"900\"><br>他--杜歌<br>中国内地男歌手、获得《华语音乐流行榜》内地年度新人奖。<br>代表作：《兄弟难当》、《突围》、《从前的时光》</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN0109ezw92GdScpSq5Ds_!!2251059038.png\" width=\"675\" height=\"900\" damai_width=\"675\" damai_height=\"900\"></p>\n<p>他--刘建东<br>被誉为西北歌王<br>代表作：《又到南泥湾》、《梦中的兰花花》、《我想你》</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01rPrwij2GdScpG9BjM_!!2251059038.png\" width=\"675\" height=\"900\" damai_width=\"675\" damai_height=\"900\"><br>他--关力瑒<br>励志型原创歌手<br>代表作：《每一步》《爷们就要争口气》《一意孤行》</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01OU6chT2GdScqb0XoF_!!2251059038.png\" width=\"675\" height=\"900\" damai_width=\"675\" damai_height=\"900\"></p>\n<p>他--牛犇<br>原创歌手 音乐制作人 创作出 大不了、与你无关、小黄花等多首脍炙人口的歌曲<br>代表作：《小黄花》与《蓝莲花》《向阳花》并称中国民谣摇滚界励志三朵花</p>\n<p>摇滚之夜降临。<br>燃！<br>燥！</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "穆棱市龙穆影业有限公司",
+                            "socialCreditCode": "91231085MAC8L82J0J",
+                            "legalPerson": "王涛",
+                            "regCapStr": "1000万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人独资)",
+                            "entAddress": "黑龙江省牡丹江市穆棱市马桥河镇创新创业基地"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/台湾居民来往大陆通行证/护照/港澳台居民居住证/外国人永久居留身份证/身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约150分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "谭维维，王建房，刘建东，牛犇，刘刚，南征北战，关优良，杜彦军"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "4200"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "1034",
+                    "venueName": "石家庄市裕彤国际体育中心体育场",
+                    "venueProvinceName": "河北省",
+                    "venueCityName": "石家庄市",
+                    "lng": 114.534987,
+                    "lat": 38.041871,
+                    "venueAddr": "河北省石家庄市体育南大街",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=826414499412"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D826414499412%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "1101",
+                        "artistName": "谭维维",
+                        "archives": "谭维维，中国内地女歌手、词曲作者、演员。《超级女声》成都区冠军，2013年，发行音乐专辑《乌龟的阿基里斯》，凭借该专辑获得第14届音乐风云榜“年度最佳摇滚艺人奖”。2016年，发行音乐EP《夏长》《秋收》 。2017年，在中央电视台春节联欢晚会上演唱歌曲《不忘初心》 获得全球流行音乐年度盛典“全金榜年度最佳女歌手奖” 、第21届全球华语榜中榜“内地最受欢迎女歌手奖” ；同年，发行音乐EP《冬藏》 《春生》 。2018年，为电影《江湖儿女》演唱同名主题曲《江湖儿女》 ，凭借该曲获得第11届华语金曲奖“国语类十大华语金曲奖” 。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1712205746205/1712205746205-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "71809",
+                        "artistName": "南征北战",
+                        "archives": "南征北战（NZBZ），中国内地组合，其名寓意为：年轻人要为自己的梦想和爱去努力征战拼搏。其成员来自于祖国的大江南北，由此得名南征北战，由汀洋、赵辰龙、尼成三人组成。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1719303984261/1719303984261-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "1101",
+                        "name": "谭维维",
+                        "desc": "谭维维，中国内地女歌手、词曲作者、演员。《超级女声》成都区冠军，2013年，发行音乐专辑《乌龟的阿基里斯》，凭借该专辑获得第14届音乐风云榜“年度最佳摇滚艺人奖”。2016年，发行音乐EP《夏长》《秋收》 。2017年，在中央电视台春节联欢晚会上演唱歌曲《不忘初心》 获得全球流行音乐年度盛典“全金榜年度最佳女歌手奖” 、第21届全球华语榜中榜“内地最受欢迎女歌手奖” ；同年，发行音乐EP《冬藏》 《春生》 。2018年，为电影《江湖儿女》演唱同名主题曲《江湖儿女》 ，凭借该曲获得第11届华语金曲奖“国语类十大华语金曲奖” 。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1712205746205/1712205746205-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "71809",
+                        "name": "南征北战",
+                        "desc": "南征北战（NZBZ），中国内地组合，其名寓意为：年轻人要为自己的梦想和爱去努力征战拼搏。其成员来自于祖国的大江南北，由此得名南征北战，由汀洋、赵辰龙、尼成三人组成。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1719303984261/1719303984261-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "57",
+                    "wantNumStr": "57",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01fhSSIo1XHKUOi5w5Y_!!6000000002898-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2578630/515726009_1723697024342.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01z79cll1I7y9jwGsmE_!!6000000000847-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1113105/222621053_1674573475125.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01WMBkkT1Lnb08vVqc0_!!6000000001344-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1724292600000",
+                "sellStartTimeStr": "08月22日 10:10",
+                "countDown": "52473",
+                "rcdt": "52472873",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥380-¥1280",
+                "performBases": [
+                    {
+                        "name": "09.15 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1726329600000",
+                        "performs": [
+                            {
+                                "performId": "215938435",
+                                "performName": "2024-09-15  周日 19:30",
+                                "itemId": "826414499412",
+                                "projectId": "221698075",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1726399800000",
+                                "performTime": "2024.09.15 19:30",
+                                "performStartDate": "2024-09-15",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售，正式开票后将第一时间配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "立即预订",
+                "buyBtnStatusAfterCountDown": "204",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "2976258",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "1611",
+                    "4939",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8264144994/2/826414499412.jpg"
+            }
+        }
+    }
+}

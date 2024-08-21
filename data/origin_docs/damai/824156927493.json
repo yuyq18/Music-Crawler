@@ -1,0 +1,584 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：刘惜君、梁咏琪、杨宗纬、吴克群",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1148",
+    "cityname": "镇江",
+    "couponTags": "[]",
+    "description": "艺人：刘惜君、梁咏琪、杨宗纬、吴克群",
+    "id": "1_1_824156927493",
+    "imgurl": "-348365318",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "超级音潮群星演唱会",
+    "nameNoHtml": "超级音潮群星演唱会",
+    "price": "180.0",
+    "price_str": "180-980",
+    "pricehigh": "980.0",
+    "privilegeTags": "[]",
+    "projectid": "824156927493",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.09.07 周六 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "镇江体育会展中心体育场",
+    "venuecity": "镇江",
+    "venueid": "61165",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Hatgdg2GdSck5LzY8_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "824156927493",
+                    "itemName": "【镇江】超级音潮群星演唱会",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "321100",
+                    "cityName": "镇江市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Hatgdg2GdSck5LzY8_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Hatgdg2GdSck5LzY8_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01TrnI8N2GdScmrnhAU_!!2251059038.png",
+                    "seatImages": [
+                        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01TrnI8N2GdScmrnhAU_!!2251059038.png"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "2024.09.07 周六 19:30",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。",
+                            "tagType": "2",
+                            "renderType": "2",
+                            "tagDescJson": "{\"generalNote\":\"该演出支持退票，您可以在【我的-订单详情页】中申请退票，退票需要收取手续费，具体规则如下；\",\"performRules\":[{\"rules\":[{\"endTime\":1723886220000,\"ruleStage\":3,\"ruleType\":2,\"startTime\":1723799820000},{\"endTime\":1724515200000,\"ruleFeeBP\":2000,\"ruleStage\":2,\"ruleType\":1,\"startTime\":1723886220000},{\"endTime\":1725120000000,\"ruleFeeBP\":3000,\"ruleStage\":1,\"ruleType\":1,\"startTime\":1724515200000},{\"ruleStage\":1,\"ruleType\":4,\"startTime\":1725120000000}]}],\"refundProcedureFeeRule\":1}",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：江苏谜途文化传播有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：江苏谜途文化传播有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1038",
+                    "atomSplit": "1",
+                    "isHotProject": "true",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>超级音潮群星演唱会</strong><br><strong>票务须知</strong><br>超级音潮群星演唱会将于2024年9月7日在镇江体育会展中心体育场举办。衷心感谢各位观众对本次演唱会的关心和支持！我们将积极响应文旅部发布的《关于进一步加强演出市场管理规范演出市场秩序的通知》的要求，加强对购票渠道的监管，确保购票过程的透明和公平。<br>本场演出具体购票、入场规则如下：<br><strong>一、购票须知</strong><br>1、9月7日场次正式预售时间：【2024年8月16日17:17】:<br>2、本场演出实行【实名购票】和【实名入场】制度，购买时应提供真实合法有效的实名证件，且实名证件信息与观演人须一致并通过闸机核验，门票不得【转赠】及【转售】。<br>3、儿童须购买全票，一人一票，且应在家长陪同下进场。无实体身份证的未成年人观众须 携带户口本核验入场。<br>4、入场规则：本场演出为【实名制电子票】,观演人如进场观演，须【携带与门票绑定证件 一致的实名证件原件】并通过闸机与人脸信息验证。证件信息与观演人一致核验通过后方可入场，入场后须对号入座。<br>5、因观演人在购票中所填信息有误或其他信息不正确，导致无法入场或退票，须自行承担责任。<br>6、每笔订单最多购买6张，一张门票对应一个证件。<br><strong>二、退票须知</strong><br>鉴于购票后观演人可能因为一些因素导致无法到场观演，针对在主办方指定的官方购票平台 购票的用户，主办方开放退票绿色通道，具体退票规则如下：<br>1、所有退票仅支持整单整退，即 ，一个订单下如有多张票，则仅支持整单中所有门票全退。<br>2、针对退票订单，根据退票的具体时间不同，可能产生一定比例的退票手续费，具体为：<br>演出场次：2024年9月7日19:30<br>退票时间 退票手续费<br>2024年8月16日17:17-2024年8月17日17:17 无<br>2024年8月17日17:18-2024年8月24日23:59 20%<br>2024年8月25日00:00-2024年8月31日23:59 30%<br>2024年9月1日00:00后 停止办理退票，不接受任何退票申请<br>3、购票人提出退票申请后，将由主办方指定的官方购票平台客服于工作时间(10:00-20:00 ) 内审核，审核通过后办理退票手续，退款到账时间以各支付渠道规则为准，退票手续费(如有)将在退款金额中直接扣除。<br>4、同一观演人，在同一场次中仅享有一次退票权益。特别是，在产生一次退票后，【再次 购买同场次演出票后不再享有退票权益】。<br><strong>三、重复购票的订单处理规则</strong><br>1、为避免财物损失及无法入场观演，请勿重复购票，请勿使用同一观演人的证件在不同平 台购买同一场次的门票，请勿使用同一证件在多个购票平台购买同一场次的门票。<br>2、如使用同一观演人的实名证件在不同购票渠道购买同一场次的演出门票，导致观演人在 多家购票平台购票订单中录入的观演人信息重复的，任一购票平台发现后，观演人在其购票 平台购买的演出门票订单将被整体取消(整单整退),由此造成的损失均由观演人自行承担(按照30%收取退票手续费)。<br><strong>四、其他</strong><br>1、本场演出，“未成年人观众”须购票前经法定监护人允准，如购票订单成功生成并完成 支付且观演人身份信息为“未成年人观众”时，平台默认其为“法定监护人”授权允准购票，并由法定监护人承担一切相关责任。<br>2、请所有观众提前规划好个人行程，确认个人身体状态，慎重购票。</p>\n<p>&nbsp;</p>\n<p>衷心感谢歌迷朋友们的理解与支持，我们愿与歌迷朋友一起共同努力，共创公平有序的售票<br>观演环境。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN018UHQUR2GdScfYY12Q_!!2251059038.png\" width=\"864\" height=\"1179\" damai_width=\"864\" damai_height=\"1179\"></p>\n<p>刘惜君<br>刘惜君，中国内地流行乐女歌手。她的嗓音清澈动人，音乐风格多样，涵盖了抒情、摇滚、古风等多种元素。<br>从出道以来，刘惜君凭借着扎实的唱功和独特的音乐表现力，赢得了众多歌迷的喜爱。其代表作品有《我很快乐》，这首歌以简单而直接的旋律，唱出了坚强与洒脱，成为了许多人的青春回忆。还有《该忘了》，深情的演绎让人沉浸在爱情的悲欢之中。<br>刘惜君在音乐的道路上不断探索和突破，每一次的舞台表演都能给观众带来惊喜，是华语乐坛中不可多得的实力唱将。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01pGlbLB2GdSciHbWpm_!!2251059038.png\" width=\"864\" height=\"1295\" damai_width=\"864\" damai_height=\"1295\"></p>\n<p>梁咏琪<br>梁咏琪，是一位全能型艺人，在歌唱和演艺领域都取得了显著成就。<br>作为歌手，她的歌声温暖而富有感染力。《短发》这首歌让她红遍大江南北，歌曲中传达出的勇敢和坚强，激励了无数人勇敢面对生活的改变。《胆小鬼》则以轻快的节奏和俏皮的歌词展现了她青春活泼的一面。<br>在演艺方面，梁咏琪也凭借出色的表演赢得了观众的认可。<br>梁咏琪以其清新的形象和独特的艺术魅力，在华语娱乐圈中留下了深刻的印记。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01DzDBOO2GdSciHdoDg_!!2251059038.png\" width=\"864\" height=\"1152\" damai_width=\"864\" damai_height=\"1152\"></p>\n<p>杨宗纬<br>杨宗纬，中国台湾男歌手。<br>他的歌声饱含深情，总能触动人们内心深处的情感。一首《一次就好》，让无数人感受到了他那极具穿透力的嗓音和细腻的情感处理。《其实都没有》更是将孤独与无奈诠释得淋漓尽致。<br>杨宗纬在音乐的舞台上，用他的声音讲述着一个个动人的故事，每一个音符都仿佛承载着深厚的情感，使听众陶醉其中。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01iG0W912GdScfYbEmb_!!2251059038.png\" width=\"865\" height=\"1154\" damai_width=\"865\" damai_height=\"1154\"></p>\n<p>吴克群<br>吴克群，华语流行乐男歌手、影视演员。<br>他的音乐作品风格独特，融合了流行、摇滚、R&amp;B 等多种元素。《为你写诗》以浪漫的旋律和温馨的歌词，成为了经典的爱情表白歌曲。《将军令》则展现了他对传统文化的创新诠释和独特见解。<br>吴克群不仅在音乐上有着出色的表现，在影视领域也有所涉猎，展现了他多面的艺术才华。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><br>2024 年 9 月 7 日，《超级音潮群星演唱会》将于镇江体育会展中心体育场隆重举行，让我们共同期待这四位实力艺人在此次演唱会中为大家奉献一场无与伦比的音乐盛宴！</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "江苏谜途文化传播有限公司",
+                            "socialCreditCode": "91320583302070733R",
+                            "legalPerson": "胡燕平",
+                            "regCapStr": "1000万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人独资)",
+                            "entAddress": "昆山市玉山镇寰庆商苑138号"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/护照/外国人永久居留身份证/港澳台居民居住证/港澳居民来往内地通行证/身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "25"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "刘惜君、梁咏琪、杨宗纬、吴克群"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "10100"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "61165",
+                    "venueName": "镇江体育会展中心体育场",
+                    "venueProvinceName": "江苏省",
+                    "venueCityName": "镇江市",
+                    "lng": 119.42322,
+                    "lat": 32.17441,
+                    "venueAddr": "江苏省镇江市润州区团山路1号-1号",
+                    "showCountText": "共有2个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D824156927493%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "950",
+                        "artistName": "刘惜君",
+                        "archives": "中国流行女歌手、音乐制作人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413416345/1534413416345-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "2181",
+                        "artistName": "梁咏琪",
+                        "archives": "中国香港国语、粤语流行曲歌手及演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1696907617783/1696907617783-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "2004",
+                        "artistName": "杨宗纬",
+                        "archives": "中国台湾男歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413403260/1534413403260-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1938",
+                        "artistName": "吴克群",
+                        "archives": "中国台湾歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1713417282670/1713417282670-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "950",
+                        "name": "刘惜君",
+                        "desc": "中国流行女歌手、音乐制作人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413416345/1534413416345-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "2181",
+                        "name": "梁咏琪",
+                        "desc": "中国香港国语、粤语流行曲歌手及演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1696907617783/1696907617783-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "2004",
+                        "name": "杨宗纬",
+                        "desc": "中国台湾男歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413403260/1534413403260-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1938",
+                        "name": "吴克群",
+                        "desc": "中国台湾歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1713417282670/1713417282670-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "40656",
+                    "wantNumStr": "4.1万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过83%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01k0453q1sPfdAAQ7YJ_!!6000000005759-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2466313/493262781_1714631582047.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01I4kws71HYFGQ5pDY3_!!6000000000769-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/811127/162225492.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01XWxmOi1OrfMwRZv2s_!!6000000001759-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1724054106000",
+                "sellStartTimeStr": "08月19日 15:55",
+                "priceRange": "¥180-¥980",
+                "performBases": [
+                    {
+                        "name": "09.07 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1725638400000",
+                        "performs": [
+                            {
+                                "performId": "215940189",
+                                "performName": "2024-09-07  周六 19:30",
+                                "itemId": "824156927493",
+                                "projectId": "221719003",
+                                "chooseSeatType": "5",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1725708600000",
+                                "performTime": "2024.09.07 19:30",
+                                "performStartDate": "2024-09-07",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "2906626",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "388674",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "23883",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2782018",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "3120770",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2781890",
+                    "2873026",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8241569274/2/824156927493.jpg"
+            }
+        }
+    }
+}

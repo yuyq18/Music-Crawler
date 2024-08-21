@@ -1,0 +1,79 @@
+{
+    "platform": "大麦",
+    "project_id": "824136928491",
+    "project_name": "钢心 x A公馆『龙王踢馆』北京双专场",
+    "category_name": "演唱会",
+    "artists": [
+        "钢心",
+        "A公馆乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.31 周六 20:00",
+    "session_time": [],
+    "price": "179-249",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "MAO Livehouse北京",
+    "venue_info": {
+        "venue_address": "北京海淀区复兴路69号院2号136-G23Mao livehouse",
+        "lng": 116.277185,
+        "lat": 39.910269
+    },
+    "project_info": "钢心\n\nSteely Heart 钢心成立于2007年，乐队一直在尝试将各种音乐风格融入进自己的作品中，并通过多年的现场磨练，积累了丰富的演出经验，狂放的台风与现场互动性让钢心慢慢形成了独有的LIVE风格。这些都是基于乐队成员一直以来想做“首先让自己开心的音乐，才能去感染和自己臭味相投的人”的初衷。中文单曲《冠军》和《龙王》的发布，让钢心走入了新的阶段，他们努力尝试更多的风格变化和中文歌曲创作，以期在音乐上能走的更远。\nA公馆\n\nA公馆，拥有着“情绪化，扭曲，disco，电子，英式，新浪潮，疯狂的气质，不断的尝试新的音乐可能性，力图给乐迷带来更多的听觉感受。一支来自北京的独立乐队，天马行空不拘泥于形式，不断的追求新的感觉与精致的现场演出，音乐作品新颖并且独特，几乎囊括了英式，电子，氛围，disco，grunge，后摇，后朋克，新浪潮等等，像是学习了很高深的武功秘籍后，自创了黯然销魂掌的意思。 四个人由内而外的音乐气息，给观众以及听众带来属于时代的听觉与视觉盛宴。\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01QByu7J2GdScdHUU07_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01c1xqlQ2GdScdBDRRo_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01oWG48d2GdSchHbcoL_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "42",
+        "wantNumStr": "42",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "824136928491",
+            "cityName": "北京站",
+            "showTime": "08.31"
+        },
+        {
+            "itemId": "806582743785",
+            "cityName": "青岛站",
+            "showTime": "09.06"
+        },
+        {
+            "itemId": "806889025453",
+            "cityName": "深圳站",
+            "showTime": "09.20"
+        },
+        {
+            "itemId": "822626815241",
+            "cityName": "武汉站",
+            "showTime": "10.18"
+        },
+        {
+            "itemId": "823102068168",
+            "cityName": "南京站",
+            "showTime": "11.08"
+        },
+        {
+            "itemId": "811705078709",
+            "cityName": "银川站",
+            "showTime": "12.06"
+        },
+        {
+            "itemId": "812339184580",
+            "cityName": "贵阳站",
+            "showTime": "12.20"
+        },
+        {
+            "itemId": "812044599848",
+            "cityName": "昆明站",
+            "showTime": "12.21"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=824136928491"
+}

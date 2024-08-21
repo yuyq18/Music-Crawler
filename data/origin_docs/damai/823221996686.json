@@ -1,0 +1,528 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：王力宏、潘玮柏、范玮琪、徐怀钰",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "893",
+    "cityname": "广州",
+    "couponTags": "[]",
+    "description": "艺人：王力宏、潘玮柏、范玮琪、徐怀钰",
+    "id": "1_1_823221996686",
+    "imgurl": "-357714626",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "超级音雄巨星演唱会·广州站",
+    "nameNoHtml": "超级音雄巨星演唱会·广州站",
+    "price": "0.0",
+    "price_str": "价格待定",
+    "pricehigh": "10000000.0",
+    "privilegeTags": "[]",
+    "projectid": "823221996686",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "时间待定",
+    "sitestatus": "14",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "广州市海心沙亚运公园",
+    "venuecity": "广州",
+    "venueid": "53305",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01KLNTdz2GdScdIOhn3_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "823221996686",
+                    "itemName": "【广州】超级音雄巨星演唱会·广州站",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "440100",
+                    "cityName": "广州市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01KLNTdz2GdScdIOhn3_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01KLNTdz2GdScdIOhn3_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN013lkyDI2GdSclYRIoH_!!2251059038.png",
+                    "seatImages": [
+                        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN013lkyDI2GdSclYRIoH_!!2251059038.png"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "时间待定",
+                    "showDuration": "约150分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。",
+                            "tagType": "2",
+                            "renderType": "2",
+                            "tagDescJson": "{\"generalNote\":\"该演出支持退票，您可以在【我的-订单详情页】中申请退票，退票需要收取手续费，具体规则如下；\",\"performRules\":[{\"rules\":[{\"endTime\":1724131080000,\"ruleStage\":3,\"ruleType\":2,\"startTime\":1724044680000},{\"endTime\":1724217480000,\"ruleFeeBP\":2000,\"ruleStage\":3,\"ruleType\":1,\"startTime\":1724131080000},{\"ruleStage\":2,\"ruleType\":4,\"startTime\":1724217480000}]}],\"refundProcedureFeeRule\":1}",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京涵晰文化传媒有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：北京涵晰文化传媒有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "893",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "3",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Mb4Iqe2GdScnXU8N6_!!2251059038.jpg\" width=\"637\" height=\"913\" damai_width=\"637\" damai_height=\"913\"></strong></p>\n<p><strong><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01H81HqL2GdScpjL6Ut_!!2251059038.jpg\" width=\"630\" height=\"880\" damai_width=\"630\" damai_height=\"880\"></strong></p>\n<p>&nbsp;</p>\n<p><strong>超级音雄巨星演唱会·广州站</strong></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01wvgCIK2GdScef24Wx_!!2251059038.png\" width=\"865\" height=\"597\" damai_width=\"865\" damai_height=\"597\"><br>“音雄”系列巨星演唱会的第Ⅳ篇章 <br>“超级音雄巨星演唱会”广州站震撼来袭！！！<br>王力宏、潘玮柏、范玮琪、徐怀钰<br>四位华语乐坛天王天后携手献唱<br>“音”雄阵容高燃集结 音乐狂潮即将登陆<br>共赴一场关于青春、自由、激情、浪漫的炽热邂逅</p>\n<p><br>2024年8月25日<br>广州·海心沙亚运公园<br>舞台呈现升级加码 视听盛宴沉浸璀璨<br>用一场音乐的狂欢点燃广州仲夏夜的激情<br>“超级音雄巨星演唱会•广州站”<br>用每一首歌曲，传递音雄的内涵<br>酷炫开唱 超强音浪！<br>龙魂不熄 音乐不止！<br>嗨翻羊城，粤韵飞扬！</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01IuojtW2GdSce6ST21_!!2251059038.png\" width=\"510\" height=\"680\" damai_width=\"510\" damai_height=\"680\"><br>【王力宏】<br>华语流行音乐天王、音乐制作人、影视演员、导演<br>1995年凭个人首张专辑《情敌贝多芬》进入演艺圈。出道28年获得多项奖项：全球流行音乐金榜年度最佳男歌手、两届台湾金曲奖最佳国语男歌手奖、全球华语榜中榜最佳港台男歌手奖、华鼎奖全球最佳歌唱演员奖、两届台湾金曲奖最佳专辑制作人奖、MTV亚洲大奖台湾最受欢迎男歌手奖、MTV日本音乐录像带大奖中华最具影响力艺人奖、澳门国际电影节最佳男主角奖。<br>演艺事业外，王力宏积极参与社会活动。2002年担任联合国儿童基金会国际青年大使。2008年担任北京奥运会火炬手。2010年担任上海世博会台北馆形象大使。2012年担任伦敦奥运会火炬手。2013年受邀在牛津大学演讲 。2019年在武汉军运会开幕式上演唱主题歌《和平的薪火》。<br>音乐代表作:《天地龙鳞》、《心中的日月》、《唯一》、《花田错》、《盖世英雄》、《大城小爱》、《改变自己》《心跳》、《你不知道的事》、《我们的歌》、《落叶归根》、《龙的传人》等。</p>\n<p><br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN0187s2ba2GdScbIGfim_!!2251059038.png\" width=\"510\" height=\"680\" damai_width=\"510\" damai_height=\"680\"><br>【潘玮柏】<br>华语流行乐男歌手、影视演员、主持人<br>2002年发行首张个人音乐专辑《壁虎漫步》正式进军歌坛。2003年发行第二张个人音乐专辑《我的麦克风》。2004年，获得第4届音乐风云榜港台及海外华人最佳新人奖 ；同年，推出第三张个人音乐专辑《Wu Ha》。2005年发行第四张个人音乐专辑《高手》。2006年凭借专辑《反转地球》获得第4届东南劲爆音乐榜港台地区劲爆最受欢迎男歌手奖。2007年，推出个人音乐专辑《玩酷》。2009年发行第七张个人音乐专辑《零零七》；同年，获得新城国语力颁奖礼新城国语力亚洲跳唱歌手奖。2011年发行第八张个人音乐专辑《808》；同年，获得第15届全球华语榜中榜港台最受欢迎男歌手奖、最佳舞台造型奖 。2012年凭借专辑《24个比利》获得第20届中国歌曲排行榜港台及海外地区年度最受欢迎男歌手奖。2014年发行第十张个人音乐专辑《王者丑生》。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01gr0zwX2GdScTegPmD_!!2251059038.png\" width=\"510\" height=\"680\" damai_width=\"510\" damai_height=\"680\"><br>【范玮琪】<br>华语流行乐女歌手、影视演员<br>2000年，推出首张个人音乐专辑《范范的世界》，正式进军歌坛；并于次年凭借该专辑入围“第12届台湾金曲奖”最佳新人。2002年，其主演的首部电视剧《爱情白皮书》播出。2004年5月7日，个人音乐专辑《最初的梦想》发布；同年7月4日，与佟大为合作主演的都市爱情喜剧《醋溜族》开拍；2005年，发布第五张专辑《一比一》。2006年，担任Channel [V]综艺节目《模范棒棒堂》主持人。2007年9月1日，首次尝试嬉皮风格，推出专辑《哲学家》。2009年，推出新专辑《F ONE》；同年8月21日，第一次内地巡回演唱会首站在北京展览馆举办。2011年3月18日，发行单身前最后一张专辑《Love&amp;Fanfan》。2013年担任北京卫视音乐竞技类节目《最美和声》导师。2015年，在江苏卫视跨年演唱会上与朴树合唱《那些花儿》。2016年1月9日，推出了第13张个人音乐专辑《范范的感恩节》，并凭此夺得2017年“榜中榜最受欢迎女歌手”港台地区奖项。2017年获得MTV全球华语音乐盛典最具影响力歌手奖、最佳十大金曲奖。2022年3月18日，发行推迟两年的个人专辑《恰如其分的自己》。</p>\n<p><br><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01pILUdJ2GdScaeb7kI_!!2251059038.png\" width=\"510\" height=\"680\" damai_width=\"510\" damai_height=\"680\"><br>【徐怀钰】<br>华语流行乐女歌手、影视演员、主持人<br>1998年，推出首张个人EP专辑《飞起来》正式出道。同年，在滚石唱片发行第一张同名专辑《徐怀钰 YUKI 第一张个人专辑》，收录包括《我是女生》等10首歌曲。10月9日，推出第2张个人音乐专辑《向前冲》， 被誉为“平民天后”。 2000年，进军演艺圈，与郭晋安、孙莉联袂主演古装神话剧《天地传说鱼美人》，在剧中饰演鲤鱼精小莲。2001年-2006年，先后演唱了歌曲《简讯》《齐天大圣孙悟空》《江南京华梦》《南方纪事之浮世光影》等作品。 2007年，推出专辑《Bad Girl》。2014年6月14日，获得时尚盛典年度影响力人物颁奖礼最佳歌手典范奖。2023年10月7日，在中国台北举办了《徐怀钰 2023 倒数三秒小巨蛋演唱会》。</p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "北京涵晰文化传媒有限公司",
+                            "socialCreditCode": "91110105318227811A",
+                            "legalPerson": "黄新",
+                            "regCapStr": "500万人民币",
+                            "opFrom": "",
+                            "opTo": "2065-03-23",
+                            "entType": "有限责任公司(自然人独资)",
+                            "entAddress": "北京市朝阳区朝阳北路甲27号15幢一层105室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约150分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "15"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "150分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "13200"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "53305",
+                    "venueName": "广州市海心沙亚运公园",
+                    "venueProvinceName": "广东省",
+                    "venueCityName": "广州市",
+                    "lng": 113.322418,
+                    "lat": 23.111458,
+                    "venueAddr": "海心沙岛",
+                    "showCountText": "共有2个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "announcementMsg": {
+                    "name": "公告",
+                    "content": "接主办通知，场次取消，给您带来的不便敬请谅解。",
+                    "imageUrl": "http://damai-finance-upload.oss-cn-beijing.aliyuncs.com/87f5abd2e0344111affbd61018982411.jpg?Expires=1818835899&OSSAccessKeyId=LTAIrD4sAj4pno6p&Signature=UKE1Zlf1T4H06msY1eIo1oXuu9A%3D"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "noticeList": [
+                        "接主办通知，场次取消，给您带来的不便敬请谅解。",
+                        "场次取消：接主办通知，场次取消，给您带来的不便敬请谅解。"
+                    ],
+                    "detailList": [
+                        {
+                            "title": "公告",
+                            "contentList": [
+                                {
+                                    "content": "接主办通知，场次取消，给您带来的不便敬请谅解。",
+                                    "imageUrlList": [
+                                        "http://damai-finance-upload.oss-cn-beijing.aliyuncs.com/87f5abd2e0344111affbd61018982411.jpg?Expires=1818835899&OSSAccessKeyId=LTAIrD4sAj4pno6p&Signature=UKE1Zlf1T4H06msY1eIo1oXuu9A%3D"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "title": "场次取消",
+                            "type": "0",
+                            "contentList": [
+                                {
+                                    "performName": "场次：2024-08-25  周日 19:00",
+                                    "content": "接主办通知，场次取消，给您带来的不便敬请谅解。",
+                                    "imageUrlList": [
+                                        "http://damai-finance-upload.oss-cn-beijing.aliyuncs.com/87f5abd2e0344111affbd61018982411.jpg?Expires=1818835899&OSSAccessKeyId=LTAIrD4sAj4pno6p&Signature=UKE1Zlf1T4H06msY1eIo1oXuu9A%3D"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D823221996686%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "1958",
+                        "artistName": "王力宏",
+                        "archives": "王力宏，华语流行乐男歌手、音乐制作人、演员、导演。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413404866/1534413404866-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1883",
+                        "artistName": "潘玮柏",
+                        "archives": "华语流行乐男歌手、影视演员、主持人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1695891927064/1695891927064-main.jpg",
+                        "tag": "歌手,演员",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "2175",
+                        "artistName": "范玮琪",
+                        "archives": "美籍华裔歌手、主持人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1521704475910/1521704475910-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "2435",
+                        "artistName": "徐怀钰",
+                        "archives": "中国台湾华语流行乐女歌手、影视演员、主持人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1711715626945/1711715626945-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "1958",
+                        "name": "王力宏",
+                        "desc": "王力宏，华语流行乐男歌手、音乐制作人、演员、导演。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413404866/1534413404866-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1883",
+                        "name": "潘玮柏",
+                        "desc": "华语流行乐男歌手、影视演员、主持人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1695891927064/1695891927064-main.jpg",
+                        "tag": "歌手,演员",
+                        "type": "1"
+                    },
+                    {
+                        "id": "2175",
+                        "name": "范玮琪",
+                        "desc": "美籍华裔歌手、主持人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1521704475910/1521704475910-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "2435",
+                        "name": "徐怀钰",
+                        "desc": "中国台湾华语流行乐女歌手、影视演员、主持人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1711715626945/1711715626945-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "21836",
+                    "wantNumStr": "2.2万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过75%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN01q2JN4O1fyr3OT2Q3J_!!6000000004076-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/478252/95650427.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01Ws9UMq2266sGyyZBX_!!6000000007070-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1136904/227380864_1678456505227.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01ZxeXaY1HAQfY81rFy_!!6000000000717-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "30481361932",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1706511329139/1706511329139-main.jpg",
+                    "note": "\"盖世音雄巨星演唱会\"南昌站震撼开启，五位华语乐坛巨星首次同台演出，不仅是一场音乐的盛宴，更是一场艺术的盛宴，他们用音乐的力量，点燃了整个南昌国际体育中心体育场。歌声穿越了时空，激情唱响华语乐坛的经典之作！",
+                    "categoryName": "其他",
+                    "title": "超级音雄演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "304",
+                "buyBtnText": "已取消",
+                "buyBtnOrigin": "111",
+                "sellStartTime": "1724227936000",
+                "sellStartTimeStr": "08月21日 16:12",
+                "priceRange": "价格待定",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "isSoldOutAndNoUnpaid": "true",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "2906626",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "1611",
+                    "4939",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2782018",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "2364290",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2781890",
+                    "2873026",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8232219966/2/823221996686.jpg"
+            }
+        }
+    }
+}

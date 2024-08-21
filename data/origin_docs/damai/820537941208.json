@@ -1,0 +1,469 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：陈鸿宇、Fine乐团、February樊博屿、陆虎、孙亦航、沈以诚、许巍、张紫宁、AIM银河少女组合、白静晨、h3R3刘清云、苏醒、吴垚滔、王晨艺、XMASwu吴骜、徐子未、郑润泽、周震南",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1580",
+    "cityname": "杭州",
+    "couponTags": "[]",
+    "description": "艺人：陈鸿宇、Fine乐团、February樊博屿、陆虎、孙亦航、沈以诚、许巍、张紫宁、AIM银河少女组合、白静晨、h3R3刘清云、苏醒、吴垚滔、王晨艺、XMASwu吴骜、徐子未、郑润泽、周震南",
+    "id": "1_1_820537941208",
+    "imgurl": "-384555180",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "17度建德新安江航空音乐节",
+    "nameNoHtml": "17度建德新安江航空音乐节",
+    "price": {
+        "range": "188-788"
+    },
+    "price_str": "188-788",
+    "pricehigh": "788.0",
+    "privilegeTags": "[]",
+    "projectid": "820537941208",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.09.07-09.08",
+    "sitestatus": "16",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": {
+        "lat": 29.357928,
+        "lng": 119.186082,
+        "region": "1",
+        "venueAddr": "杭州市建德市寿昌镇320国道",
+        "venueCityName": "杭州市",
+        "venueId": "6860007",
+        "venueName": "建德千岛湖通用机场",
+        "venueProvinceName": "浙江省"
+    },
+    "venuecity": "杭州",
+    "venueid": "6860007",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01tKWpMg2GdScQzVeII_!!2251059038.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "buyButton": {
+        "origin": "-3",
+        "status": "100",
+        "text": "该渠道不支持购买",
+        "tip": "请到大麦App购买"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Y8Zenz2GdScOpyoAV_!!2251059038.png\" width=\"1500\" height=\"1971\" damai_width=\"1500\" damai_height=\"1971\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01OhsZy72GdScQv0gqa_!!2251059038.png\" width=\"1500\" height=\"1793\" damai_width=\"1500\" damai_height=\"1793\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01LYJF3i2GdScOWHtgS_!!2251059038.png\" width=\"1500\" height=\"1781\" damai_width=\"1500\" damai_height=\"1781\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01q8QgPf2GdScSwgWbz_!!2251059038.png\" width=\"1500\" height=\"1998\" damai_width=\"1500\" damai_height=\"1998\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01YKP5i22GdSchSOQPR_!!2251059038.jpg\" width=\"1280\" height=\"1721\" damai_width=\"1280\" damai_height=\"1721\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01pATV2s2GdScSwwR94_!!2251059038.png\" width=\"735\" height=\"1729\" damai_width=\"735\" damai_height=\"1729\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN011mPxek2GdScOWalKv_!!2251059038.png\" width=\"1500\" height=\"2680\" damai_width=\"1500\" damai_height=\"2680\"></p></body></html>",
+        "introduceTitle": "演出介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "独立音乐人，代表作《理想三旬》《一如年少模样》《早春的树》等，其中《理想三旬》在网易云已经收获41w+的评论，全网歌曲播放量20亿+。他的磁性嗓音唱着鲜话的生活和呢喃的理想，像诉说也像思考，在独立音乐中一道独特的风景。",
+                "id": "71967",
+                "name": "陈鸿宇",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1569380463169/1569380463169-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "Fine乐团为内地流行独立音乐人，乐团由一男一女组成。歌曲由组合中的男生刘冠男作词、作曲。女生乔西负责演唱。",
+                "id": "72111",
+                "name": "Fine乐团",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1542361678742/1542361678742-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "樊博屿，出生于内蒙古呼和浩特市，原创音乐人 Beatboxer，内蒙古音乐团队MultiGame成员、曾获得内蒙古beatbox大赛冠军，2024年发布个人首张EP《Time 4 Change》、2024年参与录制《种地吧2》节目录制，以帮帮团身份参与录制被大家所熟知。",
+                "id": "33266543984",
+                "name": "February樊博屿",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1722568137171/1722568137171-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地流行乐男歌手、影视演员、作词人、作曲人、音乐制作人。",
+                "id": "369",
+                "name": "陆虎",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1719458042980/1719458042980-main.jpg",
+                "tag": "歌手、演员"
+            },
+            {
+                "desc": "2012年，加入TF家族，成为旗下实习生，并被任命为班长 。2014年，参加重庆TOPKIING舞社活动。2016年，随TF家族出席首届粉丝嘉年华年度盛典，并获得秒拍之星奖。2017年，成为跨次元男子团体易安音乐社一期生，以艺名“孙亦航”正式出道，并退出TF家族 ；同年，随易安音乐社获得“1218直播节花椒之夜” 年度新晋组合奖 。2018年，随易安音乐社发行组合首张音乐EP《易安异能 亿分之六》。2019年，发布首支个人原创单曲《路》 。2021年1月，参加爱奇艺男团选秀节目《青春有你第三季》；同年，其主演的青春校园剧《少年如歌》播出 。",
+                "id": "69139559",
+                "name": "孙亦航",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1658133705933/1658133705933-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国原创音乐人",
+                "id": "72675",
+                "name": "沈以诚",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1626850663953/1626850663953-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地摇滚音乐歌手。",
+                "id": "616",
+                "name": "许巍",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1535534961281/1535534961281-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地唱作人、女歌手",
+                "id": "72121",
+                "name": "张紫宁",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1703484754475/1703484754475-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "AIM银河少女组合，由康汐、吉扬柳、刘雨露、王珂、丁巨五位成员组成，代表作单曲《Trick or Treat》。",
+                "id": "28078839064",
+                "name": "AIM银河少女组合",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1697681787021/1697681787021-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "2020年参加芒果TV综艺《说唱听我的》，原创歌曲《将相和》一经播出，凭借其独特的戏腔中国风迅速出圈并霸榜数周音乐平台飙升榜一。2022年发布个人专辑《我研究了一下我自己》。2023年发布个人专辑《伪文青精选集》，同年发布个人EP《低维度躯体改造》及单曲数首，广受听众好评。\n\n代表作《将相和》、《阿苏》、《高级音乐》、《关于50流明的戒断反应》等。",
+                "id": "1603731216",
+                "name": "白静晨",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1706944395627/1706944395627-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "h3R3刘清云，原创歌⼿/⾳乐制作⼈",
+                "id": "2157307713",
+                "name": "h3R3刘清云",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1657011381225/1657011381225-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地嘻哈蓝调创作型男歌手、音乐制作人、主持人。",
+                "id": "118669",
+                "name": "苏醒",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1688433930997/1688433930997-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "流派风格：民谣 Folk\n个人简介：00后创作歌手。\n\n2023年华语乐坛最具人气和关注度的创作新人之一。\n16岁，发表第一首原创歌曲《落日人间》，之后连续发表《夜乡》《三年》《国》《海街寺庙》《破败花园》《暮野荒原》等一系列原创作品在网络平台上以颇具人气。\n19岁，舞台经验为零，受邀参加音综《舞台2023》，初舞台以一首原创歌曲《暮野荒原》斩获周深、ELLA陈嘉桦、王嘉尔、黄绮珊、朴宰范一众好评周深更是打出100分的满分以表肯定，从而吴垚滔获得大量关注度。之后爆款频出一路过关斩将杀进总决赛，以素人之姿摘得年度季军。",
+                "id": "27118228873",
+                "name": "吴垚滔",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1718161079334/1718161079334-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地流行乐男歌手、舞者。",
+                "id": "3506727462",
+                "name": "王晨艺",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1645675157354/1645675157354-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "作为音乐人的身份，无限的创作灵感、热歌的高敏锐度、天赋型的旋律制造、说唱俱佳的音乐实力已经成就了年少有为的他。",
+                "id": "2165288073",
+                "name": "XMASwu吴骜",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1711683474724/1711683474724-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "",
+                "id": "1215076469",
+                "name": "徐子未",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1634197986902/1634197986902-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "华语男歌手 音乐人 2018年明日之子第二季选手",
+                "id": "2178914126",
+                "name": "郑润泽",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1683512154921/1683512154921-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地流行乐男歌手，男子演唱组合R1SE队长及C位",
+                "id": "95894028",
+                "name": "周震南",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1626746884909/1626746884909-main.jpg",
+                "tag": "歌手"
+            }
+        ],
+        "artistsTitle": "演出阵容",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可购票时会及时通知你的～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i1/O1CN01J0daCP1yBpM2Wfr2y_!!6000000006541-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/2333707/466741478_1701151334299.jpg",
+                "https://img.alicdn.com/imgextra/i1/O1CN01EILqiN1Fsjkn9nzCb_!!6000000000543-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/1174119/234823923_1682216611384.jpg",
+                "https://img.alicdn.com/imgextra/i2/O1CN01WMBkkT1Lnb08vVqc0_!!6000000001344-0-tps-500-500.jpg"
+            ],
+            "wantNum": "23141",
+            "wantNumStr": "2.3万",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01R3THyh1QT3Y3gWguc_!!6000000001976-2-tps-1125-702.png",
+        "categoryId": "127420006",
+        "cityName": "杭州市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "820537941208",
+        "itemName": "【杭州】17度建德新安江航空音乐节",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01tKWpMg2GdScQzVeII_!!2251059038.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "330100",
+        "performSeatImages": [],
+        "projectId": "221552033",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                },
+                {
+                    "id": "7",
+                    "name": "港澳台居民居住证"
+                },
+                {
+                    "id": "8",
+                    "name": "外国人永久居留身份证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "约450分钟，仅供参考，最终以现场实际时长为准",
+        "showTime": "2024.09.07-09.08",
+        "tcCategoryId": "0301030100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "215865318",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "215853296",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "215843336",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=820537941208",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张、每个账号最多购买6张。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须携带购票时对应证件验证入场。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "儿童一律凭票入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：港澳台居民居住证/外国人永久居留身份证/护照/身份证/台湾居民来往大陆通行证/港澳居民来往内地通行证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "约450分钟，仅供参考，最终以现场实际时长为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约120分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "300分钟",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "最低演出时长"
+            },
+            {
+                "content": "陈浩东，陈鸿宇 •Fine乐团 February樊博屿 • 陆虎 孙亦航 • 沈以诚•许巍 左其铂•张紫宁•AIM银河少女，白静晨 h3R3刘清云，苏醒 •吴垚滔 王晨艺 •xMASWu吴骜 徐子未•郑润泽•周震南",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01N7Icez1vcu9JtnH1e_!!6000000006194-2-tps-144-144.png",
+                "title": "主要演员"
+            },
+            {
+                "content": "30",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDescWithStyle": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息",
+                "tagName": "重要通知"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                "tagName": "条件退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过身份证验票入场",
+                "tagDescWithStyle": "通过身份证验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：无限音浪文旅(深圳)有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：无限音浪文旅(深圳)有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}

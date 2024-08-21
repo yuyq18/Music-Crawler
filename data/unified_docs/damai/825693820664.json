@@ -1,0 +1,70 @@
+{
+    "platform": "大麦",
+    "project_id": "825693820664",
+    "project_name": "2024葫芦果音乐节-马鞍山站",
+    "category_name": "演唱会",
+    "artists": [
+        "罗云熙",
+        "陆虎",
+        "廖俊涛",
+        "毛不易",
+        "石凯",
+        "苏醒",
+        "王栎鑫",
+        "王铮亮",
+        "张远",
+        "周峻纬",
+        "郑润泽",
+        "队长YoungCaptain",
+        "安溥",
+        "草东没有派对",
+        "二手玫瑰",
+        "回春丹乐队",
+        "朴树",
+        "犬儒",
+        "闪星TWINKLESTAR",
+        "石岩",
+        "痛仰乐队",
+        "新裤子",
+        "郑钧"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.21-09.22",
+    "session_time": [],
+    "price": "199-598",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "马鞍山",
+    "venue_name": "马鞍山市采石矶芳草地",
+    "venue_info": {
+        "venue_address": "马鞍山市雨山区沿江大道和九华西路交口",
+        "lng": 118.456122,
+        "lat": 31.658192
+    },
+    "project_info": "早鸟票开售说明：\n早鸟票将于8月21日 12:58仅在大麦平台销售，本次早鸟票数量有限，不支持退票。介意者勿拍！更多预售敬请期待！后续预售票的退票规则详见后续公告。\n\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN017x24mk2GdSck1rSSp_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01XJj61R2GdSclpYtl5_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01aGS9K12GdSclsKvZZ_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "97224",
+        "wantNumStr": "9.7万",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "825693820664",
+            "cityName": "马鞍山站",
+            "showTime": "09.21-09.22"
+        },
+        {
+            "itemId": "810517137763",
+            "cityName": "衢州站",
+            "showTime": "08.24-08.25"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=825693820664"
+}

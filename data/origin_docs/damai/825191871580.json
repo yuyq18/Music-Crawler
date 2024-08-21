@@ -1,0 +1,529 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1209",
+    "cityname": "天津",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_825191871580",
+    "imgurl": "-338015877",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "早鸟6折〡《何日君再来》邓丽君经典金曲演唱会",
+    "nameNoHtml": "早鸟6折〡《何日君再来》邓丽君经典金曲演唱会",
+    "price": "80.0",
+    "price_str": "80-880",
+    "pricehigh": "880.0",
+    "privilegeTags": "[]",
+    "projectid": "825191871580",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.11.30 周六 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "中华剧院",
+    "venuecity": "天津",
+    "venueid": "5989001",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01gr6vOL2GdSciOWcrV_!!2251059038.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "825191871580",
+                    "itemName": "【天津】早鸟6折〡《何日君再来》邓丽君经典金曲演唱会",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "120100",
+                    "cityName": "天津市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01gr6vOL2GdSciOWcrV_!!2251059038.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01gr6vOL2GdSciOWcrV_!!2251059038.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.11.30 周六 19:30",
+                    "showDuration": "约100分钟",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：天津艺睿文化传播有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：天津艺睿文化传播有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1209",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<html>\r\n<head>\r\n\r\n</head><body>\r\n<p>温馨提示：</p>\r\n<p><span style=\"color: #ff6600;\"><strong><em>儿童凭票入场，一人一票，对号入座</em></strong></span></p>\r\n<p>1、演出票一经售出，恕不退换：票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，唯一性等特征，不支持退换；遗失不补，请妥善保管。</p>\r\n<p>2、购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。</p>\r\n<p>3、禁止携带饮品及食品入场，为了您和他人的健康，观演过程中请佩戴口罩。</p>\r\n<p>4、因不可抗力而导致演出取消等情况，我们会有客服第一时间联系您进行退票事宜。</p>\r\n<p>&nbsp;</p>\r\n<p><strong>交通出行温馨提示：</strong>中华剧院及天津文化中心周末及节假日期间车位紧张，建议游客尽量选择公共交通方式出行。<br/>若您乘坐地铁出行，可乘坐6号线至乐园道站下车步行500米左右即可到达。<br/>若您乘坐公交车出行，可在科技馆站、光华里站、文化中心图书馆站等下车，步行500米左右即可到达。</p>\r\n<p>&nbsp;</p>\r\n<p style=\"text-align: center;\"><strong>早鸟6折〡《何日君再来》邓丽君经典金曲演唱会</strong></p>\r\n<p style=\"text-align: center;\">演出时间：2024年11月30日19:30</p>\r\n<p style=\"text-align: center;\">演出地点：天津中华剧院</p>\r\n<p style=\"text-align: center;\">演出票价：880 680 580 380 280 180 80元</p>\r\n<p style=\"text-align: center;\"><span style=\"color: #ff6600;\"><strong>早鸟6折：528 408 348 228 168 108 72元（80元价位不参与）</strong></span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p style=\"text-align: center;\">早鸟结束后 双人套票：999元（680*2）、870元（580*2）、570元（380*2）</p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p style=\"text-align: left;\">有一种声音</p>\r\n<p style=\"text-align: left;\">可以用一生倾听</p>\r\n<p style=\"text-align: left;\">有一种温柔</p>\r\n<p style=\"text-align: left;\">可以环抱整个世纪</p>\r\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01m8mEdL2GdSclWs44H_!!2251059038.png\"/></p>\r\n<p>邓丽君</p>\r\n<p>华语乐坛的璀璨星辰，</p>\r\n<p>以其独特的音乐魅力和深邃的艺术内涵，</p>\r\n<p>为华语音乐界带来了无尽的光彩与活力。</p>\r\n<p>&nbsp;</p>\r\n<p>邓丽君的音乐影响力跨越多个时代，</p>\r\n<p>她的歌曲不仅具有时代感，</p>\r\n<p>更富有中华传统文化的艺术价值。</p>\r\n<p>她以精湛的演唱技巧和深情的演绎，</p>\r\n<p>将每一首歌曲都赋予了中国式的表达</p>\r\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01pOCgWJ2GdScicDwLc_!!2251059038.png\"/></p>\r\n<p>为传承经典，弘扬文化，</p>\r\n<p>特别策划</p>\r\n<p>天津&middot;《何日君再来》</p>\r\n<p>致敬邓丽君金曲视听音乐会</p>\r\n<p>旨在通过音乐的力量，</p>\r\n<p>向大众展示中国式的声乐表达，</p>\r\n<p>带领大家回味经典歌曲，</p>\r\n<p>推动文化艺术的交流与传播。</p>\r\n<p>&nbsp;</p>\r\n<p><strong>艺人介绍</strong></p>\r\n<p>&ldquo;百变达人&rdquo;</p>\r\n<p>&ldquo;男版邓丽君&rdquo;</p>\r\n<p>&ldquo;剧院掌声收割机&rdquo;</p>\r\n<p>&nbsp;</p>\r\n<p><u>王添翼</u></p>\r\n<p><u><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01DjW9Y32GdSckYVuwe_!!2251059038.png\"/></u></p>\r\n<p>王添翼被誉为&quot;男版邓丽君&quot;，他以其甜美温润的嗓音在舞台上备受瞩目。王添翼在音乐方面有卓越的表现，师从西安音乐学院声歌系毕业的吴鹏老师，主修声乐与表演。他的嗓音和表演才华使他在各类歌唱比赛中屡获佳绩，并在大学期间成功举办了个人毕业演唱会。除了音乐方面的成就，王添翼在学业上也表现出色。他获得了武汉大学的翻译硕士学位，目前正在攻读日语语言文学专业的博士学位。他的才华和努力使他在综艺舞台上备受瞩目，成为各大卫视的热门嘉宾。他曾参加过湖南卫视的《我想和你唱》、江苏卫视的《百变达人》等知名综艺节目，以邓丽君原版歌喉征服了无数观众。</p>\r\n<p>&nbsp;</p>\r\n<p>电视连续剧《但愿人长久》主唱歌手</p>\r\n<p>专业配音演员</p>\r\n<p><u>刘玉洁</u></p>\r\n<p><u><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01A4OZsD2GdScmgaRuh_!!2251059038.png\"/></u></p>\r\n<p>2015年参加首届全国『寻找君歌好声音』歌唱大赛荣获亚军。同年11月在上海兰心大戏院&ldquo;群星闪耀邓丽君经典歌曲大型演唱会&rdquo;演出。2016年3月受央视邀请参加《黄金一百秒》母亲节专场演出。 2017年9月，参加中央电视台音乐频道和央视娱乐传媒有限公司共同打造，集结海内外音乐人才，大型中国故事主题音乐竞演节目《渴望现场》。2018年受央视邀请参加&ldquo;一代芳华邓丽君&rdquo;大型全息音乐会。同年6月受央视邀请参加《全球中文音乐榜上榜》现场直播同年10月为大型电视连续剧《但愿人长久》邓丽君扮演者陈妍希配唱。同年12月受江西卫视邀请参加《曹清华爱传万家》群星演唱会。2019年6月在山西太原成功举办邓丽君金曲群星演唱会。2020年5月受央视邀请担任《聆听时刻但愿人长久》演唱会的直播特邀主嘉宾。</p>\r\n<p>&nbsp;</p>\r\n<p>邓丽君音乐文化传承人</p>\r\n<p>演唱会总策划、出品人</p>\r\n<p><u>宋薇</u></p>\r\n<p><u><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN012yhC8y2GdSckRbOfg_!!2251059038.png\"/></u></p>\r\n<p>新加坡华侨，新加坡天津会秘书长，天津市政协第十三届海外特聘委员，天津市侨联委员，天津侨梦文化传媒董事长，天津侨商会理事，天津邓丽君歌友会会长。青少年时专攻邓氏唱法演唱技巧，曾师承于天津歌舞剧院著名指挥家牛万里和天津音乐学院韩宝林教授。2003年后在新加坡留学工作期间发现邓丽君歌曲在海外的巨大影响力，感受到在海外有华人的地方就有邓丽君歌曲。2018年回津创办了侨梦文化传媒，致力于以实际行动弘扬中华优秀传统文化，并成功策划了不同主题的音乐会和演唱会并擅于在策划和节目内容上创新。</p>\r\n<p>&nbsp;</p>\r\n<p>原创音乐人</p>\r\n<p>邓丽君音乐传承人</p>\r\n<p><u>胡蝶</u></p>\r\n<p><u><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01e8vmgk2GdScicTNnT_!!2251059038.png\"/></u></p>\r\n<p>原创音乐人，邓丽君音乐传承人。曾受邀至马来西亚国家献唱。胡蝶小姐一直以传承邓丽君音乐为使命，并得到了著名词作家庄奴先生及著名作曲家左宏元先生的认可。胡蝶小姐曾多次登上央视舞台，受邀参加CCTV-1、CCTV-3、CCTV-15等及国内各大卫视的主流音乐节目。在国内外举办个人音乐会八十多场，在国内外备受欢迎。</p>\r\n<p>&nbsp;</p>\r\n<p>邓丽君歌曲传承人</p>\r\n<p>中国内地流行女歌手</p>\r\n<p><u>谢爱君</u></p>\r\n<p><u><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN014eKCzf2GdSckRjvFB_!!2251059038.png\"/></u></p>\r\n<p>中国内地流行女歌手，邓丽君小姐恩师左宏元大师的徒弟。谢爱君用柔美的嗓音开创了甜歌之路，歌迷遍布海内，响遍大街小巷。2012年，谢爱君曾受邀参加天津卫视和广西卫视等多家栏目录制。个人代表作品《共赏》占据各大音乐榜单；左宏元恩师作曲的作品《美丽绽放》相关短视频话题播放量超10亿！2015年3月，受云南歌友会和华夏歌友会邀请，谢爱君参加纪念邓小姐62周年大型群星演唱会。同年5月，参加北京鸟巢国际旅游汇大厅举办的&ldquo;君心似我心淡淡幽情中国风&rdquo;纪念邓丽君二十周年企业联谊会。同月，与北京爱乐管弦乐团合作在北京军乐厅举办个人交响乐金曲音乐会。同年9月受邀参加在重庆人民大会堂举办的回顾经典纪念邓丽君小姐左宏元，庄奴作品演唱会。2016-17年连续两年在北京音乐厅举办邓丽君金曲音乐会。2021年参加北京邓丽君音乐主题餐厅举办的邓丽君诞辰68周年纪念会。谢爱君曾多次出访香港，新加坡等地演出。为了更好传播传唱邓丽君的歌曲，她不断钻研&ldquo;邓氏唱法&rdquo;，用极具辨识度的嗓音将民族性与流行性相融合，创造了自己的演唱风格。她坚持走民族化的艺术道路，并在歌坛广泛吸引了众多地区听众，成为名副其实的&ldquo;邓丽君歌曲传承人&rdquo;。</p>\r\n<p>&nbsp;</p>\r\n<p><strong>曲目单</strong></p>\r\n<p>第一篇章</p>\r\n<p>1.漫步人生路</p>\r\n<p>2.高山青</p>\r\n<p>3.船歌</p>\r\n<p>4.空港</p>\r\n<p>&nbsp;</p>\r\n<p>第二篇章</p>\r\n<p>5.云河</p>\r\n<p>6.你怎么说</p>\r\n<p>7&middot;千言万语</p>\r\n<p>8.北国之春</p>\r\n<p>&nbsp;</p>\r\n<p>第三篇章</p>\r\n<p>9.一个小心愿</p>\r\n<p>10.我只在乎你</p>\r\n<p>&nbsp;</p>\r\n<p>第四篇章</p>\r\n<p>11.夜色</p>\r\n<p>12.偿还</p>\r\n<p>13.心里梦里</p>\r\n<p>14&middot;爱人</p>\r\n<p>&nbsp;</p>\r\n<p>第五篇章</p>\r\n<p>15.爱像一首歌</p>\r\n<p>16.你在我心中</p>\r\n<p>17.四个愿望</p>\r\n<p>18.Killing me softly with his songs/黄昏里</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;&nbsp;第六篇章</p>\r\n<p>18.月亮代表我的心</p>\r\n<p>19.路边的野花不要采</p>\r\n<p>&nbsp;</p>\r\n<p>第七篇章</p>\r\n<p>21.谢谢你常记得我</p>\r\n<p>22.相见再明天</p>\r\n<p>23.何日君再来</p>\r\n<p>24.再见我的爱人</p>\r\n<p>&nbsp;</p>\r\n<p>歌曲串烧+观众点歌</p>\r\n<p>*演出曲目及顺序以演出当晚为准</p>\r\n<p>&nbsp;</p>\r\n</body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约100分钟"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "10"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "以页面为准"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "100分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "有寄存处,独立寄存柜，可以存放贴身物品。大件物品现场联系场务。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "10"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "5989001",
+                    "venueName": "中华剧院",
+                    "venueProvinceName": "天津",
+                    "venueCityName": "天津市",
+                    "lng": 117.217361,
+                    "lat": 39.085181,
+                    "venueAddr": " 天津市河西区平江道56号",
+                    "showCountText": "共有17个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D825191871580%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "特惠选座",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1723804862000",
+                "sellStartTimeStr": "08月16日 18:41",
+                "priceRange": "¥72-¥528",
+                "performBases": [
+                    {
+                        "name": "11.30 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1732896000000",
+                        "performs": [
+                            {
+                                "performId": "215952190",
+                                "performName": "2024-11-30 星期六 19:30",
+                                "itemId": "825191871580",
+                                "projectId": "221647026",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1732966200000",
+                                "performTime": "2024.11.30 19:30",
+                                "performStartDate": "2024-11-30",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "邓丽君早鸟6折",
+                    "折扣"
+                ],
+                "hasItemPromotionTag": "true",
+                "dashPrice": "¥80-¥880",
+                "promotions": [
+                    {
+                        "tag": "邓丽君早鸟6折",
+                        "type": "1",
+                        "content": "180元、280元、380元、580元、680元、880元票价打6.0折",
+                        "performanceIds": [
+                            "215952190"
+                        ]
+                    },
+                    {
+                        "tag": "折扣",
+                        "type": "1",
+                        "content": "80元票价打9折",
+                        "performanceIds": [
+                            "215952190"
+                        ]
+                    }
+                ],
+                "promotionRemark": "您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。",
+                "itemPromotionIds": "89262693445&65609289806",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "1611",
+                    "4939",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2602306",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "1630146",
+                    "2939586",
+                    "3237314"
+                ],
+                "promotionList": [
+                    {
+                        "type": "ITEM_DISCOUNT",
+                        "tag": "折扣",
+                        "isTagList": "false",
+                        "desc": "¥280票档，6折，到手¥168"
+                    }
+                ],
+                "promotionDetail": {
+                    "skuPromotionRelations": "825191871580&215952190&5714813367633_65609289806@5714813367634_89262693445@5714813367635_89262693445@5714813367636_89262693445@5714813367637_89262693445@5714813367638_89262693445@5714813367639_89262693445",
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "1",
+                            "promotionGroupTypeDesc": "票档优惠",
+                            "promotionList": [
+                                {
+                                    "promotionType": "2",
+                                    "promotionTag": "折扣",
+                                    "promotionContentList": [
+                                        "¥80票档，9折，到手¥72",
+                                        "¥180票档，6折，到手¥108",
+                                        "¥280票档，6折，到手¥168",
+                                        "¥380票档，6折，到手¥228",
+                                        "¥580票档，6折，到手¥348",
+                                        "¥680票档，6折，到手¥408",
+                                        "¥880票档，6折，到手¥528"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "¥380",
+                                            "displayContent": "6折，到手¥228"
+                                        },
+                                        {
+                                            "skuName": "¥580",
+                                            "displayContent": "6折，到手¥348"
+                                        },
+                                        {
+                                            "skuName": "¥180",
+                                            "displayContent": "6折，到手¥108"
+                                        },
+                                        {
+                                            "skuName": "¥280",
+                                            "displayContent": "6折，到手¥168"
+                                        },
+                                        {
+                                            "skuName": "¥80",
+                                            "displayContent": "9折，到手¥72"
+                                        },
+                                        {
+                                            "skuName": "¥680",
+                                            "displayContent": "6折，到手¥408"
+                                        },
+                                        {
+                                            "skuName": "¥880",
+                                            "displayContent": "6折，到手¥528"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8251918715/2/825191871580.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "platform": "大麦",
+    "project_id": "826080035574",
+    "project_name": "尤瑞卡 TheEureka「狄奥尼索斯的夜之颂歌」2024 Tour（深圳站）",
+    "category_name": "演唱会",
+    "artists": [
+        "The Eureka尤瑞卡"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.15 周日 20:30",
+    "session_time": [],
+    "price": "80-150",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "BO LIVE(福田店)",
+    "venue_info": {
+        "venue_address": "泰然十一路与泰然八路交叉口东南40米",
+        "lng": 114.023286,
+        "lat": 22.529728
+    },
+    "project_info": "……………",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01SHuKWP2GdScgn2MKv_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Z7TMAu2GdScRnoAgs_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "820579466859",
+            "cityName": "上海站",
+            "showTime": "08.30"
+        },
+        {
+            "itemId": "820647819205",
+            "cityName": "宁波站",
+            "showTime": "08.31"
+        },
+        {
+            "itemId": "821109768314",
+            "cityName": "杭州站",
+            "showTime": "09.01"
+        },
+        {
+            "itemId": "820880142824",
+            "cityName": "北京站",
+            "showTime": "09.06"
+        },
+        {
+            "itemId": "820787965857",
+            "cityName": "秦皇岛站",
+            "showTime": "09.07"
+        },
+        {
+            "itemId": "826080035574",
+            "cityName": "深圳站",
+            "showTime": "09.15"
+        },
+        {
+            "itemId": "820599438920",
+            "cityName": "石家庄站",
+            "showTime": "09.21"
+        },
+        {
+            "itemId": "820797614437",
+            "cityName": "济南站",
+            "showTime": "09.22"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=826080035574"
+}

@@ -1,0 +1,110 @@
+{
+    "platform": "大麦",
+    "project_id": "822942576564",
+    "project_name": "HAYA乐团「迁徙」巡演呼和浩特站",
+    "category_name": "演唱会",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2024.08.31 周六 20:00",
+    "session_time": [
+        "08.31 周六"
+    ],
+    "price": "150-260",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "呼和浩特",
+    "venue_name": "新思路魔音巨星馆",
+    "venue_info": {
+        "venue_address": "赛罕区桥靠西街祥和热力公司停车场院内",
+        "lng": 111.695244,
+        "lat": 40.814327
+    },
+    "project_info": "巡演现场见！",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01YMKQYx2GdScD175O8_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Fhsied2GdScBZAXqe_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01D6PuPm2GdSc9QIsij_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01zlYsy82GdScBZCgva_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01opQddb2GdScDwg1jk_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN016CEF9o2GdScElxr2O_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01yaG7Nv2GdScBqAEZO_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01YuN1hJ2GdScBZCDoi_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN017OtIO82GdSc9QLMbw_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN0195G9pL2GdScD86ArQ_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN017yblGU2GdSc43yvm9_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN0176BIOm2GdScD85MxT_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01bau2CR2GdSc43yrcE_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01WaXRRw2GdScElzCCi_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01W5LGTD2GdScE9cp2I_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "533",
+        "wantNumStr": "533",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "822942576564",
+            "cityName": "呼和浩特站",
+            "showTime": "08.31"
+        },
+        {
+            "itemId": "818236182217",
+            "cityName": "上海站",
+            "showTime": "09.16"
+        },
+        {
+            "itemId": "815976931745",
+            "cityName": "杭州站",
+            "showTime": "09.17"
+        },
+        {
+            "itemId": "816802304514",
+            "cityName": "深圳站",
+            "showTime": "09.21"
+        },
+        {
+            "itemId": "816762412344",
+            "cityName": "郑州站",
+            "showTime": "09.27"
+        },
+        {
+            "itemId": "818024523709",
+            "cityName": "南京站",
+            "showTime": "09.30"
+        },
+        {
+            "itemId": "820910176566",
+            "cityName": "北京站",
+            "showTime": "10.12"
+        },
+        {
+            "itemId": "816328939598",
+            "cityName": "武汉站",
+            "showTime": "10.19"
+        },
+        {
+            "itemId": "822103797267",
+            "cityName": "成都站",
+            "showTime": "10.25"
+        },
+        {
+            "itemId": "822408567996",
+            "cityName": "西安站",
+            "showTime": "10.26"
+        },
+        {
+            "itemId": "816651437559",
+            "cityName": "厦门站",
+            "showTime": "11.01"
+        },
+        {
+            "itemId": "820420373950",
+            "cityName": "海口站",
+            "showTime": "11.02"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=822942576564"
+}

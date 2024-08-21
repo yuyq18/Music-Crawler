@@ -1,0 +1,639 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：刘德华",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "850",
+    "cityname": "中国澳门",
+    "couponTags": "[]",
+    "description": "艺人：刘德华",
+    "id": "1_1_825064874150",
+    "imgurl": "-339285851",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "「澳門銀河™」呈献: 今天…is the Day刘德华巡回演唱会2024 – 澳门站",
+    "nameNoHtml": "「澳門銀河™」呈献: 今天…is the Day刘德华巡回演唱会2024 – 澳门站",
+    "price": "680.0",
+    "price_str": "680-2580",
+    "pricehigh": "2580.0",
+    "privilegeTags": "[]",
+    "projectid": "825064874150",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.10.03-10.06",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "银河综艺馆",
+    "venuecity": "中国澳门",
+    "venueid": "6245002",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01m9hOSz2GdScgL6hOM_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "825064874150",
+                    "itemName": "「澳門銀河™」呈献: 今天…is the Day刘德华巡回演唱会2024 – 澳门站",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "820200",
+                    "cityName": "中国澳门",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01m9hOSz2GdScgL6hOM_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01m9hOSz2GdScgL6hOM_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01fIQLD52GdScmE2W0t_!!2251059038.jpg",
+                    "seatImages": [
+                        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01fIQLD52GdScmE2W0t_!!2251059038.jpg"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "2024.10.03-10.06",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "快递票",
+                            "tagDesc": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。该演出不支持修改收货地址，在购票时请确认收货地址填写正确。\r\n注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagDescWithStyle": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。<b>该演出不支持修改收货地址，在购票时请确认收货地址填写正确。</b><br/>注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "门票即发票",
+                            "tagDesc": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagDescWithStyle": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "893",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "4",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>票价说明：</p>\n<p>港币/澳门币票面价（HKD/MOP）：2580/1980/1580/980/680</p>\n<p>大麦人民币售价(CNY)：2580/1980/1580/980/680，门票已包括境外（含港澳台）服务费。</p>\n<p>&nbsp;</p>\n<p>配送说明：</p>\n<p>本项目不支持退换，购票成功的客户，请您提前办理好港澳通行证-中国澳门签注，门票将于演出前一周左右寄出。当天如出现遗失或忘带门票情况不予处理，感谢您的支持与理解。</p>\n<p>&nbsp;</p>\n<p>「澳門銀河™」呈献：今天…is the Day刘德华巡回演唱会2024 – 澳门站</p>\n<p>&nbsp;Galaxy Macau™ Presents: Today…is the Day Andy Lau Concert Tour 2024 in Macau</p>\n<p>&nbsp;</p>\n<p>演出日期: 2024年10月3日- 6日 20:00</p>\n<p>演出地点: 澳门银河综艺馆</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>终于等到今天！</p>\n<p>刘德华澳门演唱会重磅官宣</p>\n<p>阔别重逢燃情回归！</p>\n<p>10月3日—10月6日</p>\n<p>『今天…is the Day』</p>\n<p>刘德华巡回演唱会2024—澳门站</p>\n<p>将在澳门银河综艺馆开唱！</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Z4BzXn2GdScmTrkYC_!!2251059038.jpg\" width=\"4500\" height=\"8000\" damai_width=\"4500\" damai_height=\"8000\"></p>\n<p>&nbsp;</p>\n<p>此次演唱会以“今天…is the Day”为主题，不仅展现了刘德华珍视每一个当下的人生态度，也契合了粉丝对巡演期盼已久的激动心情，在“今天”里相见，成了刘德华与粉丝的双向奔赴，谁不想和刘德华在演唱会中度过一个又一个“今天”呢？</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01jqrP272GdScjTR3s3_!!2251059038.png\" width=\"844\" height=\"474\" damai_width=\"844\" damai_height=\"474\"></p>\n<p>&nbsp;</p>\n<p>作为华语乐坛的传奇人物，刘德华凭借其卓越的音乐和演艺实力，在演艺界长红四十余年，不仅积累了大量长情的资深粉丝，也不断吸纳了每个时代的新鲜听众。</p>\n<p>“唱情歌齐齐来一遍，无时无刻都记住掌声响遍天”“冷冷的冰雨在脸上胡乱的拍”“如果一切都是天意，一切都是命运”等经典歌曲在全国大街小巷传唱，家喻户晓，对每个人来说都是时代记忆。他的歌曲旋律优美，歌词深情，总能触动心弦；而他的舞台表演更是充满激情与活力，让人难以忘怀。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01HbzrEV2GdSch79WbC_!!2251059038.png\" width=\"844\" height=\"474\" damai_width=\"844\" damai_height=\"474\"></p>\n<p>10月3日—10月6日</p>\n<p>澳门银河综艺馆</p>\n<p>刘德华与你不见不散！</p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "快递费",
+                        "content": "1.同城10.0元，发货后1-3天到达；省内12.0元，发货后1-3天到达；其他地区18.0元，发货后1-3天到达；澳门、香港、台湾40.0元，发货后1-5天到达。\r\n2.演出前4天不支持快递。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "本项目门票即是发票。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张、每个账号最多购买4张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带纸质门票验票入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "本项目门票即是发票。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约90分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "刘德华"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "6245002",
+                    "venueName": "银河综艺馆",
+                    "venueProvinceName": "中国澳门",
+                    "venueCityName": "中国澳门",
+                    "lng": 113.55875,
+                    "lat": 22.146093,
+                    "venueAddr": "澳門路氹望德聖母灣大馬路",
+                    "showCountText": "共有6个演出",
+                    "region": "2"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "825064874150",
+                        "cityName": "中国澳门站",
+                        "showTime": "10.03-10.06",
+                        "tourId": "4534"
+                    },
+                    {
+                        "itemId": "792137448349",
+                        "cityName": "杭州站",
+                        "showTime": "08.22-08.24",
+                        "tourId": "4534"
+                    },
+                    {
+                        "itemId": "793479476023",
+                        "cityName": "重庆站",
+                        "showTime": "08.30-09.02",
+                        "tourId": "4534"
+                    },
+                    {
+                        "itemId": "797918111691",
+                        "cityName": "深圳站",
+                        "showTime": "09.06-09.09",
+                        "tourId": "4534"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址",
+                                    "海外邮箱"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=825064874150"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D825064874150%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "1789",
+                        "artistName": "刘德华",
+                        "archives": "中国香港男演员、歌手、作词人、制片人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1521703359802/1521703359802-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "1789",
+                        "name": "刘德华",
+                        "desc": "中国香港男演员、歌手、作词人、制片人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1521703359802/1521703359802-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "162082",
+                    "wantNumStr": "16.2万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过94%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i3/O1CN01sUUZpm1tgRkwPdMX0_!!6000000005931-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2491973/498394667_1717054887787.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN014hqoie1G2oSvT63ui_!!6000000000565-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1226040/245208065_1688367565313.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01Z4KBGi1TVkUeB77To_!!6000000002388-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊",
+                "inFieldComments": [
+                    {
+                        "id": "17208435",
+                        "comment": "刘德华：今天…is the Day",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/363af86048994245b52d9cde0f0848ae.jpg",
+                        "nickName": "麦子",
+                        "userPic": "https://perico.damai.cn/userheadphotos/247725/49545005.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17196119",
+                        "comment": "致敬刘天王",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/adbf4e54920842cb95daf1f0751c0902.jpeg",
+                        "nickName": "行走的黑鼠标",
+                        "userPic": "https://perico.damai.cn/userheadphotos/32842/6568508.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17146913",
+                        "comment": "演唱会井喷，终于等来了刘德华Andy。无缘抢到上海本地首站，也还算幸运有到南京青奥，远是远了，39-40度高温也是符合火炉称号，但现场的热情温度没有最high只有更high。当“等了好久终于等到今天，梦了好久终于把梦实现”响起，青春记忆岁月如梭，一首首熟悉的旋律，陪伴从磁带到CD再到电子平台，flash般闪过那些年看过的MV、电视、电影，两小时三刻钟奔赴一场诚意满满的相聚分享，等待下一次到来🤘🫶",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/ce1be42b729647dfa0eb6743bbce9b36.jpeg",
+                        "nickName": "幻隐",
+                        "userPic": "https://perico.damai.cn/userheadphotos/294736/58947344.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17114005",
+                        "comment": "五星推荐刘德华巡回演唱会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/49cb978c7eb145958bcbfefa75ac7c21.jpeg",
+                        "nickName": "麦子",
+                        "userPic": "https://perico.damai.cn/userheadphotos/290405/58081022.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17107646",
+                        "comment": "等了好久终于等到今天！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/350ec71ada0a4ff0be890d28797a7937.jpeg",
+                        "nickName": "aqianxia8",
+                        "userPic": "https://perico.damai.cn/userheadphotos/592402/118480530.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16922251",
+                        "comment": "华仔北京首场240725",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/21f246cbceeb49d293465424bbf1cebd.jpg",
+                        "nickName": "麦子41HUD",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1093823/218764696_1666595708899.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16900050",
+                        "comment": "是谁？抢到了刘德华六场演唱会！是我️！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/2551df0250424e6b9a0df20a2e3c9517.jpeg",
+                        "nickName": "Fei1028",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2435776/487155256_1711708858478.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16863245",
+                        "comment": "今天刘德华巡回演唱会广州站",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/d4764d88432249229152c034f41a37ea.jpg",
+                        "nickName": "让我去看演唱会!!!!!",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1207161/241432338_1720869438022.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16741132",
+                        "comment": "难忘上海尾场夜，华仔巡演超卖力！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/6575525acfe145139e0862bbdb56f360.jpg",
+                        "nickName": "ReggaeLive",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1225203/245040653_1711510111518.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16671013",
+                        "comment": "跟华仔一起变帅变老",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/397302699a7a40dea3ae8a5a957fc366.jpg",
+                        "nickName": "北方的北方",
+                        "userPic": "https://perico.damai.cn/userheadphotos/281488/56297664.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16593583",
+                        "comment": "等了好久终于等到今天，华仔，我爱你一万年",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/6e31a84fbc0948b2ad4559641b940cfd.jpg",
+                        "nickName": "无锡wmls",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2303574/460714952_1708501420589.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    }
+                ]
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1724299200000",
+                "sellStartTimeStr": "08月22日 12:00",
+                "priceRange": "¥680-¥2580",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "1636290",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8250648741/2/825064874150.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "platform": "大麦",
+    "project_id": "824197087325",
+    "project_name": "朱添泽2024「我该用什么状态告诉你」专场巡演 济南站",
+    "category_name": "演唱会",
+    "artists": [
+        "朱添泽"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.17 周二 20:30",
+    "session_time": [],
+    "price": "60-80",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "济南",
+    "venue_name": "济南 Caper Land雀跃之地音乐现场",
+    "venue_info": {
+        "venue_address": "山东省济南历下区历山路132号Caper Land雀跃之地（历下区大润发东对面往北100米，新航大厦南侧",
+        "lng": 117.038441,
+        "lat": 36.656148
+    },
+    "project_info": "\n\n\n\n\n\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01RsSSsc2GdScjnUlJh_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01bPY75C2GdScWfrjKE_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01xeb0lR2GdScf1imah_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01jCCECI2GdScdeGJun_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01z6g8dc2GdSce62FB3_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01LCpyve2GdSce61yXD_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01FHH80X2GdScWfrvnt_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "824295080126",
+            "cityName": "太原站",
+            "showTime": "08.25"
+        },
+        {
+            "itemId": "823803447353",
+            "cityName": "郑州站",
+            "showTime": "09.01"
+        },
+        {
+            "itemId": "825219130874",
+            "cityName": "日照站",
+            "showTime": "09.02"
+        },
+        {
+            "itemId": "824347256520",
+            "cityName": "天津站",
+            "showTime": "09.08"
+        },
+        {
+            "itemId": "822064767174",
+            "cityName": "合肥站",
+            "showTime": "09.16"
+        },
+        {
+            "itemId": "824197087325",
+            "cityName": "济南站",
+            "showTime": "09.17"
+        },
+        {
+            "itemId": "824188181310",
+            "cityName": "长沙站",
+            "showTime": "09.20"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=824197087325"
+}

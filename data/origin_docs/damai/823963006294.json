@@ -1,0 +1,343 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：艾志恒Asen、thomeboydontkill、太子KIV",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "艺人：艾志恒Asen、thomeboydontkill、太子KIV",
+    "id": "1_1_823963006294",
+    "imgurl": "-350304530",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "艾志恒Asen&Thomeboydontkill&KIV出来玩er江浙沪专场",
+    "nameNoHtml": "艾志恒Asen&Thomeboydontkill&KIV出来玩er江浙沪专场",
+    "price": {
+        "range": "388-598"
+    },
+    "price_str": "388-598",
+    "pricehigh": "598.0",
+    "privilegeTags": "[]",
+    "projectid": "823963006294",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.08.31 周六 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": {
+        "lat": 31.221273,
+        "lng": 121.345982,
+        "region": "1",
+        "showCountText": "2个演出",
+        "venueAddr": "绥宁路820号虹桥体育公园B2层",
+        "venueCityName": "上海市",
+        "venueId": "6868005",
+        "venueName": "回响之地 Music Park",
+        "venueProvinceName": "上海"
+    },
+    "venuecity": "上海",
+    "venueid": "6868005",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01PO3H292GdScephjLG_!!2251059038.png",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "上海回响之地音乐文化传播有限公司",
+            "entAddress": "上海市长宁区绥宁路820号1幢地下二层D单元03室",
+            "entType": "有限责任公司(自然人投资或控股)",
+            "legalPerson": "廖博一",
+            "opFrom": "",
+            "opTo": "",
+            "regCapStr": "500万人民币",
+            "socialCreditCode": "91310105MADLYYWP6T"
+        }
+    },
+    "buyButton": {
+        "origin": "-43",
+        "status": "91",
+        "text": "缺货登记"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p data-spm-anchor-id=\"0.0.0.i39.4f0f106e710kaB\">【出来玩er江浙沪专场8.31上海站】艾志恒Asen、Thomeboydontkill、太子KIV</p>\n<p data-spm-anchor-id=\"0.0.0.i39.4f0f106e710kaB\"><strong>VIP票权益</strong>：3v3合影+提前进场+快速通道+场地前区<br><strong>速通票权益</strong>：提前进场+快速通道+场地前区</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01l1RV1C2GdSceteqDm_!!2251059038.jpg\" width=\"952\" height=\"15000\" data-spm-anchor-id=\"0.0.0.i38.4f0f106e710kaB\" damai_width=\"952\" damai_height=\"15000\"></p></body></html>",
+        "introduceTitle": "活动介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "艾志恒Asen-来自将中文说唱圈换血的说唱组合DigiGhetto地基街头，Asen的现场被乐迷称为“大型早读现场”，因海量的乐迷均能熟练背诵其高产无数热单代表作：《DAY 1》、《焦虑》、《芳草地》、《土黑娃》、《Money Focused Freestyle》、《写不来情歌》以及2022年11月发行的刷屏级新专辑《NESA》。",
+                "id": "23887638008",
+                "name": "艾志恒Asen",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1713333907007/1713333907007-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "来自音乐世家的THOME，被音乐媒体称之为“99年的天才”。",
+                "id": "6769187358",
+                "name": "thomeboydontkill",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1685930871425/1685930871425-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "太子KIV，DIGI GHETTO成员之一",
+                "id": "31523490435",
+                "name": "太子KIV",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1711885697857/1711885697857-main.jpg",
+                "tag": "歌手"
+            }
+        ],
+        "artistsTitle": "演出阵容",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "别忘了登记哦，可购票时会通知你～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i4/O1CN01Ws9UMq2266sGyyZBX_!!6000000007070-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotos/763006/152601385.jpg",
+                "https://img.alicdn.com/imgextra/i1/O1CN01J0daCP1yBpM2Wfr2y_!!6000000006541-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/2497176/499435346_1716870171193.jpg",
+                "https://img.alicdn.com/imgextra/i1/O1CN01HRvUZB1lBHsggFFau_!!6000000004780-0-tps-500-500.jpg"
+            ],
+            "wantNum": "22506",
+            "wantNumStr": "2.3万",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wPOZN01jRf2eaC3Jz_!!6000000004545-2-tps-1125-702.png",
+        "categoryId": "123606001",
+        "cityName": "上海市",
+        "generalAgent": {
+            "generalAgent": "true",
+            "generalType": "1"
+        },
+        "itemId": "823963006294",
+        "itemName": "【上海】艾志恒Asen&Thomeboydontkill&KIV出来玩er江浙沪专场",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01PO3H292GdScephjLG_!!2251059038.png"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "310100",
+        "performSeatImages": [],
+        "projectId": "221689028",
+        "projectStatus": "1",
+        "purchaseLimitation": "3",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "4",
+                "5",
+                "6"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "约150分钟（以现场为准）",
+        "showTime": "2024.08.31 周六 19:30",
+        "subTitle": "",
+        "tcCategoryId": "0301020100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "215910201",
+            "singleLimitation": "3"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=823963006294",
+        "showFlag": "false"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买3张、每个账号最多购买3张。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须携带购票时对应证件验证入场。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/身份证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "约150分钟（以现场为准）",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约90分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "有寄存处,具体位置请联系现场工作人员。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            },
+            {
+                "content": "本项目支持电子票转送，转送功能将在2024年8月21日 15:00截止，仅限转赠一次。（注：当前仅支持大麦下单用户，暂不支持淘宝／天猫、支付宝本地生活下单用户发起转送，仅支持大麦APP发起和接收转送票品）",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01PnFvmG1iVx8De7EaI_!!6000000004419-2-tps-144-144.png",
+                "title": "转送说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过身份证验票入场",
+                "tagDescWithStyle": "通过身份证验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：上海回响之地音乐文化传播有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：上海回响之地音乐文化传播有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}

@@ -1,0 +1,70 @@
+{
+    "platform": "大麦",
+    "project_id": "824651028499",
+    "project_name": "舒肤佳·乐见潮向·琅琊国潮音乐节",
+    "category_name": "演唱会",
+    "artists": [
+        "薛之谦",
+        "周传雄",
+        "罗云熙",
+        "朴树",
+        "苏醒",
+        "陈楚生",
+        "王栎鑫",
+        "张远",
+        "陈硕子",
+        "Fine乐团",
+        "王靖雯",
+        "吴垚滔",
+        "余景天(Tony)",
+        "队长YoungCaptain",
+        "h3R3刘清云",
+        "郑润泽",
+        "郭冠廷",
+        "连淮伟",
+        "ONER",
+        "王啸坤",
+        "颜人中",
+        "张星特"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.10.02-10.03",
+    "session_time": [],
+    "price": "0",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "临沂",
+    "venue_name": "临沂市兰山区长春路与茶山路交汇处东南侧空地",
+    "venue_info": {
+        "venue_address": "临沂市兰山区长春路与茶山路交汇处东南侧空地",
+        "lng": 118.326311,
+        "lat": 35.152869
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01OEWHiW2GdScdv7iq1_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01pu2LFS2GdScpcNgJF_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01h7i5332GdScr3r986_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN016PCQaa2GdScmZHEse_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "68748",
+        "wantNumStr": "6.9万",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "825302294862",
+            "cityName": "天津站",
+            "showTime": "09.07"
+        },
+        {
+            "itemId": "824651028499",
+            "cityName": "临沂站",
+            "showTime": "10.02-10.03"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=824651028499"
+}

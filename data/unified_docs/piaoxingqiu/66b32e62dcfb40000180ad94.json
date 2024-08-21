@@ -1,0 +1,43 @@
+{
+    "platform": "票星球",
+    "project_id": "66b32e62dcfb40000180ad94",
+    "project_name": "【北京】北京明潮千帆音乐节",
+    "category_name": "音乐节",
+    "artists": [
+        "以现场为准"
+    ],
+    "show_status": "预售",
+    "show_time": "2024.09.15 - 09.17",
+    "session_time": [
+        "20240917",
+        "20240916",
+        "20240915"
+    ],
+    "price": "499-2158",
+    "isGeneralAgent": "false",
+    "isHotProject": "true",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "北京昌平拉斐特城堡中心区",
+    "venue_info": {
+        "venue_address": "北京市昌平区北七家镇定泗路北北京昌平拉斐特城堡中心区",
+        "lng": 116.448625,
+        "lat": 40.131653
+    },
+    "project_info": "\n\n",
+    "project_imgs": [
+        "https://cdn.ticketmars.com/image/prod/20240815_56/17237017258289384.png",
+        "https://cdn.ticketmars.com/image/prod/20240815_38/17237011708686182.jpg",
+        "https://cdn.ticketmars.com/image/prod/20240815_11/17237059806538381.jpg",
+        "https://cdn.ticketmars.com/image/prod/20240816_54/17237797017844590.jpg",
+        "https://cdn.ticketmars.com/image/prod/20240815_46/17237059623008909.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://m.piaoxingqiu.com/content/66b32e62dcfb40000180ad94?showId=66b32e62dcfb40000180ad94"
+}

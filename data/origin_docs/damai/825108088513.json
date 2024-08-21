@@ -1,0 +1,430 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：五条人、艾福杰尼、gala、mac ova seas、Mula Sakee、TOYOKI、夏日入侵企画、陈鸿宇、果味VC、高天佐Trouble.Z、Kc左元杰、温和治疗、香蕉俱乐部乐队",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "852",
+    "cityname": "北京",
+    "couponTags": "[]",
+    "description": "艺人：五条人、艾福杰尼、gala、mac ova seas、Mula Sakee、TOYOKI、夏日入侵企画、陈鸿宇、果味VC、高天佐Trouble.Z、Kc左元杰、温和治疗、香蕉俱乐部乐队",
+    "id": "1_1_825108088513",
+    "imgurl": "-338853707",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2024大运河音乐节",
+    "nameNoHtml": "2024大运河音乐节",
+    "price": {
+        "range": "288-568"
+    },
+    "price_str": "288-568",
+    "pricehigh": "568.0",
+    "privilegeTags": "[]",
+    "projectid": "825108088513",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.09.15-09.16",
+    "sitestatus": "3",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": {
+        "lat": 39.867459,
+        "lng": 116.729606,
+        "region": "1",
+        "venueAddr": "北京市通州区张家湾镇绿心路城市绿心森林公园",
+        "venueCityName": "北京市",
+        "venueId": "6827006",
+        "venueName": "北京通州城市绿心森林公园",
+        "venueProvinceName": "北京"
+    },
+    "venuecity": "北京",
+    "venueid": "6827006",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN018JevhW2GdScooc3s5_!!2251059038.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "buyButton": {
+        "origin": "-41",
+        "status": "90",
+        "text": "预约抢票",
+        "tip": "提前选票档 抢票更丝滑"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01uSwy8K2GdScnSmxT5_!!2251059038.jpg\" width=\"1020\" height=\"1360\" damai_width=\"1020\" damai_height=\"1360\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01t5yjTA2GdSchI57H3_!!2251059038.jpg\" width=\"1125\" height=\"2580\" damai_width=\"1125\" damai_height=\"2580\"></p></body></html>",
+        "introduceTitle": "演出介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "中国内地民谣乐队",
+                "id": "72536",
+                "name": "五条人",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1686901242199/1686901242199-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地著名说唱歌手、音乐制作人",
+                "id": "71898",
+                "name": "艾福杰尼",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1685954846380/1685954846380-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "GALA，中国内地摇滚乐队，成立于2004年1月2日，由苏朵、石亮、苏依拉、于政组成",
+                "id": "11237182",
+                "name": "gala",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1715168273733/1715168273733-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "DIGI GHETTO成员，川渝地区迅速崛起的说唱新生力量，《中国新说唱2020》热门选手。\n代表作:《闪电》《刘华强》《暴雨》 《莫斯科郊外的夜晚》《芳草地》....",
+                "id": "2186739239",
+                "name": "mac ova seas",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1659687208890/1659687208890-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "Mula Sakee是亚洲在这个新时代中极为罕见、兼具艺术性和拥有无限潜力的说唱艺人，也是DigiGhetto团队的成员之一。他于1997年冬季出生在中国四川，成长在被誉为中国Trap之都成都。Mula Sakee在亚特兰大和东京庆应大学求学期间积累了丰富的经历，这些不同环境对他的个人发展和对说唱音乐的理解产生了深远影响。他凭借独特的国际视野和惊人的说唱才华成为国内少有的顶级说唱歌手。",
+                "id": "25454329872",
+                "name": "Mula Sakee",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1686732951254/1686732951254-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "擅长emotional rap/hyper pop/pop punk的先锋音乐人，不局限于说唱，将自己独特的理念融入到音乐和视觉中，始终忠于自己内心并不断创新，大受 Z世代年轻人追捧。\n早期与GothBoyClub（Lil Peep团队）的合作让TOYOKI出现在人们的视野之中。作为国内最早开始一批EMO RAP的代表人物，TOYOKI的音乐并没有停滞于EMO RAP的范围. 2020年，受到朋克乐的影响，TOYOKI开始尝试制作POP PUNK音乐。如今已经把摇滚风潮带到各个城市的现场，并极具现场感染力。TOYOKI的音乐宗旨是创造更多的可能性，无论现场还是耳机里都能感受到。",
+                "id": "364952196",
+                "name": "TOYOKI",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1692240834795/1692240834795-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "成立于2014年。活在记忆里执拗的乐队",
+                "id": "72637",
+                "name": "夏日入侵企画",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1697173932994/1697173932994-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "独立音乐人，代表作《理想三旬》《一如年少模样》《早春的树》等，其中《理想三旬》在网易云已经收获41w+的评论，全网歌曲播放量20亿+。他的磁性嗓音唱着鲜话的生活和呢喃的理想，像诉说也像思考，在独立音乐中一道独特的风景。",
+                "id": "71967",
+                "name": "陈鸿宇",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1569380463169/1569380463169-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "果味VC乐队，中国独立摇滚，英式摇滚的领军代表乐队。",
+                "id": "1383",
+                "name": "果味VC",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1550803900124/1550803900124-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国音乐人",
+                "id": "7386353269",
+                "name": "高天佐Trouble.Z",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1619403160414/1619403160414-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "09年开始说唱生涯的先锋音乐人- 上瘾级rapper Kc左元杰， 多个说唱Battle大赛中获得冠军， 更在2020年在芒果TV说唱音乐综艺《说唱听我的》中获得季军。 自2017年推出个人原创单曲《情歌一首》至今已经发布5张个人专辑、6张EP、原创单曲150+；。不管是颓废的、朋克的、嬉皮的，还是复古的、赛博的、迷幻的，当黑夜降临时可以和Kc一起，融入这片霓虹之中，只有短暂的一个瞬间，然后便迷失在另一个星球。",
+                "id": "26196612447",
+                "name": "Kc左元杰",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1689836782501/1689836782501-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "温和治疗乐队于2019年成立于北京，由主唱/吉他手腹黑、贝斯手阿苏、鼓手小峰组成，其中乐队主唱、鼓手以及经纪人大迪还是北京迷笛音乐学院的同届同学。他们好像是一管浪漫又甜蜜的药剂，把后英式摇滚的梦幻迷离、电子放克的摩登复古、爵士的慵懒舒缓恰到好处地融合在了音乐里。",
+                "id": "1114281875",
+                "name": "温和治疗",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1634206422974/1634206422974-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "国内Britpop 乐队",
+                "id": "1589669739",
+                "name": "香蕉俱乐部乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1713781345164/1713781345164-main.jpg",
+                "tag": "歌手"
+            }
+        ],
+        "artistsTitle": "演出阵容",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i4/O1CN01NhsMhM1EE927ZzCv9_!!6000000000319-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotos/99824/19964813.jpg",
+                "https://img.alicdn.com/imgextra/i2/O1CN01HLirt51NCcFriIDXd_!!6000000001534-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotos/268143/53628760.jpg",
+                "https://img.alicdn.com/imgextra/i3/O1CN01r0ZMup1vQzcdFJguf_!!6000000006168-0-tps-500-500.jpg"
+            ],
+            "wantNum": "5844",
+            "wantNumStr": "5844",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01R3THyh1QT3Y3gWguc_!!6000000001976-2-tps-1125-702.png",
+        "categoryId": "127420006",
+        "cityName": "北京市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "825108088513",
+        "itemName": "【北京】2024大运河音乐节",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN018JevhW2GdScooc3s5_!!2251059038.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "110100",
+        "performSeatImages": [],
+        "projectId": "221685045",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                },
+                {
+                    "id": "7",
+                    "name": "港澳台居民居住证"
+                },
+                {
+                    "id": "8",
+                    "name": "外国人永久居留身份证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "待定，以现场实际时长为准",
+        "showTime": "2024.09.15-09.16",
+        "subTitle": "",
+        "tcCategoryId": "0301030100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "215945226",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "215916235",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "215964270",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=825108088513",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须携带购票时对应证件验证入场。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "待定",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/护照/外国人永久居留身份证/港澳台居民居住证/身份证/台湾居民来往大陆通行证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "待定，以现场实际时长为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "待定",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "待定，以现场实际时长为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "最低演出时长"
+            },
+            {
+                "content": "以现场实际为准",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "待定",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDescWithStyle": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息",
+                "tagName": "重要通知"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过身份证验票入场",
+                "tagDescWithStyle": "通过身份证验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：北京艺声汇科技有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：北京艺声汇科技有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}

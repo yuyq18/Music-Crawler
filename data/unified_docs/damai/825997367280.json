@@ -1,0 +1,47 @@
+{
+    "platform": "大麦",
+    "project_id": "825997367280",
+    "project_name": "2024 沙一汀EL “VLOG” 个人演出-合肥站",
+    "category_name": "演唱会",
+    "artists": [
+        "沙一汀"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.30 周五 19:30",
+    "session_time": [],
+    "price": "228-388",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "合肥",
+    "venue_name": "合肥骆岗公园大机库演艺中心",
+    "venue_info": {
+        "venue_address": "合肥市包河区大连路与园博大道交口骆岗中央公园园博小镇一期s6区1号楼",
+        "lng": 117.314578,
+        "lat": 31.773748
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01TZLpY22GdScndtgrf_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01M2Lz7i2GdScq006J9_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "179",
+        "wantNumStr": "179",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "825997367280",
+            "cityName": "合肥站",
+            "showTime": "08.30"
+        },
+        {
+            "itemId": "824297364876",
+            "cityName": "成都站",
+            "showTime": "09.01"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=825997367280"
+}

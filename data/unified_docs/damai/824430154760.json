@@ -1,0 +1,84 @@
+{
+    "platform": "大麦",
+    "project_id": "824430154760",
+    "project_name": "租场-海阔天空 怀念家驹·【海山】致敬Beyond金曲演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "黄海山"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.14 周六 19:30",
+    "session_time": [
+        "09.14 周六"
+    ],
+    "price": "120-480",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "呼和浩特",
+    "venue_name": "内蒙古乌兰恰特",
+    "venue_info": {
+        "venue_address": "内蒙古自治区呼和浩特市新城区迎新路街道内蒙古博物院",
+        "lng": 111.739032,
+        "lat": 40.84012
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN014PFHdN2GdSci0AiyO_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01opyTPR2GdScilTIDl_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "462",
+        "wantNumStr": "462",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "813973290918",
+            "cityName": "宁波站",
+            "showTime": "08.24"
+        },
+        {
+            "itemId": "815673161950",
+            "cityName": "昆明站",
+            "showTime": "08.31"
+        },
+        {
+            "itemId": "815013672196",
+            "cityName": "普洱站",
+            "showTime": "09.01"
+        },
+        {
+            "itemId": "821351921255",
+            "cityName": "天津站",
+            "showTime": "09.07"
+        },
+        {
+            "itemId": "824430154760",
+            "cityName": "呼和浩特站",
+            "showTime": "09.14"
+        },
+        {
+            "itemId": "805197912422",
+            "cityName": "银川站",
+            "showTime": "09.16"
+        },
+        {
+            "itemId": "811013039915",
+            "cityName": "上海站",
+            "showTime": "10.19"
+        },
+        {
+            "itemId": "822321148768",
+            "cityName": "南京站",
+            "showTime": "10.20"
+        },
+        {
+            "itemId": "817007585802",
+            "cityName": "杭州站",
+            "showTime": "时间待定"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=824430154760"
+}

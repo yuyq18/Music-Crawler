@@ -1,0 +1,324 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_826444210224",
+    "imgurl": "-325492490",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "10-FEET上海演唱会",
+    "nameNoHtml": "10-FEET上海演唱会",
+    "price": {
+        "range": "价格待定"
+    },
+    "price_str": "0",
+    "pricehigh": "0.0",
+    "privilegeTags": "[]",
+    "projectid": "826444210224",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.09.28 周六",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": {
+        "lat": 31.19,
+        "lng": 121.48,
+        "region": "1",
+        "venueAddr": "上海市浦东新区世博大道2095号-4幢-A",
+        "venueCityName": "上海市",
+        "venueId": "6790012",
+        "venueName": "红石中心",
+        "venueProvinceName": "上海"
+    },
+    "venuecity": "上海",
+    "venueid": "6790012",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN018X1qLb2GdScim2p5H_!!2251059038.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "上海星族文化艺术发展有限公司",
+            "entAddress": "上海市嘉定曹安路4671号A-98",
+            "entType": "有限责任公司(自然人投资或控股)",
+            "legalPerson": "秦静",
+            "opFrom": "",
+            "opTo": "",
+            "regCapStr": "300万人民币",
+            "socialCreditCode": "913101141321214371"
+        }
+    },
+    "buyButton": {
+        "origin": "-999",
+        "status": "99",
+        "text": "即将开抢",
+        "tip": "请耐心等待"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p>10-FEET是由TAKUMA(主唱・吉他)、NAOKI(贝斯・主唱)、KOUICHI(鼓手・和声)组成，以家乡京都为据点展开活动的日本三人摇滚乐队。</p>\n<p>&nbsp;</p>\n<p>虽然只是简单的三人乐队的形式，在音乐方面，10-FEET的音乐类型囊括了摇滚、朋克、重金属、雷鬼、嘻哈、吉他流行等多元化流派，确立了广泛的独特原创风格。</p>\n<p>&nbsp;</p>\n<p>乐队积极现身live house以及音乐节等活动现场，同时也在全国各地举行活力四射的现场演唱会，他们充满活力的现场表演、蕴含深刻人性的歌词和令人会心一笑的人物形象总是成为热门话题，乐队的娱乐风格在他们的活动中得到了充分体现。</p>\n<p>&nbsp;</p>\n<p>2022年12月乐队发行了包括电影版『灌篮高手』片尾主题曲 《第零感》在内的第9张专辑，《第零感》的流媒体播放量在乐队出道至今首次超过 2 亿次，不仅在日本，在海外也大获好评。</p>\n<p>&nbsp;</p>\n<p>在 2023 年 1 月至 11 月期间在日本和海外共举办了 56 场巡回演唱会，并在2023年末登上了第74届NHK红白歌合战的舞台。</p>\n<p>&nbsp;</p>\n<p>2007年10-FEET首次主办了大型户外音乐节「京都大作战」，并在那之后成为了京都代表性的初夏时节的传统活动。每年举办2天的活动召集了4万人以上的来自日本全国各地的粉丝，自举办以来的15 年间，门票年年一售而空，深受人们喜爱。</p>\n<p>&nbsp;</p>\n<p>乐队成立至今已有 27 年，虽身在巅峰，却依旧孜孜不倦地追寻着突破。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Znr5TW2GdScr3XvfN_!!2251059038.jpg\" width=\"2066\" height=\"1402\" damai_width=\"2066\" damai_height=\"1402\"></p></body></html>",
+        "introduceTitle": "活动介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "false",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "useLocalCache": "false",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wPOZN01jRf2eaC3Jz_!!6000000004545-2-tps-1125-702.png",
+        "categoryId": "123606001",
+        "cityName": "上海市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "826444210224",
+        "itemName": "【上海】10-FEET上海演唱会",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN018X1qLb2GdScim2p5H_!!2251059038.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "310100",
+        "performSeatImages": [],
+        "projectId": "221687072",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                },
+                {
+                    "id": "7",
+                    "name": "港澳台居民居住证"
+                },
+                {
+                    "id": "8",
+                    "name": "外国人永久居留身份证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "type": "1"
+        },
+        "showDuration": "约90分钟（以现场为准）",
+        "showTime": "2024.09.28 周六",
+        "subTitle": "",
+        "tcCategoryId": "0301020100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "215929403",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=826444210224",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张、每个账号最多购买6张。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须携带购票时对应证件验证入场。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/港澳台居民居住证/港澳居民来往内地通行证/外国人永久居留身份证/身份证/护照",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "约90分钟（以现场为准）",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约120分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "10-FEET",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01N7Icez1vcu9JtnH1e_!!6000000006194-2-tps-144-144.png",
+                "title": "主要演员"
+            },
+            {
+                "content": "17首",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票，购票完成后观演人信息不可更改。",
+                "tagName": "实名制购票",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过身份证验票入场",
+                "tagDescWithStyle": "通过身份证验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：上海星族文化艺术发展有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：上海星族文化艺术发展有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}

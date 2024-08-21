@@ -1,0 +1,47 @@
+{
+    "platform": "大麦",
+    "project_id": "825535726564",
+    "project_name": "迪斯科女王张蔷 《蔷行世界》成都站",
+    "category_name": "演唱会",
+    "artists": [
+        "张蔷"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.06 周五 20:00",
+    "session_time": [],
+    "price": "258-368",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "成都",
+    "venue_name": "正火艺术中心1号馆",
+    "venue_info": {
+        "venue_address": "四川成都市龙泉驿区东洪路666号正火1号馆",
+        "lng": 104.149694,
+        "lat": 30.621531
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01FiQHBS2GdScmXwQxR_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01trJCav2GdScj1EOR1_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "539",
+        "wantNumStr": "539",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "825535726564",
+            "cityName": "成都站",
+            "showTime": "09.06"
+        },
+        {
+            "itemId": "825294892402",
+            "cityName": "重庆站",
+            "showTime": "09.08"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=825535726564"
+}

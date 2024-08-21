@@ -1,0 +1,53 @@
+{
+    "platform": "大麦",
+    "project_id": "822429241013",
+    "project_name": "星旋律亚洲巡回演唱会-佛山站",
+    "category_name": "演唱会",
+    "artists": [
+        "庄心妍",
+        "郑源"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.16 周一 20:00",
+    "session_time": [],
+    "price": "288-1088",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "佛山",
+    "venue_name": "佛山市岭南明珠体育馆",
+    "venue_info": {
+        "venue_address": "禅城区岭南大道北79号",
+        "lng": 113.126342,
+        "lat": 23.013657
+    },
+    "project_info": "星旋律亚洲巡回演唱会-佛山站\n\n \n \n \n \n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01OfaKuT2GdScfvLzTI_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01NpyVvl2GdSclDa4C4_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01LEQwrl2GdSciRoXNn_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01C7CeFA2GdScdKwl98_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01G9ybsF2GdScieTPUG_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01nXABpk2GdScdL1BmJ_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Ljt2Lm2GdSchgBlAr_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "20998",
+        "wantNumStr": "2.1万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过74%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "822429241013",
+            "cityName": "佛山站",
+            "showTime": "09.16"
+        },
+        {
+            "itemId": "824121184332",
+            "cityName": "钦州站",
+            "showTime": "10.01"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=822429241013"
+}

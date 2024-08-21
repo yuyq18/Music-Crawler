@@ -1,0 +1,71 @@
+{
+    "platform": "大麦",
+    "project_id": "822879310959",
+    "project_name": "林俊杰JJ20 世界巡回演唱会-曼谷站",
+    "category_name": "演唱会",
+    "artists": [
+        "林俊杰"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.10.05 周六 18:30",
+    "session_time": [],
+    "price": "960-2330",
+    "isGeneralAgent": "false",
+    "isHotProject": "true",
+    "rating": null,
+    "city_name": "曼谷\n",
+    "venue_name": "Impact Arena",
+    "venue_info": {
+        "venue_address": " IMPACT Muang Thong Thani ถนน ถนนป๊อปปูล่า 3 Banmai Amphoe P",
+        "lng": 100.5477901,
+        "lat": 13.9129232
+    },
+    "project_info": "迈向出道20 周年的里程碑， 亚洲全能唱作天王JJ 林俊杰将于10月5日来到IMPACT ARENA舞台，呈现《林俊杰JJ20 世界巡回演唱会》，为睽违4年的全新巡演掀开序幕！被誉为新加坡的骄傲，也是华人乐坛最顶级艺人之一的JJ 林俊杰出道至今即将步入 20 年，发行了 15 张专辑，超过 30 首单曲与无数合作歌曲。随着科技的发展，这些音乐与青春一起从卡带到 CD 再汇入数位音乐，陪着许许多多的歌迷们走过生活中的起起落落，也共同见证了彼此的成长。JJ 的音乐不仅是一代人的集体回忆、最美好的无限延伸，总能将心灵破碎的拼凑完整。这些年来，JJ 林俊杰站上超过百场演唱会舞台。每场都是多少眼泪的汇集地，又是多少情感的交集，有无数灵魂在这发光，也有无限感动在此发酵，是多少观众的声音一起将故事写成了我们，成就了林俊杰。20 年岁月，JJ 林俊杰不曾离开。这次不止是 “JJ20” 也是 “JJ2.0”。睽违4年的全新巡回演唱会，万众期待，而 JJ 也准备好了再次归向舞台，迎接崭新的 JJ 时代！",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01JFMCWT2GdScjTVFrn_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01rjzWlC2GdScb8QQQq_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01bLCx2R2GdScbVxatW_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01kxjgPW2GdScZkA957_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN013nTHrg2GdScbW0D9y_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01IKdMWq2GdScXFLrUw_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "36153",
+        "wantNumStr": "3.6万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过81%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "822879310959",
+            "cityName": "曼谷\n站",
+            "showTime": "10.05"
+        },
+        {
+            "itemId": "798480881192",
+            "cityName": "重庆站",
+            "showTime": "11.02-11.03"
+        },
+        {
+            "itemId": "806897811335",
+            "cityName": "太原站",
+            "showTime": "08.31-09.01"
+        },
+        {
+            "itemId": "794075311779",
+            "cityName": "青岛站",
+            "showTime": "09.21-09.22"
+        },
+        {
+            "itemId": "822444759234",
+            "cityName": "东京站",
+            "showTime": "10.02"
+        },
+        {
+            "itemId": "816639264010",
+            "cityName": "厦门站",
+            "showTime": "10.19-10.20"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=822879310959"
+}

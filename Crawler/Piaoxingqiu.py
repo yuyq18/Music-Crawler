@@ -69,7 +69,10 @@ class PiaoxingqiuCrawler(MusicCrawler):
                 if id not in df_ids:
                     new_detail_row = {}
                     for col_ in details_df.columns:
-                        new_detail_row[col_] = detail_data[col_]
+                        if col_ in detail_data:
+                            new_detail_row[col_] = detail_data[col_]
+                        else:
+                            new_detail_row[col_] = None
                     details_df = pd.concat([details_df, pd.DataFrame([new_detail_row])], ignore_index=True)
 
             while json_r['data']['isLastPage'] == False:
@@ -87,7 +90,10 @@ class PiaoxingqiuCrawler(MusicCrawler):
                     if id not in df_ids:
                         new_detail_row = {}
                         for col_ in details_df.columns:
-                            new_detail_row[col_] = detail_data[col_]
+                            if col_ in detail_data:
+                                new_detail_row[col_] = detail_data[col_]
+                            else:
+                                new_detail_row[col_] = None
                         details_df = pd.concat([details_df, pd.DataFrame([new_detail_row])], ignore_index=True)
                 sleep(random.randint(1, 3))
             sleep(random.randint(1, 3))
@@ -130,6 +136,7 @@ class PiaoxingqiuCrawler(MusicCrawler):
             'PENDING': '待定',
             'ONSALE': '售票中', 
             'DELAY': '延期',
+            'DISABLED': '已下架',
         }
 
         path = f'data/origin_docs/{self.platform}/{origin_id}.json'

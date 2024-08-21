@@ -1,0 +1,476 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "906",
+    "cityname": "深圳",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_822119181096",
+    "imgurl": "-368742782",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "「心随歌行」KOKIA 2024 中国巡演 深圳站",
+    "nameNoHtml": "「心随歌行」KOKIA 2024 中国巡演 深圳站",
+    "price": "280.0",
+    "price_str": "280-1080",
+    "pricehigh": "1080.0",
+    "privilegeTags": "[]",
+    "projectid": "822119181096",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.11.10 周日 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "华夏艺术中心",
+    "venuecity": "深圳",
+    "venueid": "650",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01o04s3m2GdScPepldk_!!2251059038.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "822119181096",
+                    "itemName": "【深圳】「心随歌行」KOKIA 2024 中国巡演 深圳站",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "440300",
+                    "cityName": "深圳市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01o04s3m2GdScPepldk_!!2251059038.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01o04s3m2GdScPepldk_!!2251059038.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.11.10 周日 19:30",
+                    "showDuration": "约110分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票",
+                            "tagDesc": "本项目需实名制购票，购票完成后观演人信息不可更改。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：爱乐汇空间艺术(北京)有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：爱乐汇空间艺术(北京)有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "906",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<html>\r\n<head>\r\n\r\n</head><body>\r\n<p><span style=\"color: #000000;\"><strong>演出详情</strong></span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #000000;\">被誉为&ldquo;天籁女声&rdquo;的日本音乐家KOKIA，即将在中国开启全新的中国四城「心随歌行」KOKIA 2024 中国巡演！<strong>11</strong><strong>月</strong><strong>7</strong><strong>日北京、</strong><strong>11</strong><strong>月</strong><strong>8</strong><strong>日广州、</strong><strong>11</strong><strong>月</strong><strong>10</strong><strong>日深圳、</strong><strong>11</strong><strong>月</strong><strong>13</strong><strong>日成都</strong>！KOKIA将演绎出道20余年来多首闻名于世界乐坛的经典作品，用空灵治愈的歌声拉近和观众心与心的距离。</span></p>\r\n<p>&nbsp;</p>\r\n<p style=\"text-align: center;\"><span style=\"color: #000000;\"><strong>【开票时间】</strong>2024年8月2日13:30</span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p style=\"text-align: center;\"><span style=\"color: #000000;\">演出入场时间：18:30</span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #000000;\">正式演出时间：19:30</span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p style=\"text-align: center;\"><span style=\"color: #000000;\">票价：1080元(SVIP)/880元(VIP)/580元/380元/280元</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #000000;\"><strong>票务规则：</strong></span></p>\r\n<p><span style=\"color: #000000;\">实名制：实名购票，一票一证，不可转赠</span></p>\r\n<p><span style=\"color: #000000;\">退票规则：本演出不支持退票</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #000000;\"><strong>【福利特典】</strong></span></p>\r\n<p>&nbsp;</p>\r\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01kA0NdK2GdScU4eDD9_!!2251059038.jpg\"/></p>\r\n<p><span style=\"color: #000000;\">*SVIP &amp; VIP限定福利</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #000000;\">1、SVIP权益：</span></p>\r\n<p><span style=\"color: #000000;\">A.均可获得5人一组与KOKIA合影的机会；</span></p>\r\n<p><span style=\"color: #000000;\">B..参与KOKIA签名握手会；&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>\r\n<p><span style=\"color: #000000;\">C.均可获得专属特典徽章1个和特典明信片1张。</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #000000;\">2、VIP权益：</span></p>\r\n<p><span style=\"color: #000000;\">A.均可获得5人一组与KOKIA合影的机会；</span></p>\r\n<p><span style=\"color: #000000;\">B.均可获得特典明信片1张。</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #000000;\"><strong>【特别巡演福利】</strong></span></p>\r\n<p><span style=\"color: #000000;\"><strong>本次【心随歌行】</strong><strong>KOKIA 2024 </strong><strong>中国巡演主办方</strong><strong>X-LIVE &nbsp;&amp; </strong><strong>爱乐汇为粉丝朋友们特别争取到，在</strong><strong>KOKIA</strong><strong>进行安可曲《ありがとう</strong><strong>&hellip;</strong><strong>》（《谢谢</strong><strong>...</strong><strong>》）的表演过程中，</strong><strong>观众可以</strong><strong>对演出进行拍照及摄像</strong><strong>的</strong><strong>福利。</strong></span></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #000000;\"><strong>演出亮点</strong></span></p>\r\n<p><span style=\"color: #000000;\"><strong>独特的音乐氛围：</strong>被网友评为「天籁」女声的KOKIA，空灵&amp;治愈，是她独特的声音特点。她的音乐现场充满了温馨和感动，每一首歌都像是一个故事，极具画面感。</span></p>\r\n<p><span style=\"color: #000000;\"><strong>经典作品现场演绎：</strong>KOKIA本次巡演，将现场演绎她的经典作品，包括《ありがとう&hellip;》（《谢谢...》）、《EXEX_COSMOFLIPS/.》、《クルマレテ》（《覆盖》）和《调和》等歌曲。给观众带来最原汁原味的沉浸式音乐体验。</span></p>\r\n<p><span style=\"color: #000000;\"><strong>解锁全新城市巡演，开启音乐之旅新篇章：</strong>KOKIA本轮巡演将<strong>「首次」</strong>前往北京、深圳、成都三座城市。她的天籁之声将触达更多不同城市的中国听众，也将于更多粉丝见面。</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #000000;\"><strong>&nbsp;</strong></span></p>\r\n<p><span style=\"color: #000000;\"><strong>关于KOKIA</strong></span></p>\r\n<p><span style=\"color: #000000;\">&nbsp; &nbsp; &nbsp;KOKIA，本名吉田亚纪子，一位备受尊敬的日本歌手，同时也是一位知名作曲家、小提琴家与钢琴家。自1998年出道以来，KOKIA迅速在音乐界崭露头角。她音乐素养深厚，常融合流行、古典与世界音乐等元素，人声纯净悠扬，编曲宏大壮丽，歌词充满诗意，从而形成了自己独一无二的风格，受到世界范围内粉丝的喜爱。</span></p>\r\n<p>&nbsp;</p>\r\n<p><img style=\"display: block;margin-left: auto;margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01pX8mdy2GdScBvbvy6_!!2251059038.png\"/></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp; &nbsp;<span style=\"color: #000000;\"> &nbsp;在她的音乐生涯中，KOKIA取得了许多显著成就，多次登上日本知名音乐榜单：Oricon排行榜，并多次在国际音乐节上获得嘉奖。她的作品在亚洲取得了巨大的成功，例如2003年，<a style=\"color: #000000;\">台湾偶像剧</a>《<a style=\"color: #000000;\">海豚湾恋人</a>》将KOKIA首张专辑中的《I catch a cold》和《白い雪》（《白雪》）用作该剧的灵魂插曲；2008年，在日本青年会议所主办的青年版国民荣誉奖中荣获&ldquo;第22回人间力大赏&rdquo;；还在欧洲、美国等地受到广泛好评。她的作品多次作为广告曲在欧洲全境播放，并多次于巴黎、比利时、德国和爱尔兰等地举办演唱会。除此之外，她受多部知名电子游戏邀请创作音乐，曾为人气游戏《圣洁传说》创作主题歌《Follow the Nightingale》、为《龙之谷》创作主题曲《Road to Glory》，并被选为知名游戏《最终幻想XIII-2》中诺艾尔&middot;克莱斯角色主题曲的演唱歌手。她的音乐风格跨越新世纪音乐、古典和流行音乐。KOKIA还以其独特的音乐风格和创新的音乐理念，在国际乐坛上赢得了&ldquo;治愈系歌姬&rdquo;的美誉。</span></p>\r\n<p>&nbsp;</p>\r\n<p><img style=\"display: block;margin-left: auto;margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01hpM19v2GdScDep7cb_!!2251059038.png\"/></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #000000;\">「网友们这样评价KOKIA：&ldquo;她的声音仿佛天籁，能让人瞬间感到宁静和安详&rdquo;，&ldquo;KOKIA的歌声像是一股清泉，洗涤心灵的每一个角落&rdquo;，&ldquo;她的音乐充满了情感，能够直击心灵深处&rdquo;...」</span></p>\r\n<p>&nbsp;</p>\r\n<p><img style=\"display: block;margin-left: auto;margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01oW74ky2GdSc7UYp5p_!!2251059038.png\"/></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp; &nbsp; <span style=\"color: #000000;\">&nbsp;KOKIA的声音纯净、清澈而不失丰富的情感。她的歌唱风格既有细腻的温柔，又充满了穿透力和感染力。她的声音让每一首歌都充满了生命力和故事感。她的音乐不仅仅是听觉上的享受，更是一种心灵的治愈。</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #000000;\">&nbsp; &nbsp; &nbsp;本次「心随歌行」主题巡演，KOKIA将带领观众穿梭于音乐与情感的世界，她将会表演她不同专辑里的不同歌曲，风格多变，充满了对音乐深刻的热爱和对生活感悟的分享。演唱会的每一首歌曲都如同一扇窗，透过它，观众可以窥见不同的情感风景，体验从心出发的音乐之旅...</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #000000;\">&nbsp; &nbsp; 今年11月，让我们一起来现场感受KOKIA无与伦比的魅力！</span></p>\r\n<p>&nbsp;</p>\r\n<p><img style=\"display: block;margin-left: auto;margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01fzBOdB2GdScE12NvI_!!2251059038.png\"/></p>\r\n</body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须兑换成纸质票验票入场，当天请按照【票夹】提示，前往取票点换取纸质票后入场"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：身份证/护照/港澳居民来往内地通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约110分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "演出前60分钟可入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "8"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "110分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "有寄存处,剧院大堂"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "700"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ]
+                },
+                "venue": {
+                    "venueId": "650",
+                    "venueName": "华夏艺术中心",
+                    "venueProvinceName": "广东省",
+                    "venueCityName": "深圳市",
+                    "lng": 113.985373,
+                    "lat": 22.534395,
+                    "venueAddr": "深圳市华侨城光侨街1号华夏艺术中心",
+                    "showCountText": "共有15个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D822119181096%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "473",
+                    "wantNumStr": "473",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01bMZ0oW1WC0GXqoK9h_!!6000000002751-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1236036/247207283_1688783747865.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01JRwhGM1y3aE69B5P1_!!6000000006523-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1223945/244789194_1687175821589.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01Z4KBGi1TVkUeB77To_!!6000000002388-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "选座购买",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1724118376000",
+                "sellStartTimeStr": "08月20日 09:46",
+                "priceRange": "¥280-¥1080",
+                "performBases": [
+                    {
+                        "name": "11.10 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1731168000000",
+                        "performs": [
+                            {
+                                "performId": "215693184",
+                                "performName": "2024-11-10 星期日 19:30",
+                                "itemId": "822119181096",
+                                "projectId": "221424025",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1731238200000",
+                                "performTime": "2024.11.10 19:30",
+                                "performStartDate": "2024-11-10",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "1611",
+                    "4939",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2028098",
+                    "2602306",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "2028162",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "1630146",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8221191810/2/822119181096.jpg"
+            }
+        }
+    }
+}

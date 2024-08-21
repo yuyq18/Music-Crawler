@@ -1,0 +1,72 @@
+{
+    "platform": "大麦",
+    "project_id": "823803447353",
+    "project_name": "朱添泽《我该用什么状态告诉你》2024专场巡演 郑州站",
+    "category_name": "演唱会",
+    "artists": [
+        "朱添泽"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.01 周日 20:30",
+    "session_time": [],
+    "price": "60",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "郑州",
+    "venue_name": "7LIVEHOUSE",
+    "venue_info": {
+        "venue_address": "文化路金水路交叉口东北角中州索克影城内二楼",
+        "lng": 113.668022,
+        "lat": 34.765087
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01QBcpc22GdSce6cdRp_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN016DluiN2GdScfZAMHT_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "824295080126",
+            "cityName": "太原站",
+            "showTime": "08.25"
+        },
+        {
+            "itemId": "823803447353",
+            "cityName": "郑州站",
+            "showTime": "09.01"
+        },
+        {
+            "itemId": "825219130874",
+            "cityName": "日照站",
+            "showTime": "09.02"
+        },
+        {
+            "itemId": "824347256520",
+            "cityName": "天津站",
+            "showTime": "09.08"
+        },
+        {
+            "itemId": "822064767174",
+            "cityName": "合肥站",
+            "showTime": "09.16"
+        },
+        {
+            "itemId": "824197087325",
+            "cityName": "济南站",
+            "showTime": "09.17"
+        },
+        {
+            "itemId": "824188181310",
+            "cityName": "长沙站",
+            "showTime": "09.20"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=823803447353"
+}

@@ -1,0 +1,57 @@
+{
+    "platform": "大麦",
+    "project_id": "823102068168",
+    "project_name": "A公馆「浪潮滚滚」15周年巡演 南京站",
+    "category_name": "演唱会",
+    "artists": [
+        "A公馆乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.08 周五 20:00",
+    "session_time": [],
+    "price": "100-120",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南京",
+    "venue_name": "1701 Live House",
+    "venue_info": {
+        "venue_address": " 南京市雨花台区安德门大街57号",
+        "lng": 118.764476,
+        "lat": 31.970526
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN012r1NAv2GdSccHX1SH_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01kc9Kch2GdSccFaedM_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "53",
+        "wantNumStr": "53",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "806582743785",
+            "cityName": "青岛站",
+            "showTime": "09.06"
+        },
+        {
+            "itemId": "806889025453",
+            "cityName": "深圳站",
+            "showTime": "09.20"
+        },
+        {
+            "itemId": "822626815241",
+            "cityName": "武汉站",
+            "showTime": "10.18"
+        },
+        {
+            "itemId": "823102068168",
+            "cityName": "南京站",
+            "showTime": "11.08"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=823102068168"
+}

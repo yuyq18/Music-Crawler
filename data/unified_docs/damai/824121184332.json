@@ -1,0 +1,53 @@
+{
+    "platform": "大麦",
+    "project_id": "824121184332",
+    "project_name": "星旋律亚洲巡回演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "庄心妍",
+        "郑源"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.10.01 周二 20:00",
+    "session_time": [],
+    "price": "288-888",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "钦州",
+    "venue_name": "钦州体育中心体育馆",
+    "venue_info": {
+        "venue_address": "广西壮族自治区钦州市钦北区鸿亭街299-2号八大场馆综合馆旁东南方向90米",
+        "lng": 108.654318,
+        "lat": 21.964927
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01dxJs0M2GdSce06tpQ_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN011VTTut2GdScgBxjb2_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01KjeZTN2GdSce0PlS0_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01w9CjEK2GdScWNsIKw_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01zRCd2k2GdScfDYdKJ_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01OwRRYW2GdSce17rqQ_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01P05lXf2GdScdFsn6J_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "7658",
+        "wantNumStr": "7658",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过57%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "822429241013",
+            "cityName": "佛山站",
+            "showTime": "09.16"
+        },
+        {
+            "itemId": "824121184332",
+            "cityName": "钦州站",
+            "showTime": "10.01"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=824121184332"
+}

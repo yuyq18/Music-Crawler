@@ -1,0 +1,47 @@
+{
+    "platform": "大麦",
+    "project_id": "823212908593",
+    "project_name": "2024蒋芸巡演天津站",
+    "category_name": "演唱会",
+    "artists": [
+        "蒋芸"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.08.24 周六 20:00",
+    "session_time": [],
+    "price": "327-627",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "天津",
+    "venue_name": "天津 SoulSense Live",
+    "venue_info": {
+        "venue_address": "天津河西区台儿庄支路海河大观 铂津湾南苑配建17-101",
+        "lng": 117.236715,
+        "lat": 39.101132
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01JGMlco2GdScbATRSL_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01lpSg5o2GdScbAQ13y_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "2523",
+        "wantNumStr": "2523",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "824844311137",
+            "cityName": "广州站",
+            "showTime": "08.31"
+        },
+        {
+            "itemId": "823212908593",
+            "cityName": "天津站",
+            "showTime": "08.24"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=823212908593"
+}

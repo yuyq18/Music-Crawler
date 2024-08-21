@@ -1,0 +1,52 @@
+{
+    "platform": "大麦",
+    "project_id": "824422560988",
+    "project_name": "三亚崖州湾·芒禾音乐节",
+    "category_name": "演唱会",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2024.12.14-12.15",
+    "session_time": [],
+    "price": "199",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "三亚",
+    "venue_name": "三亚崖州湾科技城",
+    "venue_info": {
+        "venue_address": "三亚崖州湾科技城蛟龙路",
+        "lng": 109.166272,
+        "lat": 18.324029
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN010cEJG82GdScg3ODJ9_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN018KpdSs2GdScgX9sbX_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN018zLmSB2GdSchVRfDw_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01m5cNLB2GdScdJa2iO_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "3460",
+        "wantNumStr": "3460",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "822319570138",
+            "cityName": "北京站",
+            "showTime": "09.15-09.16"
+        },
+        {
+            "itemId": "824422560988",
+            "cityName": "三亚站",
+            "showTime": "12.14-12.15"
+        },
+        {
+            "itemId": "806724894455",
+            "cityName": "常州站",
+            "showTime": "08.30-09.01"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=824422560988"
+}

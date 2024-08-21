@@ -1,0 +1,52 @@
+{
+    "platform": "大麦",
+    "project_id": "825016792561",
+    "project_name": "廖俊涛「罐装的浪花」2024全国巡演-杭州站",
+    "category_name": "演唱会",
+    "artists": [
+        "廖俊涛"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.15 周日 19:00",
+    "session_time": [],
+    "price": "320-520",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "杭州",
+    "venue_name": "SoFun Live 杭州",
+    "venue_info": {
+        "venue_address": "浙江省杭州市萧山区通货路918号粮仓艺术公园7号楼",
+        "lng": 120.294732,
+        "lat": 30.18123
+    },
+    "project_info": "演出介绍：\n\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01tJfNd02GdSclLko2W_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01w4SdBl2GdSciexHHP_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "1856",
+        "wantNumStr": "1856",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "818467088888",
+            "cityName": "深圳站",
+            "showTime": "08.25"
+        },
+        {
+            "itemId": "819235556086",
+            "cityName": "成都站",
+            "showTime": "08.31"
+        },
+        {
+            "itemId": "825016792561",
+            "cityName": "杭州站",
+            "showTime": "09.15"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=825016792561"
+}

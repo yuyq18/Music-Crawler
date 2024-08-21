@@ -1,0 +1,379 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "852",
+    "cityname": "北京",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_822533684821",
+    "imgurl": "-364597744",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "《喀秋莎》俄罗斯国立远东（红旗）歌舞团-大型歌舞晚会",
+    "nameNoHtml": "《喀秋莎》俄罗斯国立远东（红旗）歌舞团-大型歌舞晚会",
+    "price": {
+        "origin": "108-880",
+        "range": "108-528"
+    },
+    "price_str": "108-880",
+    "pricehigh": "880.0",
+    "privilegeTags": "[]",
+    "projectid": "822533684821",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.09.21 周六 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": {
+        "lat": 39.94218,
+        "lng": 116.343741,
+        "region": "1",
+        "showCountText": "24个演出",
+        "venueAddr": "北京市西城区西直门外大街135号院",
+        "venueCityName": "北京市",
+        "venueId": "26",
+        "venueName": "北京展览馆剧场",
+        "venueProvinceName": "北京"
+    },
+    "venuecity": "北京",
+    "venueid": "26",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01rsC9ds2GdScZykcGU_!!0-item_pic.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "北京果然空间文化有限公司",
+            "entAddress": "北京市西城区百万庄大街16号8号楼二层8228室",
+            "entType": "有限责任公司(自然人独资)",
+            "legalPerson": "薛偶洁",
+            "opFrom": "",
+            "opTo": "",
+            "regCapStr": "100万人民币",
+            "socialCreditCode": "91110102339676755X"
+        }
+    },
+    "atmosphere": {
+        "activityId": "944242",
+        "level": "2",
+        "type": "2"
+    },
+    "buyButton": {
+        "origin": "6",
+        "status": "208",
+        "text": "特惠选座",
+        "tip": "最低￥108起"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01GUYlnz2GdScXliKzw_!!2251059038.jpg\" width=\"1600\" height=\"6577\" damai_width=\"1600\" damai_height=\"6577\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01MotbUW2GdScXmaiFw_!!2251059038.jpg\" width=\"1600\" height=\"6830\" damai_width=\"1600\" damai_height=\"6830\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN010LgTMz2GdScX7RjS0_!!2251059038.jpg\" width=\"1600\" height=\"8023\" damai_width=\"1600\" damai_height=\"8023\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01hogvJw2GdScUc9VGK_!!2251059038.jpg\" width=\"1600\" height=\"9137\" damai_width=\"1600\" damai_height=\"9137\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01vtzNPI2GdScaa1O0s_!!2251059038.jpg\" width=\"1600\" height=\"9947\" damai_width=\"1600\" damai_height=\"9947\"></p></body></html>",
+        "introduceTitle": "演出介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可购票时会及时通知你的～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i1/O1CN01KzqXrr1vW1ysOe3mS_!!6000000006179-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/1109214/221842977_1675685550242.jpg",
+                "https://img.alicdn.com/imgextra/i2/O1CN01YWgZb91s0TqjCVnw9_!!6000000005704-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/1130822/226164576_1677695146708.jpg",
+                "https://img.alicdn.com/imgextra/i1/O1CN01KzqXrr1vW1ysOe3mS_!!6000000006179-0-tps-500-500.jpg"
+            ],
+            "wantNum": "1216",
+            "wantNumStr": "1216",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01oZPee01UQ5RcwbnmY_!!6000000002511-2-tps-1125-702.png",
+        "categoryId": "50019085",
+        "cityName": "北京市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "822533684821",
+        "itemName": "【北京】《喀秋莎》俄罗斯国立远东（红旗）歌舞团-大型歌舞晚会",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01rsC9ds2GdScZykcGU_!!0-item_pic.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "110100",
+        "performSeatImages": [],
+        "projectId": "221577065",
+        "projectStatus": "1",
+        "realName": {
+            "credentialNames": [],
+            "credentials": [],
+            "type": "3"
+        },
+        "showDuration": "约90分钟（以现场为准）",
+        "showTime": "2024.09.21 周六 19:30",
+        "subTitle": "",
+        "tcCategoryId": "0301050100"
+    },
+    "marketing": {
+        "promotionDetail": {
+            "promotionGroupList": [
+                {
+                    "promotionGroupType": "1",
+                    "promotionGroupTypeDesc": "票档优惠",
+                    "promotionList": [
+                        {
+                            "promotionCategoryDetails": [
+                                {
+                                    "displayContent": "5折到手价¥190",
+                                    "skuName": "¥380"
+                                },
+                                {
+                                    "displayContent": "5折到手价¥290",
+                                    "skuName": "¥580"
+                                },
+                                {
+                                    "displayContent": "5折到手价¥340",
+                                    "skuName": "¥680"
+                                },
+                                {
+                                    "displayContent": "5折到手价¥440",
+                                    "skuName": "¥880"
+                                }
+                            ],
+                            "promotionTag": "周三半价",
+                            "promotionType": "6"
+                        },
+                        {
+                            "promotionCategoryDetails": [
+                                {
+                                    "displayContent": "5折到手价¥190",
+                                    "skuName": "¥380"
+                                },
+                                {
+                                    "displayContent": "5折到手价¥290",
+                                    "skuName": "¥580"
+                                },
+                                {
+                                    "displayContent": "5折到手价¥340",
+                                    "skuName": "¥680"
+                                },
+                                {
+                                    "displayContent": "5折到手价¥440",
+                                    "skuName": "¥880"
+                                }
+                            ],
+                            "promotionTag": "折扣",
+                            "promotionType": "2"
+                        }
+                    ]
+                }
+            ],
+            "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。"
+        },
+        "promotionList": {
+            "generalPromotion": [
+                {
+                    "prefix": "680票档",
+                    "suffix": "5折"
+                }
+            ]
+        }
+    },
+    "performLimits": [
+        {
+            "performId": "215833593",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=822533684821",
+        "showFlag": "false"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "true",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "artist",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "seatPreload": {
+        "cityId": "110100",
+        "itemId": "822533684821",
+        "performId": "215833593"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须携带纸质门票验票入场。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "儿童一律凭票入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "无需实名购票",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "约90分钟（以现场为准）",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约30分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "90 分钟",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "最低演出时长"
+            },
+            {
+                "content": "俄罗斯国立远东歌舞团",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01N7Icez1vcu9JtnH1e_!!6000000006194-2-tps-144-144.png",
+                "title": "主要演员"
+            },
+            {
+                "content": "10",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            },
+            {
+                "content": "2000",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01g1Fs6025i4mGCqzxa_!!6000000007559-2-tps-144-144.png",
+                "title": "大麦网初始开售时全场可售门票总张数"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                "tagName": "可选座",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。发货前支持修改一次收货地址。\r\n注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                "tagDescWithStyle": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。<b>发货前支持修改一次收货地址。</b><br/>注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                "tagName": "快递票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：北京果然空间文化有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：北京果然空间文化有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}

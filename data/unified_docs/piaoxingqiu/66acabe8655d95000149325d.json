@@ -1,0 +1,39 @@
+{
+    "platform": "票星球",
+    "project_id": "66acabe8655d95000149325d",
+    "project_name": "【北京】北京·长阳航天音乐节",
+    "category_name": "音乐节",
+    "artists": [
+        "以现场为准"
+    ],
+    "show_status": "待定",
+    "show_time": "2024.09.15 - 09.16",
+    "session_time": [
+        "20240916",
+        "20240915"
+    ],
+    "price": "268-268",
+    "isGeneralAgent": "false",
+    "isHotProject": "true",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "北京房山长阳音乐公园",
+    "venue_info": {
+        "venue_address": "北京市房山区长阳镇长阳体育公园西侧",
+        "lng": 116.197649,
+        "lat": 39.760714
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://cdn.ticketmars.com/image/prod/20240807_92/17230102038083880.jpg",
+        "https://cdn.ticketmars.com/image/prod/20240807_27/17230103539324171.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://m.piaoxingqiu.com/content/66acabe8655d95000149325d?showId=66acabe8655d95000149325d"
+}
