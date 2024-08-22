@@ -1,0 +1,552 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "2520",
+    "cityname": "合肥",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_827434772771",
+    "imgurl": "-315586865",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "《致敬 Beyond 光辉岁月》经典金曲演唱会",
+    "nameNoHtml": "《致敬 Beyond 光辉岁月》经典金曲演唱会",
+    "price": "50.0",
+    "price_str": "50-280",
+    "pricehigh": "280.0",
+    "privilegeTags": "[]",
+    "projectid": "827434772771",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.21 周六 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "合肥庐阳剧院",
+    "venuecity": "合肥",
+    "venueid": "3310005",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN0120Km3C2GdSct7UKry_!!2251059038.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "827434772771",
+                    "itemName": "【合肥】《致敬 Beyond 光辉岁月》经典金曲演唱会",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "340100",
+                    "cityName": "合肥市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN0120Km3C2GdSct7UKry_!!2251059038.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN0120Km3C2GdSct7UKry_!!2251059038.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.12.21 周六 19:30",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：合肥聚橙文化艺术发展有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：合肥聚橙文化艺术发展有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "2520",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN0137mrb72GdScoFY8lx_!!2251059038.png\" width=\"725\" height=\"1061\" damai_width=\"725\" damai_height=\"1061\"></p>\n<p>听着你的歌长大<br>从小听着你的歌长大，感受那颗从不妥协的心<br>少年的激情和不羁，只有你能真的懂我<br>时光易逝，我已身入其中<br>怎么办</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01z8uGST2GdScs3Eq76_!!2251059038.png\" width=\"944\" height=\"515\" damai_width=\"944\" damai_height=\"515\"></p>\n<p>对于BEYOND乐队的广大歌迷来说<br>夏天是属于黄家驹的<br>因BEYOND乐队主唱黄家驹<br>出生于6月10日、离开于6月30日<br>生命永远定格在了1993年<br>每当我们彷徨和迷茫的时候 <br>都能从黄家驹略沙哑又坚决的歌声中得到力量</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01orgvK92GdScjlgBIp_!!2251059038.png\" width=\"865\" height=\"443\" damai_width=\"865\" damai_height=\"443\"><br>经典曲目总有一首让你热泪盈眶</p>\n<p>&nbsp;</p>\n<p><br>1.《不再犹豫》<br>从发表歌曲《大地》开始，关于Beyond的改变是否妥协和背叛理想的争议就从没有停止过，在这首歌中Beyond用他们的歌声表达出了一往无前的勇气。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN018Abexc2GdScqiSKnb_!!2251059038.png\" width=\"865\" height=\"556\" damai_width=\"865\" damai_height=\"556\"></p>\n<p>无聊望见了犹豫 达到理想不太易<br>即使有信心斗志却抑止<br>谁人定我去或留 定我心中的宇宙<br>只想靠两手 向理想挥手<br>问句天几高 心中志比天更高<br>自信打不死的心态活到老<br>——《不再犹豫》</p>\n<p><br>2.《灰色轨迹》<br>黄家驹带领Beyond开创了香港流行音乐“非情爱”时代。从亲情、生活到励志，犹如在灰色轨迹的尽头，为词曲创作者打开了另一道门。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01ilbRkX2GdScjljbQ7_!!2251059038.png\" width=\"865\" height=\"535\" damai_width=\"865\" damai_height=\"535\"></p>\n<p>酒一再沉溺 何时麻醉我抑郁<br>过去了的一切会平息 冲不破墙壁<br>前路没法看得清 再有那些挣扎与被迫<br>踏着灰色的轨迹 尽是深渊的水影<br>——《灰色轨迹》</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>3.《海阔天空》<br>这首记录Beyond十年心路历程的歌曲，歌词承载了黄家驹与乐队赴日本发展的艰辛与对理想的坚持 ，并收录在粤语专辑《乐与怒》中。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01JRSOC12GdScsUfIQX_!!2251059038.png\" width=\"865\" height=\"586\" damai_width=\"865\" damai_height=\"586\"></p>\n<p>多少次 迎着冷眼与嘲笑<br>从没有放弃过心中的理想<br>一刹那恍惚 若有所失的感觉<br>不知不觉已变淡 心里爱（谁明白我）<br>原谅我这一生不羁放纵爱自由<br>也会怕有一天会跌倒<br>背弃了理想 谁人都可以<br>哪会怕有一天只你共我<br>——《海阔天空》</p>\n<p><br>4.《真的爱你》</p>\n<p>收录在Beyond于1989年发行的粤语专辑《Beyond IV》 内。歌曲歌颂了母爱的伟大，歌词包含了对母爱的感恩和对母亲的祝福。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN014EOuXi2GdScp0pEFI_!!2251059038.png\" width=\"865\" height=\"580\" damai_width=\"865\" damai_height=\"580\"></p>\n<p>春风化雨暖透我的心 一生眷顾无言地送赠<br>是你多么温馨的目光 教我坚毅望着前路<br>叮嘱我跌倒不应放弃 没法解释怎可报尽亲恩<br>爱意宽大是无限 请准我说声真的爱你<br>——《真的爱你》</p>\n<p>&nbsp;</p>\n<p><br>5.《光辉岁月》</p>\n<p>这首歌是受到南非领袖曼德拉被困狱中的经历所感动而作。在家驹看来，曼德拉的人生经历体现了关于抗争与希望的精神内涵，这与Beyond的信念不谋而合。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01t1CoAv2GdScp0n16A_!!2251059038.png\" width=\"865\" height=\"679\" damai_width=\"865\" damai_height=\"679\"></p>\n<p>年月把拥有变做失去 疲倦的双眼带著期望<br>今天只有残留的躯壳 迎接光辉岁月<br>风雨中抱紧自由 一生经过彷徨的挣扎<br>自信可改变未来 问谁又能做到<br>——《光辉岁月》</p>\n<p><br>6.《无悔这一生》</p>\n<p>Beyond《无悔这一生》这首歌，表达自己对一生都要献身于音乐的无悔、义无反顾。歌词\"没有泪光风里劲闯，怀着心中新希望\"更成为许多人的励志之语。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01phn4Fc2GdScqbzHFl_!!2251059038.png\" width=\"865\" height=\"485\" damai_width=\"865\" damai_height=\"485\"></p>\n<p>没有泪光风里劲闯 怀着心中新希望<br>能冲一次 多一次 不息自强<br>没有泪光风里劲闯 重植根于小岛岸<br>如天可变风可转 不息自强这方向<br>——《无悔这一生》</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>7.《Amani》</p>\n<p>这首歌是beyond在跟随香港电台前往非洲肯尼亚探访当地儿童时，黄家驹写出了《AMANI》的副歌。“AMANI”意味着和平。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01jqz6or2GdScjljXNE_!!2251059038.png\" width=\"865\" height=\"615\" damai_width=\"865\" damai_height=\"615\"></p>\n<p>烽烟掩盖天空与未来 无助与冰冻的眼睛<br>流泪看天际带悲愤 是控诉战争到最后<br>伤痛是儿童 我向世界呼叫<br>AMANI NAKUPENDA NAKUPENDA WE WE<br>TUNA TAKA WE WE AMANI NAKUPENDA<br>NAKUPENDA WE WE<br>——《AMANI》</p>\n<p>8.《大地》</p>\n<p><br>该作品是一首Beyond出道至88年，最成功的一首歌，亦奠定了Beyond在本地乐坛的地位同时成为Beyond的成名曲。<br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01npRZP52GdScqiUgUK_!!2251059038.png\" width=\"865\" height=\"612\" damai_width=\"865\" damai_height=\"612\"><br>在那些苍翠的路上 历遍了多少创伤<br>在那张苍老的面上 亦记载了风霜<br>秋风秋雨的度日 是青春少年时<br>迫不得已的话别 没说 再见<br>——《大地》</p>\n<p>重回热血的现场<br>用歌声诠释我们心中的BEYOND</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN016Zx1dA2GdScsUhqcD_!!2251059038.png\" width=\"762\" height=\"591\" damai_width=\"762\" damai_height=\"591\"><br>演出乐队：五洲演艺Time乐队<br>主唱兼吉他手:午夜<br>他的声线无论说话唱歌都极像家驹<br>深受家驹歌迷喜欢<br>曾受邀参加全国各地Livehouse·音乐节·剧院·致敬Beyond的专场演出，每到之处都得到观众与驹迷们的好评，给大家留下深刻的印象！<br><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01DNndog2GdScjlmguw_!!2251059038.png\" width=\"780\" height=\"1170\" damai_width=\"780\" damai_height=\"1170\"><br>Beyond意为“超越”，这个充满传奇色彩的乐队<br>早已超越音乐的本身，它代表着一个时代的整体记忆<br>每当那个沙哑的声音响起，我们的灵魂都会为之一震<br>——这就是Beyond的力量<br><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01SlqeWg2GdScjljsJ0_!!2251059038.png\" width=\"864\" height=\"576\" damai_width=\"864\" damai_height=\"576\"><br>致敬传奇·纪念家驹<br>1993.6.30，是所有歌迷心中永远的痛<br>我们用歌声共同怀念心中永远的家驹<br>重温经典<br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01dwYJlQ2GdScqiUkiW_!!2251059038.png\" width=\"858\" height=\"644\" damai_width=\"858\" damai_height=\"644\"><br>本次演唱会的主唱“午夜”<br>他的声线无论是唱歌还是说话都像极了家驹<br>他和Time乐队用自己的音乐方式向“传奇”致敬</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN0131ics02GdScsUizLI_!!2251059038.png\" width=\"865\" height=\"866\" damai_width=\"865\" damai_height=\"866\"><br>也许，你没听过Beyond的现场<br>但“午夜”可以带领我们无数Beyond歌迷重温经典<br>一起致敬<br>让我们一起<br>致敬Beyond<br>致敬家驹<br>致敬传奇<br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ckxKpR2GdScsPorbf_!!2251059038.png\" width=\"864\" height=\"487\" damai_width=\"864\" damai_height=\"487\"><br><br></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN014T9vlK2GdScqc0Lzk_!!2251059038.png\" width=\"865\" height=\"865\" damai_width=\"865\" damai_height=\"865\"></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "合肥聚橙文化艺术发展有限公司",
+                            "socialCreditCode": "91340103MA8N0C2E2W",
+                            "legalPerson": "程学荣",
+                            "regCapStr": "100万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(非自然人投资或控股的法人独资)",
+                            "entAddress": "安徽省合肥市庐阳区北二环路与大房郢路交口东南角庐阳剧院一、二层"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一个订单对应一个证件；证件支持：外国人永久居留身份证/港澳台居民居住证/台湾居民来往大陆通行证/军官证/身份证/护照/港澳居民来往内地通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "10"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "李锐等"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "400"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "2",
+                    "credentials": [
+                        "1",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "3",
+                            "name": "军官证"
+                        },
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ]
+                },
+                "venue": {
+                    "venueId": "3310005",
+                    "venueName": "合肥庐阳剧院",
+                    "venueProvinceName": "安徽省",
+                    "venueCityName": "合肥市",
+                    "lng": 117.253131,
+                    "lat": 31.897884,
+                    "venueAddr": "北二环与大房郢路交口东南角",
+                    "showCountText": "共有5个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D827434772771%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "特惠选座",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1724299435000",
+                "sellStartTimeStr": "08月22日 12:03",
+                "priceRange": "¥50-¥280",
+                "performBases": [
+                    {
+                        "name": "12.21 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1734710400000",
+                        "performs": [
+                            {
+                                "performId": "215955441",
+                                "performName": "2024-12-21  周六 19:30",
+                                "itemId": "827434772771",
+                                "projectId": "221697083",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1734780600000",
+                                "performTime": "2024.12.21 19:30",
+                                "performStartDate": "2024-12-21",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "单人票可省140元"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "单人票",
+                        "content": "单人早鸟50元（原价100），可省50元\n单人早鸟80元（原价160），可省80元\n单人早鸟110元（原价220），可省110元\n单人早鸟140元（原价280），可省140元"
+                    }
+                ],
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "2976258",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "1611",
+                    "4939",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "promotionList": [
+                    {
+                        "type": "EARLY_BIRD",
+                        "tag": "早鸟",
+                        "isTagList": "false",
+                        "desc": "¥280票档，早鸟优惠5折，到手¥140"
+                    }
+                ],
+                "promotionDetail": {
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "1",
+                            "promotionGroupTypeDesc": "票档优惠",
+                            "promotionList": [
+                                {
+                                    "promotionType": "5",
+                                    "promotionTag": "早鸟",
+                                    "promotionContentList": [
+                                        "¥160票档，早鸟优惠5折，到手¥80",
+                                        "¥220票档，早鸟优惠5折，到手¥110",
+                                        "¥280票档，早鸟优惠5折，到手¥140",
+                                        "¥100票档，早鸟优惠5折，到手¥50"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "¥280",
+                                            "displayContent": "5折，到手¥140"
+                                        },
+                                        {
+                                            "skuName": "¥160",
+                                            "displayContent": "5折，到手¥80"
+                                        },
+                                        {
+                                            "skuName": "¥220",
+                                            "displayContent": "5折，到手¥110"
+                                        },
+                                        {
+                                            "skuName": "¥100",
+                                            "displayContent": "5折，到手¥50"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "true",
+                "earlyBirdVO": {
+                    "priceRange": "¥50-¥280",
+                    "showTips": "false",
+                    "countdown": "78230023"
+                },
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "1",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8274347727/2/827434772771.jpg"
+            }
+        }
+    }
+}
