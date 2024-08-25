@@ -1,0 +1,616 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：周震南、辛晓琪、信乐团、杨宗纬、天堂乐队、校长张驰",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "2495",
+    "cityname": "石家庄",
+    "couponTags": "[]",
+    "description": "艺人：周震南、辛晓琪、信乐团、杨宗纬、天堂乐队、校长张驰",
+    "id": "1_1_827277419398",
+    "imgurl": "-317160399",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "摇滚之夜群星演唱会",
+    "nameNoHtml": "摇滚之夜群星演唱会",
+    "price": "380.0",
+    "price_str": "380-1280",
+    "pricehigh": "1280.0",
+    "privilegeTags": "[]",
+    "projectid": "827277419398",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.09.16 周一 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "石家庄市裕彤国际体育中心体育场",
+    "venuecity": "石家庄",
+    "venueid": "1034",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Xm2wjH2GdScu21gdT_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "827277419398",
+                    "itemName": "【石家庄】摇滚之夜群星演唱会",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "130100",
+                    "cityName": "石家庄市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Xm2wjH2GdScu21gdT_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Xm2wjH2GdScu21gdT_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN014KbUOe2GdScutnxwc_!!2251059038.png",
+                    "seatImages": [
+                        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN014KbUOe2GdScutnxwc_!!2251059038.png"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "2024.09.16 周一 19:30",
+                    "showDuration": "以现场为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。",
+                            "tagType": "2",
+                            "renderType": "2",
+                            "tagDescJson": "{\"generalNote\":\"该演出支持退票，您可以在【我的-订单详情页】中申请退票，退票需要收取手续费，具体规则如下；\",\"performRules\":[{\"rules\":[{\"endTime\":1725102000000,\"ruleStage\":2,\"ruleType\":2,\"startTime\":1724583600000},{\"endTime\":1725793200000,\"ruleFeeBP\":3000,\"ruleStage\":1,\"ruleType\":1,\"startTime\":1725102000000},{\"ruleStage\":1,\"ruleType\":4,\"startTime\":1725793200000}]}],\"refundProcedureFeeRule\":1}",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：保定云凯中合信息科技有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：保定云凯中合信息科技有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "2495",
+                    "atomSplit": "1",
+                    "isHotProject": "true",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01kG6bng2GdScwphydy_!!2251059038.png\" width=\"678\" height=\"796\" damai_width=\"678\" damai_height=\"796\"></p>\n<p style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ZkaXjH2GdScxbnksQ_!!2251059038.png\" width=\"679\" height=\"300\" damai_width=\"679\" damai_height=\"300\"></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: center;\">迎中秋 9.16摇滚之夜演唱会<br><strong>摇滚歌迷专享</strong>嘉年华音乐现场<br>周震南、辛晓琪、信乐团、杨宗纬、天堂乐队、彭十六、花僮、校长张驰等华语乐坛摇滚巨星强势加盟<br>国内顶级摇滚歌手<br>打造石家庄摇滚之城市知名片<br><br><strong>【演唱会专属畅游】</strong><br>这不仅仅是一场演唱会，更是一次前所未有的摇滚豪华派对！本次摇滚音乐仅对演唱会购票观众开放。我们邀请您一同登上这艘音乐巨轮，开启一场歌迷航母专属音乐嘉年华！<br>我们承诺，演唱会全场歌手倾情演唱，绝无其他演员占用演唱时间！万人共赏沉浸式视听盛宴，带上你特别想在现场感受的歌单、歌词本，和你喜欢的明星在轻柔的海风中大声合唱！<br>9月16日“摇滚之夜”，群星璀璨，引爆全城！ <br>这个金秋，热烈，自由。<br>夏天的热浪中，共赴一场摇滚之约。<br>晚19:30分 让我们共赴星辰大海！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01UJJj9W2GdScsqrjvm_!!2251059038.jpg\" width=\"510\" height=\"696\" damai_width=\"510\" damai_height=\"696\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01mHMf8W2GdScsidEYU_!!2251059038.jpg\" width=\"610\" height=\"407\" damai_width=\"610\" damai_height=\"407\"></p>\n<p><br><strong>嘉宾介绍</strong><br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ojC8wp2GdSclJSomk_!!2251059038.jpg\" width=\"425\" height=\"564\" damai_width=\"425\" damai_height=\"564\"><br>周震南<br>腾讯视频音乐真人秀节目《潮音战纪》年度总冠军<br>腾讯视频偶像选秀节目《创造营2019》冠军<br>腾讯视频偶像选秀节目《创造营2021》并担任“发起人团成员<br>《2019福布斯中国》30位30岁以下精英榜 《2020福布<br>斯中国名人榜》第46位<br>智族GQ Men Of The Year 年度人物盛典 年度团体奖<br>亚洲新歌榜度盛典年度最受欢迎新团体奖<br>时尚COSMO“传承·美”年度团体奖<br>TMEA腾讯音乐娱乐盛典年度最佳团体专辑奖<br>腾讯视频星光大赏 年度节目新锐之星<br>腾讯娱乐白皮书 星推榜年度新势力艺人<br>腾讯公益“99公益日”活动召集人<br>时尚界新宠儿合作拍摄：OK！精彩 时尚芭莎 南都娱乐周刊 城市画报 红秀GRAZIA 时尚先生 fine VOGUE ME NYlON尼龙 等国内外知名刊物<br>综艺节目“常驻嘉宾”：来看我们的演唱会 少年说唱企划 哈哈哈哈哈哈（第三季》中国说唱巅峰对决 少年行等<br><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01M0DzZr2GdScw99sS0_!!2251059038.jpg\" width=\"475\" height=\"630\" damai_width=\"475\" damai_height=\"630\"><br>杨宗纬<br>音乐代表作：洋葱 凉凉 其实都没有 一次就好 那个男人 我变了我没变 越过山丘等<br>荣获奖项：第一届超级星光大道人气王<br>新加坡金曲奖最受欢迎男歌手<br>金钟奖中国音超冠军歌王<br>第25届《东方风云榜》音乐盛典十大金曲<br>第18届全球华语榜中榜最具突破力歌手<br>新城国语力颁奖礼2014全球最受欢迎男歌手<br>新城国语力颁奖礼2014最佳年度歌曲等<br>综艺节目“常驻”嘉宾：优酷视频“追光吧”<br>湖南卫视“声声不息”宝岛季<br>湖南卫视“声生不息”金曲盛典舞台<br>浙江卫视“天赐的声音”第五季<br>抖音视频“为歌而战”追光吧<br>演唱会记录：星空传奇2008<br>《星光传奇》One Million Star Concert<br>完美好声音云顶演唱会<br>“带一首诗来”世界巡回演唱会<br>“声声声声”Vocal巡唱<br><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01n4g9po2GdScqtPWVy_!!2251059038.jpg\" width=\"469\" height=\"622\" damai_width=\"469\" damai_height=\"622\"><br>辛晓琪<br>音乐代表作：味道 承认 我也会爱上别人的 领悟 女人何苦为难女人等<br>荣获奖项：三次入围金曲奖最佳国语女演唱人<br>中时晚报年度最佳女歌手<br>香港年度十大中文金曲<br>国时报主办票选十大歌手<br>中歌榜华语歌坛杰出成就大奖<br>音乐先锋榜年度最佳专辑<br>MTV全球华语音乐盛典最佳专辑奖 等<br>综艺节目“常驻”嘉宾：湖南卫视“天天向上”<br>湖南卫视“声声不息”宝岛季<br>台湾TV“康熙来了”<br>腾讯视频“小燕有约”疗伤歌后辛晓琪<br>东南卫视“鲁豫有约”<br>演唱会记录：辛晓琪“人生若只如初见”巡回演唱会<br>遇见快乐—辛晓琪全国巡回个人演唱会<br>“辛晓琪爱的味道上海演唱会”<br>““辛晓琪97女人女人超级旗舰演唱会<br>辛晓琪“永远”音乐会</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01AvZU9h2GdScvab4sy_!!2251059038.jpg\" width=\"504\" height=\"669\" damai_width=\"504\" damai_height=\"669\"></p>\n<p>校长（张驰）<br>音乐代表作：带去你旅行 人生态度 甜了个蜜 过得好吗 肆意乘风等<br>荣获奖项：CCTV3“英雄儿女”年度中冠军<br>歌曲《带你去旅行》虎牙13周榜单冠军<br>亚洲音乐盛典年度网络歌手<br>酷狗音乐乐队十大歌曲<br>亚洲红人榜杰出歌手大奖<br>音乐榜上榜第三十期最佳歌手<br>斗鱼视频十佳歌曲演唱歌手 等<br>综艺节目“常驻”嘉宾：央视CCTV3“喜上加喜”<br>虎牙APP“虎林唱将“<br>酷狗音乐“直播首唱会”<br>CCTV3“英雄儿女”<br>CCTV15“音乐榜上榜”</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN012gsdRv2GdScstnbLN_!!2251059038.jpg\" width=\"538\" height=\"714\" damai_width=\"538\" damai_height=\"714\"></p>\n<p>信乐团<br>音乐代表作:死了都要爱 离歌 海阔天空 假如 天高地厚 世界末日等<br>荣获奖项:《60年金曲大赏》总决选十大金曲《60年金曲大赏》总决选冠军金曲“娱乐中国·2006星光大典”最受欢迎乐团奖中国原创歌曲奖”最佳乐队组合奖第六届金曲榜最佳乐团<br>亚洲音乐盛典“年度最佳乐团”酷狗音乐年度盛典“年度传媒推荐乐团”等综艺节目“常驻”嘉宾:CCTV3《中华情》CCTV15《音乐厅》湖南卫视“我是歌手”CCTV15《音乐榜上榜》等演唱会记录:信乐团\"\"伟大信仰\"\"巡回演唱会“绵阳蝉躁音乐节”信乐团2005 台北OneNight演唱会<br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01uVOapl2GdScsqxVqX_!!2251059038.jpg\" width=\"441\" height=\"585\" damai_width=\"441\" damai_height=\"585\"><br>天堂乐队<br>音乐代表作:<br>经过 老谁小谁 慈悲 这世界要往哪里去 赵家老哥等<br>荣获奖项:东方音乐风云榜“最佳乐队’《60年金曲大赏》总决选冠军金曲“娱乐中国·2006星光大典”最受欢迎乐团奖中国原创歌曲奖”最佳乐队组合奖第六届金曲榜最佳乐团亚洲音乐盛典“年度最佳乐团”酷狗音乐年度盛典“年度传媒推荐乐团”等综艺节目“常驻”嘉宾:CCTV1《同一首歌》山西电视台春晚江苏丹阳电视台圣诞晚会中央电视台《想挑战吗》等<br>演唱会记录:北京摇滚音乐会《皇城根儿》天堂乐队15周年爱心演唱会举办首届摇滚春节联欢演唱会深圳欢乐海岸跨年音乐会《跨越》摇滚专场天堂乐队《辉煌20周年之永远年轻》专场巡回演出等</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01JjjK5d2GdScqYpIWP_!!2251059038.jpg\" width=\"506\" height=\"672\" damai_width=\"506\" damai_height=\"672\"></p>\n<p>彭十六<br>音乐代表作:戏影 遇见一个你 绝境的花 一个人诀 空洞等<br>荣获奖项:艾媒金榜年度TOP50新人全网流媒体2400万粉丝 等娱乐红人榜“年度新人”亚洲音乐盛典“最具潜力新人东方风云榜“传媒推荐新人\"深圳音乐之城“流媒体TOP10新人”等<br>综艺节目“常驻”嘉宾:2022-2023湖南卫视跨年晚会辽宁电视台春晚海南旅游频道《我想去世界》中央电视台《一起音乐吧》等<br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN013RGw7H2GdScv1cQin_!!2251059038.jpg\" width=\"509\" height=\"674\" damai_width=\"509\" damai_height=\"674\"><br>花僮<br>音乐代表作:笑纳 浪子闲话 遥远的你 爱情会说谎 不如来饮酒等<br>荣获奖项:CCTV星光大道周冠军CCTV 星光大道月冠军:北京卫视《最美和声》全国48强第四届华语音乐排行榜“最佳新人”等综艺节目“常驻”嘉宾:CCTV15中《国情歌汇》CCTV 星光大道北京卫视《最美和声》CCTV15《音乐榜上榜》等演唱会记录:文山中秋晚会群星演唱会华人华侨春节联欢晚会演唱会酷狗音乐年会演唱会等</p>\n<p>摇滚之夜降临。<br>燃！<br>燥！<br>为了自由的灵魂而歌！</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "保定云凯中合信息科技有限公司",
+                            "socialCreditCode": "91130627MAD6NR6X35",
+                            "legalPerson": "和俊恩",
+                            "regCapStr": "100万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "河北省保定市唐县高昌镇东高昌村东保阜路南侧(富华大酒店院内)"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/护照/外国人永久居留身份证/港澳台居民居住证/港澳居民来往内地通行证/身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "26"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "周震南、辛晓琪、信乐团、杨宗纬、天堂乐队、彭十六、花僮、校长张驰"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "150分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "有寄存处,具体位置请联系现场工作人员。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "1034",
+                    "venueName": "石家庄市裕彤国际体育中心体育场",
+                    "venueProvinceName": "河北省",
+                    "venueCityName": "石家庄市",
+                    "lng": 114.534987,
+                    "lat": 38.041871,
+                    "venueAddr": "河北省石家庄市体育南大街",
+                    "showCountText": "共有2个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D827277419398%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "95894028",
+                        "artistName": "周震南",
+                        "archives": "中国内地流行乐男歌手，男子演唱组合R1SE队长及C位",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1626746884909/1626746884909-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "2459",
+                        "artistName": "辛晓琪",
+                        "archives": "中国台湾女歌手、制作人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1714482602417/1714482602417-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "2733",
+                        "artistName": "信乐团",
+                        "archives": "中国台湾摇滚乐队。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1705047990130/1705047990130-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "2004",
+                        "artistName": "杨宗纬",
+                        "archives": "中国台湾男歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413403260/1534413403260-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "131527021",
+                        "artistName": "天堂乐队",
+                        "archives": "中国元老级摇滚乐队之一",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1659089571044/1659089571044-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "27646057166",
+                        "artistName": "校长张驰",
+                        "archives": "2017年8月，发布歌曲《带你去旅行》。同年12月，推出歌曲《守护你》。\n12月28日参加“丝路凝聚力盛典”获得了“2017年度凝聚力新锐歌手奖”。2018年8月，与中国当代视觉艺术家辜怡豪合作拍摄《我不是宝宝》歌曲MV。2017-12-28 获得新锐歌手奖。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1695777857343/1695777857343-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "95894028",
+                        "name": "周震南",
+                        "desc": "中国内地流行乐男歌手，男子演唱组合R1SE队长及C位",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1626746884909/1626746884909-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "2459",
+                        "name": "辛晓琪",
+                        "desc": "中国台湾女歌手、制作人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1714482602417/1714482602417-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "2733",
+                        "name": "信乐团",
+                        "desc": "中国台湾摇滚乐队。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1705047990130/1705047990130-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "2004",
+                        "name": "杨宗纬",
+                        "desc": "中国台湾男歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413403260/1534413403260-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "131527021",
+                        "name": "天堂乐队",
+                        "desc": "中国元老级摇滚乐队之一",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1659089571044/1659089571044-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "27646057166",
+                        "name": "校长张驰",
+                        "desc": "2017年8月，发布歌曲《带你去旅行》。同年12月，推出歌曲《守护你》。\n12月28日参加“丝路凝聚力盛典”获得了“2017年度凝聚力新锐歌手奖”。2018年8月，与中国当代视觉艺术家辜怡豪合作拍摄《我不是宝宝》歌曲MV。2017-12-28 获得新锐歌手奖。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1695777857343/1695777857343-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "152",
+                    "wantNumStr": "152",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i2/O1CN018aua481exC051EFzr_!!6000000003937-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/128585/25717170.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01xaKrwg1sZkLQhsrPN_!!6000000005781-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/846413/169282755.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01r0ZMup1vQzcdFJguf_!!6000000006168-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即预订",
+                "buyBtnOrigin": "16",
+                "sellStartTime": "1724583600000",
+                "sellStartTimeStr": "08月25日 19:00",
+                "priceRange": "¥380-¥1280",
+                "performBases": [
+                    {
+                        "name": "09.16 周一",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1726416000000",
+                        "performs": [
+                            {
+                                "performId": "216065045",
+                                "performName": "2024-09-16  周一 19:30",
+                                "itemId": "827277419398",
+                                "projectId": "221779007",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1726486200000",
+                                "performTime": "2024.09.16 19:30",
+                                "performStartDate": "2024-09-16",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售，正式开票后将第一时间配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "2976258",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "388674",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "23883",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "9867",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8272774193/2/827277419398.jpg"
+            }
+        }
+    }
+}
