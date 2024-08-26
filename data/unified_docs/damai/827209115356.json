@@ -1,0 +1,83 @@
+{
+    "platform": "大麦",
+    "project_id": "827209115356",
+    "project_name": "朱添泽2024《我该用什么状态告诉你》专场巡演 武汉站",
+    "category_name": "演唱会",
+    "artists": [
+        "朱添泽"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.15 周日 20:30",
+    "session_time": [],
+    "price": "60-80",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "武汉",
+    "venue_name": "持续板沙LiveHouse",
+    "venue_info": {
+        "venue_address": "卓刀泉街道虎泉街267号五环天地2-3-B01号商铺",
+        "lng": 114.379869,
+        "lat": 30.506643
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN013vIoJZ2GdScucig1H_!!2251059038.png",
+        "null",
+        "null",
+        "null",
+        "null",
+        "null",
+        "null",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01SSGW7T2GdScqGFGu6_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "823803447353",
+            "cityName": "郑州站",
+            "showTime": "09.01"
+        },
+        {
+            "itemId": "825219130874",
+            "cityName": "日照站",
+            "showTime": "09.02"
+        },
+        {
+            "itemId": "826593235783",
+            "cityName": "淄博站",
+            "showTime": "09.07"
+        },
+        {
+            "itemId": "824347256520",
+            "cityName": "天津站",
+            "showTime": "09.08"
+        },
+        {
+            "itemId": "827209115356",
+            "cityName": "武汉站",
+            "showTime": "09.15"
+        },
+        {
+            "itemId": "822064767174",
+            "cityName": "合肥站",
+            "showTime": "09.16"
+        },
+        {
+            "itemId": "824197087325",
+            "cityName": "济南站",
+            "showTime": "09.17"
+        },
+        {
+            "itemId": "824188181310",
+            "cityName": "长沙站",
+            "showTime": "09.20"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=827209115356"
+}

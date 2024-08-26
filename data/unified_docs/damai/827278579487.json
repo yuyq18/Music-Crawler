@@ -1,0 +1,72 @@
+{
+    "platform": "大麦",
+    "project_id": "827278579487",
+    "project_name": "“The Real Street Banger ！真·街霸”李尔新2024巡演呼和浩特站",
+    "category_name": "演唱会",
+    "artists": [
+        "李尔新"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.27 周五 20:00",
+    "session_time": [],
+    "price": "160-220",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "呼和浩特",
+    "venue_name": "新思路 WHOHOT LIVEHOUSE",
+    "venue_info": {
+        "venue_address": "内蒙古呼和浩特市赛罕区展东路尚好家快捷酒店南巷内100米",
+        "lng": 111.725836,
+        "lat": 40.82091
+    },
+    "project_info": "活动介绍：",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01OWEJv42GdScrCOHhC_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01FV8bze2GdScpOQ6Zk_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "58",
+        "wantNumStr": "58",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "827278579487",
+            "cityName": "呼和浩特站",
+            "showTime": "09.27"
+        },
+        {
+            "itemId": "814827779307",
+            "cityName": "南宁站",
+            "showTime": "08.30"
+        },
+        {
+            "itemId": "815144721938",
+            "cityName": "石家庄站",
+            "showTime": "09.14"
+        },
+        {
+            "itemId": "814977718844",
+            "cityName": "青岛站",
+            "showTime": "09.16"
+        },
+        {
+            "itemId": "822878160923",
+            "cityName": "上海站",
+            "showTime": "09.22"
+        },
+        {
+            "itemId": "822741685861",
+            "cityName": "北京站",
+            "showTime": "09.30"
+        },
+        {
+            "itemId": "822413003916",
+            "cityName": "佛山站",
+            "showTime": "时间待定"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=827278579487"
+}
