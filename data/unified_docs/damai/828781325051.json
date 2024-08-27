@@ -1,0 +1,53 @@
+{
+    "platform": "大麦",
+    "project_id": "828781325051",
+    "project_name": "【加场】卓沅2024「专属记忆」巡回演唱会-合肥站",
+    "category_name": "演唱会",
+    "artists": [
+        "卓沅（张钥沅）"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.06 周五 20:00",
+    "session_time": [],
+    "price": "366-616",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "合肥",
+    "venue_name": "合肥骆岗公园大机库演艺中心",
+    "venue_info": {
+        "venue_address": "合肥市包河区大连路与园博大道交口骆岗中央公园园博小镇一期s6区1号楼",
+        "lng": 117.314578,
+        "lat": 31.773748
+    },
+    "project_info": "\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01wpISzK2GdScwSv6Ja_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01kguSE62GdScpVGpzk_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01yhl54k2GdScvGKwnT_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "28015",
+        "wantNumStr": "2.8万",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "828781325051",
+            "cityName": "合肥站",
+            "showTime": "09.06"
+        },
+        {
+            "itemId": "822218884620",
+            "cityName": "合肥站",
+            "showTime": "09.07"
+        },
+        {
+            "itemId": "822064668292",
+            "cityName": "成都站",
+            "showTime": "09.20"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=828781325051"
+}
