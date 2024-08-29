@@ -1,0 +1,319 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1038",
+    "cityname": "南京",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_828948466207",
+    "imgurl": "-300449930",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "世界十大爵士鼓手之一Ari Hoenig 携爵士新生代顶级吉他手Tom Ollendorff中国巡演-南京站",
+    "nameNoHtml": "世界十大爵士鼓手之一Ari Hoenig 携爵士新生代顶级吉他手Tom Ollendorff中国巡演-南京站",
+    "price": {
+        "range": "200-220"
+    },
+    "price_str": "200-220",
+    "pricehigh": "220.0",
+    "privilegeTags": "[]",
+    "projectid": "828948466207",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.09.10 周二 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": {
+        "lat": 31.97058,
+        "lng": 118.764344,
+        "region": "1",
+        "showCountText": "4个演出",
+        "venueAddr": "南京市雨花台区安德门大街57号楚翘城",
+        "venueCityName": "南京市",
+        "venueId": "5901001",
+        "venueName": "1701 Mini Bar",
+        "venueProvinceName": "江苏省"
+    },
+    "venuecity": "南京",
+    "venueid": "5901001",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01bTS2tN2GdSd1r8Ip4_!!2-item_pic.png",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "",
+            "entAddress": "",
+            "entType": "",
+            "legalPerson": "",
+            "opFrom": "",
+            "opTo": "",
+            "regCapStr": "",
+            "socialCreditCode": ""
+        }
+    },
+    "buyButton": {
+        "origin": "1",
+        "status": "204",
+        "text": "立即购买"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><section class=\"js_darkmode__1\" data-style=\"text-decoration: none; margin: 10px 0px; padding: 0px; outline: 0px; max-width: 100%; color: rgb(176, 205, 251); font-size: 14px; letter-spacing: 1px; text-align: justify; visibility: visible; font-family: Optima-Regular, PingFangTC-light; box-sizing: border-box !important; overflow-wrap: break-word !important;\">\n<section class=\"js_darkmode__2\" data-style=\"margin: 0px; padding: 0px; outline: 0px; max-width: 100%; text-align: center; font-size: 18px; color: rgb(255, 255, 255); line-height: 1.8; visibility: visible; text-shadow: rgb(40, 40, 40) 0.056em 0.056em 0em, rgb(40, 40, 40) 0.056em -0.056em 0em, rgb(40, 40, 40) -0.056em 0.056em 0em, rgb(40, 40, 40) -0.056em -0.056em 0em, rgb(40, 40, 40) 0em 0.078em 0em, rgb(40, 40, 40) 0em -0.078em 0em, rgb(40, 40, 40) -0.078em 0em 0em, rgb(40, 40, 40) 0.078em 0em 0em, rgb(152, 179, 198) 0.111em 0.111em 0em, rgb(152, 179, 198) 0.167em 0.167em 0em, rgb(152, 179, 198) 0.167em 0.056em 0em, rgb(152, 179, 198) 0.056em 0.167em 0em, rgb(152, 179, 198) 0.056em 0.056em 0em, rgb(152, 179, 198) 0.111em 0.189em 0em, rgb(152, 179, 198) 0.111em 0.033em 0em, rgb(152, 179, 198) 0.033em 0.111em 0em, rgb(152, 179, 198) 0.189em 0.111em 0em; font-family: \">\n<p style=\"text-align: left;\"><span style=\"font-size: 16px;\"><strong><em><span class=\"js_darkmode__7\" data-style=\"color: rgb(255, 255, 255); font-size: 18px; letter-spacing: 1px; text-shadow: rgb(40, 40, 40) 0.056em 0.056em 0em, rgb(40, 40, 40) 0.056em -0.056em 0em, rgb(40, 40, 40) -0.056em 0.056em 0em, rgb(40, 40, 40) -0.056em -0.056em 0em, rgb(40, 40, 40) 0em 0.078em 0em, rgb(40, 40, 40) 0em -0.078em 0em, rgb(40, 40, 40) -0.078em 0em 0em, rgb(40, 40, 40) 0.078em 0em 0em, rgb(152, 179, 198) 0.111em 0.111em 0em, rgb(152, 179, 198) 0.167em 0.167em 0em, rgb(152, 179, 198) 0.167em 0.056em 0em, rgb(152, 179, 198) 0.056em 0.167em 0em, rgb(152, 179, 198) 0.056em 0.056em 0em, rgb(152, 179, 198) 0.111em 0.189em 0em, rgb(152, 179, 198) 0.111em 0.033em 0em, rgb(152, 179, 198) 0.033em 0.111em 0em, rgb(152, 179, 198) 0.189em 0.111em 0em; font-family: \">Rising Edge Presents</span></em></strong></span></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 16px;\"><strong><em>瑞声荣誉呈现</em></strong></span></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 16px;\"><strong><em>世界十大爵士鼓手之一<span class=\"wx_search_keyword_wrap\">Ari Hoenig</span></em></strong></span></p>\n</section>\n</section>\n<section class=\"js_darkmode__3\" data-style=\"text-decoration: none; margin: 10px 0px; padding: 0px; outline: 0px; max-width: 100%; color: rgb(176, 205, 251); font-size: 14px; letter-spacing: 1px; text-align: justify; visibility: visible; font-family: Optima-Regular, PingFangTC-light; box-sizing: border-box !important; overflow-wrap: break-word !important;\">\n<section class=\"js_darkmode__4\" data-style=\"margin: 0px; padding: 0px; outline: 0px; max-width: 100%; text-align: center; font-size: 18px; color: rgb(255, 255, 255); line-height: 1.8; visibility: visible; text-shadow: rgb(40, 40, 40) 0.056em 0.056em 0em, rgb(40, 40, 40) 0.056em -0.056em 0em, rgb(40, 40, 40) -0.056em 0.056em 0em, rgb(40, 40, 40) -0.056em -0.056em 0em, rgb(40, 40, 40) 0em 0.078em 0em, rgb(40, 40, 40) 0em -0.078em 0em, rgb(40, 40, 40) -0.078em 0em 0em, rgb(40, 40, 40) 0.078em 0em 0em, rgb(152, 179, 198) 0.111em 0.111em 0em, rgb(152, 179, 198) 0.167em 0.167em 0em, rgb(152, 179, 198) 0.167em 0.056em 0em, rgb(152, 179, 198) 0.056em 0.167em 0em, rgb(152, 179, 198) 0.056em 0.056em 0em, rgb(152, 179, 198) 0.111em 0.189em 0em, rgb(152, 179, 198) 0.111em 0.033em 0em, rgb(152, 179, 198) 0.033em 0.111em 0em, rgb(152, 179, 198) 0.189em 0.111em 0em; font-family: \">\n<p><span style=\"font-size: 16px;\"><strong><em>爵士新生代顶级吉他手Tom Ollendorff</em></strong></span></p>\n</section>\n</section>\n<section class=\"js_darkmode__5\" data-style=\"text-decoration: none; margin: 10px 0px; padding: 0px; outline: 0px; max-width: 100%; color: rgb(176, 205, 251); font-size: 14px; letter-spacing: 1px; text-align: justify; visibility: visible; font-family: Optima-Regular, PingFangTC-light; box-sizing: border-box !important; overflow-wrap: break-word !important;\">\n<section class=\"js_darkmode__6\" data-style=\"margin: 0px; padding: 0px; outline: 0px; max-width: 100%; text-align: center; font-size: 18px; color: rgb(255, 255, 255); line-height: 1.8; visibility: visible; text-shadow: rgb(40, 40, 40) 0.056em 0.056em 0em, rgb(40, 40, 40) 0.056em -0.056em 0em, rgb(40, 40, 40) -0.056em 0.056em 0em, rgb(40, 40, 40) -0.056em -0.056em 0em, rgb(40, 40, 40) 0em 0.078em 0em, rgb(40, 40, 40) 0em -0.078em 0em, rgb(40, 40, 40) -0.078em 0em 0em, rgb(40, 40, 40) 0.078em 0em 0em, rgb(152, 179, 198) 0.111em 0.111em 0em, rgb(152, 179, 198) 0.167em 0.167em 0em, rgb(152, 179, 198) 0.167em 0.056em 0em, rgb(152, 179, 198) 0.056em 0.167em 0em, rgb(152, 179, 198) 0.056em 0.056em 0em, rgb(152, 179, 198) 0.111em 0.189em 0em, rgb(152, 179, 198) 0.111em 0.033em 0em, rgb(152, 179, 198) 0.033em 0.111em 0em, rgb(152, 179, 198) 0.189em 0.111em 0em; font-family: \">\n<p style=\"text-align: left;\"><span style=\"font-size: 16px;\"><strong><em>中国巡演 &nbsp;- 南京站</em></strong></span></p>\n</section>\n</section>\n<p>&nbsp;</p>\n<p><strong><em>阵容介绍：</em></strong></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01FlOuwd2GdScyWNlb6_!!2251059038.jpg\" alt=\"\" width=\"320\" height=\"480\" damai_width=\"null\" damai_height=\"null\"></p>\n<p><span style=\"font-size: 16px;\"><strong><span class=\"js_darkmode__12\" data-style=\"font-weight: 400; color: rgb(89, 89, 89); font-size: 14px; text-shadow: none; letter-spacing: 1px; font-family: Optima-Regular, PingFangTC-light;\">Ari Hoenig 爵士鼓手 / 作曲家 / 教育家</span></strong></span></p>\n<p><span class=\"js_darkmode__13\" data-style=\"font-weight: 400; color: rgb(89, 89, 89); font-size: 14px; text-shadow: none; letter-spacing: 1px; font-family: Optima-Regular, PingFangTC-light;\">世界十大爵士鼓手之一</span></p>\n<p><span class=\"js_darkmode__13\" data-style=\"font-weight: 400; color: rgb(89, 89, 89); font-size: 14px; text-shadow: none; letter-spacing: 1px; font-family: Optima-Regular, PingFangTC-light;\">他可以通过鼓和身体部位演奏任何旋律</span></p>\n<p><span class=\"js_darkmode__14\" data-style=\"font-weight: 400; color: rgb(89, 89, 89); font-size: 14px; text-shadow: none; letter-spacing: 1px; font-family: Optima-Regular, PingFangTC-light;\">以其不同寻常的强烈演奏方式而闻名</span></p>\n<section>\n<p>被法国《鼓手杂志》称为是<strong>架子鼓</strong><strong>魔术师</strong>的他，被JAZZ TIMES、Time Out New York、Downbeat Magazine、ALL ABOUT JAZZ等多家爵士领域权威媒体和杂志争相报道。</p>\n</section>\n<p><em>“Ari Hoenig 是爵士乐中最狂热、最振奋、最有音乐天赋的鼓手之一。”</em></p>\n<section>\n<section class=\"js_darkmode__16\" data-style=\"display: inline-block; width: 100%; vertical-align: top; background-color: rgba(255, 255, 255, 0); padding-top: 41px; padding-right: 33px; padding-left: 33px; align-self: flex-start; flex: 0 0 auto; border-style: solid; border-width: 0px; border-color: rgb(152, 179, 198);\">\n<section>\n<p><em>- JAZZ TIMES</em></p>\n</section>\n<section>\n<p><em>“他掌握了各种节奏，涓涓细流般的节奏渗入所有缝隙，他定期改变节奏，时而倾泻而出，时而戛然而止，时而改变重点，时而细分，时而重新聚焦，时而跟随旋律起舞。”</em></p>\n</section>\n<section>\n<p><em>- Ben Ratliff, New York Times</em></p>\n</section>\n<section>\n<p><em>“他的风格的特点是清脆的进攻和快速的专注的反应。”</em></p>\n</section>\n<section>\n<p><em>- Nate Chinen, NEW YORK TIMES</em></p>\n</section>\n<section>\n<p><em>后波普乐的冒险家Ari Hoenig 把爵士鼓表演变成了惊心动魄的走钢丝表演。</em></p>\n</section>\n<section>\n<p><em>- Time Out New York &nbsp; &nbsp; &nbsp; &nbsp;</em></p>\n<p>&nbsp;Ari Hoenig是当今爵士鼓坛最擅长打鼓打出完整旋律的。尽管在许多人看来，架子鼓是一种“辅助乐器”，是用来衬托其他乐器的，但这位当代爵士鼓神却创意十足地把鼓玩成了足可独奏的乐器。在多次现场和专辑中，Ari Hoenig对架子鼓的不同部位进行敲击，通过探索之间产生的音高，演奏出了一首首由鼓形成主旋律的作品。站在Elvin Jones、Art Blakey、Max Roach等巨人的肩膀上，中生代爵士鼓大师Ari Hoenig不仅是个懂得划分、定义时间的节奏好手，还是个音高强者，他对用鼓棒、鼓刷甚至是自己的皮肤在架子鼓上创造声音，甚至完美音高，很有一套。不难想象，为什么法国《鼓手杂志》称其为架子鼓后的“魔术师”。</p>\n<p>Ari Hoenig 是一位备受赞誉的现代爵士鼓手，他的音乐风格和创意备受赞赏。他不断推陈出新，展现了非凡的鼓技和创造力，被誉为现代爵士鼓手中最具影响力的人之一。他在演奏中注重细节和表现力，不断探索新的节奏和音乐元素，同时保持着强大的稳定感和音乐性。除了作为出色的演奏家，Hoenig也是一位杰出的教育家和作曲家，他的\"十条\" 理念对于爵士鼓手和音乐教育具有重要意义。</p>\n<p>Ari Hoenig是他那一代人中最受欢迎的鼓手之一。他在一百多张唱片中出现过，并与各种各样的艺术家合作，包括吉他手Mike Stern, Pat Martino, Wayne Krantz 和Kurt Rosenwinkel、 Gilad Hekselman &nbsp; 萨克斯管演奏家Joshua Redman、贝斯手、歌手Richard Bona等。他与代表三代无限爵士创造力的钢琴家们建立了深厚的情谊，包括：Billy Childs, Kenny Werner, Jean-Michel Pilc 和Tigran Hamasyan。他的才华与影响力使得他在现代爵士音乐领域有着很高的声誉和地位。</p>\n<p><iframe src=\"https://v.qq.com/txp/iframe/player.html?vid=o3559je6f53\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>&nbsp;</p>\n</section>\n</section>\n</section>\n<p><span class=\"js_darkmode__14\" data-style=\"font-weight: 400; color: rgb(89, 89, 89); font-size: 14px; text-shadow: none; letter-spacing: 1px; font-family: Optima-Regular, PingFangTC-light;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01cQDjsq2GdScxlR14L_!!2251059038.jpg\" alt=\"\" width=\"320\" height=\"180\" damai_width=\"null\" damai_height=\"null\"></span></p>\n<p><span class=\"js_darkmode__14\" data-style=\"font-weight: 400; color: rgb(89, 89, 89); font-size: 14px; text-shadow: none; letter-spacing: 1px; font-family: Optima-Regular, PingFangTC-light;\"><iframe src=\"https://v.qq.com/txp/iframe/player.html?vid=z35598wj5p7\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></span></p>\n<p><span style=\"font-size: 16px;\"><strong>Tom Ollendorff 汤姆</strong><strong>&nbsp;</strong><strong>奥兰多夫（吉他）</strong></span></p>\n<p><span class=\"js_darkmode__14\" data-style=\"font-weight: 400; color: rgb(89, 89, 89); font-size: 14px; text-shadow: none; letter-spacing: 1px; font-family: Optima-Regular, PingFangTC-light;\">“富有想象力和天赋”的Tom Ollendorff是来自伦敦的爵士吉他手，毕业于皇家威尔士音乐戏剧学院，曾与多名英国顶尖爵士音乐家合作。他于2015年获得享有盛誉的雅马哈爵士乐奖学金，赴美师从世界知名吉他演奏家Gilad Hekselman和Lage Lund，被誉为〝世界上最优秀的吉他手之一〞。Tom Ollendorff的第二张专辑Open House简短而精彩。精致与精湛的音乐才能，既牵动着心弦，又令人激动不已。 2021年，他的首张专辑《献给你的歌》在Fresh Sound Records发行，并获得了国际赞誉，《卫报》将其描述为“传统但非常优雅”，穆西卡爵士乐队称这是“强烈推荐给那些关心爵士吉他命运的人的专辑”，英国广播公司音乐杂志和《爵士杂志》均授予其4星评价。 这张专辑的发行开启了汤姆的国际巡演生涯，他曾在欧洲许多最著名的俱乐部和音乐节上表演。他的最新专辑《Open House》于2023年5月发行，延续了他与长期三人组的合作，Marc Michel担任鼓手，Conor Chaplin担任贝斯手，广受好评的萨克斯管演奏家Ben Wendel也加入其中。Tom以其极具特色的声音而闻名，他将精湛的技术、复杂的和声概念与细微的灵敏度融合在一起。他对吉他的创新和独特的处理方式使得他在更广泛的吉他社区中建立了追随者，并于2022年与Faber Music一起发表了他的第一首个人吉他作品。这本名为《练习曲》的书已经在欧洲、亚洲、澳大拉西亚和北美发行。 汤姆有幸与众多艺术家广泛合作，包括Ari Hoenig、Bill McHenry、Geoff Simkins、Aaron Parks、Huw Warren、Tim Garland、Nitai Hershkovits和The Fresh Sound Ensemble。 Tom目前是威尔士皇家音乐学院的客座导师，并曾在包括市政厅、南京大学、伊斯坦布尔巴切希尔大学和利兹音乐学院在内的许多国际顶尖机构担任客座导师。&nbsp;</span></p>\n<p><span class=\"js_darkmode__14\" data-style=\"font-weight: 400; color: rgb(89, 89, 89); font-size: 14px; text-shadow: none; letter-spacing: 1px; font-family: Optima-Regular, PingFangTC-light;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01wkTPhd2GdScxu17UY_!!2251059038.jpg\" alt=\"\" width=\"320\" height=\"480\" damai_width=\"null\" damai_height=\"null\"></span></p>\n<p><span style=\"font-size: 16px;\"><strong>Conor Chaplin </strong><strong>康纳</strong> <strong>乔普林</strong> <strong>（贝斯）</strong></span></p>\n<p>出生于爱尔兰西南部，主要在萨里长大，曾在格林威治三一音乐学院学习，师从Simon Purcell、Steve Watts等人。已故伟大作曲家和教育家马丁·里德（Martin Read）在汉普郡奥尔顿学院（Alton College）也对他的教育产生了影响，他曾在沃金的萨里县青年爵士乐团（Surrey County Youth Jazz Orchestra）以及比尔·阿什顿（Bill Ashton）和马克·阿姆斯特朗（Mark Armstrong）领导下的国家青年爵士乐团工作。他目前主要巡演的项目包括马里乌斯·奈塞特的“快乐”五重奏、后起之秀萨克斯管演奏家艾玛·拉维奇、劳拉·尤尔德的水星奖提名组合恐龙，以及吉他手汤姆·奥伦多夫的三人组。在这些常规项目和其他一次性活动之间，他有幸在英国、北美、欧洲和亚洲进行了广泛的巡演，并有幸与包括Kit Downes、Ben Van Gelder、Reinier Baas、Thomas Strønen、Bobo Stenson、Harold Mabern、George Garzone、Billy Cobham、Jacob Collier、Jesse Van Ruller、Iain Ballamy、Julian Siegel、Natalie Williams、Ivo Neame、Tony Tixier、Keyon Harrold、Stan Sulzmann、Bobby Wellins等在内的多位艺术家一起表演。</p>\n<p><strong><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN017nHcgb2GdScwXa6fH_!!2251059038.jpg\" alt=\"\" width=\"320\" height=\"294\" damai_width=\"null\" damai_height=\"null\"></strong></p>\n<p><strong> <img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01jkz7Qt2GdScqxqE0O_!!2251059038.png\" alt=\"\" width=\"320\" height=\"213\" damai_width=\"null\" damai_height=\"null\"></strong></p>\n<p><strong><em>2024年，在结束了美国的巡演后，Ari Hoenig 将和他的老搭档，英国最有潜力的当代爵士吉他大师 Tom Ollendorff 和爱尔兰爵士贝斯演奏家 Conor Chaplin 首次来到中国，这一组世界爵士乐领域中生代顶流组合将为大家带来现场演出，曲风包含了他们的原创曲目以及经过烧脑改编的传统爵士乐曲目。此三重奏的音乐风格旋律可听性较强，兼容了传统与现代多种风格。他们的演奏包含了技术、美感、力度的多重组合，天马行空的三重奏必须只能在现场感受，让我们一起期待他们的到来！&nbsp;</em></strong></p>\n<p><strong><em><iframe src=\"https://v.qq.com/txp/iframe/player.html?vid=e3559oy5wc7\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></em></strong></p>\n<p>&nbsp;</p></body></html>",
+        "introduceTitle": "活动介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "false",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "useLocalCache": "false",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wPOZN01jRf2eaC3Jz_!!6000000004545-2-tps-1125-702.png",
+        "categoryId": "123606001",
+        "cityName": "南京市",
+        "generalAgent": {
+            "generalAgent": "false",
+            "generalType": "1"
+        },
+        "itemId": "828948466207",
+        "itemName": "【南京】世界十大爵士鼓手之一Ari Hoenig 携爵士新生代顶级吉他手Tom Ollendorff中国巡演-南京站",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "http://img.alicdn.com/imgextra/i4/2251059038/O1CN01bTS2tN2GdSd1r8Ip4_!!2-item_pic.png"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "320100",
+        "performSeatImages": [],
+        "projectId": "221921008",
+        "projectStatus": "1",
+        "purchaseLimitation": "2",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "4",
+                "5",
+                "6"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "以现场为准",
+        "showTag": [],
+        "showTime": "2024.09.10 周二 20:00",
+        "tcCategoryId": "0301020100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "216217035",
+            "singleLimitation": "2"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=828948466207",
+        "showFlag": "false"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买2张、每个账号最多购买2张。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须打开【票夹】扫码入场，截图无效。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "儿童一律凭票入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/护照/身份证/台湾居民来往大陆通行证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约30分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "90分钟",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "最低演出时长"
+            },
+            {
+                "content": "Ari Hoenig",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01N7Icez1vcu9JtnH1e_!!6000000006194-2-tps-144-144.png",
+                "title": "主要演员"
+            },
+            {
+                "content": "6",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过票夹中的二维码验票入场",
+                "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：成都太合乐动科技有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：成都太合乐动科技有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}

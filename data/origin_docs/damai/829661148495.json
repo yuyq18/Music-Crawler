@@ -1,0 +1,547 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "586",
+    "cityname": "武汉",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_829661148495",
+    "imgurl": "-293323108",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "（非自营）The 12 Tenors 世界十二男高音巡回演唱会（武汉站）合",
+    "nameNoHtml": "（非自营）The 12 Tenors 世界十二男高音巡回演唱会（武汉站）合",
+    "price": "80.0",
+    "price_str": "80-880",
+    "pricehigh": "880.0",
+    "privilegeTags": "[]",
+    "projectid": "829661148495",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.11.06 周三 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "武汉琴台大剧院",
+    "venuecity": "武汉",
+    "venueid": "589",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01vQfx4W2GdSd0VNQtl_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "829661148495",
+                    "itemName": "【武汉】（非自营）The 12 Tenors 世界十二男高音巡回演唱会（武汉站）合",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "420100",
+                    "cityName": "武汉市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01vQfx4W2GdSd0VNQtl_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i1/2251059038/O1CN01vQfx4W2GdSd0VNQtl_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.11.06 周三 19:30",
+                    "showDuration": "演出时长 105分钟，含中场休息15分钟",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "场馆自取发票",
+                            "tagDesc": "本演出发票需要在场馆凭门票自取",
+                            "tagDescWithStyle": "本演出发票需要在场馆凭门票自取",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "586",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>（非自营）The 12 Tenors 世界十二男高音巡回演唱会（武汉站）合</strong></p>\n<p><span style=\"color: #ffffff; background-color: #cf1322;\"><strong>演出地址：武汉琴台大剧院 &nbsp;</strong></span></p>\n<p><span style=\"color: #000000; background-color: #fcfbcf;\">本场演出所有婴幼、儿童一律凭票入场，一人一票、大小同价、对号入座，</span><span style=\"color: #000000; background-color: #fcfbcf;\"><u>请为随行儿童购同一楼层的演出票，不可跨楼层入座！</u></span></p>\n<p>演出时长 105分钟，含中场休息15分钟；时长仅供参考，具体以现场为准。</p>\n<p>****************************************</p>\n<p><strong>【购票须知】</strong></p>\n<p>1.<span style=\"color: #cf1322;\"><strong>演出票具有时效性，如非演出变更或取消的原因，不提供退换票服务。演员及曲目以演出当天为准。</strong></span></p>\n<p>2.演出票仅限观看当天当场次演出，逾期失效，请提前取票、准时入场、对号入座。<span style=\"color: #000000; background-color: #ffa940;\">演出票作为唯一入场凭证，遗失、破损、涂改、遮挡，将禁止入场，请妥善保管。</span></p>\n<p>3.本场演出，<span style=\"background-color: #fcfbcf;\">“</span><span style=\"background-color: #fcfbcf;\"><strong>未成年人观众</strong></span><span style=\"background-color: #fcfbcf;\">”请在购票前经过法定监护人允准</span>，如购票订单成功生成并完成支付，观演人身份信息为“未成年人观众”，<span style=\"background-color: #fcfbcf;\">平台默认其为“法定监护人”授权允准购票，并由法定监护人承担一切相关责任。</span>我司不支持以“未成年人”未经监护人允准等相关理由，申请退票等行为。</p>\n<p>4.观演期间请保持场内安静，迟到观众请在观众厅外等候，听从服务人员安排安静入场，若因迟到须等候入场，不得以此要求退票。</p>\n<p>5.演出票无快递服务，请前往琴台票务中心现场取票。</p>\n<p>6.如需开发票，请于演出实际结束后1个月内凭纸质演出票到琴台票务中心大剧院窗口开具。发票开具时间：周一至周五（9:30-17:00）</p>\n<p>****************************************</p>\n<p><strong>演出介绍：</strong></p>\n<p>无论你是否聆听古典音乐，你一定听说过「世界三大男高音」——鲁契亚诺·帕瓦罗蒂、普拉西多·多明戈、何塞·卡雷拉斯。</p>\n<p>在1990年世界杯首次合作后，他们的歌曲逐渐成为跨越国界的经典，在古典音乐和歌剧界感动了无数听众。</p>\n<p>这一非凡的成就激发了著名音乐制作人——德国格海兹舞台剧有限公司总裁乌尔里希·格海兹的灵感：“如果三位男高音能够达到如此巅峰，为什么不可以由不同国籍的12位男高音共同缔造一个新的传奇呢？”</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Pav3OK2GdSczZx90B_!!2251059038.jpg\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>「The 12 Tenors」的每位成员都曾在伦敦西区或美国百老汇的音乐剧中担任过主演，其中的一些还是经典曲目的独唱歌手，他们参演的作品包括《剧院魅影》、《罗密欧与朱丽叶》、《荆棘鸟》、《妈妈咪呀》、《舞蹈皇后》、《西区故事》等。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Z3ZRsb2GdScxkf0Io_!!2251059038.jpg\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>他们的现场演出令人叹为观止，堪称当今音乐界最震撼人心的组合！独一无二的天籁之音与令人叫绝的舞台表现，使每一位观众都难以忘怀。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01uFtKRu2GdSczk5bGu_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>世界十二男高音音乐会的选曲更是以耳熟能详的经典欧美歌曲，以及全球传唱的世界男高音演唱曲目为主，或慷慨激昂，或婉转悠扬，一声声一语语。</p>\n<p>当这种奇妙和声与熟悉的旋律碰撞，让每一位观众的心动都能随音符跳跃，产生强烈的情感共鸣！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01pruf7W2GdScxke45U_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p><span style=\"color: #000000; background-color: #ffffff; font-size: 15px;\">从摇滚到歌剧，从流行到百老汇，他们用声音和颜值征服世界，</span><span style=\"color: #000000; font-size: 15px;\">在本次中国巡演中，他们贴心地为国内观众准备了一系列</span><span style=\"color: #000000;\">专属的中文经典旋律</span><span style=\"color: #000000; font-size: 15px;\">。</span></p>\n<p><span style=\"color: #000000; font-size: 15px;\">部分演出曲目</span></p>\n<p><span style=\"color: #000000; font-size: 15px;\">（最终曲目以实际演出为准）</span></p>\n<p><span style=\"color: #000000; font-size: 15px;\">1、Funiculi Funicula《登山缆车》——意大利传统民歌</span></p>\n<p><span style=\"color: #000000; font-size: 15px;\">2、You Raise Me Up《你鼓舞了我》2004年乔诗·葛洛班通过翻唱该曲获得第47届格莱美奖“最佳流行男歌手”提名</span></p>\n<p><span style=\"color: #000000; font-size: 15px;\">3、甜蜜蜜——邓丽君代表作</span></p>\n<p><span style=\"color: #000000; font-size: 15px;\">4、Imagine《想象》约翰·列侬代表作，1999年该曲入选格莱美名人堂</span></p>\n<p><span style=\"color: #000000; font-size: 15px;\">5、Music《音乐》英国传奇歌手JOHN MILES 代表作</span></p>\n<p><span style=\"color: #000000; font-size: 15px;\">6、《灯火里的中国》曾由男中音歌唱家廖昌永演唱</span></p>\n<p><span style=\"color: #000000; font-size: 15px;\">7、Bohemian Rhapsody《波西米亚狂想曲》皇后乐队代表作 </span></p>\n<p><span style=\"color: #000000; font-size: 15px;\">8、O sole mio《我的太阳》意大利民歌</span></p>\n<p><span style=\"color: #000000; font-size: 15px;\">9、Nessun Dorma《今夜无人入睡》歌剧《图兰朵》中的著名选段</span></p>\n<p><span style=\"color: #000000; font-size: 15px;\">10、Libiamo《饮酒歌》选自歌剧《茶花女》中第一幕唱段</span></p>\n<p><span style=\"color: #000000; font-size: 15px;\">11、La donne e Mobile《女人善变》选自威尔第的歌剧《弄臣》的第三幕</span></p>\n<p>&nbsp;</p>\n<p><strong> 本场演出顺序及演奏曲目以现场为准。</strong></p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "",
+                            "socialCreditCode": "",
+                            "legalPerson": "",
+                            "regCapStr": "",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "",
+                            "entAddress": ""
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "须于演出结束后持门票至举办地场馆开具发票。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须兑换成纸质票验票入场，当天请按照【票夹】提示，前往取票点换取纸质票后入场"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "须于演出结束后持门票至举办地场馆开具发票。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "演出时长 105分钟，含中场休息15分钟"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "The12Tenors世界十二男高音"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "70分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "1000"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "589",
+                    "venueName": "武汉琴台大剧院",
+                    "venueProvinceName": "湖北省",
+                    "venueCityName": "武汉市",
+                    "lng": 114.259532,
+                    "lat": 30.560901,
+                    "venueAddr": "武汉市汉阳区知音大道7号",
+                    "showCountText": "共有19个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D829661148495%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "特惠选座",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1724954740000",
+                "sellStartTimeStr": "08月30日 02:05",
+                "priceRange": "¥80-¥880",
+                "performBases": [
+                    {
+                        "name": "11.06 周三",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1730822400000",
+                        "performs": [
+                            {
+                                "performId": "216323003",
+                                "performName": "2024-11-06 周三 19:30",
+                                "itemId": "829661148495",
+                                "projectId": "222016001",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1730892600000",
+                                "performTime": "2024.11.06 19:30",
+                                "performStartDate": "2024-11-06",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "优惠"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "680元票价打7.50折",
+                        "performanceIds": [
+                            "216323003"
+                        ]
+                    },
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "480元票价打7.50折",
+                        "performanceIds": [
+                            "216323003"
+                        ]
+                    },
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "880元票价打7.50折",
+                        "performanceIds": [
+                            "216323003"
+                        ]
+                    },
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "180元票价打7.50折",
+                        "performanceIds": [
+                            "216323003"
+                        ]
+                    },
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "280元票价打7.50折",
+                        "performanceIds": [
+                            "216323003"
+                        ]
+                    }
+                ],
+                "promotionRemark": "您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "8843",
+                    "9099",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "695425",
+                    "9867",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "promotionList": [
+                    {
+                        "type": "SHOP",
+                        "tag": "满减",
+                        "isTagList": "false",
+                        "desc": "¥880票档，满1张打7.5折"
+                    }
+                ],
+                "promotionDetail": {
+                    "skuPromotionRelations": "829661148495&216323003&5731297203482_90152100707@5731297203483_90152226649@5731297203484_90152739307@5731297203485_90152352543@5731297203486_90152694291",
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "2",
+                            "promotionGroupTypeDesc": "满减活动",
+                            "promotionList": [
+                                {
+                                    "promotionType": "4",
+                                    "promotionTag": "满减",
+                                    "promotionContentList": [
+                                        "¥180票档，每满1张打7.5折",
+                                        "¥280票档，每满1张打7.5折",
+                                        "¥480票档，每满1张打7.5折",
+                                        "¥680票档，每满1张打7.5折",
+                                        "¥880票档，每满1张打7.5折"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "¥480",
+                                            "displayContent": "每满1张打7.5折"
+                                        },
+                                        {
+                                            "skuName": "¥180",
+                                            "displayContent": "每满1张打7.5折"
+                                        },
+                                        {
+                                            "skuName": "¥280",
+                                            "displayContent": "每满1张打7.5折"
+                                        },
+                                        {
+                                            "skuName": "¥880",
+                                            "displayContent": "每满1张打7.5折"
+                                        },
+                                        {
+                                            "skuName": "¥680",
+                                            "displayContent": "每满1张打7.5折"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8296611484/2/829661148495.jpg"
+            }
+        }
+    }
+}

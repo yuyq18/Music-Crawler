@@ -1,0 +1,84 @@
+{
+    "platform": "大麦",
+    "project_id": "829089739548",
+    "project_name": "第三届银河左岸南通紫琅音乐节",
+    "category_name": "演唱会",
+    "artists": [
+        "薛之谦",
+        "毛不易",
+        "魏晨",
+        "石凯",
+        "黄誉博",
+        "二手玫瑰",
+        "痛仰乐队",
+        "回春丹乐队",
+        "夏日入侵企画",
+        "棱镜乐队",
+        "声音玩具",
+        "声音碎片",
+        "旅行团乐队",
+        "犬儒",
+        "廖俊涛",
+        "吴垚滔",
+        "王啸坤",
+        "郭冠廷",
+        "南青乐队",
+        "沉舟乐队",
+        "野肆乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.10.26-10.27",
+    "session_time": [],
+    "price": "199-498",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南通",
+    "venue_name": "紫琅音乐广场",
+    "venue_info": {
+        "venue_address": "江苏省南通市崇川区小海街道大剧院路紫琅音乐广场",
+        "lng": 120.94464,
+        "lat": 31.967969
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01bcicya2GdSczWwe4j_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01TDnrTR2GdScxtsed5_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01cSW2LM2GdScxtsWLp_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01npQkNb2GdSczjKSch_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "11945",
+        "wantNumStr": "1.2万",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "829089739548",
+            "cityName": "南通站",
+            "showTime": "10.26-10.27"
+        },
+        {
+            "itemId": "828250469322",
+            "cityName": "合肥站",
+            "showTime": "11.02-11.03"
+        },
+        {
+            "itemId": "805351105047",
+            "cityName": "扬州站",
+            "showTime": "09.07-09.08"
+        },
+        {
+            "itemId": "815589311252",
+            "cityName": "长春站",
+            "showTime": "09.15-09.16"
+        },
+        {
+            "itemId": "818786569574",
+            "cityName": "常州站",
+            "showTime": "10.02-10.05"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=829089739548"
+}
