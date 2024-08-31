@@ -1,0 +1,67 @@
+{
+    "platform": "大麦",
+    "project_id": "829465297677",
+    "project_name": "暗杠「童话镇的走歌人2024」巡演 银川站",
+    "category_name": "演唱会",
+    "artists": [
+        "暗杠"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.03 周日 20:00",
+    "session_time": [],
+    "price": "128-298",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "银川",
+    "venue_name": "铜管livehouse",
+    "venue_info": {
+        "venue_address": "宁夏银川市西夏区朔方路166号801创意园区内向东150米",
+        "lng": 106.11586,
+        "lat": 38.495793
+    },
+    "project_info": "暗杠「童话镇的走歌人2024」巡演银川站\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01fOh0OP2GdScyLTMZ4_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01nwvExF2GdSczSImA7_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "829465297677",
+            "cityName": "银川站",
+            "showTime": "11.03"
+        },
+        {
+            "itemId": "829336874967",
+            "cityName": "乌鲁木齐站",
+            "showTime": "11.08"
+        },
+        {
+            "itemId": "829316422016",
+            "cityName": "大连站",
+            "showTime": "11.16"
+        },
+        {
+            "itemId": "829196555664",
+            "cityName": "福州站",
+            "showTime": "11.22"
+        },
+        {
+            "itemId": "829921569714",
+            "cityName": "南昌站",
+            "showTime": "12.07"
+        },
+        {
+            "itemId": "830041156138",
+            "cityName": "合肥站",
+            "showTime": "12.08"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=829465297677"
+}

@@ -1,0 +1,441 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "852",
+    "cityname": "北京",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_829576430944",
+    "imgurl": "-294170283",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "2024法朵--特雷辛哈·兰德罗北京演唱会",
+    "nameNoHtml": "2024法朵--特雷辛哈·兰德罗北京演唱会",
+    "price": "100.0",
+    "price_str": "100-380",
+    "pricehigh": "380.0",
+    "privilegeTags": "[]",
+    "projectid": "829576430944",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.09.10 周二 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "五棵松·爱乐汇艺术空间·都市剧场",
+    "venuecity": "北京",
+    "venueid": "6734007",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01LCSwQj2GdScyZ4m8y_!!2251059038.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "829576430944",
+                    "itemName": "【北京】2024法朵--特雷辛哈·兰德罗北京演唱会",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "110100",
+                    "cityName": "北京市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01LCSwQj2GdScyZ4m8y_!!2251059038.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01LCSwQj2GdScyZ4m8y_!!2251059038.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.09.10 周二 19:30",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：爱乐汇空间艺术(北京)有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：爱乐汇空间艺术(北京)有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "852",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<html>\r\n<head>\r\n\r\n</head><body>\r\n<p><strong>【法朵音乐节】</strong></p>\r\n<p>自首次在马德里举办以来，到2003年已经完成了十四届；</p>\r\n<p>现已在欧洲、非洲、拉丁美洲和亚洲的18个主要城市举办；</p>\r\n<p>在中国是一项重要的文化活动；</p>\r\n<p>最大的国际法朵音乐节；</p>\r\n<p>这是一个通过Fado这个主要的国家品牌在国外推广语言、文化和葡萄牙的活动;</p>\r\n<p>一个葡萄牙艺术家在国际音乐舞台上展现自己的机会；</p>\r\n<p>吸引对新文化感兴趣的新观众的可能性；</p>\r\n<p>2024年，法朵音乐节将以法朵的历史为主题。</p>\r\n<p>&nbsp;</p>\r\n<p><strong>【</strong><strong>法朵的历史</strong><strong>】</strong></p>\r\n<p>法朵起源于19世纪葡萄牙里斯本的流行背景下，出现在社交和娱乐的时刻。法朵也逐渐在与城市民间节日、慈善节和cegadas（业余和民间剧场表演）相关的庆祝活动中占据一席之地。</p>\r\n<p>1851年诞生的里斯本轻音乐剧院发现了法朵的潜力，从1870年起，法朵成为其音乐阵容的一部分。里斯本的社会和文化环境，其典型的社区和波希米亚风格在这种表演中占据了中心位置。在19世纪，吉他逐渐从城市中心传播到全国的乡村地区，成为法朵的特定伴奏乐器。逐渐地，在法朵屋（主要集中在城市的历史街区）&mdash;&mdash;听法朵音乐的行为趋于仪式化。</p>\r\n<p>如果法朵从一开始就出现在剧院和广播中，那么同样的情况也会发生在第七艺术中。这一点可以从以下事实中得到说明:1931年由 雷托&middot;德&middot;巴罗斯(leito de Barros)执导的第一部葡萄牙有声电影讲述的是神话人物塞维拉(Severa)的不幸遭遇。在1957年R&aacute;dio Televis&atilde;o 葡萄牙电视台成立之后，特别是在接下来的十年中期，它在全国范围内播出，这些艺术家的面孔也为公众所知。</p>\r\n<p>法朵的诗歌具有强烈的感召力，并呼吁表演者、音乐家和听众之间的交流。它唤起了与爱情、财富和个人命运有关的主题，以及对城市日常生活的叙述。从1950年代起，通过阿玛莉亚&middot;罗德里格斯的声音，法朵与古典诗歌相遇。在作曲家阿兰&middot;欧曼(Alain Oulman)的决定性贡献下，法朵开始演具有学术背景和已出版文学作品的诗人的作品，如大卫&middot;穆朗-费雷拉、佩德罗&middot;霍姆&middot;德&middot;梅洛、若泽&middot;雷吉奥等人。</p>\r\n<p>通过阿玛莉亚，法朵克服了文化和语言的障碍，成为国家文化的象征。直到她1999年去世的几十年里，阿玛莉亚&middot;罗德里格斯一直是国内和国际关注的焦点。在1990年代，法朵凭借M&iacute;sia和Cristina Branco分别在法国和荷兰的国际音乐巡回赛上确立了自己的地位。</p>\r\n<p>同样在1990年代，另一个在法朵舞台上脱颖而出的名字是卡马内，他取得了巨大的成功。从1990年代到世纪之交，一代新的才华横溢的表演者崭露头角，如玛法尔达&middot;阿尔诺斯、卡蒂亚&middot;格雷罗、乔安娜&middot;阿门多伊拉、安娜&middot;莫拉、安娜&middot;索菲亚&middot;瓦雷拉、佩德罗&middot;莫丁霍、赫尔德&middot;莫丁霍、安东尼奥&middot;赞布若、罗德里戈&middot;科斯塔&middot;费利克斯、卡尔米尼奥和拉奎尔&middot;塔瓦雷斯。然而，在国际舞台上，玛丽莎占据了中心位置，她在世界音乐类别中获得了连续的奖项。</p>\r\n<p>&nbsp;</p>\r\n<p><strong>【</strong><strong>艺术家</strong><strong>】</strong></p>\r\n<p><strong>特蕾辛娜&middot;兰迪罗Teresinha Landeiro</strong></p>\r\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN011Bpzjg2GdSd0iFRMz_!!2251059038.png\"/></p>\r\n<p>1996年出生于葡萄牙，索尼音乐葡萄牙公司</p>\r\n<p>Teresinha Landeiro希望通过她的法朵音乐为观众留下深刻的印记。她每周在里斯本的Mesa de Frades（阿尔法玛）演出，尽管她很年轻，但这是令人羡慕的履历起点。</p>\r\n<p>里斯本的贝伦文化中心和Capit&oacute;lio，以及波尔图的音乐之家，已经接待了这位年轻的法朵歌手和作曲家，还包括Caixa Alfama音乐节、EDP Fado Cafe、NOS Alive以及在哥伦比亚波哥大、阿根廷布宜诺斯艾利斯、西班牙塞维利亚和马德里等地的国际法朵音乐节。</p>\r\n<p>2021年，她推出了专辑《Agora》（SONY），其中包括Teresinha Landeiro自己创作的音乐，展现了一个年轻、有野心且轻盈的法朵，与歌手本人的个性相符。</p>\r\n<p>2022年，她在自己的Instagram上开设了一个名为&ldquo;Alguidar de Palavras&rdquo;（词语碗）的部分，邀请名人选择一个词，并以同一个词创作一首传统法朵的原创文本。</p>\r\n<p>这种真实性与高质量相结合，使Teresinha Landeiro在全国各地的多个舞台上演出，从北到南，展示了她作为一个国家艺术家的形象。</p>\r\n<p>2024年，她发行了一张新专辑&ldquo;Para danparar e Para chorar&rdquo;（《为舞蹈与哭泣而作》），以加强她对自己艺术的认同。通过单曲《Chegou a Hora》，她展示了这部新作品的第一个时刻，其中法朵依然是核心，但受到流行作曲家和民间音乐的影响。</p>\r\n<p>Teresinha Landeiro有着非常稳定的职业生涯，从该国的北部到南部进行演出，包括国际音乐会。Teresinha Landeiro已经成为了当代法朵中不可或缺的名字，不仅作为表演者，还作为作词作曲家。Teresinha Landeiro是年轻、有野心且轻盈法朵的代名词。</p>\r\n<p>在中国的法朵音乐节上，她将以一场特别的音乐会展示她的最新作品。</p>\r\n<p><strong>&nbsp;</strong></p>\r\n<p><strong>塞巴斯蒂安&middot;佩雷拉Sebasti&atilde;o Pereira</strong></p>\r\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01oD1UVU2GdSd1wCbVC_!!2251059038.png\"/></p>\r\n<p>巴斯蒂安&middot;佩雷拉是一位才华横溢的音乐家，他出生于fundo市。从很小的时候起，他就表现出对音乐的浓厚兴趣，8岁开始在fundo音乐与舞蹈学院学习古典吉他，在Pedro Rufino教授的指导下学习。他继续接受教育，并获得&Eacute;vora大学教授兼吉他手Dejan Ivanovich的古典吉他学位。在校期间，巴斯蒂安在多项比赛中获奖，包括盖亚市全国比赛、法夫的西班牙-葡萄牙比赛、阿尔马达国际比赛和埃尔切市吉他节。</p>\r\n<p>在攻读学位期间，他在Bota Alta的法朵屋遇到了吉他手Felipe N&uacute;ncio和Bruno Chaveiro，对葡萄牙吉他产生了浓厚兴趣。在Bruno Chaveiro和后来的Cust&oacute;dio Castelo大师的指导下，他在卡斯特罗布兰科理工学院完善了他的技术和对乐器的理解。</p>\r\n<p>为了深入了解并在法朵世界中寻求经验，巴斯蒂安搬到了里斯本，目前他定期在Casa de Linhares、Mesa de Frades、Fama d&#39;Alfama、Fado ao Carmo、Sr. Vinho等著名法朵屋演出。作为一位才华横溢的吉他手，巴斯蒂安在世界各地的音乐会中为许多法朵歌手伴奏，如Jorge Fernando、Pedro Moutinho、Ana Sofia Varela、Joana Amendoeira、T&acirc;nia Oleiro和Teresinha Landeiro。</p>\r\n<p>尽管是新晋的年轻艺术家，他已经有机会在德国、法国、瑞士、爱尔兰、英格兰、西班牙、加那利群岛和罗马尼亚等多个国家的重要舞台上演出。</p>\r\n<p>&nbsp;</p>\r\n<p>巴斯蒂安也在进行个人的独奏项目演出，在葡萄牙吉他和贝斯的伴奏下，他演奏自己创作的作品以及对法朵历史具有重大影响的吉他手的作品，如Jos&eacute; Nunes、Alcino Fraz&atilde;o、Jos&eacute; Fontes Rocha、Carlos Paredes和Pedro Caldeira Cabral。</p>\r\n<p>&nbsp;</p>\r\n<p>对于他来说，这种类型的器乐音乐不仅展示了乐器的演变，还展示了每位吉他手在创造独特音乐语言时所使用的独特技术。</p>\r\n<p>&nbsp;</p>\r\n<p><strong>侯宇</strong></p>\r\n<p><strong>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01VKkMQt2GdSd1yxXAV_!!2251059038.png\"/></strong></p>\r\n<p>侯宇担任复星基金会文化顾问，是北京京剧院国家一级演员，同时也是中国民主同盟中央委员会青年工作委员会副主任。侯宇毕业于中国戏曲学院，获艺术硕士学位，并在文化部主办的第六届青年京剧演员研究生班及2016年清华大学美术学院高级研修班深造。</p>\r\n<p>&nbsp;</p>\r\n<p>侯宇在其辉煌的职业生涯中荣获了众多奖项。2001年，她荣获第四届北京京剧昆曲大赛一等奖；2009年，她获得中国戏剧梅花奖；2012年，她在第七届CCTV全国青年京剧演员电视大赛中摘得银奖。从2013年至2015年，她在北京京剧院&ldquo;魅力春天&rdquo;青年京剧演员擂台邀请赛中连续三年蝉联&ldquo;擂主&rdquo;称号。2017年，她获得了CCTV春节联欢晚会荣誉证书；</p>\r\n<p>&nbsp;</p>\r\n<p>2019年，她被提名为第30届白玉兰戏剧表演艺术奖主角奖。侯宇曾连续三年登上&ldquo;CCTV春节联欢晚会&rdquo;的舞台，并多年担任&ldquo;戏曲春节联欢晚会&rdquo;的常客。</p>\r\n<p>&nbsp;</p>\r\n<p>2023年，侯宇在&ldquo;首届中央广播电视总台青年京剧演员大会&rdquo;中荣获&ldquo;最佳表演奖&rdquo;，并在青年演员中获得了最高总分。她的舞台生涯已跨越33年，期间极大地丰富了文武老生行当的艺术表现。侯宇是文武老生行当中少有的全能型人才之一，在唱、念、做、打、舞各方面均表现出色。</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><strong>【</strong><strong>音乐会曲目 PROGRAM</strong><strong>】</strong></p>\r\n<p>&nbsp;</p>\r\n<p>1.是时候了</p>\r\n<p>CHEGOU A HORA</p>\r\n<p>2.请求(波尔图小调法朵)</p>\r\n<p>O PEDIDO (FADO MENOR DO PORTO)</p>\r\n<p>3.我为你写了这首歌</p>\r\n<p>FIZ ESTA CANC&Atilde;O PARA TI</p>\r\n<p>4.幸运的浪潮中</p>\r\n<p>MAR&Eacute; DE SORTE</p>\r\n<p>5.时间</p>\r\n<p>O TEMPO</p>\r\n<p>6.交换爱情信件</p>\r\n<p>TROCAVAM CARTAS DE AMOR</p>\r\n<p>7.我要跳舞</p>\r\n<p>EU VOU DANCAR</p>\r\n<p>8.一段旅程(马加拉法朵)</p>\r\n<p>A VIAGEM (FADO MAGALA)</p>\r\n<p>9.我们是什么(回忆小调)</p>\r\n<p>O QUE SOMOS (FADO MEM&Oacute;RIA)</p>\r\n<p>10.各自的地方</p>\r\n<p>CADA UM, UM LUGAR</p>\r\n<p>11.我不知道你为什么离开</p>\r\n<p>N&Atilde;O SEI PORQUE TE FOSTE EMBORA</p>\r\n<p>12.极光</p>\r\n<p>AURORA</p>\r\n<p>13.口红</p>\r\n<p>BATOM</p>\r\n<p>14.祖父母的故事</p>\r\n<p>FOLCLORE DOS AV&Oacute;S</p>\r\n<p>15.对不起，爱情</p>\r\n<p>DESCULPA AMOR</p>\r\n<p>16.我看不到你而哭泣</p>\r\n<p>17.华尔兹音乐Valse em SI M</p>\r\n<p>18.安娜&middot;克里斯缇娜</p>\r\n<p>19.是时候了 CHEGOU A HORA</p>\r\n<p>&nbsp;</p>\r\n<p>*曲目以现场为准 Program is subject to change*</p>\r\n<p>&nbsp;</p>\r\n</body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须兑换成纸质票验票入场，当天请按照【票夹】提示，前往取票点换取纸质票后入场"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "19"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "特蕾辛娜·兰迪罗、塞巴斯蒂安·佩雷拉 等"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "300"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "6734007",
+                    "venueName": "五棵松·爱乐汇艺术空间·都市剧场",
+                    "venueProvinceName": "北京",
+                    "venueCityName": "北京市",
+                    "lng": 116.276703,
+                    "lat": 39.913516,
+                    "venueAddr": "北京市海淀区万寿路街道卓展购物中心五棵松万达广场",
+                    "showCountText": "共有10个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D829576430944%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "选座购买",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1724984224000",
+                "sellStartTimeStr": "08月30日 10:17",
+                "priceRange": "¥100-¥380",
+                "performBases": [
+                    {
+                        "name": "09.10 周二",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1725897600000",
+                        "performs": [
+                            {
+                                "performId": "216443001",
+                                "performName": "2024-09-10 星期二 19:30",
+                                "itemId": "829576430944",
+                                "projectId": "222090004",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1725967800000",
+                                "performTime": "2024.09.10 19:30",
+                                "performStartDate": "2024-09-10",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "2976258",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "23883",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "8843",
+                    "9099",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "695425",
+                    "9867",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "1630146",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8295764309/2/829576430944.jpg"
+            }
+        }
+    }
+}

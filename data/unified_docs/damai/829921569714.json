@@ -1,0 +1,67 @@
+{
+    "platform": "大麦",
+    "project_id": "829921569714",
+    "project_name": "暗杠「童话镇的走歌人2024」巡演 南昌站",
+    "category_name": "演唱会",
+    "artists": [
+        "暗杠"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.07 周六 20:00",
+    "session_time": [],
+    "price": "128-298",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南昌",
+    "venue_name": "瓦肆 VAS NANCHANG",
+    "venue_info": {
+        "venue_address": "江西省南昌市青山湖区上海路543号520Park文创公园21#01区域",
+        "lng": 115.942663,
+        "lat": 28.668107
+    },
+    "project_info": "暗杠「童话镇的走歌人2024」巡演南昌站\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01k7tXG72GdSd0gwt3K_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN010Ttbxo2GdSd1JYq8Z_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "57",
+        "wantNumStr": "57",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "829465297677",
+            "cityName": "银川站",
+            "showTime": "11.03"
+        },
+        {
+            "itemId": "829336874967",
+            "cityName": "乌鲁木齐站",
+            "showTime": "11.08"
+        },
+        {
+            "itemId": "829316422016",
+            "cityName": "大连站",
+            "showTime": "11.16"
+        },
+        {
+            "itemId": "829196555664",
+            "cityName": "福州站",
+            "showTime": "11.22"
+        },
+        {
+            "itemId": "829921569714",
+            "cityName": "南昌站",
+            "showTime": "12.07"
+        },
+        {
+            "itemId": "830041156138",
+            "cityName": "合肥站",
+            "showTime": "12.08"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=829921569714"
+}

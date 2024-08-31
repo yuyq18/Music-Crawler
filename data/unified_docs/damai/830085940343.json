@@ -1,0 +1,87 @@
+{
+    "platform": "大麦",
+    "project_id": "830085940343",
+    "project_name": "双沟牡丹·宿迁骆马湖银河左岸音乐节",
+    "category_name": "演唱会",
+    "artists": [
+        "薛之谦",
+        "陈楚生",
+        "朴树",
+        "黄子弘凡",
+        "蒲熠星",
+        "二手玫瑰",
+        "痛仰乐队",
+        "黄誉博",
+        "队长YoungCaptain",
+        "h3R3刘清云",
+        "郭冠廷",
+        "王啸坤",
+        "棱镜乐队",
+        "霓虹花园",
+        "时间不够以后",
+        "钢心",
+        "野肆乐队",
+        "裁缝铺乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.02-11.03",
+    "session_time": [],
+    "price": "199-398",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "宿迁",
+    "venue_name": "宿迁青年广场",
+    "venue_info": {
+        "venue_address": "江苏省宿迁市宿豫区晓店街道迎春大道宿迁骆马湖国家级旅游度假区",
+        "lng": 118.277858,
+        "lat": 34.054253
+    },
+    "project_info": "\n\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01dffCEF2GdSczElePk_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01wzyXZG2GdSd0olafd_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01jYDc8L2GdSd3YtZuN_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01DDAq1J2GdSd1IGGO4_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01M5m7md2GdSd0om3pa_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "17488",
+        "wantNumStr": "1.7万",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "829089739548",
+            "cityName": "南通站",
+            "showTime": "10.26-10.27"
+        },
+        {
+            "itemId": "828250469322",
+            "cityName": "合肥站",
+            "showTime": "11.02-11.03"
+        },
+        {
+            "itemId": "830085940343",
+            "cityName": "宿迁站",
+            "showTime": "11.02-11.03"
+        },
+        {
+            "itemId": "805351105047",
+            "cityName": "扬州站",
+            "showTime": "09.07-09.08"
+        },
+        {
+            "itemId": "815589311252",
+            "cityName": "长春站",
+            "showTime": "09.15-09.16"
+        },
+        {
+            "itemId": "818786569574",
+            "cityName": "常州站",
+            "showTime": "10.02-10.05"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=830085940343"
+}
