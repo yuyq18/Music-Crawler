@@ -1,0 +1,53 @@
+{
+    "platform": "大麦",
+    "project_id": "827414702558",
+    "project_name": "山歌响起的地方·刀郎2024巡回演唱会 澳门站",
+    "category_name": "演唱会",
+    "artists": [
+        "刀郎"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.08-11.09",
+    "session_time": [
+        "11.09 周六",
+        "11.08 周五"
+    ],
+    "price": "528-1508",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "中国澳门",
+    "venue_name": "银河综艺馆",
+    "venue_info": {
+        "venue_address": "澳門路氹望德聖母灣大馬路",
+        "lng": 113.55875,
+        "lat": 22.146093
+    },
+    "project_info": "票价说明： \n港币售价： HKD1688/ HKD1388/ HKD1188/ HKD988/ HKD788/ HKD588/*视线受阻\n人民币售价：￥1508/￥1238/￥1058/￥888/￥708/￥528/*视线受阻（门票已含境外（含港澳台）服务费）\n \n取票说明：\n本项目不支持退换，购票成功的客户，请您提前办理好港澳通行证-中国澳门签注，门票将于演出前一周左右寄出。当天如出现遗失或忘带门票情况不予处理，感谢您的支持与理解。\n \n演出介绍：\n \n\n \n阔别十年，炙热归来，一如当年，再见刀郎。\n山歌响起的地方·刀郎2024巡回演唱会正式拉开帷幕。\n定于2024年11月8日-9日，唱响中国澳门银河综艺馆。\n \n\n \n《山歌响起的地方》，山歌，乃民间性情之响。\n书契以来，代有歌谣。自楚骚唐律，争妍竞畅，而民间性情之响，遂不得列之于诗坛，于是别之曰“山歌”。\n \n\n \n刀郎老师走了很长一段时间，\n如今又顺着那声音回来。\n \n它走在大西北的风尘里；\n等候在北方的天空下；\n把望不到边的思念；\n留在西北人辽阔的心底。\n \n它跟着江水，流遍江南。\n听着对岸的故事，\n长成了一朵有性情的浪。\n \n山歌， \n不只是山与歌，\n它还是男与女；\n善与恶；\n理想与现实，\n它可以穿过土地，\n跨越时间。\n \n山歌，\n就是民间最有力量的喜怒哀乐，\n越是性情坦荡的地方，\n山歌越是响亮！\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN012qdV682GdSd0LrhGc_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01X5bHuz2GdSd3jwPAh_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01jCKXe72GdSd0LuRni_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01xk1ha52GdScv5Gt5E_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN017QiOXi2GdSd1PbNJ0_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "2394",
+        "wantNumStr": "2394",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "828456401412",
+            "cityName": "成都站",
+            "showTime": "09.21-09.22"
+        },
+        {
+            "itemId": "827414702558",
+            "cityName": "中国澳门站",
+            "showTime": "11.08-11.09"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=827414702558"
+}
