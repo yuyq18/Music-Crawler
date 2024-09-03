@@ -1,0 +1,543 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "2520",
+    "cityname": "合肥",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_829383894685",
+    "imgurl": "-296095646",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "国内摇滚三十年经典金曲演唱会",
+    "nameNoHtml": "国内摇滚三十年经典金曲演唱会",
+    "price": "60.0",
+    "price_str": "60-320",
+    "pricehigh": "320.0",
+    "privilegeTags": "[]",
+    "projectid": "829383894685",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.09.30 周一 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "合肥市瑶海大剧院",
+    "venuecity": "合肥",
+    "venueid": "93020",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01xth6LE2GdSd1zr62K_!!2251059038.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "829383894685",
+                    "itemName": "【合肥】国内摇滚三十年经典金曲演唱会",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "340100",
+                    "cityName": "合肥市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01xth6LE2GdSd1zr62K_!!2251059038.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01xth6LE2GdSd1zr62K_!!2251059038.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.09.30 周一 19:30",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：合肥聚橙剧院管理有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：合肥聚橙剧院管理有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "2520",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01DHGV5L2GdScsQ9EZh_!!2251059038.png\" width=\"800\" height=\"530\" damai_width=\"800\" damai_height=\"530\"></p>\n<p style=\"font-weight: 400;\">空耳乐队成立于2022年，由穆淼、冯丹、阿广、赵亮、萌萌 五名拥有多年舞台演出经验的乐手强强联合组成，以摇滚、流行、民谣等风格为主的乐队。</p>\n<p>2022年正式开始音乐历程，同年发行第一张专辑，代表作有《永不再见》《终点不是死亡》《大雁》《列车》...</p>\n<p>&nbsp;</p>\n<p style=\"font-weight: 400;\">乐队演出过往：</p>\n<p style=\"font-weight: 400;\">2022年四月参加江苏徐州音乐节</p>\n<p style=\"font-weight: 400;\">2022年四月参加江苏潘安湖音乐节</p>\n<p style=\"font-weight: 400;\">2022年八月参加江苏宿迁音乐节2023年香港黄贯中跨年演唱会</p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01dIMFEC2GdSd0dUfoz_!!2251059038.jpg\" width=\"556\" height=\"742\" damai_width=\"556\" damai_height=\"742\"></p>\n<p style=\"font-weight: 400;\">盛夏的气息，高亢激烈的节奏</p>\n<p style=\"font-weight: 400;\">五彩缤纷炫目的灯光回应着你</p>\n<p style=\"font-weight: 400;\">正如尤达大师所说：“这是一种力量，一股黑暗的力量。它命令你，塑造你，让你跳动，让你感到刺激。”</p>\n<p style=\"font-weight: 400;\">&nbsp;</p>\n<ol>\n<li>《爱要怎么说出口》</li>\n</ol>\n<p style=\"font-weight: 400;\">《爱要怎么说出口》是李宗盛填词、作曲，徐德昌、钟兴民编曲，赵传演唱的一首歌曲，收录于赵传1993年发行的专辑《约定》中。《我是歌手第四季》现场版由刘迦宁、周以力编曲。</p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01RRfYoV2GdScx2nS0W_!!2251059038.jpg\" width=\"474\" height=\"710\" damai_width=\"474\" damai_height=\"710\"></p>\n<p style=\"font-weight: 400;\">爱要怎么说出口</p>\n<p style=\"font-weight: 400;\">我的心里好难受</p>\n<p style=\"font-weight: 400;\">如果能将你拥有</p>\n<p style=\"font-weight: 400;\">我会忍住不让眼泪流</p>\n<p style=\"font-weight: 400;\">——《爱要怎么说出口》</p>\n<p style=\"font-weight: 400;\">&nbsp;</p>\n<p style=\"font-weight: 400;\">2.《赤裸裸》</p>\n<p style=\"font-weight: 400;\">创作《赤裸裸》的时候，郑钧是在西安等签证，他跟着陕西的一个草台班子在陕西巡演的过程中，就处在一种秦腔的氛围中。郑钧常常会听到街边的人拉着板胡唱秦腔，因此他也找到创作该歌曲的灵感。郑钧认为摇滚风格应该加入秦腔的元素，让两种曲风的结合才是他想要的，后来在写《赤裸裸》时就融入了秦腔 。</p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01qQ7gwk2GdScy8rf24_!!2251059038.jpg\" width=\"514\" height=\"722\" damai_width=\"514\" damai_height=\"722\"></p>\n<p style=\"font-weight: 400;\">我的爱赤裸裸</p>\n<p style=\"font-weight: 400;\">我的爱呀赤裸裸</p>\n<p style=\"font-weight: 400;\">你让我身不由己的狂热</p>\n<p style=\"font-weight: 400;\">我的爱赤裸裸</p>\n<p style=\"font-weight: 400;\">我的爱呀赤裸裸</p>\n<p style=\"font-weight: 400;\">你不能让我再寂寞</p>\n<p style=\"font-weight: 400;\">——《赤裸裸》</p>\n<p style=\"font-weight: 400;\">&nbsp;</p>\n<ol start=\"3\">\n<li>《私奔》</li>\n</ol>\n<p style=\"font-weight: 400;\">郑钧希望他的歌曲里具有血性，不是只有咆哮才是血性，大爱无疆也是血性。</p>\n<p style=\"font-weight: 400;\">郑钧歌曲《私奔》推出耗时一年，经历十几次修改。这也是他在自己家的录音室内制作了一年的作品。这首歌从创作到完成，光唱片小样就已经制作了十几个不同的版本，但是因为郑钧不满意，最后都被毁坏重做了。</p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01tJwWR42GdSd2EHpQq_!!2251059038.jpg\" width=\"830\" height=\"554\" damai_width=\"830\" damai_height=\"554\"></p>\n<p style=\"font-weight: 400;\">你是否还有勇气 随着我离去</p>\n<p style=\"font-weight: 400;\">想带上你私奔</p>\n<p style=\"font-weight: 400;\">奔向最遥远城镇</p>\n<p style=\"font-weight: 400;\">想带上你私奔</p>\n<p style=\"font-weight: 400;\">去做最幸福的人</p>\n<p style=\"font-weight: 400;\">——《私奔》</p>\n<p style=\"font-weight: 400;\">&nbsp;</p>\n<p style=\"font-weight: 400;\">4.《挪威的森林》</p>\n<p style=\"font-weight: 400;\">《挪威的森林》（Norwegian Wood）是伍佰演唱的一首歌曲，由吴俊霖（伍佰）作词、作曲，伍佰编曲，收录在伍佰1996年6月2日发行的专辑《爱情的尽头》中。这首歌曲是伍佰的代表作之一。</p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01xGPzHi2GdScsZcSMY_!!2251059038.jpg\" width=\"534\" height=\"678\" damai_width=\"534\" damai_height=\"678\"></p>\n<p style=\"font-weight: 400;\">或许我</p>\n<p style=\"font-weight: 400;\">不该问</p>\n<p style=\"font-weight: 400;\">让你平静的心再起涟漪</p>\n<p style=\"font-weight: 400;\">只是爱你的心超出了界线</p>\n<p style=\"font-weight: 400;\">我想拥有你所有一切</p>\n<p style=\"font-weight: 400;\">——《挪威的森林》</p>\n<p style=\"font-weight: 400;\">&nbsp;</p>\n<p style=\"font-weight: 400;\">5.《海阔天空》</p>\n<p style=\"font-weight: 400;\">《海阔天空》是中国香港摇滚乐队Beyond演唱的一首粤语歌曲，在今天，这首歌已超越了语言与音乐的范畴，成为一种信念、信仰与力量。</p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01PgzJqd2GdSd1CvqvS_!!2251059038.jpg\" width=\"446\" height=\"650\" damai_width=\"446\" damai_height=\"650\"></p>\n<p style=\"font-weight: 400;\">原谅我这一生不羁放纵爱自由</p>\n<p style=\"font-weight: 400;\">也会怕有一天会跌倒</p>\n<p style=\"font-weight: 400;\">背弃了理想 谁人都可以</p>\n<p style=\"font-weight: 400;\">哪会怕有一天只你共我</p>\n<p style=\"font-weight: 400;\">——《海阔天空》</p>\n<p style=\"font-weight: 400;\">&nbsp;</p>\n<p style=\"font-weight: 400;\">6.《饿狼传说》</p>\n<p style=\"font-weight: 400;\">《饿狼传说》是一首摇滚的情歌，尤其是最后那一声撕心裂肺的狂喊表现得尤为出色。张学友用他轻快奔放热烈的演唱方式，配合歌曲的气势澎湃的节奏，让人沉溺其中，无法抽离。</p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01PR1FYA2GdScy95gqE_!!2251059038.png\" width=\"552\" height=\"828\" damai_width=\"552\" damai_height=\"828\"></p>\n<p style=\"font-weight: 400;\">偏偏知道 爱令我无明天</p>\n<p style=\"font-weight: 400;\">爱会像头饿狼 嘴巴似极甜</p>\n<p style=\"font-weight: 400;\">假使走近玩玩她 凶相便呈现</p>\n<p style=\"font-weight: 400;\">爱会像头饿狼 岂可抱着眠</p>\n<p style=\"font-weight: 400;\">她必给我狠狠的伤势做留念</p>\n<p style=\"font-weight: 400;\">——《饿狼传说》</p>\n<p style=\"font-weight: 400;\">&nbsp;</p>\n<p style=\"font-weight: 400;\">7.《潇洒走一回》</p>\n<p style=\"font-weight: 400;\">《潇洒走一回》是叶倩文1991年专辑《潇洒走一回》的主打歌曲，由陈乐融，王蕙玲填词，陈大力，陈秀男谱曲。</p>\n<p style=\"font-weight: 400;\">该曲于1992年获当年十大中文金曲奖。</p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01kfpajg2GdScxqNbVC_!!2251059038.jpg\" width=\"426\" height=\"638\" damai_width=\"426\" damai_height=\"638\"></p>\n<p style=\"font-weight: 400;\">我拿青春赌明天</p>\n<p style=\"font-weight: 400;\">你用真情换此生</p>\n<p style=\"font-weight: 400;\">岁月不知人间多少的忧伤</p>\n<p style=\"font-weight: 400;\">何不潇洒走一回</p>\n<p style=\"font-weight: 400;\">——《潇洒走一回》</p>\n<p style=\"font-weight: 400;\">&nbsp;</p>\n<p style=\"font-weight: 400;\">8.《Don't Break My Heart》</p>\n<p style=\"font-weight: 400;\">《Don't Break My Heart》是由窦唯创作，黑豹乐队演唱的歌曲，收录于黑豹乐队发行的首张专辑《黑豹》中。</p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01c5JXD02GdSd2EWC7Q_!!2251059038.jpg\" width=\"558\" height=\"712\" damai_width=\"558\" damai_height=\"712\"></p>\n<p style=\"text-align: left;\" align=\"center\"><span lang=\"EN-US\">Don't break my heart</span></p>\n<p style=\"text-align: left;\" align=\"center\">再次温柔</p>\n<p style=\"text-align: left;\" align=\"center\">不愿看到你那保持的沉默</p>\n<p style=\"text-align: left;\" align=\"center\">独自等待</p>\n<p style=\"text-align: left;\" align=\"center\">默默承受</p>\n<p style=\"text-align: left;\" align=\"center\">喜悦总是出现在我梦中</p>\n<p style=\"text-align: left;\" align=\"right\">——《<span lang=\"EN-US\">Don't break my heart</span>》</p>\n<p style=\"text-align: left;\" align=\"right\">&nbsp;</p>\n<p style=\"font-weight: 400;\">9.《开门见山》</p>\n<p style=\"font-weight: 400;\">《开门见山》是由林夕作词，张惠妹演唱的一首歌曲，该曲收录于张惠妹2009年发行的专辑《阿密特》。</p>\n<p style=\"font-weight: 400;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN0187PVmX2GdSd3Lixgk_!!2251059038.jpg\" width=\"544\" height=\"818\" damai_width=\"544\" damai_height=\"818\"></p>\n<p style=\"font-weight: 400;\">不上浪漫的当</p>\n<p style=\"font-weight: 400;\">什么秋水 怎么望穿</p>\n<p style=\"font-weight: 400;\">什么灯火 怎么阑珊</p>\n<p style=\"font-weight: 400;\">什么风景 就怎么看</p>\n<p style=\"font-weight: 400;\">何必要拐弯</p>\n<p style=\"font-weight: 400;\">——《开门见山》</p>\n<p style=\"font-weight: 400;\">&nbsp;</p>\n<p style=\"font-weight: 400;\">演出乐队：空耳乐队</p>\n<p style=\"font-weight: 400;\">乐队乐手：</p>\n<p style=\"font-weight: 400;\">主唱: 萌萌</p>\n<p style=\"font-weight: 400;\">鼓手：穆淼</p>\n<p style=\"font-weight: 400;\">键盘：阿广</p>\n<p style=\"font-weight: 400;\">贝斯：赵亮</p>\n<p style=\"font-weight: 400;\">吉他：冯丹</p>\n<p style=\"font-weight: 400;\">&nbsp;</p>\n<p style=\"font-weight: 400;\">极致的歌声让大家沉浸在摇滚的氛围里</p>\n<p style=\"font-weight: 400;\">——歌声不仅仅是声音，更是一种感觉</p>\n<p style=\"font-weight: 400;\">让我们用歌声共同感受极致的摇滚氛围</p>\n<p style=\"font-weight: 400;\">重温经典摇滚</p>\n<p style=\"font-weight: 400;\">向经典致敬！</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "合肥聚橙剧院管理有限公司",
+                            "socialCreditCode": "91340102MA2RC1E7XY",
+                            "legalPerson": "曹一鸣",
+                            "regCapStr": "200万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(非自然人投资或控股的法人独资)",
+                            "entAddress": "安徽省合肥市瑶海区郎溪路与长临路路口瑶海大剧院3楼301室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一个订单对应一个证件；证件支持：护照/军官证/外国人永久居留身份证/港澳居民来往内地通行证/港澳台居民居住证/身份证/台湾居民来往大陆通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "10"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "空耳乐队"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "200"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "2",
+                    "credentials": [
+                        "1",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "3",
+                            "name": "军官证"
+                        },
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ]
+                },
+                "venue": {
+                    "venueId": "93020",
+                    "venueName": "合肥市瑶海大剧院",
+                    "venueProvinceName": "安徽省",
+                    "venueCityName": "合肥市",
+                    "lng": 117.36027,
+                    "lat": 31.855516,
+                    "venueAddr": "合肥市瑶海区郎溪路长临路交叉口东南角",
+                    "showCountText": "共有4个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D829383894685%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "特惠选座",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1724926351000",
+                "sellStartTimeStr": "08月29日 18:12",
+                "priceRange": "¥60-¥320",
+                "performBases": [
+                    {
+                        "name": "09.30 周一",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1727625600000",
+                        "performs": [
+                            {
+                                "performId": "216199017",
+                                "performName": "2024-09-30  周一 19:30",
+                                "itemId": "829383894685",
+                                "projectId": "221940001",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1727695800000",
+                                "performTime": "2024.09.30 19:30",
+                                "performStartDate": "2024-09-30",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "2人套票可省240元"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "单人票",
+                        "content": "单人优惠60元（原价100），可省40元\n单人优惠96元（原价160），可省64元\n单人优惠132元（原价220），可省88元\n单人优惠168元（原价280），可省112元"
+                    },
+                    {
+                        "tag": "2人套票",
+                        "content": "双人套票248元（原价220*2），可省192元\n双人套票320元（原价280*2），可省240元"
+                    }
+                ],
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "1611",
+                    "4939",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "8843",
+                    "9099",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "695425",
+                    "9867",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3237314"
+                ],
+                "promotionList": [
+                    {
+                        "type": "COMBINE",
+                        "tag": "套票",
+                        "isTagList": "false",
+                        "desc": "2人套票5.7折，到手¥320(票档¥280x2)"
+                    }
+                ],
+                "promotionDetail": {
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "1",
+                            "promotionGroupTypeDesc": "票档优惠",
+                            "promotionList": [
+                                {
+                                    "promotionType": "3",
+                                    "promotionTag": "套票",
+                                    "promotionContentList": [
+                                        "2人套票5.7折，到手¥320(票档¥280x2)",
+                                        "2人套票5.6折，到手¥248(票档¥220x2)"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "5.6折，到手248（票档¥220x2）"
+                                        },
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "5.7折，到手320（票档¥280x2）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "1",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8293838946/2/829383894685.jpg"
+            }
+        }
+    }
+}
