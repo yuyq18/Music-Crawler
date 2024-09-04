@@ -1,0 +1,41 @@
+{
+    "platform": "大麦",
+    "project_id": "831195081114",
+    "project_name": "郑州当燃群星演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "崔健",
+        "声音玩具",
+        "反光镜乐队",
+        "JOYSIDE乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.16 周一 19:30",
+    "session_time": [
+        "09.16 周一"
+    ],
+    "price": "180-980",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "郑州",
+    "venue_name": "河南省体育场馆中心",
+    "venue_info": {
+        "venue_address": "惠济区长兴路38号(近三全路)",
+        "lng": 113.628845,
+        "lat": 34.83635
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01EVT54i2GdSd7Rpwab_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN016uaihd2GdSd8U4zsu_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "442",
+        "wantNumStr": "442",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [],
+    "project_link": "https://detail.damai.cn/item.htm?id=831195081114"
+}

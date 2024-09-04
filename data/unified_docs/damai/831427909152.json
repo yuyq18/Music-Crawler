@@ -1,0 +1,52 @@
+{
+    "platform": "大麦",
+    "project_id": "831427909152",
+    "project_name": "叶炫清「once」2024巡演重庆站（嘉宾：章鱼妹李兰）",
+    "category_name": "演唱会",
+    "artists": [
+        "叶炫清"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.09 周六 20:00",
+    "session_time": [],
+    "price": "128-298",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "重庆",
+    "venue_name": "重庆VOX LIVEHOUSE",
+    "venue_info": {
+        "venue_address": "重庆市江北区建新北路观音桥龙湖新壹街c馆F1层1f",
+        "lng": 106.526558,
+        "lat": 29.582851
+    },
+    "project_info": "叶炫清「once」2024巡演重庆站\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01DWNX4F2GdSd7r2BG2_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01GfO5YN2GdSd92Q1V0_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "831427909152",
+            "cityName": "重庆站",
+            "showTime": "11.09"
+        },
+        {
+            "itemId": "831459185256",
+            "cityName": "南京站",
+            "showTime": "11.22"
+        },
+        {
+            "itemId": "831427677078",
+            "cityName": "上海站",
+            "showTime": "11.23"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=831427909152"
+}
