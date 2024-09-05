@@ -1,0 +1,38 @@
+{
+    "platform": "大麦",
+    "project_id": "831744145670",
+    "project_name": "龙梅子北京歌友会",
+    "category_name": "演唱会",
+    "artists": [
+        "龙梅子"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.10.04 周五 19:30",
+    "session_time": [
+        "10.04 周五"
+    ],
+    "price": "180-1000",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "红剧场",
+    "venue_info": {
+        "venue_address": "北京市东城区幸福大街44号",
+        "lng": 116.43212,
+        "lat": 39.88574
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01KNjnpW2GdSd5QgTVy_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01P0oG9B2GdSdAWuujU_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://detail.damai.cn/item.htm?id=831744145670"
+}

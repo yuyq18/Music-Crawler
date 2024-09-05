@@ -1,0 +1,54 @@
+{
+    "platform": "大麦",
+    "project_id": "830808633827",
+    "project_name": "山歌响起的地方·刀郎2024巡回演唱会 广州站",
+    "category_name": "演唱会",
+    "artists": [
+        "刀郎"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.10.05-10.06",
+    "session_time": [],
+    "price": "480-1280",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "广州",
+    "venue_name": "宝能广州国际体育演艺中心",
+    "venue_info": {
+        "venue_address": "开创大道2666号",
+        "lng": 113.484026,
+        "lat": 23.177317
+    },
+    "project_info": "演出介绍：阔别十年，炙热归来，一如当年，再见刀郎。山歌响起的地方·刀郎2024巡回演唱会正式拉开帷幕。广州站定于2024年10月5日-6日，唱响宝能广州国际体育演艺中心。\n\n \n《山歌响起的地方》，山歌，乃民间性情之响。书契以来，代有歌谣。自楚骚唐律，争妍竞畅，而民间性情之响，遂不得列之于诗坛，于是别之曰“山歌”。\n\n刀郎老师走了很长一段时间，如今又顺着那声音回来。\n \n它走在大西北的风尘里；等候在北方的天空下；把望不到边的思念；留在西北人辽阔的心底。\n \n它跟着江水，流遍江南。听着对岸的故事，长成了一朵有性情的浪。\n \n山歌， 不只是山与歌，它还是男与女；善与恶；理想与现实，它可以穿过土地， 跨越时间。\n \n山歌， 就是民间最有力量的喜怒哀乐，越是性情坦荡的地方，山歌越是响亮！\n \n特别提醒：本站演出分为上下篇幅，即2024年10月5日场次为上篇，2024年10月6日场次为下篇，请观演人员根据自身时间的安排予以购买。\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01RIqfbp2GdSd5yj9bX_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN017Pisww2GdSd4FSCKp_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01g3lNMf2GdSd2zLFC5_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01fWe5S52GdSd1nds5G_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "23498",
+        "wantNumStr": "2.3万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过75%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "830808633827",
+            "cityName": "广州站",
+            "showTime": "10.05-10.06"
+        },
+        {
+            "itemId": "827414702558",
+            "cityName": "中国澳门站",
+            "showTime": "11.09"
+        },
+        {
+            "itemId": "828456401412",
+            "cityName": "成都站",
+            "showTime": "09.21-09.22"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=830808633827"
+}

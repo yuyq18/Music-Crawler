@@ -1,0 +1,72 @@
+{
+    "platform": "大麦",
+    "project_id": "831340979339",
+    "project_name": "“法国姐姐”乔伊丝·乔纳森《小意思》2024演唱会—北京站",
+    "category_name": "演唱会",
+    "artists": [
+        "Joyce Jonathan（乔伊丝·乔纳森）"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.10 周日 19:30",
+    "session_time": [
+        "11.10 周日"
+    ],
+    "price": "180-880",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "北京展览馆剧场",
+    "venue_info": {
+        "venue_address": "北京市西城区西直门外大街135号院",
+        "lng": 116.343741,
+        "lat": 39.94218
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN019SO2Bc2GdSdBF2JAC_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN018MVdIp2GdSd6cC2A0_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01m0LiMZ2GdSdBEsVS5_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01QzOKZy2GdSd15yo5C_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01EaczT42GdSd8X4w7k_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "104",
+        "wantNumStr": "104",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "829834735434",
+            "cityName": "无锡站",
+            "showTime": "11.07"
+        },
+        {
+            "itemId": "829907577767",
+            "cityName": "沈阳站",
+            "showTime": "11.09"
+        },
+        {
+            "itemId": "831340979339",
+            "cityName": "北京站",
+            "showTime": "11.10"
+        },
+        {
+            "itemId": "831898460482",
+            "cityName": "上海站",
+            "showTime": "11.15"
+        },
+        {
+            "itemId": "830204721182",
+            "cityName": "杭州站",
+            "showTime": "11.16"
+        },
+        {
+            "itemId": "830043868544",
+            "cityName": "广州站",
+            "showTime": "11.17"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=831340979339"
+}

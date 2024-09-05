@@ -1,0 +1,57 @@
+{
+    "platform": "大麦",
+    "project_id": "831227518463",
+    "project_name": "林志炫ONEtake2.0《我忘了我已老去》巡回演唱会–武汉站",
+    "category_name": "演唱会",
+    "artists": [
+        "林志炫"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.09 周六 19:30",
+    "session_time": [
+        "11.09 周六"
+    ],
+    "price": "399-1099",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "武汉",
+    "venue_name": "光谷国际网球中心(中央球场)",
+    "venue_info": {
+        "venue_address": "湖北省武汉市东湖高新区高新二路附近",
+        "lng": 114.462419,
+        "lat": 30.474901
+    },
+    "project_info": "华语Live 天王-林志炫\n纵横华语乐坛30年\n零瑕疵美声 展现唱功天花板\n每个音符 每段旋律\n每句歌词都力图完美\n每一首歌曲都触动人心\n\n输了你赢了世界又如何/蒙娜丽莎的眼泪\n单身情歌/散了吧/离人/浮夸/没离开过\n凤凰花开的路口/Just For You/你的样子...\n首首不败金曲 跨越数个世代\n\n正所谓\n江山代有才人出\n代代都有林志炫\n30年一如既往的初心\nONEtake 是林志炫对自我最低的要求\nONEtake 是林志炫给每一位听众最基本的满足\n登峰造极的唱功\n多样曲风细腻诠释\n任何形容都不及一次亲临现场的切身感受\n\n我\n没有老去\n因为\n《我忘了我已老去》\n2024年11月9日\n一场无与伦比的音乐盛宴\n全新的舞台视觉情境打造\n即将在光谷国际网球中心\n重磅登场，激情开唱\n为所爱，去现场\n星辰大海，只为你而来\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN012sljMK2GdSd7Qh40k_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01j6Abjd2GdSd7Liqsx_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01zB36iY2GdSd9HoXbF_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ByOr0F2GdSd6hcaep_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN017Teh9k2GdSd7QvECX_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "1316",
+        "wantNumStr": "1316",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "831227518463",
+            "cityName": "武汉站",
+            "showTime": "11.09"
+        },
+        {
+            "itemId": "809856556151",
+            "cityName": "杭州站",
+            "showTime": "10.19"
+        },
+        {
+            "itemId": "790227158308",
+            "cityName": "北京站",
+            "showTime": "09.07"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=831227518463"
+}

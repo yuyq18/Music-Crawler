@@ -1,0 +1,430 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1597",
+    "cityname": "宁波",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_831910152737",
+    "imgurl": "-270833065",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "保利城市岛屿季《寻找李慧珍演唱会》",
+    "nameNoHtml": "保利城市岛屿季《寻找李慧珍演唱会》",
+    "price": "258.0",
+    "price_str": "258",
+    "pricehigh": "258.0",
+    "privilegeTags": "[]",
+    "projectid": "831910152737",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.09.07 周六 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "慈溪大剧院·多功能厅",
+    "venuecity": "宁波",
+    "venueid": "1074036",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01wLvLos2GdSd6Vxk2M_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "831910152737",
+                    "itemName": "【宁波】保利城市岛屿季《寻找李慧珍演唱会》",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "330200",
+                    "cityName": "宁波市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01wLvLos2GdSd6Vxk2M_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i1/2251059038/O1CN01wLvLos2GdSd6Vxk2M_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.09.07 周六 19:30",
+                    "showDuration": "110分钟（含中场休息10分钟）",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京保利剧院管理有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：北京保利剧院管理有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1597",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "4",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "剧目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: left;\"><span style=\"color: #e13c39; font-size: 22px;\"><strong>购票及观演须知：</strong></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #e13c39; font-size: 22px;\"><strong>1、演出票具有时效性，一旦出售概不退换，请审慎购票。如无法观演，请自行处理演出票。演员及曲目以演出当天为准。演出当天请提早半小时取票防止迟到，由于观众较多，恕不提供电话提醒服务，请您合理安排好时间提前取票以免耽误观演时间。</strong></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #e13c39; font-size: 22px;\"><strong>2、所有婴幼儿童一律凭票入场，一人一票、大小同价、对号入座。请为随行儿童购买同一楼层的演出票，一、二层不互通。</strong></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #e13c39; font-size: 22px;\"><strong>3、观演人请携带当日演出票，配合做好入场。</strong></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #e13c39; font-size: 22px;\"><strong>4、一人一票，经剧院工作人员核对后，方可入场观演。</strong></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #e13c39; font-size: 22px;\"><strong>5、进入观众厅后，请按照演出票上的座位，对号入座，请勿在演出期间换座。</strong></span></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\"><strong><span style=\"color: #ff0000;\">温馨提示</span></strong></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff0000;\">●请与其他观众保持安全距离，不扎堆、不聚集，听从剧院工作人员安排，有序排队、等候入场，文明观演。</span></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: center;\">山高路远 岁月如歌</p>\n<p style=\"text-align: center;\">随着时间流转</p>\n<p style=\"text-align: center;\">我们的心灵逐渐变得更加坚韧</p>\n<p style=\"text-align: center;\">而初心也将得以回归</p>\n<p style=\"text-align: center;\">让我们跟随李慧珍在 2024 年寻找最初的模样</p>\n<p style=\"text-align: center;\">感受岁月的沉淀</p>\n<p style=\"text-align: center;\">在歌声的滋养中重拾美好回忆</p>\n<p>&nbsp;</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN019F0CX52GdScCIVju8_!!2251059038.jpg\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp;</p>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>01</strong></p>\n<p style=\"text-align: center;\"><strong>李慧珍</strong></p>\n<p style=\"text-align: center;\">LI HUI ZHEN</p>\n<p>内地歌坛实力女歌手，在音乐的道路上，李慧珍一路的风雨兼程，曾经的困难与挫折，让她更加珍惜现在所拥有的一切。经过时间的洗礼，每一次舞台，都是她不断寻找自己的过程。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01fEKUtZ2GdScCkUPmm_!!2251059038.jpg\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><strong>02</strong></p>\n<p style=\"text-align: center;\"><strong>你的回忆里有没有我</strong></p>\n<p style=\"text-align: center;\">I REMEMBER YOU</p>\n<p>九十年代末摇滚曲风的《在等待》、《猜爱》、《状态》、《真的可爱》......</p>\n<p>&nbsp;</p>\n<p>2000 年之后大火的《寻找李慧珍》、《爱死了昨天》、《你叫什么名字》、《天蓝》......</p>\n<p><br>近年来在各大音综舞台上频频出圈的《追梦赤子心》、《一路生花》......</p>\n<p>&nbsp;</p>\n<p>李慧珍，总有一首歌可以跨越时间，让你能找到属于自己的回忆。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01qGmh932GdScCIXkdK_!!2251059038.jpg\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01foMMxN2GdScCMorQZ_!!2251059038.jpg\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: center;\"><strong>01</strong></p>\n<p style=\"text-align: center;\"><strong>这一路</strong></p>\n<p style=\"text-align: center;\">THIS JOURNEY</p>\n<p>1993 年，获得中国青年歌手“英皇金融杯”电视大奖赛铜奖。<br>1998 年，推出首张专辑《在等待》，获得第 5 届东方风云榜“东方新人奖”。<br>1999 年，发行第二张专辑《状态》。<br>2000 年，因病暂别歌坛。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01AsWpPu2GdSc9oVw00_!!2251059038.jpg\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>2006 年复出后，陆续发行《<strong>寻找·李慧珍</strong>》和《<strong>爱死了</strong>》两张专辑。<br>2007 年，获得第 13 届华语榜中榜“最受欢迎女歌手奖”，同年获得第 1 届华鼎奖“公众最满意演艺明星奖”。<br>2008 年，举办“梦想成珍”北京演唱会。<br>2013 年，举办“那些年我们唱过的歌”北京演唱会。<br>2017 年，参加江苏卫视《<strong>蒙面唱将</strong>猜猜猜第二季》。<br>2021 年，参加芒果 TV《<strong>乘风破浪的姐姐</strong>第二季》。<br>2023 年，官宣加盟索尼音乐中国，开启事业新里程，带来久违的个人全新单曲《活与该》、《人海一面》、《仅此而已》、《清空》等，新专辑也在全力筹备中。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01IYKnDT2GdScF7ZRSN_!!2251059038.jpg\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须兑换成纸质票验票入场，当天请按照【票夹】提示，前往取票点换取纸质票后入场"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "110分钟（含中场休息10分钟）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "10"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "100分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "1074036",
+                    "venueName": "慈溪大剧院·多功能厅",
+                    "venueProvinceName": "浙江省",
+                    "venueCityName": "宁波市",
+                    "lng": 121.281531,
+                    "lat": 30.202563,
+                    "venueAddr": "剧院路与滨河北路交叉口西南150米",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D831910152737%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "选座购买",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1725559546000",
+                "sellStartTimeStr": "09月06日 02:05",
+                "priceRange": "¥258",
+                "performBases": [
+                    {
+                        "name": "09.07 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1725638400000",
+                        "performs": [
+                            {
+                                "performId": "215727018",
+                                "performName": "2024-09-07 周六 19:30",
+                                "itemId": "831910152737",
+                                "projectId": "221503003",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1725708600000",
+                                "performTime": "2024.09.07 19:30",
+                                "performStartDate": "2024-09-07",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "8843",
+                    "9099",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "695425",
+                    "9867",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "1636290",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8319101527/2/831910152737.jpg"
+            }
+        }
+    }
+}
