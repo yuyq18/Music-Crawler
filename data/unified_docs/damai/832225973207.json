@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "832225973207",
+    "project_name": "2024 唐汉霄【伽利略】演唱会-上海站",
+    "category_name": "演唱会",
+    "artists": [
+        "唐汉霄"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.10.18 周五 20:00",
+    "session_time": [],
+    "price": "227-336",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "上海",
+    "venue_name": "蜚声上海PHASE LIVE HOUSE SHANGHAI",
+    "venue_info": {
+        "venue_address": "上海市静安区中兴路1683号L3-27",
+        "lng": 121.453591,
+        "lat": 31.253261
+    },
+    "project_info": "唐汉霄2024伽利略巡回演唱会\n\n 一切路途都靠自己走出来，对与错无法在当下判断，唯独把一切交给时间，无论当下怎样，相信自己所相信的。\n很多时候，伟大的真理都超越了时代，我们所坚信的很多东西会被质疑，我们不被认可，被嘲笑被孤立，常常好像置身荒野之中，无所无依。\n但总有人，会在孤独的旷野之中独行，最终得见天地繁星。\n\n唐汉霄个人首次巡演《伽利略》就是他这些年音乐探索追寻之路，最终以Live形式与大家在线下共享。\n唐汉霄为陈奕迅创作《让我留在你身边》，入围金像奖、金马奖最佳电影歌曲，正式以唱作人身份踏入乐坛。\n这些年的代表作有\n《无名之辈》 《再见深海》\n《末日飞船》等。还为单依纯、周深、薛之谦、周笔畅、徐佳莹、郁可唯、刘宇宁、张韶涵、张碧晨等歌手打造了热门金曲，如《在夜里跳舞》\n《摩天大楼》 《大雨将至》，以及浪姐主题曲《乘风》，披哥主题曲《披荆斩棘》。\n\n唐汉霄于2020年底发行个人首张专辑《阿波罗》，后续有大量的优质电影歌曲如《再见深海》、《普通》\n《晚星》 《You are the only way》 《无脚鸟》等。\n唐汉霄在《这就是原创》\n《为歌而赞》 《天赐的声音》\n《闪光的乐队》等音乐节目里，与张韶涵、周深、张信哲、单依纯、梁龙、小鬼、杨坤等有非常精彩的合作。\n2024年唐汉霄参加了《奔赴万人现场》节目，从Live House一路晋级到最终万人现场。节目之后单曲《伽利略》和全新EP会伴随巡演先后发行。\n\n唐汉霄2024伽利略巡回演唱会\n第一站：10月18日（周五）\n地点：上海蜚声LIVE HOUSE\n第二站：11月8日（周五）\n地点：北京.East live\n 第三站：11月15日（周五）\n地点：深圳.BO Live（前海店）\n第四站：11月16日（周六）\n地点：广州.疆进酒·OMNISPACE 1号馆\n票价\n普通票：227元\nVIP票：336元\nVIP权益：优先入场资格，签名海报一份\n注意：本次巡演全站将不设专属VIP区域，购买VIP票的观众请在19：00（普通票进场前）前到达场地并检票入场\n进场时间\nVIP票：18：30\n普通票：19：00\n\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01AHdS1w2GdSdCGJZH8_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01rZ6xo12GdSd2MIM2Y_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01G35aeX2GdSd0YuAp7_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01uwIBql2GdScwTi2EB_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01jc79wv2GdSd0N3iiI_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01IfsxvZ2GdScwAYUg5_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01seTYxW2GdScwThABl_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "99",
+        "wantNumStr": "99",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "832225973207",
+            "cityName": "上海站",
+            "showTime": "10.18"
+        },
+        {
+            "itemId": "829233110400",
+            "cityName": "北京站",
+            "showTime": "11.08"
+        },
+        {
+            "itemId": "829039458583",
+            "cityName": "深圳站",
+            "showTime": "11.15"
+        },
+        {
+            "itemId": "830339060769",
+            "cityName": "广州站",
+            "showTime": "11.16"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=832225973207"
+}

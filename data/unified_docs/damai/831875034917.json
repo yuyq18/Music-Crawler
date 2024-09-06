@@ -1,0 +1,69 @@
+{
+    "platform": "大麦",
+    "project_id": "831875034917",
+    "project_name": "The 12 Tenors of the World Concert Tour 世界十二男高音巡回演唱会武汉站",
+    "category_name": "演唱会",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2024.11.06 周三 19:30",
+    "session_time": [],
+    "price": "80-880",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "武汉",
+    "venue_name": "武汉琴台大剧院",
+    "venue_info": {
+        "venue_address": "武汉市汉阳区知音大道7号",
+        "lng": 114.259532,
+        "lat": 30.560901
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01OyU68c2GdSdAVZqrK_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01PAdsSN2GdSdBug5gs_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01q9jEHb2GdSd2MulZD_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ZSI56x2GdSdD15iMa_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01DueUpy2GdSdAwjzYP_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01KT7qEb2GdSd7sqjv5_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "55",
+        "wantNumStr": "55",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "826329569251",
+            "cityName": "杭州站",
+            "showTime": "11.02"
+        },
+        {
+            "itemId": "825843582255",
+            "cityName": "长沙站",
+            "showTime": "11.03"
+        },
+        {
+            "itemId": "826697495149",
+            "cityName": "南京站",
+            "showTime": "11.05"
+        },
+        {
+            "itemId": "831875034917",
+            "cityName": "武汉站",
+            "showTime": "11.06"
+        },
+        {
+            "itemId": "827317603758",
+            "cityName": "东莞站",
+            "showTime": "11.10"
+        },
+        {
+            "itemId": "827545084851",
+            "cityName": "上海站",
+            "showTime": "11.12"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=831875034917"
+}
