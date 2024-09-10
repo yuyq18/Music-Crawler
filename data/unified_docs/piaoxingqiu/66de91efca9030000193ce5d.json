@@ -1,0 +1,38 @@
+{
+    "platform": "票星球",
+    "project_id": "66de91efca9030000193ce5d",
+    "project_name": "【北京】1988韩剧主题曲演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "以现场为准"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.18 19:30",
+    "session_time": [
+        "20241218"
+    ],
+    "price": "58-600",
+    "isGeneralAgent": "false",
+    "isHotProject": "true",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "朝阳剧场",
+    "venue_info": {
+        "venue_address": "北京市朝阳区东三环北路36号",
+        "lng": 116.462657,
+        "lat": 39.922615
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://cdn.ticketmars.com/image/prod/20240909_58/17258617438159855.jpg",
+        "https://cdn.ticketmars.com/image/prod/20240909_22/17258618449469718.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://m.piaoxingqiu.com/content/66de91efca9030000193ce5d?showId=66de91efca9030000193ce5d"
+}

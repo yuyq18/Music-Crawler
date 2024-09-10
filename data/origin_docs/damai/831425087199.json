@@ -1,0 +1,680 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：张信哲、张靓颖、吴克群、叶世荣、何屹繁、陈乐基Rocky Chan",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "727",
+    "cityname": "郴州",
+    "couponTags": "[]",
+    "description": "艺人：张信哲、张靓颖、吴克群、叶世荣、何屹繁、陈乐基Rocky Chan",
+    "id": "1_1_831425087199",
+    "imgurl": "-275683721",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "“天籁唱将，声动郴州”2024全明星演唱会",
+    "nameNoHtml": "“天籁唱将，声动郴州”2024全明星演唱会",
+    "price": "180.0",
+    "price_str": "180-1660",
+    "pricehigh": "1660.0",
+    "privilegeTags": "[]",
+    "projectid": "831425087199",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.10.04 周五 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "郴州体育中心体育场",
+    "venuecity": "郴州",
+    "venueid": "54440",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01NnxMHg2GdSdCcHTz8_!!0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "831425087199",
+                    "itemName": "【郴州】“天籁唱将，声动郴州”2024全明星演唱会",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "431000",
+                    "cityName": "郴州市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01NnxMHg2GdSdCcHTz8_!!0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i4/2251059038/O1CN01NnxMHg2GdSdCcHTz8_!!0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01WFOs552GdSdHCVZ3h_!!2251059038.png",
+                    "seatImages": [
+                        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01WFOs552GdSdHCVZ3h_!!2251059038.png"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "2024.10.04 周五 19:30",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。",
+                            "tagType": "2",
+                            "renderType": "2",
+                            "tagDescJson": "{\"generalNote\":\"该演出支持退票，您可以在工作时间联系客服进行退票，退票需要收取手续费，不同场次规则不同，请选择具体场次查看详细退票规则：\",\"performRules\":[{\"performDate\":\"2024-10-04  周五 19:30\",\"ruleDesc\":\"该场次可支持用户申请退款的情形，以项目详情页公告为准，退票政策最迟于实际开售时公布\",\"rules\":[]}],\"refundProcedureFeeRule\":4}",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：郴州国际会展中心有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：郴州国际会展中心有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "702",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><span style=\"font-size: 20px;\"><strong>“天籁唱将，声动郴州”2024全明星演唱会</strong></span></p>\n<p><br><strong>“天籁唱将，声动郴州”</strong><br><strong>星光盛典，共赴一场音乐的约会</strong><br><strong>郴州星光夜，月影下的音乐诗篇</strong><br><strong>音乐与爱，助力资兴</strong><br><strong>作为一场具有社会责任感的演唱会，将特别设置公益环节，按照每售出一张门票捐赠5元的标准向资兴受灾地区传递爱心。</strong></p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ehiyuE2GdSd2InFwI_!!2251059038.png\" width=\"377\" height=\"502\" damai_width=\"377\" damai_height=\"502\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01hK2eMB2GdSdGcGdYS_!!2251059038.png\" width=\"1920\" height=\"1080\" damai_width=\"1920\" damai_height=\"1080\"></p>\n<p><strong>*出行攻略</strong><br>建议乘坐公共交通工具<br>·公交<br>市国际会展中心南:<br>13路13路观山洞专线21路27路36路38路39路56路/K56路 59路 201路市国际会展中心北:22路/K22路108路817路861路872路 874路<br>·自驾停车区:白水路到体育馆路中间的郴县路禁止车辆通行<br>郴州苏仙区行政中心、郴州市政务服务中心、郴州国际会展中心(南门进入停车场)、林丹羽毛球馆、郴州文化艺术中心(体育中心旁边/在体育路与桂园路中间)<br>自驾:开车的小友伴们一定要提前寻找停车场停车。(不建议自驾前往，堵车ing)<br>打车:考虑搭乘网约车/出租车入场离场的小友伴，直接定位“郴州市体育中心”，离场可以随便往人少的方向走几百米，这样更容易叫到车。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01DKwkYM2GdSd9odhOF_!!2251059038.png\" width=\"634\" height=\"475\" damai_width=\"634\" damai_height=\"475\"></p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01xl3o9Z2GdSd7ot5vy_!!2251059038.png\" width=\"379\" height=\"505\" damai_width=\"379\" damai_height=\"505\"></p>\n<p>张信哲-情歌王子<br>华语流行乐男歌手<br>代表作：《爱如潮水》、《爱就一个字》《过火》<br>歌曲动人，让人入迷，高亢温柔的声线，诚挚动人的歌声，唱出了令人沉醉的情歌世界，他的歌声里充满故事感，凄美哀伤的歌词搭配他温柔如水的声线，总会让人在脑海中浮现唯美的画面，从出道至今共推出了三十余张经典情歌专辑，歌曲家喻户晓，深入人心，以其特有的“忧郁气质”与“疗伤唱法”深得大众称赞与喜爱，“哲式情歌、时代经典”</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01cCOH1P2GdSd2ItUol_!!2251059038.png\" width=\"373\" height=\"497\" damai_width=\"373\" damai_height=\"497\"></p>\n<p>张靓颖<br>华语流行女歌手、词曲创作人<br>代表作：《如果这就是爱情》《我的梦》《终于等到你》<br>出道至今凭借多张畅销专辑和极具辨识度的华丽声线，成为站上世界舞台的实力歌后，她的歌声清亮而富有感染力，每一首歌曲都如同故事叙述般引人入胜，动人心弦。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01WkLcRA2GdSdCQxuGk_!!2251059038.png\" width=\"349\" height=\"465\" damai_width=\"349\" damai_height=\"465\"></p>\n<p>吴克群<br>华语流行男歌手、词曲创作人、演员<br>代表作：《为你写诗》、《大舌头》、《将军令》<br>以其才华横溢的创作能力和独特的音乐风格，在华语乐坛独树一帜，他的歌曲融合了多种音乐元素，旋律优美，歌词深情，总能触动人心。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01v6IBMV2GdSdAsfloo_!!2251059038.png\" width=\"340\" height=\"453\" damai_width=\"340\" damai_height=\"453\"></p>\n<p>叶世荣<br>中国香港摇滚乐队Beyond的鼓手、词曲创作人<br>代表作：《不再犹豫》《海阔天空》（参与创作与演奏）<br>音乐风格以英伦摇滚为基础，注重旋律与情感的融合，同时不断尝试多元化的音乐风格。他的音乐作品和舞台表现都充分展示了他作为一位优秀音乐人的才华和魅力。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN012h08lJ2GdSdAsfMuu_!!2251059038.png\" width=\"371\" height=\"494\" damai_width=\"371\" damai_height=\"494\"></p>\n<p>陈乐基<br>华语摇滚男歌手、杀手锏乐队主唱，赛车手<br>代表作：《月半小夜曲》（翻唱版本广受好评）<br>他的音乐风格独具特色，融合了摇滚、流行等多种元素，歌声富有磁性和感染力，演出充满激情和力量，每一次登台都能给观众带来震撼的视听享受</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01dhgwUP2GdSd6kkNwS_!!2251059038.png\" width=\"308\" height=\"411\" damai_width=\"308\" damai_height=\"411\"></p>\n<p>何屹繁Leo<br>华语流行唱作人<br>代表作专辑：《第七个日出》<br>他会用温暖的声音将自己的故事娓娓道来，也会用引人入胜的节奏来展现自己的态度。无论是深情的慢歌，还是充满活力的快歌，他都能在不同风格中游刃有余，为观众带来丰富的音乐体验。</p>\n<p>&nbsp;</p>\n<p><strong>*温馨提示</strong><br>1) 郴州市体育中心与会展中心间郴县路演出期间限制机动车通行，倡导绿色出行。<br>2) 本次演出采用实名制购票，每笔订单限购【6】张。购票需凭观演人本人身份证件购买，每张身份证件对应一张票，一证一票。证件支持：身份证／护照／港澳居民来往内地通行证／台湾居民来往大陆通行证。同场次请勿使用同一证件在多家售票平台购票，以免给您带来不便及不必要的损失。<br>3) 内场观众请从体育中心南门（郴县路）广场安检入场，并根据指示牌验票进入；看台观众请从体育中心西北（白水路与青年大道交叉口）广场安检入场；验票入场时，要求【实际观演人】、【观演本人有效期内的身份证件】同【购票订单中的观演人】信息一致。现场设有验票闸机，刷【有效期内的身份证件】和【人脸识别】，通过后方可入场。为保证验票顺畅，请务必携带本人身份证件前往观演。<br>4) 门票仅限单次使用，出场即无效，遗失、损毁不补。<br>5) 儿童一律凭票入场，需在家长陪同下观演。严禁四处走动跨越其它门票区域。<br>6) 所有观众、嘉宾、工作人员都必须通过安检门进行安全检查。由于安检需要一定时间，请观众根据观演时间提前90分钟入场；勿中途退场，21:00后停止检票。<br>7) 为了确保您有一个愉快顺利的观演体验，在购票前请务必仔细阅读【购票须知】。具体入场需求，请参照官方平台于演出日前发布的【观演指南】。<br>8) 无寄存处,请自行保管携带物品，谨防贵重物品丢失。</p>\n<p>&nbsp;</p>\n<p><strong>安全须知</strong><br>（一）根据国家规定禁止携带的物品<br>1.毒害品；<br>2.管制刀具；<br>3.腐蚀性物品；<br>4.放射性物品；<br>5.易燃、易爆物品；<br>6.枪支、军用或警用械具类；<br>7.禁止携带打火机；<br>8.液体（汽油类等）<br>（二）根据场地规定禁止携带的物品<br>1.严禁携带旗帜、标语、横幅和传单；<br>2.严禁携带旗杆、伸缩旗杆、自拍杆；<br>3.严禁携带激光笔、激光手电；<br>4.严禁携带有宗教、种族、政治内容的物品；<br>5.严禁携带灯牌、荧光棒等发光应援物入场，其中包含可肉眼看见电路，光污染超过1级的高光电光二极管；<br>6.严禁携带投影设备；<br>7.严禁携带宠物等活物；<br>8.严禁携带所有品类无人机及小型飞行物；<br>9.严禁携带铜锣，镲等造成大范围声音污染的物品；<br>10.严禁携带任何会对其他观众造成伤害的物品，如板凳、球棒、尖锐物<br>11.禁止球和飞盘<br>12.禁止无人机，遥控飞机禁止毒品或毒品用具禁止防毒面具<br>13.禁止玻璃、罐子、杯子、冷却器、自喷油漆、禁止气球<br>14.禁止大型链子或带尖刺的物品禁止包(超过30x30厘米)<br>15.禁止激光笔和空气喇叭<br>16.禁止150ml以上液体化妆品禁止记号笔、钢笔或喷漆<br>17.禁止火机<br>18.禁止外带食物或饮料<br>19.禁止非处方药物<br>20.禁止宠物<br>21.禁止专业的照片、视频或录音设备(禁止可拆卸镜头、三脚架、大变焦或商用设备)<br>22.禁止标语条幅传单、<br>23.禁止帐篷、大伞、椅子、折叠凳，禁止玩具枪，水枪，弹弓<br>24.禁止携带武器或任何武器配件(包括小刀、胡椒喷雾等)<br>25.禁止烟花、信号弹、冷烟花等燃烧物<br>26、禁止携带各类伞具（长、短柄伞均须在生态园广场入口处免费寄存；如遇雨天主办方将免费提供一次性雨衣）<br>27、禁止充气沙发、地垫，禁止旗帜旗杆<br>28.中国法律法规明令禁止的物品</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "郴州国际会展中心有限公司",
+                            "socialCreditCode": "914310003969614054",
+                            "legalPerson": "田新学",
+                            "regCapStr": "500万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(非自然人投资或控股的法人独资)",
+                            "entAddress": "郴州市苏仙区郴州大道观山洞街道下白水村"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：身份证/港澳台居民居住证/港澳居民来往内地通行证/台湾居民来往大陆通行证/护照/外国人永久居留身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "张信哲、张靓颖、吴克群、叶世荣、陈乐基、何屹繁"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "54440",
+                    "venueName": "郴州体育中心体育场",
+                    "venueProvinceName": "湖南省",
+                    "venueCityName": "郴州市",
+                    "lng": 113.105637,
+                    "lat": 25.793777,
+                    "venueAddr": "湖南省郴州市苏仙区郴州市体育中心(郴州国际会展中心西北)",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=831425087199"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D831425087199%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "2041",
+                        "artistName": "张信哲",
+                        "archives": "华语男歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1709953386311/1709953386311-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1267",
+                        "artistName": "张靓颖",
+                        "archives": "中国流行女歌手，被誉为“海豚公主”。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1701405611309/1701405611309-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1938",
+                        "artistName": "吴克群",
+                        "archives": "中国台湾歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1713417282670/1713417282670-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "16003",
+                        "artistName": "叶世荣",
+                        "archives": "中国香港男歌手、音乐人、摇滚乐队BEYOND鼓手及创队成员 。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413389236/1534413389236-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1107854288",
+                        "artistName": "何屹繁",
+                        "archives": "何屹繁，中国内地影视男演员、流行乐歌手，音乐代表作《太多话想要对你说》《繁星坠入我眼里》《LEO KING》等。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1682068004522/1682068004522-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "22490696864",
+                        "artistName": "陈乐基Rocky Chan",
+                        "archives": "陈乐基（Rocky Chan），1985年4月16日出生于中国香港，中国香港男歌手，KillerSoap杀手锏乐队主唱，毕业于香港教育学院音乐教育系硕士。\n2004年，陈乐基和朋友组建KillerSoap杀手锏乐队，正式出道；2011年1月11日，陈乐基杀手锏乐队发行首张专辑《Bittersweet》。\n2014年，陈乐基参加第三季《中国好声音》用一首《月半小夜曲》夺得观众和乐迷的喜爱。同年，参加《好声音盛典之夜》凭借《月半小夜曲》获得好声音年度金曲奖。\n2015年，以杀手锏乐队形式发行全新国语专辑《长大就是这样》。\n2016年，参加广东广播电视台《麦王争霸》并获得“麦王称号”，同年",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1665542490706/1665542490706-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "2041",
+                        "name": "张信哲",
+                        "desc": "华语男歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1709953386311/1709953386311-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1267",
+                        "name": "张靓颖",
+                        "desc": "中国流行女歌手，被誉为“海豚公主”。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1701405611309/1701405611309-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1938",
+                        "name": "吴克群",
+                        "desc": "中国台湾歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1713417282670/1713417282670-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "16003",
+                        "name": "叶世荣",
+                        "desc": "中国香港男歌手、音乐人、摇滚乐队BEYOND鼓手及创队成员 。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413389236/1534413389236-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1107854288",
+                        "name": "何屹繁",
+                        "desc": "何屹繁，中国内地影视男演员、流行乐歌手，音乐代表作《太多话想要对你说》《繁星坠入我眼里》《LEO KING》等。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1682068004522/1682068004522-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "22490696864",
+                        "name": "陈乐基Rocky Chan",
+                        "desc": "陈乐基（Rocky Chan），1985年4月16日出生于中国香港，中国香港男歌手，KillerSoap杀手锏乐队主唱，毕业于香港教育学院音乐教育系硕士。\n2004年，陈乐基和朋友组建KillerSoap杀手锏乐队，正式出道；2011年1月11日，陈乐基杀手锏乐队发行首张专辑《Bittersweet》。\n2014年，陈乐基参加第三季《中国好声音》用一首《月半小夜曲》夺得观众和乐迷的喜爱。同年，参加《好声音盛典之夜》凭借《月半小夜曲》获得好声音年度金曲奖。\n2015年，以杀手锏乐队形式发行全新国语专辑《长大就是这样》。\n2016年，参加广东广播电视台《麦王争霸》并获得“麦王称号”，同年",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1665542490706/1665542490706-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "192",
+                    "wantNumStr": "192",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN01zFBvUY1YFmleJTIQm_!!6000000003030-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1220646/244129284_1686831801619.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01zFBvUY1YFmleJTIQm_!!6000000003030-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/848548/169709737.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01vY86me1ydJ7UVciBd_!!6000000006601-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「开售提醒」</span>购票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "90",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "13",
+                "sellStartTime": "1725959166000",
+                "sellStartTimeStr": "09月10日 17:06",
+                "priceRange": "¥180-¥1660",
+                "performBases": [
+                    {
+                        "name": "10.04 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1727971200000",
+                        "performs": [
+                            {
+                                "performId": "216403294",
+                                "performName": "2024-10-04  周五 19:30",
+                                "itemId": "831425087199",
+                                "projectId": "222071039",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1728041400000",
+                                "performTime": "2024.10.04 19:30",
+                                "performStartDate": "2024-10-04",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售，正式开票后将第一时间配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "2976258",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "1611",
+                    "4939",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "8843",
+                    "9099",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "695425",
+                    "9867",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8314250871/2/831425087199.jpg"
+            }
+        }
+    }
+}
