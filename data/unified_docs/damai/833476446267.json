@@ -1,0 +1,77 @@
+{
+    "platform": "大麦",
+    "project_id": "833476446267",
+    "project_name": "达闻西「随机上演」2024秋季巡演 ·合肥站",
+    "category_name": "演唱会",
+    "artists": [
+        "达闻西"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.10.27 周日 20:00",
+    "session_time": [],
+    "price": "150-180",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "合肥",
+    "venue_name": "OTW LIVEHOUSE",
+    "venue_info": {
+        "venue_address": "宁国路罍街二期15号楼安徽原创音乐基地3楼",
+        "lng": 117.294758,
+        "lat": 31.819276
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01lTCZ5f2GdSdFTaMBZ_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01VaJL6a2GdSdHT15uj_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "833218067621",
+            "cityName": "昆明站",
+            "showTime": "10.11"
+        },
+        {
+            "itemId": "833548413900",
+            "cityName": "重庆站",
+            "showTime": "10.12"
+        },
+        {
+            "itemId": "833095715310",
+            "cityName": "常州站",
+            "showTime": "10.18"
+        },
+        {
+            "itemId": "833552357461",
+            "cityName": "苏州站",
+            "showTime": "10.20"
+        },
+        {
+            "itemId": "833773428548",
+            "cityName": "天津站",
+            "showTime": "10.25"
+        },
+        {
+            "itemId": "833476446267",
+            "cityName": "合肥站",
+            "showTime": "10.27"
+        },
+        {
+            "itemId": "833524449302",
+            "cityName": "泉州站",
+            "showTime": "11.08"
+        },
+        {
+            "itemId": "833179319204",
+            "cityName": "福州站",
+            "showTime": "11.10"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=833476446267"
+}

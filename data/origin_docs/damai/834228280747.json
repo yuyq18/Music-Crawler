@@ -1,0 +1,439 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_834228280747",
+    "imgurl": "-247651785",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "《一起走过的日子》经典金典现场演唱会",
+    "nameNoHtml": "《一起走过的日子》经典金典现场演唱会",
+    "price": "180.0",
+    "price_str": "180-380",
+    "pricehigh": "380.0",
+    "privilegeTags": "[]",
+    "projectid": "834228280747",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.22 周日 19:00",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "九棵树未来艺术中心-大剧场",
+    "venuecity": "上海",
+    "venueid": "2199004",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01z6buvC2GdSdGrMgBS_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "834228280747",
+                    "itemName": "【上海】《一起走过的日子》经典金典现场演唱会",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01z6buvC2GdSdGrMgBS_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01z6buvC2GdSdGrMgBS_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.12.22 周日 19:00",
+                    "showDuration": "约90分钟（无中场）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：上海南栖剧院管理有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：上海南栖剧院管理有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>《一起走过的日子》经典金典现场演唱会</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01c5vh5n2GdSdFTdxp8_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>【演出时间】2024年12月22日19:00</p>\n<p>【演出地点】九棵树未来艺术中心·大剧场</p>\n<p>【演出时长】约90分钟（无中场）</p>\n<p>【演出票价】 380/280/180元</p>\n<p><span style=\"background-color: #ffff00;\">*演出节目及演员以现场为准</span></p>\n<p>&nbsp;</p>\n<p><strong><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01qbMSRo2GdSdFU5q7I_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></strong></p>\n<p>&nbsp;</p>\n<p>当《城里的月光》轻轻酒下，《千千阙歌》的动人旋律随之响起，仿佛带着我们穿越时光。《雨蝶》在风雨中勇敢飞舞，《梦醒时分》让人从梦幻中清醒。《安妮》的故事令人难以忘怀，《单身情歌》唱出孤独者的心声。回首过往，《再回首》时感慨万千。思考着《有多少爱可以重来》，感受着《我曾用心爱着你》的深情。凭借《勇气》去坚守《诺言》，把心事记录在《记事本》里。《光辉岁月》见证着过往的辉煌，哪怕《过火》也不曾畏惧。《偷心》的瞬间心动，《怎样》才能把握真爱？好在《至少还有你》，陪伴在这漫长的人生路上，那个《爱上一个不回家的人》，是否让你在深夜里黯然神伤？而《后来》，我们终于明白，爱与成长的真谛。</p>\n<p>这一首首经典歌曲，陪伴了不同年代的人们，它们是岁月的见证，这不仅仅是一场演唱会，更是一次心灵的旅行，一次情感的回归，让我们在这场音乐盛宴中，共同沉浸在这些经典旋律里，无论您来自哪个年代，都能在这里寻找心灵的慰藉与感动。</p>\n<p><strong>【演员介绍】</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>戴英楠</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01smtNDb2GdSdIhs9wV_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>北方演艺集团天津青年友好使者艺术团声乐演员&amp;主持人，天津艺术职业学院特聘声乐教师，天津音乐家协会会员。多年来随市委宣传部，团市委，市文旅局，北方演艺集团参加全市各项大型演出活动；多次受邀参加天津电视台春节联欢晚会及天津军民春节联欢晚会节目录制；曾随中国文化部出访南非、乌干达等地做友好访问及文化交流；天津公益慈善活动文艺骨干；荣获“第二届舞台新星” 专业艺术人才荣誉称号。其创作及首唱的作品共计200余首，获奖作品10余首。如：《为你喝彩》《秀峨眉》《武林有梦更辉煌》《拥抱未来》《光荣和梦想》《法润心田》《坚守》《扬帆百年》《如你所愿》《追光的我们》等。</p>\n<p><strong>&nbsp;</strong></p>\n<p>陈燕简介</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN012QO7dd2GdSdFaXoyV_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>天津青年友好使者艺术团声乐演员</p>\n<p>国家二级演员</p>\n<p>毕业于中央音乐学院</p>\n<p>中国音乐家协会员</p>\n<p>天津市河北区音乐家协会 主席</p>\n<p>获得荣誉：</p>\n<p>荣获“上海亚洲音乐节”亚洲新人歌手奖。</p>\n<p>赴台湾荣获两岸四地青年歌手大奖赛金奖。</p>\n<p>中央电视台青年歌手电视大赛天津赛区金奖。</p>\n<p>2017年中华人民共和国第十三届运动会闭幕式主题歌《健康赢未来》演唱者之一。</p>\n<p>&nbsp;</p>\n<p>2018年“唱响中国”词曲创作颁奖盛典，演唱金奖。</p>\n<p>主要经历：</p>\n<p>第十四届女子水球世界杯主题歌&lt;为你喝彩&gt;演唱。</p>\n<p>女足世界杯天津赛区主题歌&lt;玫瑰绽放&gt;演唱。</p>\n<p>奥运会天津赛区&lt;同在一片蓝天下&gt;歌曲演唱。</p>\n<p>奥运会天津志愿者主题歌&lt;相约明天&gt;演唱。</p>\n<p>2017年中华人民共和国第十三届运动会闭幕式主题歌《健康赢未来》演唱者之一。</p>\n<p>天津港湾艺术节主题歌演唱。</p>\n<p>陈燕活跃在国内外各级、各类舞台，曾出访法国、韩国、柬埔寨等国家，进行文化交流演出。</p>\n<p>多次在中央电视台、浙江卫视、天津电视台录制节目并成功播出。</p>\n<p><strong>&nbsp;</strong></p>\n<p>付呈武</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01bMXtZe2GdSdIhqooO_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>2015年极光乐队 贝斯手 主唱</p>\n<p>2020年后声乐队 贝斯手</p>\n<p>2021年河北广电夏日魔音乐队大赛亚军</p>\n<p>2022年天津建卫618周年晚会</p>\n<p>2023年参与《后声手记》专辑录制 原声吉他、贝斯 翌年该专辑获得迷笛奖 年度最佳民谣音乐</p>\n<p>2024《你的人生开始了吗》专辑录制</p>\n<p>2024 五大道海棠音乐节</p>\n<p>参与音乐节、乐队巡演近百场</p>\n<p>合作艺人：杨坤、马楠</p>\n<p>&nbsp;</p>\n<p>郭维维简介</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01lBcePZ2GdSdHPG7yl_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>全国“推新人大赛”二等奖</p>\n<p>全国青年歌手电视大奖赛天津赛区三等奖</p>\n<p>全国武术运动会演唱会歌《为你喝彩》</p>\n<p>2022年创作演唱原创公益歌曲《在一起》</p>\n<p>2020年参加天津市委宣传部“庆中秋国庆晚会”演唱“水调歌头.但愿人长久”</p>\n<p>2020年天津市委宣传部“英雄赞歌——致敬最美抗疫人物”天津市五一劳动节大型电视晚会演唱《与爱同行》</p>\n<p>2020年演唱天津市音协创作的公益歌曲《世界为你醒来》</p>\n<p>天津电视台《百医百顺》嘉宾主持人</p>\n<p>深圳卫视《你好面试官》特邀嘉宾</p>\n<p>浙江卫视《长江的尽头回家》飞行嘉宾</p>\n<p>全国第七届特奥会火炬传递全程14站主持人</p>\n<p>全国残疾人运动会火炬传递主持人</p>\n<p>第十届中国大学生医学技术技能大赛“开幕式、闭幕式”执行导演</p>\n<p>2020年天津市委宣传部“英雄赞歌——致敬最美抗疫人物”天津市五一劳动节大型电视晚会执行导演</p>\n<p>&nbsp;</p>\n<p>刘园</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01fr1HWh2GdSdErKgoe_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>天津博雅乐器 主理人</p>\n<p>天津市音乐家协会 吉他专业委员会 会员</p>\n<p>龙梅子《都说》巡回演唱会 无锡站 吉他手</p>\n<p>&nbsp;</p>\n<p>裴培</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01KztVnI2GdSdIhuJ9M_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>2003年加入前方乐团随乐团参加天津市广播电视台音乐组合大赛获得最佳乐队奖。</p>\n<p>2009年参加天津文艺演出《摇滚仲夏夜》。</p>\n<p>2015年加入就重金属乐队迷乐队并参加多场演出。</p>\n<p>2021年随乐队参加第七届音乐给予生命的力量演出活动</p>\n<p>&nbsp;</p>\n<p>张逸枫</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01GzP5DO2GdSdHPFvfG_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>芝加哥青年音乐家协会会长</p>\n<p>未来交响品牌创始人、主理人</p>\n<p>未来交响艺术总监</p>\n<p>2018年芝加哥青年音乐家协奏曲大赛钢琴组第一名。</p>\n<p>获美国钢琴演奏专业最高文凭——演奏艺术家文凭。</p>\n<p>张逸枫在美国与青年钢琴家、教育家MOCICAMIODRAGOVIC联合创办芝加哥青年音乐家协会，也是全美极少华裔担当会长，并且联邦政府承认的以美国城市名称命名的专业性质的协会。</p>\n<p>&nbsp;&nbsp;&nbsp;师从钢琴系主任WINSTON CHOI 及世界知名演奏家.JOR GEOSORIO学习钢琴演奏，JORGE OSORIO更为钢琴演奏大师肯普夫WILHELM KEMPFF的得意门生。</p>\n<p>&nbsp;&nbsp;&nbsp;张逸枫曾多次于纽约、芝加哥、辛辛那提、印第安纳等各文化交流中心及音乐厅进行巡回演&nbsp;出，包括芝加哥最古老的音乐厅之一AUDITORIUM BUILDING(与柴可夫斯基齐名的普罗科夫就曾在那里举办过他的个人独奏会)、百年音乐厅GANZHALL，也包括现代艺术气息浓厚的SULVER REGIONAL LIBRARYAUDITORIUM及地处芝加哥市中心的 GRACE MUSIC CENTER PARISIANSALON SERIES 等。</p>\n<p>于&nbsp;2017、2018、2019 年连续三届作为唯一的华人获选为芝加哥钢琴音乐节演奏家之一，代表学院于伊利诺伊州进行巡回演出。</p>\n<p>2023年，其未来交响品牌出品的“陪你直到世界尽头”新交响音乐会融合多种音乐元素，以交响化重新编配所有曲目。在天津音乐厅首演，大获好评。为古典音乐多元化表达打下了殷实的基础。</p>\n<p>&nbsp;</p>\n<p>赵为</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN011PxAr52GdSdHPIkIj_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>吉他手/音乐制作人。曾合作 风林火山乐队， 641乐队等</p>\n<p>微短剧《未来商店·熟悉的陌生人》全篇配乐</p>\n<p>河南古乐团联合soulapp 线上宣传片音乐制作</p>\n<p>&nbsp;</p>\n<p><strong>购票观演须知：</strong></p>\n<p><strong>票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。</strong></p>\n<p><strong>每票一人，对号入座，进门一次有效，无副券作废。请到场观众着装整洁，服从现场工作人员管理，依序入场。</strong></p>\n<p><strong>儿童剧演出以外，1.2米以下儿童谢绝入场</strong></p>\n<p><strong>1.2米以上儿童须在家长的陪同下，一人一票，儿童全票，凭票入场。</strong></p>\n<p><strong>请按照票面载明的日期、场次观看，当日当场首次进场有效，个别场次需凭有效身份证原件，票证一致方可入场；建议视演出或赛事规模提前60分钟检票入场。</strong></p>\n<p><strong>收到门票后请您妥善保存，若发生丢失无法补发后果自负。同时请保持票面完整、清洁，勿在票面上涂写、折叠、损坏，否则有可能导致条码无法识别而不能入场。</strong></p>\n<p><strong>请勿携带专业摄影、摄像器材，未经许可，现场禁止录音、录像、拍照</strong></p>\n<p><strong>禁止吸烟、禁止踩踏座椅、禁止投掷物品，禁止翻越隔离设施。</strong></p>\n<p><strong>禁止携带水、饮料或其他液体、食品入场。</strong></p>\n<p><strong>请您服从现场工作人员指挥，遵守剧场秩序。文明观演，提前规划行程时间，如若迟到，须在现场工作人员的指挥下安静入场。个别演出禁止迟到观众入场。</strong></p>\n<p><strong>如因个别活动特殊要求，或现场情况临时变化，则以现场及个别活动具体要求或电话、短信、微博微信公众号通知为准。</strong></p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "需兑换成纸质票验票入场，须打开【票夹】的二维码前往取票点换取，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（无中场）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "演出前60分钟开始"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "10"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "以现场实际情况为准"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "300"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "2199004",
+                    "venueName": "九棵树未来艺术中心-大剧场",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.48446,
+                    "lat": 30.941621,
+                    "venueAddr": "上海市奉贤区树桓路99号（近金海公路，地铁五号线望园路站）",
+                    "showCountText": "共有9个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D834228280747%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "选座购买",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1726038617000",
+                "sellStartTimeStr": "09月11日 15:10",
+                "priceRange": "¥180-¥380",
+                "performBases": [
+                    {
+                        "name": "12.22 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1734796800000",
+                        "performs": [
+                            {
+                                "performId": "216373214",
+                                "performName": "2024-12-22 星期日 19:00",
+                                "itemId": "834228280747",
+                                "projectId": "222060045",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1734865200000",
+                                "performTime": "2024.12.22 19:00",
+                                "performStartDate": "2024-12-22",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "8843",
+                    "9099",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "695425",
+                    "9867",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "1630146",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8342282807/2/834228280747.jpg"
+            }
+        }
+    }
+}

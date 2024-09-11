@@ -1,0 +1,67 @@
+{
+    "platform": "大麦",
+    "project_id": "833498278185",
+    "project_name": "朱添泽2024「我该用什么状态告诉你」专场巡演 杭州站",
+    "category_name": "演唱会",
+    "artists": [
+        "朱添泽"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.28 周六 20:30",
+    "session_time": [],
+    "price": "60",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "杭州",
+    "venue_name": "九莱福音乐现场",
+    "venue_info": {
+        "venue_address": "杭州国际博览中心A座6楼中国数字音乐基地",
+        "lng": 120.237967,
+        "lat": 30.231464
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01SkEddM2GdSdEoE5dn_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN017uxLG02GdSd7Gk8KJ_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "827209115356",
+            "cityName": "武汉站",
+            "showTime": "09.15"
+        },
+        {
+            "itemId": "822064767174",
+            "cityName": "合肥站",
+            "showTime": "09.16"
+        },
+        {
+            "itemId": "824197087325",
+            "cityName": "济南站",
+            "showTime": "09.17"
+        },
+        {
+            "itemId": "824188181310",
+            "cityName": "长沙站",
+            "showTime": "09.20"
+        },
+        {
+            "itemId": "831871057480",
+            "cityName": "南昌站",
+            "showTime": "09.27"
+        },
+        {
+            "itemId": "833498278185",
+            "cityName": "杭州站",
+            "showTime": "09.28"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=833498278185"
+}
