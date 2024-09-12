@@ -1,0 +1,67 @@
+{
+    "platform": "大麦",
+    "project_id": "833871814246",
+    "project_name": "租场-海阔天空 怀念家驹·【海山】致敬Beyond金曲演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "黄海山"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.09.17 周二 19:30",
+    "session_time": [],
+    "price": "120-480",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "呼和浩特",
+    "venue_name": "内蒙古乌兰恰特",
+    "venue_info": {
+        "venue_address": "内蒙古自治区呼和浩特市新城区迎新路街道内蒙古博物院",
+        "lng": 111.739032,
+        "lat": 40.84012
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01FxWwCe2GdSdE4rwhX_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN015XLj2u2GdSdFPtsth_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "805197912422",
+            "cityName": "银川站",
+            "showTime": "09.16"
+        },
+        {
+            "itemId": "833871814246",
+            "cityName": "呼和浩特站",
+            "showTime": "09.17"
+        },
+        {
+            "itemId": "811013039915",
+            "cityName": "上海站",
+            "showTime": "10.19"
+        },
+        {
+            "itemId": "822321148768",
+            "cityName": "南京站",
+            "showTime": "10.20"
+        },
+        {
+            "itemId": "832573633606",
+            "cityName": "北京站",
+            "showTime": "11.03"
+        },
+        {
+            "itemId": "824430154760",
+            "cityName": "呼和浩特站",
+            "showTime": "09.14"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=833871814246"
+}
