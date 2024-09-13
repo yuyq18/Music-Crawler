@@ -1,0 +1,465 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：艾琳Ellen",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "9999",
+    "cityname": "马来西亚柔佛市",
+    "couponTags": "[]",
+    "description": "艺人：艾琳Ellen",
+    "id": "1_1_834100238187",
+    "imgurl": "-248932211",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "艾琳|跨越二次元ACG神级动漫世界巡回演唱会——马来西亚站",
+    "nameNoHtml": "艾琳|跨越二次元ACG神级动漫世界巡回演唱会——马来西亚站",
+    "price": "119.0",
+    "price_str": "119-229",
+    "pricehigh": "229.0",
+    "privilegeTags": "[]",
+    "projectid": "834100238187",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.01.11 周六 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "苏丹后查丽苏菲雅歌剧院 Permaisuri Zarith Sofiah Opera",
+    "venuecity": "马来西亚柔佛市",
+    "venueid": "6920027",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01bqYSxu2GdSdEEyIgr_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "834100238187",
+                    "itemName": "【马来西亚柔佛】艾琳|跨越二次元ACG神级动漫世界巡回演唱会——马来西亚站",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "1074",
+                    "cityName": "马来西亚柔佛市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01bqYSxu2GdSdEEyIgr_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01bqYSxu2GdSdEEyIgr_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01iGrnjB2GdSdIJuvnL_!!2251059038.jpg",
+                    "seatImages": [
+                        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01iGrnjB2GdSdIJuvnL_!!2251059038.jpg"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "2025.01.11 周六 20:00",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "门票即发票",
+                            "tagDesc": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagDescWithStyle": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "893",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>票价说明：</strong><br>马来西亚林吉特（MYR）：138/108/88/68<br>人民币售价（CNY）：229/179/149/119，门票已含（中国港澳台）服务费。</p>\n<p><br><strong>配票说明：</strong><br>本项目不支持退换，购票成功的客户，请您携带好护照，提前办理目的地签证，并安排好行程。观演当天至 苏丹后查丽苏菲雅歌剧院门票换领处 扫码核验换取实体门票（订单或订单截图无效），现场当天如忘记带票及丢票情况不予处理，感谢您的支持与理解。<br>&nbsp;</p>\n<p><br><strong>演出说明：</strong><br><strong>《跨越二次元ACG神级动漫音乐演唱会》</strong></p>\n<p>&nbsp;</p>\n<p><br>《跨越二次元ACG神级动漫音乐演唱会》汇聚了近年来受欢迎的动漫经典歌曲，无论是《极乐淨土》那扣人心弦的旋律</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN0125ARYW2GdSdJwPgmm_!!2251059038.jpg\" width=\"1920\" height=\"1080\" damai_width=\"1920\" damai_height=\"1080\"></p>\n<p>&nbsp;</p>\n<p>还是《青鸟》带来的心灵共鸣</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ABEvPA2GdSdIeRbB0_!!2251059038.jpg\" width=\"1920\" height=\"1080\" damai_width=\"1920\" damai_height=\"1080\"></p>\n<p><br>亦或是《直到世界的尽头》和《红莲华》的激昂节奏</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN018RSUkl2GdSdHshmAl_!!2251059038.jpg\" width=\"1920\" height=\"1080\" damai_width=\"1920\" damai_height=\"1080\"></p>\n<p><br>这场演唱会将经典重现，唤醒你心中的二次元记忆。</p>\n<p><br><strong>Ellen领衔·原汁原味的演绎</strong><br><strong>全球超人气二次元歌手Ellen将携手专业乐队，为你献上20首二次元神级金曲。每一首歌曲都将以最原汁原味的形式呈现，让你彷彿置身于动漫的世界中，再次体验那些令你热泪盈眶的瞬间。</strong><br><br></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01B5ztbF2GdSdGpJiUo_!!2251059038.jpg\" width=\"1080\" height=\"1308\" damai_width=\"1080\" damai_height=\"1308\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01BPMtz42GdSdGpIJBI_!!2251059038.jpg\" width=\"1080\" height=\"720\" damai_width=\"1080\" damai_height=\"720\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01CTcwbG2GdSdIeQrcY_!!2251059038.jpg\" width=\"1080\" height=\"720\" damai_width=\"1080\" damai_height=\"720\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01BbXT7u2GdSdG6Kc4S_!!2251059038.jpg\" width=\"1080\" height=\"664\" damai_width=\"1080\" damai_height=\"664\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01XZjUj32GdSd9MJAEA_!!2251059038.jpg\" width=\"1080\" height=\"664\" damai_width=\"1080\" damai_height=\"664\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01pfpozi2GdSdIeUYZR_!!2251059038.jpg\" width=\"1080\" height=\"1308\" damai_width=\"1080\" damai_height=\"1308\"></p>\n<p>&nbsp;</p>\n<p><strong>演出亮点</strong></p>\n<p><br><strong>大咖云集：超高人气二次元歌手Ellen领衔，资深乐队助阵，一同带你重温二次元音乐的经典瞬间。这不仅仅是一场演唱会，更是一场二次元音乐界的盛会。</strong><br><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01cqNtOj2GdSdErcT7O_!!2251059038.jpg\" width=\"4496\" height=\"2529\" damai_width=\"4496\" damai_height=\"2529\"></p>\n<p><br><strong>神级曲目：精选《极乐淨土》、《青鸟》、《直到世界的尽头》、《红莲华》等经典神曲，再现舞台。这些歌曲不仅是动漫的象徵，也是我们对二次元世界无限热爱的体现。</strong><br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01lVwQPB2GdSdG6LxYd_!!2251059038.jpg\" width=\"1920\" height=\"713\" damai_width=\"1920\" damai_height=\"713\"></p>\n<p><br><strong>视听盛宴：高品质音效与炫目灯光的结合，将带你进入一个奇幻的二次元梦境。每一个音符、每一道灯光，都会将你带入另一个世界，体验视听震撼。</strong><br><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Gfc2S22GdSdHR8C2g_!!2251059038.jpg\" width=\"6000\" height=\"4000\" damai_width=\"6000\" damai_height=\"4000\"></p>\n<p><br><strong>全球巡演·热潮不断：已全球巡演多场，吸引了来自世界各地喜欢动漫音乐的观众。</strong><br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01st95lE2GdSdGpRVCr_!!2251059038.jpg\" width=\"1920\" height=\"713\" damai_width=\"1920\" damai_height=\"713\"></p>\n<p><br><strong>二次元的桥梁·连接现实与梦境</strong><br><strong>这场演唱会将每一首歌曲都化作一座桥梁，连接现实与梦境、过去与未来。让我们一起沉浸在这场跨越时空的二次元之旅中，重新体验那些令人心动的动漫时刻！</strong><br><strong>立即购票，开启你的二次元奇幻之旅！</strong><br><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01BAoWgV2GdSdDnyAiY_!!2251059038.jpg\" width=\"1920\" height=\"713\" damai_width=\"1920\" damai_height=\"713\"></p>\n<p><br><strong>歌单：</strong></p>\n<p><br>1.渐渐被你吸引—选自《龙珠GT》<br>2.Only my railgun--选自《科学超电磁砲》<br>3.若能绽放光芒--选自《四月是你的谎言》<br>4.炎--选自《鬼灭之刃》<br>5.鸟之诗（Lia）--选自《AIR》<br>6.直到世界的尽头--选自《灌篮高手》<br>7.好想大声说爱你--选自《灌篮高手》<br>8.恋爱循环--选自《化物语》<br>9.打开心扉--选自《百变小樱Magic咭》<br>10.secret base--选自《我们仍未知道那天所看见的花名》<br>11.红莲华--选自《鬼灭之刃》<br>12.我这麽可爱真的很抱歉—选自《告白实行委员会~恋爱系列》<br>13.永远常在--选自《神隐少女/千与千寻》<br>14.青鸟--选自《火影忍者》<br>15.转动命运之轮--选自《名侦探柯南》<br>16.打上花火--选自《烟花，应该和谁看》<br>17.前前前世--选自《你的名字。》<br>18.IDOL—选自《我推的孩子》<br>19.极乐淨土<br>20.Butterfly--选自《数码暴龙》<br>21.让风告诉你--选自《原神》<br>22.千本樱</p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "本项目门票即是发票。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "需兑换成纸质票验票入场，须打开【票夹】的二维码前往取票点换取，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "本项目门票即是发票。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "艾琳Ellen"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "以现场为准"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "6920027",
+                    "venueName": "苏丹后查丽苏菲雅歌剧院 Permaisuri Zarith Sofiah Opera",
+                    "venueProvinceName": "柔佛",
+                    "venueCityName": "马来西亚柔佛市",
+                    "lng": 103.76999404805291,
+                    "lat": 1.4568190651000033,
+                    "venueAddr": "Mercu 2, Jalan Tanjung Puteri 1, R&F Puteri, 80300 Johor Bahru, Johor, Malaysia",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D834100238187%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "1832786129",
+                        "artistName": "艾琳Ellen",
+                        "archives": "艾琳Ellen，二次元歌手\n以甜美的嗓音和出色的舞台表现力俘获大量粉丝，擅长多种音乐风格，从流行、电子到摇滚皆游刃有余。艾琳不仅在音乐上展现出卓越的才华，还积极参与各类动画和游戏的主题曲演唱，广受好评。她的歌声充满正能量，传递希望与勇气，深受年轻粉丝喜爱，在社交媒体上拥有庞大粉丝群,演出场场爆满，歌迷们热情高涨！",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1719381681076/1719381681076-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "1832786129",
+                        "name": "艾琳Ellen",
+                        "desc": "艾琳Ellen，二次元歌手\n以甜美的嗓音和出色的舞台表现力俘获大量粉丝，擅长多种音乐风格，从流行、电子到摇滚皆游刃有余。艾琳不仅在音乐上展现出卓越的才华，还积极参与各类动画和游戏的主题曲演唱，广受好评。她的歌声充满正能量，传递希望与勇气，深受年轻粉丝喜爱，在社交媒体上拥有庞大粉丝群,演出场场爆满，歌迷们热情高涨！",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1719381681076/1719381681076-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "30861203681",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1709543898010/1709543898010-main.jpg",
+                    "note": "跨越二次元ACG神级动漫世界巡回演唱会悉尼站正式开票！超强阵容+实力歌手+二次元经典火爆曲目！",
+                    "categoryName": "演唱会",
+                    "title": "跨越二次元ACG神级动漫",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1726132145000",
+                "sellStartTimeStr": "09月12日 17:09",
+                "priceRange": "¥119-¥229",
+                "performBases": [
+                    {
+                        "name": "01.11 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1736524800000",
+                        "performs": [
+                            {
+                                "performId": "216471091",
+                                "performName": "2025-01-11  周六 20:00",
+                                "itemId": "834100238187",
+                                "projectId": "222092073",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1736596800000",
+                                "performTime": "2025.01.11 20:00",
+                                "performStartDate": "2025-01-11",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "2976258",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "23883",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "8843",
+                    "9099",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "695425",
+                    "9867",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8341002381/2/834100238187.jpg"
+            }
+        }
+    }
+}

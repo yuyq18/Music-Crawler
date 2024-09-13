@@ -1,0 +1,619 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：潘美辰Charming Eagle",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "852",
+    "cityname": "北京",
+    "couponTags": "[]",
+    "description": "艺人：潘美辰Charming Eagle",
+    "id": "1_1_834409674002",
+    "imgurl": "-245837852",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "【限定优惠】潘美辰『回家』2024演唱会·北京站",
+    "nameNoHtml": "【限定优惠】潘美辰『回家』2024演唱会·北京站",
+    "price": "199.0",
+    "price_str": "199-699",
+    "pricehigh": "699.0",
+    "privilegeTags": "[]",
+    "projectid": "834409674002",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.01 周日 19:30",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "北京展览馆剧场",
+    "venuecity": "北京",
+    "venueid": "26",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01yQ4cuw2GdSdL4GzpS_!!0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "834409674002",
+                    "itemName": "【北京】【限定优惠】潘美辰『回家』2024演唱会·北京站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "110100",
+                    "cityName": "北京市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01yQ4cuw2GdSdL4GzpS_!!0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i1/2251059038/O1CN01yQ4cuw2GdSdL4GzpS_!!0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.12.01 周日 19:30",
+                    "showDuration": "120分钟（无中场休息）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "快递票",
+                            "tagDesc": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。发货前支持修改一次收货地址。\r\n注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagDescWithStyle": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。<b>发货前支持修改一次收货地址。</b><br/>注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：杭州天励文化发展有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：杭州天励文化发展有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "852",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN010wiStk2GdSdKXmlER_!!2251059038.jpg\" width=\"975\" height=\"650\" damai_width=\"975\" damai_height=\"650\"><br>不久前，腾讯微信头条发布了潘美辰演唱经典歌曲的视频报道：视频中潘美辰深情演唱，红色皮衣搭配白色长裤，看上去相当的帅酷，不得不感叹，潘美辰容颜不改，一点都没变。这则报道引发广大网友热议，许多人曾经的记忆立即随之唤醒，勾起了无数“回忆杀”……<br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01lC15w52GdSdL45mdY_!!2251059038.jpg\" width=\"740\" height=\"494\" damai_width=\"740\" damai_height=\"494\"><br>一代乐坛神话—潘美辰<br>她<br>第1位 以中性特质出道的歌手<br>第1位 登陆内地参加春晚的台湾女歌手<br>第1位 获得金曲奖最佳歌曲奖的歌手<br>第1位 演唱会记录破千场的中国歌手<br>第1位 单张唱片销量破300万的女歌手<br><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01tdvrTl2GdSdG0941H_!!2251059038.jpg\" width=\"645\" height=\"431\" damai_width=\"645\" damai_height=\"431\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01HaGRbo2GdSdKXqzIb_!!2251059038.jpg\" width=\"321\" height=\"432\" damai_width=\"321\" damai_height=\"432\"><br>有华人的地方,就有她的歌声<br>屹立华人歌坛近三十年<br>创作/演唱的歌曲风靡全球<br>演艺版图遍及中国/马来西亚/新加坡/欧洲等世界各地</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01LhdJRk2GdSdEvwFxu_!!2251059038.jpg\" width=\"484\" height=\"728\" damai_width=\"484\" damai_height=\"728\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN018pBhPJ2GdSdHLVTjQ_!!2251059038.jpg\" width=\"483\" height=\"727\" damai_width=\"483\" damai_height=\"727\"></p>\n<p>作为著名流行歌手、词曲创作家的潘美辰，30多年来叱咤华语乐坛，地位如日中天。独特的嗓音及歌声中，散发出的真挚情感影响了一代人。用初心唱一首歌、一生音乐、音乐一生，她就是独一无二的潘美辰。《我曾用心爱着你》是潘美辰的经典代表作，中性的嗓音赋予了这首歌经典的气质。<br><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01T28VyD2GdSdHqTXEB_!!2251059038.jpg\" width=\"976\" height=\"652\" damai_width=\"976\" damai_height=\"652\"><br>《是你》是潘美辰发行于1989年的专辑《是你》的同名主打歌，而那首著名的《我想有个家》正是出自此专辑。虽然《是你》不是她亲自作词作曲，但许多歌曲的制作到演唱，都是由她一人独立完成，而且在风格上并不是一成不变，她往往能带给人新鲜感，创造出一首首脍炙人口的金曲。<br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01DtEfRZ2GdSdIYo9eU_!!2251059038.jpg\" width=\"623\" height=\"938\" damai_width=\"623\" damai_height=\"938\"><br>出道30多年，无视逆境的潘美辰仍在坚持做音乐，继《我想有个家》陆续发行35张专辑，演出场次不计其数，遍布世界各地，她一直都在音乐世界畅游。她让人觉得音乐人就该是她这个样子！<br>1988年潘美辰横空出世，第一张唱片创下大卖300万张的佳绩，作为一个才华横溢的女歌手，她的实力有目共睹。“华人史上最多个人演唱会”，屹立歌坛近三十年的潘美辰不仅在音乐领域霸气十足，“潘美辰音乐学院”在当时风靡一时，是无数音乐学子的殿堂。<br><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01owyPK82GdSdG0C5Mf_!!2251059038.jpg\" width=\"849\" height=\"567\" damai_width=\"849\" damai_height=\"567\"><br>2024年潘美辰《回家》巡回音乐会<br>正式起航！<br>喧嚣世界·我们回家<br>120分钟，数首经典金曲，让大家一次听过瘾！<br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01WL1mlc2GdSdAUk7Zh_!!2251059038.jpg\" width=\"803\" height=\"536\" damai_width=\"803\" damai_height=\"536\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN016KOsHr2GdSdJym2BP_!!2251059038.jpg\" width=\"968\" height=\"1041\" damai_width=\"968\" damai_height=\"1041\"><br><br>*歌曲以演出现场为准</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01bA0UGp2GdSdG0FdrC_!!2251059038.jpg\" width=\"972\" height=\"1361\" damai_width=\"972\" damai_height=\"1361\"></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "杭州天励文化发展有限公司",
+                            "socialCreditCode": "91330108MA2CERMH05",
+                            "legalPerson": "李自强",
+                            "regCapStr": "100万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "中国(浙江)自由贸易试验区杭州市滨江区西兴街道智慧之门中心1幢1715室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "快递费",
+                        "content": "1.同城10.0元，发货后1-3天到达；省内12.0元，发货后1-3天到达；其他地区18.0元，发货后1-3天到达；澳门、香港、台湾40.0元，发货后1-5天到达。\r\n2.演出前4天不支持快递。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带纸质门票验票入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "120分钟（无中场休息）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约60分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "10"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "潘美辰"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟（无中场休息）"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "2755"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "26",
+                    "venueName": "北京展览馆剧场",
+                    "venueProvinceName": "北京",
+                    "venueCityName": "北京市",
+                    "lng": 116.343741,
+                    "lat": 39.94218,
+                    "venueAddr": "北京市西城区西直门外大街135号院",
+                    "showCountText": "共有29个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=834409674002"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D834409674002%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "26653827212",
+                        "artistName": "潘美辰Charming Eagle",
+                        "archives": "中国台湾女歌手、词曲创作人、音乐人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1691737569411/1691737569411-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "26653827212",
+                        "name": "潘美辰Charming Eagle",
+                        "desc": "中国台湾女歌手、词曲创作人、音乐人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1691737569411/1691737569411-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "134",
+                    "wantNumStr": "134",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01bMZ0oW1WC0GXqoK9h_!!6000000002751-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2608868/521773693_1725972002712.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01WWdumj1apczmwD0Y8_!!6000000003379-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/24820/4964030.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01VakeDk28c4Chw6wSJ_!!6000000007952-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1726804680000",
+                "sellStartTimeStr": "09月20日 11:58",
+                "countDown": "553361",
+                "rcdt": "553360684",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥199-¥699",
+                "performBases": [
+                    {
+                        "name": "12.01 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1732982400000",
+                        "performs": [
+                            {
+                                "performId": "216507003",
+                                "performName": "2024-12-01  周日 19:30",
+                                "itemId": "834409674002",
+                                "projectId": "222174002",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1733052600000",
+                                "performTime": "2024.12.01 19:30",
+                                "performStartDate": "2024-12-01",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "单人票可省100元"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "单人票",
+                        "content": "单人早鸟299元（原价399），可省100元\n单人早鸟399元（原价499），可省100元\n单人早鸟499元（原价599），可省100元\n单人早鸟599元（原价699），可省100元"
+                    }
+                ],
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "选座购买",
+                "buyBtnStatusAfterCountDown": "206",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "8843",
+                    "9099",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "695425",
+                    "9867",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "promotionList": [
+                    {
+                        "type": "EARLY_BIRD",
+                        "tag": "早鸟",
+                        "isTagList": "false",
+                        "desc": "¥399票档，早鸟优惠7.4折，到手¥299"
+                    }
+                ],
+                "promotionDetail": {
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "1",
+                            "promotionGroupTypeDesc": "票档优惠",
+                            "promotionList": [
+                                {
+                                    "promotionType": "5",
+                                    "promotionTag": "早鸟",
+                                    "promotionContentList": [
+                                        "¥699票档，早鸟优惠8.5折，到手¥599",
+                                        "¥499票档，早鸟优惠7.9折，到手¥399",
+                                        "¥599票档，早鸟优惠8.3折，到手¥499",
+                                        "¥399票档，早鸟优惠7.4折，到手¥299"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "¥699",
+                                            "displayContent": "8.5折，到手¥599"
+                                        },
+                                        {
+                                            "skuName": "¥399",
+                                            "displayContent": "7.4折，到手¥299"
+                                        },
+                                        {
+                                            "skuName": "¥599",
+                                            "displayContent": "8.3折，到手¥499"
+                                        },
+                                        {
+                                            "skuName": "¥499",
+                                            "displayContent": "7.9折，到手¥399"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "true",
+                "earlyBirdVO": {
+                    "priceRange": "¥199-¥699",
+                    "showTips": "false",
+                    "tips": "数量有限先到先得"
+                },
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8344096740/2/834409674002.jpg"
+            }
+        }
+    }
+}
