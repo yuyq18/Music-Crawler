@@ -1,0 +1,379 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：王一珩",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1580",
+    "cityname": "杭州",
+    "couponTags": "[]",
+    "description": "艺人：王一珩",
+    "id": "1_1_835151436947",
+    "imgurl": "-238420223",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "王一珩“My Room Tour”巡回演唱会杭州站",
+    "nameNoHtml": "王一珩“My Room Tour”巡回演唱会杭州站",
+    "price": {
+        "range": "327-598"
+    },
+    "price_str": "327-598",
+    "pricehigh": "598.0",
+    "privilegeTags": "[]",
+    "projectid": "835151436947",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.10.07 周一 19:30",
+    "sitestatus": "16",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": {
+        "lat": 30.325061,
+        "lng": 120.180515,
+        "region": "1",
+        "showCountText": "10个演出",
+        "venueAddr": "浙江省杭州市下城区新北街85号三层G2-302",
+        "venueCityName": "杭州市",
+        "venueId": "2511006",
+        "venueName": "大麦66LiveHouse杭州",
+        "venueProvinceName": "浙江省"
+    },
+    "venuecity": "杭州",
+    "venueid": "2511006",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01EEvDoc2GdSdMApPQg_!!0-item_pic.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "吉林省晨小曦文化传媒有限公司",
+            "entAddress": "长春市南关区东岭南街35-8号东方花园A2栋4单元208号房",
+            "entType": "有限责任公司(自然人投资或控股)",
+            "legalPerson": "郭婷婷",
+            "opFrom": "",
+            "opTo": "",
+            "regCapStr": "500万人民币",
+            "socialCreditCode": "91220106MA178PTF44"
+        }
+    },
+    "buyButton": {
+        "afterCountdown": {
+            "origin": "-41",
+            "status": "90",
+            "text": "预约抢票",
+            "tip": "提前选票档 抢票更丝滑"
+        },
+        "origin": "2",
+        "status": "106",
+        "text": "预约抢票",
+        "tip": "提前选票档 抢票更丝滑"
+    },
+    "countdown": {
+        "countdown": "222302",
+        "rcdt": "222301849",
+        "sellStartTime": "1726560000000",
+        "sellStartTimeStr": "09月17日 16:00"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p>王一珩·MY ROOM TOUR巡回演唱会</p>\n<p>&nbsp;</p>\n<p>本次巡演的主题为“MY ROOM TOUR”，表达了王一珩OneSD的音乐态度——在忙碌的生活中用音乐找到一片属于自己的宁静和放松的空间。他希望能带领观众暂时远离日常的喧嚣，进入一个舒适的“音乐空间”，在这个特别的音乐空间中，找到自己，放松身心。</p>\n<p>&nbsp;</p>\n<p>“MY ROOM TOUR”不仅仅是一个演唱会的主题，它更是王一珩OneSD希望传达给观众的一种生活态度。在现代极速节奏的生活中，许多人都被工作、学习和生活的压力所包围，很难找到属于自己的宁静时刻。王一珩OneSD的“MY ROOM TOUR”巡演正是为了提供这样一个机会，让大家可以在音乐中放松心情，享受片刻的宁静，真正的Live in life。</p>\n<p>&nbsp;</p>\n<p>演唱会中，观众不仅可以听到歌曲，还会有更多的惊喜等待着各位，希望可以带给大家一个不一样的现场体验。</p>\n<p>&nbsp;</p>\n<p>总之，王一珩OneSD的音乐将是整个“MY ROOM TOUR”巡演的核心。他那温暖而富有磁性的声音，将带领观众进入一个充满情感和放松的世界。他的R&amp;B歌曲旋律流畅，节奏舒缓，歌词中充满了对生活的热爱和对美好时光的珍惜。在演唱会中，观众可以伴随着他的音乐，闭上眼睛，感受音乐带来的放松与愉悦，和王一珩OneSD一起，来到客厅，在沙发坐下，闭上双眼。感受这一次的MY ROOM TOUR。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01HUiqU12GdSdILofAZ_!!2251059038.jpg\" width=\"1020\" height=\"1360\" damai_width=\"1020\" damai_height=\"1360\"></p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01dBAkZU2GdSdMAnrb6_!!2251059038.jpg\" width=\"1012\" height=\"3732\" damai_width=\"1280\" damai_height=\"4721\"></p></body></html>",
+        "introduceTitle": "活动介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "中国内地流行歌手，十个勤天成员。",
+                "fansCount": "64642",
+                "fansCountDesc": "粉丝",
+                "fansCountStr": "6.5万",
+                "id": "24624024938",
+                "name": "王一珩",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1724941694722/1724941694722-main.jpg",
+                "sellCount": "2场",
+                "sellCountDesc": "在售演出",
+                "tag": "歌手"
+            }
+        ],
+        "tour": {
+            "projectList": [
+                {
+                    "cityName": "杭州站",
+                    "itemId": "835151436947",
+                    "saleStatus": "预约抢票",
+                    "showTime": "10.07",
+                    "tourId": "4749"
+                },
+                {
+                    "cityName": "长沙站",
+                    "itemId": "829397476945",
+                    "saleStatus": "缺货登记",
+                    "showTime": "09.15",
+                    "tourId": "4749"
+                }
+            ],
+            "showEncoreRequest": "false"
+        },
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i4/O1CN013n7KRC1TtZ5bYGxgR_!!6000000002440-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/1195604/239120929_1685026664407.jpg",
+                "https://img.alicdn.com/imgextra/i3/O1CN01tskbWG1hZKCvp2bX3_!!6000000004291-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotos/480623/96124647.jpg",
+                "https://img.alicdn.com/imgextra/i4/O1CN01zFBvUY1YFmleJTIQm_!!6000000003030-0-tps-500-500.jpg"
+            ],
+            "wantNum": "12291",
+            "wantNumStr": "1.2万",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wPOZN01jRf2eaC3Jz_!!6000000004545-2-tps-1125-702.png",
+        "categoryId": "123606001",
+        "cityName": "杭州市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "835151436947",
+        "itemName": "【杭州】王一珩“My Room Tour”巡回演唱会杭州站",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "http://img.alicdn.com/imgextra/i2/2251059038/O1CN01EEvDoc2GdSdMApPQg_!!0-item_pic.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "330100",
+        "performSeatImages": [],
+        "projectId": "222282003",
+        "projectStatus": "1",
+        "purchaseLimitation": "2",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                },
+                {
+                    "id": "7",
+                    "name": "港澳台居民居住证"
+                },
+                {
+                    "id": "8",
+                    "name": "外国人永久居留身份证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "type": "1"
+        },
+        "showDuration": "以现场为准",
+        "showTime": "2024.10.07 周一 19:30",
+        "tcCategoryId": "0301020100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "216621022",
+            "singleLimitation": "2"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=835151436947",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买2张、每个账号最多购买2张。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须打开【票夹】扫码入场，截图无效。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "儿童一律凭票入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。演出结束后1个月左右邮寄给你，需自付邮费。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：外国人永久居留身份证/身份证/护照/台湾居民来往大陆通行证/港澳台居民居住证/港澳居民来往内地通行证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约60分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "10",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            },
+            {
+                "content": "999",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01g1Fs6025i4mGCqzxa_!!6000000007559-2-tps-144-144.png",
+                "title": "大麦网初始开售时全场可售门票总张数"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票，购票完成后观演人信息不可更改。",
+                "tagName": "实名制购票",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过票夹中的二维码验票入场",
+                "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：吉林省晨小曦文化传媒有限公司\r\n本项目支持开具纸质发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并邮寄至收货地址，需自付邮费。",
+                "tagDescWithStyle": "<b>发票开具方：吉林省晨小曦文化传媒有限公司</b><br>本项目支持开具纸质发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并邮寄至收货地址，需自付邮费。",
+                "tagName": "纸质发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}
