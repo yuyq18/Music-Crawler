@@ -1,0 +1,58 @@
+{
+    "platform": "大麦",
+    "project_id": "835855586894",
+    "project_name": "叶炫清「once」2024巡演北京站（嘉宾：徐子未、孙长浩）",
+    "category_name": "演唱会",
+    "artists": [
+        "叶炫清",
+        "徐子未"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.14 周六 20:00",
+    "session_time": [],
+    "price": "128-298",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "WeShow Live",
+    "venue_info": {
+        "venue_address": "菁英梦谷常营B5栋",
+        "lng": 116.58252,
+        "lat": 39.92584
+    },
+    "project_info": "叶炫清「once」2024巡演北京站\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN013kTUuj2GdSdN9olle_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01L7Aaj02GdSdN0k3Js_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "102",
+        "wantNumStr": "102",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "831427909152",
+            "cityName": "重庆站",
+            "showTime": "11.09"
+        },
+        {
+            "itemId": "831459185256",
+            "cityName": "南京站",
+            "showTime": "11.22"
+        },
+        {
+            "itemId": "831427677078",
+            "cityName": "上海站",
+            "showTime": "11.23"
+        },
+        {
+            "itemId": "835855586894",
+            "cityName": "北京站",
+            "showTime": "12.14"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=835855586894"
+}

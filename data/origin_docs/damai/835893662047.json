@@ -1,0 +1,455 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "923",
+    "cityname": "佛山",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_835893662047",
+    "imgurl": "-230997972",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "“荃家开心”汪明荃&罗家英经典金曲演唱会-南海站（现场取票）",
+    "nameNoHtml": "“荃家开心”汪明荃&罗家英经典金曲演唱会-南海站（现场取票）",
+    "price": "380.0",
+    "price_str": "380-980",
+    "pricehigh": "980.0",
+    "privilegeTags": "[]",
+    "projectid": "835893662047",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.09.21 周六 16:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "南海体育中心体育馆",
+    "venuecity": "佛山",
+    "venueid": "6749009",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN019LKcwR2GdSdNp0iUZ_!!0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "835893662047",
+                    "itemName": "【佛山】“荃家开心”汪明荃&罗家英经典金曲演唱会-南海站（现场取票）",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "440600",
+                    "cityName": "佛山市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN019LKcwR2GdSdNp0iUZ_!!0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i2/2251059038/O1CN019LKcwR2GdSdNp0iUZ_!!0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.09.21 周六 16:30",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：佛山市拾叁街活动策划有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：佛山市拾叁街活动策划有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "923",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>“荃家开心”汪明荃&amp;罗家英经典金曲演唱会-南海站</strong></p>\n<p><br>和“荃家”一起，相约佛山南海，和阿姐汪明荃一起穿越57年演艺时光，家英哥在旁整蛊做怪</p>\n<p>时间：2024.09.21 周六 16:30<br>场馆：佛山 南海体育中心体育馆<br>票价：380/480/680/880/980</p>\n<p>&nbsp;</p>\n<p>2024年，两位德高望重的艺人经历了精彩的“做大戏”（阿姐和家英哥共同主演的家英哥创作的新编粤剧《大鼻子情圣》）和“荃家开心美国巡演”，对自己的演艺人生有了更为扎实的感悟——对于阿姐汪明荃和家英哥来说，健康开心就是人生首位，“荃家开心”巡回演唱会，就是想把这种积极开心正能量，通过歌迷朋友，传达到万千灯火中去，每一位默默为家庭付出的爸爸妈妈，都值得被看见。</p>\n<p><br>2024荃家开心演唱会南海站，是本年度广东巡演的最后一站。阿姐和家英哥将用最深情的歌声演绎他们对演艺事业的热爱，两个多小时连唱不停，值得歌迷朋友热切期待。现在就买票，这场演出一定不会让喜爱怀旧金曲的你失望。让我们一起回到七八十年代！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01v5Q7qC2GdSdOGe7oF_!!2251059038.png\" width=\"512\" height=\"310\" damai_width=\"512\" damai_height=\"310\"></p>\n<p>汪明荃简介<br>汪明荃，中国香港女艺人。作为中国香港演艺界的知名艺员，汪明荃涉及影视、歌唱、戏曲、主持、话剧、政界等多方面。汪明荃自加入演艺圈后获奖无数，曾17度于《华侨晚报》十大明星选举中当选十大明星，是该选举中获奖最多的艺人。</p>\n<p>汪明荃曾任第七、八届全国人民代表大会广东地区代表；第九、第十、第十一、第十二届全国政协委员。1996年汪明荃成为中国香港特别行政区筹备委员会委员及推选委员会委员。<br>2004年汪明荃获得香港特别行政区银紫荆星章； 2007年获得世界杰出华人奖，同年荣获香港城市大学副监督梁乃鹏博士颁授荣誉文学博士学位； 2022年汪明荃获得香港特别行政区金紫荆星章。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01mKETKK2GdSdN9LyHE_!!2251059038.png\" width=\"453\" height=\"453\" damai_width=\"453\" damai_height=\"453\"></p>\n<p>1966年，汪明荃从丽的映声艺员训练班毕业后，便加盟丽的，起初担任司仪，多数为民谣歌剧演出，以古装造型饰演粤剧。1971年4月，加盟无线电视后成为了TVB第一代当家 “四大花旦”之一。七十年代至八十年代初乃汪明荃流行曲事业最风光时期，七十年代初与沈殿霞（肥肥）、王爱明（明明）及张德兰（圆圆）四人组成“四朵金花”；同时也在《秋海棠》饰演歌女梅宝，而其插曲《金丝雀》更成为大热金曲。当时，不少重头剧都是由她担任主角，包括家传户晓的《家变》，其中饰演女强人洛琳一角，形象深入民心，亦因此奠定汪明荃在电视连续剧一姐地位，不但大量电视连续剧都是由她担正，就连电影导演都常邀请她担任演出。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01EEbtxI2GdSdN6hhyd_!!2251059038.png\" width=\"304\" height=\"439\" damai_width=\"304\" damai_height=\"439\"></p>\n<p>在歌坛方面的发展，1969年已开始出唱片，1975年她出了三张极受欢迎的唱片《黛玉葬花》、《紫钗记》和 《清宫残梦》从而成为当时的一线歌手。1980年，她为所主演的电视剧《京华春梦》和《千王之王》演唱主题曲，两张专辑卖过满堂红，是她歌唱事业最高峰的一年。1982年，主唱《万水千山总是情》的主题曲《万水千山总是情》和爱国插曲《勇敢的中国人》，赢得两岸三地观众的爱戴。</p>\n<p>1981年，她获选为中国香港十大杰出青年，是得到此荣誉的女艺人。1983年8月18日，与粤剧演员林家声合演粤剧《天仙配》，该剧打破了中国香港粤剧舞台卖座纪录；10月，举办美加巡回演唱会。1985年，参加中央电视台春节联欢晚会。1988年8月19日，出演粤剧《穆桂英大破洪州》；同年，与罗家英创建福陞粤剧团。</p>\n<p>九十年代至今，汪明荃活跃于演艺界和民生领域的方方面面，具有良好的公众人物形象。她演艺上的全面优质发展以及极其正气的政治取向，使她在全世界华人界都有巨大的影响力，是当之无愧的中国香港“阿姐”。</p>\n<p><br>罗家英简介<br>罗家英，1946年9月22日出生于广东省佛山市顺德区，原名罗行堂，祖籍广东省顺德，中国粤剧表演艺术家、演员。<br>1949年罗家英跟随父亲罗家权（罗仕干）定居中国香港。8岁时跟随父亲罗家权、伯父罗家树学习粤剧基本功架，师随粉菊花、吕国铨、刘洵、李万春等京剧大师，21岁担当演出文武生,1973年正式担正。1994年罗家英凭借出演《国产凌凌漆》及1995年的《大话西游》而被观众熟知。<br>2018年7月1日，艺人罗家英被授予铜紫荆星章，以赞扬罗家英艺术成就优秀，致力传承、推广和发展中国香港的粤剧，有超过六十年的粤剧表演经验，积极传授给年轻新秀，对粤剧发展贡献良多。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01SYZWQ02GdSdP1yAr8_!!2251059038.png\" width=\"385\" height=\"578\" damai_width=\"385\" damai_height=\"578\"></p>\n<p>八岁时的罗家英已跟随父亲罗家权学习粤剧基本功架，而罗家权本身就师承上海京剧名净刘奎官。后来罗家英师从吴少廉、粉菊花、吕国铨、李万春和刘洵。21岁罗家英便担当演出文武生 ，并自1970年起组成多个剧团开始粤剧生涯，在18至19岁时，罗家英逐渐当上文武生。期间父亲带他到不同地方，如启德游乐场和中国澳门演出以累积经验。罗家英也是“家英之友”组织创办人。2019年至今任职西九文化区戏曲中心茶馆剧场的艺术策划及导演(茶馆新星剧团)。</p>\n<p>中国香港粤剧自七十年代起已步向式微，观众数目不断下降，罗家英出于生活考虑，在八十年代曾在中国香港电台第五台当了4年公务员，后于1991年决定参与电影演出，在参与周星驰电影系列演出后广为人熟悉。1994年罗家英在周星驰主演的《国产凌凌漆》中饰演“达闻西”一角，令观众留下深刻的印象。自此罗家英走红起来，并多参与搞笑片的演出，其中有些都是周星驰电影，例如《西游记第壹佰零壹回之月光宝盒》两辑系列他都饰演“唐僧”。两片为罗家英打开了在中国大陆的知名度，后期也因而开始多到大陆演出。另外他凭《女人四十》一片赢得1995年香港电影金像奖最佳男配角；同年台湾金马奖也获同一殊荣。<br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01nq7yHU2GdSdNoj8Ab_!!2251059038.png\" width=\"458\" height=\"328\" damai_width=\"458\" damai_height=\"328\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01kzSt4I2GdSdPDwkmk_!!2251059038.png\" width=\"449\" height=\"294\" damai_width=\"449\" damai_height=\"294\"></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "佛山市拾叁街活动策划有限公司",
+                            "socialCreditCode": "91440605MAC0680703",
+                            "legalPerson": "黎礼顺",
+                            "regCapStr": "10万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "其他有限责任公司",
+                            "entAddress": "佛山市南海区狮山镇狮北兴业北路北区商业广场A座二层202之二(住所申报)"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "需兑换成纸质票验票入场，须打开【票夹】的二维码前往取票点换取，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳台居民居住证/台湾居民来往大陆通行证/护照/港澳居民来往内地通行证/外国人永久居留身份证/身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "汪明荃 罗家英"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "6749009",
+                    "venueName": "南海体育中心体育馆",
+                    "venueProvinceName": "广东省",
+                    "venueCityName": "佛山市",
+                    "lng": 113.006818,
+                    "lat": 23.114727,
+                    "venueAddr": "广东省佛山市南海区狮山镇狮城社区博爱中路62号南海体育中心体育馆",
+                    "showCountText": "共有2个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D835893662047%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1726644449000",
+                "sellStartTimeStr": "09月18日 15:27",
+                "priceRange": "¥380-¥980",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "8843",
+                    "9099",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "695425",
+                    "9867",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8358936620/2/835893662047.jpg"
+            }
+        }
+    }
+}
