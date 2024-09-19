@@ -1,0 +1,467 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：薛之谦、毛不易、白举纲、郭冠廷、刘忻、遗忘俱乐部、罗一舟、蒲熠星、SunnyLukas郑卓熙、苏醒、唐九洲、王啸坤、吴垚滔、颜人中、周柏豪、周峻纬、张远",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "356",
+    "cityname": "福州",
+    "couponTags": "[]",
+    "description": "艺人：薛之谦、毛不易、白举纲、郭冠廷、刘忻、遗忘俱乐部、罗一舟、蒲熠星、SunnyLukas郑卓熙、苏醒、唐九洲、王啸坤、吴垚滔、颜人中、周柏豪、周峻纬、张远",
+    "id": "1_1_836179438086",
+    "imgurl": "-228140212",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "国潮1+1音乐嘉年华",
+    "nameNoHtml": "国潮1+1音乐嘉年华",
+    "price": {
+        "range": "0"
+    },
+    "price_str": "0",
+    "pricehigh": "0.0",
+    "privilegeTags": "[]",
+    "projectid": "836179438086",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.11.09-11.10",
+    "sitestatus": "3",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": {
+        "lat": 26.132377,
+        "lng": 119.123664,
+        "region": "1",
+        "venueAddr": "福建国石文化艺术馆东北侧250米闽越水镇节庆广场",
+        "venueCityName": "福州市",
+        "venueId": "6225007",
+        "venueName": "福州闽越水镇节庆广场",
+        "venueProvinceName": "福建省"
+    },
+    "venuecity": "福州",
+    "venueid": "6225007",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN013gmERV2GdSdQ32gbg_!!0-item_pic.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "福州天艺时代文化传播有限公司(福州天艺时代文化传播有限公司)",
+            "entAddress": "福建省福州市台江区苍霞街道长寿支路3号同德园13号楼南半部二层Q972",
+            "entType": "有限责任公司(自然人独资)",
+            "legalPerson": "张艳萍",
+            "opFrom": "",
+            "opTo": "2067-03-26",
+            "regCapStr": "100万人民币",
+            "socialCreditCode": "91350102MA2Y3XYB46"
+        }
+    },
+    "buyButton": {
+        "origin": "-41",
+        "status": "90",
+        "text": "预约抢票",
+        "tip": "提前选票档 抢票更丝滑"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN016iiNmt2GdSdM0ylQ9_!!2251059038.jpg\" width=\"1020\" height=\"1360\" damai_width=\"1020\" damai_height=\"1360\"></p></body></html>",
+        "introduceTitle": "演出介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "薛之谦，华语流行乐男歌手、影视演员、音乐制作人，毕业于格里昂酒店管理学院。",
+                "id": "609",
+                "name": "薛之谦",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1684752526102/1684752526102-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "毛不易，中国内地流行乐男歌手。",
+                "id": "71889",
+                "name": "毛不易",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1685931228520/1685931228520-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地新生代男歌手。",
+                "id": "71532",
+                "name": "白举纲",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1598507260829/1598507260829-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "郭冠廷（Jace Guo），1991年12月18日出生于辽宁省大连市，中国内地流行乐男歌手、词曲作者、制作人。2018年，发行个人首张迷你音乐专辑《北京姑娘》 。2022年6月，发布首支个人单曲《反派角色》。2023年3月31日，发行单曲《你是我的上海》。10月17日，发行专辑《反派角色》。",
+                "id": "31756166013",
+                "name": "郭冠廷",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1712657935732/1712657935732-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国流行原创女歌手。",
+                "id": "948",
+                "name": "刘忻",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1534413416731/1534413416731-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地摇滚乐队",
+                "id": "1370234251",
+                "name": "遗忘俱乐部",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1624009672566/1624009672566-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "罗一舟，中国内地影视男演员、歌手、舞者。2023年7月，个人首张EP《SIDE L不太一样》正式上线。",
+                "id": "12150774439",
+                "name": "罗一舟",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1693451955561/1693451955561-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "蒲熠星，1994年4月20日出生于四川省绵阳市，中国内地男游戏主播、演员 、影评人、作家，本科毕业于南京大学，硕士毕业于约翰斯·霍普金斯大学。",
+                "id": "1759149360",
+                "name": "蒲熠星",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1710125328391/1710125328391-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国香港的新声代原创音乐人兼音乐制作人。美国伯克利音乐学院攻克音乐制作和作曲双专业。2000年出生的Sunny从小耳濡目染古今中外各类名曲，意气⻛发的他在15岁时就坚定了自己的音乐梦想。 Sunny不仅能歌善舞，而且精通五⻔语言，更是熟练掌握音乐编曲、作曲作词、混音以及母带处理等技巧。在演出和创作的空闲之际，他勤奋地学习了钢琴、吉他、小提琴和乌克丽丽等多类乐器。",
+                "id": "31253462587",
+                "name": "SunnyLukas郑卓熙",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1711009081311/1711009081311-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地嘻哈蓝调创作型男歌手、音乐制作人、主持人。",
+                "id": "118669",
+                "name": "苏醒",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1688433930997/1688433930997-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "乐华娱乐旗下艺人",
+                "id": "7185271355",
+                "name": "唐九洲",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1691831625951/1691831625951-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "2006年我型我秀的全国总冠军。",
+                "id": "530",
+                "name": "王啸坤",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1521704791090/1521704791090-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "流派风格：民谣 Folk\n个人简介：00后创作歌手。\n\n2023年华语乐坛最具人气和关注度的创作新人之一。\n16岁，发表第一首原创歌曲《落日人间》，之后连续发表《夜乡》《三年》《国》《海街寺庙》《破败花园》《暮野荒原》等一系列原创作品在网络平台上以颇具人气。\n19岁，舞台经验为零，受邀参加音综《舞台2023》，初舞台以一首原创歌曲《暮野荒原》斩获周深、ELLA陈嘉桦、王嘉尔、黄绮珊、朴宰范一众好评周深更是打出100分的满分以表肯定，从而吴垚滔获得大量关注度。之后爆款频出一路过关斩将杀进总决赛，以素人之姿摘得年度季军。",
+                "id": "27118228873",
+                "name": "吴垚滔",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1718161079334/1718161079334-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "颜人中，1994年6月17日出生于台湾省，中国台湾创作型流行乐男歌手，毕业于中国文化大学（台湾）戏剧学系。",
+                "id": "72654",
+                "name": "颜人中",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1636354603254/1636354603254-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国香港创作歌手、演员。",
+                "id": "2032",
+                "name": "周柏豪",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1689761404490/1689761404490-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "周峻纬，1995年11月16日出生于吉林省长春市，毕业于加拿大麦吉尔大学社会学心理学专业。中国内地男演员、歌手。",
+                "id": "3787854174",
+                "name": "周峻纬",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1717655217864/1717655217864-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "2007年“快乐男生”南京赛区第2名，全国总决赛第9名，其粉丝叫元宝。现为天娱旗下“至上励合”组合成员，队长。",
+                "id": "739",
+                "name": "张远",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1705563052380/1705563052380-main.jpg",
+                "tag": "歌手"
+            }
+        ],
+        "artistsTitle": "演出阵容",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i4/O1CN01q2JN4O1fyr3OT2Q3J_!!6000000004076-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/868905/173781083_1685313902715.jpg",
+                "https://img.alicdn.com/imgextra/i2/O1CN01WWdumj1apczmwD0Y8_!!6000000003379-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/2458150/491630011_1714126286555.jpg",
+                "https://img.alicdn.com/imgextra/i3/O1CN01prjtaq1EkCl1Unc3U_!!6000000000389-0-tps-500-500.jpg"
+            ],
+            "wantNum": "19358",
+            "wantNumStr": "1.9万",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01R3THyh1QT3Y3gWguc_!!6000000001976-2-tps-1125-702.png",
+        "categoryId": "127420006",
+        "cityName": "福州市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "836179438086",
+        "itemName": "【福州】国潮1+1音乐嘉年华",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "http://img.alicdn.com/imgextra/i4/2251059038/O1CN013gmERV2GdSdQ32gbg_!!0-item_pic.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "350100",
+        "performSeatImages": [],
+        "projectId": "222274017",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "3",
+                    "name": "军官证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                },
+                {
+                    "id": "7",
+                    "name": "港澳台居民居住证"
+                },
+                {
+                    "id": "8",
+                    "name": "外国人永久居留身份证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "以现场为准",
+        "showTime": "2024.11.09-11.10",
+        "tcCategoryId": "0301030100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "216589153",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "216580178",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=836179438086",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张、每个账号最多购买6张。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须携带购票时对应证件验证入场。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "儿童一律凭票入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：护照/港澳居民来往内地通行证/港澳台居民居住证/外国人永久居留身份证/台湾居民来往大陆通行证/身份证/军官证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约120分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "20",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDescWithStyle": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息",
+                "tagName": "重要通知"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                "tagName": "条件退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过身份证验票入场",
+                "tagDescWithStyle": "通过身份证验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：福州天艺时代文化传播有限公司(福州天艺时代文化传播有限公司)\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：福州天艺时代文化传播有限公司(福州天艺时代文化传播有限公司)</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}
