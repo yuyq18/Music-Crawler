@@ -1,0 +1,59 @@
+{
+    "platform": "大麦",
+    "project_id": "835903042851",
+    "project_name": "2024郑润泽「漩涡人生」巡回演唱会-天津站",
+    "category_name": "演唱会",
+    "artists": [
+        "郑润泽"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.23 周六 19:30",
+    "session_time": [
+        "11.23 周六"
+    ],
+    "price": "398-998",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "天津",
+    "venue_name": "天津奥林匹克中心体育馆",
+    "venue_info": {
+        "venue_address": "天津市南开区宾水西道393号",
+        "lng": 117.178282,
+        "lat": 39.077576
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01zs1WVe2GdSdQLODsW_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01kkf0EQ2GdSdKFiQrb_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "11058",
+        "wantNumStr": "1.1万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过63%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "836147453804",
+            "cityName": "南京站",
+            "showTime": "11.09"
+        },
+        {
+            "itemId": "835968331207",
+            "cityName": "佛山站",
+            "showTime": "11.16"
+        },
+        {
+            "itemId": "835903042851",
+            "cityName": "天津站",
+            "showTime": "11.23"
+        },
+        {
+            "itemId": "833472234047",
+            "cityName": "成都站",
+            "showTime": "10.19"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=835903042851"
+}

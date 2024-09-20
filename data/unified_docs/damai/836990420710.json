@@ -1,0 +1,60 @@
+{
+    "platform": "大麦",
+    "project_id": "836990420710",
+    "project_name": "海阔天空 怀念家驹【海山】致敬BEYOND金曲演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "黄海山"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.10.26 周六 19:30",
+    "session_time": [
+        "10.26 周六"
+    ],
+    "price": "58-480",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "哈尔滨",
+    "venue_name": "哈尔滨大剧院歌剧厅",
+    "venue_info": {
+        "venue_address": "哈尔滨市松北区文化中心岛区（东北虎林园旁）",
+        "lng": 126.584059,
+        "lat": 45.808596
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Tk0FyB2GdSdO1uGoA_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN012lGoOA2GdSdQGdoK0_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01NJaaNQ2GdSdQFOL09_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "811013039915",
+            "cityName": "上海站",
+            "showTime": "10.19"
+        },
+        {
+            "itemId": "822321148768",
+            "cityName": "南京站",
+            "showTime": "10.20"
+        },
+        {
+            "itemId": "836990420710",
+            "cityName": "哈尔滨站",
+            "showTime": "10.26"
+        },
+        {
+            "itemId": "832573633606",
+            "cityName": "北京站",
+            "showTime": "11.03"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=836990420710"
+}

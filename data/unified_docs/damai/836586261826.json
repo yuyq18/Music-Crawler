@@ -1,0 +1,64 @@
+{
+    "platform": "大麦",
+    "project_id": "836586261826",
+    "project_name": "苏州后浪·芒禾音乐节",
+    "category_name": "演唱会",
+    "artists": [
+        "沉舟乐队",
+        "回春丹乐队",
+        "海龟先生",
+        "犬儒",
+        "新裤子",
+        "夏日入侵企画",
+        "许巍",
+        "陆虎",
+        "棱镜乐队",
+        "霓虹花园",
+        "吴宇恒",
+        "颜人中",
+        "周传雄",
+        "周峻纬"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.02-11.03",
+    "session_time": [],
+    "price": "199",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "苏州",
+    "venue_name": "苏州后浪芒禾音乐节",
+    "venue_info": {
+        "venue_address": "江苏省苏州市太仓市",
+        "lng": 121.169236,
+        "lat": 31.484288
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01vZpDo62GdSdLmZPCF_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01w1NL8P2GdSdSMpfWj_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01BzEMVa2GdSdNaqhnO_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Vvzd282GdSdMoWIDS_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01u6W2ZJ2GdSdSsuKMm_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN018Y42hF2GdSdP6Go5Q_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "4348",
+        "wantNumStr": "4348",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "836586261826",
+            "cityName": "苏州站",
+            "showTime": "11.02-11.03"
+        },
+        {
+            "itemId": "824422560988",
+            "cityName": "三亚站",
+            "showTime": "12.14-12.15"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=836586261826"
+}

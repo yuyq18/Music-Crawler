@@ -1,0 +1,892 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：张学友",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1847",
+    "cityname": "青岛",
+    "couponTags": "[]",
+    "description": "艺人：张学友",
+    "id": "1_1_828247185438",
+    "imgurl": "-307462738",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "「张学友60+巡回演唱会」青岛站",
+    "nameNoHtml": "「张学友60+巡回演唱会」青岛站",
+    "price": "480.0",
+    "price_str": "480-2280",
+    "pricehigh": "2280.0",
+    "privilegeTags": "[]",
+    "projectid": "828247185438",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.11.29-12.01",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "青岛市民健身中心体育馆",
+    "venuecity": "青岛",
+    "venueid": "1632022",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN014fiifa2GdSd0XqWBZ_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "828247185438",
+                    "itemName": "【青岛】「张学友60+巡回演唱会」青岛站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "370200",
+                    "cityName": "青岛市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN014fiifa2GdSd0XqWBZ_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN014fiifa2GdSd0XqWBZ_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.11.29-12.01",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：替恩替文化(广东)有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：替恩替文化(广东)有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1847",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>“张学友60+巡回演唱会”青岛站即将启幕！</strong></p>\n<p>&nbsp;</p>\n<p>岁月温柔，与时光共舞脚步蹁跹；</p>\n<p>从容笑对，用歌声唱尽往事如烟！</p>\n<p>徜徉金曲海洋，在经典中感受歌神张学友的60+魅力！</p>\n<p>“张学友60+巡回演唱会”青岛站将于青岛市民健身中心体育馆热烈开唱！</p>\n<p>&nbsp;</p>\n<p><strong>追求突破，在60+创造更多新的可能</strong></p>\n<p>演唱会以60+命名，张学友表示：“其实想过很多名字，但最后决定简单一点，就用60+吧！”他觉得做为一位歌手，每张专辑、每个表演都记录了不同阶段的自己。正处于60+的他，将在60+的舞台上继续探索作为歌手的无限可能性，给观众带来更多惊喜体验，回馈一直以来支持他的歌迷！在人生的新阶段，张学友将用音乐与青岛这座城市一起，创造全新的感动与共鸣！</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01gpnNR72GdSYpt9Phq_!!2251059038.png\" width=\"859\" height=\"573\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>奔涌如水，用充满生命力的姿态持续向前</p>\n<p>以水作为主元素的演唱会视觉海报也充满深意。张学友认为“水是充满可能性，无论面对任何困难，前路崎岖难行，水总能找到出路，继续前进。”同时也鼓励自己时时要像水一般保持弹性，让自己拥有前进的动力。正是拥有这样强大的内驱力，张学友才能一次又一次创下演唱会新记录，1995年《友学友演唱会》100场、2007年《学友光年演唱会》105场、2010年《张学友1/2世纪演唱会》147场，2016年《学友 经典演唱会》233场......他用自己的歌唱实力和舞台表现力征服了一批又一批观众，是华语乐坛当之无愧的“歌神”！</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01HREwzE2GdSZ37zI2f_!!2251059038.png\" width=\"636\" height=\"953\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp;</p>\n<p>变与不变，尊重舞台用心制作持续升级</p>\n<p>从“张学友87演唱会”到“张学友60+巡回演唱会”，时光在变，但张学友对于演出的用心程度却始终不变。他说：“尽力做好每一场表演，每多做一场就代表有更多一点的支持，再一次感谢大家对我的眷顾。”每次演唱会张学友都会尝试不同的表现形式，不畏困难，力求完美。本次“张学友60+巡回演唱会”青岛站演出，也将呈现更华丽的舞台造型，更具设计感的舞台，更惊喜的歌单......力求为现场观众带来一次难以忘怀的世界级规格的舞台！</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01L2Zeqy2GdSYvxIhLU_!!2251059038.png\" width=\"863\" height=\"575\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>在演唱会启动发布会时，张学友曾表示：“每次要想一个不一样的演唱会，都会有迷惘的时候，但我总会提醒自己，我是喜欢唱歌、喜欢表演，该如何唱得更好、表演的更精彩，我做演唱会的目标。”青岛站即将启程，期待与你共赴这场饱含音乐初心与自我探索的60+音乐之约！</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "替恩替文化(广东)有限公司",
+                            "socialCreditCode": "914403003194735124",
+                            "legalPerson": "黄广新",
+                            "regCapStr": "500万人民币",
+                            "opFrom": "",
+                            "opTo": "5000-01-01",
+                            "entType": "有限责任公司",
+                            "entAddress": "深圳市龙岗区龙城街道黄阁坑社区龙翔大道3001大运会主体育场024"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张、每个账号最多购买4张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳台居民居住证/外国人永久居留身份证/身份证/港澳居民来往内地通行证/护照/台湾居民来往大陆通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "演出前120分钟开始检票，演出开始90分钟停止检票，请提前安排好出行方式和时间。"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "不低于22首"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "张学友"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "1632022",
+                    "venueName": "青岛市民健身中心体育馆",
+                    "venueProvinceName": "山东省",
+                    "venueCityName": "青岛市",
+                    "lng": 120.218767,
+                    "lat": 36.233091,
+                    "venueAddr": "高新区火炬路318号",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "833374560592",
+                        "cityName": "佛山站",
+                        "showTime": "11.01-11.03",
+                        "tourId": "3926"
+                    },
+                    {
+                        "itemId": "828247185438",
+                        "cityName": "青岛站",
+                        "showTime": "11.29-12.01",
+                        "tourId": "3926"
+                    },
+                    {
+                        "itemId": "829399015801",
+                        "cityName": "苏州站",
+                        "showTime": "12.14-12.29",
+                        "tourId": "3926"
+                    },
+                    {
+                        "itemId": "833890827513",
+                        "cityName": "南昌站",
+                        "showTime": "2025.01.10-01.12",
+                        "tourId": "3926"
+                    },
+                    {
+                        "itemId": "816368551302",
+                        "cityName": "西安站",
+                        "showTime": "09.21-09.22",
+                        "tourId": "3926"
+                    },
+                    {
+                        "itemId": "817063946495",
+                        "cityName": "济南站",
+                        "showTime": "09.27-09.29",
+                        "tourId": "3926"
+                    },
+                    {
+                        "itemId": "764638818310",
+                        "cityName": "上海站",
+                        "showTime": "10.11-10.20",
+                        "tourId": "3926"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=828247185438"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D828247185438%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "2048",
+                        "artistName": "张学友",
+                        "archives": "中国香港男歌手、演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1685935208263/1685935208263-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "2048",
+                        "name": "张学友",
+                        "desc": "中国香港男歌手、演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1685935208263/1685935208263-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "39144",
+                    "wantNumStr": "3.9万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过82%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01JSYxme1pHw65ihWBV_!!6000000005336-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2571876/514375266_1722663202967.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01CGzEn91X9XkwbUHlz_!!6000000002881-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/275786/55157222.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01HRvUZB1lBHsggFFau_!!6000000004780-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「开售提醒」</span>购票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "1612182051",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1681888767643/1681888767643-main.jpg",
+                    "note": "让我们与学友携手踏进他的音乐生涯新纪元，为这份非凡的幸福一同欢呼喝彩！",
+                    "categoryName": "其他",
+                    "title": "张学友60+巡回演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊",
+                "inFieldComments": [
+                    {
+                        "id": "17392684",
+                        "comment": "歌神就是歌神👍👍👍……尽管已经60多岁，张学友的唱功依然稳健，声线细腻，掌握了丰富的演唱技巧。在演唱会上，他能够自如切换真音和假音，展现了极高的音乐造诣。即使在表演中出现小意外，如走下台阶时踉跄，他也能迅速调整状态，继续完成表演，展现了极高的专业素养👍👍👍！吻别唱完都不敢相信深圳场第161场最后一首歌曲…….期待第163场再会哈🥰🥰🥰",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/420303cc90614dd49f83db54000f48f7.jpeg",
+                        "nickName": "立成建材6627177",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1149210/229842054_1680228704644.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16851408",
+                        "comment": "最值得看的演唱会！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/586859ed8581497081e9adf8119473ad.jpg",
+                        "nickName": "麦子",
+                        "userPic": "https://perico.damai.cn/userheadphotos/302631/60526228.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16791647",
+                        "comment": "有什么理由不爱张学友",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/c8429191860245658042aac8e48a98f4.jpeg",
+                        "nickName": "媛媛媛媛雪",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/3617/723584_1718559185941.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16646162",
+                        "comment": "青春圆满",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/164d7fb5adc14c5699a3f57afec951a6.jpg",
+                        "nickName": "记住a小林",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2325143/465028676_1700725863532.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16352170",
+                        "comment": "強烈感受到火油60+的真誠！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/dbc4511041d04074a4822a926f33b447.jpg",
+                        "nickName": "新星星:)",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2350605/470121074_1702899078645.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15803109",
+                        "comment": "我来听他的演唱会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/bd31e43ed88344a492ca72a79662dbf1.jpg",
+                        "nickName": "峨眉山飞鸿",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2257937/451587481_1707922124413.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15735530",
+                        "comment": "我50-，学友哥60+",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/0989ab6524e34387ac45950e989164fa.jpg",
+                        "nickName": "嘘,严肃点儿",
+                        "userPic": "https://perico.damai.cn/userheadphotos/730648/146129724.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15318928",
+                        "comment": "音乐不止 歌唱继续～",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/3b1eeaaedb684d28beb562cc28af6d4d.jpg",
+                        "nickName": "ReggaeLive",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1225203/245040653_1711510111518.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15245430",
+                        "comment": "当之无愧的歌神",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/309c3d5b0e7944a8a4239dc3415b2232.jpg",
+                        "nickName": "求麦麦赐许嵩",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1148662/229732414_1680236651863.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15007120",
+                        "comment": "和学友哥一起闪闪发光！✨",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/3ab0539dd7874cde9fb1856808aa39f3.jpg",
+                        "nickName": "灵感与你Starr",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/135312/27062404_1690880090722.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14842034",
+                        "comment": "张学友60+第111场演唱会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/3c898e5d142b4ed6bec4e7684b7c859e.jpg",
+                        "nickName": "麦子41HUD",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1093823/218764696_1666595708899.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14821332",
+                        "comment": "张学友2024北京演唱会第110场！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/ed91f0f2693f43e490904757d1e3c029.jpg",
+                        "nickName": "剧场里的美猪猪",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/35682/7136580_1704400711027.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14763336",
+                        "comment": "人生一定要听一次歌神张学友的演唱会呀✨",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/a98fbb10e1bf47bc82d32cf6c246f725.jpeg",
+                        "nickName": "小林三岁-",
+                        "userPic": "https://perico.damai.cn/userheadphotos/198167/39633480.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14726203",
+                        "comment": "❤️推荐理由：歌神的60+还是那个熟悉的味道～\n\n🏠舞台布置：这次的舞台还是很用心的，乐队都坐在舞台后方的大型正方形的架子上，架子可以前后移动，还运用了AI技术作为歌唱时的大屏背景，无论是张学友的卡通形象还是老年的形象都离不开技术的加持。\n\n🎭惊艳演技：歌神张学友还是非常的活泼可爱充满动力，面部的表情很丰富，肢体动作也很灵活，招牌的劈叉又来了。\n\n🎵经典歌曲：和网传的歌单差不多，以粤语歌为主，后半段的歌单在现场的共鸣较多，情书、我真的受伤了、一千个伤心的理由、一路上有你、偷心等都引发了全场大合唱。\n\n💺座位信息：盲开座位位于303看台，略偏于舞台的侧面，略侧身可助于观看演唱会～",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/545406a67bb848bd98d5f1157481a729.jpg",
+                        "nickName": "喵喵看好展演",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/592316/118463223_1723375784920.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14581290",
+                        "comment": "张学友+53位乐队老师+19位芭蕾舞者，非常震撼！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/7e159f808e5442efa09b37982b3893f7.jpg",
+                        "nickName": "WanwaN",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/622987/124597565_1666858053492.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14559032",
+                        "comment": "ooh la la~ 老baby风采依旧",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/0223359a88094049853ba29d8012fe8a.jpeg",
+                        "nickName": "ReggaeLive",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1225203/245040653_1711510111518.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14557341",
+                        "comment": "永远的歌神",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/764d06b6b9ac4b5696d5d7ce93116439.jpeg",
+                        "nickName": "maggieliu",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/140332/28066542_1693916370213.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14553769",
+                        "comment": "歌神在上海“偷心”",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/decd18536760437ebe1205e910ff3c7c.jpg",
+                        "nickName": "klashe",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/276600/55320072_1692835821391.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14553753",
+                        "comment": "我们来听他的演唱会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/24044bf2a1034a318495d5cfa8d39f9a.jpg",
+                        "nickName": "klashe",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/276600/55320072_1692835821391.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14550976",
+                        "comment": "张学友60+上海演唱会（2.25号第99场）我来听他的演唱会，我终于来听了他的演唱会！我终于来听了歌神张学友演唱会！歌声和唱机里是真的一模一样！\n我就是传说中一直从头哭到尾的，来上海听“我们”的演唱会。\n当演唱会开始留住这时光，老baby的声音出现及看见身影在投屏上，刹那间又满眶热泪了😭\n这次53人管弦乐队真是绝无仅有，上海场又是体育馆，音效比体育场要好很多。可以说，即是演唱会又是音乐会。偶像还把乐队全员每个人逐一给观众介绍，可以说是很窝心的一个设置了。\n中间Jacky介绍了60+的缘起，谈了自己对于岁月和音乐的念想，紧接着就是他从年轻到现在以及未来的照片（AI合成）配上《又十年》的曲子。怎么说呢，就是人到中年才能同频的一段表演，很感恩偶像还在演出，还在陪伴我们。\n经典曲目外，Jacky说他自己也是会写歌的，还打趣说只是电台不愿意播他自己的写的歌，只好在演唱会唱了。《又十年》、《日出时让街灯安静》、《过敏世界》这些歌是他自己写的。尤其是《又十年》，当时歌一出来就把我唱哭了（明明电台很愿意播啊，嘿嘿）\nencore了 每天爱你多一些，\n没有唱我最爱的寂寞的男人，以及 离开以后 （倒是在回家的路上司机随机播放了这首🥰）。\nJacky唱歌结束的时候还会吐吐舌头，然后害羞又自豪的介绍“这首歌是我写的”，就溜出舞台了，哈哈哈哈，终于知道为啥都喊他老baby了。\n第99场，上海第三场，Talk……谢幕\n——\n🎤谢谢大家，老实说今天的心情是有点复杂的，因为我从6月9号开始第一场的演唱会，一直唱一直唱一直唱唱唱（左手做动作），唱到现在，突然间好像有一个要告别的感觉，所以今天心情是有点复杂的，可是我已经尽力去表演了，控制我的情绪在表演（左手捏紧拳头努力的样子），希望大家还对今天的演唱会满意。\n🎤还没结束，虽然讲起来好像是结束这样子，然后我觉得以下这首歌，我们一起唱的话，它真的可以表达我自己对大家感谢的心情，这首歌刚刚曾经唱过，广东版叫《分手总要在雨天》，然后有些朋友问我，为什么刚刚不唱，因为我觉得这样唱会比较好一点，大家会跟我一起唱吗？\n🎤演唱《一路上有你》，在这里再一次感谢过去一直支持我的朋友，谢谢一路上有你们，谢谢！接下来就是虽然唱，哈哈，唱什么歌呢，唱广东歌可以吗，不可以吗？哈哈，《真情流露》，你们会不会啊（粤语问大家）。\n🎤演唱《真情流露》，接下来这首歌虽然昨天唱过，我觉得今天是一定要唱的。\n🎤演唱《祝福》，希望大家已经有一个愉快的晚上，在这里送上我们今天晚上的最后一首歌，《吻别》！\n\n歌神的现场真的太棒啦🥳🥳学友很有心，也很有实力，\n唱《偷心》、说上海话、劈叉一个没落下，给足了上海人民诚意！在现场和大家互动说上海话给大家拜年，在上海唱《偷心》，还有保留节目劈叉\tķ\n每一首歌都好听，细腻，激情，全程开唱，唱功实力当之无愧。\n 学友62了…完全不感到他有多老，全程一个人火热开麦，又唱又跳的。有一首歌因为播放失误（播了彩排录音调试），他要求音乐总监重新播音乐来一遍。以及他的弦乐团也是非常优秀，乐器演绎老师从60多岁到02年的小弟弟。 \n张学友老师气息也太太太足了，每首歌都很稳，整个人状态超级松弛，又平易近人又搞笑！这怎么会是60+的男人啊！也太有魅力了！ \n\n太幸福了🥰🥳\n当天听完真的感觉圆满了，后劲太大，隔了一个星期才写出来。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/07e49b0f75394bd2952a889e2d076342.jpg",
+                        "nickName": "陪小坤看日落_",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1224820/244964055_1689572039436.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    }
+                ]
+            },
+            "item": {
+                "buyBtnStatus": "90",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "13",
+                "sellStartTime": "1726797653000",
+                "sellStartTimeStr": "09月20日 10:00",
+                "priceRange": "¥480-¥2280",
+                "performBases": [
+                    {
+                        "name": "11.29 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1732809600000",
+                        "performs": [
+                            {
+                                "performId": "216077093",
+                                "performName": "2024-11-29 周五 19:00",
+                                "itemId": "828247185438",
+                                "projectId": "221806006",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1732878000000",
+                                "performTime": "2024.11.29 19:00",
+                                "performStartDate": "2024-11-29",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "4",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "11.30 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1732896000000",
+                        "performs": [
+                            {
+                                "performId": "216077094",
+                                "performName": "2024-11-30 周六 19:00",
+                                "itemId": "828247185438",
+                                "projectId": "221806006",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1732964400000",
+                                "performTime": "2024.11.30 19:00",
+                                "performStartDate": "2024-11-30",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "4",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.01 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1732982400000",
+                        "performs": [
+                            {
+                                "performId": "216077095",
+                                "performName": "2024-12-01 周日 19:00",
+                                "itemId": "828247185438",
+                                "projectId": "221806006",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1733050800000",
+                                "performTime": "2024.12.01 19:00",
+                                "performStartDate": "2024-12-01",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "4",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "3",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售，正式开票后将第一时间配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9355",
+                    "2443",
+                    "8843",
+                    "9099",
+                    "395",
+                    "1163",
+                    "16267",
+                    "12171",
+                    "14731",
+                    "695425",
+                    "9867",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "4",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8282471854/2/828247185438.jpg"
+            }
+        }
+    }
+}
