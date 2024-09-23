@@ -1,0 +1,47 @@
+{
+    "platform": "大麦",
+    "project_id": "837054283261",
+    "project_name": "迪斯科女王张蔷 《蔷行世界》昆明站",
+    "category_name": "演唱会",
+    "artists": [
+        "张蔷"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.10 周日 20:00",
+    "session_time": [],
+    "price": "258-368",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "昆明",
+    "venue_name": "MODERNSKY LAB(昆明店)",
+    "venue_info": {
+        "venue_address": "昆明滇池路569号南亚风情第壹城B1 NEW MALL三层",
+        "lng": 102.683658,
+        "lat": 25.009534
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01hdFEHE2GdSdSWvFSp_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01yHxMBI2GdSdLC0oAs_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "73",
+        "wantNumStr": "73",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "837272082388",
+            "cityName": "杭州站",
+            "showTime": "10.22"
+        },
+        {
+            "itemId": "837054283261",
+            "cityName": "昆明站",
+            "showTime": "11.10"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=837054283261"
+}
