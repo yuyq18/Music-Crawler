@@ -1,0 +1,380 @@
+{
+    "searchType": "SHOW",
+    "showId": "66f251d5ea992e0001f58b0d",
+    "stdShowId": "66f251d5ea992e0001f58b0c",
+    "showName": "【沈阳】Blue Moment 蓝心羽2024巡演·沈阳站",
+    "showDate": "2024.11.22 20:00",
+    "cityName": "沈阳",
+    "cityId": "2101",
+    "showStatus": "PENDING",
+    "minOriginalPrice": "138.0",
+    "posterUrl": "https://cdn.ticketmars.com/image/prod/20240924_49/17271567326656631.jpg",
+    "venueId": "5e93d296a81bd0738de2a83b",
+    "venueName": "原料库live house（红梅店）",
+    "backendCategory": "{'code': 19, 'displayName': 'Livehouse', 'name': 'Livehouse'}",
+    "isFree": "False",
+    "firstShowTime": "1732276800000",
+    "lastShowTime": "1732282200000",
+    "minOriginalPriceInfo": "{'yuanNum': '138', 'centNum': '', 'suffix': '起', 'prefix': '￥'}",
+    "latestShowTime": "1732276800000",
+    "showSessionDates": "['20241122']",
+    "soldOut": "False",
+    "sessionNum": "1",
+    "seatPlanNum": "5",
+    "rsCode": 200,
+    "basicInfo": {
+        "hotMode": true,
+        "stdShowId": "66f251d5ea992e0001f58b0c",
+        "bizShowId": "66f251d5ea992e0001f58b0d",
+        "showName": "【沈阳】Blue Moment 蓝心羽2024巡演·沈阳站",
+        "sourceType": "SELF_BUILT_SELF_PRODUCE",
+        "originalSeatPickType": "SUPPORT_NONE",
+        "contentUrl": "https://cdn.ticketmars.com/prod/showContent/66f251d5ea992e0001f58b0d/content_66f25209607c5e000121ac2a.content",
+        "posterUrl": "https://cdn.ticketmars.com/image/prod/20240924_49/17271567326656631.jpg",
+        "posterColor": "#5688bfff",
+        "venueId": "5e93d296a81bd0738de2a83b",
+        "venueName": "原料库live house（红梅店）",
+        "venueAddress": "沈阳市铁西区原料库Live House",
+        "venueLat": 41.811474,
+        "venueLng": 123.352204,
+        "cityId": "2101",
+        "cityName": "沈阳市",
+        "onSaleShowCount": 5,
+        "showTags": [],
+        "authorizationUrl": "",
+        "minOriginalPriceInfo": {
+            "yuanNum": "138",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "maxOriginalPriceInfo": {
+            "yuanNum": "328",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "showDate": "2024年11月22日 20:00",
+        "showDuration": "约120分钟 以现场为准",
+        "displayAdvance": false,
+        "venueDisplayAdvance": false,
+        "sessionDisplayAdvance": false,
+        "seatPlanDisplayAdvance": false,
+        "showType": {
+            "name": "Livehouse"
+        },
+        "showDetailStatus": "PENDING",
+        "existsPrivilegePurchase": false,
+        "displayCountdownTime": true,
+        "captchaTypes": [],
+        "tourId": "66f13983ace81400019e5ab0"
+    },
+    "additionalInfo": {
+        "hasCoupon": true,
+        "hasPromo": false,
+        "hasAddPurchase": false,
+        "hasUserPromo": false,
+        "hasPCard": false,
+        "hasPriority": false,
+        "hasChannelDiscount": false,
+        "checkChannelFreeCombo": false,
+        "channelPickSeatProject": false,
+        "hasTyingSale": false,
+        "hasJumpGuid": false
+    },
+    "descInfo": {
+        "observationInstructions": [
+            {
+                "key": "TICKETS_AND_ADMISSION",
+                "name": "票品及入场",
+                "value": "电子直刷：须打开【票舱】扫码入场，截图无效",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "1727157076029",
+                "name": "站席观演",
+                "value": "本次演出入场后为站席观演，门票无对应座位。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "SHOW_DURATION",
+                "name": "演出时长",
+                "value": "约120分钟 以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "MAIN_ACTOR",
+                "name": "主要演员(团体)",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "ENTRY_TIME",
+                "name": "入场时间",
+                "value": "签专套票、VIP票可提前入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "RESTRICTED_ITEM",
+                "name": "禁止携带物品",
+                "value": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            },
+            {
+                "key": "LUGGAGE_DEPOSIT",
+                "name": "物品寄存",
+                "value": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 7
+            },
+            {
+                "key": "MINIMUM_SHOW_DURATION",
+                "name": "最低演出时长",
+                "value": "约120分钟（以现场为准）",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 8
+            },
+            {
+                "key": "MINIMUM_SHOW_NUMBER",
+                "name": "最低演出曲目",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 9
+            }
+        ],
+        "ticketInstructions": [
+            {
+                "key": "CHILDREN_INTRODUCTION",
+                "name": "儿童购票",
+                "value": "儿童一律凭票入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "INVOICE_INTRODUCTION",
+                "name": "发票说明",
+                "value": "电子发票\n发票开具方：主办方\n该项目可申请开具电子发票。该发票由第三方主办提供。订单交易完成后6日将关闭申请。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "REAL_NAME_PURCHASE_TICKET_INTRODUCTION",
+                "name": "实名购票规则",
+                "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证/外国人永久居留身份证",
+                "isMarked": false,
+                "tagContent": "门票对应唯一证件(身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证/外国人永久居留身份证)",
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "EXCEPTION_ORDER_INTRODUCTION",
+                "name": "异常排单说明",
+                "value": "对于异常订购行为，商家有权在订单成立或者生效之后取消相应订单。 异常订购行为包括但不限于以下情形： （1）通过同一ID订购超出限购张数的订单。 （2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "LIMITATION",
+                "name": "限购规则",
+                "value": "每个场次限购6张/套，项目限购20张/套",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "EXCHANGE_POLICY",
+                "name": "退换政策",
+                "value": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            }
+        ],
+        "markedTextList": []
+    },
+    "noteInfos": [
+        {
+            "name": "不支持七天无理由退换",
+            "value": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+            "type": false,
+            "code": "NO_SUPPORT_REFUND"
+        },
+        {
+            "name": "实名观演",
+            "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证/外国人永久居留身份证",
+            "type": true,
+            "code": "REAL_NAME_TICKET"
+        },
+        {
+            "name": "电子票",
+            "value": "通过票舱中的二维码，可以直接验票入场（具体以下单后票舱信息为准）",
+            "type": true,
+            "code": "E_TICKET"
+        },
+        {
+            "name": "发票说明",
+            "value": "电子发票\n发票开具方：主办方\n该项目可申请开具电子发票。该发票由第三方主办提供。订单交易完成后6日将关闭申请。",
+            "type": false,
+            "code": "BILL_APPLY",
+            "desc": "发票"
+        }
+    ],
+    "announcement": [],
+    "whiteTags": [],
+    "watcherReplacer": "观演",
+    "tour": {
+        "id": "66f13983ace81400019e5ab0",
+        "tourName": "Blue Moment 蓝心羽2024巡演",
+        "tourPosterUrl": "https://cdn.ticketmars.com/image/prod/20240923_47/17270848594273671.jpg",
+        "shows": [
+            {
+                "showId": "66f27386f5352f0001df70f0",
+                "showName": "【合肥】Blue Moment 蓝心羽2024巡演·合肥站",
+                "showDate": "11.01",
+                "cityName": "合肥站",
+                "showStatus": "ONSALE",
+                "existLatestSaleTime": false,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240923_34/17270842976294564.png",
+                "showStatusTag": "热销中"
+            },
+            {
+                "showId": "66d5390dd9339b00019a9a2a",
+                "showName": "【武汉】Blue Moment 蓝心羽2024巡演·武汉站",
+                "showDate": "11.03",
+                "cityName": "武汉站",
+                "showStatus": "ONSALE",
+                "existLatestSaleTime": false,
+                "posterUrl": "https://cdn.ticketmars.com/prod/external/img/20240902/66d5390c97b2d30001f33115.jpg",
+                "showStatusTag": "热销中"
+            },
+            {
+                "showId": "66f21fdaba367d0001725290",
+                "showName": "【长沙】Blue Moment 蓝心羽2024巡演·长沙站",
+                "showDate": "11.09",
+                "cityName": "长沙站",
+                "showStatus": "PENDING",
+                "existLatestSaleTime": true,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240923_34/17270842976294564.png",
+                "showStatusTag": "即将抢票"
+            },
+            {
+                "showId": "66f0cd8bf5352f0001cb1ef1",
+                "showName": "【南昌】Blue Moment 蓝心羽2024巡演·南昌站",
+                "showDate": "11.10",
+                "cityName": "南昌站",
+                "showStatus": "PENDING",
+                "existLatestSaleTime": true,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240923_92/17270574608951668.jpg",
+                "showStatusTag": "即将抢票"
+            },
+            {
+                "showId": "66f13677f5352f0001d0d8d9",
+                "showName": "【天津】Blue Moment 蓝心羽2024巡演·天津站",
+                "showDate": "11.17",
+                "cityName": "天津站",
+                "showStatus": "PENDING",
+                "existLatestSaleTime": true,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240923_34/17270842976294564.png",
+                "showStatusTag": "即将抢票"
+            },
+            {
+                "showId": "66f251d5ea992e0001f58b0d",
+                "showName": "【沈阳】Blue Moment 蓝心羽2024巡演·沈阳站",
+                "showDate": "11.22",
+                "cityName": "沈阳站",
+                "showStatus": "PENDING",
+                "existLatestSaleTime": true,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240924_49/17271567326656631.jpg",
+                "showStatusTag": "即将抢票"
+            },
+            {
+                "showId": "66cc36dc052491000111556a",
+                "showName": "【北京】Blue Moment 蓝心羽2024巡演·北京站",
+                "showDate": "11.24",
+                "cityName": "北京站",
+                "showStatus": "ONSALE",
+                "existLatestSaleTime": false,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240904_18/17254364453984229.jpg",
+                "showStatusTag": "热销中"
+            },
+            {
+                "showId": "66f0f5f03754c40001528a64",
+                "showName": "【重庆】Blue Moment 蓝心羽2024巡演·重庆站",
+                "showDate": "11.30",
+                "cityName": "重庆站",
+                "showStatus": "PENDING",
+                "existLatestSaleTime": true,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240923_12/17270597787105660.jpg",
+                "showStatusTag": "即将抢票"
+            },
+            {
+                "showId": "66f0d4ceba367d0001632cde",
+                "showName": "【南宁】Blue Moment 蓝心羽2024巡演·南宁站",
+                "showDate": "12.06",
+                "cityName": "南宁站",
+                "showStatus": "PENDING",
+                "existLatestSaleTime": true,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240923_12/17270597787105660.jpg",
+                "showStatusTag": "即将抢票"
+            },
+            {
+                "showId": "66f0ed4dace81400019a5032",
+                "showName": "【昆明】Blue Moment 蓝心羽2024巡演·昆明站",
+                "showDate": "12.08",
+                "cityName": "昆明站",
+                "showStatus": "PENDING",
+                "existLatestSaleTime": true,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240923_12/17270597787105660.jpg",
+                "showStatusTag": "即将抢票"
+            },
+            {
+                "showId": "66f0e8903f4c860001c34ad6",
+                "showName": "【广州】Blue Moment 蓝心羽2024巡演",
+                "showDate": "12.20",
+                "cityName": "广州站",
+                "showStatus": "PENDING",
+                "existLatestSaleTime": true,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240923_12/17270597787105660.jpg",
+                "showStatusTag": "即将抢票"
+            },
+            {
+                "showId": "66f0e4e0ed37660001694bab",
+                "showName": "【深圳】Blue Moment 蓝心羽2024巡演·深圳站",
+                "showDate": "12.22",
+                "cityName": "深圳站",
+                "showStatus": "PENDING",
+                "existLatestSaleTime": true,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240923_12/17270597787105660.jpg",
+                "showStatusTag": "即将抢票"
+            },
+            {
+                "showId": "66f0d3393754c4000150896c",
+                "showName": "【杭州】Blue Moment 蓝心羽2024巡演·杭州站",
+                "showDate": "2025.01.11",
+                "cityName": "杭州站",
+                "showStatus": "PENDING",
+                "existLatestSaleTime": true,
+                "posterUrl": "https://cdn.ticketmars.com/image/prod/20240923_83/17270588247998649.jpg",
+                "showStatusTag": "即将抢票"
+            }
+        ]
+    }
+}

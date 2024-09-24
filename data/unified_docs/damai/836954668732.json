@@ -1,0 +1,92 @@
+{
+    "platform": "大麦",
+    "project_id": "836954668732",
+    "project_name": "Blue Moment 蓝心羽2024巡演·南宁站",
+    "category_name": "演唱会",
+    "artists": [
+        "蓝心羽"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.06 周五 20:00",
+    "session_time": [],
+    "price": "138-328",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南宁",
+    "venue_name": "候朋现场HOPELIVExC ONE LIVEHOUSE",
+    "venue_info": {
+        "venue_address": "南宁市江南区亭洪路45号华联旁百益上河城艺术中心",
+        "lng": 108.306744,
+        "lat": 22.786506
+    },
+    "project_info": "*入场时间以现场为准*",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01bjQVe92GdSdUypgVZ_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01FZUzEe2GdSdQycJtk_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "836444499247",
+            "cityName": "南昌站",
+            "showTime": "11.10"
+        },
+        {
+            "itemId": "836450955261",
+            "cityName": "天津站",
+            "showTime": "11.17"
+        },
+        {
+            "itemId": "836549226917",
+            "cityName": "沈阳站",
+            "showTime": "11.22"
+        },
+        {
+            "itemId": "836859533144",
+            "cityName": "重庆站",
+            "showTime": "11.30"
+        },
+        {
+            "itemId": "836954668732",
+            "cityName": "南宁站",
+            "showTime": "12.06"
+        },
+        {
+            "itemId": "836313787795",
+            "cityName": "昆明站",
+            "showTime": "12.08"
+        },
+        {
+            "itemId": "836819621449",
+            "cityName": "广州站",
+            "showTime": "12.20"
+        },
+        {
+            "itemId": "836786325612",
+            "cityName": "深圳站",
+            "showTime": "12.22"
+        },
+        {
+            "itemId": "837037324629",
+            "cityName": "合肥站",
+            "showTime": "11.01"
+        },
+        {
+            "itemId": "836545410233",
+            "cityName": "武汉站",
+            "showTime": "11.03"
+        },
+        {
+            "itemId": "836675946937",
+            "cityName": "北京站",
+            "showTime": "11.24"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=836954668732"
+}

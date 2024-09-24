@@ -1,0 +1,453 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_837700750339",
+    "imgurl": "-212927089",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "2024 周理上海个人演唱会",
+    "nameNoHtml": "2024 周理上海个人演唱会",
+    "price": "80.0",
+    "price_str": "80-580",
+    "pricehigh": "580.0",
+    "privilegeTags": "[]",
+    "projectid": "837700750339",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.10.15 周二 19:00",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "兰心大戏院",
+    "venuecity": "上海",
+    "venueid": "82",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01qhKnOz2GdSdW1p2FM_!!0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "837700750339",
+                    "itemName": "【上海】2024 周理上海个人演唱会",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01qhKnOz2GdSdW1p2FM_!!0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01qhKnOz2GdSdW1p2FM_!!0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.10.15 周二 19:00",
+                    "showDuration": "以现场为准",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：上海橙石影视文化有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：上海橙石影视文化有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>1.主题海报</strong></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01bV76WC2GdSdVGECj4_!!2251059038.png\" width=\"428\" height=\"570\" damai_width=\"428\" damai_height=\"570\"></p>\n<p><strong>2.艺人介绍：</strong></p>\n<p>10 月 15&nbsp; 日，上海市兰心大戏院将迎来一场别开生面的音乐盛宴— —《雪之 幸》梦想永在 2024 年演唱会。雪澄，这位热爱音乐的歌者，将再次站在舞台中 央，带着她那不变的音乐情怀，回到她梦想开始的地方。</p>\n<p>雪澄自幼便与音乐结下不解之缘。在一个充满音乐气息的家庭中成长，她的 嗓音如黄浦江畔的微风，轻柔而富有穿透力，令人沉醉。雪澄的音乐之旅始于青 年宫艺术团声乐队，年少时她便展现了非凡的音乐天赋。她师从声乐大师徐郎、 张世明、廖一明等人，接受了严格的专业训练，打下了扎实的歌唱基础。这些经 历为她未来的演艺生涯奠定了深厚的功力。</p>\n<p>成年后，雪澄凭借对音乐的执着与热爱，与上海各大乐队和乐团展开了巡演。 她的声音时而婉转细腻，时而高亢雄浑，每一次演唱都能深深触动听众的心。2002&nbsp; 年 9 月，她还曾参加日本 NHK 在北京举行的《NHK 喉自慢》，获得观众的热烈 好评。</p>\n<p>1990 年，雪澄远嫁汕头，这一大胆的决定为她的音乐旅程开启了新的篇章。 她在汕头开始了“浪人歌手”的生涯，与当地的艺人以及聚集在此的各地音乐人一 起，开辟了属于她的另一个新天地。在这片新的土地上，她的歌声跨越了地域与 文化的界限，继续追寻着她的音乐梦想。</p>\n<p>然而，她的脚步并未就此停下。为了追求更高的音乐境界，雪澄远赴日本， 潜心学习亚洲音乐的精髓。她在日本举办了个人演唱会，用她充满情感的歌声征 服了来自不同文化背景的听众，跨越了语言和地域的障碍，将她的心声传递给世 界。</p>\n<p>如今，雪澄的孩子已然长大，她终于迎来了再次回到歌唱舞台的机会。时间 流逝，但她对歌唱的热爱却从未改变。此次演唱会不仅是她音乐梦想的回归，更</p>\n<p>是她艺术生涯的新篇章。</p>\n<p>此次演唱会上，三位特别嘉宾也将登台献艺：</p>\n<p>陈忠锋：上海著名实力派歌手，雪澄的同盟师兄，曾多次在全国和上海的歌 唱大赛中斩获大奖。</p>\n<p>黎田康子：原中国东方歌舞团独唱演员，广东省流行音乐协会潮汕委员会副 秘书长。她的潮语歌曲代表作《一壶好茶一壶月》和《那一夜的月亮》深受海内 外听众喜爱。</p>\n<p>姬燕：全球邓丽君歌迷会汕头分会副会长，以其独特的嗓音和细腻的演唱风 格，赢得了众多粉丝的追捧。</p>\n<p>这三位杰出的歌手将与雪澄一同在舞台上，为观众带来一场充满激情与感动 的演出。这不仅是一次音乐的盛宴，更是一次心灵的洗礼。</p>\n<p>雪澄向每一个心怀音乐梦想的你发出诚挚邀请。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01R68ZRo2GdSdWE9u0n_!!2251059038.png\" width=\"663\" height=\"569\" damai_width=\"663\" damai_height=\"569\"></p>\n<p><strong>3、演唱会信息：</strong></p>\n<p>《雪之幸》梦想永在 2024 年上海演唱会,演出时间：2024 年 10 月 15&nbsp; 日 19:00</p>\n<p>演出地点:茂名南路 57 号兰心大戏院 主办:上海一条路文化传媒有限公司</p>\n<p>舞蹈:上海世纪艺术舞蹈团</p>\n<p>协办:&nbsp; 荣氏文化基金会中国大渔集团</p>\n<p>上海鲔之星 21 克拉</p>\n<p>上海富正</p>\n<p>上海天萃庭健康食品有限公司 青岛潮鑫牧业有限公司</p>\n<p>京東航空 圆通航空</p>\n<p>媒体支持:日中通信旗下媒体 後援:在日上海同鄉會</p>\n<p>&nbsp;</p>\n<p><strong>4、演出曲目</strong></p>\n<p>——乐队开场曲</p>\n<p>01 、《恋 寻》</p>\n<p>02 、《野百合也有春天》</p>\n<p>03 、《是否》</p>\n<p>04 、《一样的月光》</p>\n<p>05 、《追梦人》</p>\n<p>06 、《我等到花儿也谢了》</p>\n<p>07 、《神秘女郎》</p>\n<p>08 、《苏州河边》</p>\n<p>09 、《夜来香》</p>\n<p>10 、《敲敲门》</p>\n<p>11 、《不告而别》</p>\n<p>12 、《听心》</p>\n<p>13 、《飘雪》</p>\n<p>14 、《妈妈的呼唤》</p>\n<p>15 、《襟裳岬》</p>\n<p>16 、《 メ ロデ ィー》</p>\n<p>17 、《 J に》</p>\n<p>18 、《曼珠沙華》</p>\n<p>19 、《l will always love you&nbsp; 》</p>\n<p>20 、《心の友》</p>\n<p>21 、《時代》</p>\n<p>22 、《川の流れの よ う に》</p>\n<p>23 、《爱的箴言》</p>\n<p>24 、《滚滚红尘》（嘉宾合唱：黎田康子、姬燕）</p>\n<p>25 、《恼人的秋风》嘉宾合唱：雪澄、黎田康子、姬燕</p>\n<p>26 、《当》《存在》（嘉宾演唱：陈忠锋）</p>\n<p>27 、《梨花又开放》</p>\n<p>28 、《故乡的云》（全体演员合唱） ——乐队结束曲</p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "",
+                            "socialCreditCode": "",
+                            "legalPerson": "",
+                            "regCapStr": "",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "",
+                            "entAddress": ""
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须兑换成纸质票验票入场，当天请按照【票夹】提示，前往取票点换取纸质票后入场"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "100"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "82",
+                    "venueName": "兰心大戏院",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.460422,
+                    "lat": 31.220895,
+                    "venueAddr": "上海市黄浦区茂名南路57号",
+                    "showCountText": "共有9个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D837700750339%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "选座购买",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1727201454000",
+                "sellStartTimeStr": "09月25日 02:10",
+                "priceRange": "¥80-¥580",
+                "performBases": [
+                    {
+                        "name": "10.15 周二",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1728921600000",
+                        "performs": [
+                            {
+                                "performId": "216589405",
+                                "performName": "2024-10-15 周二 19:00",
+                                "itemId": "837700750339",
+                                "projectId": "222268044",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1728990000000",
+                                "performTime": "2024.10.15 19:00",
+                                "performStartDate": "2024-10-15",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "9867",
+                    "2443",
+                    "12171",
+                    "395",
+                    "1163",
+                    "16267",
+                    "14731",
+                    "695425",
+                    "716673",
+                    "9355",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8377007503/2/837700750339.jpg"
+            }
+        }
+    }
+}
