@@ -1,0 +1,52 @@
+{
+    "platform": "大麦",
+    "project_id": "838210881547",
+    "project_name": "11月9日 杭州 黑屋乐队「婆娑大梦」巡演",
+    "category_name": "演唱会",
+    "artists": [
+        "黑屋乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.09 周六 20:00",
+    "session_time": [],
+    "price": "100-150",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "杭州",
+    "venue_name": "大麦66LiveHouse杭州",
+    "venue_info": {
+        "venue_address": "浙江省杭州市下城区新北街85号三层G2-302",
+        "lng": 120.180515,
+        "lat": 30.325061
+    },
+    "project_info": "黑屋乐队「婆娑大梦」巡演大梦一场，惊醒的时候，你有没有那么一刻，分不清美梦与现实？选择继续活在梦里，又或者活在残酷的现实中。谁又能断言，哪里才是你我真正的归宿。2024，我们现场不见不散。\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Zp4p5k2GdSdSwJLFO_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01AC26nk2GdSdS59vEs_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "99",
+        "wantNumStr": "99",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "837504355552",
+            "cityName": "深圳站",
+            "showTime": "10.20"
+        },
+        {
+            "itemId": "837458039573",
+            "cityName": "沈阳站",
+            "showTime": "11.01"
+        },
+        {
+            "itemId": "838210881547",
+            "cityName": "杭州站",
+            "showTime": "11.09"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=838210881547"
+}
