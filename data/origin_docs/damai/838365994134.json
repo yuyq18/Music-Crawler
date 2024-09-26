@@ -1,0 +1,557 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "712",
+    "cityname": "张家界",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_838365994134",
+    "imgurl": "-206274651",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "张家界草莓音乐节",
+    "nameNoHtml": "张家界草莓音乐节",
+    "price": {
+        "range": "0"
+    },
+    "price_str": "0",
+    "pricehigh": "0.0",
+    "privilegeTags": "[]",
+    "projectid": "838365994134",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.10.19-10.20",
+    "sitestatus": "3",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": {
+        "lat": 29.119679,
+        "lng": 110.462061,
+        "region": "1",
+        "venueAddr": "张家界市永定区五子坡高尔夫俱乐部B球场地",
+        "venueCityName": "张家界市",
+        "venueId": "6869009",
+        "venueName": "张家界市永定区五子坡高尔夫俱乐部B球场地",
+        "venueProvinceName": "湖南省"
+    },
+    "venuecity": "张家界",
+    "venueid": "6869009",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01jwyVu02GdSdZxMhzf_!!2251059038.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "buyButton": {
+        "origin": "-41",
+        "status": "90",
+        "text": "预约抢票",
+        "tip": "提前选票档 抢票更丝滑"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p>演出艺人、开票时间等信息请关注摩登天空官方微信微博</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01PNQrku2GdSdWDPHcs_!!2251059038.jpg\" width=\"2126\" height=\"2833\" damai_width=\"2126\" damai_height=\"2833\"></p></body></html>",
+        "introduceTitle": "演出介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "mediaList": [
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "https://mec-comment.damai.cn/dy/img/20240624/d079938aab9db90b2a6d368278c56982.jpg",
+                "type": "2",
+                "videoUrl": "https://dianying.taobao.com/PlayVodShowH5?videoId=XNjQwMDY3MzcxMg==&timestamp=1719219487264&streamType=hd&sign=998ddd967a29c7453b0e003a03aee9d4"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "https://mec-comment.damai.cn/dy/img/20240624/b6f9ef00d4c4a2f067dcf9d4fbc81235.jpg",
+                "type": "2",
+                "videoUrl": "https://dianying.taobao.com/PlayVodShowH5?videoId=XNjQwNzEzMDU2OA==&timestamp=1719218678538&streamType=hd&sign=bdf319dbc3c5b170ff4f63538d668f4b"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20220613/e34eec5316dee70af1d76c5dec0b9ced.jpg",
+                "title": "2020海南草莓音乐节回归",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/3719315220/p/1/e/6/t/1/363349820549.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "https://mec-comment.damai.cn/dy/img/20240208/cc146e916c30c481570d6912c38b197d.jpg",
+                "type": "2",
+                "videoUrl": "https://dianying.taobao.com/PlayVodShowH5?videoId=XNjM2OTkwMTMwOA==&timestamp=1707379520072&streamType=hd&sign=cab16da0d70bae5b7106e3466684ae64"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20201221/d32f190584271c76f74173bf8c2f22d2.jpg",
+                "title": "九连真人-2020西安草莓音乐节",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/3719315220/p/1/e/6/t/1/291661348416.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20201126/22f1ab11a9eedd9ee26f450f29886d45.jpg",
+                "title": "海南草莓音乐节，新裤子乐队将携手谷歌，音乐与科技结合，呈现高能互动舞台！",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/4294076710/p/1/e/6/t/1/288943890285.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20220811/c8c7e23282b5361f373847ae767bc62d.jpg",
+                "type": "2",
+                "videoUrl": "https://dianying.taobao.com/PlayVodShowH5?videoId=XNTg5Mzc3MTI2NA==&timestamp=1660548136840&streamType=ld&sign=495c7a1182fe157388d53ab048db77bb"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20220705/c01197db40f62c76209b9ebf77bcd8af.jpg",
+                "title": "2022哈尔滨林达欢乐世界城草莓音乐节回顾短片",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/4294076710/p/1/e/6/t/1/367685006552.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20210602/a1db14b754c5b4f11d9ce2cae8c7f4db.jpg",
+                "title": "2021成都草莓回顾短片",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/4294076710/p/1/e/6/t/1/313192011430.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20221121/c59985f0b87869e1c3fb869593ade40f.jpg",
+                "type": "2",
+                "videoUrl": "https://dianying.taobao.com/PlayVodShowH5?videoId=XNTkyMDM3ODEzNg==&timestamp=1669014690428&streamType=hd&sign=bfd7e114ee9aeb2274174aaa98bdc469"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20221121/2d03a7cff553ed7711829a7e87349a86.jpg",
+                "type": "2",
+                "videoUrl": "https://dianying.taobao.com/PlayVodShowH5?videoId=XNTkyMTk4MTcwMA==&timestamp=1669014690465&streamType=hd&sign=6c494fe486380fa44783956f211e82b9"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20211231/6a6473059f0f9f00b6cf33057fe178c2.jpg",
+                "title": "闪星《幻想情人Fantasy Lover》MV",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/4294076710/p/1/e/6/t/1/343151065463.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20211228/e9de3bb61da40956ab28b74f6f23e65d.jpg",
+                "title": "科罗娜·2021福州草莓音乐节回顾",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/4294076710/p/1/e/6/t/1/343285330899.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20210827/986f1dc5964db54a43f504f914cc0e2f.jpg",
+                "title": "雪花·2021贵阳草莓音乐节回归！",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/2207703691106/p/1/e/6/t/1/324024309898.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20211013/a42f91bfe920ed91e8a27b776b6bfb82.jpg",
+                "title": "达达乐队《旋转木马》MV",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/4294076710/p/1/e/6/t/1/330273828862.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20211014/62421cd142f0d33daccec4694eab9798.jpg",
+                "title": "新裤子2021年唯一一场演唱会",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/4294076710/p/1/e/6/t/1/330448388822.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20211018/5c9b250cc40c96126fa92219fe1966db.jpg",
+                "title": "2021山西草莓音乐节回顾短片",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/4294076710/p/1/e/6/t/1/331522841200.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20211022/e184b286e75c868b4f61eb88bfcb2f1d.jpg",
+                "title": "阿肆《不在他方》歌词版MV",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/4294076710/p/1/e/6/t/1/332787198521.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20210607/8aaaadb0fae4ed2c1c5eec462fe571fb.jpg",
+                "title": "【星映话x草莓音乐节】独家专访 | 朱婧汐&Chace ：电子乐和摇滚乐的能量是相似的",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/2207703691106/p/1/e/6/t/1/313507710796.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20210604/9bc312e668459a3f806204327cd52ec9.jpg",
+                "title": "后海大鲨鱼：做忠于自己的音乐什么时候都是对的",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/2207703691106/p/1/e/6/t/1/313087790252.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20210601/4ceca8d39774a19bfacd748420a46cc5.jpg",
+                "title": "【星映话×草莓音乐节】独家专访 | 逃跑计划：悲观才是艺术的源泉",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/2207703691106/p/1/e/6/t/1/312340969796.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20210528/03f6f7d2b7477e256e5019c9f32ea1e2.jpg",
+                "title": "音乐纪录片《纯粹摇滚 vol.3》大叫控乐队：草莓音乐节之旅",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/3719315220/p/1/e/6/t/1/311317488463.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20210525/e6e3284a723307140f6b6a82af3208bc.jpg",
+                "title": "闪星乐队《水滴（80s Remix）》MV",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/4294076710/p/1/e/6/t/1/311266217230.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20210520/30999ea3106ddc2decdfca1cb7292516.jpg",
+                "title": "马赛克乐队 《Love Light 》MV",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/4294076710/p/1/e/6/t/1/310133212581.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20210513/ef876c8671361815b178d66013d339af.jpg",
+                "title": "NO ONE乐队《粉末》MV",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/4294076710/p/1/e/6/t/1/309141036643.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20210507/2ea5f25e6865ad11cc66c2a1bf22f459.jpg",
+                "title": "2021上海草莓音乐节回顾｜封存你我美好的记忆，来年见！",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/4294076710/p/1/e/6/t/1/309023778062.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20210507/2e6512c4e0994fddd24e700b391681d1.jpg",
+                "title": "2021北京草莓视频回顾｜ 尽管你我一路风尘仆仆，但愿初心依旧。",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/4294076710/p/1/e/6/t/1/308699197343.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20210507/892b4cb22e0318df5b9c8a633688b5bb.jpg",
+                "title": "2021南京草莓音乐节回顾｜一天四季，快乐翻倍",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/4294076710/p/1/e/6/t/1/308700289749.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20210208/ad769e10c2356cc52597e044cbfd8aee.jpg",
+                "title": "张雨绮×庞宽 《你还是我最爱的那个男孩》MV",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/4294076710/p/1/e/6/t/1/298186914797.mp4?SBizCode=damai_review"
+            },
+            {
+                "mediaBg": "https://gw.alicdn.com/imgextra/i1/O1CN01SS5mcd1ysQQOIfjNI_!!6000000006634-0-tps-1125-2436.jpg",
+                "picUrl": "http://mec-comment.damai.cn/dy/img/20210505/2ff68eed49b1c19173a23941f1f19c08.jpg",
+                "title": "“赛博歌姬”朱婧汐把实验室搬上舞台，呈现了惊艳的《永无止境的告别》",
+                "type": "2",
+                "videoUrl": "http://cloud.video.taobao.com/play/u/2207703691106/p/1/e/6/t/1/309071755680.mp4?SBizCode=damai_review"
+            }
+        ],
+        "tour": {
+            "encoreRequestTargetUrl": "https://m.damai.cn/shows/dramas.html?ipId=685&cityDialog=1",
+            "projectList": [
+                {
+                    "cityName": "张家界站",
+                    "itemId": "838365994134",
+                    "saleStatus": "预约抢票",
+                    "showTime": "10.19-10.20",
+                    "tourId": "2853"
+                },
+                {
+                    "cityName": "厦门站",
+                    "itemId": "837177599837",
+                    "saleStatus": "预约抢票",
+                    "showTime": "10.19-10.20",
+                    "tourId": "2853"
+                },
+                {
+                    "cityName": "东莞站",
+                    "itemId": "828185383661",
+                    "saleStatus": "热卖中",
+                    "showTime": "10.04-10.05",
+                    "tourId": "2853"
+                }
+            ],
+            "showEncoreRequest": "true"
+        },
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i4/O1CN01iK8hzV29a45VpFn7H_!!6000000008083-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotos/814720/162944003.jpg",
+                "https://img.alicdn.com/imgextra/i2/O1CN01WWdumj1apczmwD0Y8_!!6000000003379-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/2460774/492154874_1714354487481.jpg",
+                "https://img.alicdn.com/imgextra/i3/O1CN01sUUZpm1tgRkwPdMX0_!!6000000005931-0-tps-500-500.jpg"
+            ],
+            "wantNum": "2174",
+            "wantNumStr": "2174",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01R3THyh1QT3Y3gWguc_!!6000000001976-2-tps-1125-702.png",
+        "categoryId": "127420006",
+        "cityName": "张家界市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "ipId": "685",
+        "itemId": "838365994134",
+        "itemName": "【张家界】张家界草莓音乐节",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01jwyVu02GdSdZxMhzf_!!2251059038.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "430800",
+        "performSeatImages": [],
+        "projectId": "222322065",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "3",
+                    "name": "军官证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                },
+                {
+                    "id": "7",
+                    "name": "港澳台居民居住证"
+                },
+                {
+                    "id": "8",
+                    "name": "外国人永久居留身份证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "以现场为准",
+        "showTime": "2024.10.19-10.20",
+        "tcCategoryId": "0301030100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "216610602",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "216566652",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "216641543",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=838365994134",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张、每个账号最多购买6张。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须携带购票时对应证件验证入场。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "儿童一律凭成人票入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：军官证/身份证/港澳居民来往内地通行证/外国人永久居留身份证/港澳台居民居住证/护照/台湾居民来往大陆通行证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约120分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                "tagName": "条件退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过身份证验票入场",
+                "tagDescWithStyle": "通过身份证验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：上海摩登天空文化传播有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：上海摩登天空文化传播有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}

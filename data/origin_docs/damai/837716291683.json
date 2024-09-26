@@ -1,0 +1,836 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：周深",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1087",
+    "cityname": "苏州",
+    "couponTags": "[]",
+    "description": "艺人：周深",
+    "id": "1_1_837716291683",
+    "imgurl": "-212771676",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2024周深9.29Hz巡回演唱会–苏州场",
+    "nameNoHtml": "2024周深9.29Hz巡回演唱会–苏州场",
+    "price": "399.0",
+    "price_str": "399-1699",
+    "pricehigh": "1699.0",
+    "privilegeTags": "[]",
+    "projectid": "837716291683",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.11.09-11.10",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "苏州市体育中心体育场",
+    "venuecity": "苏州",
+    "venueid": "316",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01LUWaR72GdSdVCmtin_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "837716291683",
+                    "itemName": "【苏州】2024周深9.29Hz巡回演唱会–苏州场",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "320500",
+                    "cityName": "苏州市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01LUWaR72GdSdVCmtin_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01LUWaR72GdSdVCmtin_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.11.09-11.10",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京时代立方文化传播有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：北京时代立方文化传播有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1087",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>2014-2024，是爱与被爱的十年。在周深出道十周年之际，歌迷期盼已久的“2024周深9.29Hz巡回演唱会” 正式官宣！<br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01UWSxTK2GdSdV64WdO_!!2251059038.jpg\" width=\"1269\" height=\"1693\" damai_width=\"1269\" damai_height=\"1693\"><br>回顾周深出道后的第一个十年，从初露锋芒走到熠熠生辉，梦想的种子不断被爱意灌溉成长，带着汲取的能量和营养不断前行。以周深生日而定义的“9.29 Hz”是对其十年音乐之旅的回顾和总结，更是他表达自我、与歌迷进行的深度交流，用音乐寻找共同频率的人，携手同行，去往更广袤的远方。<br><br><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01aQBGCE2GdSdNmEDKN_!!2251059038.jpg\" width=\"831\" height=\"1245\" damai_width=\"831\" damai_height=\"1245\"><br><br>9.29Hz属于次声波，原本是人类听不到的声音，此次巡演以“9.29Hz”为主题，既是代表了周深探究自我、回归本心的旅程，也是他以音乐代替语言，寻找共同频率的召唤。将声音转变为音乐，用视觉让音乐变得更加立体。9.29Hz不再只是听不到的声音，而是一场视觉与听觉的极致盛宴，将为观众带来一场难忘的现场体验。<br><br><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01zXC2yf2GdSdWBN1WU_!!2251059038.jpg\" width=\"1269\" height=\"1796\" damai_width=\"1269\" damai_height=\"1796\"><br><br>本轮巡演采用“生命是一棵长满可能的树”的概念，将舞台设计成生命树形状，向外伸展的枝桠变幻缠绕，一方面象征了人与人、人与世界的关联，另一方面也寓意着周深对音乐的热爱点滴凝结，让梦想的种子枝繁叶茂，开出璀璨耀眼的繁花，向上生长为熠熠生辉的未来。<br>为使演出效果达到最大化，从主题到细节，此次巡演力求针对不同歌曲量身定制舞台场景，通过LED屏幕与灯光层次分明的置景运用、特效VCR以及质感有力量的群舞表演，保证了视觉效果的完美呈现。与此同时，还在歌曲的编排上加入了特别的乐器演绎，给观众以更丰满的音乐表达、更丰富的视听享受。<br><br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ZnWYq32GdSdUXtyFG_!!2251059038.jpg\" width=\"1269\" height=\"846\" damai_width=\"1269\" damai_height=\"846\"></p>\n<p><br>在“2024周深9.29Hz巡回演唱会”的舞台上，周深将对其经典歌曲带来重新编曲的精彩演绎，此外还将献上他刚刚发行的第二张个人专辑《反深代词》的歌曲首唱！以反面窥探天地、从自我预见未来，每首歌曲都代表着不同的化身，用歌声以音乐的表达不停寻找自己，带来的创作上的新尝试，也让歌迷见证周深的成长与蜕变。<br><br><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN016hCXwE2GdSdWAFbTk_!!2251059038.jpg\" width=\"1269\" height=\"1690\" damai_width=\"1269\" damai_height=\"1690\"><br><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01C5Ao7T2GdSdVlOBzD_!!2251059038.jpg\" width=\"1269\" height=\"1693\" damai_width=\"1269\" damai_height=\"1693\"></p>\n<p><br>本轮巡演将走遍全国多个城市，周深向大家发出聆听9.29Hz的邀请，在这个明媚热烈的夏日，期待同频的我们相聚在“2024周深9.29Hz巡回演唱会”，和周深一起向光高歌，赴梦而行！<br><br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN013lyAbt2GdSdUSJIAC_!!2251059038.jpg\" width=\"831\" height=\"1036\" damai_width=\"831\" damai_height=\"1036\"><br><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN014y3eSv2GdSdTEnjRj_!!2251059038.png\" width=\"831\" height=\"564\" damai_width=\"831\" damai_height=\"564\"></p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "北京时代立方文化传播有限公司",
+                            "socialCreditCode": "91110105686928136H",
+                            "legalPerson": "于海燕",
+                            "regCapStr": "200万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股的法人独资)",
+                            "entAddress": "北京市朝阳区工人体育场北路8号院2号楼16层02-1903"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张、每个账号最多购买4张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳台居民居住证/台湾居民来往大陆通行证/护照/身份证/港澳居民来往内地通行证/外国人永久居留身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "周深"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "316",
+                    "venueName": "苏州市体育中心体育场",
+                    "venueProvinceName": "江苏省",
+                    "venueCityName": "苏州市",
+                    "lng": 120.577318,
+                    "lat": 31.294412,
+                    "venueAddr": "苏州市姑苏区三香路1131号",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "837716291683",
+                        "cityName": "苏州站",
+                        "showTime": "11.09-11.10",
+                        "tourId": "4673"
+                    },
+                    {
+                        "itemId": "829715306051",
+                        "cityName": "重庆站",
+                        "showTime": "10.06-10.07",
+                        "tourId": "4673"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=837716291683"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D837716291683%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "71964",
+                        "artistName": "周深",
+                        "archives": "周深， 内地男歌手、毕业于乌克兰利沃夫国立音乐学院，美声专业。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1691501417034/1691501417034-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "71964",
+                        "name": "周深",
+                        "desc": "周深， 内地男歌手、毕业于乌克兰利沃夫国立音乐学院，美声专业。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1691501417034/1691501417034-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "87255",
+                    "wantNumStr": "8.7万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过90%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01k0453q1sPfdAAQ7YJ_!!6000000005759-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2243547/448709402_1691845465157.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01WMBkkT1Lnb08vVqc0_!!6000000001344-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1159522/231904488_1681310853417.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01vY86me1ydJ7UVciBd_!!6000000006601-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「开售提醒」</span>购票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "1020851421",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1713577321945/1713577321945-main.jpg",
+                    "note": "周深9.29Hz巡回演唱会",
+                    "categoryName": "其他",
+                    "title": "周深9.29Hz巡回演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊",
+                "inFieldComments": [
+                    {
+                        "id": "18024380",
+                        "comment": "在鸟巢看一场用心满满的优质演唱会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/117ee090b5914b5aa025454bd1a5b136.jpeg",
+                        "nickName": "ZS0929",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/630102/126020460_1718611651258.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17979054",
+                        "comment": "现场真的有只大鱼游来游去",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/99ca1b72c3a34fc5ba87aa673c08614f.jpg",
+                        "nickName": "剧场里的美猪猪",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/35682/7136580_1704400711027.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17654629",
+                        "comment": "第一次看演唱会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/91b118654e734be6b073bf7473b726c6.jpg",
+                        "nickName": "泽晞米米",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/7193/1438750_1722177138982.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17535223",
+                        "comment": "大莲花周深尽情展现，观众反响热烈",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/c2ef524a56664635bcd46f96596d4309.jpg",
+                        "nickName": "麦子7RNgt",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2478125/495625049_1714964969611.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17526319",
+                        "comment": "8.23＆8.24 2024周深9.29Hz十周年巡回演唱会杭州站\n2020-2024 还好我不需要等千年 在喜欢周深的第四年就见到了他 走到了深深的演唱会现场💙\n线下也让我更能立体的感受深深的人格魅力 真诚 谦逊 热情 用心\n第一天如果是初见的兴奋和激动 第二天更多的是感动和不舍 很感谢自己没有错过杭州站的任何一场 每一场都是独一无二的回忆\n第一天的《缝合》首唱 第二天的《空壳》首唱 还是深深作词的 都听到啦 二专的每一首歌都很好听 希望大家都可以去支持下周深的新专辑『反深代词』❗\n第二天的中控设备出现了问题 但大家自发的点亮手电筒 那一点点亮起的光 也是深深一步步被看见的路 虽然小有遗憾 何尝不是一种浪漫呢✨更何况又拿到独一份你送给我们的荧光棒 看到你最后道歉鞠躬都快磕到地上了 真的很心碎这哪里是你的错啊我的深深😭\n深深现场的感染力太绝了 仙乐灌耳毫不夸张 甚至比播放器里的更有韵味 简直是在给耳朵做spa\n太喜欢深深宝贝的talking了 话很密又超级有梗 和幂姐的互动太搞笑了喂~幂姐大屏太美了[哇]还有和雷哥的互怼 看出来深深在演唱会上和好朋友一起真的很开心 我也在下面反复感叹怎么会那么可爱呀🥰\n各种暖心的小细节：每个座位上准备的城市专属伴手礼、几乎每一首歌都会说谢谢大家和90度以上鞠躬、可爱的魔术表演（两天的魔术不一样喔）、许愿环节要求大家许一个只与自己有关的愿望、大合照照顾到四面八方的所有观众、离场之前提醒大家注意安全\n人生不过恍惚三万天 谢谢与歌手周深的相遇 感谢我生活在能够听你唱歌的时代💙\n要继续唱下去 收获更多的爱和拥有更好的舞台\nWala li longla！快乐最伟大！🥳",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/2d6f4d779c8840d1962e901834472b13.jpeg",
+                        "nickName": "始于心动v",
+                        "userPic": "https://perico.damai.cn/userheadphotos/593790/118758120.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17522049",
+                        "comment": "信号可能会被干扰，但是爱和浪漫不会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/0467e5e0e653473d9679a5239860e37e.jpeg",
+                        "nickName": "雪小落",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/537992/107598458_1692764093646.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17510928",
+                        "comment": "奇迹深深解锁新装备！！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/3ae2270cc09c4785bc792e7ff7dec637.jpg",
+                        "nickName": "-缘子不吃萝呗-",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1157156/231431362_1709610847888.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17484139",
+                        "comment": "​他真的是一个非常非常真诚的歌手\n他是我见过最爱鞠躬的歌手\n​他在演唱会上感谢最多的是歌迷\n​他唠叨着让我们不要忘了自己有多重要\n他要求我们许愿只能许关于自己的\n他说其实是歌迷带他去到那么多的地方\n他那么优秀又那么谦卑\n他说他是空壳\n他在歌词里写「只是害怕你弄丢了你自己」\n可是真正的空壳又怎么能唱出如此动听的歌声呢\n\n不亮的​荧光棒让我们和深深收获了特别的一场演出\n​满场手机灯光在零星的蓝色荧光棒点缀下更加浪漫\n因为这个突发的事故 荧光棒成为了可带回的伴手礼\n​\n​看别人的演唱会会让我想要忍不住合唱\n​但是周深的演唱会我只想安安静静聆听\n​不只是听周深的歌声 还有生米们的歌声\n​我很怕我的加入会破坏这样完美的现场\n​又很希望自己也能成为这完美现场中的一份子\n​我当然还是唱了 谁能拒绝周深宝贝的递麦呢（宝你个头\n​\n​听花开忘忧的时候听着唱着就哭了\n​好吧我也成了听歌会听哭的矫情人\n​可是周深的歌声就是那么直击心灵\n他真的用音乐和台下每一位观众说话\n谢谢周深给我带来那么幸福的三小时\n花开忘忧 愿你无忧",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/e3b46d4fdcf844649c3aefa211776f50.jpg",
+                        "nickName": "陶子一定会有猫的",
+                        "userPic": "https://perico.damai.cn/userheadphotos/263418/52683745.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17464586",
+                        "comment": "路人观看周深演唱会有感",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/975989ac457e465fa6aa628840ffd1c7.jpeg",
+                        "nickName": "小凌想抢到票",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1202149/240429883_1722330088200.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17463850",
+                        "comment": "周深值得！满满的真诚+温暖+实力！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/f378a02c209d4f3180abe8ed18df8eca.jpeg",
+                        "nickName": "汉堡拉",
+                        "userPic": "https://perico.damai.cn/userheadphotos/138146/27629332.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17461115",
+                        "comment": "刚说完再也不来大莲花了 啪啪打脸",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/0658fe3e035e4623871d9f98bf105253.jpeg",
+                        "nickName": "yyyyyyyyyyyyzz",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/41514/8302925_1711888283467.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17422766",
+                        "comment": "一次无敌美好的回忆！位置很好！场馆里里外外都是非常用心的装扮！看到嫑嫑好开心！还有未成年人通道，文字还标注的拼音！超级细心的深深啊！\n现场的音效超级好！巨好用！任何拍摄都没有身临现场感受到的震撼！\n第一次距离深深那么近！超级可爱的深深！看到深深在舞台上给我们过生日好开心！而且深深看到我的位置打招呼了！人生高光时刻！真的超级无敌开心！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/af11c0cd785042df95f7c02638d1e9cc.jpg",
+                        "nickName": "惹蓝色的云",
+                        "userPic": "https://perico.damai.cn/userheadphotos/738388/147677666.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17392736",
+                        "comment": "纯路人（原）的意犹未尽回味无穷流连忘返",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/97ea988974db4db3acf814561c42c0b5.jpeg",
+                        "nickName": "歪下巴阿蕉",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1101222/220244493_1715269725378.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17301860",
+                        "comment": "Walali longla！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/4e2b887439624bd5a032ac534f1900af.jpg",
+                        "nickName": "茉莉奶绿脆啵啵",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/947810/189562101_1683794912461.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17273312",
+                        "comment": "真诚又有实力的歌手，值得被看见",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/402f1d4c52f340f5890aad1cc6795708.jpg",
+                        "nickName": "九月未央",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/193623/38724672_1715610543098.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17252618",
+                        "comment": "第一次连听同个歌手两场演唱会，这种感觉真是爽爆啦！\n虽然南京这两天真得很热很热，从进场到离场没有一秒不是大汗淋漓😂但是伴手礼里有清凉贴，每个区域入口都有工作人员在发冰袋。周深真的想得很周到！\n这两场坐在不同区域不同视角，也是有了不一样的体验。\n正对舞台的看台，能看清完整舞美的三分之二。在延伸台侧边的内场更能看清周深。\n8月10日恰逢七夕佳节，致敬环节增加了一首《甜蜜蜜》还有新专里的《Wala li longla》😉\n8月11日致敬环节增加了一首《月亮代表我的心》（周深唱这歌的时候我哭得稀里哗啦🥹）还有新专里的《记忆商店》（周深说二选一哪首呼声大唱哪首，我真是拼了老命喊记忆商店😂）\n真是美好的回忆啊！现在想起来还是很梦幻。尤其是周深红着眼眶抬头看漫天飞舞的彩带时，我才发现，原来这些都不是梦，而是在这一秒，在前一秒，在下一秒真实发生着。\n最后要感谢周深，连续两天三个小时的高质量演唱，对每个舞台的认真付出，谢谢周深！谢谢你！🥰",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/9acba13b323a4da3aa992b9b890ec870.jpg",
+                        "nickName": "十一月风雨大作",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/273774/54754962_1722655551449.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17201431",
+                        "comment": "九图完全无法展现出演唱会的美妙！\nA3区的位置视角比预想中要好，舞台能看得很全面，深深站在延伸台的时候手机就能拍得非常清晰。\n8月10日是个特别的日子，但天气太热，深深准备的钻戒糖已经化成了一滩...\n天气很热，但是场内派发了冰块，还是很棒。内场音响效果太好，振得心脏有点刺激。\n还是很感谢在这特别的一天能有如此特别体验，希望我们都能变成更好的自己。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/6054bf901e1841bfbe7f3cd28df36d91.jpeg",
+                        "nickName": "时音tokki",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/613635/122727194_1717264419549.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17198948",
+                        "comment": "周深就是最牛的啊啊啊",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/9a64da330d88491890c210b1138fa3d6.jpeg",
+                        "nickName": "Yao_Zs",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/535813/107162762_1683805019467.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17106162",
+                        "comment": "特别幸福的一场演唱会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/a7410e6190dd4cfaa429e3d4526c3a78.jpeg",
+                        "nickName": "麦子533Ww",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1232472/246494536_1689132311095.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17035823",
+                        "comment": "深深10周年生日快乐！！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/3908949ba6e043e484a9e7fcc85793d6.jpg",
+                        "nickName": "黄景瑜滴小迷妹",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/795936/159187387_1714985579109.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    }
+                ]
+            },
+            "item": {
+                "buyBtnStatus": "90",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "13",
+                "sellStartTime": "1727323206000",
+                "sellStartTimeStr": "09月26日 12:00",
+                "priceRange": "¥399-¥1699",
+                "performBases": [
+                    {
+                        "name": "11.09 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1731081600000",
+                        "performs": [
+                            {
+                                "performId": "216564504",
+                                "performName": "2024-11-09 周六 19:00",
+                                "itemId": "837716291683",
+                                "projectId": "222260071",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1731150000000",
+                                "performTime": "2024.11.09 19:00",
+                                "performStartDate": "2024-11-09",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "4",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "11.10 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1731168000000",
+                        "performs": [
+                            {
+                                "performId": "216564505",
+                                "performName": "2024-11-10 周日 19:00",
+                                "itemId": "837716291683",
+                                "projectId": "222260071",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1731236400000",
+                                "performTime": "2024.11.10 19:00",
+                                "performStartDate": "2024-11-10",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "4",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "2",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售，正式开票后将第一时间配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33803",
+                    "1481986",
+                    "2976258",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23115",
+                    "23883",
+                    "1611",
+                    "4939",
+                    "14155",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "12171",
+                    "8843",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "14731",
+                    "695425",
+                    "716673",
+                    "9355",
+                    "9867",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "4",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8377162916/2/837716291683.jpg"
+            }
+        }
+    }
+}
