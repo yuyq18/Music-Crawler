@@ -1,0 +1,374 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：TY.",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1580",
+    "cityname": "杭州",
+    "couponTags": "[]",
+    "description": "艺人：TY.",
+    "id": "1_1_839063056504",
+    "imgurl": "-199304027",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "11月02日 杭州 TY. x KKECHO联合巡演（这个歌手不太冷）",
+    "nameNoHtml": "11月02日 杭州 TY. x KKECHO联合巡演（这个歌手不太冷）",
+    "price": {
+        "range": "248-388"
+    },
+    "price_str": "248-388",
+    "pricehigh": "388.0",
+    "privilegeTags": "[]",
+    "projectid": "839063056504",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.11.02 周六 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": {
+        "lat": 30.325061,
+        "lng": 120.180515,
+        "region": "1",
+        "showCountText": "13个演出",
+        "venueAddr": "浙江省杭州市下城区新北街85号三层G2-302",
+        "venueCityName": "杭州市",
+        "venueId": "2511006",
+        "venueName": "大麦66LiveHouse杭州",
+        "venueProvinceName": "浙江省"
+    },
+    "venuecity": "杭州",
+    "venueid": "2511006",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN011J3DHO2GdSdYIYbu8_!!2251059038.png",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "buyButton": {
+        "origin": "1",
+        "status": "204",
+        "text": "立即购买"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><strong>VIP票权益：</strong><br><br><strong>1、提前入场+演出门票1张</strong><br><strong>2、演出结束后VIP每人与两位艺人共同合影</strong><br><strong>3、赠送签名海报+限定巡演纪念品（毛巾）</strong></p>\n<p>Ty.&nbsp;&amp;&nbsp;KKECHO「2024 JOINT TOUR」2024联合巡演</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN017qoAeE2GdSdWLqYaL_!!2251059038.png\" alt=\"\" width=\"640\" height=\"1138\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>时间/城市/场地/详情如下：<br><br>10月12日 成都 正火艺术中心1号馆<br>10月26日 北京 本土王牌LIVE<br>11月01日 上海 蜚声Phase Livehouse（上海站开票时间待定）<br>11月02日 杭州 大麦·66Livehouse<br>11月09日 广州 MAOLivehosue（太古仓店）<br>11月23日 青岛 Downtown_Live</p>\n<p>他们将会带着全新的作品开启本次的联合巡演——成都、北京、上海、杭州、广州、青岛。<br>就让我们在音乐现场感受一下「歪式OG说唱」与这位来势汹汹的新生代实力rapper碰撞的花火，现场不见不散！</p></body></html>",
+        "introduceTitle": "活动介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "中国嘻哈歌手",
+                "fansCount": "71384",
+                "fansCountDesc": "粉丝",
+                "fansCountStr": "7.1万",
+                "id": "72677",
+                "name": "TY.",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1578293765087/1578293765087-main.jpg",
+                "sellCount": "6场",
+                "sellCountDesc": "在售演出",
+                "tag": "歌手"
+            }
+        ],
+        "tour": {
+            "projectList": [
+                {
+                    "cityName": "成都站",
+                    "itemId": "837544639649",
+                    "saleStatus": "热卖中",
+                    "showTime": "10.12",
+                    "tourId": "4801"
+                },
+                {
+                    "cityName": "北京站",
+                    "itemId": "838214665831",
+                    "saleStatus": "热卖中",
+                    "showTime": "10.26",
+                    "tourId": "4801"
+                },
+                {
+                    "cityName": "杭州站",
+                    "itemId": "839063056504",
+                    "saleStatus": "热卖中",
+                    "showTime": "11.02",
+                    "tourId": "4801"
+                },
+                {
+                    "cityName": "广州站",
+                    "itemId": "837950146038",
+                    "saleStatus": "热卖中",
+                    "showTime": "11.09",
+                    "tourId": "4801"
+                },
+                {
+                    "cityName": "青岛站",
+                    "itemId": "838026325617",
+                    "saleStatus": "热卖中",
+                    "showTime": "11.23",
+                    "tourId": "4801"
+                }
+            ],
+            "showEncoreRequest": "false"
+        },
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i2/O1CN018aua481exC051EFzr_!!6000000003937-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/2613878/522775659_1726720004228.jpg",
+                "https://img.alicdn.com/imgextra/i4/O1CN01Ws9UMq2266sGyyZBX_!!6000000007070-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotos/747608/149521610.jpg",
+                "https://img.alicdn.com/imgextra/i3/O1CN010Y49WU1vtqZhHVKPn_!!6000000006231-0-tps-500-500.jpg"
+            ],
+            "wantNum": "249",
+            "wantNumStr": "249",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wPOZN01jRf2eaC3Jz_!!6000000004545-2-tps-1125-702.png",
+        "categoryId": "123606001",
+        "cityName": "杭州市",
+        "generalAgent": {
+            "generalAgent": "false",
+            "generalType": "1"
+        },
+        "itemId": "839063056504",
+        "itemName": "【杭州】11月02日 杭州 TY. x KKECHO联合巡演（这个歌手不太冷）",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN011J3DHO2GdSdYIYbu8_!!2251059038.png"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "330100",
+        "performSeatImages": [],
+        "projectId": "222322044",
+        "projectStatus": "1",
+        "purchaseLimitation": "4",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "4",
+                "5",
+                "6"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "以现场为准",
+        "showTag": [],
+        "showTime": "2024.11.02 周六 20:00",
+        "tcCategoryId": "0301020100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "216609491",
+            "singleLimitation": "4"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=839063056504",
+        "showFlag": "false"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买4张、每个账号最多购买4张。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须打开【票夹】扫码入场，截图无效。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：身份证/台湾居民来往大陆通行证/港澳居民来往内地通行证/护照",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约30分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "90分钟",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "最低演出时长"
+            },
+            {
+                "content": "TY.",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01N7Icez1vcu9JtnH1e_!!6000000006194-2-tps-144-144.png",
+                "title": "主要演员"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            },
+            {
+                "content": "200",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01g1Fs6025i4mGCqzxa_!!6000000007559-2-tps-144-144.png",
+                "title": "大麦网初始开售时全场可售门票总张数"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过票夹中的二维码验票入场",
+                "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：成都太合乐动科技有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：成都太合乐动科技有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}
