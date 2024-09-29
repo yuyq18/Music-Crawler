@@ -1,0 +1,590 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "2148",
+    "cityname": "郑州",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_839692796851",
+    "imgurl": "-193006624",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "1988韩剧主题曲演唱会",
+    "nameNoHtml": "1988韩剧主题曲演唱会",
+    "price": "58.0",
+    "price_str": "58-600",
+    "pricehigh": "600.0",
+    "privilegeTags": "[]",
+    "projectid": "839692796851",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.13 周五 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "郑州大剧院 歌舞剧场",
+    "venuecity": "郑州",
+    "venueid": "1479035",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01wsmNrD2GdSdY1zvHG_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "839692796851",
+                    "itemName": "【郑州】1988韩剧主题曲演唱会",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "410100",
+                    "cityName": "郑州市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01wsmNrD2GdSdY1zvHG_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01wsmNrD2GdSdY1zvHG_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.12.13 周五 19:30",
+                    "showDuration": "约100分钟，仅供参考，最终以现场实际时长为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：无锡阿买嘎文化科技有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：无锡阿买嘎文化科技有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "2148",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN019eqqbP2GdSdcakD5R_!!2251059038.jpg\" width=\"800\" height=\"2150\" damai_width=\"800\" damai_height=\"2150\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01BPUA192GdSdb7xRpv_!!2251059038.jpg\" width=\"800\" height=\"1899\" damai_width=\"800\" damai_height=\"1899\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01FCEHhC2GdSdb6rIke_!!2251059038.jpg\" width=\"800\" height=\"1859\" damai_width=\"800\" damai_height=\"1859\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01YYUjIj2GdSdb7vluX_!!2251059038.jpg\" width=\"800\" height=\"2772\" damai_width=\"800\" damai_height=\"2772\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01whO9582GdSdZQBo8W_!!2251059038.jpg\" width=\"800\" height=\"2104\" damai_width=\"800\" damai_height=\"2104\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN010g6LHg2GdSdYD5Dwl_!!2251059038.jpg\" width=\"800\" height=\"2275\" damai_width=\"800\" damai_height=\"2275\"></p></body></html>",
+                    "highLightsVO": {
+                        "title": "演出亮点",
+                        "content": [
+                            "120分钟精彩演唱，20多首热门韩剧主题曲，超人气乐队歌手倾情演绎，零差评演唱会！"
+                        ]
+                    },
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "无锡阿买嘎文化科技有限公司",
+                            "socialCreditCode": "91320213MA27R4G82E",
+                            "legalPerson": "霍明锴",
+                            "regCapStr": "333.4万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司",
+                            "entAddress": "无锡市梁溪区新天地休闲广场-1104-2"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    },
+                    {
+                        "title": "转送说明",
+                        "content": "本项目支持电子票转送，转送功能将在演出前24小时关闭。（注：当前仅支持大麦下单用户，暂不支持淘宝／天猫，支付宝本地生活下单用户发起转送，仅支持大麦APP发起和接收转送票品）"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约100分钟，仅供参考，最终以现场实际时长为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "18首"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "尹东星 等"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "100分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "1500"
+                                },
+                                {
+                                    "title": "转送说明",
+                                    "content": "本项目支持电子票转送，转送功能将在演出前24小时关闭。（注：当前仅支持大麦下单用户，暂不支持淘宝／天猫，支付宝本地生活下单用户发起转送，仅支持大麦APP发起和接收转送票品）"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "1479035",
+                    "venueName": "郑州大剧院 歌舞剧场",
+                    "venueProvinceName": "河南省",
+                    "venueCityName": "郑州市",
+                    "lng": 113.55105,
+                    "lat": 34.743718,
+                    "venueAddr": "中原路富民路南侧",
+                    "showCountText": "共有14个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "rating": {
+                    "name": "大麦评分",
+                    "desc": "大麦购票用户",
+                    "rating": "9.2",
+                    "ratting": "9.2",
+                    "star": "9",
+                    "starDesc": "极好",
+                    "contentTags": [
+                        "视听效果精彩绝伦"
+                    ],
+                    "userId": "511772596",
+                    "userImg": "https://perico.damai.cn/userheadphotosnew/2558862/511772596_1722312987462.jpg",
+                    "content": "东星唱的真的很棒！现场气氛很活跃 ，是个很真诚可爱的人，每首歌都能身临其境，时间有点紧，一首接一首唱，还有串烧真的很考虑到我们了。\n这么好听为什么还有空位置呢！！！应该座无虚席的，这是第一次看东星演出，下次十二月再见！也期待明年的kpop舞台，心满意足😌勇敢的我先享受合影，我是今天第一个合影的！！！哈哈哈哈",
+                    "commentUrl": "https://t.damai.cn/yep/page/m/ipscore",
+                    "commentTitle": "评分说明",
+                    "ratingNumDesc": "143条",
+                    "ratingSource": "评分来自历史演出综合评分",
+                    "userRatingVOS": [
+                        {
+                            "contentId": "100009187227",
+                            "content": "东星唱的真的很棒！现场气氛很活跃 ，是个很真诚可爱的人，每首歌都能身临其境，时间有点紧，一首接一首唱，还有串烧真的很考虑到我们了。\n这么好听为什么还有空位置呢！！！应该座无虚席的，这是第一次看东星演出，下次十二月再见！也期待明年的kpop舞台，心满意足😌勇敢的我先享受合影，我是今天第一个合影的！！！哈哈哈哈",
+                            "userId": "511772596",
+                            "userImg": "https://perico.damai.cn/userheadphotosnew/2558862/511772596_1722312987462.jpg",
+                            "userNick": "麦子9tVX0",
+                            "userStar": "10.0"
+                        },
+                        {
+                            "contentId": "100009273957",
+                            "content": "在璀璨的灯光与震撼的音效中，这场演唱会无疑为观众带来了一场难忘的视听盛宴。从舞台设计到歌手的表现，每一个细节都彰显了主办方的用心与歌手的专业素养。首先，灯光随着音乐的节奏变幻，营造出一种梦幻而神秘的氛围。其次，歌手的表演更是整场演唱会的高光时刻。无论是高亢激昂的舞曲，还是温柔缱绻的抒情，歌手都以其独特的嗓音和精湛的演唱技巧，将每一首歌曲的情感表达得淋漓尽致。歌手与观众的互动不仅拉近了彼此的距离，更让观众感受到了歌手的真诚与亲和力。这种温馨的氛围使得整场演唱会不仅仅是一场音乐的盛宴，更是一场心灵的交流。大屏幕上面也有双语的歌词，很方便理解歌曲的意思，有的歌曲还配有韩剧里的画面，一下子就把回忆拉回了剧里，很不错！\n",
+                            "userId": "108872104",
+                            "userImg": "https://perico.damai.cn/userheadphotos/544360/108872104.jpg",
+                            "userNick": "氮气和氧气",
+                            "userStar": "10.0"
+                        },
+                        {
+                            "contentId": "100009186932",
+                            "content": "不错不错，听完又想把韩剧再追一遍，这场音乐会成功地带领观众重温了那些令人难忘的经典韩剧，通过演奏《请回答1988》等韩剧的原声音乐，让观众再次感受到追剧时的感动与美好。音乐会的曲目单包括了《惠化洞》、《少女》、《能给你的只有爱》、《青春》、《你不要担心》等《请回答1988》的原声音乐，以及《黄真伊》、《灰姑娘与四骑士》、《拥抱太阳的月亮》等韩剧的主题曲。这些经典的音乐不仅唤起了观众的回忆，也让人们再次体验到了那些剧集所带来的情感冲击和美好时光。",
+                            "userId": "453220147",
+                            "userImg": "https://perico.damai.cn/userheadphotosnew/2266100/453220147_1694001071241.jpg",
+                            "userNick": "麦子5zoB3",
+                            "userStar": "10.0"
+                        },
+                        {
+                            "contentId": "100008711703",
+                            "content": "现场很好，歌曲都比较经典",
+                            "userId": "56421042",
+                            "userImg": "https://perico.damai.cn/userheadphotos/282105/56421042.jpg",
+                            "userNick": "lin欢",
+                            "userStar": "9.0"
+                        },
+                        {
+                            "contentId": "100009336427",
+                            "content": "我知道东星没事的时候喜欢看大麦上大家对他的评价。我也喜欢看，从第一次知道他要来到抖音关注，到现场见面。都是刚刚好的如约而至。\n唱功不错👍\n现场控制不错👏\n节奏不错✌\n快乐度不错🤞\n真的不错🌹\n你要下次来，我还来❤💖\n可以来听听看，推荐大家。\n",
+                            "userId": "108181264",
+                            "userImg": "https://perico.damai.cn/userheadphotos/540906/108181264.jpg",
+                            "userNick": "stone4q",
+                            "userStar": "9.0"
+                        }
+                    ],
+                    "contentLabelDOS": [
+                        {
+                            "labelId": "1044456182340074043-11",
+                            "labelName": "唱得太好了",
+                            "labelType": "99"
+                        }
+                    ]
+                },
+                "ratingComment": {
+                    "title": "评分说明",
+                    "commentDetails": [
+                        {
+                            "title": "• 如何得出该演出评分",
+                            "desc": "基于大麦真实用户观演后评价计算而得"
+                        },
+                        {
+                            "title": "• 为什么演出没开演就有评分",
+                            "desc": "通过该剧在其他城市站的评价计算而得，如该演出开演后，会结合该演出的最新评价计算得分"
+                        },
+                        {
+                            "title": "• 为什么有的演出没有评分",
+                            "desc": "目前评分仅在话剧音乐剧类展示，每个演出评分需要有足够的有效评价量计算得出"
+                        }
+                    ]
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D839692796851%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "33272176820",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1720526737284/1720526737284-main.jpg",
+                    "note": "韩剧主题曲演唱会",
+                    "categoryName": "演唱会",
+                    "title": "《请回答1988》韩剧主题曲演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1727579500000",
+                "sellStartTimeStr": "09月29日 11:11",
+                "priceRange": "¥58-¥600",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "2人套票可省176元"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "2人套票",
+                        "content": "双人套【200元】（原价118*2），可省36元\n双人套【300元】（原价168*2），可省36元\n双人套【400元】（原价288*2），可省176元\n双人套【600元】（原价368*2），可省136元"
+                    }
+                ],
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33803",
+                    "2976258",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "23115",
+                    "1611",
+                    "4939",
+                    "14155",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "12171",
+                    "8843",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "14731",
+                    "695425",
+                    "716673",
+                    "9355",
+                    "9867",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "promotionList": [
+                    {
+                        "type": "COMBINE",
+                        "tag": "套票",
+                        "isTagList": "false",
+                        "desc": "2人套票6.9折，到手¥400(票档¥288x2)"
+                    }
+                ],
+                "promotionDetail": {
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "1",
+                            "promotionGroupTypeDesc": "票档优惠",
+                            "promotionList": [
+                                {
+                                    "promotionType": "3",
+                                    "promotionTag": "套票",
+                                    "promotionContentList": [
+                                        "2人套票8.4折，到手¥200(票档¥118x2)",
+                                        "2人套票8.9折，到手¥300(票档¥168x2)",
+                                        "2人套票8.1折，到手¥600(票档¥368x2)",
+                                        "2人套票6.9折，到手¥400(票档¥288x2)"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "6.9折，到手400（票档¥288x2）"
+                                        },
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "8.9折，到手300（票档¥168x2）"
+                                        },
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "8.4折，到手200（票档¥118x2）"
+                                        },
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "8.1折，到手600（票档¥368x2）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8396927968/2/839692796851.jpg"
+            }
+        }
+    }
+}

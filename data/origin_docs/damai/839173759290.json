@@ -1,0 +1,531 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "852",
+    "cityname": "北京",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_839173759290",
+    "imgurl": "-198197000",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "离别开出花~南方凯原创音乐·粉丝歌友会",
+    "nameNoHtml": "离别开出花~南方凯原创音乐·粉丝歌友会",
+    "price": "179.0",
+    "price_str": "179-679",
+    "pricehigh": "679.0",
+    "privilegeTags": "[]",
+    "projectid": "839173759290",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.01 周日 19:30",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "北京喜剧院",
+    "venuecity": "北京",
+    "venueid": "54024",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01aGQWwX2GdSdaiLi8b_!!0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "839173759290",
+                    "itemName": "【北京】离别开出花~南方凯原创音乐·粉丝歌友会",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "110100",
+                    "cityName": "北京市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01aGQWwX2GdSdaiLi8b_!!0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i2/2251059038/O1CN01aGQWwX2GdSdaiLi8b_!!0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01MEr0Bl2GdSdXzBLeY_!!2251059038.png",
+                    "seatImages": [
+                        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01MEr0Bl2GdSdXzBLeY_!!2251059038.png"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "2024.12.01 周日 19:30",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "快递票",
+                            "tagDesc": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。发货前支持修改一次收货地址。\r\n注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagDescWithStyle": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。<b>发货前支持修改一次收货地址。</b><br/>注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京佳艺汇鑫国际文化发展有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：北京佳艺汇鑫国际文化发展有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "852",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><strong>离别开出花~南方凯原创音乐·粉丝歌友会</strong></p>\n<p>内容介绍：<br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01pmR6c72GdSdcaRCud_!!2251059038.jpg\" width=\"392\" height=\"554\" damai_width=\"392\" damai_height=\"554\"><br>2024一首《离别开出花》火遍大江南北，抖音播放量更是达到68亿次，更是得到众多小朋友传唱喜欢，及学校的毕业典礼等场景，传唱度达到现象级别歌曲……<br>原唱“南方凯”更是独特的嗓音韵律完美十足的诠释了这首歌曲，每当歌曲响起，坐上那朵离家的云霞，飘去无人知晓的天涯，背着妈妈说的那句话，孩子人生其实不复杂，喔～眼泪轻轻地擦，别管那多嘴乌鸦，咽下那些风沙，你才能慢慢长大，要错过几个她用你最好的年华，这是青春的代价，当离别开出花，伸出新长的枝桠，像冬去春又来，等待心雪融化，你每次离开家，带着远方的牵挂，那城市的繁华，盖住了月牙，当离别开出花，它生长在悬崖，在最高的山顶，才听得见回答，没什么好害怕，孩子放心去飞吧，在你的身后，有个等你的家……不同年龄听到这首歌都会有不同的感受，但唯一不变的是等你的家。<br>本场粉丝歌友会及演唱、互动、合影、南方凯成长经历、海报签名等环节，让粉丝更加深层次感受体验南方凯及他的音乐作品，欢快、放松的共同美好时刻。<br>歌曲《巡光》获得官方认可，改编同名歌曲《巡光》并发布110警察节官方MV，同步首发央视新闻客，户端，新华社客户端，公安部，最高法，中国移民局及各级地方门户平台，共计200余机构媒体同步发行。<br>主唱 南方凯<br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01kKq7fo2GdSda2UPcC_!!2251059038.jpg\" width=\"233\" height=\"350\" damai_width=\"233\" damai_height=\"350\"><br>中国内地男歌手，音乐人，创作者，代表作：《离别开出花》、《巡光》和《万拒》等作品闻名。其风格积极向上，独具一格的音色，不禁让人热血沸腾其中《巡光》作为110警察节主题曲，由央视新闻首发，新华社客户端，公安部，最高法，中国移民局及各级地方门户平台，共计200余机构媒体同步发行。被誉为“上交国家的歌曲”。<br><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01x0U9KN2GdSdYCmDxQ_!!2251059038.jpg\" width=\"400\" height=\"601\" damai_width=\"400\" damai_height=\"601\"><br>乐队简介：</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01kEfPVv2GdSdSlIuYv_!!2251059038.jpg\" width=\"308\" height=\"384\" damai_width=\"308\" damai_height=\"384\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01aRHcu12GdSdZPpiyv_!!2251059038.jpg\" width=\"362\" height=\"241\" damai_width=\"362\" damai_height=\"241\"><br>这支乐队由才华横溢的年轻音乐人组成，包括主唱南方凯，鼓手高德鑫、键盘手刘佩齐、贝斯手李浩、吉他手赵刘平。 <br>南方凯以其深情的嗓音和感人至深的演绎，赢得了广泛的认可。他的代表作《离别开出花》、《巡光》和《万拒》等歌曲，深受乐迷喜爱。特别是《离别开出花》，这首歌曲不仅广为传唱，还荣获了“第5届腾讯音乐娱乐盛典年度十大热歌”和“QQ音乐巅峰盛典年度巅峰正能量歌曲”等多个奖项，展现了南方凯音乐作品的深度与广度。<br>时间是打磨一切实力的根本，在一次次与时间的较量当中，不断的生长出新的枝桠，人生最重要的不是结果，而是我们在这个过程中的收获，从《巡光》的顽强不屈的精神到《会给我回答》插上翅膀腾空翱翔，再到《离别开出花》的坚韧不拔，都代表了我们的人生态度。<br>乐队成员介绍：<br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01pFk2dH2GdSdbs0H4h_!!2251059038.jpg\" width=\"421\" height=\"237\" damai_width=\"421\" damai_height=\"237\"><br>•鼓手 高德鑫：北京现代音乐学院爵士鼓专业出身，对节奏和速度的精准把控，优秀的创作能力，为乐队的稳定演出保驾护航。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01mvHQ3Q2GdSdd9Sfsn_!!2251059038.jpg\" width=\"415\" height=\"272\" damai_width=\"415\" damai_height=\"272\"></p>\n<p>•键盘手 刘佩齐：同为北京现代音乐学院爵士钢琴专业毕业生，拥有丰富的现场演出经验，擅长即兴伴奏，是乐队的灵魂人物。<br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Rrpg622GdSda0jCNU_!!2251059038.jpg\" width=\"417\" height=\"278\" damai_width=\"417\" damai_height=\"278\"><br>•贝斯手 李浩：哈尔滨音乐学院毕业，风格多变，演奏细腻，与乐队成员间的默契配合，为音乐增添了无限可能。<br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01HlZfNN2GdSdcaWeAT_!!2251059038.jpg\" width=\"422\" height=\"296\" damai_width=\"422\" damai_height=\"296\"><br>•吉他手 赵刘平：北京现代音乐学院爵士吉他和音乐制作编曲专业毕业生，发行个人专辑《Absurd》，曾荣获CMA全国乐队大赛原创组季军，是乐队的创新源泉。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN019xRD0r2GdSdaiErm3_!!2251059038.jpg\" width=\"691\" height=\"388\" damai_width=\"691\" damai_height=\"388\"></p>\n<p>演唱曲目---<br>《灯塔》<br>我安静的屹立在狂风之中，一座灯塔，一盏守夜的灯!<br>《会给我回答》<br>内心滚烫，奔赴一下个方向!这世界人群熙攘！<br>《离别思故乡》<br>这些年的车票一张张，却从未有停留的地方！<br>《你就是远方》<br>一滴水融入汪洋，放眼人海茫茫，每个人都想直面风浪！<br>《万拒》<br>你在怀疑，你在叹息，却把原因藏在眼里当做秘密！<br>《巡光》<br>试过坦坦荡荡，用一身伤，练一枚勋章！<br>《列车开往春天》<br>《离别开出花》<br>要错过几个她，用你最好的年华这是青春的代价吗?<br>演出顺序现场为准----</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "",
+                            "socialCreditCode": "",
+                            "legalPerson": "",
+                            "regCapStr": "",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "",
+                            "entAddress": ""
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "快递费",
+                        "content": "1.同城10.0元，发货后1-3天到达；省内12.0元，发货后1-3天到达；其他地区18.0元，发货后1-3天到达；澳门、香港、台湾40.0元，发货后1-5天到达。\r\n2.演出前4天不支持快递。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带纸质门票验票入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "5"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "项学凯等"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "100"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "54024",
+                    "venueName": "北京喜剧院",
+                    "venueProvinceName": "北京",
+                    "venueCityName": "北京市",
+                    "lng": 116.432936,
+                    "lat": 39.930269,
+                    "venueAddr": "朝阳门北大街11号",
+                    "showCountText": "共有17个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=839173759290"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D839173759290%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "49",
+                    "wantNumStr": "49",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN01q2JN4O1fyr3OT2Q3J_!!6000000004076-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2201950/440390198_1690093036078.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01ZtJoYQ1p4CDLYGtuD_!!6000000005306-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/861492/172298559.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01so1NLY1lEx3KreQfP_!!6000000004788-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1728443880000",
+                "sellStartTimeStr": "10月09日 11:18",
+                "countDown": "810235",
+                "rcdt": "810234509",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥179-¥679",
+                "performBases": [
+                    {
+                        "name": "12.01 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1732982400000",
+                        "performs": [
+                            {
+                                "performId": "216565781",
+                                "performName": "2024-12-01  周日 19:30",
+                                "itemId": "839173759290",
+                                "projectId": "222244077",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1733052600000",
+                                "performTime": "2024.12.01 19:30",
+                                "performStartDate": "2024-12-01",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "立即购买",
+                "buyBtnStatusAfterCountDown": "204",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33803",
+                    "1481986",
+                    "2976258",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23883",
+                    "26699",
+                    "23115",
+                    "1611",
+                    "4939",
+                    "14155",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "12171",
+                    "8843",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "14731",
+                    "695425",
+                    "716673",
+                    "9355",
+                    "9867",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8391737592/2/839173759290.jpg"
+            }
+        }
+    }
+}
