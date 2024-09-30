@@ -1,0 +1,217 @@
+{
+    "searchType": "SHOW",
+    "showId": "66fab0223025cd0001a519e0",
+    "stdShowId": "66fab0223025cd0001a519de",
+    "showName": "【郑州】刘炫廷＆Doggie「新航线」专辑联合演唱会郑州站",
+    "showDate": "2024.10.25 19:30",
+    "cityName": "郑州",
+    "cityId": "4101",
+    "showStatus": "PENDING",
+    "minOriginalPrice": "199.0",
+    "posterUrl": "https://cdn.ticketmars.com/image/prod/20240921_74/17269025536033140.jpg",
+    "venueId": "60e81d0d83a7d7073ee0986a",
+    "venueName": "7LIVEHOUSE+",
+    "backendCategory": "{'code': 19, 'displayName': 'Livehouse', 'name': 'Livehouse'}",
+    "isFree": "False",
+    "firstShowTime": "1729855800000",
+    "lastShowTime": "1729864800000",
+    "minOriginalPriceInfo": "{'yuanNum': '199', 'centNum': '', 'suffix': '起', 'prefix': '￥'}",
+    "latestShowTime": "1729855800000",
+    "showSessionDates": "['20241025']",
+    "soldOut": "False",
+    "sessionNum": "1",
+    "seatPlanNum": "2",
+    "rsCode": 200,
+    "basicInfo": {
+        "hotMode": true,
+        "stdShowId": "66fab0223025cd0001a519de",
+        "bizShowId": "66fab0223025cd0001a519e0",
+        "showName": "【郑州】刘炫廷＆Doggie「新航线」专辑联合演唱会郑州站",
+        "sourceType": "SELF_BUILT_SELF_PRODUCE",
+        "originalSeatPickType": "SUPPORT_NONE",
+        "contentUrl": "https://cdn.ticketmars.com/prod/showContent/66fab0223025cd0001a519e0/content_66fab0f63025cd0001a52678.content",
+        "posterUrl": "https://cdn.ticketmars.com/image/prod/20240921_74/17269025536033140.jpg",
+        "venueId": "60e81d0d83a7d7073ee0986a",
+        "venueName": "7LIVEHOUSE+",
+        "venueAddress": "河南省郑州市东风南路与康宁街交叉口海汇港2号楼5层",
+        "venueLat": 34.752498,
+        "venueLng": 113.769436,
+        "cityId": "4101",
+        "cityName": "郑州市",
+        "onSaleShowCount": 6,
+        "showTags": [],
+        "authorizationUrl": "",
+        "minOriginalPriceInfo": {
+            "yuanNum": "199",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "maxOriginalPriceInfo": {
+            "yuanNum": "299",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "showDate": "2024年10月25日 19:30",
+        "showDuration": "以现场为准",
+        "displayAdvance": false,
+        "venueDisplayAdvance": false,
+        "sessionDisplayAdvance": false,
+        "seatPlanDisplayAdvance": false,
+        "showType": {
+            "name": "Livehouse"
+        },
+        "showDetailStatus": "PENDING",
+        "existsPrivilegePurchase": false,
+        "displayCountdownTime": true,
+        "captchaTypes": []
+    },
+    "additionalInfo": {
+        "hasCoupon": true,
+        "hasPromo": false,
+        "hasAddPurchase": false,
+        "hasUserPromo": false,
+        "hasPCard": false,
+        "hasPriority": false,
+        "hasChannelDiscount": false,
+        "checkChannelFreeCombo": false,
+        "channelPickSeatProject": false,
+        "hasTyingSale": false,
+        "hasJumpGuid": false
+    },
+    "descInfo": {
+        "observationInstructions": [
+            {
+                "key": "TICKETS_AND_ADMISSION",
+                "name": "票品及入场",
+                "value": "电子直刷：须打开【票舱】扫码入场，截图无效",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "SHOW_DURATION",
+                "name": "演出时长",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "MAIN_ACTOR",
+                "name": "主要演员(团体)",
+                "value": "Doggie、刘炫廷",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "ENTRY_TIME",
+                "name": "入场时间",
+                "value": "请于开始前约30分钟入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "RESTRICTED_ITEM",
+                "name": "禁止携带物品",
+                "value": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "LUGGAGE_DEPOSIT",
+                "name": "物品寄存",
+                "value": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            }
+        ],
+        "ticketInstructions": [
+            {
+                "key": "CHILDREN_INTRODUCTION",
+                "name": "儿童购票",
+                "value": "\n儿童一律凭票入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "REAL_NAME_PURCHASE_TICKET_INTRODUCTION",
+                "name": "实名购票规则",
+                "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证",
+                "isMarked": false,
+                "tagContent": "门票对应唯一证件(身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证)",
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "EXCEPTION_ORDER_INTRODUCTION",
+                "name": "异常排单说明",
+                "value": "对于异常订购行为，商家有权在订单成立或者生效之后取消相应订单。 异常订购行为包括但不限于以下情形： （1）通过同一ID订购超出限购张数的订单。 （2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "LIMITATION",
+                "name": "限购规则",
+                "value": "每个场次限购6张/套，项目限购20张/套",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "EXCHANGE_POLICY",
+                "name": "退换政策",
+                "value": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "INVOICE_INTRODUCTION",
+                "name": "发票说明",
+                "value": "电子发票\n发票开具方：主办方\n该项目可申请开具电子发票。该发票由第三方主办提供。订单交易完成后6日将关闭申请。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            }
+        ],
+        "markedTextList": []
+    },
+    "noteInfos": [
+        {
+            "name": "不支持七天无理由退换",
+            "value": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+            "type": false,
+            "code": "NO_SUPPORT_REFUND"
+        },
+        {
+            "name": "实名观演",
+            "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证",
+            "type": true,
+            "code": "REAL_NAME_TICKET"
+        },
+        {
+            "name": "电子票",
+            "value": "通过票舱中的二维码，可以直接验票入场（具体以下单后票舱信息为准）",
+            "type": true,
+            "code": "E_TICKET"
+        },
+        {
+            "name": "发票说明",
+            "value": "电子发票\n发票开具方：主办方\n该项目可申请开具电子发票。该发票由第三方主办提供。订单交易完成后6日将关闭申请。",
+            "type": false,
+            "code": "BILL_APPLY",
+            "desc": "发票"
+        }
+    ],
+    "announcement": [],
+    "whiteTags": [],
+    "watcherReplacer": "观演"
+}
