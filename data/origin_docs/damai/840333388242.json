@@ -1,0 +1,492 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1580",
+    "cityname": "杭州",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_840333388242",
+    "imgurl": "-186600710",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "预售|伦敦西区音乐剧明星演唱会--杭州站",
+    "nameNoHtml": "预售|伦敦西区音乐剧明星演唱会--杭州站",
+    "price": "180.0",
+    "price_str": "180-680",
+    "pricehigh": "680.0",
+    "privilegeTags": "[]",
+    "projectid": "840333388242",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.11.03 周日 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "杭州大剧院(歌剧院)",
+    "venuecity": "杭州",
+    "venueid": "364",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01n2VxFI2GdSdcB2nXJ_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "840333388242",
+                    "itemName": "【杭州】预售|伦敦西区音乐剧明星演唱会--杭州站",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "330100",
+                    "cityName": "杭州市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01n2VxFI2GdSdcB2nXJ_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i2/2251059038/O1CN01n2VxFI2GdSdcB2nXJ_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.11.03 周日 19:30",
+                    "showDuration": "以现场为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：杭州大剧院有限公司(杭州大剧院)\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：杭州大剧院有限公司(杭州大剧院)</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1580",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><strong>伦敦西区gala演唱会——杭州站</strong></p>\n<p><span style=\"color: #800000;\"><strong>说明 | Notice：</strong></span></p>\n<p>1.由于演出门票的特殊性；一经出售，概不退换；</p>\n<p>2.本场小程序支持在线选座；</p>\n<p>3.一人一票，儿童全票，怀抱婴儿谢绝入内；</p>\n<p>4.凭电子票动态二维码或纸质票进场；</p>\n<p>5.周一至周日工作时间9:00--17:00。</p>\n<p>6.不提供免费停车；</p>\n<p><span style=\"color: #800000;\"><strong>时间 | Time：</strong></span></p>\n<p>2024年11月3日 周日 19:30</p>\n<p>（全程时长约120分钟，含中场休息15分钟）</p>\n<p><span style=\"color: #800000;\"><strong>地点 | Location： </strong></span></p>\n<p>杭州大剧院·歌剧院</p>\n<p><span style=\"color: #800000;\"><strong>票价 | Price： </strong></span></p>\n<p>180/280/380/480/680元</p>\n<p>早鸟折扣：9折 &nbsp;380元及以上参加 持续两周</p>\n<p><span style=\"color: #800000;\"><strong>概况 | Profiles:</strong></span></p>\n<p>&nbsp; &nbsp; &nbsp; 此次音乐剧明星演唱会是以《歌剧魅影》、《悲惨世界》为核心的“经典音乐会”，邀请了六位来自伦敦西区的知名音乐剧明星，来到国内为大家带来几十首耳熟能详的音乐剧名曲。</p>\n<p>&nbsp;</p>\n<p>此次6位知名音乐剧明星分别是：</p>\n<p>肖娜·林赛</p>\n<p>Shona Lindsay</p>\n<p>——（韦伯指定《歌剧魅影》女主角克里斯汀娜史上最年轻扮演者）</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01vcvgHo2GdSdYaUjl7_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp; &nbsp; &nbsp; 12岁时以安妮的角色首次亮相，并扮演了许多儿童角色，包括《少年阿莫的秘密日记》中的芭芭拉·博耶和泰晤士电视台的《少年阿莫的成长烦恼》。随后，加入英国中央电视台制作的剧目《十字路口》，扮演了两年的萨拉·布里格斯。1990年，安德鲁·劳埃德·韦伯让她在伦敦女王陛下剧院的《歌剧魅影》中饰演克里斯汀，她成为有史以来扮演这一角色的最年轻的女演员。</p>\n<p>&nbsp;</p>\n<p>迈克·斯特林</p>\n<p>Mike Sterling</p>\n<p>——（《歌剧魅影》男主魅影和《悲惨世界》男主冉·阿让最佳诠释者之一）</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01M2FMgJ2GdSdaQ7omy_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp; &nbsp; &nbsp; 曾在各种电视节目和英国巡演中与许多巨星合作。如雪莉·巴斯女爵士、巴瑞·曼尼洛、迈克尔·波尔和恩格尔伯特·汉伯丁克。在伦敦西区剧院的作品包括《歌剧魅影》中的魅影（他在伦敦女王陛下剧院演出了1000多场）和《悲惨世界》中的冉·阿让。他对这两个角色的演绎为他赢得了国际赞誉。.</p>\n<p>&nbsp;</p>\n<p>露西·奥伯恩</p>\n<p>Lucy O'Byrne</p>\n<p>——（第四届英国好声音亚军获得者）</p>\n<p style=\"text-align: left;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01CC2HIh2GdSdcyRqcf_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp; &nbsp; &nbsp; 出生并成长于爱尔兰都柏林。2015年，她加入了威廉战队，成为英国好声音第一个进入决赛的古典歌手，并获得亚军。露西在多部经典大IP音乐剧中饰演女主角。其中，戏剧作品包括《猫》中的格里萨贝拉、《艾薇塔》中的伊娃·贝隆、《悲惨世界》中的芳汀、《音乐之声》中的玛丽亚、《阳光小美女》中的谢丽尔·胡佛以及《红杏出墙》中的主角。</p>\n<p>&nbsp;</p>\n<p>乔艾琳·莫西斯</p>\n<p>Joelle Moses</p>\n<p>——（伦敦西区杰出音乐剧演员）</p>\n<p style=\"text-align: left;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Y2ZEDk2GdSdcRC50y_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp; &nbsp; &nbsp; 毕业于欧洲最好的现代音乐学院——当代音乐表演学院。在她十几岁的时候开始为凯莉·米洛、利昂娜·刘易斯和托尼·布拉克斯顿等超级明星唱伴唱、配乐和小样。随后，她通过直播节目、YouTube和电视为数百万人表演，并在2014年在瑞典维多利亚王储公主的全国电视生日庆典上为瑞典王室成员表演。在黑眼豆豆的Will.i.am的指导下，她曾在2008年的《X音素》和2012年的《英国之声》等热门电视选秀节目中作为现场节目的决赛选手出现。</p>\n<p>&nbsp;</p>\n<p>斯蒂芬·约翰·戴维斯</p>\n<p>Stephen John Davis</p>\n<p>——（伦敦西区杰出音乐剧演员）</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01OnlR9T2GdSdZnqpUP_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp; &nbsp; &nbsp; 他在伦敦西区出演过多部经典作品。如《歌剧魅影》中的魅影，《堂吉诃德》中的安塞尔莫和塞万提斯/堂吉诃德，《悲惨世界》中的冉阿让、沙威和米里埃主教，韦伯处女作《约瑟的神奇彩衣》中的鲁本，《妈妈咪呀!》中的山姆和比尔，《彭赞斯海盗》中的塞缪尔和斯坦利少将，以及奥利维尔奖提名的《皮纳福号军舰》中的比尔·鲍斯泰尔。</p>\n<p>&nbsp;</p>\n<p>蒂姆·奥克斯布罗</p>\n<p>Tim Oxbrow</p>\n<p>——（伦敦西区杰出音乐剧演员）</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN012NxrmA2GdSdbVFNO8_!!2251059038.png\" damai_width=\"null\" damai_height=\"null\">&nbsp; &nbsp; &nbsp; 蒂姆·奥克斯布罗是一位来自伦敦的演员兼歌手，曾在世界各地的舞台和银幕上演出。他是热门音乐剧《地狱蝙蝠》的原始演员之一，创造了马科维奇的角色，并饰演了法尔科的角色。他还在《神话》的原版中创造了宙斯的角色。同时在《十二男高音》、《美国旅店》中担任主唱。</p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "需兑换成纸质票验票入场，须打开【票夹】的二维码前往取票点换取，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "5"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "60分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "364",
+                    "venueName": "杭州大剧院(歌剧院)",
+                    "venueProvinceName": "浙江省",
+                    "venueCityName": "杭州市",
+                    "lng": 120.215438,
+                    "lat": 30.244474,
+                    "venueAddr": "杭州市江干区钱江新城新业路39号",
+                    "showCountText": "共有22个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D840333388242%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "特惠选座",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1727750371000",
+                "sellStartTimeStr": "10月01日 10:39",
+                "priceRange": "¥180-¥612",
+                "performBases": [
+                    {
+                        "name": "11.03 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1730563200000",
+                        "performs": [
+                            {
+                                "performId": "216625272",
+                                "performName": "2024-11-03 星期日 19:30",
+                                "itemId": "840333388242",
+                                "projectId": "222261040",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1730633400000",
+                                "performTime": "2024.11.03 19:30",
+                                "performStartDate": "2024-11-03",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "伦敦早鸟9折"
+                ],
+                "hasItemPromotionTag": "true",
+                "dashPrice": "¥180-¥680",
+                "promotions": [
+                    {
+                        "tag": "伦敦早鸟9折",
+                        "type": "1",
+                        "content": "380元、480元、680元票价打9.0折",
+                        "performanceIds": [
+                            "216625272"
+                        ]
+                    }
+                ],
+                "promotionRemark": "您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。",
+                "itemPromotionIds": "92598039881",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33803",
+                    "1481986",
+                    "2976258",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23883",
+                    "26699",
+                    "23115",
+                    "1611",
+                    "4939",
+                    "14155",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "12171",
+                    "8843",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "14731",
+                    "695425",
+                    "716673",
+                    "9355",
+                    "9867",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "1630146",
+                    "2939586"
+                ],
+                "promotionList": [
+                    {
+                        "type": "ITEM_DISCOUNT",
+                        "tag": "折扣",
+                        "isTagList": "false",
+                        "desc": "¥680票档，9折，到手¥612"
+                    }
+                ],
+                "promotionDetail": {
+                    "skuPromotionRelations": "840333388242&216625272&5774038439976_92598039881@5774038439977_92598039881@5774038439978_92598039881",
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "1",
+                            "promotionGroupTypeDesc": "票档优惠",
+                            "promotionList": [
+                                {
+                                    "promotionType": "2",
+                                    "promotionTag": "折扣",
+                                    "promotionContentList": [
+                                        "¥380票档，9折，到手¥342",
+                                        "¥480票档，9折，到手¥432",
+                                        "¥680票档，9折，到手¥612"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "¥480",
+                                            "displayContent": "9折，到手¥432"
+                                        },
+                                        {
+                                            "skuName": "¥380",
+                                            "displayContent": "9折，到手¥342"
+                                        },
+                                        {
+                                            "skuName": "¥680",
+                                            "displayContent": "9折，到手¥612"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8403333882/2/840333388242.jpg"
+            }
+        }
+    }
+}

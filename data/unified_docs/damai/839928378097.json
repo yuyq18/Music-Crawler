@@ -1,0 +1,65 @@
+{
+    "platform": "大麦",
+    "project_id": "839928378097",
+    "project_name": "「上尉诗人」James Blunt “Who we used to be“《曾经的我们》世界巡回演唱会-香港站",
+    "category_name": "演唱会",
+    "artists": [
+        "JAMES BLUNT"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.12 周四 20:00",
+    "session_time": [
+        "12.12 周四"
+    ],
+    "price": "980-1380",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "中国香港",
+    "venue_name": "亚洲国际博览馆HALL 10",
+    "venue_info": {
+        "venue_address": "大屿山香港国际机场",
+        "lng": 113.947958,
+        "lat": 22.318096
+    },
+    "project_info": "票价说明： \n港币/澳门币票面价（HKD/MOP）：1380/1180/980\n大麦人民币售价(CNY)：1380/1180/980，门票已含中国港澳台服务费。\n \n配送说明： \n本项目不支持退换，购票成功的客户，请您提前规划好行程以及办理好港澳通行证-中国香港签注。门票将于演出前一周左右寄出。当天如出现遗失或忘带门票情况不予处理，感谢您的支持与理解。\n\n \n演出介绍：\nJames Blunt 2005年憑一曲《You’re Beautiful》於全球爆紅，先後登上英國、美國等18個國家的流行榜，更勇奪美國Billboard TOP100的冠軍，成為繼Elton John後首位登上該榜榜首的英國歌手。亦有不少人在婚禮上也喜歡選播《You’re Beautiful》，認為歌曲內容夠浪漫。\n他因在部隊服役的經歷，被稱為上尉詩人，名曲更包括 Heart To Heart 、 I’ll take everything 、Wisemen…等\n上次來港已是幾年前了., James Blunt 鐵定2024年12月12日再次來港演出..\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01mOW6uc2GdSddO252C_!!0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN013IVhMx2GdSde8xYnG_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN018eNlU62GdSdfQxST8_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "80",
+        "wantNumStr": "80",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "839928378097",
+            "cityName": "中国香港站",
+            "showTime": "12.12"
+        },
+        {
+            "itemId": "832152965864",
+            "cityName": "厦门站",
+            "showTime": "12.14"
+        },
+        {
+            "itemId": "835883349307",
+            "cityName": "南京站",
+            "showTime": "12.15"
+        },
+        {
+            "itemId": "827435092099",
+            "cityName": "广州站",
+            "showTime": "12.07"
+        },
+        {
+            "itemId": "222252072",
+            "cityName": "上海站",
+            "showTime": "12.05"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=839928378097"
+}
