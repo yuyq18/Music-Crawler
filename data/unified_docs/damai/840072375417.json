@@ -1,0 +1,40 @@
+{
+    "platform": "大麦",
+    "project_id": "840072375417",
+    "project_name": "张泽个人音乐会破格5.0",
+    "category_name": "演唱会",
+    "artists": [
+        "张泽"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.10.25-10.27",
+    "session_time": [
+        "10.25 周五",
+        "10.26 周六",
+        "10.27 周日"
+    ],
+    "price": "380-580",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "上海",
+    "venue_name": "上剧场",
+    "venue_info": {
+        "venue_address": "上海市徐汇区肇嘉浜路1111号美罗城5楼",
+        "lng": 121.439242,
+        "lat": 31.192639
+    },
+    "project_info": "          ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01evTKox2GdSdbB8zbE_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01BecWFQ2GdSdeU81gh_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "659",
+        "wantNumStr": "659",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [],
+    "project_link": "https://detail.damai.cn/item.htm?id=840072375417"
+}
