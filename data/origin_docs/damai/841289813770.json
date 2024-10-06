@@ -1,0 +1,495 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：黄品源",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "850",
+    "cityname": "中国澳门",
+    "couponTags": "[]",
+    "description": "艺人：黄品源",
+    "id": "1_1_841289813770",
+    "imgurl": "-177036455",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2024黄品源“品味”巡回音乐会-澳门站",
+    "nameNoHtml": "2024黄品源“品味”巡回音乐会-澳门站",
+    "price": "380.0",
+    "price_str": "380-1380",
+    "pricehigh": "1380.0",
+    "privilegeTags": "[]",
+    "projectid": "841289813770",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.10.19 周六 20:00",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "[ 澳门百老汇 ] - 百老汇舞台",
+    "venuecity": "中国澳门",
+    "venueid": "59766",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01TrnpGW2GdSdetCpHl_!!0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "841289813770",
+                    "itemName": "2024黄品源“品味”巡回音乐会-澳门站",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "820100",
+                    "cityName": "中国澳门",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01TrnpGW2GdSdetCpHl_!!0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i4/2251059038/O1CN01TrnpGW2GdSdetCpHl_!!0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01K9bhpg2GdSdgMb7LY_!!2251059038.jpg",
+                    "seatImages": [
+                        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01K9bhpg2GdSdgMb7LY_!!2251059038.jpg"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "2024.10.19 周六 20:00",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "门票即发票",
+                            "tagDesc": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagDescWithStyle": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "893",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>票价说明：</strong></p>\n<p>澳门币/港币售价：MOP/HKD 1380/880/580/380<br>人民币售价：CNY 1380/880/580/380，门票已包含（中国港澳台）服务费</p>\n<p>&nbsp;</p>\n<p><strong>配送说明：</strong></p>\n<p>本项目不支持退换，购票成功的客户，请您提前规划好行程以及办理好港澳通行证-中国澳门签注，到澳门百老汇舞台 百老汇1F售票处附近Star Lounge 扫码验证换取实体门票（订单或订单截图无效），请您耐心等待，现场当天如忘记带票及对票情况不予处理，感谢您的支持与理解。</p>\n<p>&nbsp;</p>\n<p><strong>演出介绍</strong></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\"><strong>2024黄品源“品味”巡回音乐会暖心袭来</strong></p>\n<p style=\"text-align: left;\"><strong>用音乐为你打开“时光留声机”</strong></p>\n<p>&nbsp;</p>\n<p><strong>每个人的心中都有一首黄品源</strong></p>\n<p>从情窦初开的“小薇”</p>\n<p>到情深似水的“海浪”</p>\n<p>从“那么爱你为什么”新颖的对唱rap</p>\n<p>到“你怎么舍得我难过”的伤心落寞</p>\n<p>无数人的青春岁月都在黄品源的音乐中缓缓流淌。我们借着他的词来表达那些无法言说的情感，也在他的歌中看到了不同阶段的自己，从青涩到成熟，过尽千帆，每个人都有自己心中的那一首“黄品源”。2024年黄品源与你一起重温岁月经典，在首首金曲中追忆似水流年。</p>\n<p>&nbsp;</p>\n<p><strong>【演出详情】</strong></p>\n<p>&nbsp;</p>\n<p><strong>演出日期</strong></p>\n<p>2024.10.19&nbsp;周六 20:00</p>\n<p>&nbsp;</p>\n<p><strong>演出地点</strong></p>\n<p>澳门百老汇-百老汇舞台</p>\n<p>&nbsp;</p>\n<p><strong>保持音乐创作的纯粹</strong></p>\n<p>这纷繁的世界变化万千，抛去华丽的词藻，黄品源总能用最直白的方式击中你的内心，唱出你最真实的感受。在如今音乐如此多样化的时代，黄品源这种对音乐高质量的追求与坚持以真心去打动听众的态度更加的弥足珍贵。他的灵感来源于生活，每一首词的背后都是一段刻骨铭心的故事，而每一首曲都像是他心灵的抒发，这也是为什么黄品源的歌总能给人带来共鸣感。黄品源始终保持着一如既往的创作热情，近年发行的《我在北京过了冬》、《我温暖可爱的家》、《伤停时间》…都是来自于黄品源的亲身经历与所想所见，不论是对爱情的感悟、对亲人的思念、亦或是饱含疗愈力量的心灵充电...他把生活里的点滴都化作音符，用音乐记录下了一圈圈时间的年轮，而我们也在这歌声里一步步的前进，进化成更好的自己。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01uHZmmO2GdSdgqCqc1_!!2251059038.png\" width=\"639\" height=\"426\" damai_width=\"678\" damai_height=\"452\"></p>\n<p><strong>心与心的交流</strong></p>\n<p>黄品源曾说过“虽然同一首歌我可能唱过几千遍，但每一次台下的观众是不同的，要对每一次演唱，每一位来听歌的人认真负责，而当面对全新的面孔也能碰撞出新的火花，每一次的演唱都是一场心与心的交流。秉持着对舞台的敬畏之心，黄品源对此次巡回音乐会也做好了充足的准备，不仅有前奏一响就能引起全场大合唱的经典金曲，更是重新编曲让耳熟能详的歌曲更加新颖的呈现，还有更多新歌首唱，诚意满满 让大家一次过足瘾。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01UBJOMF2GdSdhvip9v_!!2251059038.png\" width=\"645\" height=\"430\" damai_width=\"645\" damai_height=\"430\"></p>\n<p><strong>用音乐为你打开“时光留声机”</strong></p>\n<p>时光在变，世界在变，我们在变，但无论何时当听到那些熟悉的旋律响起，闭上双眼，音乐都能让时间倒转回最初的模样。2024年黄品源用音乐为你打开“时光留声机”，来听 来唱 来现场“品味”这最真挚的黄品源。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01na32i62GdSdelOS6c_!!2251059038.png\" width=\"653\" height=\"435\" damai_width=\"703\" damai_height=\"469\"></p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "本项目门票即是发票。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "需兑换成纸质票验票入场，须打开【票夹】的二维码前往取票点换取，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "本项目门票即是发票。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约90分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "黄品源"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "59766",
+                    "venueName": "[ 澳门百老汇 ] - 百老汇舞台",
+                    "venueProvinceName": "中国澳门",
+                    "venueCityName": "中国澳门",
+                    "lng": 113.556898,
+                    "lat": 22.142474,
+                    "venueAddr": "澳门路氹金光大道",
+                    "showCountText": "共有8个演出",
+                    "region": "2"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "841289813770",
+                        "cityName": "中国澳门站",
+                        "showTime": "10.19",
+                        "tourId": "4252"
+                    },
+                    {
+                        "itemId": "830094832540",
+                        "cityName": "肇庆站",
+                        "showTime": "10.26",
+                        "tourId": "4252"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址",
+                                    "海外邮箱"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=841289813770"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D841289813770%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "1739",
+                        "artistName": "黄品源",
+                        "archives": "中国台湾流行乐男歌手、演员、主持人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1548144753620/1548144753620-main.jpg",
+                        "tag": "歌手,演员",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "1739",
+                        "name": "黄品源",
+                        "desc": "中国台湾流行乐男歌手、演员、主持人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1548144753620/1548144753620-main.jpg",
+                        "tag": "歌手,演员",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购买",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1728360000000",
+                "sellStartTimeStr": "10月08日 12:00",
+                "priceRange": "¥380-¥1380",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "388353",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "26699",
+                    "23883",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "28491",
+                    "23115",
+                    "1611",
+                    "4939",
+                    "14155",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "12171",
+                    "8843",
+                    "2443",
+                    "395",
+                    "1163",
+                    "16267",
+                    "14731",
+                    "695425",
+                    "716673",
+                    "9355",
+                    "9867",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8412898137/2/841289813770.jpg"
+            }
+        }
+    }
+}
