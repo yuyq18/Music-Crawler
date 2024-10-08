@@ -1,0 +1,37 @@
+{
+    "platform": "大麦",
+    "project_id": "841602595891",
+    "project_name": "20240910 杭体培训",
+    "category_name": "演唱会",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2024.10.09-10.13",
+    "session_time": [
+        "10.13 周日",
+        "10.09 周三",
+        "10.11 周五"
+    ],
+    "price": "100-990",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "麦座测试大剧院",
+    "venue_info": {
+        "venue_address": "北京朝阳区望京大厦",
+        "lng": 121.468292,
+        "lat": 31.20633
+    },
+    "project_info": "20240910 杭体培训",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01Loq6902GdSdluLUkD_!!2-item_pic.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [],
+    "project_link": "https://detail.damai.cn/item.htm?id=841602595891"
+}

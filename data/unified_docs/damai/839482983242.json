@@ -1,0 +1,98 @@
+{
+    "platform": "大麦",
+    "project_id": "839482983242",
+    "project_name": "星尘共轨火星电台2024巡演杭州站",
+    "category_name": "演唱会",
+    "artists": [
+        "火星电台"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.16 周六 20:00",
+    "session_time": [],
+    "price": "99-199",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "杭州",
+    "venue_name": "大麦66LiveHouse杭州",
+    "venue_info": {
+        "venue_address": "浙江省杭州市下城区新北街85号三层G2-302",
+        "lng": 120.180515,
+        "lat": 30.325061
+    },
+    "project_info": "火星电台巡演启航：用音乐连接你我的奇妙之旅\n时隔一年，火星电台带着对音乐的热爱与探索，正式宣布巡演“星尘共轨火星电台2024巡演”即将开启。新专辑也会在巡演期间和大家见面。\n\n新专辑名为《平行世界的往事「上」》，由乐队五位成员亲自操刀，从专辑的策划，到歌曲的创作，都是亲力亲为。这张专辑是火星电台对音乐深度与广度的又一次勇敢探索，它融合了多种音乐元素，创造出一种既熟悉又新颖的声音。专辑中包含了9首歌曲，这9首歌就像九张宇宙星系的星图快照，每一首都蕴含着深刻的故事和情感，共同组成一部神秘的宇宙史诗。对于新专辑的内容，只能透露这么多了。专辑中的歌曲会在巡演前全部上线，大家记得去听。\n\n火星电台，这个名字对于众多音乐爱好者来说，代表着创新、品质与感动。这支充满创造力与激情的乐队，一直以来都以其独特的音乐风格和深刻的情感表达，征服着无数乐迷的心。他们的音乐如同宇宙中的星尘，散发着神秘而迷人的光芒，引领着我们在浩瀚的音乐宇宙中遨游。他们的音乐，既有摇滚的激情，又有民谣的温暖，还有电子音乐的时尚感。他们的歌词深刻而富有诗意，旋律动人而充满力量。在他们的音乐中，我们可以找到自己的故事，感受到生活的美好与无奈。\n\n不管台前还是幕后，火星电台都在创造着精彩。从各大音乐节的震撼登场，到专场演出的激情四溢，他们用音乐诉说着故事，传递着情感。每一次演出，都是一场心灵的碰撞，一次音乐的盛宴。他们曾在无数个舞台上，用激情四溢的表演点燃了观众的热情，让人们沉浸在音乐的海洋中。\n\n这轮巡演，希望每一位热爱音乐的旅人，共同踏上这场梦幻般的音乐旅程，进行一次跨越时空的音乐对话。现场会有许多互动环节，乐队会带来新专辑中的全部歌曲。火星电台希望有机会邀请平行空间另一端的朋友们也听听这些声音，一起探讨一下《平行世界的往事「下」》写些什么故事。他们期待着与乐迷们共同创造更多的音乐回忆。\n巡演将于11月1日在广州启程，从南到北，11个城市。10月9日13:00，售票即将开售，期待你们的到来！",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01C6KoYl2GdSdgJ0D8e_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01l5nbBM2GdSddVkMoi_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01iUHRBo2GdSdYZUu4S_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01h231Lg2GdSdYZYvmN_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01fNfYdS2GdSdXVkpcn_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01PYbLyV2GdSdb51AW1_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01i8d7AG2GdSdcxCF0V_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01TzmZ9N2GdSdbUEKxZ_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "927",
+        "wantNumStr": "927",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "839476783485",
+            "cityName": "广州站",
+            "showTime": "11.01"
+        },
+        {
+            "itemId": "839820600189",
+            "cityName": "深圳站",
+            "showTime": "11.02"
+        },
+        {
+            "itemId": "839295267391",
+            "cityName": "武汉站",
+            "showTime": "11.08"
+        },
+        {
+            "itemId": "839576659408",
+            "cityName": "西安站",
+            "showTime": "11.10"
+        },
+        {
+            "itemId": "839563398017",
+            "cityName": "上海站",
+            "showTime": "11.15"
+        },
+        {
+            "itemId": "839482983242",
+            "cityName": "杭州站",
+            "showTime": "11.16"
+        },
+        {
+            "itemId": "839637921552",
+            "cityName": "重庆站",
+            "showTime": "11.22"
+        },
+        {
+            "itemId": "839561826110",
+            "cityName": "成都站",
+            "showTime": "11.23"
+        },
+        {
+            "itemId": "839371070188",
+            "cityName": "青岛站",
+            "showTime": "11.29"
+        },
+        {
+            "itemId": "840106464782",
+            "cityName": "济南站",
+            "showTime": "11.30"
+        },
+        {
+            "itemId": "839640813613",
+            "cityName": "北京站",
+            "showTime": "12.06"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=839482983242"
+}
