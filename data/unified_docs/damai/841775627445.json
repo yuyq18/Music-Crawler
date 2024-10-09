@@ -1,0 +1,47 @@
+{
+    "platform": "大麦",
+    "project_id": "841775627445",
+    "project_name": "霜冻前夜乐队20周年「星海彼岸」系列专场 武汉站",
+    "category_name": "演唱会",
+    "artists": [
+        "霜冻前夜"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.30 周六 20:00",
+    "session_time": [],
+    "price": "140",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "武汉",
+    "venue_name": "ThreeLive",
+    "venue_info": {
+        "venue_address": "武汉市洪山区乐都汇时尚购物广场5号门旁上三楼",
+        "lng": 114.335949,
+        "lat": 30.516872
+    },
+    "project_info": "\n如果说0-20是一个人从出生到青壮年的重要时期，那么对我们来说，现在这个青壮年终于看到了世界的样子，建立了自己的世界观，完善了表达欲，并更加清楚自己要向世界传达什么。\n作为中国最早的一批金属乐队之一，自成立至今的二十年里，霜冻前夜一直保持着独特的创作模式，几位“老伙计”的默契合作，成为我们作品输出的源泉。即使中间有过短暂的“告别”，那种老朋友间的默契依然没有间断。\n从2004至2024，当少年迈过而立之岁，二十载风华再启航🛫🛫🛫 希望你可以和我们一起重温那些年的热血与梦想，现场见👊",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01bAFt7y2GdSdm5kod8_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01PcxOjs2GdSdk6HWdj_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "841801075187",
+            "cityName": "合肥站",
+            "showTime": "11.29"
+        },
+        {
+            "itemId": "841775627445",
+            "cityName": "武汉站",
+            "showTime": "11.30"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=841775627445"
+}

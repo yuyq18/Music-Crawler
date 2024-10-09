@@ -1,0 +1,586 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：张信哲",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "739",
+    "cityname": "衡阳",
+    "couponTags": "[]",
+    "description": "艺人：张信哲",
+    "id": "1_1_841915861752",
+    "imgurl": "-170775975",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2024张信哲「未来式终极版」巡回演唱会衡阳站（现场取票）",
+    "nameNoHtml": "2024张信哲「未来式终极版」巡回演唱会衡阳站（现场取票）",
+    "price": "288.0",
+    "price_str": "288-2000",
+    "pricehigh": "2000.0",
+    "privilegeTags": "[]",
+    "projectid": "841915861752",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.10.13 周日 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "衡阳市体育中心体育场",
+    "venuecity": "衡阳",
+    "venueid": "59010",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01pvL8tQ2GdSdj7UXJR_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "841915861752",
+                    "itemName": "【衡阳】2024张信哲「未来式终极版」巡回演唱会衡阳站（现场取票）",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "430400",
+                    "cityName": "衡阳市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01pvL8tQ2GdSdj7UXJR_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01pvL8tQ2GdSdj7UXJR_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.10.13 周日 19:30",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：上海巡途文化传媒有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：上海巡途文化传媒有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "702",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>2024张信哲「未来式终极版」世界巡回演唱会</p>\n<p>未来，一直在路上！<br>充满着未知与可能，有着始料未及的发生；也会有突如其来的惊喜，其中的拉扯，高低起伏，或许是让我们更成熟的记号，变得更好的过程！<br>时光流转，歌声依旧清晰如初！<br>在这个充满变幻的时代，总有一些声音能够穿越时空，触动我们内心深处的情感。张信哲，就是那个用歌声诠释时光、唤醒我们回忆的歌手。<br>2024张信哲「未来式终极版」世界巡回演唱会，未来是⋯心之所向，行之所往，是我们可以一起创造的故事，是累积着与你共乐的每一个当下。<br><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01lyFrf52GdScNEqpxn_!!2251059038.png\" width=\"865\" height=\"487\"><br>未来式历经‘未来式1.0’、‘未来式2.0’，由体育馆一路唱到体育场。如今再升级，将以新版“宠粉级”歌单、全新舞美设计、全新服装造型设计，蜕变为张信哲「未来式终极版」世界巡回演唱会，让哲迷身临其境感受「未来式终极版」的音乐世界。力求为全球粉丝带来永生难忘的沉浸式视听盛宴。<br><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN012LrxH62GdScNEu3ZP_!!2251059038.png\" width=\"865\" height=\"1227\"><br>张信哲用歌声为人们源源不断地注入爱与能量。他的音乐，深情而细腻，那些陪伴我们走过风风雨雨的歌曲，让我们在歌声中找回那份最初的感动。带我们回到那个青涩的年代。让我们和张信哲一起以爱为契，共赴未来！我们将在人生长河中并肩走过这一段旅程，音乐、情感、回忆将未来式填满。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01OOSrQL2GdScKOsCBH_!!2251059038.png\" width=\"865\" height=\"598\"><br>回首从1.0的“体育馆”级跨越到2.0的“体育场”级，张信哲的「未来式」巡演已经迈向第六年，走过了三十多个城市。求新求变的张信哲，在「未来式」的巡演中，他精益求精、尽善尽美，稳如泰山的现场演唱、对歌曲精准的情感注入以及充满艺术气质的舞美设计，让每一场演出都达到了爆满且完全零负评的完美答卷。也展现了张信哲作为“歌坛模范生”的持续创作力和影响力。此次终极版巡回演唱会将成为「未来式」IP三部曲的最终之作，标志着其音乐宇宙的完全形成。<br><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01LWUhFK2GdScMR2iMb_!!2251059038.png\" width=\"865\" height=\"577\"><br>2023，他写下了「未来式，未来见！」一向信守诺言的他，2024再度开启「未来式终极版」世界巡回演唱会，不忘约定，以梦前行！实力派歌手+舞美+超大场地，至此“未来式音乐宇宙”，如同星光熠熠的唯美星云，焕发出无限的光芒与生机。相信张信哲的“哲式唱腔”和无上限升级的「未来式」舞美，都将深深的印在每一位到场的观众脑海中。<br>无论你是从哪首歌与张信哲相识，都应该亲身体验一次现场带来的感动。因此，喜爱张信哲“未来式音乐宇宙”的朋友们一定不能错过，和阿哲一起漫步在音乐的星河，聆听那些温暖过我们的歌声，感受那份独特的魅力。这不只是一场演唱会，更是一次关于青春的追忆、关于梦想追寻、关于未来的唱响！</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭成人票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：外国人永久居留身份证/护照/身份证/港澳居民来往内地通行证/港澳台居民居住证/台湾居民来往大陆通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "张信哲"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "59010",
+                    "venueName": "衡阳市体育中心体育场",
+                    "venueProvinceName": "湖南省",
+                    "venueCityName": "衡阳市",
+                    "lng": 112.679614,
+                    "lat": 26.885206,
+                    "venueAddr": "021乡道与衡州大道交汇处以西563米",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "826341815826",
+                        "cityName": "南宁站",
+                        "showTime": "10.19",
+                        "tourId": "4580"
+                    },
+                    {
+                        "itemId": "837936630273",
+                        "cityName": "成都站",
+                        "showTime": "11.02",
+                        "tourId": "4580"
+                    },
+                    {
+                        "itemId": "841915861752",
+                        "cityName": "衡阳站",
+                        "showTime": "10.13",
+                        "tourId": "4580"
+                    },
+                    {
+                        "itemId": "825346340679",
+                        "cityName": "遵义站",
+                        "showTime": "10.26",
+                        "tourId": "4580"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D841915861752%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "2041",
+                        "artistName": "张信哲",
+                        "archives": "华语男歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1709953386311/1709953386311-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "2041",
+                        "name": "张信哲",
+                        "desc": "华语男歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1709953386311/1709953386311-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "34850",
+                    "wantNumStr": "3.5万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过80%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN01q2JN4O1fyr3OT2Q3J_!!6000000004076-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2623480/524696021_1728486842740.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01I4kws71HYFGQ5pDY3_!!6000000000769-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/766668/153333605.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01r0ZMup1vQzcdFJguf_!!6000000006168-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "23743154308",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1709883833845/1709883833845-main.jpg",
+                    "note": "一代情歌王子张信哲将带我们穿越时空，走进期待的未来世界，开启美好而梦幻的现实",
+                    "categoryName": "其他",
+                    "title": "张信哲 未来式终极版世界巡回演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "特惠购买",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1728471308000",
+                "sellStartTimeStr": "10月09日 18:55",
+                "priceRange": "¥288-¥2000",
+                "performBases": [
+                    {
+                        "name": "10.13 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1728748800000",
+                        "performs": [
+                            {
+                                "performId": "216616939",
+                                "performName": "2024-10-13  周日 19:30",
+                                "itemId": "841915861752",
+                                "projectId": "222272108",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1728819000000",
+                                "performTime": "2024.10.13 19:30",
+                                "performStartDate": "2024-10-13",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "2人套票可省176元"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "2人套票",
+                        "content": "双人套票1200元（原688*2），可省176元\n双人套票2000元（原1088*2），可省176元"
+                    }
+                ],
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "23883",
+                    "28491",
+                    "26699",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "23115",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "12171",
+                    "8843",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9099",
+                    "16267",
+                    "14731",
+                    "37259",
+                    "695425",
+                    "716673",
+                    "9355",
+                    "9867",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3237314"
+                ],
+                "promotionList": [
+                    {
+                        "type": "COMBINE",
+                        "tag": "套票",
+                        "isTagList": "false",
+                        "desc": "2人套票8.7折，到手¥1200(票档¥688x2)"
+                    }
+                ],
+                "promotionDetail": {
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "1",
+                            "promotionGroupTypeDesc": "票档优惠",
+                            "promotionList": [
+                                {
+                                    "promotionType": "3",
+                                    "promotionTag": "套票",
+                                    "promotionContentList": [
+                                        "2人套票9.1折，到手¥2000(票档¥1088x2)",
+                                        "2人套票8.7折，到手¥1200(票档¥688x2)"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "9.1折，到手2000（票档¥1088x2）"
+                                        },
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "8.7折，到手1200（票档¥688x2）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8419158617/2/841915861752.jpg"
+            }
+        }
+    }
+}

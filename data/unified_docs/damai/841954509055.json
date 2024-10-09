@@ -1,0 +1,67 @@
+{
+    "platform": "大麦",
+    "project_id": "841954509055",
+    "project_name": "11月1日  上海 TY. x KKECHO联合巡演 （这个歌手不太冷）",
+    "category_name": "演唱会",
+    "artists": [
+        "TY."
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.01 周五 20:00",
+    "session_time": [],
+    "price": "248-388",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "上海",
+    "venue_name": "蜚声上海PHASE LIVE HOUSE SHANGHAI",
+    "venue_info": {
+        "venue_address": "上海市静安区中兴路1683号L3-27",
+        "lng": 121.453591,
+        "lat": 31.253261
+    },
+    "project_info": "VIP票权益：1、提前入场+演出门票1张2、演出结束后VIP每人与两位艺人共同合影3、赠送签名海报+限定巡演纪念品（毛巾）\nTy. & KKECHO「2024 JOINT TOUR」2024联合巡演\n\n时间/城市/场地/详情如下：10月12日 成都 正火艺术中心1号馆10月26日 北京 本土王牌LIVE11月01日 上海 蜚声Phase Livehouse11月02日 杭州 大麦·66Livehouse11月09日 广州 MAOLivehosue（太古仓店）11月23日 青岛 Downtown_Live\n他们将会带着全新的作品开启本次的联合巡演——成都、北京、上海、杭州、广州、青岛。就让我们在音乐现场感受一下「歪式OG说唱」与这位来势汹汹的新生代实力rapper碰撞的花火，现场不见不散！",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN016PtSvW2GdSdjH6lBj_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01uRw4yn2GdSdhUUE71_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "79",
+        "wantNumStr": "79",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "841954509055",
+            "cityName": "上海站",
+            "showTime": "11.01"
+        },
+        {
+            "itemId": "837544639649",
+            "cityName": "成都站",
+            "showTime": "10.12"
+        },
+        {
+            "itemId": "838214665831",
+            "cityName": "北京站",
+            "showTime": "10.26"
+        },
+        {
+            "itemId": "839063056504",
+            "cityName": "杭州站",
+            "showTime": "11.02"
+        },
+        {
+            "itemId": "837950146038",
+            "cityName": "广州站",
+            "showTime": "11.09"
+        },
+        {
+            "itemId": "838026325617",
+            "cityName": "青岛站",
+            "showTime": "11.23"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=841954509055"
+}
