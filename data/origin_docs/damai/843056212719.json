@@ -1,0 +1,413 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：陈楚生、盘尼西林、许钧、金玟岐、陈婧霏、孙亦航、鸟撞、帆布小镇乐队、野肆乐队",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1597",
+    "cityname": "宁波",
+    "couponTags": "[]",
+    "description": "艺人：陈楚生、盘尼西林、许钧、金玟岐、陈婧霏、孙亦航、鸟撞、帆布小镇乐队、野肆乐队",
+    "id": "1_1_843056212719",
+    "imgurl": "-159372465",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "东海半边山望潮音乐季",
+    "nameNoHtml": "东海半边山望潮音乐季",
+    "price": {
+        "range": "198-488"
+    },
+    "price_str": "198-488",
+    "pricehigh": "488.0",
+    "privilegeTags": "[]",
+    "projectid": "843056212719",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.11.09-11.10",
+    "sitestatus": "16",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": {
+        "lat": 29.261653,
+        "lng": 121.96885,
+        "region": "1",
+        "venueAddr": "宁波市象山县石浦镇新鹤村东海半边山旅游度假区",
+        "venueCityName": "宁波市",
+        "venueId": "6869027",
+        "venueName": "东海半边山花海运动场",
+        "venueProvinceName": "浙江省"
+    },
+    "venuecity": "宁波",
+    "venueid": "6869027",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01sBeovb2GdSdo1TvFC_!!2251059038.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "象山紫航投资有限公司",
+            "entAddress": "浙江省宁波市象山县石浦镇半边山景区渔湾路102号B2",
+            "entType": "有限责任公司(非自然人投资或控股的法人独资)",
+            "legalPerson": "蔡丽英",
+            "opFrom": "",
+            "opTo": "",
+            "regCapStr": "500万人民币",
+            "socialCreditCode": "91330225557968123L"
+        }
+    },
+    "buyButton": {
+        "origin": "-3",
+        "status": "100",
+        "text": "该渠道不支持购买",
+        "tip": "请到大麦App购买"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN016pPPgy2GdSdn1bpku_!!2251059038.jpg\" width=\"901\" height=\"2109\" damai_width=\"901\" damai_height=\"2109\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01MMfQN82GdSdq1DFRP_!!2251059038.jpg\" width=\"901\" height=\"1328\" damai_width=\"901\" damai_height=\"1328\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01pz0u6q2GdSdq1Bq7U_!!2251059038.jpg\" width=\"901\" height=\"1727\" damai_width=\"901\" damai_height=\"1727\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ytrcsc2GdSdncCay4_!!2251059038.jpg\" width=\"901\" height=\"2427\" damai_width=\"901\" damai_height=\"2427\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01MVWgdN2GdSdmO14jK_!!2251059038.jpg\" width=\"901\" height=\"2069\" damai_width=\"901\" damai_height=\"2069\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01UzkVM72GdSdn1aUcI_!!2251059038.jpg\" width=\"901\" height=\"1451\" damai_width=\"901\" damai_height=\"1451\"></p></body></html>",
+        "introduceTitle": "演出介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "中国内地流行男歌手，演员，原创音乐人。",
+                "id": "70",
+                "name": "陈楚生",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1690253316543/1690253316543-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地摇滚乐队",
+                "id": "72511",
+                "name": "盘尼西林",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1571743288530/1571743288530-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "许钧，1988年7月25日出生于安徽蚌埠，歌手，唱作人",
+                "id": "71843",
+                "name": "许钧",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1723209469159/1723209469159-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "歌手、音乐制作人、作曲人，作词人。",
+                "id": "71659",
+                "name": "金玟岐",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1692785820472/1692785820472-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地独立音乐人",
+                "id": "1436407658",
+                "name": "陈婧霏",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1628494660593/1628494660593-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "2012年，加入TF家族，成为旗下实习生，并被任命为班长 。2014年，参加重庆TOPKIING舞社活动。2016年，随TF家族出席首届粉丝嘉年华年度盛典，并获得秒拍之星奖。2017年，成为跨次元男子团体易安音乐社一期生，以艺名“孙亦航”正式出道，并退出TF家族 ；同年，随易安音乐社获得“1218直播节花椒之夜” 年度新晋组合奖 。2018年，随易安音乐社发行组合首张音乐EP《易安异能 亿分之六》。2019年，发布首支个人原创单曲《路》 。2021年1月，参加爱奇艺男团选秀节目《青春有你第三季》；同年，其主演的青春校园剧《少年如歌》播出 。",
+                "id": "69139559",
+                "name": "孙亦航",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1658133705933/1658133705933-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "鸟撞 Birdstriking 是一支来自北京的IndieRock乐队，成立于2009年的他们从未被时间磨去心气，依然带着一如既往的“少年感” ，活跃在国内外大大小小的舞台上。\n无论是前期简单直接的年轻呐喊，还是如今对宇宙、世界、自身、情感的自我诠释，他们的作品总能敏锐地捕捉当下青年一代生存中的迷思与感触，并用跨越时代的年轻热血，引领所有年轻的朋友，找到光亮、撞向未来的黄金时刻。",
+                "id": "482071101",
+                "name": "鸟撞",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1683698940136/1683698940136-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "帆布小镇，2019年秋天在南京组建，在2020年的夏天，我们开始了乐队的第一次巡演，巡演的主题是“我会在夏日去见你”。",
+                "id": "77761740",
+                "name": "帆布小镇乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1710918317874/1710918317874-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "杭州电子乐队，风格:电子，新浪潮，后朋克\n我们是不完美的我 世界是不完美的世界 组成你与我 世界有风 带着暗流卷动 我有力量 单薄抵抗 野代表我们的去处 肆代表我们的思考。",
+                "id": "31756069782",
+                "name": "野肆乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1712658013596/1712658013596-main.jpg",
+                "tag": "歌手"
+            }
+        ],
+        "artistsTitle": "演出阵容",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可购票时会及时通知你的～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i4/O1CN01AFdO1d1QyedvCel2W_!!6000000002045-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotos/632755/126551135.jpg",
+                "https://img.alicdn.com/imgextra/i1/O1CN014hqoie1G2oSvT63ui_!!6000000000565-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/2624574/524914845_1728668259836.jpg",
+                "https://img.alicdn.com/imgextra/i4/O1CN01NhsMhM1EE927ZzCv9_!!6000000000319-0-tps-500-500.jpg"
+            ],
+            "wantNum": "977",
+            "wantNumStr": "977",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01R3THyh1QT3Y3gWguc_!!6000000001976-2-tps-1125-702.png",
+        "categoryId": "127420006",
+        "cityName": "宁波市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "843056212719",
+        "itemName": "【宁波】东海半边山望潮音乐季",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01sBeovb2GdSdo1TvFC_!!2251059038.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "330200",
+        "performSeatImages": [],
+        "projectId": "222305149",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                },
+                {
+                    "id": "7",
+                    "name": "港澳台居民居住证"
+                },
+                {
+                    "id": "8",
+                    "name": "外国人永久居留身份证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "以现场为准",
+        "showTime": "2024.11.09-11.10",
+        "tcCategoryId": "0301030100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "216700052",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "216677163",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "216698053",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=843056212719",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须携带购票时对应证件验证入场。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "1.2米以下儿童免票，需家长陪同；家长需购票，每个家长仅能带一名儿童）",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：护照/港澳台居民居住证/港澳居民来往内地通行证/台湾居民来往大陆通行证/外国人永久居留身份证/身份证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约120分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "240分钟",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "最低演出时长"
+            },
+            {
+                "content": "30",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "有寄存处,具体位置请联系现场工作人员。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            },
+            {
+                "content": "14000",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01g1Fs6025i4mGCqzxa_!!6000000007559-2-tps-144-144.png",
+                "title": "大麦网初始开售时全场可售门票总张数"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                "tagName": "条件退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过身份证验票入场",
+                "tagDescWithStyle": "通过身份证验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：象山紫航投资有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：象山紫航投资有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}
