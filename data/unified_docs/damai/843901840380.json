@@ -1,0 +1,67 @@
+{
+    "platform": "大麦",
+    "project_id": "843901840380",
+    "project_name": "SoulFa灵魂沙发「情绪迟到了」2024巡回演唱会-厦门站",
+    "category_name": "演唱会",
+    "artists": [
+        "灵魂沙发"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.29 周五 20:00",
+    "session_time": [],
+    "price": "138-238",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "厦门",
+    "venue_name": "沃克秀LIVEHOUSE_厦门",
+    "venue_info": {
+        "venue_address": "福建省厦门市集美区杏林湾路488号·星巢越中心2层",
+        "lng": 118.064929,
+        "lat": 24.592718
+    },
+    "project_info": "SoulFa灵魂沙发「情绪迟到了」2024巡回演唱会",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01KW7oVb2GdSdsKUrZC_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01311Jwn2GdSdqaP1Xd_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "32",
+        "wantNumStr": "32",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "843901840380",
+            "cityName": "厦门站",
+            "showTime": "11.29"
+        },
+        {
+            "itemId": "833857606119",
+            "cityName": "杭州站",
+            "showTime": "11.01"
+        },
+        {
+            "itemId": "833647475653",
+            "cityName": "上海站",
+            "showTime": "11.02"
+        },
+        {
+            "itemId": "833855178840",
+            "cityName": "重庆站",
+            "showTime": "11.08"
+        },
+        {
+            "itemId": "833851338906",
+            "cityName": "武汉站",
+            "showTime": "11.10"
+        },
+        {
+            "itemId": "833853418146",
+            "cityName": "广州站",
+            "showTime": "11.16"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=843901840380"
+}

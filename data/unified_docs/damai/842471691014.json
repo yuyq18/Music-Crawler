@@ -1,0 +1,59 @@
+{
+    "platform": "大麦",
+    "project_id": "842471691014",
+    "project_name": "蔡琴好新琴澳门演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "蔡琴"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.30 周六 20:00",
+    "session_time": [
+        "11.30 周六"
+    ],
+    "price": "488-1388",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "中国澳门",
+    "venue_name": "[ 澳门百老汇 ] - 百老汇舞台",
+    "venue_info": {
+        "venue_address": "澳门路氹金光大道",
+        "lng": 113.556898,
+        "lat": 22.142474
+    },
+    "project_info": "票价说明：澳门币票价MOP：1388/ 988/788/488人民币售价CNY：1388元/988元/ 788元/488元门票已含境外（含港澳台）服务费\n \n配送说明：本项目门票不支持退换，不可转让。一人一票，入场时必需持有有效门票。购票成功的客户，请您提前办理好港澳通行证-中国澳门签注。凭大麦电子购票凭证（订单或订单截图无效）到 澳门百老汇舞台售票处 换领纸质门票并凭票入场，感谢您的支持与理解。当天如出现遗失或忘带门票情况不予处理，感谢您的支持与理解。\n \n演出介绍：\n出道45年，她的歌声依旧能引起不同年龄段的共鸣，60、70后是听着《你的眼神》度过的豆蔻年华;80、90后看《无间道》时，听着《被遗忘的时光》无限感慨的经典香港电影;00后在一场音乐节上听着《恰似你的温柔》直接被圈粉……时代在变，情怀未变，她的歌曲依旧能在人们心中产生共鸣。蔡琴乐此不倦的通过歌声让每位观众得到快乐，她说:“我最爱看到观众离场时，每一张满足脸。”为此【好新琴】演唱会，蔡琴将为大家献上众多经典名曲!\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01dN0vkV2GdSdnunV8V_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01kTq0Nm2GdSdpN9LFr_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "115",
+        "wantNumStr": "115",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "842471691014",
+            "cityName": "中国澳门站",
+            "showTime": "11.30"
+        },
+        {
+            "itemId": "829986164491",
+            "cityName": "汕头站",
+            "showTime": "10.26"
+        },
+        {
+            "itemId": "835938374838",
+            "cityName": "深圳站",
+            "showTime": "11.03"
+        },
+        {
+            "itemId": "829075160244",
+            "cityName": "佛山站",
+            "showTime": "12.28"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=842471691014"
+}
