@@ -1,0 +1,57 @@
+{
+    "platform": "大麦",
+    "project_id": "843783447350",
+    "project_name": "I'll call you.『桃乐茜的来信』特别专场巡演深圳站",
+    "category_name": "演唱会",
+    "artists": [
+        "I'll call you.电话团"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.20 周五 20:00",
+    "session_time": [],
+    "price": "9.9-189",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "深圳B10现场",
+    "venue_info": {
+        "venue_address": "深圳市南山区华侨城创意文化园园北区C2栋北侧",
+        "lng": 113.992141,
+        "lat": 22.539657
+    },
+    "project_info": "I'll call you.『桃乐茜的来信』特别专场巡演深圳站\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01sReGRo2GdSdtCj8vr_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01mZ8QJ02GdSdsCakyy_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "843783447350",
+            "cityName": "深圳站",
+            "showTime": "12.20"
+        },
+        {
+            "itemId": "844370884805",
+            "cityName": "中山站",
+            "showTime": "12.22"
+        },
+        {
+            "itemId": "843780919974",
+            "cityName": "杭州站",
+            "showTime": "12.27"
+        },
+        {
+            "itemId": "844371432416",
+            "cityName": "武汉站",
+            "showTime": "12.28"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=843783447350"
+}

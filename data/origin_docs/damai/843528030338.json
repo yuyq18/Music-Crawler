@@ -1,0 +1,388 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：灵魂沙发",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1038",
+    "cityname": "南京",
+    "couponTags": "[]",
+    "description": "艺人：灵魂沙发",
+    "id": "1_1_843528030338",
+    "imgurl": "-154654289",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "SoulFa灵魂沙发「情绪迟到了」2024巡回演唱会-南京站",
+    "nameNoHtml": "SoulFa灵魂沙发「情绪迟到了」2024巡回演唱会-南京站",
+    "price": {
+        "range": "138-238"
+    },
+    "price_str": "138-238",
+    "pricehigh": "238.0",
+    "privilegeTags": "[]",
+    "projectid": "843528030338",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.11.22 周五 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": {
+        "lat": 31.970526,
+        "lng": 118.764476,
+        "region": "1",
+        "showCountText": "17个演出",
+        "venueAddr": " 南京市雨花台区安德门大街57号",
+        "venueCityName": "南京市",
+        "venueId": "4240001",
+        "venueName": "1701 Live House Max",
+        "venueProvinceName": "江苏省"
+    },
+    "venuecity": "南京",
+    "venueid": "4240001",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01hKScqF2GdSdnqygSb_!!2251059038.png",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "星巢沃克秀(厦门)传媒有限公司第二分公司",
+            "entAddress": "厦门市集美区杏林湾路488号3层310单元",
+            "entType": "有限责任公司分公司(自然人投资或控股)",
+            "legalPerson": "柯艺超",
+            "opFrom": "",
+            "opTo": "",
+            "regCapStr": "",
+            "socialCreditCode": "91350211MA8W102Q1G"
+        }
+    },
+    "buyButton": {
+        "origin": "1",
+        "status": "204",
+        "text": "立即购买"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN014PIiZK2GdSdqyyVXW_!!2251059038.jpg\" width=\"1587\" height=\"8143\" damai_width=\"1587\" damai_height=\"8143\">SoulFa灵魂沙发「情绪迟到了」2024巡回演唱会</p></body></html>",
+        "introduceTitle": "活动介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "SoulFa灵魂沙发,来自台北的乐团,18年由四个大男孩组成,曲风受英式摇滚启蒙,结合了对这世代生活的体验,并与音乐融合,唱著他们对世界的态度。",
+                "fansCount": "14009",
+                "fansCountDesc": "粉丝",
+                "fansCountStr": "1.4万",
+                "id": "6981533703",
+                "name": "灵魂沙发",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1692370519444/1692370519444-main.jpg",
+                "sellCount": "8场",
+                "sellCountDesc": "在售演出",
+                "tag": "歌手"
+            }
+        ],
+        "tour": {
+            "projectList": [
+                {
+                    "cityName": "杭州站",
+                    "itemId": "833857606119",
+                    "saleStatus": "热卖中",
+                    "showTime": "11.01",
+                    "tourId": "4776"
+                },
+                {
+                    "cityName": "上海站",
+                    "itemId": "833647475653",
+                    "saleStatus": "热卖中",
+                    "showTime": "11.02",
+                    "tourId": "4776"
+                },
+                {
+                    "cityName": "重庆站",
+                    "itemId": "833855178840",
+                    "saleStatus": "热卖中",
+                    "showTime": "11.08",
+                    "tourId": "4776"
+                },
+                {
+                    "cityName": "武汉站",
+                    "itemId": "833851338906",
+                    "saleStatus": "热卖中",
+                    "showTime": "11.10",
+                    "tourId": "4776"
+                },
+                {
+                    "cityName": "广州站",
+                    "itemId": "833853418146",
+                    "saleStatus": "热卖中",
+                    "showTime": "11.16",
+                    "tourId": "4776"
+                },
+                {
+                    "cityName": "深圳站",
+                    "itemId": "843438810983",
+                    "saleStatus": "热卖中",
+                    "showTime": "11.17",
+                    "tourId": "4776"
+                },
+                {
+                    "cityName": "南京站",
+                    "itemId": "843528030338",
+                    "saleStatus": "热卖中",
+                    "showTime": "11.22",
+                    "tourId": "4776"
+                },
+                {
+                    "cityName": "厦门站",
+                    "itemId": "843901840380",
+                    "saleStatus": "热卖中",
+                    "showTime": "11.29",
+                    "tourId": "4776"
+                }
+            ],
+            "showEncoreRequest": "false"
+        },
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i4/O1CN01ZtJoYQ1p4CDLYGtuD_!!6000000005306-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/2224310/444862129_1690960558989.jpg",
+                "https://img.alicdn.com/imgextra/i4/O1CN01ZtJoYQ1p4CDLYGtuD_!!6000000005306-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/2612751/522550346_1727339981999.jpg",
+                "https://img.alicdn.com/imgextra/i4/O1CN01so1NLY1lEx3KreQfP_!!6000000004788-0-tps-500-500.jpg"
+            ],
+            "wantNum": "31",
+            "wantNumStr": "31",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wPOZN01jRf2eaC3Jz_!!6000000004545-2-tps-1125-702.png",
+        "categoryId": "123606001",
+        "cityName": "南京市",
+        "generalAgent": {
+            "generalAgent": "true",
+            "generalType": "1"
+        },
+        "itemId": "843528030338",
+        "itemName": "【南京】SoulFa灵魂沙发「情绪迟到了」2024巡回演唱会-南京站",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01hKScqF2GdSdnqygSb_!!2251059038.png"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "320100",
+        "performSeatImages": [],
+        "projectId": "222252173",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "4",
+                "5",
+                "6"
+            ],
+            "type": "1"
+        },
+        "showDuration": "约90分钟（以现场为准）",
+        "showTime": "2024.11.22 周五 20:00",
+        "subTitle": "",
+        "tcCategoryId": "0301020100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "216696131",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=843528030338",
+        "showFlag": "false"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须打开【票夹】扫码入场，截图无效。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "儿童一律凭票入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/护照/台湾居民来往大陆通行证/身份证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "约90分钟（以现场为准）",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票，购票完成后观演人信息不可更改。",
+                "tagName": "实名制购票",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过票夹中的二维码验票入场",
+                "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：星巢沃克秀(厦门)传媒有限公司第二分公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：星巢沃克秀(厦门)传媒有限公司第二分公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}

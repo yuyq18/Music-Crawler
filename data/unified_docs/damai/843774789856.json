@@ -1,0 +1,60 @@
+{
+    "platform": "大麦",
+    "project_id": "843774789856",
+    "project_name": "Hayd 2024巡演-成都站",
+    "category_name": "演唱会",
+    "artists": [
+        "hayd"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.17 周日 20:00",
+    "session_time": [
+        "11.17 周日"
+    ],
+    "price": "258-520",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "成都",
+    "venue_name": "福馆FullHouse",
+    "venue_info": {
+        "venue_address": "四川省成都市成华区东郊记忆一号楼1-1b福馆FullHouse",
+        "lng": 104.122522,
+        "lat": 30.668674
+    },
+    "project_info": "Hayd中国巡演-成都站\nVIP权益：优先入场 、现场签名小海报 、艺人1V1合影\n \n*本场演出限一票一证，同场次请勿使用同一证件在多家售票平台购票，以免给您带来不便及不必要的损失如因多平台购票损失的费用将由购票人全额承担。\n*为了确保您有一个愉快顺利的观演体验，在购票前请务必仔细阅读【购票须知】。具体入场需求，请密切留意演出前主办方和场地方微信公众号所发布的《观演指南》。\n \n你可能对“Hayd”这个名字感到陌生，但是你可能已经跟着他的歌神游到了山海！他的作品《Head In The Clouds》和《Superhero》等，早已斩获亿级流媒体播放量！\nHayden Hubers，是一位来自密歇根州怀特霍尔的歌手、词曲作者，作品中充斥着的忧郁情感表达和内省抒情主义的展示为特点，让我们收获满满的疗愈与安慰。\n他创作的各个作品中，有友情里因不同的生活境遇而导致彼此之间渐行渐远的无奈与踏上未知旅程的惶惑，有于心底对所失去之人的依恋的倾诉，有人生失意之时的孤独思绪……每一首歌曲都在表达独特 的境遇和体会。\n\n也正因此，才令我们这么期待他在现场带来的演绎，Hayd又开启了一场全新出发！再度来到中国举办专场演出。当旋律变得更加立体，一定能够给我们呈现出更多别样的听觉震撼，也相信在未来，Hayd能够凭借他独特的声音和深刻的叙事技巧，继续吸引着听众。\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01MRk7JL2GdSdtmdGSS_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01MO4dOe2GdSdnmkBNQ_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01XjIZ0H2GdSdjeL6Rv_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "341",
+        "wantNumStr": "341",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "843774789856",
+            "cityName": "成都站",
+            "showTime": "11.17"
+        },
+        {
+            "itemId": "843472679381",
+            "cityName": "上海站",
+            "showTime": "11.19"
+        },
+        {
+            "itemId": "843795653573",
+            "cityName": "南京站",
+            "showTime": "11.20"
+        },
+        {
+            "itemId": "843902957788",
+            "cityName": "杭州站",
+            "showTime": "11.21"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=843774789856"
+}

@@ -1,0 +1,77 @@
+{
+    "platform": "大麦",
+    "project_id": "843528030338",
+    "project_name": "SoulFa灵魂沙发「情绪迟到了」2024巡回演唱会-南京站",
+    "category_name": "演唱会",
+    "artists": [
+        "灵魂沙发"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.22 周五 20:00",
+    "session_time": [],
+    "price": "138-238",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南京",
+    "venue_name": "1701 Live House Max",
+    "venue_info": {
+        "venue_address": " 南京市雨花台区安德门大街57号",
+        "lng": 118.764476,
+        "lat": 31.970526
+    },
+    "project_info": "SoulFa灵魂沙发「情绪迟到了」2024巡回演唱会",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01hKScqF2GdSdnqygSb_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN014PIiZK2GdSdqyyVXW_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "31",
+        "wantNumStr": "31",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "833857606119",
+            "cityName": "杭州站",
+            "showTime": "11.01"
+        },
+        {
+            "itemId": "833647475653",
+            "cityName": "上海站",
+            "showTime": "11.02"
+        },
+        {
+            "itemId": "833855178840",
+            "cityName": "重庆站",
+            "showTime": "11.08"
+        },
+        {
+            "itemId": "833851338906",
+            "cityName": "武汉站",
+            "showTime": "11.10"
+        },
+        {
+            "itemId": "833853418146",
+            "cityName": "广州站",
+            "showTime": "11.16"
+        },
+        {
+            "itemId": "843438810983",
+            "cityName": "深圳站",
+            "showTime": "11.17"
+        },
+        {
+            "itemId": "843528030338",
+            "cityName": "南京站",
+            "showTime": "11.22"
+        },
+        {
+            "itemId": "843901840380",
+            "cityName": "厦门站",
+            "showTime": "11.29"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=843528030338"
+}
