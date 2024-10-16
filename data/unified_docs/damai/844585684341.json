@@ -1,0 +1,57 @@
+{
+    "platform": "大麦",
+    "project_id": "844585684341",
+    "project_name": "赫兹乐队“和解”2024巡演武汉站",
+    "category_name": "演唱会",
+    "artists": [
+        "赫兹乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.28 周六 20:30",
+    "session_time": [],
+    "price": "99-138",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "武汉",
+    "venue_name": "ThreeLive",
+    "venue_info": {
+        "venue_address": "武汉市洪山区乐都汇时尚购物广场5号门旁上三楼",
+        "lng": 114.335949,
+        "lat": 30.516872
+    },
+    "project_info": " \n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01QMH2gq2GdSdtyMzdA_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01AdpytO2GdSdq8JjAV_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "838747682082",
+            "cityName": "郑州站",
+            "showTime": "11.17"
+        },
+        {
+            "itemId": "844115382518",
+            "cityName": "长春站",
+            "showTime": "12.06"
+        },
+        {
+            "itemId": "844020787512",
+            "cityName": "青岛站",
+            "showTime": "12.20"
+        },
+        {
+            "itemId": "844585684341",
+            "cityName": "武汉站",
+            "showTime": "12.28"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=844585684341"
+}

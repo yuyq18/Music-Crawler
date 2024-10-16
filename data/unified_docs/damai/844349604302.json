@@ -1,0 +1,48 @@
+{
+    "platform": "大麦",
+    "project_id": "844349604302",
+    "project_name": "廖俊涛「罐装的浪花」2024全国巡演-南京站",
+    "category_name": "演唱会",
+    "artists": [
+        "廖俊涛"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.30 周六 19:00",
+    "session_time": [],
+    "price": "320-520",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南京",
+    "venue_name": "1701 Live House Max",
+    "venue_info": {
+        "venue_address": " 南京市雨花台区安德门大街57号",
+        "lng": 118.764476,
+        "lat": 31.970526
+    },
+    "project_info": "注意事项：本场演出为线上取号，请留意主办方公号（掌乐无限）发布相关信息。\n\n\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01iJL7jA2GdSdtqKNLi_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN011DuXrW2GdSdv4lYKe_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01w4SdBl2GdSciexHHP_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "468",
+        "wantNumStr": "468",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "844349604302",
+            "cityName": "南京站",
+            "showTime": "11.30"
+        },
+        {
+            "itemId": "840531178298",
+            "cityName": "上海站",
+            "showTime": "11.02"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=844349604302"
+}

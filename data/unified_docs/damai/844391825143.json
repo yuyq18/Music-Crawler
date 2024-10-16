@@ -1,0 +1,47 @@
+{
+    "platform": "大麦",
+    "project_id": "844391825143",
+    "project_name": "《行在时光里的船》留声玩具2024 杭州站",
+    "category_name": "演唱会",
+    "artists": [
+        "留声玩具"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.10 周日 20:00",
+    "session_time": [],
+    "price": "99",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "杭州",
+    "venue_name": "酒球会(9-Club)",
+    "venue_info": {
+        "venue_address": "杭州市万塘路262号万糖汇城市生活广场南楼2F",
+        "lng": 120.123982,
+        "lat": 30.279866
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01q9Qyns2GdSduf4N86_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01pBIFEx2GdSdsJFuOg_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "844391825143",
+            "cityName": "杭州站",
+            "showTime": "11.10"
+        },
+        {
+            "itemId": "844469693959",
+            "cityName": "苏州站",
+            "showTime": "11.17"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=844391825143"
+}

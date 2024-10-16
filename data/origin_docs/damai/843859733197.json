@@ -1,0 +1,444 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：薛之谦、许巍、郭顶、周晓鸥、麻园诗人、安达乐队、DOUDOU、王北车、丢火车乐队、郭冠廷、王啸坤、打扰一下乐团、阿吉太组合、耀乐团、夏布—Su乐团、四夕允千",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "727",
+    "cityname": "郴州",
+    "couponTags": "[]",
+    "description": "艺人：薛之谦、许巍、郭顶、周晓鸥、麻园诗人、安达乐队、DOUDOU、王北车、丢火车乐队、郭冠廷、王啸坤、打扰一下乐团、阿吉太组合、耀乐团、夏布—Su乐团、四夕允千",
+    "id": "1_1_843859733197",
+    "imgurl": "-151337261",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "飞天山音乐节",
+    "nameNoHtml": "飞天山音乐节",
+    "price": {
+        "range": "199-717"
+    },
+    "price_str": "199-717",
+    "pricehigh": "717.0",
+    "privilegeTags": "[]",
+    "projectid": "843859733197",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.11.16-11.17",
+    "sitestatus": "3",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": {
+        "lat": 25.793712,
+        "lng": 113.110478,
+        "region": "1",
+        "venueAddr": "飞天山音乐节",
+        "venueCityName": "郴州市",
+        "venueId": "6956024",
+        "venueName": "郴州飞天山音乐节",
+        "venueProvinceName": "湖南省"
+    },
+    "venuecity": "郴州",
+    "venueid": "6956024",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01njvTAn2GdSdlGF71K_!!2251059038.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "郴州市郴投集智文化旅游运营有限公司",
+            "entAddress": "湖南省郴州市苏仙区观山洞街道郴州市东城区白水片区范围内(相山大道、学院路、郴县路和市体育馆围合区域北路)",
+            "entType": "有限责任公司(国有控股)",
+            "legalPerson": "吕英翔",
+            "opFrom": "",
+            "opTo": "2038-07-18",
+            "regCapStr": "1000万人民币",
+            "socialCreditCode": "91431000MACP198887"
+        }
+    },
+    "buyButton": {
+        "origin": "-41",
+        "status": "90",
+        "text": "预约抢票",
+        "tip": "提前选票档 抢票更丝滑"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN012UYzxs2GdSdpcnNct_!!2251059038.jpg\" width=\"691\" height=\"484\" damai_width=\"691\" damai_height=\"484\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01cXjBlR2GdSdt4v5pz_!!2251059038.jpg\" width=\"1889\" height=\"14173\" damai_width=\"1889\" damai_height=\"14173\"></p></body></html>",
+        "introduceTitle": "演出介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "薛之谦，华语流行乐男歌手、影视演员、音乐制作人，毕业于格里昂酒店管理学院。",
+                "id": "609",
+                "name": "薛之谦",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1684752526102/1684752526102-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地摇滚音乐歌手。",
+                "id": "616",
+                "name": "许巍",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1535534961281/1535534961281-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "郭顶，当代唱作人、音乐制作人、华语男歌手。",
+                "id": "147",
+                "name": "郭顶",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1659430991075/1659430991075-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "　　周晓鸥，歌手，零点乐队主唱。2008年宣布离开乐队，曾出演青春偶像剧《奋斗》继而进入演艺圈发展。2008年9月底，离开“零点”乐队单飞的周晓鸥，推出了首支个人单曲《如果我是梁山伯》。在这首颠覆传统经典的歌曲中，周晓鸥不仅表达了他对爱情的看法，也委婉的表现了他对“零点”乐队的感情态度。",
+                "id": "690",
+                "name": "周晓鸥",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1521703759631/1521703759631-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国摇滚GRUNGE的新生力量",
+                "id": "698884301",
+                "name": "麻园诗人",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1698738652859/1698738652859-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "《乐队的夏天3》参演乐队，融传统与现代一身，揉民族与世界一体，构成了安达音乐独特的艺术风格。",
+                "id": "26856766496",
+                "name": "安达乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1692675425244/1692675425244-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "福禄寿FloruitShow，世界音乐公司「北河三」旗下唱作组合",
+                "id": "8874354474",
+                "name": "DOUDOU",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1651026489195/1651026489195-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "流行音乐唱作人",
+                "id": "2328883253",
+                "name": "王北车",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1607672402038/1607672402038-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "这是一支将个人信仰与时代性完美融合的乐队：悲伤，希望；迷茫，执着；疯狂，冷静。",
+                "id": "72027",
+                "name": "丢火车乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1521703669309/1521703669309-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "郭冠廷（Jace Guo），1991年12月18日出生于辽宁省大连市，中国内地流行乐男歌手、词曲作者、制作人。2018年，发行个人首张迷你音乐专辑《北京姑娘》 。2022年6月，发布首支个人单曲《反派角色》。2023年3月31日，发行单曲《你是我的上海》。10月17日，发行专辑《反派角色》。",
+                "id": "31756166013",
+                "name": "郭冠廷",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1712657935732/1712657935732-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "2006年我型我秀的全国总冠军。",
+                "id": "530",
+                "name": "王啸坤",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1521704791090/1521704791090-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "打扰一下乐团，由男主唱兼创作人陈圣仑和女主唱米时可组成。",
+                "id": "159261463",
+                "name": "打扰一下乐团",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1685332979055/1685332979055-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "",
+                "id": "1213067959",
+                "name": "阿吉太组合",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1613959905829/1613959905829-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "耀乐团成军于2010年十月，是由双主唱冯宣元、张敬豪、DJ兼团长王璐为核心组成的Electronic Music Team。\n\n耀乐团一直坚持做印有自己独特DNA色彩的音乐，Hip-Hop、Rock、Electronic music，Rave电子舞曲统统拿来融合贯通、Feat.、玩乐、不拘一格。不拘泥于音乐形式，更不受缚于传统的音乐风格定位，在电子音乐世界里，他们随心所欲，任意妄为！\n\n耀乐团擅长中英文双语创作及演绎，因此深受国际品牌的青睐。2013年登上苹果iPad中国版广告[iPad Together]，成为苹果合作的第一个亚洲级中国乐团；2014年继续被美国苹果公司赏识成为苹果iPad全",
+                "id": "24717184480",
+                "name": "耀乐团",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1683527795873/1683527795873-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "夏布与Su乐团是一支结合了中国民族特色与拉丁及世界流行音乐风格的乐团。‌该乐团由乐队创始人夏布组建于2011年，其名字“Su”在维吾尔语中意为“水”，象征着音乐像水一样纯洁并具有大自然的多种情绪底蕴。乐团由五位资深音乐人组成，他们以中国民族音乐为基础，融合了弗拉门戈、波萨诺瓦以及流行爵士等多种世界性音乐风格。这种独特的音乐风格使得Su乐团成为了一支拥有独特味道的中国乐团。",
+                "id": "34721069114",
+                "name": "夏布—Su乐团",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1729046158479/1729046158479-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "四夕允千是一支 “ 跨次元的 剧本音乐 ”乐队。 “ 那些你看见 却不敢出声的故事， 由我们来唱。 ” 2020 年，四夕允千乐队由主唱 / 贝 斯 / 键盘 四夕允千， 鼓手 /RAP/ 和声 / 采 样 秦少建， 吉他 / 和声 / 中国鼓邓旭组成。 四夕允千此前曾是对外汉语教 师 。 在被鼓手 带 入创作之门后， 一发不可收拾，凭借 对 音符天 生的敏感和自由灵 动 的 创 造力， 在极短 时间 内迅速成 长为 独当一面的音 乐 人和 乐 手。 她不喜欢受风格和唱法约 束， 一切 乐 器都服 务 于她想表达的情感。 秦少建曾是国内多支著名 乐队 的鼓手， 在 业 内享有极高声誉。 但在他",
+                "id": "34725350088",
+                "name": "四夕允千",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1729058472912/1729058472912-main.jpg",
+                "tag": "歌手"
+            }
+        ],
+        "artistsTitle": "演出阵容",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i1/O1CN0167wNGr1OXyL74kuTP_!!6000000001716-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/2503815/500763050_1717580669135.jpg",
+                "https://img.alicdn.com/imgextra/i2/O1CN01eyTYni1zTyfPuGS9Z_!!6000000006716-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/869262/173852424_1682678640396.jpg",
+                "https://img.alicdn.com/imgextra/i3/O1CN010Y49WU1vtqZhHVKPn_!!6000000006231-0-tps-500-500.jpg"
+            ],
+            "wantNum": "16202",
+            "wantNumStr": "1.6万",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01R3THyh1QT3Y3gWguc_!!6000000001976-2-tps-1125-702.png",
+        "categoryId": "127420006",
+        "cityName": "郴州市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "843859733197",
+        "itemName": "【郴州】飞天山音乐节",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01njvTAn2GdSdlGF71K_!!2251059038.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "431000",
+        "performSeatImages": [],
+        "projectId": "222310158",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "8",
+                    "name": "外国人永久居留身份证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "8"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "约420分钟，仅供参考，最终以现场实际时长为准",
+        "showTime": "2024.11.16-11.17",
+        "tcCategoryId": "0301030100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "216677228",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "216692158",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "216670273",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=843859733197",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张、每个账号最多购买6张。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须携带购票时对应证件验证入场。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "1.2米以上凭票入场，1.2米以下家长陪同",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：身份证/外国人永久居留身份证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "约420分钟，仅供参考，最终以现场实际时长为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约60分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "30",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            },
+            {
+                "content": "10000",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01g1Fs6025i4mGCqzxa_!!6000000007559-2-tps-144-144.png",
+                "title": "大麦网初始开售时全场可售门票总张数"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDescWithStyle": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息",
+                "tagName": "重要通知"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                "tagName": "条件退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过身份证验票入场",
+                "tagDescWithStyle": "通过身份证验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：郴州市郴投集智文化旅游运营有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：郴州市郴投集智文化旅游运营有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}
