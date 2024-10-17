@@ -1,0 +1,786 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：陈奕迅",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "906",
+    "cityname": "深圳",
+    "couponTags": "[]",
+    "description": "艺人：陈奕迅",
+    "id": "1_1_833968269456",
+    "imgurl": "-250251898",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "陈奕迅FEAR and DREAMS世界巡回演唱会-深圳站",
+    "nameNoHtml": "陈奕迅FEAR and DREAMS世界巡回演唱会-深圳站",
+    "price": "780.0",
+    "price_str": "780-2580",
+    "pricehigh": "2580.0",
+    "privilegeTags": "[]",
+    "projectid": "833968269456",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.06-12.15",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "深圳湾体育中心\"春茧\"体育馆",
+    "venuecity": "深圳",
+    "venueid": "53040",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01kuTLSI2GdSdjeADwX_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "833968269456",
+                    "itemName": "【深圳】陈奕迅FEAR and DREAMS世界巡回演唱会-深圳站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "440300",
+                    "cityName": "深圳市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01kuTLSI2GdSdjeADwX_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01kuTLSI2GdSdjeADwX_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://item-cdn.damai.cn/03def5ac7a9e45c287672a7a3fdf2010.jpg",
+                    "seatImages": [
+                        "https://item-cdn.damai.cn/03def5ac7a9e45c287672a7a3fdf2010.jpg"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "2024.12.06-12.15",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。",
+                            "tagType": "2",
+                            "renderType": "2",
+                            "tagDescJson": "{\"generalNote\":\"该演出支持退票，您可以在【我的-订单详情页】中申请退票，退票需要收取手续费，具体规则如下：\",\"performRules\":[{\"rules\":[{\"endTime\":1729394280000,\"ruleStage\":1,\"ruleType\":2,\"startTime\":1729221480000},{\"endTime\":1732118400000,\"ruleFeeBP\":3000,\"ruleStage\":1,\"ruleType\":1,\"startTime\":1729394280000},{\"ruleStage\":1,\"ruleType\":4,\"startTime\":1732118400000}]}],\"refundProcedureFeeRule\":1}",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京大麦文化传媒发展有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：北京大麦文化传媒发展有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "906",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01slRU2W2GdSdwLnLHh_!!2251059038.jpg\" width=\"2186\" height=\"6051\" damai_width=\"2186\" damai_height=\"6051\">时隔八年 与陈奕迅重逢鹏城深圳</strong></p>\n<p>&nbsp;</p>\n<p>陈奕迅FEAR and DREAMS世界巡回演唱会终于要来鹏城深圳啦！阔别八年，陈奕迅将于2024年12月6、7、8、13、14、15日在深圳湾体育中心“春茧”体育馆为翘首以盼的歌迷们献上六场视听盛宴。从盛夏骄阳到冬日暖阳，FEAR and DREAMS继续陪你度过漫长岁月。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Ub8PKL2GdSdnY6Z3v_!!2251059038.png\" width=\"807\" height=\"404\" damai_width=\"807\" damai_height=\"404\"></p>\n<p><strong>不只是“演唱会”，这是献给歌迷的“艺术大秀”</strong></p>\n<p>自2022年12月开始，陈奕迅FEAR and DREAMS世界巡回演唱会已先后走过中国香港、马来西亚、新加坡、中国台北、北美、中国澳门、上海、成都、广州、厦门、西安、南京、武汉、宁波、大连、杭州等地，收获不俗口碑。在内地多站巡演里，FEAR and DREAMS依次为歌迷朋友们呈现精彩演出。</p>\n<p><br>这场别树一帜的音乐之旅，每一场都匠心独具诚意满格。区别于以娱乐至上为第一要义的演出，陈奕迅的FEAR and DREAMS主题巡演更像是一台具有深刻哲思、需要观众全身心投入去探索体验的艺术大秀。陈奕迅用一场光怪陆离、充满艺术气质和哲学思考的唱演大秀，让现场的歌迷纷纷沉醉，沉浸其中。可以说，Eason的演唱会不仅是一场独一无二的音乐风暴，更是一场犒赏歌迷眼睛和耳朵的感官盛宴，艺术大秀，实至名归！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01j04VUV2GdSdpXB4mp_!!2251059038.png\" width=\"818\" height=\"547\" damai_width=\"818\" damai_height=\"547\"></p>\n<p><strong>沉浸式体验FEAR and DREAMS 的多面</strong></p>\n<p>何谓“FEAR”，又何谓“DREAMS”，相信观者自有一番体会。据悉，Eason在本次FEAR and DREAMS中，会以不同于过往演唱会的形式重新演绎，更侧重舞台感和戏剧感，释放出强大表演张力的同时，也会给观众带来思考。不同于常规音乐演出，舞台剧元素的融入，让他在唱跳之外，还需要调动更多情绪在演的部分。</p>\n<p><br>契合主题中的“FEAR”，在演唱会的上半场，通过不同曲目的组合，陈奕迅表述着从大到小、不同维度的恐惧。下半场“DREAMS”更是带着热烈和希望，毁灭崩坏，轮回新生。整场演唱会的筹备制作上，由硬体设备、舞台设计、舞美视效以至歌单编排，均看到了陈奕迅及其团队的用心，这场华丽艳绝的FEAR and DREAMS可谓高质量的诚意之作。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01LS3UI22GdSdnXfRkG_!!2251059038.png\" width=\"864\" height=\"576\" damai_width=\"864\" damai_height=\"576\"></p>\n<p><strong>每个人的心里，都住着一首“陈奕迅”</strong></p>\n<p>每个人心中都住着陈奕迅，他唱的每一首歌，都是一个故事，当他的音乐响起，属于我们的青春记忆，也开始涌上心头。那些专属陈奕迅的情歌，勾起了无数人的回忆。<br>在FEAR and DREAMS的世界里，不仅是一场与自己青春的约会，不再是只有大合唱的演唱会，而是一次与陈奕迅共同奔赴不同的情绪世界，在FEAR and DREAMS里，去感受、体验不一样的人生。<br>再多的文字也比不上现场的一次真切体悟。这次属于鹏城深圳的FEAR and DREAMS，无论是情感的细腻流露，还是梦与现实的交织碰撞，必将成为你心中的永恒回忆。等陈奕迅和你一起解锁更多精彩，创造在深圳独特的回忆！</p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张、每个账号最多购买4张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/护照/台湾居民来往大陆通行证/身份证/港澳台居民居住证/外国人永久居留身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "陈奕迅"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "53040",
+                    "venueName": "深圳湾体育中心\"春茧\"体育馆",
+                    "venueProvinceName": "广东省",
+                    "venueCityName": "深圳市",
+                    "lng": 113.949666,
+                    "lat": 22.517593,
+                    "venueAddr": "深圳市滨海大道3001号（南山区科苑南路与海德三道交汇处）",
+                    "showCountText": "共有6个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "842051216040",
+                        "cityName": "苏州站",
+                        "showTime": "11.15-11.24",
+                        "tourId": "4130"
+                    },
+                    {
+                        "itemId": "833968269456",
+                        "cityName": "深圳站",
+                        "showTime": "12.06-12.15",
+                        "tourId": "4130"
+                    },
+                    {
+                        "itemId": "821021763267",
+                        "cityName": "泉州站",
+                        "showTime": "10.25-11.03",
+                        "tourId": "4130"
+                    },
+                    {
+                        "itemId": "799390336532",
+                        "cityName": "佛山站",
+                        "showTime": "2025.01.17-01.26",
+                        "tourId": "4130"
+                    },
+                    {
+                        "itemId": "785741959168",
+                        "cityName": "重庆站",
+                        "showTime": "时间延期待定",
+                        "tourId": "4130"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=833968269456"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D833968269456%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "1654",
+                        "artistName": "陈奕迅",
+                        "archives": "中国香港著名的男歌手及演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1688481912236/1688481912236-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "1654",
+                        "name": "陈奕迅",
+                        "desc": "中国香港著名的男歌手及演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1688481912236/1688481912236-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "390335",
+                    "wantNumStr": "39.0万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过97%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i2/O1CN01uigUa01oEtr6yYcvP_!!6000000005194-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/909775/181955150.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01tskbWG1hZKCvp2bX3_!!6000000004291-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/762401/152480358.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01vY86me1ydJ7UVciBd_!!6000000006601-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "1468724553",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1692183216343/1692183216343-main.jpg",
+                    "note": "被外媒称赞创造历史，第一位登上这里的亚洲歌手！陈奕迅在北美的巡演已经开票！",
+                    "categoryName": "其他",
+                    "title": "陈奕迅《FEAR AND DREAMS世界巡回演唱会》",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊",
+                "inFieldComments": [
+                    {
+                        "id": "17649855",
+                        "comment": "路人完全垂直入坑！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/1caf07859afb45e59ac0d2824bc947f9.jpg",
+                        "nickName": "哥斯拉克星黛露",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/485244/97048811_1690991959534.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17521799",
+                        "comment": "是期待很久的演唱会了！之前由于种种原因一直延期但好在终于看上啦！\n我不允许有人没听过现场，陈奕迅的唱功毋庸置疑，i唱人一本满足，整场从选曲到演唱都超级用心！！歌单选择上的非常照顾大家了，歌曲基本都比较熟悉，所以听起来更嗨了哈哈哈哈，唱跳三小时，每一分钟都值回票价！而且会回家反复回味！！\n舞美服装也好爱！又贴切歌曲风格又帅哈哈哈哈！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/d5a2349eb4154b559958d34d59717a49.jpg",
+                        "nickName": "双的不明显",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/492929/98585869_1676953591760.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17229451",
+                        "comment": "Eason·陈奕迅·宁波站",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/2abcbd1bb1c64ac298058d93eaf3230b.jpg",
+                        "nickName": "alina",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/607513/121502773_1699164542687.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17210173",
+                        "comment": "七夕的夜晚和Eason一起坐上幸福摩天轮",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/b86cb453c4bd48c999d96f85deddbdf9.jpeg",
+                        "nickName": "钱酥酥",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/773069/154613964_1699325629812.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17192535",
+                        "comment": "在耳机里陪伴了这么久的声音终于听到了！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/e6769192c50a46ac9ef96338dfb420d0.jpeg",
+                        "nickName": "Calmmmmm",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1126194/225238946_1691490786014.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17164506",
+                        "comment": "💚上半段观看\n去之前网上大部分讨论是围绕歌单，还有点担心来着。\n意外的是，正是因为没听过，没有先入为主的既定印象，\n收获了沉浸式体验，一气呵成，仿佛看了一场音乐剧。\n我坐在内场，没人用荧光棒，像在电影院里观影。\n即使是特别熟悉的歌，比如红玫瑰，大家也是安静聆听。\n💙下半段互动\n不是那种，对面的朋友你们好么？简单的暖场互动。\n而是你也参与到整个演出中，你的挥手，你的手机打灯，你的呼声，你成了演出中的重要一部分，观众席与舞台共同构成了完整的表演。\n🤍关于敬业\n一直在唱一直在唱，业务能力超强。\n在现场你能感觉到他的认真执着。\n已经是名副其实的实力派前辈了，Eason还是想在现场表演上不断创新。\n探索突破如果成功了，会让人眼前一亮，但也面临着不被大众认可的风险。\n明明可以选择躺着就把钱赚了，随便几首歌，完全可以万人大合唱，轻轻松松名利双收。\nEason 却还是选择了最难走的那条路，直面恐惧，拥抱梦想。\n🩷恐惧与梦想\n在谈话环节，Eason说，“我们不要太执着未发生的事情，我们的恐惧不一定真实，因为还未发生，不要想太多，虽然今天我来说这个话没有太大的说服力。”\nEason问，你们是第一次看这样的演唱会么？\n是的，\n我先听了完整的现场，那么接下来的日子，我会去听歌，把这些都补上。\n这种体会类似于看电影。\n爆米花电影，看完了笑过了，仅停留在当时。\n而经典，却值得回味，第一遍忽略了很多细节，上网看了别人的影评，豁然开朗，又去二刷三刷，每次都有不同体会。即使多年以后也依旧津津乐道。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/0970b3c89c26436a9ad411fb88c02b5c.jpg",
+                        "nickName": "想见汪苏泷一万次_",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2359367/471873507_1704212681656.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15826259",
+                        "comment": "陪我一起长大的港乐人 医生Eason",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/27aa7d4b29c74eb3bb412be03a5566f0.jpeg",
+                        "nickName": "黄小姐_M378H",
+                        "userPic": "https://perico.damai.cn/userheadphotos/29019/5803911.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15787321",
+                        "comment": "陈奕迅FnDs杭州百场现场声乐教学",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/a80683aee301474181ec2c6f657789ec.jpeg",
+                        "nickName": "霖大麦子",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/464653/92930617_1714372548766.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "15673739",
+                        "comment": "安可的小哨子太逗了吧",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/e1562c6e5c494bf4af4406f7615edc4c.jpeg",
+                        "nickName": "票来_票来_票票来到我这儿",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/282695/56539152_1711715889718.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "14937711",
+                        "comment": "🌟【陈奕迅南京演唱会】让你的音乐绽放璀璨光芒！🌟\n\n✨这是一个关于音乐的故事，一个关于热情的传承。当陈奕迅跨入南京演唱会的台，整个市仿佛被他歌声温暖裹，触动每颗热爱音乐心。✨\n\n🎤他用魔幻的音符，将每故事、每一段情感，都变成一首独一二的旋律。当他深情演绎整个世界都沉浸在那悠扬的旋律中，感受到心的共鸣。🎤\n\n🌈在这个夜晚，音乐再只是简的旋律，而一种情感的传达，一心灵的共振。无论你是来自哪里，无论你有怎样故事，这里每一个音符会为你敞开心扉，让你找到于自己的那个美妙的角落。🌈\n\n🎶让跟随着陈迅的歌声，穿越时光的隧道，感受音乐带给我们的力量与温。这不仅是场演唱会，更是一次灵的追寻，一次心灵的洗礼。🎶\n\n#乐盛典# #狂热粉丝#心灵治愈#\n",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/f2781020a4704e0ca5d057f35b5ae810.jpg",
+                        "nickName": "黄艺晨",
+                        "userPic": "https://perico.damai.cn/userheadphotos/10439/2087875.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13972742",
+                        "comment": "好像做了一个很长的梦\n喜欢了八年终于在12.2成都站见面啦\n每个阶段都会喜欢他不同的歌\n每个阶段听他的歌都会有不同的感受\n然后一直单曲循环\n也接受了曾经没那么喜欢听的歌\n也要去接受平凡生活中的自己\n总是能给我带来很多力量和勇气\n不管是鼓励积极向上的今日 \n抬头吧黑暗过会是晨曦\n还是每次听都想落泪的人生之歌 任我行\n主题是Fear and dreams，恐惧与梦想，开篇的歌曲是2001太空漫游，Eason在牢笼中从天而降，一位伴舞穿着航空服在机器的帮助下飞天遁地，然后第一部分几乎都是围绕着人类、地球这样宏大的主题。让我想起了我对陈奕迅的喜欢最早其实来源于他唱情歌，但是也会关注不同的命题，社会、命运与无常都是他的歌曲。整个舞美和伴舞能呈现出这样的效果也是令人惊艳的。\n不要紧 山野都有雾灯\n一个难忘美好的夜晚❤️💙\n下次再见啦 谢谢Eason 谢谢你们🥳🥰",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/b5664c6fa8c943b4a9d9d71195855687.jpg",
+                        "nickName": "陪小坤看日落_",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1224820/244964055_1689572039436.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13716075",
+                        "comment": "因为有提前看过一遍歌单，且知道大部分的歌没有听过，所以抱着去丰富歌单＋享受现场氛围的心态去了。\n总的来说，昨晚是我近期去过的演唱会里最享受的一次！第一次听这种从头到尾贯穿并紧扣主题的演唱会，虽然没有听过很多粤语歌，但是看大屏的歌词也能感受到歌曲如何与演唱会主题Fears&Dreams呼应。\n今年看的几场演唱会都是为了看人而去的所以基本上手机就没有离手过，但昨晚除了几首听过的很喜欢的歌录了一小段以外几乎都在认真听歌＋感受舞美灯光，真的太太太喜欢这种感觉了能过暂时沉浸在歌手和团队讲述的故事之中与现实生活脱离的感觉应该是这场演出最让我开心的地方。感觉我们区域的观众也都能体会到这种快乐。边上的小哥虽然没有特别活跃，但是一直默默跟唱，偶尔因为eason唱了他想听的歌小声握拳欢呼念。斜前面的一位姐们儿全程笑容就没有消失过，一直在录影。看到她好像看到了我在看自己偶像演唱会的时候，瞬间被她的幸福感染。最后安可的时候我前两排的两位小姐姐手拉着手一直跟着旋律左右摇摆，这一晚上应该也成为了她们友情里很重要的一个回忆烙印了叭百\n因为听不懂粤语所以talk环节有点小疑惑，不过看身边的大家都笑得很开心跟台上有来有回地互动也挺为\neason的粉丝们开心的器\n总体来说体验感真的很赞！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/bc6b0c10beba4dbc8f2d9d3de6dbcaab.jpeg",
+                        "nickName": "帅气蓝泡泡",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1129123/225824681_1712230104209.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13682053",
+                        "comment": "不愧是e神，e神不是吹的😭Fears and Dreams主题超级好，尤其是在这一年更具时代意义。\n2001太空漫游 人神斗 当这地球没有花 谎言 \n心的距离 红玫瑰 开不了心\n告别娑婆 完 今日 梦的可能 任我行 \n人生马拉松 陪你度过漫长岁月 路一直都在\n致明日的舞 七百年后 我们万岁 谢谢侬\nHelpless Hopeless Restless Doubless Fearless\n首首都唱到心里，直击灵魂😭 绝对要再看一遍 细细体会一番其中的奥义！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/1a70a90ac33d49818d3ed0a09145ae56.jpg",
+                        "nickName": "哥斯拉克星黛露",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/485244/97048811_1690991959534.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13680912",
+                        "comment": "现场氛围真的比我想的好太多！[泪]\n小的时候觉得Eason离我好远 长大终于见到了 虽然见到了还是有种不真实感🥲可能是本人太有亲和力 一直在给大家🫶🏻\n提前半个月就在复习歌单 都说这次的歌冷门 我完全没觉得[泪]每一首没有最爱只有更爱  《想听》、《那一夜有没有说》、《兄妹》、《心的距离》、《告别娑婆》、《今日》、《任我行》….太喜欢！出发的前一天直接失眠 只睡了2小时 第二天看完更睡不着了[失望]好想每场都看\n《2001太空漫游》前奏响起的时候 Eason缓缓升上来 我的眼泪也跟着流下来了[悲伤]真的像在做梦！（特意有带整包抽纸怕痛哭流涕 正确的）尤其是舞台上烟雾缭绕..\n结束后把《今日》录的视频一口气看了五遍 完全停不下来的回味 太有活力的演唱了！今日对我来说是非常重要的一首 能看到现场真的破防了\n安可唱了新歌《社交恐惧癌》  现场好好听！Eason的表情也好到位 \n所有歌曲和耳机里的听起来都不一样 就好像耳机里的是麦当劳的汉堡包 现场的是双层吉士这样..（不是 一旦吃过双层吉士 就不会再想吃汉堡包！\n看过的live也很多 但这样的演唱表演对我来说真的太震撼…像舞台剧一样完整 流畅 反复推敲才得到的一件艺术品 对fear 和dreams主题的解释也非常到位 像三小时内读了一本精彩传记 可惜语言很匮乏 没办法形容的太准确！感觉看完需要消化一个月！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/5d86a11681bd4b1098253dad7cb37a60.jpeg",
+                        "nickName": "基线转弯",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/333971/66794270_1723389688466.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13673197",
+                        "comment": "Eason的骨灰级粉丝了，20年来的几乎每一个演唱会视频、每一首歌和mv全部看过听过。歌手的唱功无愧天王的美誉，歌神实至名归。梅奔中心的效果也毋庸置疑，绝对顶级体验，一点不亏。\n香港歌单出来的时候直呼绝对精心大制作，上海国语版本相比粤语的fear部分更加温和，本以为会是一种降级和妥协，但是这一场得益于eason出色的状态，听到了非常多清澈的真声高音硬顶。\n演出进程上，第二part的红玫瑰完美演绎了矛盾和撕裂感，近乎于平替了黑夜不再来和异梦的缺憾。甚至第4part的doubtless部分两首电影配乐完美衔接，加上路一直都在，效果是比香港p4更宏大，更积极向上的。\n很可惜上海并不允许应援的出现，现场的观感talking观众回馈度很低，甚至可能很多人国语歌都不熟悉，但eason的串场和encore连接的很好，即使是“一个人的独角戏”，也是顶级的效果。\n不认识他的人觉得他就是个古怪疯癫的胖子，认识他的人觉得他是个好歌手，了解他的人觉得他是个好人，好歌手，好演员，爱他的人觉得他是个礼物，是独一无二的eason，带给我们歌、舞、快乐和希望，留下的，都是值得被用心感受的艺术品。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/9d9487a459f640f5b505cb87f859ba4a.jpeg",
+                        "nickName": "cunninglittleb",
+                        "userPic": "https://perico.damai.cn/userheadphotos/887377/177475487.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13659042",
+                        "comment": "听完陈奕迅澳门演唱会10.14后，出现了很多的后遗症。演唱会歌单会每天无限循环，没有播歌时也出现幻听，耳边自动脑补 bgm ，脑子里想的都是 Eason 演唱会的画面，家人们谁懂啊，这演唱会真的太上头了！\n这几天看到 Eason 由于身体不适导致本周末的演唱会要延期的新闻。可惜之余，也看到了很多 EF 从全国各地奔赴但看不到偶像无可奈何的信息。谁曾想到，一周前的今天，我们能如期在金光综艺馆看到 Eason 的演唱会，是何其的幸运。① Eason 在10.14那晚说当晚唱歌的状态超好，很放松很开心！最好观众加上最好的 Eason ，那气氛也不能太绝了，太 high 了！\n队友说，澳门场没有物料，没有荧光棒，没有不停歇的大合唱；但是有正能量，有治愈，有一整 part 的蹦迪，有舞台烟花，有两首 encore !虽然10.15的 encore 有明年今日和 K 歌之王，但我觉得10.14的始终是我心中最棒的演唱会，没有之一！\n很多人说 Fear and dreams 的歌单冷门，但我觉得这是 Eason 的宝藏歌单，更是 Eason 的心水歌曲，越听越觉得好听！相比普通的演唱会，这更像一个舞台剧，看得出 Eason 和整个团队的用心，也能看到 Eason 想给大家呈现的主题！我在两个月前就把歌单熟悉，感觉工作学习都没那么认真，队友也说会有不一样的观看效果！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/c93dd7c4a3a8460aafc9e910bea0a511.jpg",
+                        "nickName": "余青玄",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1214024/242804970_1686904470709.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13608869",
+                        "comment": "人生清单✅一个\n我的妈，Eason开场后一直唱，唱了快两个小时才talking了一段，替他觉得累，但又好幸福🥰🥰太有魅力了！\n全程听得我一直起鸡皮疙瘩，唱功一流，嗓子状态很棒👍🏻👍🏻全场唱跳跑动都不带喘的，Talking又幽默又好玩，宠粉一级，狂发飞吻😘。真的是很有趣的灵魂，爱死了❤️❤️❤️真诚，实力，幽默，高情商，这男人100分🈵分\n我的最爱，今日，任我行，七百年后，连沙龙和明年今日都唱了，值了，此生无憾😭😭",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/998235ffb66e4688bb5b10c8f553fb6f.jpg",
+                        "nickName": "岁岁年年222",
+                        "userPic": "https://perico.damai.cn/userheadphotos/268781/53756365.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13607256",
+                        "comment": "2023.11.12周日19:30-21:45\n梅赛德斯-奔驰文化中心2楼2排视角 最近不到10米\nFear and Dreams 是Eason精心准备了3年的惊喜，约定2023陈奕迅上海演唱会，聆听他用感情唱歌，听进心里，听到想哭。\n《今日》接《垃圾》结尾 太绝了\n安可唱了几句《绵绵》、《十年》+《明年今日 》",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/5430ab21cfe94cdb897bc5e7802de01e.jpeg",
+                        "nickName": "tyt",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/14178/2835697_1690941933319.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13602454",
+                        "comment": "陈奕迅！终于在上海又见到你了！\n\n👍推荐理由\n陈奕迅三个字还不值得当必看的理由吗！上次看EASON还是在重庆，阔别N年终于在上海梅奔又看到了，而且这次在上海连开一周，同时也是内地首站哦！\n\n🌟演出亮点\n这次陈奕迅带来了很多新歌，唱功一如既往的稳，而且不停歇，一首接一首的唱，干货满满。三小时的时长满打满算，绝对值回票价！\n\n而且talk环节超级可爱！因为在上海，所以他唱《谢谢侬》时让大家一起互动，他唱谢谢侬，观众比手势致敬，全场大互动。\n\n👏舞台布置\n这次的巡演舞台是真花了心思，舞美设计主打一个外太空梦幻感。从空中会掉下两个大外星人，陈奕迅本人也和舞者一起劲歌热舞，没想到他跳的还不错！而且大屏幕有字幕，方便观众一起卡拉OK大合唱。\n\n💺座位视野\n虽然其他区域没有遮挡，梅奔这点还是很不错的，但还是尽量要坐内场，前排还可以让陈奕迅看到自己的手幅表白😯。\n\n💡其他提示\n长柄雨伞和饮料食品都不能带入，结束时间大概22点，而且散场人超级多。如果有赶地铁需要的要合理安排时间。\n\n\n",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/2ee7d712499c457588cc944021c64e9a.jpeg",
+                        "nickName": "zhan09888",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/7949/1589835_1704789732541.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "13250979",
+                        "comment": "作为陈奕迅的粉丝，我觉得澳门的演唱会非常精彩。首先，陈奕迅的演唱技巧非常出众，他拥有极富感染力的嗓音和出色的音准掌控能力，能够将每首歌曲都演绎得真情实感。无论是激情四溢的摇滚曲还是抒情的情歌，他总能将歌曲的情感传达到观众心中。澳门的演唱会舞台设计和视觉效果也非常精美。从舞台布景到灯光效果，每个细节都展现出专业团队的精心打磨。这些视觉效果不仅让观众沉浸于音乐的氛围中，同时也增加了演唱会的视觉享受。演唱会的现场气氛非常热烈而感人。观众们都投入地跟随着陈奕迅的歌声一起歌唱和舞动，营造出了一种共同的情感共鸣。而陈奕迅则会与观众进行互动，通过与观众的交流和演唱中的表演，更加拉近了彼此的距离。澳门陈奕迅的演唱会给人留下了深刻而美好的印象。他出色的演唱技巧，精美的舞台设计和热烈的现场气氛都为观众带来了一场难忘的音乐之夜。作为陈奕迅的歌迷，我非常享受这次演唱会带给我的体验。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/733230f3a1814d91b92c8fd81778a267.jpg",
+                        "nickName": "i赵小琪6",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2256846/451369304_1694480399951.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    }
+                ]
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购票",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1729221480000",
+                "sellStartTimeStr": "10月18日 11:18",
+                "priceRange": "¥780 - ¥2580",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售，正式开票后将第一时间配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "26699",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9867",
+                    "2443",
+                    "12171",
+                    "395",
+                    "1163",
+                    "16267",
+                    "14731",
+                    "37259",
+                    "716673",
+                    "9355",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "4",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8339682694/2/833968269456.jpg"
+            }
+        }
+    }
+}
