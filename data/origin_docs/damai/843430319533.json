@@ -1,0 +1,555 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：thomeboydontkill",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "848",
+    "cityname": "中国香港",
+    "couponTags": "[]",
+    "description": "艺人：thomeboydontkill",
+    "id": "1_1_843430319533",
+    "imgurl": "-155631397",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "THOMEBOYDONTKILL「CASANOVA」2024 World Tour Hong Kong",
+    "nameNoHtml": "THOMEBOYDONTKILL「CASANOVA」2024 World Tour Hong Kong",
+    "price": "565.0",
+    "price_str": "565-920",
+    "pricehigh": "920.0",
+    "privilegeTags": "[]",
+    "projectid": "843430319533",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.22 周日 20:00",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "新界乡议局大楼大剧院",
+    "venuecity": "中国香港",
+    "venueid": "6966018",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01PpNVqz2GdSdqoONZi_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "843430319533",
+                    "itemName": "THOMEBOYDONTKILL「CASANOVA」2024 World Tour Hong Kong",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "810100",
+                    "cityName": "中国香港",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01PpNVqz2GdSdqoONZi_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01PpNVqz2GdSdqoONZi_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.12.22 周日 20:00",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "门票即发票",
+                            "tagDesc": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagDescWithStyle": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "893",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>购票说明：</strong></p>\n<p>本项目门票不支持退换，不可转让。 购票成功的客户，请您提前办理好港澳通行证-中国香港签注。 演出当天凭大麦APP/小程序的购票二维码，到指定换票点换取纸质票后检票入场。 此项目为无座项目，请根据现场引导，前往对应票档的区域进行观演。1.2米以上凭票入场，1.2米以下谢绝入场。当天如出现遗失或忘带门票情况不予处理，感谢您的支持与理解。</p>\n<p>&nbsp;</p>\n<p><strong>票价说明：</strong></p>\n<p>港币售价不含境外（含港澳台）服务费：</p>\n<p>GA 站票【General Admission普通票】HKD599</p>\n<p>EE 站票【Early Entry优先入场｜纪念票根】HKD759</p>\n<p>VIP站票【优先入场｜签名海报｜纪念票根 | 一对一合影】HKD990</p>\n<p>&nbsp;</p>\n<p>人民币售价已含境外（含港澳台）服务费：</p>\n<p>GA 站票【General Admission普通票】CNY565</p>\n<p>EE 站票【Early Entry优先入场 | 纪念票根】CNY710</p>\n<p>VIP站票【优先入场｜签名海报｜纪念票根 | 一对一合影】CNY920</p>\n<p>&nbsp;</p>\n<p>*本项目不支持退换，非香港居民购票后，应提前办理好港澳通行证以及签注（或其它有效通行证件）。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01gXQeuF2GdSdtvtpFm_!!2251059038.jpg\" width=\"752\" height=\"982\" damai_width=\"752\" damai_height=\"982\"></p>\n<p><strong>取票点信息：</strong></p>\n<p>取票场馆名称：新界乡议局大楼大剧院</p>\n<p>取票点具体地址：香港新界沙田石门安睦街30号</p>\n<p>取票时间：演出当日取票</p>\n<p>取票联系电话 （区号+电话）：00852+46403370</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>演出介绍：</strong></p>\n<p style=\"text-align: center;\"><strong>THOMEBOYDONTKILL「CASANOVA」2024世界巡演香港站</strong> <br><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01B4f8a42GdSdx8Tlhy_!!2251059038.jpg\" width=\"1200\" height=\"1600\" damai_width=\"1200\" damai_height=\"1600\"></p>\n<p>🔥说唱团体DIGI GHETTO成员𝐓𝐇𝐎𝐌𝐄𝐁𝐎𝐘𝐃𝐎𝐍𝐓𝐊𝐈𝐋𝐋香港开秀</p>\n<p>🔥首次香港开唱个人专场，旋律与节拍掀起音浪将与乐迷嗨翻屋顶</p>\n<p>🔥以𝑪𝑨𝑺𝑨𝑵𝑶𝑽𝑨主题开启世界巡演，完美演绎歇斯底里与浪漫 演出时间：2024年12月22日(周日）20:00 演出地点：新界乡议局大楼大剧院</p>\n<p>开票时间：2024年10月22日15:00</p>\n<p>&nbsp;</p>\n<p style=\"text-align: left;\"><strong>艺人介绍</strong>：</p>\n<p style=\"text-align: left;\">𝐓𝐇𝐎𝐌𝐄𝐁𝐎𝐘𝐃𝐎𝐍𝐓𝐊𝐈𝐋𝐋：新生代实力说唱团体DIGI GHETTO成员，中文说唱圈最具有影响力的新星之一。凭借在音乐方面不俗的天赋，THOME于2018年开始在说唱圈崭露头角。他的音乐风格独特，可以熟练驾驭R&amp;B、HipHop、摇滚等风格，为中文说唱注入了全新的血液。在近两年，他凭借多张成熟的个人音乐作品以及与优秀音乐人的合作，不仅在内地获得了广泛的认可，更在海外说唱圈中引起了关注。他透过音乐与观众建立联系，极具感染力与激情的现场，让他在年轻听众中备受喜爱。</p>\n<p style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01sTnZjy2GdSdvQDBLM_!!2251059038.png\" width=\"502\" height=\"668\" damai_width=\"502\" damai_height=\"668\"></p>\n<p><strong>项目介绍：</strong></p>\n<p>本次巡演主题𝑪𝑨𝑺𝑨𝑵𝑶𝑽𝑨被𝐓𝐇𝐎𝐌𝐄𝐁𝐎𝐘𝐃𝐎𝐍𝐓𝐊𝐈𝐋𝐋解读为“卡萨诺瓦综合症”：患有卡萨诺瓦综合症的人一生皆在寻求来自他人的关爱，周旋在一段接一段的情感关系中，却又无法进入任何一段稳定关系。透过多情与风流的𝑪𝑨𝑺𝑨𝑵𝑶𝑽𝑨视角，踏入由长长短短红线编织的世界开启冒险，以他独有的方式讲述他对世间的体验。</p>\n<p>&nbsp;</p>\n<p>首度在香港开个唱，𝐓𝐇𝐎𝐌𝐄𝐁𝐎𝐘𝐃𝐎𝐍𝐓𝐊𝐈𝐋𝐋将以饱满的情绪在旋律与嘶吼中剖析内心，在新界乡议局大楼大剧院，完美演绎𝑪𝑨𝑺𝑨𝑵𝑶𝑽𝑨的歇斯底里与浪漫。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>𝐓𝐇𝐎𝐌𝐄𝐁𝐎𝐘𝐃𝐎𝐍𝐓𝐊𝐈𝐋𝐋《𝑪𝑨𝑺𝑨𝑵𝑶𝑽𝑨》世界巡演香港站将于12月22日在新界乡议局大楼大剧院开唱，期待你我一起创造难忘夜晚，现场见!</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>观演须知：</strong></p>\n<p>&gt;请在官方指定售票平台购票。因票品为有价证券，非普通商品，其背后承载的文化服务具有时效性、稀缺性等特征，演出门票一经售出概不支持退换。如您无法正常前往现场观看，还请自行处理门票，给您带来不便敬请谅解。</p>\n<p>&gt;温馨提示：非香港居民购票后，应提前办理好港澳通行证以及签注（或其它有效通行证件）。</p>\n<p>&gt;严禁携带危险品，请配合安检工作。</p>\n<p>&gt;有序进场。共同营造和谐观演秩序。</p>\n<p>&gt;爱护环境。请将垃圾放置于垃圾桶内。</p>\n<p>&gt;文明观演。礼貌沟通，相互体谅协助。</p>\n<p>&gt;请保管好个人物品，如有遗失概不负责。</p>\n<p>&gt;面斥不雅，演出后台与控台不欢迎非演职人员进入。</p>\n<p>&gt;场内全程禁止吸烟（含电子烟），吸烟请移步吸烟区。</p>\n<p>&gt;肖像许可：您的形象会被摄影摄像设备记录保存或发布。</p>\n<p>&gt;为确保在场乐迷的观演体验：请收好您手中的荧光棒，多谢配合。</p>\n<p>&gt;为确保在场乐迷的观演体验：请勿长时间使用电子设备进行录影或摄像，禁止携带三脚架入场。</p>\n<p>&gt;主办方对本观演须知拥有最终解释权。</p>\n<p>&nbsp;</p>\n<p>关注@GLOBALLLIVE</p>\n<p>更多精彩内容将陆续解锁!</p>\n<p>更多香港站讯息👇</p>\n<p>新浪微博：@风羽文化 @Boxlive_ @森立演藝有限公司　</p>\n<p>Instagram：@boxliveasia @sumsuprememedia</p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "本项目门票即是发票。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "需兑换成纸质票验票入场，须打开【票夹】的二维码前往取票点换取，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "本项目门票即是发票。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "提前45分钟，仅供参考，最终以现场实际入场时间为准"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "15"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "thomeboydontkill"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "240"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "6966018",
+                    "venueName": "新界乡议局大楼大剧院",
+                    "venueProvinceName": "中国香港",
+                    "venueCityName": "中国香港",
+                    "lng": 114.21102,
+                    "lat": 22.387428,
+                    "venueAddr": "香港特别行政区沙田区安睦街30号新界乡议局",
+                    "region": "2"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址",
+                                    "海外邮箱"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=843430319533"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D843430319533%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "6769187358",
+                        "artistName": "thomeboydontkill",
+                        "archives": "说唱团体DIGI GHETTO成员、中国内地男歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1729496653076/1729496653076-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "6769187358",
+                        "name": "thomeboydontkill",
+                        "desc": "说唱团体DIGI GHETTO成员、中国内地男歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1729496653076/1729496653076-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "768",
+                    "wantNumStr": "768",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i3/O1CN01kGsJkI20pKkSdvFkC_!!6000000006898-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1210736/242147369_1719941344930.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01ZxeXaY1HAQfY81rFy_!!6000000000717-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2636996/527399377_1729305118715.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN018aua481exC051EFzr_!!6000000003937-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1729580400000",
+                "sellStartTimeStr": "10月22日 15:00",
+                "countDown": "45818",
+                "rcdt": "45817845",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥565 - ¥920",
+                "performBases": [
+                    {
+                        "name": "12.22 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1734796800000",
+                        "performs": [
+                            {
+                                "performId": "216679172",
+                                "performName": "2024-12-22  周日 20:00",
+                                "itemId": "843430319533",
+                                "projectId": "222322163",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1734868800000",
+                                "performTime": "2024.12.22 20:00",
+                                "performStartDate": "2024-12-22",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "立即购票",
+                "buyBtnStatusAfterCountDown": "204",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "3060482",
+                    "3001090",
+                    "3196418",
+                    "3246850",
+                    "3247106",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "23115",
+                    "1611",
+                    "4939",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "2874946",
+                    "3196226",
+                    "3196482",
+                    "3246658",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9867",
+                    "2443",
+                    "12171",
+                    "395",
+                    "1163",
+                    "16267",
+                    "14731",
+                    "37259",
+                    "716673",
+                    "9355",
+                    "8843",
+                    "9099",
+                    "3196290",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3196354",
+                    "3246274",
+                    "3246786",
+                    "3247042"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8434303195/2/843430319533.jpg"
+            }
+        }
+    }
+}

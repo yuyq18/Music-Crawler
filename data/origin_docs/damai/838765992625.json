@@ -1,0 +1,774 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：邓紫棋",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1580",
+    "cityname": "杭州",
+    "couponTags": "[]",
+    "description": "艺人：邓紫棋",
+    "id": "1_1_838765992625",
+    "imgurl": "-202274666",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "G.E.M.邓紫棋 I AM GLORIA世界巡回演唱会-杭州站",
+    "nameNoHtml": "G.E.M.邓紫棋 I AM GLORIA世界巡回演唱会-杭州站",
+    "price": "380.0",
+    "price_str": "380-1580",
+    "pricehigh": "1580.0",
+    "privilegeTags": "[]",
+    "projectid": "838765992625",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.11.16-11.17",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "杭州奥体中心体育场(大莲花)",
+    "venuecity": "杭州",
+    "venueid": "1945005",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01j5aXk52GdSdtbLkKN_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "838765992625",
+                    "itemName": "【杭州】G.E.M.邓紫棋 I AM GLORIA世界巡回演唱会-杭州站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "330100",
+                    "cityName": "杭州市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01j5aXk52GdSdtbLkKN_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01j5aXk52GdSdtbLkKN_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.11.16-11.17",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：杭州离火演艺经纪有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：杭州离火演艺经纪有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1580",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><div class=\"page\" title=\"Page 1\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p style=\"text-align: center;\">从 Gloria 开始，认识一个全新的 G.E.M.邓紫棋。</p>\n<p style=\"text-align: justify;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01vHDs3n2GdSdyeEsdA_!!2251059038.jpg\" width=\"1020\" height=\"1360\" damai_width=\"1020\" damai_height=\"1360\"></p>\n<p>&nbsp; &nbsp; &nbsp; 她是首位登上香港体育馆开唱的90后女歌手，是金曲奖华语最佳女歌手最年轻入围者，也是首位BILLBOARD RADIO CHINA年度艺人。</p>\n<p>&nbsp; &nbsp; &nbsp; 睽违六年，华语乐坛创作天后G.E.M.邓紫棋以《I AM GLORIA》为主题正式启动全新的世界巡迴演唱會。当熟悉的歌声在耳边响起，你是否能听懂她此刻的心声?</p>\n<div class=\"page\" style=\"text-align: justify;\" title=\"Page 1\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN014QbkQA2GdScwAtg3S_!!2251059038.jpg\" width=\"1409\" height=\"2113\" damai_width=\"null\" damai_height=\"null\"></div>\n<p>&nbsp; &nbsp; &nbsp; 2020年，凭借专辑《摩天动物园》，G.E.M.邓紫棋获得第31届台湾金曲奖评审团奖”，并成为流媒体平台Spotify“全球最受欢迎华语女歌手”，及获得Mnet亚洲音乐大奖“最佳亚洲艺人奖”。</p>\n<p>&nbsp; &nbsp; &nbsp; 2021年，G.E.M.邓紫棋包办词曲创作的《光年之外》MV被吉尼斯世界纪录认证为 “YouTube上观看次数最多的中文音乐视频”。</p>\n<p>&nbsp; &nbsp; &nbsp; 2022年，耗费三年心血，G.E.M.邓紫棋发行第八张全创作专辑《启示录》，首创14集 MV音乐连续剧，史无前例地以连续剧的形式呈现专辑中的每一首歌，翻开流行乐坛的崭新 一⻚。</p>\n<p style=\"text-align: justify;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Yop66J2GdScurus4v_!!2251059038.jpg\" width=\"1723\" height=\"2585\" damai_width=\"null\" damai_height=\"null\"></p>\n</div>\n</div>\n</div>\n<div class=\"page\" style=\"text-align: justify;\" title=\"Page 2\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>&nbsp; &nbsp; &nbsp; 2023年，历经期待相见的日日夜夜，G.E.M.邓紫棋以Gloria之名再次启动全新的世界巡迴演唱會，用歌声唱出黑暗中的曙光，乱世中的荣耀。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01c5TTrx2GdScuIAVJs_!!2251059038.jpg\" width=\"853\" height=\"1280\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp; &nbsp; &nbsp; 这几年世界发生着翻天覆地的变化，多少时候我们觉得这个熟悉的世界好像已变得面目全非?先有肆虐的疫情让全人类共同面对考验，再有接二连三的他国战争、以及世界各地各种天灾人祸。生命的消逝、经济的萧条、病毒的入侵、⻝物的缺失等，人人都好像走在荒漠里，在迷惘中渴望着驱散黑暗的曙光。作为唱作艺术家的G.E.M.邓紫棋明白自己能做的，就是用音乐向听众传递生命力，为破碎的心带来盼望:“Gloria是爸爸给我取的名字。我从小就觉得很好听，而且充满荣耀。长大了，更认定这是我的使命——在世上作盐作光。”</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01v4G0p12GdScrwLQd3_!!2251059038.jpg\" width=\"1267\" height=\"845\" damai_width=\"null\" damai_height=\"null\"></p>\n</div>\n</div>\n</div>\n<div class=\"page\" style=\"text-align: justify;\" title=\"Page 3\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>&nbsp; &nbsp; &nbsp; G.E.M.邓紫棋的音乐不仅仅是旋律的交响，更是对人们心灵的治愈。六年前，G.E.M.邓紫棋的演唱会以扑克牌中的红心Q作为主题，因她坚信人人可以征服、掌管自己的心，并成为自己的心之女王。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01BMQ7eB2GdScuICms4_!!2251059038.jpg\" width=\"1670\" height=\"2505\" damai_width=\"null\" damai_height=\"null\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01NCVP8L2GdScrwOBMd_!!2251059038.jpg\" width=\"3288\" height=\"2192\" damai_width=\"null\" damai_height=\"null\"></p>\n</div>\n</div>\n</div>\n<div class=\"page\" style=\"text-align: justify;\" title=\"Page 4\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>&nbsp; &nbsp; &nbsp; 时光浩渺流转，四时交替更迭。六年之后，《I AM GLORIA》世界巡回演唱会正式起航，G.E.M.邓紫棋倾注巨资，只为带来震撼动人的电影故事感演唱会现场，用音乐激荡人们的心灵，拥抱每一颗疲惫的心灵，重燃每一份内心的盼望与勇气。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01rsVN7X2GdSct3AQoD_!!2251059038.jpg\" width=\"1267\" height=\"845\" damai_width=\"null\" damai_height=\"null\"></p>\n</div>\n</div>\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>&nbsp; &nbsp; &nbsp; 《I AM GLORIA》，这是黑暗中的曙光，乱世中的荣耀。这一次，就和G.E.M.邓紫棋一起跟随爱的指引，在乱世中重拾信望爱吧!</p>\n</div>\n</div>\n</div>\n<div class=\"page\" style=\"text-align: justify;\" title=\"Page 5\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN011pKvby2GdScuPfoCE_!!2251059038.jpg\" width=\"1267\" height=\"845\" damai_width=\"null\" damai_height=\"null\"></div></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张、每个账号最多购买4张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/护照/台湾居民来往大陆通行证/身份证/港澳台居民居住证/外国人永久居留身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "邓紫棋"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "1945005",
+                    "venueName": "杭州奥体中心体育场(大莲花)",
+                    "venueProvinceName": "浙江省",
+                    "venueCityName": "杭州市",
+                    "lng": 120.228697,
+                    "lat": 30.229174,
+                    "venueAddr": "杭州市滨江区飞虹路3号",
+                    "showCountText": "共有2个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "832834939571",
+                        "cityName": "苏州站",
+                        "showTime": "10.26-10.27",
+                        "tourId": "4302"
+                    },
+                    {
+                        "itemId": "838765992625",
+                        "cityName": "杭州站",
+                        "showTime": "11.16-11.17",
+                        "tourId": "4302"
+                    },
+                    {
+                        "itemId": "837829043088",
+                        "cityName": "南昌站",
+                        "showTime": "11.09-11.10",
+                        "tourId": "4302"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=838765992625"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D838765992625%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "17267",
+                        "artistName": "邓紫棋",
+                        "archives": "邓紫棋（G.E.M.），本名邓诗颖，1991年8月16日出生于上海市，中国香港女歌手、词曲作者、音乐制作人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1699583886568/1699583886568-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "17267",
+                        "name": "邓紫棋",
+                        "desc": "邓紫棋（G.E.M.），本名邓诗颖，1991年8月16日出生于上海市，中国香港女歌手、词曲作者、音乐制作人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1699583886568/1699583886568-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "200895",
+                    "wantNumStr": "20.1万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过95%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i2/O1CN01eyTYni1zTyfPuGS9Z_!!6000000006716-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2621955/524391018_1727536381062.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01prjtaq1EkCl1Unc3U_!!6000000000389-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/288471/57694355.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN014QIdE01itlV068vLP_!!6000000004471-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "1633549168",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1726035793840/1726035793840-main.jpg",
+                    "note": "邓紫棋 I AM GLORIA 世界巡回演唱会",
+                    "categoryName": "其他",
+                    "title": "邓紫棋 I AM GLORIA 世界巡回演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊",
+                "inFieldComments": [
+                    {
+                        "id": "18319726",
+                        "comment": "@邓紫棋合肥演唱会｜我来咯",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/493f33a77d9e49b0bd0b2437a0e3ac02.jpeg",
+                        "nickName": "Xu-Future",
+                        "userPic": "https://perico.damai.cn/userheadphotos/186969/37393947.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18313536",
+                        "comment": "好有正能量的女孩子",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/1b3781d03ca34ab28ef948ec4b5f444f.jpeg",
+                        "nickName": "カかが力'",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2593897/518779448_1728436280117.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18081751",
+                        "comment": "邓紫棋个人演唱会200场✌️",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/0b04d167e1d44070b2ab64df8fe3f486.jpeg",
+                        "nickName": "阿楠少吃点",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/463384/92676842_1714021108833.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18030802",
+                        "comment": "是我爱的那条小金鱼呀GEM邓紫棋",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/746b0f3e6c9740b29ba9eb818bd1c819.jpeg",
+                        "nickName": ".CHU",
+                        "userPic": "https://perico.damai.cn/userheadphotos/724366/144873279.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18021191",
+                        "comment": "电影制作级的视听盛宴",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/3f6a7078c33a4deebb3fc0bf4e5e06ce.jpg",
+                        "nickName": "ReggaeLive",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1225203/245040653_1711510111518.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17655945",
+                        "comment": "既能清晰看到舞台全貌，又能避免舞台两侧的视线遮挡",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/65b186b231e54a399300e5c505c7bc6e.png",
+                        "nickName": "genafunk",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/459137/91827505_1688010505626.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17524891",
+                        "comment": "iag鸟巢",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/a95c1de47dd944f78c8fca62755eceea.jpg",
+                        "nickName": "我想吃薯饼",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2440273/488054780_1712888390004.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17515774",
+                        "comment": "邓紫棋演唱会北京站",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/2636aa0384de4b3abf197f9cfab7f705.jpeg",
+                        "nickName": "梵心YoungOG",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/462795/92559115_1693059092251.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17505511",
+                        "comment": "823IAMFOLRIA邓紫棋鸟巢演唱会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/f429afd6f5aa4477a200e211e84ac88d.jpeg",
+                        "nickName": "湘琳雪",
+                        "userPic": "https://perico.damai.cn/userheadphotos/28476/5695337.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17505342",
+                        "comment": "可爱的邓紫棋",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/bbffeb9493d84f2eba8a216a6b3c0dbe.jpeg",
+                        "nickName": "湘琳雪",
+                        "userPic": "https://perico.damai.cn/userheadphotos/28476/5695337.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17483438",
+                        "comment": "邓紫棋北京鸟巢演唱会·金鱼嘴歌姬",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/e71af95907934237a918a0ebeb04f416.jpg",
+                        "nickName": "曼帝92",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/288729/57745986_1694082820131.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17458350",
+                        "comment": "邓紫棋铁粉在此！\n几乎每首都会唱，北京站限定《北京北京》不会唱但也听过。跟着嗨就对了！\n看台242区580元，性价比高，位置正，视角好，运气挺好的呀！氛围很好，都在认真听认真互动。\n解解的唱功和选曲没得说，这个杠杠的！几乎每首歌都有强混高音，唱到最后都不见疲态。\n大屏超级大，山顶的朋友们不用担心看不清解解哦！\n唯一不足是服装换得不勤，走过五十几站，在北京之前都是同一套服装。作为粉丝，我还是希望服装和歌单可以换得更勤一些。只变颜色的服装应该每场都换或者两三场换一次，之后可以返场；希望新服装是样式都不同的那种（霉粉的口味已经被喂刁了，莫怪）",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/60d5620f91e44c8e905164354b34a86c.jpg",
+                        "nickName": "AlinaVF",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1210392/242078414_1689306618017.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17441472",
+                        "comment": "旧事已过，都变成新的！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/2efc0c94c1b74dc6bb3240e834783bb2.jpeg",
+                        "nickName": "最喜欢听音乐.",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2313108/462621632_1701078949097.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17441054",
+                        "comment": "姐姐的声音巨好听呀！好爱啊！！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/e7a1c6f1f2e74f4b861c9c9ce6f34ea6.jpeg",
+                        "nickName": "o  。o",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1015693/203138644_1684986430226.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17318060",
+                        "comment": "追娃儿喜欢的邓紫棋，小小的身体里蕴藏着大大的能量……紧急翻出了小才女所有的歌听了一周。现场很不错，紫棋妆美，歌动人，喜欢🥰",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/20d26700585c4a5291f2a390f5912861.jpg",
+                        "nickName": "Dora",
+                        "userPic": "https://perico.damai.cn/userheadphotos/460703/92140784.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17290244",
+                        "comment": "一句话安利演出亮点",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/add9233aa2754ed8867af2ed6a1f7c70.jpg",
+                        "nickName": "嫕笙",
+                        "userPic": "https://perico.damai.cn/userheadphotos/708168/141633607.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17269068",
+                        "comment": "棋士一起看解解《I AM GLORIA》",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/0f6e8dac3b2b4d1b91df2fa9e1adf05a.jpg",
+                        "nickName": "陈三岁",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/451477/90295542_1705999837837.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17259564",
+                        "comment": "棋子演唱会太棒啦",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/b41f035ca9ee4ae9a2ff00c6c596444f.jpg",
+                        "nickName": "执念无缘",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2422831/484566380_1711176737761.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16947687",
+                        "comment": "解解的七个飞吻",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/210c73237cb54cdc9714cf31d6f54ca6.jpeg",
+                        "nickName": "一碗土味霉粉",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/947245/189449191_1722266941744.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16900822",
+                        "comment": "邓紫棋南宁演唱会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/df0f81891f8648ed8bd3abbb538eff89.jpg",
+                        "nickName": "星星抢票小能手",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1134716/226943355_1723350624595.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    }
+                ]
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购票",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1729828800000",
+                "sellStartTimeStr": "10月25日 12:00",
+                "priceRange": "¥380 - ¥1580",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售，正式开票后将第一时间配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "2976258",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "26699",
+                    "23115",
+                    "23883",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9867",
+                    "2443",
+                    "12171",
+                    "395",
+                    "1163",
+                    "16267",
+                    "14731",
+                    "37259",
+                    "716673",
+                    "9355",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "4",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8387659926/2/838765992625.jpg"
+            }
+        }
+    }
+}
