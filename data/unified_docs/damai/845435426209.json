@@ -1,0 +1,53 @@
+{
+    "platform": "大麦",
+    "project_id": "845435426209",
+    "project_name": "王俪婷Olivia Ong「光影」巡回演唱会-北京站",
+    "category_name": "演唱会",
+    "artists": [
+        "Olivia Ong王俪婷"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.17 周日 19:30",
+    "session_time": [],
+    "price": "288",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "本土王牌LIVE",
+    "venue_info": {
+        "venue_address": "北京市朝阳区平房路北京电影学院文创园内",
+        "lng": 116.545085,
+        "lat": 39.936037
+    },
+    "project_info": "当爱情在生命里呈现不同色彩，仿若光影中依稀的斑驳，明暗交织，甜蜜与苦涩在变化中流动，从影中找到蜕变，在光里遇见重生。2024 Olivia Ong王俪婷「光影」巡回演唱会正式官宣，此前Olivia Ong王俪婷在新加坡、吉隆坡、中国台北、中国香港，开启了「光影」巡回演唱会篇章，四场演出完美收官。这一次她即将带着崭新的「光影」巡演来到中国内地与大家见面，带着个人巡回进军内地，期待Olivia Ong王俪婷用音乐诠释她的“光影”世界。Olivia Ong王俪婷是通过打入日本市场而成名的新加坡歌手，自其首张专辑《A Girl Meets Bossa Nova》问世以来，她凭借着自己独特的Bossa Nova曲风赢得众多乐迷的追捧，由她演唱的《如燕》、《海枯石烂》在很长一段时间成为了大众熟知的经典影视金曲。此次开启全新的「光影」巡演，Olivia Ong王俪婷希望用音乐传递出她的光影人生哲学，与不期而遇的你有一段美好的音乐旅程。\n\n“光影”是浩瀚的星空, 是壮丽的河山, 是汪洋的大海, 是我们完整生命的覆盖。“光”照亮我们，指引我们在人生路上向前迈步，可是没有人总是一帆风顺；荆棘之后，是“影”塑造了现在的我们，让我们变得更加坚韧，拥有了进化和蜕变的能力。光影之间是我们正在进行的人生，全新的旅程即将开启，2024 Olivia Ong王俪婷「光影」巡回演唱会即将在广州、上海、北京、成都与大家见面，更多巡演资讯请密切关注IMC Live Global官方媒体平台。",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN0190wlCK2GdSdxgxhi9_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN018NOGXV2GdSdyJVMG5_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN017FG7r72GdSe2g67yX_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "206",
+        "wantNumStr": "206",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "845435426209",
+            "cityName": "北京站",
+            "showTime": "11.17"
+        },
+        {
+            "itemId": "838329839566",
+            "cityName": "广州站",
+            "showTime": "11.02"
+        },
+        {
+            "itemId": "839236440163",
+            "cityName": "上海站",
+            "showTime": "11.09"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=845435426209"
+}

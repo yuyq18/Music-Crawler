@@ -1,0 +1,52 @@
+{
+    "platform": "大麦",
+    "project_id": "845859571993",
+    "project_name": "2024邵帅「人间四月天」全国巡演冬·季特别专场-天津站",
+    "category_name": "演唱会",
+    "artists": [
+        "邵帅"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.28 周六 20:00",
+    "session_time": [],
+    "price": "180",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "天津",
+    "venue_name": "天津 SoulSense Live",
+    "venue_info": {
+        "venue_address": "天津河西区台儿庄支路海河大观 铂津湾南苑配建17-101",
+        "lng": 117.236715,
+        "lat": 39.101132
+    },
+    "project_info": "\n我们在现场，等你到来~",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01ZS7ppu2GdSe1Fxdg6_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01sYhEML2GdSe0RpiDf_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01O3xUqI2GdSe1RfyeV_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01pheHKQ2GdSe1RjGPK_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01lDtOUV2GdSdzvyD1c_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01yCxkHy2GdSe1RfuUW_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01A6JXEG2GdSdyeU8Rt_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "148",
+        "wantNumStr": "148",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "845839643123",
+            "cityName": "南京站",
+            "showTime": "12.20"
+        },
+        {
+            "itemId": "845859571993",
+            "cityName": "天津站",
+            "showTime": "12.28"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=845859571993"
+}
