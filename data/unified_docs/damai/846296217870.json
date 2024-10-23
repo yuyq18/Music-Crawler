@@ -1,0 +1,53 @@
+{
+    "platform": "大麦",
+    "project_id": "846296217870",
+    "project_name": "廖俊涛「罐装的浪花」2024全国巡演-天津站",
+    "category_name": "演唱会",
+    "artists": [
+        "廖俊涛"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.14 周六 19:00",
+    "session_time": [],
+    "price": "320-520",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "天津",
+    "venue_name": "天津 SoulSense Live",
+    "venue_info": {
+        "venue_address": "天津河西区台儿庄支路海河大观 铂津湾南苑配建17-101",
+        "lng": 117.236715,
+        "lat": 39.101132
+    },
+    "project_info": "注意事项：本场演出为线上取号，请留意主办方公号（掌乐无限）发布相关信息。\n\n\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01UqOUWx2GdSdyz6hSY_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01W8Zir02GdSe04oA0v_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01w4SdBl2GdSciexHHP_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "245",
+        "wantNumStr": "245",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "846296217870",
+            "cityName": "天津站",
+            "showTime": "12.14"
+        },
+        {
+            "itemId": "840531178298",
+            "cityName": "上海站",
+            "showTime": "11.02"
+        },
+        {
+            "itemId": "844349604302",
+            "cityName": "南京站",
+            "showTime": "11.30"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=846296217870"
+}

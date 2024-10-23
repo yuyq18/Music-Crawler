@@ -1,0 +1,205 @@
+{
+    "searchType": "SHOW",
+    "showId": "67177c59869f04000130a2f7",
+    "stdShowId": "67177c5709909a0001040c14",
+    "showName": "【北京】【爱乐汇】早鸟五折|JAZZ·致敬大师【Herbie Hancock】赫比·汉考克——爵士Live现场·汉考克——爵士Live现场",
+    "showDate": "2024.10.25 19:30",
+    "cityName": "北京",
+    "cityId": "1101",
+    "showStatus": "ONSALE",
+    "minOriginalPrice": "280.0",
+    "posterUrl": "https://cdn.ticketmars.com/prod/external/img/20241022/67177c589f7706000199c6e8.jpg",
+    "venueId": "651e766ac6347d00015cf7b6",
+    "venueName": "三里屯·爱乐汇艺术空间-D3现场（Live&Bar）",
+    "backendCategory": "{'code': 19, 'displayName': 'Livehouse', 'name': 'Livehouse'}",
+    "isFree": "False",
+    "firstShowTime": "1729855800000",
+    "lastShowTime": "1729861200000",
+    "minOriginalPriceInfo": "{'yuanNum': '280', 'centNum': '', 'suffix': '', 'prefix': '￥'}",
+    "latestShowTime": "1729855800000",
+    "showSessionDates": "['20241025']",
+    "soldOut": "False",
+    "sessionNum": "1",
+    "seatPlanNum": "1",
+    "rsCode": 200,
+    "basicInfo": {
+        "hotMode": true,
+        "stdShowId": "67177c5709909a0001040c14",
+        "bizShowId": "67177c59869f04000130a2f7",
+        "showName": "【北京】【爱乐汇】早鸟五折|JAZZ·致敬大师【Herbie Hancock】赫比·汉考克——爵士Live现场·汉考克——爵士Live现场",
+        "sourceType": "EXTERNAL_DISTRIBUTION",
+        "originalSeatPickType": "SUPPORT_NONE",
+        "contentUrl": "https://cdn.ticketmars.com/prod/showContent/67177c59869f04000130a2f7/content_6718a412980a2a00010ca8e4.content",
+        "posterUrl": "https://cdn.ticketmars.com/prod/external/img/20241022/67177c589f7706000199c6e8.jpg",
+        "venueId": "651e766ac6347d00015cf7b6",
+        "venueName": "三里屯·爱乐汇艺术空间-D3现场（Live&Bar）",
+        "venueAddress": "三里屯SOHO下沉广场最南端,6号商场B1层",
+        "venueLat": 39.931391,
+        "venueLng": 116.453525,
+        "cityId": "1101",
+        "cityName": "北京市",
+        "onSaleShowCount": 9,
+        "showTags": [],
+        "authorizationUrl": "",
+        "minOriginalPriceInfo": {
+            "yuanNum": "280",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "maxOriginalPriceInfo": {
+            "yuanNum": "280",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "showDate": "2024年10月25日 19:30",
+        "showDuration": "最少90分钟",
+        "displayAdvance": false,
+        "venueDisplayAdvance": false,
+        "sessionDisplayAdvance": false,
+        "seatPlanDisplayAdvance": false,
+        "showType": {
+            "name": "Livehouse"
+        },
+        "showDetailStatus": "ON_SALE",
+        "existsPrivilegePurchase": false,
+        "displayCountdownTime": true,
+        "captchaTypes": []
+    },
+    "additionalInfo": {
+        "hasCoupon": true,
+        "hasPromo": false,
+        "hasAddPurchase": false,
+        "hasUserPromo": false,
+        "hasPCard": false,
+        "hasPriority": false,
+        "hasChannelDiscount": true,
+        "checkChannelFreeCombo": false,
+        "channelPickSeatProject": false,
+        "hasTyingSale": false,
+        "hasJumpGuid": false
+    },
+    "descInfo": {
+        "observationInstructions": [
+            {
+                "key": "TICKETS_AND_ADMISSION",
+                "name": "票品及入场",
+                "value": "\n现场取票：现场凭电子取票凭证至现场换取纸质票",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "ENTRY_TIME",
+                "name": "入场时间",
+                "value": "请于开始前约30分钟入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "SHOW_DURATION",
+                "name": "演出时长",
+                "value": "最少90分钟",
+                "seq": 3
+            },
+            {
+                "key": "MAIN_ACTOR",
+                "name": "主要演员(团体)",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "LUGGAGE_DEPOSIT",
+                "name": "物品寄存",
+                "value": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "RESTRICTED_ITEM",
+                "name": "禁止携带物品",
+                "value": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "seq": 6
+            }
+        ],
+        "ticketInstructions": [
+            {
+                "key": "CHILDREN_INTRODUCTION",
+                "name": "儿童购票",
+                "value": "儿童一律凭票入场",
+                "seq": 0
+            },
+            {
+                "key": "REAL_NAME_PURCHASE_TICKET_INTRODUCTION",
+                "name": "实名购票规则",
+                "value": "无证件要求",
+                "isMarked": false,
+                "tagContent": "非实名购票",
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "EXCEPTION_ORDER_INTRODUCTION",
+                "name": "异常排单说明",
+                "value": "对于异常订购行为，商家有权在订单成立或者生效之后取消相应订单。 异常订购行为包括但不限于以下情形： （1）通过同一ID订购超出限购张数的订单。 （2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "LIMITATION",
+                "name": "限购规则",
+                "value": "每个场次限购6张/套，项目限购20张/套",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "EXCHANGE_POLICY",
+                "name": "退换政策",
+                "value": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "INVOICE_INTRODUCTION",
+                "name": "发票说明",
+                "value": "纸质发票\n发票开具方：主办方\n该项目可申请开具纸质发票。该发票由第三方主办提供。订单交易完成后6日将关闭申请。纸质发票需自付邮费。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            }
+        ],
+        "markedTextList": []
+    },
+    "noteInfos": [
+        {
+            "name": "不支持七天无理由退换",
+            "value": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+            "type": false,
+            "code": "NO_SUPPORT_REFUND"
+        },
+        {
+            "name": "现场换票",
+            "value": "需要在指定的换票地点换票，下单后可通过票舱中的二维码换取纸质票（具体以下单后票舱信息为准）",
+            "type": true,
+            "code": "VENUE"
+        },
+        {
+            "name": "发票说明",
+            "value": "纸质发票\n发票开具方：主办方\n该项目可申请开具纸质发票。该发票由第三方主办提供。订单交易完成后6日将关闭申请。纸质发票需自付邮费。",
+            "type": false,
+            "code": "BILL_APPLY",
+            "desc": "发票"
+        }
+    ],
+    "announcement": [],
+    "whiteTags": [],
+    "watcherReplacer": "观演"
+}
