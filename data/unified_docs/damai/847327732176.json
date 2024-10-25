@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "847327732176",
+    "project_name": "11月23日 西安 黑屋乐队「婆娑大梦」巡演",
+    "category_name": "演唱会",
+    "artists": [
+        "黑屋乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.23 周六 20:00",
+    "session_time": [],
+    "price": "100-150",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "西安",
+    "venue_name": "星球工厂LIVEHOUSE",
+    "venue_info": {
+        "venue_address": "陕西省西安市雁塔区西影路466号量子晨产业园5号楼",
+        "lng": 108.977137,
+        "lat": 34.222308
+    },
+    "project_info": "黑屋乐队「婆娑大梦」巡演大梦一场，惊醒的时候，你有没有那么一刻，分不清美梦与现实？选择继续活在梦里，又或者活在残酷的现实中。谁又能断言，哪里才是你我真正的归宿。2024，我们现场不见不散。\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01RAtsWg2GdSe1K3ZqO_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01gSfRgq2GdSe3vrQlw_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "38",
+        "wantNumStr": "38",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "847327732176",
+            "cityName": "西安站",
+            "showTime": "11.23"
+        },
+        {
+            "itemId": "846939457825",
+            "cityName": "郑州站",
+            "showTime": "12.01"
+        },
+        {
+            "itemId": "837458039573",
+            "cityName": "沈阳站",
+            "showTime": "11.01"
+        },
+        {
+            "itemId": "842856699546",
+            "cityName": "上海站",
+            "showTime": "11.08"
+        },
+        {
+            "itemId": "838210881547",
+            "cityName": "杭州站",
+            "showTime": "11.09"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=847327732176"
+}

@@ -1,0 +1,453 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_847205697946",
+    "imgurl": "-117877613",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "葡萄牙法朵天后玛瑞莎演唱会",
+    "nameNoHtml": "葡萄牙法朵天后玛瑞莎演唱会",
+    "price": "96.0",
+    "price_str": "96-384",
+    "pricehigh": "384.0",
+    "privilegeTags": "[]",
+    "projectid": "847205697946",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.11.08 周五 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "东方艺术中心-音乐厅",
+    "venuecity": "上海",
+    "venueid": "56854",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01dsRAED2GdSe1i4DCc_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "847205697946",
+                    "itemName": "【上海】葡萄牙法朵天后玛瑞莎演唱会",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01dsRAED2GdSe1i4DCc_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01dsRAED2GdSe1i4DCc_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.11.08 周五 19:30",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：上海东方艺术中心管理有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：上海东方艺术中心管理有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><div style=\"text-align: left;\"><strong>葡萄牙法朵天后玛瑞莎演唱会</strong></div>\n<div style=\"text-align: left;\"><strong>MARIZA IN CONCERT</strong></div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\">2024/11/8 (周五 Fri)&nbsp; &nbsp; 19:30</div>\n<div style=\"text-align: left;\">上海东方艺术中心·音乐厅 SHOAC Concert Hall&nbsp;</div>\n<div style=\"text-align: left;\">票价Tickets (RMB): 480/380/280/180/120元</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\">主唱｜玛瑞莎</div>\n<div style=\"text-align: left;\">葡萄牙吉他｜路易斯·格雷罗</div>\n<div style=\"text-align: left;\">古典吉他｜费利佩·费雷拉</div>\n<div style=\"text-align: left;\">贝斯｜阿德里亚诺·阿尔维斯</div>\n<div style=\"text-align: left;\">鼓手/打击乐｜乔昂·弗雷塔斯</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\"><strong>音乐会曲目 PROGRAM</strong></div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\">思念之吻&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ∣Beijo da Saudade&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>\n<div style=\"text-align: left;\">我多么希望&nbsp; &nbsp; &nbsp; &nbsp; ∣Quem Me Dera&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>\n<div style=\"text-align: left;\">春天&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ∣Primavera&nbsp; &nbsp;&nbsp;</div>\n<div style=\"text-align: left;\">最好的我&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ∣Melhor de Mim&nbsp;&nbsp;</div>\n<div style=\"text-align: left;\">青柠的绿意&nbsp; &nbsp; &nbsp; &nbsp; ∣Verde Limão&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>\n<div style=\"text-align: left;\">听着 葡萄酒先生&nbsp; &nbsp;∣ Sr. Vinho or Oiça lá ó senhor vinho&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>\n<div style=\"text-align: left;\">白玫瑰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ∣Rosa Branca&nbsp; &nbsp;&nbsp;</div>\n<div style=\"text-align: left;\">暗夜之舟&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ∣Barco Negro&nbsp; &nbsp;</div>\n<div style=\"text-align: left;\">哦 我故乡的人们&nbsp; &nbsp;∣Ó Gente da Minha Terra&nbsp; &nbsp;&nbsp;</div>\n<div style=\"text-align: left;\">奇异的生活方式&nbsp; &nbsp; ∣Estranha Forma de Vida&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>\n<div style=\"text-align: left;\">有些话语如吻轻柔&nbsp; ∣Há Palavras Que Nos Beijam</div>\n<div style=\"text-align: left;\">泪&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ∣Lágrima</div>\n<div style=\"text-align: left;\">纸康乃馨&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ∣Cravos de Papel</div>\n<div style=\"text-align: left;\">雨&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ∣Chuva</div>\n<div style=\"text-align: left;\">虚无的愿望&nbsp; &nbsp; &nbsp; &nbsp; ∣Desejos Vãos</div>\n<div style=\"text-align: left;\">你将去往何处&nbsp; &nbsp; &nbsp; ∣Onde Vais</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\">&nbsp;*曲目以现场为准 Program is subject to change</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\"><strong>玛瑞莎</strong></div>\n<div style=\"text-align: left;\"><strong>Mariza&nbsp;&nbsp;</strong></div>\n<div style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01e2n84V2GdSe4QaZGz_!!2251059038.jpg\" width=\"1280\" height=\"769\" damai_width=\"1280\" damai_height=\"769\"></div>\n<div style=\"text-align: left;\">玛瑞莎出生于莫桑比克，但从小就在里斯本最具代表性和最传统的街区之一莫拉里亚长大，她从小就受到无处不在的音乐文化——法朵的影响。受到众多大牌明星和标志性声音的启发，她迅速崭露头角，成为广受关注的音乐人物，并让她的名字传遍世界各地。作为葡萄牙人民精神状态的继承者，玛瑞莎将世界变成了她的舞台，赢得了观众的喜爱，她所获得的公众认可使她获得了超过 30 张白金专辑以及众多国内和国际奖项。</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\">玛瑞莎不仅仅是一个名字，她代表着一段情感的记忆，是葡萄牙真正的文化大使。这个国家为她深感自豪，将她视为其中的一部分，并在每一个音符、每一首歌和每一场音乐会上，为她喝彩，过去如此，未来也会如此。</div>\n<div style=\"text-align: left;\">近年来，玛瑞莎的国际化发展开辟了全新的音乐视野，使她成为世界上最全面、最受尊敬的艺术家之一。</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\">当代法朵天后玛瑞莎是法朵音乐最重要的代表歌手之一。她先后登上了法兰克福歌剧院、伦敦皇家节日音乐厅、悉尼歌剧院、纽约卡内基音乐厅等世界重要的音乐舞台，并多次获得格莱美奖提名。在她的音乐中，人们可以觅得拉丁、弗拉明戈等多种音乐风格，而她歌声中的丰富养料也是她能在法朵歌手中脱颖而出的原因，让传统的葡萄牙法朵民谣演唱走向世界舞台。</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\">法朵是葡萄牙的著名传统民谣，2011年11月被联合国教科文组织列入人类非物质文化遗产名录。德累斯顿音乐节总监Jan Vogler评价道：“Mariza是葡萄牙传统民谣法朵的当代代言人，作为一名优秀的艺术家，她通过自己的表演让更多的人接触并了解法朵丰富的传统内涵。”</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\">法朵一词，在葡萄牙语中意为“命运”或“宿命”，是一种以声乐为主体的音乐艺术，最早出现在里斯本，流传于出海的水手间，至今已有近200年的历史。法朵之于葡萄牙，犹如弗拉明戈之于西班牙，它逐渐发展成为葡萄牙的文化标志，亦被寓为“葡萄牙的灵魂之声”。演唱法朵的歌手以女性居多，其中最著名的当属上世纪的“法朵皇后”阿玛利亚·罗德里格斯，她曾被誉为“葡萄牙之声”，对法朵最终成为联合国教科文组织钦定的人类非物质文化遗产起到了巨大作用。而当代最耀眼的法朵之星玛瑞莎便是这位“法朵皇后”的接班人。玛瑞莎拥有出众的外表和优美的声线，被英国广播公司誉为“最佳世界音乐歌手”。她的演出风格不仅承载了法朵的传统，还为这个古老的表演形式注入了许多新概念。在情感表达流畅而丰富的同时，又极具个人色彩。玛瑞莎的专辑在葡萄牙国内外都十分畅销，即便是不懂葡萄牙语的听众，也会为她的演绎而倾倒。</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\">Born in Mozambique, but raised since she was a girl in one of the most emblematic and traditional neighbourhoods of Lisbon, Mouraria, Mariza was influenced from a very early age by the musical culture that inhabits every corner: Fado.</div>\n<div style=\"text-align: left;\">Inspired by the big names and the voices of unavoidable reference, it quickly became a local phenomenon and made her name echo across borders.</div>\n<div style=\"text-align: left;\">Heiress to the state of mind of the Portuguese people, Mariza rose to world heritage status, made the world her stage and seduced the most demanding audiences.</div>\n<div style=\"text-align: left;\">Public recognition translates into over 30 platinum albums and the numerous national and international awards she has already collected.</div>\n<div style=\"text-align: left;\">Mariza transcends her own name, she is a latent memory of emotions, she is an ambassador in her own right of a country that continues to admire her, that proudly assumes her as part of us and that continues and will always continue to applaud every note, every song and every concert.</div>\n<div style=\"text-align: left;\">In recent years, Mariza’s internationalization has opened up new musical horizons, transforming her into one of the most complete and respected artists in the world.</div>\n<div style=\"text-align: left;\">In 2023, Mariza presents her new record work, the celebration of a career spanning more than two decades, winking at her future.</div>\n<div style=\"text-align: left;\">The word \"Fado\" in Portuguese means \"fate\" or \"destiny.\" It is a vocal-centric musical art form that first appeared in Lisbon and was popular among sailors at sea. Fado has a history of nearly 200 years. To Portugal, Fado is akin to Flamenco in Spain, gradually becoming a cultural symbol and often referred to as \"the voice of Portugal’s soul.\" Most Fado singers are female, and the most famous among them was the 20th-century \"Queen of Fado,\" Amália Rodrigues. Known as \"The Voice of Portugal,\" she played a significant role in Fado's recognition as an Intangible Cultural Heritage of Humanity by UNESCO. The brightest contemporary Fado star is Mariza, often regarded as the successor to the \"Queen of Fado.\" Mariza, with her striking appearance and beautiful voice, has been hailed by the BBC as the \"Best World Music Artist.\" Her performance style not only preserves Fado's traditions but also injects new concepts into this ancient art form. Her emotional expression is fluid, rich, and deeply personal. Mariza's albums are highly successful both in Portugal and internationally. Even those who do not understand Portuguese are captivated by her performances.</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\"><strong>媒体评论</strong></div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\"><strong>滚石</strong></div>\n<div style=\"text-align: left;\">“法朵是葡萄牙的传统音乐——自豪、庄严且深具忧郁之感。玛瑞莎成为这类音乐最耀眼的明星是有原因的：她演唱的法朵并非陈旧的怀旧风格，而是充满了21世纪流行音乐的活力，用她低沉而迷人的女中音演绎出让人着迷的旋律，这种声音和当今任何流行歌手一样具有震撼力……她将法朵古老的悲伤情感重塑为一种宏伟的现代音效。”</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\"><strong>ROLLING STONE</strong></div>\n<div style=\"text-align: left;\">“Fado is the traditional music of Portugal — proud, austere and deeply melancholic. Mariza is the music’s biggest star for a reason: She sings it not as musty nostalgia but as exuberant 21st-century pop, with a low, mesmerizing alto that’s as commanding as any pop singer today … remaking Fado’s ancient sadness into a majestic modern sound.”</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\"><strong>电讯报</strong></div>\n<div style=\"text-align: left;\"><strong>阿尔娃·海德尔</strong></div>\n<div style=\"text-align: left;\">“这位世界级的葡萄牙法朵歌手以充满情感的、令人着迷的演出突破了语言的障碍，在皇家阿尔伯特音乐厅震撼了观众。”</div>\n<div style=\"text-align: left;\">“玛瑞莎的法朵是一种肯定生命的力量。”</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\"><strong>THE TELEGRAPH</strong></div>\n<div style=\"text-align: left;\"><strong>ARWA HAIDER</strong></div>\n<div style=\"text-align: left;\">\"Mariza is a dazzling, captivating force to behold.\"</div>\n<div style=\"text-align: left;\">\"The world-class Portuguese fado singer transcended language barriers with her emotive, spell-binding performance at the Royal Albert Hall.\"</div>\n<div style=\"text-align: left;\">\"Mariza's fado was a life-affirming force.\"</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\"><strong>泰晤士报</strong></div>\n<div style=\"text-align: left;\">“如果法朵是忧郁的代名词，玛瑞莎则提醒我们，这种音乐中同样充满了欢乐与感官的魅力。”</div>\n<div style=\"text-align: left;\">The Times</div>\n<div style=\"text-align: left;\">“If fado is synonymous with melancholia, she reminds us how much joy and sensuality reside in the music as well.”</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\"><strong>观察家报</strong></div>\n<div style=\"text-align: left;\">“世界级的歌后中，没有人比玛瑞莎更具高雅风范。她那充满魅力的舞台存在感和令人惊艳的嗓音，使她和法朵音乐成为了国际音乐界的力量。”</div>\n<div style=\"text-align: left;\">The Observer</div>\n<div style=\"text-align: left;\">“World divas come no classier than Mariza, whose charismatic presence and stunning voice have turned her and fado into an international force.”</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\"><strong>Songlines 杂志</strong></div>\n<div style=\"text-align: left;\">“玛瑞莎的嗓音比以往更加成熟、富有表现力且诱人——其效果仿佛将琼·拜亚兹的纯净与艾迪特·皮雅芙的情感厚度相结合。这是最具灵魂震撼力的表演。”</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\"><strong>Songlines</strong></div>\n<div style=\"text-align: left;\">“Mariza’s voice has ripened into a more expressive and seductive instrument than ever – the effect is like crossing the purity of Joan Baez with the emotional heft of Edith Piaf. This is soul-bearing at its most thrilling.”</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\"><strong>唱片集&nbsp;</strong></div>\n<div style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01r4mCef2GdSe5TaJVc_!!2251059038.jpg\" width=\"874\" height=\"854\" damai_width=\"874\" damai_height=\"854\"></div>\n<div style=\"text-align: left;\">Fado Em Mim 2002 &nbsp; &nbsp; &nbsp; &nbsp;</div>\n<div style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01cYtrxz2GdSe5TcGDA_!!2251059038.jpg\" width=\"1090\" height=\"1101\" damai_width=\"1090\" damai_height=\"1101\"></div>\n<div style=\"text-align: left;\">Fado Curvo 2003</div>\n<div style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01NttrsA2GdSe6D3ZBF_!!2251059038.jpg\" width=\"1089\" height=\"1073\" damai_width=\"1089\" damai_height=\"1073\"></div>\n<div style=\"text-align: left;\">Transparente&nbsp; 2005&nbsp; &nbsp; &nbsp;</div>\n<div style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01CoxBwk2GdSe4VzECc_!!2251059038.jpg\" width=\"905\" height=\"913\" damai_width=\"905\" damai_height=\"913\"></div>\n<div style=\"text-align: left;\">Terra 2008</div>\n<div style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01mPOEf42GdSe6NrV9Z_!!2251059038.jpg\" width=\"1098\" height=\"1070\" damai_width=\"1098\" damai_height=\"1070\"></div>\n<div style=\"text-align: left;\">Fado Tradicional 2010&nbsp; &nbsp; &nbsp;</div>\n<div style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01BzQvgI2GdSe6sFIPL_!!2251059038.jpg\" width=\"1097\" height=\"1082\" damai_width=\"1097\" damai_height=\"1082\"></div>\n<div style=\"text-align: left;\">Mundo&nbsp; &nbsp;2015</div>\n<div style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01tto0O72GdSe6NsdyT_!!2251059038.jpg\" width=\"1083\" height=\"1089\" damai_width=\"1083\" damai_height=\"1089\"></div>\n<div style=\"text-align: left;\">Mariza 2018&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>\n<div style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01JGXXnD2GdSe3zy7Ws_!!2251059038.jpg\" width=\"1090\" height=\"1095\" damai_width=\"1090\" damai_height=\"1095\"></div>\n<div style=\"text-align: left;\">Mariza Canta Amália 2020</div>\n<div style=\"text-align: left;\">&nbsp;</div>\n<div style=\"text-align: left;\">1. Fado em Mim (2002)</div>\n<div style=\"text-align: left;\">这是 Mariza 的首张专辑，让她一举成名，展示了她对传统法朵的现代诠释。</div>\n<div style=\"text-align: left;\">2. Fado Curvo (2003)</div>\n<div style=\"text-align: left;\">这张专辑巩固了她作为法朵界新星的地位，充满了强烈的情感表达和音乐创新。</div>\n<div style=\"text-align: left;\">3. Transparente (2005)</div>\n<div style=\"text-align: left;\">在这张专辑中，Mariza 继续探索法朵的不同层次，融合了更多的个人情感和世界音乐元素。</div>\n<div style=\"text-align: left;\">4. Terra (2008)</div>\n<div style=\"text-align: left;\">这张专辑让她获得了国际赞誉，展示了她对法朵音乐的全球化视野，融合了不同文化的音乐元素。</div>\n<div style=\"text-align: left;\">5. Fado Tradicional (2010)</div>\n<div style=\"text-align: left;\">回归法朵传统，这张专辑更加忠实于法朵的经典风格，展现了她对这种音乐形式的热爱和尊重。</div>\n<div style=\"text-align: left;\">6. Mundo (2015)</div>\n<div style=\"text-align: left;\">这是一张全球视野的专辑，展示了 Mariza 音乐中的多元文化影响，并赢得了多个奖项。</div>\n<div style=\"text-align: left;\">7. Mariza (2018)</div>\n<div style=\"text-align: left;\">这张同名专辑更为个人化，展示了她多年来在音乐和生活中的成长与蜕变。</div>\n<div style=\"text-align: left;\">8. Mariza Canta Amália (2020)</div>\n<div style=\"text-align: left;\">这张专辑向法朵女王阿玛莉亚·罗德里格斯（Amália Rodrigues）致敬，重现了经典法朵曲目。</div>\n<div style=\"text-align: left;\">&nbsp;</div></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "上海东方艺术中心管理有限公司",
+                            "socialCreditCode": "913100007608655840",
+                            "legalPerson": "郭文鹏",
+                            "regCapStr": "1500万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "其他有限责任公司",
+                            "entAddress": "中国(上海)自由贸易试验区丁香路425号"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "需兑换成纸质票验票入场，须打开【票夹】的二维码前往取票点换取，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1米以下儿童谢绝入场，1米以上儿童凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "15"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "100"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "56854",
+                    "venueName": "东方艺术中心-音乐厅",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.541428,
+                    "lat": 31.222765,
+                    "venueAddr": "上海市浦东区丁香路425号",
+                    "showCountText": "共有44个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D847205697946%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购票",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1729841760000",
+                "sellStartTimeStr": "10月25日 15:36",
+                "priceRange": "¥96 - ¥384",
+                "performBases": [
+                    {
+                        "name": "11.08 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1730995200000",
+                        "performs": [
+                            {
+                                "performId": "216951024",
+                                "performName": "2024-11-08  周五 19:30",
+                                "itemId": "847205697946",
+                                "projectId": "222547003",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1731065400000",
+                                "performTime": "2024.11.08 19:30",
+                                "performStartDate": "2024-11-08",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "单人票可省96元"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "单人票",
+                        "content": "特惠价96元（原价120元），可省24元\n特惠价144元（原价180元），可省36元\n特惠价224元（原价280元），可省56元\n特惠价304元（原价380元），可省76元\n特惠价384元（原价480元），可省96元"
+                    }
+                ],
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "26699",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9867",
+                    "2443",
+                    "12171",
+                    "395",
+                    "1163",
+                    "16267",
+                    "14731",
+                    "37259",
+                    "716673",
+                    "9355",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8472056979/2/847205697946.jpg"
+            }
+        }
+    }
+}
