@@ -1,0 +1,67 @@
+{
+    "platform": "大麦",
+    "project_id": "847040003253",
+    "project_name": "赫兹乐队“和解”2024巡演哈尔滨站",
+    "category_name": "演唱会",
+    "artists": [
+        "赫兹乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.07 周六 19:30",
+    "session_time": [],
+    "price": "99-138",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "哈尔滨",
+    "venue_name": "SUBLIVE",
+    "venue_info": {
+        "venue_address": "黑龙江省哈尔滨市道里区机场路8号",
+        "lng": 126.555235,
+        "lat": 45.706465
+    },
+    "project_info": " \n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01szMA9M2GdSe6QHXV3_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Q0RQeR2GdSe45JFmC_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "838747682082",
+            "cityName": "郑州站",
+            "showTime": "11.17"
+        },
+        {
+            "itemId": "844115382518",
+            "cityName": "长春站",
+            "showTime": "12.06"
+        },
+        {
+            "itemId": "847040003253",
+            "cityName": "哈尔滨站",
+            "showTime": "12.07"
+        },
+        {
+            "itemId": "847439769006",
+            "cityName": "沈阳站",
+            "showTime": "12.08"
+        },
+        {
+            "itemId": "844020787512",
+            "cityName": "青岛站",
+            "showTime": "12.20"
+        },
+        {
+            "itemId": "844585684341",
+            "cityName": "武汉站",
+            "showTime": "12.28"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=847040003253"
+}
