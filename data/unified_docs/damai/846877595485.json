@@ -1,0 +1,70 @@
+{
+    "platform": "大麦",
+    "project_id": "846877595485",
+    "project_name": "Charlie Puth Presents “Something New” 成都站",
+    "category_name": "演唱会",
+    "artists": [
+        "Charlie Puth"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.25 周一 19:30",
+    "session_time": [],
+    "price": "480-1880",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "成都",
+    "venue_name": "成都东安湖体育公园多功能体育馆",
+    "venue_info": {
+        "venue_address": "四川省成都市龙泉驿区体育公园路22号",
+        "lng": 104.241368,
+        "lat": 30.596496
+    },
+    "project_info": " \n\n\n四次荣获格莱美奖提名的国际金曲创作人Charlie Puth将携全新巡演Charlie Puth Presents “Something New”重返大陆！\n\n \nCharlie Puth Presents “Something New”\n成都站\n\nCharlie Puth\n \n格莱美提名、多白金唱片歌手、词曲创作人和制作人Charlie Puth，已成为音乐行业中最具实力的金曲制作者和跨多个流派备受追捧的合作伙伴之一。迄今为止，他的音乐积累了超过350亿次流媒体播放，拥有九首多白金单曲（包括Attention、We Don’t Talk Anymore、See You Again等）。他曾获得四次格莱美提名，三项公告牌音乐奖，一项评论家选择奖和一项金球奖提名。\n \n目前，Charlie Puth正在创作备受期待的第四张录音室专辑，作为2022年大热专辑CHARLIE的后续作品，该专辑包含了白金认证的热门单曲Light Switch和与BTS的Jung Kook合作的Left and Right。与此同时，他与The Kid Laroi和Justin Bieber共同创作和制作的单曲Stay，在公告牌全球200强榜单上连续11周占据第1位。而他与Gabby Barrett合作的I Hope (Remix)也为他带来了第4首在公告牌百强单曲榜上跻身前十的单曲。",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01es05Um2GdSe7nJcKT_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN0143i08f2GdSeBK6aPR_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01noflWZ2GdSe7vaU0C_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01g8PE8X2GdSe4soPz9_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01p9Mftt2GdSe2pYV1y_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "17835",
+        "wantNumStr": "1.8万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过70%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "845842875789",
+            "cityName": "北京站",
+            "showTime": "11.23"
+        },
+        {
+            "itemId": "846877595485",
+            "cityName": "成都站",
+            "showTime": "11.25"
+        },
+        {
+            "itemId": "846310826718",
+            "cityName": "广州站",
+            "showTime": "11.28-11.29"
+        },
+        {
+            "itemId": "840364654189",
+            "cityName": "海口站",
+            "showTime": "11.21"
+        },
+        {
+            "itemId": "843750643220",
+            "cityName": "上海站",
+            "showTime": "12.01-12.02"
+        },
+        {
+            "itemId": "835535152816",
+            "cityName": "中国澳门站",
+            "showTime": "12.14"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=846877595485"
+}

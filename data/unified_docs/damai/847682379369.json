@@ -1,0 +1,72 @@
+{
+    "platform": "大麦",
+    "project_id": "847682379369",
+    "project_name": "赫兹乐队“和解”2024巡演北京站",
+    "category_name": "演唱会",
+    "artists": [
+        "赫兹乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.16 周六 20:30",
+    "session_time": [],
+    "price": "99-198",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "MAO Livehouse北京",
+    "venue_info": {
+        "venue_address": "北京海淀区复兴路69号院2号136-G23Mao livehouse",
+        "lng": 116.277185,
+        "lat": 39.910269
+    },
+    "project_info": " 赫兹乐队“和解”2024巡演北京站\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01GKrwJO2GdSeAKgv58_!!2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01dJ4jeh2GdSe1GtwRq_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "847682379369",
+            "cityName": "北京站",
+            "showTime": "11.16"
+        },
+        {
+            "itemId": "838747682082",
+            "cityName": "郑州站",
+            "showTime": "11.17"
+        },
+        {
+            "itemId": "844115382518",
+            "cityName": "长春站",
+            "showTime": "12.06"
+        },
+        {
+            "itemId": "847040003253",
+            "cityName": "哈尔滨站",
+            "showTime": "12.07"
+        },
+        {
+            "itemId": "847439769006",
+            "cityName": "沈阳站",
+            "showTime": "12.08"
+        },
+        {
+            "itemId": "844020787512",
+            "cityName": "青岛站",
+            "showTime": "12.20"
+        },
+        {
+            "itemId": "844585684341",
+            "cityName": "武汉站",
+            "showTime": "12.28"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=847682379369"
+}
