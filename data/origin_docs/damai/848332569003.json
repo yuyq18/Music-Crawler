@@ -1,0 +1,318 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：小阿枫",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1038",
+    "cityname": "南京",
+    "couponTags": "[]",
+    "description": "艺人：小阿枫",
+    "id": "1_1_848332569003",
+    "imgurl": "-106608902",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "楓——小阿枫个人巡演南京专场",
+    "nameNoHtml": "楓——小阿枫个人巡演南京专场",
+    "price": {
+        "range": "299-499"
+    },
+    "price_str": "299-499",
+    "pricehigh": "499.0",
+    "privilegeTags": "[]",
+    "projectid": "848332569003",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.11.23 周六 19:30",
+    "sitestatus": "16",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": {
+        "lat": 31.979592,
+        "lng": 118.73722,
+        "region": "1",
+        "showCountText": "2个演出",
+        "venueAddr": "西城路277号稻香演艺中心",
+        "venueCityName": "南京市",
+        "venueId": "6762040",
+        "venueName": "稻香演艺中心",
+        "venueProvinceName": "江苏省"
+    },
+    "venuecity": "南京",
+    "venueid": "6762040",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01wR19FU2GdSeBLRDjT_!!2251059038.png",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "buyButton": {
+        "afterCountdown": {
+            "origin": "1",
+            "status": "204",
+            "text": "立即购票"
+        },
+        "origin": "2",
+        "status": "106",
+        "text": "预约抢票",
+        "tip": "提前选票档 抢票更丝滑"
+    },
+    "countdown": {
+        "countdown": "333824",
+        "rcdt": "333823037",
+        "sellStartTime": "1730559600000",
+        "sellStartTimeStr": "11月02日 23:00"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p>各票价粉丝权益：</p>\n<p>VIP票（前区）：亲签合影礼品+首场专场限定礼包<br>全价票（后区）：首场专场限定礼包<br>早鸟票（后区）：首场专场限定礼包</p>\n<hr>\n<p style=\"text-align: center;\">小阿枫【楓】南京专场即将开始</p>\n<p>在时光的长河中，音乐如璀璨星辰，照亮了无数个梦想的夜空，如同一场绚烂的梦，在现实中徐徐绽放。</p>\n<p>歌手小阿枫人生首场演唱会即将在南京开启，一段崭新的人生挑战从此刻开始。</p>\n<p>在合适的时间合适的地点，开始新的路程转折，开始梦想的新起点。</p>\n<p>&nbsp;</p>\n<p>小阿枫带着对音乐的执着与热爱，站在这个舞台上，用他的歌声诉说着过往的故事，唱响未来的憧憬。</p>\n<p>&nbsp;</p>\n<p>如枫叶般火红的热情，将在这个舞台上燃烧，每个跳跃的音符都是心灵的呼唤，每句歌词都是人生的感悟，飘落心间，泛起涟漪。</p>\n<p>11月我们一同走进小阿枫的音乐世界，在这场音乐会中，感受他的成长与蜕变，书写崭新的篇章。</p>\n<p>11月23日 19：30 南京稻香演艺中心</p>\n<p>阿枫之音，绕梁之韵</p>\n<p>期待相遇~</p>\n<p>&nbsp;</p>\n<p>歌手小阿枫，内地男歌手</p>\n<p>代表作：《醉倾城》《问星海》《今夜》《山海而来》等</p>\n<p>短视频平台坐拥千万粉丝</p>\n<p>音乐作品在各大音乐平台数据斐然，播放量屡创新高，收获无数好评。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01L2Ml3H2GdSeASAk0B_!!2251059038.jpg\" width=\"6720\" height=\"4480\" damai_width=\"6720\" damai_height=\"4480\"></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p></body></html>",
+        "introduceTitle": "活动介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "中国内地流行男歌手、创作人，代表作《醉倾城》《问星海》《今夜》《山海而来》。",
+                "fansCount": "991",
+                "fansCountDesc": "粉丝",
+                "fansCountStr": "991",
+                "id": "1211854091",
+                "name": "小阿枫",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1729043297046/1729043297046-main.jpg",
+                "sellCount": "1场",
+                "sellCountDesc": "在售演出",
+                "tag": "歌手"
+            }
+        ],
+        "guideCat": "Livehouse",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i4/O1CN01NhsMhM1EE927ZzCv9_!!6000000000319-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/2628763/525752650_1729178207589.jpg",
+                "https://img.alicdn.com/imgextra/i4/O1CN01ZtJoYQ1p4CDLYGtuD_!!6000000005306-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/2629193/525838730_1729247058853.jpg",
+                "https://img.alicdn.com/imgextra/i2/O1CN01uigUa01oEtr6yYcvP_!!6000000005194-0-tps-500-500.jpg"
+            ],
+            "wantNum": "277",
+            "wantNumStr": "277",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wPOZN01jRf2eaC3Jz_!!6000000004545-2-tps-1125-702.png",
+        "categoryId": "123606001",
+        "cityName": "南京市",
+        "generalAgent": {
+            "generalAgent": "true",
+            "generalType": "1"
+        },
+        "itemId": "848332569003",
+        "itemName": "【南京】楓——小阿枫个人巡演南京专场",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01wR19FU2GdSeBLRDjT_!!2251059038.png"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "320100",
+        "performSeatImages": [],
+        "projectId": "222587004",
+        "projectStatus": "1",
+        "purchaseLimitation": "1",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "4",
+                "5",
+                "6"
+            ],
+            "type": "2"
+        },
+        "showDuration": "演出预计120分钟，具体以实际现场为准",
+        "showTime": "2024.11.23 周六 19:30",
+        "subTitle": "",
+        "tcCategoryId": "0301020100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "216993026",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=848332569003",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须打开【票夹】扫码入场，截图无效。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一个订单对应一个证件；证件支持：港澳居民来往内地通行证/台湾居民来往大陆通行证/护照/身份证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "演出预计120分钟，具体以实际现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "VIP票提前两小时进场（预计17：30入场），全价票提前一小时进场（预计18：30）",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过票夹中的二维码验票入场",
+                "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：北京川合音乐文化有限责任公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：北京川合音乐文化有限责任公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}
