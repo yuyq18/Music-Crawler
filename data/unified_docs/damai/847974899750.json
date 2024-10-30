@@ -1,0 +1,50 @@
+{
+    "platform": "大麦",
+    "project_id": "847974899750",
+    "project_name": "「乐腾演艺·粤语音乐计划」农夫千里传音演唱会-上海站",
+    "category_name": "演唱会",
+    "artists": [
+        "农夫组合"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.08 周日 20:00",
+    "session_time": [],
+    "price": "280-380",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "上海",
+    "venue_name": "新歌空间",
+    "venue_info": {
+        "venue_address": " 上海市长宁区愚园路1250号长宁区工人文化宫3楼",
+        "lng": 121.426146,
+        "lat": 31.219277
+    },
+    "project_info": "「乐腾演艺·粤语音乐计划」农夫千里传音演唱会\n【VIP权益】1. 优先入场；2. 官方纪念品一份；3. 艺人亲笔签名（在演出后进行）。\n音乐，从来都是打破距离界限的最佳形式之一。纵使相隔千里，歌者也可以通过歌曲传递给听众各种他们希望表达的想法和故事。此可谓，千里传音。\n \n\n \n农夫，来自中国香港的嘻哈组合，在出道至今的22年间推出过多首大受欢迎的粤语音乐作品，例如《举高只手》、《456Wing》、《伟大航道》、《学海无涯》、《粒粒皆辛苦》等。在影视圈甚至在主持界也有很好的成绩，他们试过“风生水起”，也做过“幕后玩家”。\n过去两年，他们接连推出了两张全新音乐专辑《农夫散文集》以及《农夫铿锵集》，其中前者还入围了第二届浪潮音乐大赏【最佳说唱专辑】以及【最佳粤语专辑】最后五强，作品备受肯定。\n除此以外，农夫更在这个期间于大湾区多地举行了将近30场不同规模的演唱会，一路火爆的票房也显示了他们在大湾区乐迷心目中的超高人气。\n \n\n \n2024年，农夫将首次冲出大湾区，跨越一千多公里的距离，去到成都和上海两城与更多内地乐迷分享他们的音乐，将不可能的事变为可能。\n \n\n \n12月7日成都·MAO Livehouse（CLUB厅），12月8日上海·新歌空间，农夫千里传音，就等你来倾听。\n \n\n「乐腾演艺·粤语音乐计划」是乐腾演艺LETENG LIVE围绕粤语音乐和粤语文化而策划的音乐推广计划。旨在集结大湾区乃至全国粤语音乐力量，不断创作和传承优秀的音乐文化内容，包括LIVE音乐会、IP音乐节、音乐空间、音乐人孵化等，透过粤语音乐计划建立多维链接，共同激活和延续这份文化魅力。\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01pKOd702GdSe9hmlFk_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01jKc2eh2GdSe9OsBBP_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN013Q5VqH2GdSe9HcJgl_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01pi4rcE2GdSe87kSj7_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01uuzVM52GdSe87nwxU_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "96",
+        "wantNumStr": "96",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "848586776402",
+            "cityName": "成都站",
+            "showTime": "12.07"
+        },
+        {
+            "itemId": "847974899750",
+            "cityName": "上海站",
+            "showTime": "12.08"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=847974899750"
+}

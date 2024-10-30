@@ -1,0 +1,895 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：汪苏泷",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1087",
+    "cityname": "苏州",
+    "couponTags": "[]",
+    "description": "艺人：汪苏泷",
+    "id": "1_1_845953473363",
+    "imgurl": "-130399859",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "汪苏泷2024「十万伏特」巡回演唱会- 苏州站",
+    "nameNoHtml": "汪苏泷2024「十万伏特」巡回演唱会- 苏州站",
+    "price": "380.0",
+    "price_str": "380-1380",
+    "pricehigh": "1380.0",
+    "privilegeTags": "[]",
+    "projectid": "845953473363",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.06-12.08",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "苏州奥林匹克体育中心体育场",
+    "venuecity": "苏州",
+    "venueid": "984001",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Vup54u2GdSdyfNbIV_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "845953473363",
+                    "itemName": "【苏州】汪苏泷2024「十万伏特」巡回演唱会- 苏州站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "320500",
+                    "cityName": "苏州市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Vup54u2GdSdyfNbIV_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Vup54u2GdSdyfNbIV_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.12.06-12.08",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "true",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京罗盘文化艺术有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：北京罗盘文化艺术有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1087",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>温馨提示：</strong></p>\n<p><strong>12月7日优先购11月7日13:00-14:00进行 </strong></p>\n<p><strong>12月8日优先购11月7日14:00-15:00进行</strong></p>\n<p><br><strong>第一场12月6日预售时间：11月8日13:00</strong><br><strong>第二场12月7日预售时间：11月8日14:00</strong><br><strong>第三场12月8日预售时间：11月8日15:00</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<article class=\"4ever-article\" data-clipboard-cangjie=\"[&quot;root&quot;,{},[&quot;p&quot;,{},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;改期场次：&quot;],[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;12月&quot;],[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;7、&quot;],[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;8日&quot;]]],[&quot;p&quot;,{&quot;rPr&quot;:{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;}}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;加场场次：12月6日&quot;]]],[&quot;p&quot;,{&quot;rPr&quot;:{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;}}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;场馆变更：苏州奥体中心体育场&quot;]]],[&quot;p&quot;,{},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;此前购买过2024年&quot;],[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;9月15日苏州站演出票的观众，将获得&quot;],[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;2024年&quot;],[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;12月7日场次优先购票权益；购买过&quot;],[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;2024年&quot;],[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;9月16日苏州站演出票的观众，将获得&quot;],[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;2024年&quot;],[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;12月8日场次优先购票权益。&quot;],[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;12月6日加场场次预售照常。&quot;]],[&quot;br&quot;,{&quot;type&quot;:&quot;textWrapping&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;&quot;]]],[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;优先购买权开启时间：&quot;]]],[&quot;table&quot;,{&quot;bdr&quot;:{&quot;bottom&quot;:{&quot;color&quot;:&quot;#000000&quot;,&quot;space&quot;:0,&quot;sz&quot;:0.67,&quot;val&quot;:&quot;single&quot;},&quot;insideH&quot;:{&quot;color&quot;:&quot;#000000&quot;,&quot;space&quot;:0,&quot;sz&quot;:0.67,&quot;val&quot;:&quot;single&quot;},&quot;insideV&quot;:{&quot;color&quot;:&quot;#000000&quot;,&quot;space&quot;:0,&quot;sz&quot;:0.67,&quot;val&quot;:&quot;single&quot;},&quot;left&quot;:{&quot;color&quot;:&quot;#000000&quot;,&quot;space&quot;:0,&quot;sz&quot;:0.67,&quot;val&quot;:&quot;single&quot;},&quot;right&quot;:{&quot;color&quot;:&quot;#000000&quot;,&quot;space&quot;:0,&quot;sz&quot;:0.67,&quot;val&quot;:&quot;single&quot;},&quot;top&quot;:{&quot;color&quot;:&quot;#000000&quot;,&quot;space&quot;:0,&quot;sz&quot;:0.67,&quot;val&quot;:&quot;single&quot;}},&quot;cellMar&quot;:{&quot;bottom&quot;:{&quot;type&quot;:&quot;dxa&quot;,&quot;w&quot;:0},&quot;left&quot;:{&quot;type&quot;:&quot;dxa&quot;,&quot;w&quot;:7.2},&quot;right&quot;:{&quot;type&quot;:&quot;dxa&quot;,&quot;w&quot;:7.2},&quot;top&quot;:{&quot;type&quot;:&quot;dxa&quot;,&quot;w&quot;:0}},&quot;colsWidth&quot;:[186,186,181.07],&quot;ind&quot;:{&quot;type&quot;:&quot;dxa&quot;,&quot;w&quot;:0},&quot;styleId&quot;:&quot;4&quot;,&quot;tblLayout&quot;:&quot;fixed&quot;,&quot;tblW&quot;:{&quot;type&quot;:&quot;auto&quot;,&quot;w&quot;:&quot;auto&quot;}},[&quot;tr&quot;,{},[&quot;tc&quot;,{&quot;colSpan&quot;:1,&quot;hidden&quot;:false,&quot;rowSpan&quot;:1,&quot;width&quot;:{&quot;type&quot;:&quot;dxa&quot;,&quot;w&quot;:186}},[&quot;p&quot;,{&quot;rPr&quot;:{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;}}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;原场次&quot;]]]],[&quot;tc&quot;,{&quot;colSpan&quot;:1,&quot;hidden&quot;:false,&quot;rowSpan&quot;:1,&quot;width&quot;:{&quot;type&quot;:&quot;dxa&quot;,&quot;w&quot;:186}},[&quot;p&quot;,{&quot;rPr&quot;:{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;}}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;本次开售场次&quot;]]]],[&quot;tc&quot;,{&quot;colSpan&quot;:1,&quot;hidden&quot;:false,&quot;rowSpan&quot;:1,&quot;width&quot;:{&quot;type&quot;:&quot;dxa&quot;,&quot;w&quot;:181.07}},[&quot;p&quot;,{&quot;rPr&quot;:{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;}}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;本次优先购时段&quot;]]]]],[&quot;tr&quot;,{},[&quot;tc&quot;,{&quot;colSpan&quot;:1,&quot;hidden&quot;:false,&quot;rowSpan&quot;:1,&quot;width&quot;:{&quot;type&quot;:&quot;dxa&quot;,&quot;w&quot;:186}},[&quot;p&quot;,{&quot;rPr&quot;:{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;}}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;9月1&quot;],[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;5&quot;],[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;日场次&quot;]]]],[&quot;tc&quot;,{&quot;colSpan&quot;:1,&quot;hidden&quot;:false,&quot;rowSpan&quot;:1,&quot;width&quot;:{&quot;type&quot;:&quot;dxa&quot;,&quot;w&quot;:186}},[&quot;p&quot;,{&quot;rPr&quot;:{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;}}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;12月7日&quot;]]]],[&quot;tc&quot;,{&quot;colSpan&quot;:1,&quot;hidden&quot;:false,&quot;rowSpan&quot;:2,&quot;vAlign&quot;:&quot;center&quot;,&quot;width&quot;:{&quot;type&quot;:&quot;dxa&quot;,&quot;w&quot;:181.07}},[&quot;p&quot;,{&quot;jc&quot;:&quot;justify&quot;,&quot;rPr&quot;:{&quot;fonts&quot;:{&quot;eastAsiaTheme&quot;:&quot;minorEastAsia&quot;,&quot;hint&quot;:&quot;default&quot;}}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;11月7日 13：00&quot;],[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;-&quot;],[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;14：00&quot;]]]]],[&quot;tr&quot;,{},[&quot;tc&quot;,{&quot;colSpan&quot;:1,&quot;hidden&quot;:false,&quot;rowSpan&quot;:1,&quot;width&quot;:{&quot;type&quot;:&quot;dxa&quot;,&quot;w&quot;:186}},[&quot;p&quot;,{&quot;rPr&quot;:{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;}}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;9月1&quot;],[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;6&quot;],[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;日场次&quot;]]]],[&quot;tc&quot;,{&quot;colSpan&quot;:1,&quot;hidden&quot;:false,&quot;rowSpan&quot;:1,&quot;width&quot;:{&quot;type&quot;:&quot;dxa&quot;,&quot;w&quot;:186}},[&quot;p&quot;,{&quot;rPr&quot;:{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;}}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;1&quot;],[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;2&quot;],[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;月8日&quot;]]]],[&quot;tc&quot;,{&quot;colSpan&quot;:1,&quot;hidden&quot;:true,&quot;rowSpan&quot;:1,&quot;width&quot;:{&quot;type&quot;:&quot;dxa&quot;,&quot;w&quot;:181.07}},[&quot;p&quot;,{&quot;rPr&quot;:{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;}}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;&quot;]]]]]],[&quot;p&quot;,{&quot;rPr&quot;:{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;}}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;我们将于项目开售前，按照上轮次购票数据，给您发放本轮次优先购权益；拥有优先购买权的用户可在上述对应时段，优先购买&quot;],[&quot;span&quot;,{&quot;bold&quot;:true,&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;指定场次门票&quot;],[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;，购票价位不限，张数不得超过原订单中下单购买的&quot;],[&quot;span&quot;,{&quot;bold&quot;:true,&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;张数，且观演人实名购票证件信息与原订单保持一致&quot;],[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;，如若不一致，则无法下单。请在特权购买时间内下单，逾期特权自动失效。&quot;]],[&quot;br&quot;,{&quot;type&quot;:&quot;textWrapping&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;&quot;]]],[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;注：优先购买权益，每个用户仅可下单一次，&quot;],[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;如需购买多张，&quot;],[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;请&quot;],[&quot;span&quot;,{&quot;fonts&quot;:{&quot;hint&quot;:&quot;eastAsia&quot;},&quot;data-type&quot;:&quot;leaf&quot;},&quot;于特权时间开始前核对您的特权购票观演人信息，并于指定时段内一次支付完毕。&quot;]]]]\">\n<p>改期场次：12月7、8日</p>\n<p>加场场次：12月6日</p>\n<p>场馆变更：苏州奥体中心体育场</p>\n<p>此前购买过2024年9月15日苏州站演出票的观众，将获得2024年12月7日场次优先购票权益；购买过2024年9月16日苏州站演出票的观众，将获得2024年12月8日场次优先购票权益。12月6日加场场次预售照常。<br data-path=\"3,1\">优先购买权开启时间：</p>\n<img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN0170DOlv2GdSeCgtwc5_!!2251059038.png\" width=\"1090\" height=\"132\" damai_width=\"1090\" damai_height=\"132\"><br>\n<p>我们将于项目开售前，按照上轮次购票数据，给您发放本轮次优先购权益；拥有优先购买权的用户可在上述对应时段，优先购买<strong>指定场次门票</strong>，购票价位不限，张数不得超过原订单中下单购买的<strong>张数，且观演人实名购票证件信息与原订单保持一致</strong>，如若不一致，则无法下单。请在特权购买时间内下单，逾期特权自动失效。<br data-path=\"5,1\">注：优先购买权益，每个用户仅可下单一次，如需购买多张，请于特权时间开始前核对您的特权购票观演人信息，并于指定时段内一次支付完毕。</p>\n</article>\n<p>&nbsp;</p>\n<p>暂停思考 举手起立</p>\n<p>全世界一起摇摆</p>\n<p>汪苏泷 2024「十万伏特」巡回演唱会 高能来袭</p>\n<p>派对复活 万人发电</p>\n<p>冲破束缚 快乐奔赴</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01F8XrxW2GdSdQSB4V7_!!2251059038.png\" width=\"864\" height=\"1209\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>——把妖怪 放出来 才可爱</p>\n<p>和汪苏泷一起打开身体的躯壳，这一刻，就一刻，哪怕只有一个晚上，哪怕下一秒我们又要回到生活正常轨道之中，在这场毫无束缚的“见面”狂欢里，汪苏泷用音乐能量置换你的快乐能量。在这里，头脑可以放空，规则可以打破，让怪脾气的小怪兽冲出牢笼。那些埋藏在我们心底不易察觉的勇气与热血、烦躁与顾虑，好的坏的，在这个现场统统是我们电量之源，每一伏特电量都是一盏光亮，每一盏光亮汇聚，将Romance City罗曼城点亮。</p>\n<p>&nbsp;</p>\n<p>这个夏天，闪电划破天空，十万伏特的精彩，正向你奔来。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01zdwtda2GdSdPOaenQ_!!2251059038.png\" width=\"861\" height=\"616\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>实力创作歌手汪苏泷自出道以来， 以强大的创作能力和独具特色的演唱风格被大众熟知，在出道至今的14年里，发行了11张专辑，多首爆款作品也让汪苏泷成为了华语乐坛的中坚力量，而这些音乐作品也陪伴歌迷朋友们度过了人生中的不同时期的重要阶段。</p>\n<p>汪苏泷曾说，对他最重要的两件事是专辑和演唱会。于是从2016年首场“登陆星球”个人演唱会到“莱芙Tour”、 “银河漫游”、“大娱乐家”，再到去年口碑爆棚的“世纪派对”演唱会，每一次见面他都带来全新的主题全新的舞美全新的创意，用最诚意的方式带给现场观众最极致的体验。去年9月17日，汪苏泷“世纪派对”巡回演唱会历经6城12场在上海圆满落幕，巡演举办期间，派对热度飙升，全网获500+热搜，想看人数总计超369万+，各种名场面层出不穷，多首全场大合唱的出圈场景、新歌首唱的刷屏讨论都是对汪苏泷在音乐上“金曲制造机”的最佳证明。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01mn8YCP2GdSdPzEMNb_!!2251059038.png\" width=\"863\" height=\"1293\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>此次，汪苏泷2024「十万伏特」巡回演唱会正式开启发电，作为第一次开启体育场巡演，实力创作歌手汪苏泷集结了国内金牌制作团队，在音响效果、舞美设计、服装造型、视觉影像等方面进行了极致打磨与创意编排——音乐界国宝级音响师金少刚、张小年全程把控声音质量，采用备受Beyoncé、Coldplay等欧美艺人巡演青睐的全球顶级音响品牌d&amp;b Audiotechnik SL系列旗舰型音箱，适用最先进的全频带指向性技术，配合系统特有的ArrayProcessing，呈现最专业的聆听盛宴；国内演唱会首创使用、独属十万伏特标志的“闪电”异形延伸台，最用心的近距离演绎互动设置；特制超大演唱会弧形视觉屏，最狂欢的裸眼动态冲击；多项庞大独特的舞美特殊制景，最奇妙的“发电”幻想设计…相信在本轮“一起发电”的狂欢现场，那些加速的心跳呼吸与热烈的合唱回声必将共创一个又一个美妙独一无二的夜晚。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01UIV0932GdSdPzHB2W_!!2251059038.png\" width=\"863\" height=\"484\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>准备好了吗？让我们一起迎接十万伏特的释放瞬间！</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "北京罗盘文化艺术有限公司",
+                            "socialCreditCode": "91110101690848569L",
+                            "legalPerson": "高元",
+                            "regCapStr": "100万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "北京市东城区演乐胡同100号2幢1层112E室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：外国人永久居留身份证/身份证/台湾居民来往大陆通行证/港澳台居民居住证/港澳居民来往内地通行证/护照"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "25首（以现场为准）"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "汪苏泷"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "984001",
+                    "venueName": "苏州奥林匹克体育中心体育场",
+                    "venueProvinceName": "江苏省",
+                    "venueCityName": "苏州市",
+                    "lng": 120.749533,
+                    "lat": 31.305017,
+                    "venueAddr": "苏州工业园区中新大道东999号",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "845953473363",
+                        "cityName": "苏州站",
+                        "showTime": "12.06-12.08",
+                        "tourId": "4824"
+                    },
+                    {
+                        "itemId": "836305307945",
+                        "cityName": "深圳站",
+                        "showTime": "11.01-11.02",
+                        "tourId": "4824"
+                    },
+                    {
+                        "itemId": "836566226040",
+                        "cityName": "重庆站",
+                        "showTime": "11.16-11.17",
+                        "tourId": "4824"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=845953473363"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D845953473363%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "71329",
+                        "artistName": "汪苏泷",
+                        "archives": "中国内地男唱作歌手、音乐人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1685940087671/1685940087671-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "71329",
+                        "name": "汪苏泷",
+                        "desc": "中国内地男唱作歌手、音乐人。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1685940087671/1685940087671-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "320648",
+                    "wantNumStr": "32.1万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过96%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN01ZtJoYQ1p4CDLYGtuD_!!6000000005306-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/868435/173687134.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01HLirt51NCcFriIDXd_!!6000000001534-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/198466/39693301.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01KzqXrr1vW1ysOe3mS_!!6000000006179-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "29691847231",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1715749077212/1715749077212-main.jpg",
+                    "note": "汪苏泷巡回演唱会",
+                    "categoryName": "其他",
+                    "title": "汪苏泷2024「十万伏特」巡回演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊",
+                "inFieldComments": [
+                    {
+                        "id": "18597883",
+                        "comment": "汪苏泷十万伏特演唱会超值",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/da178b6fe618459b8139aa987c751894.jpeg",
+                        "nickName": "柠檬冰激凌*",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/589553/117910668_1716957568849.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18591400",
+                        "comment": "爱让一切复活",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/f6e7d6b0bc5d47a59769f6e953b4c751.jpeg",
+                        "nickName": "麦子4IYzC",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1188681/237736365_1718590785226.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18579946",
+                        "comment": "汪苏泷首次三连开",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/84d13518100f4e8a98db944f758947c2.jpeg",
+                        "nickName": "9551A",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2580537/516107594_1723264509702.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18568000",
+                        "comment": "1025十万伏特——雨中的音乐盛宴",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/1a665072b7034ccbaf7e725d629c12a9.jpeg",
+                        "nickName": "麦子5qv4y",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2243346/448669201_1691824972644.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18566651",
+                        "comment": "汪苏泷十万伏特演唱会上海站",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/4261948080b341eaa31e139409324b80.jpeg",
+                        "nickName": "麦子陈陈呀~",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2614030/522806163_1727873151330.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18523337",
+                        "comment": "汪苏泷上海演唱会真的赚到了",
+                        "picUrl": "https://sentiment.damai.cn/feedBack/DMk5JdcwsFnz4SpT8Six.jpg",
+                        "nickName": "Paddy_",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1211029/242205834_1711124970005.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18380724",
+                        "comment": "十万伏特 | 拥有西湖醋鱼的杭州",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/b71ef7bed6cf47ffb2f7a0f50bb9ce82.jpg",
+                        "nickName": "加勒比海的毛豆",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/906260/181252104_1720945024745.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18379604",
+                        "comment": "十万伏特——心灵的触电之旅",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/c29b22e83e644f89912fa1c683f5d82c.jpeg",
+                        "nickName": "麦子5qv4y",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2243346/448669201_1691824972644.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18378834",
+                        "comment": "蹦蹦跳心蹦蹦的跳",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/9bf5aa25aed044209d1f722b3882bdf4.jpg",
+                        "nickName": "今天天气好的",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2220739/444147809_1695562262817.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18370467",
+                        "comment": "汪苏泷大帅哥！！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/1d4bbba7cf6e46eea15ed59d556d308b.jpg",
+                        "nickName": "许言言嘎嘎嘎嘎",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2253163/450632763_1692944969813.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18362964",
+                        "comment": "TO罗曼城主 我们永远爱你也爱罗曼城！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/bfb7a3d5c2d14222a27676e7b52ce09b.jpg",
+                        "nickName": "齐嘚泷咚呛",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2544462/508892437_1725434573885.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18344732",
+                        "comment": "最好的汪苏泷 最好的我们",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/87f0a999b5234787921204f2021e7d82.jpg",
+                        "nickName": "齐嘚泷咚呛",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2544462/508892437_1725434573885.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18079656",
+                        "comment": "纯纯路人 但是真的很好听！很好听！！！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/7ecfd03321bd48b0b9aae4b373fa517a.jpg",
+                        "nickName": "争子1Yz",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2237576/447515392_1691501577316.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18014992",
+                        "comment": "没有人从演唱会出来还能当汪苏泷的“路人”",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/eec1c13bf4704d24a21c6a526b5ad6c8.jpeg",
+                        "nickName": "歪下巴阿蕉",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1101222/220244493_1715269725378.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17983731",
+                        "comment": "怎么会有这么真诚的人啊",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/edbd9d129b244e6d9f1af842e28a0c02.jpg",
+                        "nickName": "烤红芋很OK",
+                        "userPic": "https://perico.damai.cn/userheadphotos/974513/194902621.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17932932",
+                        "comment": "「十万伏特」苏州站当生日遇上中秋惊喜不断",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/298758b708c24eb88bc177a677050181.jpeg",
+                        "nickName": "Flora香香",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/44251/8850348_1711194234710.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17918001",
+                        "comment": "青春记忆",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/9a7a0c36622f4fdd904f88f39b6752c2.jpg",
+                        "nickName": "麦子06lLF",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/596380/119276039_1725013613304.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17905657",
+                        "comment": "汪苏泷生日场太值得了！！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/44c1100ff85b44d3851e9609d19e7b72.jpg",
+                        "nickName": "Anqiu",
+                        "userPic": "https://perico.damai.cn/userheadphotos/742425/148485022.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17891632",
+                        "comment": "生日第一名☝️宠粉第一名☝️",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/862f4e4558654122a7ea105887bd540d.jpeg",
+                        "nickName": "鯉小瑩火虫",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2221236/444247312_1690632551848.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17890373",
+                        "comment": "泷泷生日快乐",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/63e9640710394e52a06cbfd5f7ced2b7.jpg",
+                        "nickName": "想见汪苏泷一万次_",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2359367/471873507_1704212681656.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    }
+                ]
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1730955600000",
+                "sellStartTimeStr": "11月07日 13:00",
+                "countDown": "643430",
+                "rcdt": "643429636",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥380 - ¥1380",
+                "performBases": [
+                    {
+                        "name": "12.07 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1733500800000",
+                        "performs": [
+                            {
+                                "performId": "216699355",
+                                "performName": "2024-12-07 周六 18:30",
+                                "itemId": "845953473363",
+                                "projectId": "222279180",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1733567400000",
+                                "performTime": "2024.12.07 18:30",
+                                "performStartDate": "2024-12-07",
+                                "performBeginTime": "18:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.08 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1733587200000",
+                        "performs": [
+                            {
+                                "performId": "216699356",
+                                "performName": "2024-12-08 周日 18:30",
+                                "itemId": "845953473363",
+                                "projectId": "222279180",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1733653800000",
+                                "performTime": "2024.12.08 18:30",
+                                "performStartDate": "2024-12-08",
+                                "performBeginTime": "18:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.06 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1733414400000",
+                        "performs": [
+                            {
+                                "performId": "216699354",
+                                "performName": "2024-12-06 周五 18:30",
+                                "itemId": "845953473363",
+                                "projectId": "222279180",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1733481000000",
+                                "performTime": "2024.12.06 18:30",
+                                "performStartDate": "2024-12-06",
+                                "performBeginTime": "18:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "3",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售，正式开票后将第一时间配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "预约抢票",
+                "buyBtnTipAfterCountDown": "提前选票档 抢票更丝滑",
+                "buyBtnStatusAfterCountDown": "90",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "3060482",
+                    "3001090",
+                    "3196418",
+                    "3246850",
+                    "3247106",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "23115",
+                    "1611",
+                    "4939",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "2874946",
+                    "3196226",
+                    "3196482",
+                    "3246658",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9867",
+                    "2443",
+                    "12171",
+                    "395",
+                    "1163",
+                    "16267",
+                    "14731",
+                    "37259",
+                    "716673",
+                    "9355",
+                    "8843",
+                    "9099",
+                    "3196290",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3196354",
+                    "3237314",
+                    "3246274",
+                    "3246786",
+                    "3247042"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8459534733/2/845953473363.jpg"
+            }
+        }
+    }
+}
