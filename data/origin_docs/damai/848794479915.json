@@ -1,0 +1,548 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：沙宝亮",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1667",
+    "cityname": "衢州",
+    "couponTags": "[]",
+    "description": "艺人：沙宝亮",
+    "id": "1_1_848794479915",
+    "imgurl": "-101989793",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "沙宝亮  2024┗五二┛剧院巡演",
+    "nameNoHtml": "沙宝亮 2024┗五二┛剧院巡演",
+    "price": "50.0",
+    "price_str": "50-680",
+    "pricehigh": "680.0",
+    "privilegeTags": "[]",
+    "projectid": "848794479915",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.22 周日 19:00",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "衢州保利大剧院大剧场",
+    "venuecity": "衢州",
+    "venueid": "6530122",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01ivOjlm2GdSeBUGFke_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "848794479915",
+                    "itemName": "【衢州】沙宝亮  2024┗五二┛剧院巡演",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "330800",
+                    "cityName": "衢州市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01ivOjlm2GdSeBUGFke_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01ivOjlm2GdSeBUGFke_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.12.22 周日 19:00",
+                    "showDuration": "以现场为准",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：衢州大花园保利剧院管理有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：衢州大花园保利剧院管理有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1580",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: left;\"><span style=\"color: #e13c39; font-size: 22px;\"><strong>演出票为特殊商品，官方渠道售出后即为出票成功，演出票售出后不退不换，（除不可控因素外），下单前请注意，感谢您的支持。请注意儿童、成人一律一人一票。</strong></span></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01rnbKKo2GdSeBj8gaF_!!2251059038.png\" width=\"1080\" height=\"1688\" damai_width=\"1080\" damai_height=\"1688\"></p>\n<p style=\"text-align: left;\"><strong>沙宝亮 2024《五二》</strong></p>\n<p style=\"text-align: left;\"><strong>巡演—衢州站</strong></p>\n<p style=\"text-align: left;\"><span style=\"color: #ffffff;\">【演出时间】</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ffffff;\">2</span><span style=\"color: #000000;\">024年12月22日 19：00</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #000000;\">【演出团体】</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #000000;\">沙宝亮及乐队</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #000000;\">【演出地点】</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #000000;\">衢州保利大剧院 大剧场</span></p>\n<p style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Pp21U92GdSeG2PJKX_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01RBYmmi2GdSeF0ZByV_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: left;\">沙宝亮是迄今为止唯一在国际流行音乐节上获得最高奖项——<strong>金鹿奖的中国流行歌手</strong>；</p>\n<p style=\"text-align: left;\">是<strong>《时尚先生》</strong>授予的“年度最受欢迎男歌手”；更是华语榜中榜二十年传媒推荐大奖和最具突破力艺人的获得者；</p>\n<p style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN0186Umk62GdSeF0XJYG_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: left;\"><span style=\"color: #000000;\">沙宝亮，在舞台上是歌王，是演员，是评委，是主持人，是纪录片的实践者；在生活中是骑士，是跑者，是户外达人，是时尚代言人，更是倡导公益的传递者。</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #000000;\"><strong>同时，他也是一个不断刷新自我，勇于挑战的极限“玩家”——流浪者。</strong></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #000000;\">生活中的沙宝亮更像个全能运动家，骑哈雷、滑雪、慢跑、骑马、划水、玩水上摩托等，像个大男孩一样热衷于研究各种“有趣儿”的事儿，并能把每件事情都玩到极致，而这些经历又会成为独特的人生财富，沉淀到他的音乐中。</span></p>\n<p style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN019igSBk2GdSeG2SvsU_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: left;\"><span style=\"color: #000000;\">沙宝亮演唱过诸多深受大众喜爱的音乐代表作，如《男人好难》《我回到那个名叫爱情的地方》《胆小鬼》《1314》《暗香》等。由他领衔主演的音乐剧《金沙》和《蝶》成为了中国音乐剧史上的里程碑。</span></p>\n<p style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01gJ35He2GdSeDl5JJT_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: left;\"><span style=\"color: #000000;\">2010年，沙宝亮首次举办个人演唱会“又回金沙”。</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #000000;\">2011年举办“一沙一世界”演唱会，成为华语乐坛首位在五棵松体育馆举办个唱的男艺人。</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #000000;\">2013年，沙宝亮再度在国内举办“最初的信仰”个人巡回演唱会，场场火爆；更是与谭维维携手打造“沙出重维”演唱会，为中国奥运代表团加油助威。而在海南岛电影节、《歌声飘过四十年》中央电视台晚会、《我们的四十年》文艺晚会、第十二届金鹰节等大型晚会上，我们都能看到沙宝亮的身影。</span></p>\n<p style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Bg4Dwj2GdSeE7N8j0_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: left;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN016jovGw2GdSeD9rgo1_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: left;\">&nbsp; 今年，由北京保利新舞台演出制作有限公司携手这位实力唱将——沙宝亮，打造呈现的“沙宝亮五二又回首全国巡演”，于今年6月正式开启巡演之旅，在全国多地与观众见面。</p>\n<p style=\"text-align: left;\"><span style=\"color: #000000; font-size: 13px; font-family: 黑体;\"><strong>当熟悉的旋律响起</strong></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #000000; font-size: 14px; font-family: 黑体;\"><strong>是青春的记忆跌踵而至</strong></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #000000; font-size: 14px; font-family: 黑体;\"><strong>12月22日，衢州保利大剧院</strong></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #000000; font-size: 14px; font-family: 黑体;\"><strong>让我们共同期待</strong></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #000000; font-size: 14px; font-family: 黑体;\"><strong>这一次我们相约青春 &nbsp;来现场聆听！</strong></span></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\">&nbsp;</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "",
+                            "socialCreditCode": "",
+                            "legalPerson": "",
+                            "regCapStr": "",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "",
+                            "entAddress": ""
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须兑换成纸质票验票入场，当天请按照【票夹】提示，前往取票点换取纸质票后入场"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "5"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "沙宝亮"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "60分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "6530122",
+                    "venueName": "衢州保利大剧院大剧场",
+                    "venueProvinceName": "浙江省",
+                    "venueCityName": "衢州市",
+                    "lng": 118.856038,
+                    "lat": 28.970351,
+                    "venueAddr": " 白云街道三江东路26号c座",
+                    "showCountText": "共有7个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D848794479915%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "469",
+                        "artistName": "沙宝亮",
+                        "archives": "中国内地歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1521704564416/1521704564416-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "469",
+                        "name": "沙宝亮",
+                        "desc": "中国内地歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1521704564416/1521704564416-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "特惠选座",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1730484903000",
+                "sellStartTimeStr": "11月02日 02:15",
+                "priceRange": "¥50 - ¥680",
+                "performBases": [
+                    {
+                        "name": "12.22 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1734796800000",
+                        "performs": [
+                            {
+                                "performId": "217071104",
+                                "performName": "2024-12-22 周日 19:00",
+                                "itemId": "848794479915",
+                                "projectId": "222679023",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1734865200000",
+                                "performTime": "2024.12.22 19:00",
+                                "performStartDate": "2024-12-22",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "优惠"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "280元票价每满2件减180.00元",
+                        "performanceIds": [
+                            "217071104"
+                        ]
+                    },
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "480元票价每满2件减380.00元",
+                        "performanceIds": [
+                            "217071104"
+                        ]
+                    },
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "680元票价每满2件减580.00元",
+                        "performanceIds": [
+                            "217071104"
+                        ]
+                    }
+                ],
+                "promotionRemark": "您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "26699",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9867",
+                    "2443",
+                    "12171",
+                    "395",
+                    "1163",
+                    "16267",
+                    "14731",
+                    "37259",
+                    "716673",
+                    "9355",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "promotionList": [
+                    {
+                        "type": "SHOP",
+                        "tag": "满减",
+                        "isTagList": "false",
+                        "desc": "¥680票档，满2张减¥580"
+                    }
+                ],
+                "promotionDetail": {
+                    "skuPromotionRelations": "848794479915&217071104&5639185969907_95226453689@5639185969908_95226804437@5639185969909_95227011236",
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "2",
+                            "promotionGroupTypeDesc": "满减活动",
+                            "promotionList": [
+                                {
+                                    "promotionType": "4",
+                                    "promotionTag": "满减",
+                                    "promotionContentList": [
+                                        "¥280票档，每满2张减¥180",
+                                        "¥480票档，每满2张减¥380",
+                                        "¥680票档，每满2张减¥580"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "¥280",
+                                            "displayContent": "每满2张减¥180"
+                                        },
+                                        {
+                                            "skuName": "¥480",
+                                            "displayContent": "每满2张减¥380"
+                                        },
+                                        {
+                                            "skuName": "¥680",
+                                            "displayContent": "每满2张减¥580"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8487944799/2/848794479915.jpg"
+            }
+        }
+    }
+}
