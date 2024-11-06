@@ -1,0 +1,317 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "893",
+    "cityname": "广州",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_851126272140",
+    "imgurl": "-78671871",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2024年「太•Tide 潮汐音乐节」",
+    "nameNoHtml": "2024年「太•Tide 潮汐音乐节」",
+    "price": {
+        "range": "99-280"
+    },
+    "price_str": "99-280",
+    "pricehigh": "280.0",
+    "privilegeTags": "[]",
+    "projectid": "851126272140",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.11.23 周六 19:30",
+    "sitestatus": "16",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": {
+        "lat": 23.088527,
+        "lng": 113.252611,
+        "region": "1",
+        "showCountText": "11个演出",
+        "venueAddr": "广州市海珠区太古仓54汇5号仓",
+        "venueCityName": "广州市",
+        "venueId": "2728007",
+        "venueName": "太空间livehouse",
+        "venueProvinceName": "广东省"
+    },
+    "venuecity": "广州",
+    "venueid": "2728007",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01SKXrr72GdSeJYDgSa_!!2251059038.png",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "广州市君橙文化传播有限公司",
+            "entAddress": "广州市海珠区革新路124号太古仓码头5仓",
+            "entType": "其他有限责任公司",
+            "legalPerson": "田更生",
+            "opFrom": "",
+            "opTo": "",
+            "regCapStr": "600万人民币",
+            "socialCreditCode": "91440101MA5CYXKN8Q"
+        }
+    },
+    "buyButton": {
+        "afterCountdown": {
+            "origin": "1",
+            "status": "204",
+            "text": "立即购票"
+        },
+        "origin": "2",
+        "status": "106",
+        "text": "预约抢票",
+        "tip": "提前选票档 抢票更丝滑"
+    },
+    "countdown": {
+        "countdown": "118934",
+        "rcdt": "118933581",
+        "sellStartTime": "1731035880000",
+        "sellStartTimeStr": "11月08日 11:18"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><title></title><br></p><p><span><strong>2024年「太•Tide 潮汐音乐节」——“我们都是这样长大的。”</strong></span></p><p><span>&nbsp;</span><br></p><p><span>粤语歌陪伴你我长大，走过</span><span>成长的</span><span>高山低谷；每当旋律奏起时，总能唤起我们内心深处的回忆</span><span>；</span><span>无论面对怎样的境况，总有一首粤语歌能给予我们安慰。</span></p><p><span>&nbsp;</span><br></p><p><span>走过粤语的黄金时代，还有一群年轻的创作者，依然坚持用粤语来进行创作。他们用方言母语和音乐表达，构成血脉与呼吸的联结，让音乐回归本土。</span></p><p><span>&nbsp;</span><br></p><p><span>今年潮汐音乐节，我们邀请到了资深音乐人赵增熹创办的音乐先导计划「大台主」培养的创作歌手——薛德勇 Monkey、陈俊烻 Zino，以及来自广州的粤语原创乐队Mover和将闽南语系下的福佬话融入创作的新生代唱作人海尾巴，演绎原创音乐及流行歌曲。还特别邀请人气粤语唱作歌手林奕匡担任特别嘉宾，为观众带来原创粤语歌曲的魅力。</span></p><p><span>&nbsp;</span><br></p><p><em><span>“我们都是这样长大的。”</span></em></p><p><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN018DFEkp2GdSeKGFxlA_!!2251059038.png\" width=\"622\" height=\"830\" damai_width=\"622\" damai_height=\"830\"></span><br></p><p><span>&nbsp;</span><br></p><p style=\"text-align: center;\"><strong><span>#演出详情</span></strong></p><p style=\"text-align: center;\"><span>时间｜TIME</span></p><p style=\"text-align: center;\"><span>11月23日 19:30</span></p><p style=\"text-align: center;\"><span>&nbsp;</span><br></p><p style=\"text-align: center;\"><span>地点｜ADDRESS</span></p><p style=\"text-align: center;\"><span>广州·太空间</span><span>Livehouse</span></p><p style=\"text-align: center;\"><span>&nbsp;</span><br></p><p style=\"text-align: center;\"><span>票价｜TICKET</span></p><p style=\"text-align: center;\"><span>早鸟票 99元</span></p><p style=\"text-align: center;\"><span>预售票 180元</span></p><p style=\"text-align: center;\"><span>全价票 220元</span></p><p style=\"text-align: center;\"><span>VIP票 280元</span></p><p style=\"text-align: center;\"><span><strong>*VIP权益包含：提前入场＋</strong></span></p><p style=\"text-align: center;\"><span><strong>VIP礼包一份（内含纪念海报一张＋太空间周边T恤一件）</strong></span></p><p><span>&nbsp;</span><br></p><p><span>&nbsp;</span><br></p><p><strong><span>#阵容介绍</span></strong></p><p><span><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01YfXLVt2GdSeKGEckT_!!2251059038.png\" width=\"626\" height=\"840\" damai_width=\"626\" damai_height=\"840\"></span><span>林奕匡（Phil Lam），香港著名唱作歌手，出道初期凭多首鼓励人心的正面励志作品走红，如〈高山低谷〉、〈颂赞诗〉、〈难得一遇〉、〈一双手〉等，更为他赢得多项创作歌手及歌曲奖项殊荣。于2020年远赴美国Berklee College of Music进修音乐，寻求创作上的突破，过程中创作了专辑《Finding Charlie》，其中的派台歌〈孤独的对岸〉、〈黑方格〉、〈重读兴趣班〉等曾登上各大流行榜冠军。2021年推出以哲学为主题的迷你专辑《Philosophy》，其中2首派台歌曲亦获得三台冠军。而2023年的单曲〈台前幕后〉更成为四台冠军歌，实力斐然。2024年在日本YouTube平台THE FIRST TAKE重新演繹其代表作〈高山低谷〉，更佔據YouTube Trending for Music 香港第5位。</span></p><p><span><br></span></p><p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01bEuSzp2GdSeJZAUp8_!!2251059038.png\" width=\"1267\" height=\"1695\" damai_width=\"1267\" damai_height=\"1695\"><span>薛德勇 Monkey，「唱作画」三栖创作人。由街头表演开始，之后陆续参与各类音乐表演，包括西九自由约、留白、Lost Star、香港艺术馆、香港流行文化节及大专院校、商场等演出。于2019年加盟著名音乐监制赵增熹主理的「大台主」音乐厂牌，继续以原创作品分享故事，至今已于各大音乐平台推出21首作品。</span></p><p><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01bRejja2GdSeJZCJCs_!!2251059038.png\" width=\"1268\" height=\"1695\" damai_width=\"1268\" damai_height=\"1695\"></span><span>陈俊烻Zino是一位唱作人，于2022 年推出第二首原创歌曲，各大音乐平台均可收听。2012 《新西兰华人新秀歌唱大赛》冠军；2022 纪录片《OneWay》 及《Year Of The Ren》音乐顾问 &amp; 湖南卫视《声生不息》叶倩文主唱《情人知己》改编编曲。</span></p><p><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01qvRdL22GdSeL7gKuQ_!!2251059038.png\" width=\"1267\" height=\"1695\" damai_width=\"1267\" damai_height=\"1695\"></span><span>创作少⼥「海尾巴」的⾳乐像是聆听着古老的故事，擅于将“童谣”融入现代音乐创作的她，总能让人归于平静。她的小情绪一点一点地透露出“爱”是多么的美好，就像她的作品与她的名字一样感性：海的尾巴是世界尽头。代表作有《日日做梦》、《隆隆隆》等。</span></p><p><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01hfHEdP2GdSeL7gPCN_!!2251059038.png\" width=\"1268\" height=\"1695\" damai_width=\"1268\" damai_height=\"1695\"></span><span>Mover乐队，⼴州本⼟原创乐队。乐队成员为主唱Calvin、吉他⼿丁丁、吉他手阿聪、⻉斯⼿阿亮、合成器⼿gigi及⿎⼿啊壹。歌曲以粤语歌为主，⻛格以Pop Rock为根基，同时融⼊shoegaze、Alternative-Rock、Pop Punk等⾳乐元素。“Move ”为感动， “Mover ”即为搬运感动的⼈，通过细⼼感受⽣活中的每个⽚段，糅合成员各⾃的喜好化作⼀体，搬运他们的⾳乐给每⼀位听众来感受到他们的内⼼世界。终有一日会让人们知道，粤语歌从未死过。2023年末，乐队首张粤语全长专辑《Keep Moving》上线全球流媒体平台，2024年11月开始进行他们的首次全国巡演。</span></p><p><strong><span>&nbsp;</span></strong><br></p><br><p><br></p></body></html>",
+        "introduceTitle": "项目介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "guideCat": "Livehouse",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "false",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "useLocalCache": "false",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wPOZN01jRf2eaC3Jz_!!6000000004545-2-tps-1125-702.png",
+        "categoryId": "123606001",
+        "cityName": "广州市",
+        "generalAgent": {
+            "generalAgent": "true",
+            "generalType": "1"
+        },
+        "itemId": "851126272140",
+        "itemName": "【广州】2024年「太•Tide 潮汐音乐节」",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01SKXrr72GdSeJYDgSa_!!2251059038.png"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "440100",
+        "performSeatImages": [],
+        "projectId": "222695052",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "4",
+                "5",
+                "6"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "约180分钟，仅供参考，最终以现场实际时长为准。",
+        "showTime": "2024.11.23 周六 19:30",
+        "subTitle": "",
+        "tcCategoryId": "0301020100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "217116255",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=851126272140",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须打开【票夹】扫码入场，截图无效。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "一人一票，凭票入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/港澳居民来往内地通行证/护照/身份证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "约180分钟，仅供参考，最终以现场实际时长为准。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "有寄存处,具体位置请联系现场工作人员。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过票夹中的二维码验票入场",
+                "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：广州市君橙文化传播有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：广州市君橙文化传播有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}

@@ -1,0 +1,67 @@
+{
+    "platform": "大麦",
+    "project_id": "850270530226",
+    "project_name": "Click#15「疯客惊奇秀」巡演·下半场(石家庄站)",
+    "category_name": "演唱会",
+    "artists": [
+        "Click#15"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.21 周六 20:00",
+    "session_time": [],
+    "price": "180-300",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "石家庄",
+    "venue_name": "红糖LIVEHOUSE",
+    "venue_info": {
+        "venue_address": "湾里庙步行街水幕广场M08",
+        "lng": 114.487333,
+        "lat": 38.044687
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01MUGrUt2GdSeH2yLiO_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01KIN1dJ2GdSeH36k1l_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "850169395714",
+            "cityName": "昆明站",
+            "showTime": "11.30"
+        },
+        {
+            "itemId": "850270530226",
+            "cityName": "石家庄站",
+            "showTime": "12.21"
+        },
+        {
+            "itemId": "850294982780",
+            "cityName": "青岛站",
+            "showTime": "12.22"
+        },
+        {
+            "itemId": "850309874967",
+            "cityName": "苏州站",
+            "showTime": "12.24"
+        },
+        {
+            "itemId": "851071452698",
+            "cityName": "杭州站",
+            "showTime": "12.27"
+        },
+        {
+            "itemId": "850786096099",
+            "cityName": "上海站",
+            "showTime": "12.28"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=850270530226"
+}

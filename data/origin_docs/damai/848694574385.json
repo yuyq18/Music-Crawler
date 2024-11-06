@@ -1,0 +1,777 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：凤凰传奇",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1580",
+    "cityname": "杭州",
+    "couponTags": "[]",
+    "description": "艺人：凤凰传奇",
+    "id": "1_1_848694574385",
+    "imgurl": "-102988849",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "凤凰传奇“吉祥如意”2024演唱会-杭州站",
+    "nameNoHtml": "凤凰传奇“吉祥如意”2024演唱会-杭州站",
+    "price": "380.0",
+    "price_str": "380-1380",
+    "pricehigh": "1380.0",
+    "privilegeTags": "[]",
+    "projectid": "848694574385",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.11.30-12.01",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "杭州奥体中心体育场(大莲花)",
+    "venuecity": "杭州",
+    "venueid": "1945005",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01gA4p952GdSeEDEgSk_!!2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "848694574385",
+                    "itemName": "【杭州】凤凰传奇“吉祥如意”2024演唱会-杭州站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "330100",
+                    "cityName": "杭州市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01gA4p952GdSeEDEgSk_!!2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i2/2251059038/O1CN01gA4p952GdSeEDEgSk_!!2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.11.30-12.01",
+                    "showDuration": "约150分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京大麦文化传媒发展有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：北京大麦文化传媒发展有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1580",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><br>步履不停，二十载荏苒，从未按下暂停键；<br>前行不倦，热情拥抱挑战，追逐心中的火焰。<br>花开的时候，来和凤凰传奇一起歌唱吧！<br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01fuakYH2GdSeECt8Jb_!!2251059038.png\" width=\"865\" height=\"486\" damai_width=\"865\" damai_height=\"486\"><br>2024年，在出道20周年之际，凤凰传奇正式启动《吉祥如意》巡回演唱会。<br>吉祥如意，是对凤凰传奇过去二十载的回顾与庆祝，也是对未来的向往与期待，更是对二十年来一直支持与陪伴凤凰传奇的朋友们的美好祝福。走过籍籍无名，走过繁花似锦，他们的脚步从未停下；传递快乐，感受快乐，共享快乐，或许这就是凤凰传奇所带来的力量。<br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01iB74a42GdSeCMBdD7_!!2251059038.png\" width=\"864\" height=\"486\" damai_width=\"864\" damai_height=\"486\"><br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01bD56La2GdSeCM9DVd_!!2251059038.png\" width=\"864\" height=\"486\" damai_width=\"864\" damai_height=\"486\"><br>从首张唱片《月亮之上》到《自由飞翔》，再到延续热烈曲风的《最炫民族风》、《等爱的玫瑰》，凤凰传奇一直致力于为听众带来快乐、温暖和能量。同时凤凰传奇在音乐性上也进行全新的尝试，《山河图》、《自由自在》，使得凤凰传奇和年轻人有了情感上的呼应。<br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01B0iVFg2GdSeCHNhF2_!!2251059038.png\" width=\"864\" height=\"486\" damai_width=\"864\" damai_height=\"486\"><br><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Z5ryfW2GdSeCMCN1y_!!2251059038.png\" width=\"865\" height=\"486\" damai_width=\"865\" damai_height=\"486\"><br>凤凰传奇的演出现场总会给观众带来惊喜体验，年轻群体不断感慨“血脉觉醒”，《奢香夫人》、《全是爱》、《等爱的玫瑰》、《我从草原来》等歌曲更是多次登顶音乐热榜，作为观演主力军，90后、00后在凤凰传奇的演出现场跟自己的童年相遇重逢，为自己的情绪找到了最酣畅淋漓的输出方式。<br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN018aIWBd2GdSe5Fdz5L_!!2251059038.png\" width=\"864\" height=\"486\" damai_width=\"864\" damai_height=\"486\"></p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张、每个账号最多购买4张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/护照/外国人永久居留身份证/港澳居民来往内地通行证/身份证/港澳台居民居住证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约150分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "25（以现场为准）"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "凤凰传奇"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "1945005",
+                    "venueName": "杭州奥体中心体育场(大莲花)",
+                    "venueProvinceName": "浙江省",
+                    "venueCityName": "杭州市",
+                    "lng": 120.228697,
+                    "lat": 30.229174,
+                    "venueAddr": "杭州市滨江区飞虹路3号",
+                    "showCountText": "共有2个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "848694574385",
+                        "cityName": "杭州站",
+                        "showTime": "11.30-12.01",
+                        "tourId": "4409"
+                    },
+                    {
+                        "itemId": "848577783202",
+                        "cityName": "福州站",
+                        "showTime": "12.14-12.15",
+                        "tourId": "4409"
+                    },
+                    {
+                        "itemId": "836731312720",
+                        "cityName": "深圳站",
+                        "showTime": "11.15-11.17",
+                        "tourId": "4409"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=848694574385"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D848694574385%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "1365",
+                        "artistName": "凤凰传奇",
+                        "archives": "中国大陆男女二人音乐组合",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1709098559746/1709098559746-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "1365",
+                        "name": "凤凰传奇",
+                        "desc": "中国大陆男女二人音乐组合",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1709098559746/1709098559746-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "728913",
+                    "wantNumStr": "72.9万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过98%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01bMZ0oW1WC0GXqoK9h_!!6000000002751-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/860953/172190751.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01KzqXrr1vW1ysOe3mS_!!6000000006179-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2272955/454591004_1694351551866.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01j9rn0L1tPV6Q4jU87_!!6000000005894-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "25975382713",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1709093116083/1709093116083-main.jpg",
+                    "note": "凤凰传奇“吉祥如意”2024巡回演唱会",
+                    "categoryName": "其他",
+                    "title": "凤凰传奇“吉祥如意”2024巡回演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊",
+                "inFieldComments": [
+                    {
+                        "id": "18385084",
+                        "comment": "凤凰传奇-民族风与流行乐的完美融合",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/6a8529b18c7a4956ae6ef61e0bf7cea5.jpg",
+                        "nickName": "小陈与小葛",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2463631/492726369_1719303613149.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18345317",
+                        "comment": "全员军训！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/2c02f193a01c442fafd22eb874e6d1f5.jpg",
+                        "nickName": "老林&小林",
+                        "userPic": "https://perico.damai.cn/userheadphotos/180896/36179303.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18234929",
+                        "comment": "最爱的曲目肯定是都！是！爱！还有谁不爱这歌！还有谁不饱含感情唱！这！歌！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/43adede218a643d59bc9366be577041f.jpg",
+                        "nickName": "心想事成都有票",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/904590/180918135_1710406065728.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18034069",
+                        "comment": "唱回票价的一次演唱会体验!！！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/8ddb29c13b6240eea55062ac6a70a5ce.jpeg",
+                        "nickName": "urben",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/475500/95100004_1699603717897.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17851983",
+                        "comment": "乌蒙山连着山外山！！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/5a6161a28dfd4dd9871a4c98fd451645.jpg",
+                        "nickName": "温柔的新之助",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/850426/170085308_1686901695836.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17532445",
+                        "comment": "质疑我妈，理解我妈，成为我妈！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/673833ed86f846f484579d3b5ffc75c3.jpg",
+                        "nickName": "LiuMHan",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1024982/204996517_1716347546366.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17412965",
+                        "comment": "虽然开场前下了大暴雨，但是依旧不影响大家的热情，雨中军训，胳膊甩断，嗓子喊烂。玲花有一种回到家乡的松弛感， 内蒙限定的蒙语酒歌，瞬间有一种自豪感。还有《海底》，曾毅一开口，实在太震撼了，说唱皇帝名不虚传。整首歌唱出了救赎，听的我热泪盈眶。总之这是一种非常奇特的体验， 也期待下一次的演唱会。感谢凤凰传奇回家，给大家带来这一场视听盛宴。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/32d7c7a1439c4dc9903484fcadb641f5.jpeg",
+                        "nickName": "麦子7JxNe",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2460998/492199663_1716378591560.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17326766",
+                        "comment": "凤凰传奇演唱会 观后感！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/1e9487a4e9fc4b26947ee5278e5abdc1.jpg",
+                        "nickName": "让我去看演唱会!!!!!",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1207161/241432338_1720869438022.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16863233",
+                        "comment": "乌！蒙！山！连！着！山！外！山！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/56d4732b88da4f5d9b54d49ac1e86cc1.jpg",
+                        "nickName": "让我去看演唱会!!!!!",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1207161/241432338_1720869438022.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16848531",
+                        "comment": "兰州“军训”成果汇报",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/4643c4dc0a4d4fd1b8d3a3bfd3990706.jpeg",
+                        "nickName": "文森Vin",
+                        "userPic": "https://perico.damai.cn/userheadphotos/186593/37318633.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16842418",
+                        "comment": "出道二十年，心目中永远顶流！！！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/cc4fe7da24df4164b2398c69fe66f94c.jpg",
+                        "nickName": "是滴猛",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2314227/462845554_1718461910770.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16813907",
+                        "comment": "我心目中凤凰传奇演唱会目前排名  \n第一.兰州西北军     沙漠阅兵\n第二.郑州豫林军     风雨无阻\n第三.常州铁骑军     勇往直前\n第四.南昌中央军     热气冲冲\n第五.京城少妇军     颜值爆表\n还是得佩服济南文旅啊，泼天的富贵说丢就丢。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/f87b540c83c34ce7a09556d477139fe5.jpg",
+                        "nickName": "大头光",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1202666/240533208_1688446842036.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16767322",
+                        "comment": "凤凰传奇演唱会万人合唱很震撼，后劲太大了",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/64f77f14535941d1bf29136b5c9a11ac.jpeg",
+                        "nickName": "小九九sx",
+                        "userPic": "https://perico.damai.cn/userheadphotos/951236/190247241.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16650004",
+                        "comment": "真的是人过了20岁血脉就觉醒了！凤凰传奇不愧是国家队，YYDS，全场下来嗓子都哑了真的很振奋！！！男女对唱环节，真的是又好玩又好笑。小时不知凤凰好，长大必须是个宝！有些冷门歌曲虽然不会唱，但是听的真的很开心。《海底》真是绝了，曾毅梵音一出来，整个人鸡皮疙瘩就起来了，真的绝了！现场版本《海底》真的绝了！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/b1728f8558444693b1b3fecb56a2f55a.jpg",
+                        "nickName": "小周我想吃鱼",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/623183/124636668_1681647256869.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16612696",
+                        "comment": "永远热爱现场",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/e49252225a7544da9be35e5f2ad07ef1.jpeg",
+                        "nickName": "奇怪的东邪",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/541193/108238640_1712558964425.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16610898",
+                        "comment": "没想到这么快又见到凤凰传奇 既一起淋过南昌的大雨 又一起吹了合肥的皖风\n越是了解他们 就越能发现他们在舞台上的闪光点\n合肥场的每一套造型都很戳我 团队审美比南昌场🈶在提升！衣摆随风飘动 两个人仙侠气满满\n时隔九年再来同一个城市同一个场地开演唱会 花姐和毅哥一定都很激动 也是截然不同的心境吧~\n本来就很喜庆的《中国喜事》 如今加上男爵的笑场忘词名场面变得更喜庆了 此歌加入“毅生之敌”歌单（曾毅老师dbq🙊）花姐介绍场次的时候也嘴瓢了两次 我哥姐就是这么可爱又有魅力\n幸运的听到了《别董大》本轮巡演首唱 而且是在《过山》之后 玲花的戏腔绝了啊啊啊啊🤩\n哥姐两个人永远是那么谦逊 反复说你们才是今天最重要的嘉宾 谁会不被凤凰传奇的真心打动啊[泪]\n“好了 不想再说了！”最好的凤凰传奇 再飞高点吧 这盛世你们值🉐 下场见！🐦❤️",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/53e1a36a5b294472831445679bcb58fa.jpeg",
+                        "nickName": "始于心动v",
+                        "userPic": "https://perico.damai.cn/userheadphotos/593790/118758120.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16595481",
+                        "comment": "凤凰传奇我妈的偶像越老越有魅力都给我来看",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/12e727483cbb4233a5c8ea779e541fb8.jpeg",
+                        "nickName": "果酱有点甜",
+                        "userPic": "https://perico.damai.cn/userheadphotos/810963/162192734.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16580694",
+                        "comment": "吉祥如意!凤凰传奇2024巡回演唱会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/09f8686fcc5349e9bd868bcbddadfd95.jpg",
+                        "nickName": "剑落疾风斩众生",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1217752/243550416_1690211164867.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16543646",
+                        "comment": "凤凰传奇 吉祥如意 合肥站",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/7ae5b33a4c6f449b867af3b021b31e80.jpeg",
+                        "nickName": "浅风不能吹",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/824814/164962813_1719243157657.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16539999",
+                        "comment": "凤凰传奇-合肥站",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/2f5df38f988c421cb7f3db42f7ed3bee.jpeg",
+                        "nickName": "yiboojiajia",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2509103/501820697_1722767840136.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    }
+                ]
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购票",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1730865604000",
+                "sellStartTimeStr": "11月06日 12:00",
+                "priceRange": "¥380 - ¥1380",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售，正式开票后将第一时间配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "26699",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9867",
+                    "2443",
+                    "12171",
+                    "395",
+                    "1163",
+                    "16267",
+                    "14731",
+                    "37259",
+                    "716673",
+                    "9355",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "268482",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "4",
+                "statusTips": [
+                    "<span style=\"color: #69717C\"><b>预售</b> | 本商品为预售，正式开票后将第一时间配票</span>"
+                ],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8486945743/2/848694574385.jpg"
+            }
+        }
+    }
+}
