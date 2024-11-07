@@ -1,0 +1,72 @@
+{
+    "platform": "大麦",
+    "project_id": "851465308224",
+    "project_name": "James Blunt“曾经的我们”北京演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "JAMES BLUNT"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.08 周日 19:30",
+    "session_time": [
+        "12.08 周日"
+    ],
+    "price": "480-1280",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "华熙LIVE·五棵松·场馆",
+    "venue_info": {
+        "venue_address": "北京海淀区复兴路69号",
+        "lng": 116.280709,
+        "lat": 39.9083
+    },
+    "project_info": "James Blunt 《曾经的我们》 北京演唱会\n \n被称为“上尉诗人”的英国歌手James Blunt（詹姆斯·布朗特）即将带着他的巡演「who we used to be」（曾经的我们）来到中国与大家见面。他的音乐融合了流行、摇滚和民谣元素，他的现场表演同样备受赞誉。\n\n2023年，他的新专辑《Who We Used To Be》正式发行，其中包含《Saving A Life》《Some Kind Of Beautiful》《Beside You》《Last Dance》《All The Love That l Ever Needed》等歌曲。\n\n他的首张专辑《Back to Bedlam》在全球范围内取得了巨大成功。其中《You're Beautiful》在多个国家的音乐排行榜上名列前茅，2004年火爆全球的《You're beautiful》，曾连续数周高居英国单曲榜冠军，并登顶Billboard榜首，获得49届格莱美奖5项提名。\n其他热门的歌曲包括《Goodbye My Lover》和《Wisemen》，这些作品都展现了他标志性的抒情风格和对情感的深刻洞察。\n\n在时间的长河中，我们每个人都在不断前行，有时候，我们会迷失在繁忙的生活里，忘记了当初出发时的模样。但在这个喧嚣的世界中，有一个声音始终在呼唤，那是我们内心深处的“曾经的你”，提醒我们不忘初心，找回自我。\n \n阔别已久，归来时他的声音依然温柔而坚定，旋律中充满了青春的躁动与梦想的光芒。当熟悉的旋律再次响起，唤醒了我们内心深处最真实的自己。让我们继续唱着熟悉的歌曲，无论走到哪里，都不会忘记，曾经的我们，是那么的美好。一起跟随“上尉诗人”的脚步，找回曾经的我们。\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01POhrik2GdSeLxQPeK_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01XwzApW2GdSeKzRcuu_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01MT535P2GdSeNNgkcN_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01TUDgtl2GdSeEVzfQM_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01EJpayt2GdSeNNn80t_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "972",
+        "wantNumStr": "972",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "851465308224",
+            "cityName": "北京站",
+            "showTime": "12.08"
+        },
+        {
+            "itemId": "843725753891",
+            "cityName": "上海站",
+            "showTime": "12.05"
+        },
+        {
+            "itemId": "827435092099",
+            "cityName": "广州站",
+            "showTime": "12.07"
+        },
+        {
+            "itemId": "839928378097",
+            "cityName": "中国香港站",
+            "showTime": "12.12"
+        },
+        {
+            "itemId": "832152965864",
+            "cityName": "厦门站",
+            "showTime": "12.14"
+        },
+        {
+            "itemId": "835883349307",
+            "cityName": "南京站",
+            "showTime": "12.15"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=851465308224"
+}
