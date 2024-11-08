@@ -1,0 +1,374 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：BILLKIN、徐佳莹、江美琪、Gali、中岛美嘉、AFROJACK、朱婧汐、Don Diablo、Lucas & Steve",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "9999",
+    "cityname": "10  Telok  Blangah  Harbourfront",
+    "couponTags": "[]",
+    "description": "艺人：BILLKIN、徐佳莹、江美琪、Gali、中岛美嘉、AFROJACK、朱婧汐、Don Diablo、Lucas & Steve",
+    "id": "1_1_851282810744",
+    "imgurl": "-77106485",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "YUEWEN music festival",
+    "nameNoHtml": "YUEWEN music festival",
+    "price": {
+        "range": "998-4427"
+    },
+    "price_str": "998-4427",
+    "pricehigh": "4427.0",
+    "privilegeTags": "[]",
+    "projectid": "851282810744",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.28-12.31",
+    "sitestatus": "16",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": {
+        "lat": 1.25486,
+        "lng": 103.811311,
+        "region": "3",
+        "venueAddr": "Siloso Beach, Sentosa, Singapore",
+        "venueCityName": "10  Telok  Blangah  Harbourfront",
+        "venueId": "6467128",
+        "venueName": "Siloso Beach",
+        "venueProvinceName": "10  Telok  Blangah  Harbourfront"
+    },
+    "venuecity": "10  Telok  Blangah  Harbourfront",
+    "venueid": "6467128",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01pIGdfm2GdSeFoRD8M_!!2251059038.png",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "buyButton": {
+        "afterCountdown": {
+            "origin": "1",
+            "status": "204",
+            "text": "立即购票"
+        },
+        "origin": "2",
+        "status": "106",
+        "text": "预约抢票",
+        "tip": "提前选票档 抢票更丝滑"
+    },
+    "countdown": {
+        "countdown": "128684",
+        "rcdt": "128683945",
+        "sellStartTime": "1731218400000",
+        "sellStartTimeStr": "11月10日 14:00"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><strong>票价说明：</strong><br>新加坡币票价SGD：SGD 167.04/SGD 290.65/ SGD 299.30/SGD 424/ SGD 522.47/ SGD 739.68<br>人民币售价CNY：998元/1738元/1791元/2537元/3127元/ 4427元<br>门票已含境外（含港澳台）服务费<br><br><strong>配送说明：</strong><br>本项目门票不支持退换，不可转让。一人一票，入场时必需持有有效门票。购票成功的客户，请您携带好护照，提前办理目的地签证。演出当天凭大麦APP/小程序的购票二维码，到指定换票点换取纸质票后检票入场。</p>\n<p>&nbsp;</p>\n<p><strong>取票点：</strong>场馆观众主入口附近</p>\n<p><strong> 取票时间</strong>：</p>\n<p>12月28日 12:30~20:00</p>\n<p>12月29日 12:30~20:00</p>\n<p>12月31日 13:00~00:00</p>\n<p>&nbsp;</p>\n<p>演出介绍：<br>12月28日Billkin马群耀、徐佳莹、江美琪、Olivia Marsh、PP Krit林祎凯、Tech’1；12月29日GALI 、中岛美嘉、Reiko、WIN METAWIN &amp; NANON；12月31日Afrojack、朱婧汐、Cuebrick、Don Diablo、Julian Jordan 、Lucas &amp; Stev。此外，还有多组神秘重磅嘉宾将陆续公布。<br>此次音乐节将邀请多位来自中国、新加坡、韩国、日本、泰国、马来西亚、荷兰等国家的顶尖音乐人，对流行、嘻哈、EDM等曲风展开多元演绎。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01203nP42GdSePBb5n1_!!2251059038.png\" width=\"1020\" height=\"1360\" damai_width=\"1020\" damai_height=\"1360\"></p></body></html>",
+        "introduceTitle": "演出介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "普提蓬·阿萨拉塔纳功（Billkin），1999年10月8日出生于泰国曼谷，泰国影视男演员、歌手。\n2017年，出演悬疑惊悚剧《Please灵魂之声》，从而进入演艺圈。2018年，出演的爱情喜剧电影《把哥哥退货可以吗？》在泰国上映。2019年，出演的奇幻爱情剧《我的救护车》和家庭爱情轻喜剧《一年365天：我的房子你的家》相继播出。2020年，主演的爱情剧《以你的心诠释我的爱》播出，并凭借该剧获得第17届Kom Chad Luek颁奖典礼最佳电视剧男主角奖。2021年，主演的爱情电影《普吉岛的最后黄昏》上线；同年，主演的爱情剧《以你的心诠释我的爱第二季》播出。",
+                "id": "107531824",
+                "name": "BILLKIN",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1687856632162/1687856632162-main.jpg",
+                "tag": "歌手、演员"
+            },
+            {
+                "desc": "中国台湾创作型女歌手。",
+                "id": "2431",
+                "name": "徐佳莹",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1729130814785/1729130814785-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "江美琪，1980年出生于台湾桃园县，歌手、创作人。",
+                "id": "118715",
+                "name": "江美琪",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1714384837836/1714384837836-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国内地说唱男歌手",
+                "id": "7339309",
+                "name": "Gali",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1660878505297/1660878505297-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "日本女歌手、演员。2001年，以主演日剧《新宿伤痕恋歌》及演唱单曲《STARS》出道。",
+                "id": "19663",
+                "name": "中岛美嘉",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1534413382806/1534413382806-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "一位荷兰音乐制作人及唱片骑师。",
+                "id": "3451",
+                "name": "AFROJACK",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1552639499345/1552639499345-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "朱婧汐，1988年4月18日出生于云南省普洱市，中国内地流行女歌手、词曲作者、音乐制作人、主持人。",
+                "id": "1290356372",
+                "name": "朱婧汐",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1654160793091/1654160793091-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "Future House的领军人物Don Diablo，则以未来感十足的旋律和层次感丰富的音乐著称，他的作品总是能引领潮流的方向。",
+                "id": "1213882133",
+                "name": "Don Diablo",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1724828224872/1724828224872-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "荷兰劲旅组合Lucas & Steve凭借连续的夏季热门歌曲、多张白金和黄金唱片、无数的国际演出和来自BUMA(荷兰)、Fun Radio(法国)、DJ Mag、MTV等的赞誉，这一切都在见证他们的明星地位的显著上升。2023年，Lucas & Steve将在这一季无所不在，在今年的上半年，他们已经在Tomorrowland、Ultra音乐节、Airbeat One和Kingsland奉献了令人惊叹的演出。",
+                "id": "26635938480",
+                "name": "Lucas & Steve",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1691659170461/1691659170461-main.jpg",
+                "tag": "其他"
+            }
+        ],
+        "artistsTitle": "演出阵容",
+        "guideCat": "音乐节",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "false",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "useLocalCache": "false",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01R3THyh1QT3Y3gWguc_!!6000000001976-2-tps-1125-702.png",
+        "categoryId": "127420006",
+        "cityName": "10  Telok  Blangah  Harbourfront",
+        "generalAgent": {
+            "generalAgent": "false",
+            "generalType": "1"
+        },
+        "itemId": "851282810744",
+        "itemName": "YUEWEN music festival",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01pIGdfm2GdSeFoRD8M_!!2251059038.png"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "919000130000000000",
+        "performSeatImages": [],
+        "projectId": "222687056",
+        "projectStatus": "1",
+        "realName": {
+            "credentialNames": [],
+            "credentials": [],
+            "type": "3"
+        },
+        "showDuration": "约90分钟（以现场为准）",
+        "showTime": "2024.12.28-12.31",
+        "tcCategoryId": "0301030100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "217090308",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "217098308",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "217069369",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "217075375",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "217077341",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "217093285",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "217077342",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=851282810744",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "需兑换成纸质票验票入场，须打开【票夹】的二维码前往取票点换取，截图无效。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "1.2米以下儿童免票，需家长陪同（每个成人仅能带一名儿童）",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "本项目门票即是发票。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "无需实名购票",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "约90分钟（以现场为准）",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约120分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "Billkin马群耀、徐佳莹、江美琪、Olivia Marsh、PP Krit林祎凯、Tech’1、GALI 、中岛美嘉、Reiko、WIN METAWIN & NANON、Afrojack、朱婧汐、Cuebrick、Don Diablo、Julian Jordan 、Lucas & Stev",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01N7Icez1vcu9JtnH1e_!!6000000006194-2-tps-144-144.png",
+                "title": "主要演员"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            },
+            {
+                "content": "1400",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01g1Fs6025i4mGCqzxa_!!6000000007559-2-tps-144-144.png",
+                "title": "大麦网初始开售时全场可售门票总张数"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                "tagName": "自助换票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                "tagDescWithStyle": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                "tagName": "门票即发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}
