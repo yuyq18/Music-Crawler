@@ -1,0 +1,67 @@
+{
+    "platform": "大麦",
+    "project_id": "853561916973",
+    "project_name": "脑浊乐队2024年“SOS”冬季巡演 长春站",
+    "category_name": "演唱会",
+    "artists": [
+        "脑浊乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.07 周六 19:30",
+    "session_time": [],
+    "price": "100-240",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "长春",
+    "venue_name": "长春 音浪LIVEHOUSE",
+    "venue_info": {
+        "venue_address": "吉林省长春市南关区自由大路35号南岭体育场西入口院内音浪live house",
+        "lng": 125.343286,
+        "lat": 43.866734
+    },
+    "project_info": "\n\n\n\n\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01R0SnTZ2GdSeVRqumt_!!4611686018427383646-2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01aoSU2G2GdSeSIIEaS_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01nNFmiw2GdSeRvdyAR_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01WQNP8J2GdSeRofMMw_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01g2D41U2GdSeRoeLys_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01hIVwAK2GdSeUgPR51_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01wS1ms02GdSeU9H7NR_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "852900323293",
+            "cityName": "哈尔滨站",
+            "showTime": "12.06"
+        },
+        {
+            "itemId": "853561916973",
+            "cityName": "长春站",
+            "showTime": "12.07"
+        },
+        {
+            "itemId": "853565252135",
+            "cityName": "大连站",
+            "showTime": "12.08"
+        },
+        {
+            "itemId": "853334817552",
+            "cityName": "沈阳站",
+            "showTime": "12.15"
+        },
+        {
+            "itemId": "852537771900",
+            "cityName": "武汉站",
+            "showTime": "12.21"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=853561916973"
+}
