@@ -1,0 +1,693 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：张靓颖、陈慧琳、蔡健雅、温岚、汪晨蕊、徐歌阳",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1277",
+    "cityname": "曲靖",
+    "couponTags": "[]",
+    "description": "艺人：张靓颖、陈慧琳、蔡健雅、温岚、汪晨蕊、徐歌阳",
+    "id": "1_1_847097767146",
+    "imgurl": "-118956921",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2024天后之夜演唱会-曲靖站",
+    "nameNoHtml": "2024天后之夜演唱会-曲靖站",
+    "price": "198.0",
+    "price_str": "198-1666",
+    "pricehigh": "1666.0",
+    "privilegeTags": "[]",
+    "projectid": "847097767146",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.28 周六 19:00",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "曲靖市文体公园体育场",
+    "venuecity": "曲靖",
+    "venueid": "57724",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01UjjmPx2GdSeEeLg8r_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "847097767146",
+                    "itemName": "【曲靖】2024天后之夜演唱会-曲靖站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "530300",
+                    "cityName": "曲靖市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01UjjmPx2GdSeEeLg8r_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01UjjmPx2GdSeEeLg8r_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://item-cdn.damai.cn/b858e3f073b646a3b1a4b42155059618.jpg",
+                    "seatImages": [
+                        "https://item-cdn.damai.cn/b858e3f073b646a3b1a4b42155059618.jpg"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "2024.12.28 周六 19:00",
+                    "showDuration": "以现场为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：云南曲艺文化传媒有限公司曲靖分公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：云南曲艺文化传媒有限公司曲靖分公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1229",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><strong>2024天后之夜演唱会-曲靖站</strong><br><strong>票务须知</strong></p>\n<p style=\"text-align: left;\">按照《文化和旅游部 公安部关于进一步加强大型营业性演出活动规范管理促进演出市场健康有序发展的通知》(文旅市场发(2023〕96号)的要求，本场演出实行实名购票和实名入场制度(购票时填写的“实名观演人”须与实际观演人保持一致)。<br>在购票之前请详尽了解此须知，谨慎购买，避免因购票后无法入场观演而导致损失。门票不支持转赠与转售，仅支持有条件退票。购票后若不能如期观演，请依照以下退票规则退票。<br>一、本次演出预售时间:<br><strong>2024年11月20 日13：50</strong><br>官方销售平台:<br>总代理：<strong>大麦</strong>，特别提示:请从以上官方售票平台购票。从非官方售票平台购票，购票权益无法得到保障。<br>三、针对本次演出在官方销售平台购票的用户，主办方将开放退票绿色通道，退票规则如下:<br><strong>1、2024年11月20日--11月21日 13：49，预售开启后 24 小时内,可无条件办理退票。</strong><br><strong>2、2024年11月21日13：50--12月6日13：49，按门票实付价格的 20%收取手续费办理退票。</strong><br><strong>3、2024年12月6日13：50--12月16日13：49，按门票实付价格的 30%收取手续费办理退票。</strong><br><strong>4、2024年 12月16日 13：50 起，停止办理退票。</strong><br>【温馨提示】<br>(1) 所有退票沟通及申请须在购票平台客服人员的正常工作时间内进行(2)上述退款到账时间以各支付渠道规则为准。<br>四、其它相关规则<br>1、仅支持整单整退(即一个订单号下有多张票，无法单张退，仅支持整单中所有门票全退)。2、为防止出现恶意购票、退票等扰乱演出活动正常举办的行为，在销售阶段同一购票人、同一购票账户仅享有一次退票绿色通道权益，在产生一次退票后，如该购票人或购票账户再次购买同场次演出门票后，将不再享有退票权益。<br>3、入场规则:观演人到现场观演时，须携带与购票时提供的对应观演人有效身份证件原件进行人脸识别验票，全部信息确认一致后方可入场，若购票人填写的信息存误或登记的观演人信息不匹配导致不能入场观演的，由此产生的一切后果及责任由购票人自行负责，举办单位、票务平台不承担由此产生的任何法律责任。<br>4、未成年人观众请在购票前自觉经过法定监护人允许，如购票订单成功生成并完成支付，默认其为法定监护人授权允许购票，一切相关责任须由法定监护人承担，我司不支持以未成年人未经监护人允许等相关理由，申请退票等行为。<br>5、一人一票，儿童不分身高凭全票进场，且儿童应在家长陪同下进场。<br>6、多平台重复购票订单处理规则:同一证件仅能对应一张本场演出门票。同一观演人信息在多平台成功购票的，经本销售平台发现后，您在本销售平台购买的本场演出门票订单将被整单取消(整单整退)。<br>7、因演出场地条件、舞美灯光音响设计及演出人员走位等多重因素，可能导致个别区域存在有限的“视觉不佳或局部遮挡现象”，如介意老谨慎购买。如购票人成功购票，即代表已经知晓并接受演出可能存在的“视觉不佳或局部遮挡现象”的风险。<br>四、退票相关的规则事宜，主办方在法律法规允许范围内享有解释权。</p>\n<p style=\"text-align: right;\"><br>云南曲艺文化传媒有限公司曲靖分公司<br>2024年11月19日</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN014MAZUG2GdSeGfkJgx_!!2251059038.jpg\" width=\"898\" height=\"1737\" damai_width=\"898\" damai_height=\"1737\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01htDc2G2GdSeJ1ufz5_!!2251059038.jpg\" width=\"898\" height=\"1737\" damai_width=\"898\" damai_height=\"1737\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01CXKlUh2GdSeGfkJkt_!!2251059038.jpg\" width=\"898\" height=\"1737\" damai_width=\"898\" damai_height=\"1737\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN018ddPsb2GdSeJOeZU4_!!2251059038.jpg\" width=\"898\" height=\"1737\" damai_width=\"898\" damai_height=\"1737\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01cU8tD22GdSeK7hIog_!!2251059038.jpg\" width=\"899\" height=\"1737\" damai_width=\"899\" damai_height=\"1737\"></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "云南曲艺文化传媒有限公司曲靖分公司",
+                            "socialCreditCode": "91530302MADYNJ0L00",
+                            "legalPerson": "施瑞刚",
+                            "regCapStr": "",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司分公司(自然人独资)",
+                            "entAddress": "云南省曲靖市麒麟区建宁街道办事处三江国际车立方A5栋3楼"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳台居民居住证/台湾居民来往大陆通行证/护照/身份证/外国人永久居留身份证/港澳居民来往内地通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "6"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "20000"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "57724",
+                    "venueName": "曲靖市文体公园体育场",
+                    "venueProvinceName": "云南省",
+                    "venueCityName": "曲靖市",
+                    "lng": 103.816484,
+                    "lat": 25.544824,
+                    "venueAddr": "云南省曲靖市珠江源大道(珠江源古镇背后)",
+                    "showCountText": "共有2个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=847097767146"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D847097767146%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "1267",
+                        "artistName": "张靓颖",
+                        "archives": "中国流行女歌手，被誉为“海豚公主”。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1726128535536/1726128535536-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "2242",
+                        "artistName": "陈慧琳",
+                        "archives": "中国香港女歌手和演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413400286/1534413400286-main.jpg",
+                        "tag": "歌手,演员",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "2115",
+                        "artistName": "蔡健雅",
+                        "archives": "知名新加坡歌手、词曲作者。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1571104925632/1571104925632-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "2401",
+                        "artistName": "温岚",
+                        "archives": "流行乐女歌手、影视演员",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1571304343371/1571304343371-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1576565033",
+                        "artistName": "汪晨蕊",
+                        "archives": "新生代歌姬——汪晨蕊，星海优秀毕业生,是2016年《中国好声音》那英组冠军全国季军，同时也是广府文化传播大使，新生代歌姬——汪晨蕊。代表作《快高长大》《逃逃居》",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1713860514439/1713860514439-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "artistId": "1536336064",
+                        "artistName": "徐歌阳",
+                        "archives": "徐歌阳，1996年12月15日出生于辽宁省沈阳市，中国内地流行乐女歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1730707392834/1730707392834-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "1267",
+                        "name": "张靓颖",
+                        "desc": "中国流行女歌手，被誉为“海豚公主”。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1726128535536/1726128535536-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "2242",
+                        "name": "陈慧琳",
+                        "desc": "中国香港女歌手和演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1534413400286/1534413400286-main.jpg",
+                        "tag": "歌手,演员",
+                        "type": "1"
+                    },
+                    {
+                        "id": "2115",
+                        "name": "蔡健雅",
+                        "desc": "知名新加坡歌手、词曲作者。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1571104925632/1571104925632-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "2401",
+                        "name": "温岚",
+                        "desc": "流行乐女歌手、影视演员",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1571304343371/1571304343371-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1576565033",
+                        "name": "汪晨蕊",
+                        "desc": "新生代歌姬——汪晨蕊，星海优秀毕业生,是2016年《中国好声音》那英组冠军全国季军，同时也是广府文化传播大使，新生代歌姬——汪晨蕊。代表作《快高长大》《逃逃居》",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1713860514439/1713860514439-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    },
+                    {
+                        "id": "1536336064",
+                        "name": "徐歌阳",
+                        "desc": "徐歌阳，1996年12月15日出生于辽宁省沈阳市，中国内地流行乐女歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1730707392834/1730707392834-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "10245",
+                    "wantNumStr": "1.0万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过60%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01Z4KBGi1TVkUeB77To_!!6000000002388-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2657649/531529976_1731692118110.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01ZxeXaY1HAQfY81rFy_!!6000000000717-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/497016/99403214.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01uK2rVR245JPpd1bSf_!!6000000007339-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1732081800000",
+                "sellStartTimeStr": "11月20日 13:50",
+                "countDown": "387237",
+                "rcdt": "387236490",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥198 - ¥1666",
+                "performBases": [
+                    {
+                        "name": "12.28 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1735315200000",
+                        "performs": [
+                            {
+                                "performId": "216879007",
+                                "performName": "2024-12-28  周六 19:00",
+                                "itemId": "847097767146",
+                                "projectId": "222474002",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1735383600000",
+                                "performTime": "2024.12.28 19:00",
+                                "performStartDate": "2024-12-28",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售，正式开票后将第一时间配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "预约抢票",
+                "buyBtnTipAfterCountDown": "提前选票档 抢票更丝滑",
+                "buyBtnStatusAfterCountDown": "90",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "141889",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "23115",
+                    "1611",
+                    "4939",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9867",
+                    "2443",
+                    "12171",
+                    "395",
+                    "1163",
+                    "16267",
+                    "14731",
+                    "37259",
+                    "716673",
+                    "9355",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "statusTips": [
+                    "<span style=\"color: #69717C\"><b>预售</b> | 本商品为预售，正式开票后将第一时间配票</span>"
+                ],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8470977671/2/847097767146.jpg"
+            }
+        }
+    }
+}

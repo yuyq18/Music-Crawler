@@ -1,0 +1,579 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：王铮亮",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1377",
+    "cityname": "成都",
+    "couponTags": "[]",
+    "description": "艺人：王铮亮",
+    "id": "1_1_852313711828",
+    "imgurl": "-66797474",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "王铮亮On The Road to…巡回演唱会-成都站",
+    "nameNoHtml": "王铮亮On The Road to…巡回演唱会-成都站",
+    "price": "380.0",
+    "price_str": "380-1080",
+    "pricehigh": "1080.0",
+    "privilegeTags": "[]",
+    "projectid": "852313711828",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.14 周六 19:00",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "成都金融城演艺中心",
+    "venuecity": "成都",
+    "venueid": "92393",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01nI5ZlJ2GdSeLRZkWZ_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "852313711828",
+                    "itemName": "【成都】王铮亮On The Road to…巡回演唱会-成都站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "510100",
+                    "cityName": "成都市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01nI5ZlJ2GdSeLRZkWZ_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01nI5ZlJ2GdSeLRZkWZ_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.12.14 周六 19:00",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京少城时代文化发展有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：北京少城时代文化发展有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1377",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><span style=\"font-size: 18px;\"><strong>王铮亮On The Road to…巡回演唱会</strong></span></p>\n<p>人生就像一辆列车，从生命之初开往日落的尽头。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01nhzn342GdSeS14qoB_!!2251059038.jpg\" width=\"653\" height=\"1161\" damai_width=\"653\" damai_height=\"1161\"></p>\n<p>王铮亮2024年On The Road to…巡回演唱会，是过去一年的延续，也是新旅程的开始。在2024年，王铮亮走过披荆斩棘的「路」，汗水和努力穿越了春天的微风，夏天的阳光，秋天的落叶，走向了2024年的年末。</p>\n<p>每个人都行驶在自己人生的漫长道路上，面对无数分叉口，不管你选择哪一条「路」，都会看到独一无二的风景</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01vrDTLp2GdSeScC0iH_!!2251059038.jpg\" width=\"691\" height=\"1037\" damai_width=\"691\" damai_height=\"1037\"></p>\n<p>在这一次未知的单程旅途，没有预设的轨道，回不到过去，只有一直前进。</p>\n<p>旅途是孤单的，但不孤独，走在半「路」上，遇到的那些旅客，有越走越远的，有擦肩而过的，有不辞而别的，来来往往、上上下下，没有一个人可以至始至终陪着你走完。</p>\n<p>每一次选择，脚下的「路」都是生命的延续与沉淀。在繁复的世界，不管风雨还是晴天，都是旅途路上不可或缺的色彩，能在旅程上相遇相识，便是缘分。</p>\n<p>对于歌手王铮亮来说，在你面前唱歌，陪伴你走过这一路，在今天感动你，让你度过愉快的夜晚，就是他最珍贵的沿途风景。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01GOsBX92GdSeTQtTO7_!!2251059038.jpg\" width=\"690\" height=\"460\" damai_width=\"690\" damai_height=\"460\"></p>\n<p>当他要下车时，该心存感恩，即使不舍，也要挥手道别 ，因为，说不定下一站会有另外一个他，陪你走得更远。</p>\n<p>王铮亮，从快乐男声到深情哥哥，慢人慢活，慢慢走向自己的目的地，感恩这路上的相遇相伴，下一站，又能遇上下一个你吗？</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01e1fRGm2GdSeUElgyT_!!2251059038.jpg\" width=\"691\" height=\"1037\" damai_width=\"691\" damai_height=\"1037\"></p>\n<p>内地实力歌手王铮亮自2007年出道后，陆续发行了《慢人理论》《还是爱着》等七张个人专辑。他的多首歌曲广为传唱，使他成为华语乐坛当之无愧的中坚力量。无论是温情脉脉、家喻户晓的《时间都去哪儿了》，还是充满激情、热血澎湃的《不凡》，亦或是轻松舒缓、能让人放松心情的《今日休业中》，这些歌曲都如同知心老友，陪伴歌迷朋友们度过了人生的不同阶段。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01swcHtl2GdSeQk6b7g_!!2251059038.jpg\" width=\"691\" height=\"948\" damai_width=\"691\" damai_height=\"948\"></p>\n<p>王铮亮全新三巡On the Road to…正式启航，携手华语世界顶级演唱会制作团队，打造全新视听盛宴，无论是深情慢歌，还是动感节奏，无论是新粉还是老友，一起来「路」上感受王铮亮的音乐魅力，一起On the Road！</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><strong>违禁/限带物品清单</strong></span></p>\n<p><strong>一、严禁以下违禁物品进场：</strong><br>1、枪支、军用或警用械具类(含主要零部件)物品；<br>2、爆炸物品类；<br>3、管制刀具；<br>4、易燃、易爆物品；<br>5、氰化物、砒霜、剧毒农药等剧毒化学品以及硒粉、苯酚等；<br>6、腐蚀性物品：硫酸、盐酸、有液蓄电池(含氢氧化钾固体、注有酸液或碱液的)、氢氧化钠、氢氧化钾、汞(水银)等物品；<br>7、放射性物品，放射性同位素等放射性物品；<br>8、其他可能影响活动正常开展的物品，如有强烈刺激性物品，不能判明性质可能具有危险性的物品；<br>9、国家法律法规规定的其他禁止携带物品。<br><strong>二、严格限制以下物品进场：</strong><br>1、易造成严重伤害的民用生活生产工具，包含但不限于金属、陶瓷等硬质裁纸刀、水果刀、餐刀、剪刀、工艺刀、工具刀，锤子、钢（铁）锉、锥子（尖锐物）、钻子、铁棍等利器、钝器；<br>2、含有易燃易爆物质的生活用品，如锂电池，饮用酒类，花露水、香水、洗甲水、光亮剂、衣领净等易燃液体以及卫生杀虫剂、空气清新剂、发胶等用自喷压力容器包装的物品；<br>3、易碎品与各类容器，例如玻璃瓶/杯、保温杯、冰盒、奶瓶等；<br>4、自带的各类软硬包装饮料，特别是含酒精饮料；以及超过本人使用量的易投掷食品（如大量水果或鸡蛋等）；<br>5、带有政治、种族、宗教、商业、中国法律的横幅、标语以及旗帜、广告牌、宣传单等非主办方认证的宣传物品；<br>6、除婴儿车与轮椅之外的任何代步工具，包括但不限于电动自行车、小型摩托车、自行车、踏板车等；<br>7、植物类（鲜花、盆栽等），动物类（导盲犬等服务类动物除外）；<br>8、乐器，包括演奏乐器、口哨、喇叭、鼓等；<br>9、球棒、球拍、长棍、飞碟及类似物品，长柄伞、尖头伞及长度超过50厘米的雨伞等易造成人身伤害的物品；<br>10、专业摄像设备及用于照相机与摄像机的三角支架（特需除外），含自拍杆；<br>11、扩音器、盒式收录机、乐器、激光笔、反射镜等发光或发刺激声音的物品，根据其使用方法不同，有可能给现场带来麻烦或妨碍活动运营的物品；<br>12、任何形式的无人机、空飘物及用空气等膨胀后，最长部分的长度超过30cm的物品（袋状物除外）；<br>13、无线通讯设备，如电台、无线WiFi、UWB、蓝牙等（智能手机除外）；<br>14、任何形式的椅子、凳子、沙发、帐篷等物品；<br>15、 硬（软）质发光物品（包含头饰、手环、荧光棒等），所有规格的灯箱、灯牌、灯袋等应援物品；<br>16、其他可能影响安全及违反中国法律或妨碍活动运营和秩序的物品，如打火机、火柴等点火器具、注射器、药剂、工具类等物品；</p>\n<p><strong>注：更多禁、限带物品以现场安检为准。</strong></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "北京少城时代文化发展有限公司",
+                            "socialCreditCode": "911101053271732888",
+                            "legalPerson": "冯轲",
+                            "regCapStr": "1000万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "北京市朝阳区酒仙桥路10号1幢108室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：外国人永久居留身份证/护照/港澳台居民居住证/台湾居民来往大陆通行证/港澳居民来往内地通行证/身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "王铮亮"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "92393",
+                    "venueName": "成都金融城演艺中心",
+                    "venueProvinceName": "四川省",
+                    "venueCityName": "成都市",
+                    "lng": 104.069678,
+                    "lat": 30.574674,
+                    "venueAddr": "成都市高新区天府大道北段1777号",
+                    "showCountText": "共有8个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=852313711828"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D852313711828%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "21023120",
+                        "artistName": "王铮亮",
+                        "archives": "中国内地实力唱作人，2007年参加湖南卫视节目《快乐男声》进入大众视野。音乐代表作：《时间都去哪儿了》《还是爱着》《只是没有如果》《不凡》等。\n2014年首登央视总台马年春晚，独唱歌曲《时间都去哪儿了》，2023年再次登上春晚演唱歌曲《和往事干了好几杯》",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1682664343444/1682664343444-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "21023120",
+                        "name": "王铮亮",
+                        "desc": "中国内地实力唱作人，2007年参加湖南卫视节目《快乐男声》进入大众视野。音乐代表作：《时间都去哪儿了》《还是爱着》《只是没有如果》《不凡》等。\n2014年首登央视总台马年春晚，独唱歌曲《时间都去哪儿了》，2023年再次登上春晚演唱歌曲《和往事干了好几杯》",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1682664343444/1682664343444-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "6258",
+                    "wantNumStr": "6258",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i2/O1CN018aua481exC051EFzr_!!6000000003937-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2262031/452406399_1693678389841.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01xaKrwg1sZkLQhsrPN_!!6000000005781-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/537707/107541518_1686628974489.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01HRvUZB1lBHsggFFau_!!6000000004780-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购票",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1731640202000",
+                "sellStartTimeStr": "11月15日 11:10",
+                "priceRange": "¥380 - ¥1080",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售，正式开票后将第一时间配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "141889",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "26699",
+                    "23115",
+                    "23883",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9867",
+                    "2443",
+                    "12171",
+                    "395",
+                    "1163",
+                    "16267",
+                    "14731",
+                    "37259",
+                    "716673",
+                    "9355",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3237314"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "statusTips": [
+                    "<span style=\"color: #69717C\"><b>预售</b> | 本商品为预售，正式开票后将第一时间配票</span>"
+                ],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8523137118/2/852313711828.jpg"
+            }
+        }
+    }
+}
