@@ -1,0 +1,60 @@
+{
+    "platform": "大麦",
+    "project_id": "853375023772",
+    "project_name": "曾轶可「迷人的危险Captivating Danger」巡演·深圳站",
+    "category_name": "演唱会",
+    "artists": [
+        "曾轶可"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.14 周六 19:30",
+    "session_time": [
+        "12.14 周六"
+    ],
+    "price": "380-1680",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "南山文体中心聚橙剧院 大剧院",
+    "venue_info": {
+        "venue_address": "南山大道与南头街交汇处南山文体中心",
+        "lng": 113.924232,
+        "lat": 22.535747
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01ehQsba2GdSeVuwddP_!!4611686018427383646-2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01NrVTPK2GdSeWnlOON_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01MmevS12GdSebGodwW_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "975",
+        "wantNumStr": "975",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "853375023772",
+            "cityName": "深圳站",
+            "showTime": "12.14"
+        },
+        {
+            "itemId": "847152102236",
+            "cityName": "南京站",
+            "showTime": "11.23"
+        },
+        {
+            "itemId": "851250121560",
+            "cityName": "郑州站",
+            "showTime": "12.07"
+        },
+        {
+            "itemId": "851815008882",
+            "cityName": "宁波站",
+            "showTime": "12.27"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=853375023772"
+}
