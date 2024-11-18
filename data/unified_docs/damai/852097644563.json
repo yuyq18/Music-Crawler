@@ -1,0 +1,59 @@
+{
+    "platform": "大麦",
+    "project_id": "852097644563",
+    "project_name": "海来阿木「不如见一面」2024巡回演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "海来阿木"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.21 周六 20:00",
+    "session_time": [
+        "12.21 周六"
+    ],
+    "price": "488-1388",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "中国澳门",
+    "venue_name": "[ 澳门百老汇 ] - 百老汇舞台",
+    "venue_info": {
+        "venue_address": "澳门路氹金光大道",
+        "lng": 113.556898,
+        "lat": 22.142474
+    },
+    "project_info": "澳门币票价MOP：1388/988/788/488人民币售价CNY：1388元/988元/788元/488元门票已含境外（含港澳台）服务费\n \n配送说明：本项目门票不支持退换，不可转让。演出只适合3岁或以上人士，一人一票，入场时必需持有有效门票。购票成功的客户，请您提前办理好港澳通行证-中国澳门签注。当天如出现遗失或忘带门票情况不予处理，感谢您的支持与理解。\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01pF7rjw2GdSeNW8lza_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN015KgyGd2GdSeMOjJW8_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "549",
+        "wantNumStr": "549",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "852097644563",
+            "cityName": "中国澳门站",
+            "showTime": "12.21"
+        },
+        {
+            "itemId": "839995664789",
+            "cityName": "南京站",
+            "showTime": "11.30"
+        },
+        {
+            "itemId": "852184319035",
+            "cityName": "苏州站",
+            "showTime": "12.14"
+        },
+        {
+            "itemId": "809056559500",
+            "cityName": "福州站",
+            "showTime": "2025.01.11"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=852097644563"
+}
