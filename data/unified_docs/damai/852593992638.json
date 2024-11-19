@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "852593992638",
+    "project_name": "Vicetone 2024 Project V Tour-上海站",
+    "category_name": "演唱会",
+    "artists": [
+        "Vicetone"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.06 周五 19:30",
+    "session_time": [],
+    "price": "380-980",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "上海",
+    "venue_name": "回响之地 Music Park",
+    "venue_info": {
+        "venue_address": "绥宁路820号虹桥体育公园B2层",
+        "lng": 121.345982,
+        "lat": 31.221273
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01u2MO392GdSeTaKvGN_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01FVXenU2GdSeSsmmlN_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN017Qfom92GdSeVCUUI7_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01pEWdCq2GdSeTMBE6U_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN019hOaqA2GdSeTaLjEd_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01b5Yz2k2GdSeSzIjNC_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01THtIO72GdSeWEcfJA_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "179",
+        "wantNumStr": "179",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "852593992638",
+            "cityName": "上海站",
+            "showTime": "12.06"
+        },
+        {
+            "itemId": "850393564162",
+            "cityName": "广州站",
+            "showTime": "12.08"
+        },
+        {
+            "itemId": "853425422199",
+            "cityName": "青岛站",
+            "showTime": "12.11"
+        },
+        {
+            "itemId": "850394744211",
+            "cityName": "成都站",
+            "showTime": "12.15"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=852593992638"
+}

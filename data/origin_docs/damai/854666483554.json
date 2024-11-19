@@ -1,0 +1,595 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "200",
+    "cityname": "重庆",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_854666483554",
+    "imgurl": "-43269757",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "李杰《乐上莲花》演唱会（大剧场）",
+    "nameNoHtml": "李杰《乐上莲花》演唱会（大剧场）",
+    "price": "80.0",
+    "price_str": "80-680",
+    "pricehigh": "680.0",
+    "privilegeTags": "[]",
+    "projectid": "854666483554",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.26 周四 19:30",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "重庆大剧院",
+    "venuecity": "重庆",
+    "venueid": "906",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01g0XUTA2GdSecqN27j_!!4611686018427383646-2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "854666483554",
+                    "itemName": "【重庆】李杰《乐上莲花》演唱会（大剧场）",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "500100",
+                    "cityName": "重庆市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01g0XUTA2GdSecqN27j_!!4611686018427383646-2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01g0XUTA2GdSecqN27j_!!4611686018427383646-2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2024.12.26 周四 19:30",
+                    "showDuration": "约120分钟，无中场休息，以现场为准",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：重庆市保利文投剧院管理有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：重庆市保利文投剧院管理有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "200",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-indent: 27px; text-align: center;\"><span style=\"color: #000000; font-size: 19px; font-family: 宋体;\"><strong>观众购票取票须知</strong></span></p>\n<p style=\"text-indent: 27px; text-align: center;\"><span style=\"color: #e13c39; background-color: #fffb8f; font-size: 16px; font-family: 宋体;\"><strong>（演出票一经售出恕不退换，购票前请仔细阅读以下内容，购票即视为同意以下条款）</strong></span></p>\n<p style=\"text-indent: 27px; text-align: center;\"><span style=\"color: #d8d8d8; font-size: 13px; font-family: 宋体;\">-------------------------------------------</span></p>\n<p style=\"text-indent: 27px; text-align: start;\"><span style=\"font-size: 13px; font-family: 宋体;\"><strong>平日取票时间：9:00—18:00、演出日取票时间：9:00—20:00</strong></span></p>\n<p style=\"text-indent: 27px; text-align: start;\"><span style=\"font-size: 13px; font-family: 宋体;\">如遇特殊情况，另行通知，感谢您的配合！</span></p>\n<p style=\"text-indent: 27px; text-align: start;\">&nbsp;</p>\n<p style=\"text-indent: 20px; text-align: start;\"><span style=\"color: #cf1322; background-color: #ffec3d; font-size: 13px; font-family: 宋体;\"><strong>1、本场演出所有观众（含儿童）凭票入场，请家长为同行的儿童购买同一楼层演出票！</strong></span></p>\n<p style=\"text-indent: 20px; text-align: start;\"><span style=\"font-size: 13px; font-family: 宋体;\">2、官网及微信购票观众，请选座后在</span><span style=\"color: #d4380d; font-size: 13px; font-family: 宋体;\"><strong>15分钟内</strong></span><span style=\"font-size: 13px; font-family: 宋体;\">完成支付，否则您选择的座位将不会被保留。</span></p>\n<p style=\"text-indent: 20px; text-align: start;\"><span style=\"font-size: 13px; font-family: 宋体;\">3、本场演出食品、饮料、水、鲜花、相机、摄像机谢绝带入场内。</span></p>\n<p style=\"text-indent: 20px; text-align: start;\"><span style=\"color: #cf1322; background-color: #ffec3d; font-size: 13px; font-family: 宋体;\"><strong>4、演出纸质门票是进场观演的唯一凭证</strong></span><span style=\"color: #cf1322; background-color: #ffec3d; font-size: 13px; font-family: 宋体;\">，</span><span style=\"font-size: 13px; font-family: 宋体;\">请妥善保管。如因个人原因出现演出票丢失、票面信息涂改、粘贴、破损或无法辨识等情况，剧院概不负责，须重新购票方可入场。</span></p>\n<p style=\"text-indent: 20px; text-align: start;\"><span style=\"color: #cf1322; background-color: #ffec3d; font-size: 13px; font-family: 宋体;\"><strong>5、演出票具有唯一性、时效性，如非演出变更或取消的原因，不提供退换票服务。</strong></span></p>\n<p style=\"text-indent: 20px; text-align: start;\"><span style=\"font-size: 13px; font-family: 宋体;\">6、演出均需凭票入场，请购票前确认好演出相关规定。</span></p>\n<p style=\"text-indent: 20px; text-align: start;\"><span style=\"font-size: 13px; font-family: 宋体;\">7、演出票仅限观看当天当场次演出，逾期失效，请提前取票、按时入场，部分演出迟到观众需在场外等候，待幕间听从工作人员安排进场。</span></p>\n<p style=\"text-indent: 20px; text-align: start;\"><span style=\"font-size: 13px; font-family: 宋体;\">8、请对应楼层入场、对号入座，</span><span style=\"color: #cf1322; font-size: 13px; font-family: 宋体;\"><strong>请家长为同行的儿童购买同一楼层演出票！</strong></span></p>\n<p style=\"text-indent: 20px; text-align: start;\"><span style=\"font-size: 13px; font-family: 宋体;\">9、有效取票期：购票成功即刻起至演出当天。</span></p>\n<p style=\"text-indent: 20px; text-align: start; line-height: 2;\">&nbsp;</p>\n<p style=\"text-align: center; line-height: 2;\"><span style=\"color: #d8d8d8; font-size: 16px; font-family: 宋体;\">--------------------------------------</span></p>\n<p style=\"text-align: center;\"><span style=\"color: #000000; font-size: 16px; font-family: 宋体;\"><strong>李杰《乐上莲花》演唱会</strong></span></p>\n<p style=\"text-align: center;\"><img style=\"width: 100%;\" src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01qBfTGJ2GdSeaDi5HL_!!2251059038.jpg\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"><span style=\"font-size: 13px;\">李杰</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 13px;\">著名音乐人/作曲家</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 13px;\">中国音乐家协会会员 中国音像与数字出版协会音乐产业促进工作委员会副秘书长 &nbsp;中华文化促进会传统委员会副主任 北京现代音乐学院客座教授 曾师从谷建芬老师，他创作的《红旗飘飘》，家喻户晓。</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 13px;\">曾荣获第三届“央视青歌赛”通俗唱法专业组冠军。后担任过三届CCTV青年歌手大奖赛评委，三次获得 国家“五个一工程”奖，为中国流行音乐做出杰出贡献。迄 今为止李杰已创作了千余首原创音乐作品，其中包含音乐剧、电视剧、电影音乐等。是当之无 愧的中国原创音乐领军人物。</span></p>\n<p style=\"text-align: center;\"><img style=\"width: 100%;\" src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01CVkRXD2GdSeTnbuNF_!!2251059038.png\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 13px;\">李杰《乐上莲花》作品音乐会</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 13px;\">一场音乐的心灵之旅—-人生是无常的【醒来】</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 13px;\">2024 年 12月，音乐界将迎来一场备受瞩目的盛会——李杰《乐上莲花》作品音乐会。这场音乐会将以其独特的音乐风格和深刻的艺术内涵，为观众带来一场无与伦比的音乐盛宴。 &nbsp; &nbsp;李杰，作为中国当代音乐领域的杰出代表，以其卓越的创作才华和独特的音乐风格赢得了广泛的赞誉。他的音乐作品融合了多种元素，将民族音乐与现代音乐巧妙地结合在一起，创造出了一种既具有传统韵味又富有时代气息的世界音乐语言。</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 13px;\">《乐上莲花》作品音乐会是李杰多年音乐创作的一次集中展示，也是他对音乐艺术的一次深入探索。音乐会以“乐上莲花”为主题，寓意着音乐的纯净与美好，如同莲花般在人们的心中绽放。在这场音乐会上，观众将欣赏到李杰精心创作的一系列优秀作品，这些作品的背后充分展现了李杰的音乐才华和创作多样性，以及李杰本人对人生的感悟。音乐会的演出阵容汇聚了国内众多优秀的音乐家和多民族歌手。他们将以精湛的技艺和饱满的热情，共同演绎李杰的音乐作品，将音乐的魅力展现得淋漓尽致。此外，音乐会的舞台设计也将独具匠心，通过灯光、音效等多种手段，营造出一片音乐世界的净土，让观众在欣赏音乐的同时，也能享受到一场心灵的洗礼。</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 13px;\">李杰《乐上莲花》作品音乐会不仅是一场音乐的盛会，更是一次心灵的旅程。在这个喧嚣的世界里，让我们一起走进李杰的音乐世界，感受音乐的力量，寻找内心的宁静与美好。相信这场音乐会将成为音乐史上的一次经典之作，为观众留下难忘的回忆。 &nbsp; &nbsp;</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>个人专辑</strong></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">1.《热线你和我》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">2.《昨夜》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">3.《表情》原创</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">4.《谁都看见了希望》原创</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">5.《花舞》原创</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">6.《乐上莲花》原创</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">7.《解梦》原创</span></p>\n<p style=\"text-align: center;\"><strong>单曲制作</strong></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">孙楠《红旗飘飘》、《把幸福给你》、《净土》、《江河恋》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">那英《爱的阳光》、《天亮》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">火风《想往》、《路》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">田震《真爱无限》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">戴玉强《迟到的明白》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">宋祖英《边疆颂歌》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">韩磊《潮涌东方》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">火风、霍尊《爷俩干杯》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">阎维文《冰窗花》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">黄绮珊《香味》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">柯以敏《我们爱一辈子好不好》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">齐豫《菩提树》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">满文军《岁月的眼泪》、《承诺》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">陈琳《当爱已错时》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">师鹏《兵马俑》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">何静《家园》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">姜昕《花开不败》、《我要飞》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">孙榕《鱼儿水草》、《大山的精神》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">李安慧《我的家国》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">李龙《我的你》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">孙艺恬《我爱上西藏》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">王亚民《一个人的月亮》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">刘艺《我和父亲》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">塔拉吉斯《裕固家园》、《永不分离》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">张羽《小小的地球》、《思念大海》</span></p>\n<p style=\"text-indent: 11.4pt; text-align: center;\"><span style=\"font-family: 宋体;\">为”家园计划“创作歌曲《家园》、《行走》、《稻谷》、《我要飞》、《飞越唐古拉山》、《云南》、《亚洲象》《长臂猿》、《青梅竹马》</span></p>\n<p style=\"text-align: center;\"><strong>荣誉奖项</strong></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">1988年获得全国五洲杯电视歌曲大奖赛流行歌曲专业组第一名，</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">获奖曲目《军礼》《伸出告别的手》。</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">1987年获得全国五省市校园歌曲大奖赛第一名，</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">获奖曲目《男孩》《花雪》。</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">1997年作品《红旗飘飘》荣获“上海东方风云榜”最佳作曲奖。</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">1999年作品《笑容》获得中央人民广播电台98年十大金曲奖。</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">2005年被评为中央电视台《东方时空》“东方之子。</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">2008年四川汶川大地震赈灾义演。</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">《红旗飘飘》荣获改革开放30年流行金曲奖。</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">《红旗飘飘》2009 年被中宣部评为百首爱国歌曲之一。</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">《红旗飘飘》作为60周年、70周年国庆阅兵仪式上演奏的曲目。</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">《红旗飘飘》作为第七届世界军人运动会开幕式歌曲。</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">2009年北展剧场举办李杰《红旗飘飘》作品音乐会。</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">2010年辽宁营口家乡成功举办李杰《红旗飘飘》作品音乐会。</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">2019年9月26日山西润城举办李杰《乐上莲花》个人演唱会。</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">2012年《把幸福给你》获得第十二届全国精神文明建设“五个一工程”奖 。 2014年《净土》获得第十三届精神文明建设“五个一工程”优秀作品奖。</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\"> &nbsp; &nbsp;2014年《净土》获第七届“云南文化精品工程”作品奖。</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">2014年《江河恋》获得第十三届精神文明建设“五个一工程”优秀作品奖。</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\"> 2019 年《红旗飘飘》被中宣部评为百首爱国歌曲之一。</span></p>\n<p style=\"text-align: center;\"><strong>城市企业形象歌曲</strong></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">茅台酒厂厂歌《我们的未来》演唱谭晶</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">青岛啤酒《荣誉》演唱太阳部落组合</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">沈阳三菱重工《心在路上》演唱侯旭</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">江西大余县歌《一生想去的地方》演唱孙楠</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">江西抚州南丰县县歌《橘香韵》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">辽宁台营口市形象歌曲《营口有礼》、《天下营口 人》、《望儿山上》 </span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">厦门首届国际芭蕾舞大赛歌曲《旋转星球》 演唱汪冬璇</span></p>\n<p style=\"text-align: center;\"><strong>栏目音乐</strong></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">为历届央视中秋晚会创作开场曲《明月升》、压轴曲《海上明月》 2020年辽宁春晚压轴曲目《同一个祝福》、《今年春节到沈阳》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">央视四套栏目《远方的家》”沿海行”特邀作曲《边疆颂歌》《潮涌东方》 《江河恋》《爱在山川》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">央视四套栏目《记住乡愁》</span></p>\n<p style=\"text-align: center;\"><strong>电影配乐</strong></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">电影《碧血丹砂》导演：司小东</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">电影《郭明义》导演 ：陈国星 王竟</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">电影《追踪章鱼保罗》导演：小江</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">动漫电影《格萨尔王之磨练》原声音乐作曲 导演：路齐</span></p>\n<p style=\"text-align: center;\"><strong>电视剧配乐</strong></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">1999年《男人离婚》导演：江澄</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">2011年《老爸的筒子楼》导演：顾晶</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">2011年《遍地狼烟》导演：虎子</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">2012年《木府风云》导演：于荣光</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">2013年《小两口》导演：蓝志伟、郑晓龙</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">2017年《谍战计中计》导演：巍子</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">2018年《一代洪商》导演：路奇</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">2020年《大路朝东》导演：王连平</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">2022年 《一步千年》导演：王连平</span></p>\n<p style=\"text-align: center;\"><strong>音乐剧、 话剧创作</strong></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">音乐剧《奉旨越狱》导演：文硕</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">音乐剧《爱我就给我跳支舞》导演：文硕</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">音乐剧《泰山情缘之石敢当》导演：杨硕</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">话剧《上甘岭》导演：黄宏</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">音乐诗剧《青山风骨》导演：郭凯敏</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\"><strong>曲目单</strong></span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">1.人间家园</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">作曲:李杰</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">合唱:云图、华尔丹、吴俊龙、罗曼、阿苏阿敏、热依玛</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">2.万物</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">作词:化方/作曲:李杰演唱:李杰</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">3.善者</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">作词:传悟、紫晴/作曲:李杰</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">演唱:李杰</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">说唱:云图</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">4.赞美</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">作词:源子夫、字杰/作曲:字杰</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">演唱:李杰、云图、华尔丹、吴俊龙、罗曼、阿苏阿敏、热依玛</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">5.醒来</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">作词:释陵琦 、李杰/作曲:李杰、</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">演唱:李杰、云图、华尔丹、吴俊龙、罗曼、阿苏阿敏、热依玛</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">6.如之何</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">作词:源子夫/作曲:李杰</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">演唱:李杰、云图、华尔丹、吴俊龙、罗曼、阿苏阿敏、热依玛</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">7.水上花</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">作词:江小鱼 李杰/作曲:字杰</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">领唱:华尔丹</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">伴唱:吴俊龙、罗曼、阿苏阿敏、热依玛</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">8.菩提树</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">作词:化方/作曲:李杰</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">领唱:阿苏网敏、罗量、热依玛</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">伴唱:华尔丹、吴俊龙</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">9.莲花之上</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">作词:圣哥/作曲:李杰 演唱:李杰</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">伴唱:云图、华尔丹、吴俊龙、罗曼、阿苏阿敏、热依玛阿苏阿敏、热依玛</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">10.乐上莲花</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">作词:源子夫/作曲:李杰 演唱:李杰</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">伴唱:云图、华尔丹、吴俊龙、罗曼、阿苏阿敏、热依玛</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">11.人间弥勒</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">作词:化方/作曲:李杰 演唱:李杰</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">12.净土</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">作词:化方/作曲:李杰 演唱:李杰</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">伴唱:云图、华尔丹、吴俊龙、罗曼、阿苏阿敏、热依玛阿苏阿敏、热依玛</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">13.花舞</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">作词:李杰/作曲:李杰 &nbsp;演唱:李杰</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">伴唱:网苏网敏、罗曼、热依玛</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">14.燃烧的天空</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">作词:李杰/作曲:李杰 &nbsp;演唱:李杰</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">伴唱:云图、华尔丹、吴俊龙、罗曼、阿苏阿敏、热依玛</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">15.介绍演员、乐手</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">陈磊《吉他)、嫌姆(贝斯)、丁晓(笛箫)作词:江小鱼 李杰/作曲:字杰糜思远(古筝)、王小妹(笙)、云图(羊皮鼓)领唱:华尔丹宝音(打击乐)</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">伴唱:云图、华尔丹、吴俊龙、罗曼、阿苏阿敏、8.菩提树热依玛</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">16..红旗飘飘</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">作词:乔方/作曲:李杰</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #101214; font-size: 13px;\">演唱:李杰/家园计划/全体</span></p>\n<p style=\"text-align: center; line-height: 1.5;\"><span style=\"color: #000000; background-color: #ffffff; font-size: 12px;\"><strong>*演出曲目及顺序以当天实际为准</strong></span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "",
+                            "socialCreditCode": "",
+                            "legalPerson": "",
+                            "regCapStr": "",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "",
+                            "entAddress": ""
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须兑换成纸质票验票入场，当天请按照【票夹】提示，前往取票点换取纸质票后入场"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "所有观众凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟，无中场休息，以现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "906",
+                    "venueName": "重庆大剧院",
+                    "venueProvinceName": "重庆",
+                    "venueCityName": "重庆市",
+                    "lng": 106.581193,
+                    "lat": 29.569961,
+                    "venueAddr": "江北城·江北嘴",
+                    "showCountText": "共有21个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=854666483554"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D854666483554%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1732071600000",
+                "sellStartTimeStr": "11月20日 11:00",
+                "countDown": "31414",
+                "rcdt": "31413717",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥80 - ¥680",
+                "performBases": [
+                    {
+                        "name": "12.26 周四",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1735142400000",
+                        "performs": [
+                            {
+                                "performId": "217305196",
+                                "performName": "2024-12-26 周四 19:30",
+                                "itemId": "854666483554",
+                                "projectId": "222863021",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1735212600000",
+                                "performTime": "2024.12.26 19:30",
+                                "performStartDate": "2024-12-26",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "优惠"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "380元票价打8.00折",
+                        "performanceIds": [
+                            "217305196"
+                        ]
+                    },
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "580元票价打8.00折",
+                        "performanceIds": [
+                            "217305196"
+                        ]
+                    },
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "680元票价打8.00折",
+                        "performanceIds": [
+                            "217305196"
+                        ]
+                    }
+                ],
+                "promotionRemark": "您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "选座购票",
+                "buyBtnStatusAfterCountDown": "206",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "141889",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "26699",
+                    "23115",
+                    "23883",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9867",
+                    "2443",
+                    "12171",
+                    "395",
+                    "1163",
+                    "16267",
+                    "14731",
+                    "37259",
+                    "716673",
+                    "9355",
+                    "8843",
+                    "9099",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "promotionList": [
+                    {
+                        "type": "SHOP",
+                        "tag": "满减",
+                        "isTagList": "false",
+                        "desc": "¥680票档，满1张打8折"
+                    }
+                ],
+                "promotionDetail": {
+                    "skuPromotionRelations": "854666483554&217305196&5659313025654_96680898623@5659313025655_96680466926@5659313025656_96681708093",
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "2",
+                            "promotionGroupTypeDesc": "满减活动",
+                            "promotionList": [
+                                {
+                                    "promotionType": "4",
+                                    "promotionTag": "满减",
+                                    "promotionContentList": [
+                                        "¥380票档，每满1张打8折",
+                                        "¥580票档，每满1张打8折",
+                                        "¥680票档，每满1张打8折"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "¥580",
+                                            "displayContent": "每满1张打8折"
+                                        },
+                                        {
+                                            "skuName": "¥380",
+                                            "displayContent": "每满1张打8折"
+                                        },
+                                        {
+                                            "skuName": "¥680",
+                                            "displayContent": "每满1张打8折"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "statusTips": [],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8546664835/2/854666483554.jpg"
+            }
+        }
+    }
+}

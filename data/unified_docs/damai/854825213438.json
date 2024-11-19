@@ -1,0 +1,57 @@
+{
+    "platform": "大麦",
+    "project_id": "854825213438",
+    "project_name": "迪斯科女王张蔷 《蔷行世界》福州站",
+    "category_name": "演唱会",
+    "artists": [
+        "张蔷"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.27 周五 20:00",
+    "session_time": [],
+    "price": "258-368",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "福州",
+    "venue_name": "海艺xCH8 Livehouse",
+    "venue_info": {
+        "venue_address": "城门镇南江滨东大道1号",
+        "lng": 119.418597,
+        "lat": 25.995657
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01EKfaj72GdSea5UBlO_!!4611686018427383646-0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Cg9zOu2GdSeZMuwnB_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "226",
+        "wantNumStr": "226",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "854825213438",
+            "cityName": "福州站",
+            "showTime": "12.27"
+        },
+        {
+            "itemId": "854509754701",
+            "cityName": "厦门站",
+            "showTime": "12.29"
+        },
+        {
+            "itemId": "849343467210",
+            "cityName": "武汉站",
+            "showTime": "11.24"
+        },
+        {
+            "itemId": "843995724949",
+            "cityName": "郑州站",
+            "showTime": "11.22"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=854825213438"
+}

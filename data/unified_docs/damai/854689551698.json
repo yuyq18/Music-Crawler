@@ -1,0 +1,67 @@
+{
+    "platform": "大麦",
+    "project_id": "854689551698",
+    "project_name": "脑浊乐队2024年“SOS”冬季巡演 南京站",
+    "category_name": "演唱会",
+    "artists": [
+        "脑浊乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.28 周六 20:00",
+    "session_time": [],
+    "price": "100-240",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南京",
+    "venue_name": "1701 Live House",
+    "venue_info": {
+        "venue_address": " 南京市雨花台区安德门大街57号",
+        "lng": 118.764476,
+        "lat": 31.970526
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01l2y41x2GdSecqivKA_!!4611686018427383646-2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01yni8Y62GdSeclArPG_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "852900323293",
+            "cityName": "哈尔滨站",
+            "showTime": "12.06"
+        },
+        {
+            "itemId": "853561916973",
+            "cityName": "长春站",
+            "showTime": "12.07"
+        },
+        {
+            "itemId": "853565252135",
+            "cityName": "大连站",
+            "showTime": "12.08"
+        },
+        {
+            "itemId": "853334817552",
+            "cityName": "沈阳站",
+            "showTime": "12.15"
+        },
+        {
+            "itemId": "852537771900",
+            "cityName": "武汉站",
+            "showTime": "12.21"
+        },
+        {
+            "itemId": "854689551698",
+            "cityName": "南京站",
+            "showTime": "12.28"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=854689551698"
+}
