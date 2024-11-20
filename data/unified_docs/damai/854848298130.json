@@ -1,0 +1,60 @@
+{
+    "platform": "大麦",
+    "project_id": "854848298130",
+    "project_name": "Jony J 24時巡回演唱会-南京站",
+    "category_name": "演唱会",
+    "artists": [
+        "JONY J"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.28 周六 18:30",
+    "session_time": [],
+    "price": "400-1200",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南京",
+    "venue_name": "南京青奥体育公园体育馆",
+    "venue_info": {
+        "venue_address": "南京市浦口区江浦街道横江大道与海滨路交叉口东北",
+        "lng": 118.664022,
+        "lat": 32.049818
+    },
+    "project_info": " \n\n\n\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01pOKpjp2GdSeZXYniA_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN010YstTg2GdSea5hP9d_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN019NKwp22GdSeZJp85M_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01lMjnVH2GdSebsxYhb_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01O5IKap2GdSeb7tlLL_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "8480",
+        "wantNumStr": "8480",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过56%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "854589855579",
+            "cityName": "宁波站",
+            "showTime": "12.21"
+        },
+        {
+            "itemId": "854848298130",
+            "cityName": "南京站",
+            "showTime": "12.28"
+        },
+        {
+            "itemId": "834972224580",
+            "cityName": "广州站",
+            "showTime": "11.23"
+        },
+        {
+            "itemId": "847714015823",
+            "cityName": "武汉站",
+            "showTime": "11.30"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=854848298130"
+}

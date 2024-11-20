@@ -1,0 +1,48 @@
+{
+    "platform": "大麦",
+    "project_id": "855395833380",
+    "project_name": "达达乐队2024【波光凌凌】巡演·上海站",
+    "category_name": "演唱会",
+    "artists": [
+        "达达乐队",
+        "桃子假象"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.08 周日 20:00",
+    "session_time": [],
+    "price": "238-288",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "上海",
+    "venue_name": "蜚声上海PHASE LIVE HOUSE SHANGHAI",
+    "venue_info": {
+        "venue_address": "上海市静安区中兴路1683号L3-27",
+        "lng": 121.453591,
+        "lat": 31.253261
+    },
+    "project_info": "\n嘉宾乐队演出时间：20:00-20:25\n达达乐队演出时间：20:40-22:30\n（以现场演出时间为准）",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Ka8oeJ2GdSeeOZWtQ_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01buvwzM2GdSeaToYqt_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "199",
+        "wantNumStr": "199",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "851341400092",
+            "cityName": "成都站",
+            "showTime": "12.01"
+        },
+        {
+            "itemId": "855395833380",
+            "cityName": "上海站",
+            "showTime": "12.08"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=855395833380"
+}

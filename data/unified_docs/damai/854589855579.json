@@ -1,0 +1,58 @@
+{
+    "platform": "大麦",
+    "project_id": "854589855579",
+    "project_name": "Jony J 24時巡回演唱会-宁波站",
+    "category_name": "演唱会",
+    "artists": [
+        "JONY J"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.21 周六 19:00",
+    "session_time": [],
+    "price": "400-1000",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "宁波",
+    "venue_name": "宁波奥体中心体育馆",
+    "venue_info": {
+        "venue_address": "宁波市江北区云飞路1280号",
+        "lng": 121.488102,
+        "lat": 29.931387
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01f2kEKg2GdSearjy1a_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01RVuqkW2GdSeUIEGQh_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01tujfNW2GdSefJBFiB_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "4772",
+        "wantNumStr": "4772",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "854589855579",
+            "cityName": "宁波站",
+            "showTime": "12.21"
+        },
+        {
+            "itemId": "854848298130",
+            "cityName": "南京站",
+            "showTime": "12.28"
+        },
+        {
+            "itemId": "834972224580",
+            "cityName": "广州站",
+            "showTime": "11.23"
+        },
+        {
+            "itemId": "847714015823",
+            "cityName": "武汉站",
+            "showTime": "11.30"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=854589855579"
+}
