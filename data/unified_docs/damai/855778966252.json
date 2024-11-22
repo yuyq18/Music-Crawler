@@ -1,0 +1,95 @@
+{
+    "platform": "大麦",
+    "project_id": "855778966252",
+    "project_name": "海阔天空 怀念家驹【海山】致敬BEYOND金曲演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "黄海山"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.29 周日 19:30",
+    "session_time": [
+        "12.29 周日"
+    ],
+    "price": "68-520",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "长沙",
+    "venue_name": "湖南大剧院",
+    "venue_info": {
+        "venue_address": "湖南省长沙市芙蓉区韶山北路139号",
+        "lng": 112.997709,
+        "lat": 28.189736
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01cxdrde2GdSefovbrX_!!4611686018427383646-0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01XBivLZ2GdSeczCGom_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01277wu12GdSeXvXzFQ_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01TF9cF92GdSegaJQIf_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01wJNT1Y2GdSefnKK5J_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01skAwTm2GdSefnLnWd_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01jNsHjF2GdSeeRxPzU_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN019jcqCy2GdSeeRx11v_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01NXearz2GdSegWGbYO_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN016zZVBh2GdSef3220V_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN010ila8x2GdSeXvYFs5_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Esv3PT2GdSegaLVAk_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01jMSpvd2GdSedCG7O9_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "848660934653",
+            "cityName": "广州站",
+            "showTime": "11.24"
+        },
+        {
+            "itemId": "849369372906",
+            "cityName": "锦州站",
+            "showTime": "11.29"
+        },
+        {
+            "itemId": "851170355357",
+            "cityName": "大连站",
+            "showTime": "12.01"
+        },
+        {
+            "itemId": "851477545107",
+            "cityName": "成都站",
+            "showTime": "12.07"
+        },
+        {
+            "itemId": "833521853167",
+            "cityName": "嘉兴站",
+            "showTime": "12.13"
+        },
+        {
+            "itemId": "834527959679",
+            "cityName": "嘉兴站",
+            "showTime": "12.14"
+        },
+        {
+            "itemId": "855561062588",
+            "cityName": "扬州站",
+            "showTime": "12.21"
+        },
+        {
+            "itemId": "855778966252",
+            "cityName": "长沙站",
+            "showTime": "12.29"
+        },
+        {
+            "itemId": "850766444762",
+            "cityName": "佛山站",
+            "showTime": "时间待定"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=855778966252"
+}
