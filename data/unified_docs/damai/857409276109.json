@@ -1,0 +1,55 @@
+{
+    "platform": "大麦",
+    "project_id": "857409276109",
+    "project_name": "《安溥·时寐》巡回演唱会 ——苏州站【收官场】",
+    "category_name": "演唱会",
+    "artists": [
+        "安溥"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.21-12.22",
+    "session_time": [
+        "12.22 周日",
+        "12.21 周六"
+    ],
+    "price": "380-980",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "苏州",
+    "venue_name": "苏州高新区文体中心-体育馆",
+    "venue_info": {
+        "venue_address": "苏州高新区太湖大道999号",
+        "lng": 120.418839,
+        "lat": 31.337628
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01zoCqKZ2GdSeirQt4l_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01REVzLr2GdSeh5NOW7_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN010elpJk2GdSec1kFYi_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Ocwk3s2GdSeh5Mn7V_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01VqU9fA2GdSeiYQGad_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01JymhS42GdSekaM1L0_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01yzQj1c2GdSejrp7LP_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "12825",
+        "wantNumStr": "1.3万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过64%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "857409276109",
+            "cityName": "苏州站",
+            "showTime": "12.21-12.22"
+        },
+        {
+            "itemId": "852319789444",
+            "cityName": "贵阳站",
+            "showTime": "11.30-12.01"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=857409276109"
+}

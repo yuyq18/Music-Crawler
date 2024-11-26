@@ -1,0 +1,533 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "586",
+    "cityname": "武汉",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_857063494088",
+    "imgurl": "-19299652",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "（非自营）李杰《乐上莲花》演唱会",
+    "nameNoHtml": "（非自营）李杰《乐上莲花》演唱会",
+    "price": "80.0",
+    "price_str": "80-680",
+    "pricehigh": "680.0",
+    "privilegeTags": "[]",
+    "projectid": "857063494088",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.01.14 周二 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "武汉琴台大剧院",
+    "venuecity": "武汉",
+    "venueid": "589",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01cI6ga32GdSekk977I_!!4611686018427383646-2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "857063494088",
+                    "itemName": "【武汉】（非自营）李杰《乐上莲花》演唱会",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "420100",
+                    "cityName": "武汉市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01cI6ga32GdSekk977I_!!4611686018427383646-2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i2/2251059038/O1CN01cI6ga32GdSekk977I_!!4611686018427383646-2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2025.01.14 周二 19:30",
+                    "showDuration": "演出时长约120分钟，无中场休息；时长仅供参考，具体以现场为准。",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "场馆自取发票",
+                            "tagDesc": "本演出发票需要在场馆凭门票自取",
+                            "tagDescWithStyle": "本演出发票需要在场馆凭门票自取",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "586",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>【购票须知】</strong></p>\n<p>1.<span style=\"color: #cf1322;\"><strong>演出票具有时效性，如非演出变更或取消的原因，不提供退换票服务。演员及曲目以演出当天为准。</strong></span></p>\n<p>2.演出票仅限观看当天当场次演出，逾期失效，请提前取票、准时入场、对号入座。<span style=\"color: #000000; background-color: #ffa940;\">演出票作为唯一入场凭证，遗失、破损、涂改、遮挡，将禁止入场，请妥善保管。</span></p>\n<p>3.本场演出，<span style=\"background-color: #fcfbcf;\">“</span><span style=\"background-color: #fcfbcf;\"><strong>未成年人观众</strong></span><span style=\"background-color: #fcfbcf;\">”请在购票前经过法定监护人允准</span>，如购票订单成功生成并完成支付，观演人身份信息为“未成年人观众”，<span style=\"background-color: #fcfbcf;\">平台默认其为“法定监护人”授权允准购票，并由法定监护人承担一切相关责任。</span>我司不支持以“未成年人”未经监护人允准等相关理由，申请退票等行为。</p>\n<p>4.观演期间请保持场内安静，迟到观众请在观众厅外等候，听从服务人员安排安静入场，若因迟到须等候入场，不得以此要求退票。</p>\n<p>5.演出票无快递服务，请前往琴台票务中心现场取票。</p>\n<p>6.演出取票：剧院官方渠道线上订单凭取票码至自助机取票。</p>\n<p>1）平时取票：周一至周日 9:30-17:30，票务中心取票。</p>\n<p>2）演出当天取票：</p>\n<p>&nbsp; &nbsp; &nbsp; 9:30-18:00 票务中心</p>\n<p>&nbsp; &nbsp; &nbsp; 18:30-19:30 剧院大厅自助机</p>\n<p>&nbsp; &nbsp; &nbsp; 早场、下午场演出，请于演出前1小时，前往剧院大厅自助机取票。</p>\n<p>3）如在剧院代售点购票，请遵守相关代售点的取票要求。</p>\n<p>7.如需开发票，请于演出实际结束后1个月内凭纸质演出票到琴台票务中心大剧院窗口开具。发票开具时间：周一至周五（9:30-17:00）</p>\n<p>****************************************</p>\n<p><strong>演出简介：</strong></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN016weW6h2GdSeiQtoYQ_!!2251059038.jpg\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>李杰，作为中国当代音乐领域的杰出代表，以其卓越的创作才华和独特的音乐风格赢得了广泛的赞誉。他的音乐作品融合了多种元素，将民族音乐与现代音乐巧妙地结合在一起，创造出了一种既具有传统韵味又富有时代气息的世界音乐语言。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01pEBSjG2GdSelZhfNO_!!2251059038.jpg\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>《乐上莲花》作品音乐会是李杰多年音乐创作的一次集中展示，也是他对音乐艺术的一次深入探索。音乐会以“乐上莲花”为主题，寓意着音乐的纯净与美好，如同莲花般在人们的心中绽放。在这场音乐会上，观众将欣赏到李杰精心创作的一系列优秀作品，这些作品的背后充分展现了李杰的音乐才华和创作多样性，以及李杰本人对人生的感悟。</p>\n<p>&nbsp;</p>\n<p>音乐会的演出阵容汇聚了国内众多优秀的音乐家和多民族歌手。他们将以精湛的技艺和饱满的热情，共同演绎李杰的音乐作品，将音乐的魅力展现得淋漓尽致。此外，音乐会的舞台设计也将独具匠心，通过灯光、音效等多种手段，营造出一片音乐世界的净土，让观众在欣赏音乐的同时，也能享受到一场心灵的洗礼。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01u6iyCC2GdSeiQu9LV_!!2251059038.jpg\" alt=\"\" data-href=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>李杰《乐上莲花》作品音乐会不仅是一场音乐的盛会，更是一次心灵的旅程。在这个喧嚣的世界里，让我们一起走进李杰的音乐世界感受音乐的力量，寻找内心的宁静与美好。</p>\n<p>&nbsp;</p>\n<p><strong>*演出曲目及顺序以现场为准。</strong></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "",
+                            "socialCreditCode": "",
+                            "legalPerson": "",
+                            "regCapStr": "",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "",
+                            "entAddress": ""
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "须于演出结束后持门票至举办地场馆开具发票。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须兑换成纸质票验票入场，当天请按照【票夹】提示，前往取票点换取纸质票后入场"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "本场演出所有婴幼、儿童一律凭票入场，一人一票、大小同价、对号入座，请为随行儿童购同一楼层的演出票，不可跨楼层入座！"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "须于演出结束后持门票至举办地场馆开具发票。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "演出时长约120分钟，无中场休息；时长仅供参考，具体以现场为准。"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "李杰"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "100分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "1000"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "589",
+                    "venueName": "武汉琴台大剧院",
+                    "venueProvinceName": "湖北省",
+                    "venueCityName": "武汉市",
+                    "lng": 114.259532,
+                    "lat": 30.560901,
+                    "venueAddr": "武汉市汉阳区知音大道7号",
+                    "showCountText": "共有17个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D857063494088%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "特惠选座",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1732644914000",
+                "sellStartTimeStr": "11月27日 02:15",
+                "priceRange": "¥80 - ¥680",
+                "performBases": [
+                    {
+                        "name": "01.14 周二",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1736784000000",
+                        "performs": [
+                            {
+                                "performId": "217381231",
+                                "performName": "2025-01-14 周二 19:30",
+                                "itemId": "857063494088",
+                                "projectId": "222962033",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1736854200000",
+                                "performTime": "2025.01.14 19:30",
+                                "performStartDate": "2025-01-14",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "优惠"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "580元票价打8.00折",
+                        "performanceIds": [
+                            "217381231"
+                        ]
+                    },
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "680元票价打8.00折",
+                        "performanceIds": [
+                            "217381231"
+                        ]
+                    },
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "380元票价打8.00折",
+                        "performanceIds": [
+                            "217381231"
+                        ]
+                    }
+                ],
+                "promotionRemark": "您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "658689",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "26699",
+                    "23115",
+                    "23883",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "466049",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9867",
+                    "9099",
+                    "8843",
+                    "16267",
+                    "716673",
+                    "37259",
+                    "657793",
+                    "14731",
+                    "12171",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "promotionList": [
+                    {
+                        "type": "SHOP",
+                        "tag": "满减",
+                        "isTagList": "false",
+                        "desc": "¥380票档，满1张打8折"
+                    }
+                ],
+                "promotionDetail": {
+                    "skuPromotionRelations": "857063494088&217381231&5666781009370_97300332475@5666781009371_97299414854@5666781009372_97300089554",
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "2",
+                            "promotionGroupTypeDesc": "满减活动",
+                            "promotionList": [
+                                {
+                                    "promotionType": "4",
+                                    "promotionTag": "满减",
+                                    "promotionContentList": [
+                                        "¥380票档，每满1张打8折",
+                                        "¥580票档，每满1张打8折",
+                                        "¥680票档，每满1张打8折"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "¥380",
+                                            "displayContent": "每满1张打8折"
+                                        },
+                                        {
+                                            "skuName": "¥580",
+                                            "displayContent": "每满1张打8折"
+                                        },
+                                        {
+                                            "skuName": "¥680",
+                                            "displayContent": "每满1张打8折"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "statusTips": [],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8570634940/2/857063494088.jpg"
+            }
+        }
+    }
+}
