@@ -1,0 +1,63 @@
+{
+    "platform": "大麦",
+    "project_id": "857234763652",
+    "project_name": "【现场取票】永恒的海豚音·VITAS维塔斯2024巡回演唱会—广州站",
+    "category_name": "演唱会",
+    "artists": [
+        "Vitas"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.11.29 周五 20:00",
+    "session_time": [],
+    "price": "280-1688",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "广州",
+    "venue_name": "广州中山纪念堂",
+    "venue_info": {
+        "venue_address": "广州市越秀区东风中路299号",
+        "lng": 113.264692,
+        "lat": 23.13286
+    },
+    "project_info": "【1280 VIP票福利】\n演出说明：所有购买1280VIP票档客户均有与维塔斯集体合影福利（10-15人一组）\n \n\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01qugeo72GdSel3tQmz_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01xoO2OV2GdSel42I6W_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01HgMGRn2GdSeklQmEk_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "857234763652",
+            "cityName": "广州站",
+            "showTime": "11.29"
+        },
+        {
+            "itemId": "824555953792",
+            "cityName": "重庆站",
+            "showTime": "12.01"
+        },
+        {
+            "itemId": "821218024396",
+            "cityName": "武汉站",
+            "showTime": "12.06"
+        },
+        {
+            "itemId": "828911285348",
+            "cityName": "南京站",
+            "showTime": "12.07"
+        },
+        {
+            "itemId": "811346133902",
+            "cityName": "广州站",
+            "showTime": "11.29"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=857234763652"
+}
