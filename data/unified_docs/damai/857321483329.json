@@ -1,0 +1,61 @@
+{
+    "platform": "大麦",
+    "project_id": "857321483329",
+    "project_name": "楠溪江·芒禾跨年音乐节",
+    "category_name": "演唱会",
+    "artists": [
+        "许巍",
+        "陈粒",
+        "房东的猫",
+        "夏日入侵企画",
+        "棱镜乐队",
+        "海龟先生",
+        "麻园诗人",
+        "沈以诚",
+        "霓虹花园",
+        "STOLEN秘密行动",
+        "散人乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.31-2025.01.01",
+    "session_time": [],
+    "price": "199",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "温州",
+    "venue_name": "楠溪江滩地音乐公园",
+    "venue_info": {
+        "venue_address": "浙江省温州市永嘉县岩头镇楠溪江滩地音乐公园(建设中)",
+        "lng": 120.745346,
+        "lat": 28.335307
+    },
+    "project_info": "\n\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01rtMjpP2GdSemUDFqp_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01xrygrq2GdSemUEvus_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Q6nHEu2GdSenEiknA_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN013pRWNJ2GdSelXiRXk_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN012tSv6f2GdSel0aSYE_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01fu9J2w2GdSemQE8dt_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "4119",
+        "wantNumStr": "4119",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "857321483329",
+            "cityName": "温州站",
+            "showTime": "12.31-2025.01.01"
+        },
+        {
+            "itemId": "824422560988",
+            "cityName": "三亚站",
+            "showTime": "12.14-12.15"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=857321483329"
+}

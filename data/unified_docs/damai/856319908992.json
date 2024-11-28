@@ -1,0 +1,60 @@
+{
+    "platform": "大麦",
+    "project_id": "856319908992",
+    "project_name": "曾轶可「迷人的危险Captivating Danger」巡演·武汉站（生日场）",
+    "category_name": "演唱会",
+    "artists": [
+        "曾轶可"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.01.03 周五 19:30",
+    "session_time": [
+        "01.03 周五"
+    ],
+    "price": "380-1680",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "武汉",
+    "venue_name": "湖北剧院",
+    "venue_info": {
+        "venue_address": "武汉市武昌阅马场西场口1号",
+        "lng": 114.304534,
+        "lat": 30.541083
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN017lAIEG2GdSeeoEmlB_!!4611686018427383646-2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01agd02F2GdSeeyNgmB_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01AkPtex2GdSefk3db6_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "720",
+        "wantNumStr": "720",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "853375023772",
+            "cityName": "深圳站",
+            "showTime": "12.14-12.15"
+        },
+        {
+            "itemId": "856319908992",
+            "cityName": "武汉站",
+            "showTime": "2025.01.03"
+        },
+        {
+            "itemId": "851250121560",
+            "cityName": "郑州站",
+            "showTime": "12.07"
+        },
+        {
+            "itemId": "851815008882",
+            "cityName": "宁波站",
+            "showTime": "12.27"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=856319908992"
+}

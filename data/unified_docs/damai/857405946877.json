@@ -1,0 +1,40 @@
+{
+    "platform": "大麦",
+    "project_id": "857405946877",
+    "project_name": "I豆城市演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "朱正廷",
+        "毕雯珺",
+        "姚琛",
+        "赵让",
+        "曹杨"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.28 周六 19:30",
+    "session_time": [],
+    "price": "299-999",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "泉州",
+    "venue_name": "泉州海峡体育中心体育场",
+    "venue_info": {
+        "venue_address": "福建省泉州市丰泽区安吉路100号",
+        "lng": 118.660733,
+        "lat": 24.926617
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN018CVIme2GdSejCvH4R_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01BZnK9M2GdSepCxIJo_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "5108",
+        "wantNumStr": "5108",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [],
+    "project_link": "https://detail.damai.cn/item.htm?id=857405946877"
+}
