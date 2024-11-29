@@ -1,0 +1,52 @@
+{
+    "platform": "大麦",
+    "project_id": "858017854692",
+    "project_name": "赞多2024「3」专场演出·重庆站",
+    "category_name": "演唱会",
+    "artists": [
+        "赞多"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.28 周六 20:00",
+    "session_time": [],
+    "price": "480-880",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "重庆",
+    "venue_name": "MODERN SKY LAB 重庆",
+    "venue_info": {
+        "venue_address": "渝北区仙桃街道秋城大道99号大悦城购物中心B5-501",
+        "lng": 106.570171,
+        "lat": 29.720548
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01I5dHbL2GdSeom1EsU_!!4611686018427383646-0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01JeS2U42GdSepVgucr_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "404",
+        "wantNumStr": "404",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "858013850940",
+            "cityName": "广州站",
+            "showTime": "12.14"
+        },
+        {
+            "itemId": "858017854692",
+            "cityName": "重庆站",
+            "showTime": "12.28"
+        },
+        {
+            "itemId": "223050015",
+            "cityName": "上海站",
+            "showTime": "2025.01.04"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=858017854692"
+}
