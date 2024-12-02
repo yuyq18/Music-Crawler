@@ -1,0 +1,374 @@
+{
+    "searchType": "SHOW",
+    "showId": "674838e1c7a3040001a4c8ed",
+    "stdShowId": "673ffd647dd99c00019ccf58",
+    "showName": "【石家庄】石家庄滹沱跨年音乐节 摇滚音乐party",
+    "showDate": "2024.12.31 - 2025.01.01",
+    "cityName": "石家庄市",
+    "cityId": "1301",
+    "showStatus": "PENDING",
+    "minOriginalPrice": "99.0",
+    "posterUrl": "https://cdn.ticketmars.com/image/prod/20241128_89/17327832716782786.jpg",
+    "venueId": "6630ca9aa66ba10001fc3ed2",
+    "venueName": "石钢工业遗址公园",
+    "backendCategory": "{'code': 18, 'displayName': '音乐节', 'name': 'MusicFestival'}",
+    "isFree": "False",
+    "firstShowTime": "1735633800000",
+    "lastShowTime": "1735661400000",
+    "minOriginalPriceInfo": "{'yuanNum': '99', 'centNum': '', 'suffix': '', 'prefix': '￥'}",
+    "latestShowTime": "1735633800000",
+    "showSessionDates": "['20241231']",
+    "soldOut": "False",
+    "sessionNum": "1",
+    "seatPlanNum": "1",
+    "rsCode": 200,
+    "basicInfo": {
+        "hotMode": true,
+        "stdShowId": "673ffd647dd99c00019ccf58",
+        "bizShowId": "674838e1c7a3040001a4c8ed",
+        "showName": "【石家庄】石家庄滹沱跨年音乐节 摇滚音乐party",
+        "sourceType": "SELF_DISTRIBUTION",
+        "originalSeatPickType": "SUPPORT_NONE",
+        "contentUrl": "https://cdn.ticketmars.com/prod/showContent/674838e1c7a3040001a4c8ed/content_674d3365bc5b860001f1c8b5.content",
+        "posterUrl": "https://cdn.ticketmars.com/image/prod/20241128_89/17327832716782786.jpg",
+        "posterColor": "#590c0eff",
+        "venueId": "6630ca9aa66ba10001fc3ed2",
+        "venueName": "石钢工业遗址公园",
+        "venueAddress": "石家庄长安区谈固北大街与贤明路交叉口",
+        "venueLat": 38.057827,
+        "venueLng": 114.563978,
+        "cityId": "1301",
+        "cityName": "石家庄市",
+        "onSaleShowCount": 1,
+        "showTags": [
+            {
+                "id": "628fc5abe3fe937a3951a463",
+                "title": "票务总代",
+                "type": "SHOW_TAG",
+                "seq": 3
+            }
+        ],
+        "authorizationUrl": "",
+        "minOriginalPriceInfo": {
+            "yuanNum": "99",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "maxOriginalPriceInfo": {
+            "yuanNum": "99",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "showDate": "2024年12月31日 - 2025年01月01日",
+        "showDuration": "2024年12月31日16：30-2025年1月1日00：10",
+        "displayAdvance": false,
+        "venueDisplayAdvance": false,
+        "sessionDisplayAdvance": false,
+        "seatPlanDisplayAdvance": false,
+        "showType": {
+            "name": "MusicFestival"
+        },
+        "showDetailStatus": "PENDING",
+        "parentMerchantId": "6615f82476f87000018c0bda",
+        "existsPrivilegePurchase": false,
+        "displayCountdownTime": true,
+        "captchaTypes": []
+    },
+    "additionalInfo": {
+        "hasCoupon": true,
+        "hasPromo": false,
+        "hasAddPurchase": false,
+        "hasUserPromo": false,
+        "hasPCard": false,
+        "hasPriority": false,
+        "hasChannelDiscount": false,
+        "checkChannelFreeCombo": false,
+        "channelPickSeatProject": false,
+        "hasTyingSale": false,
+        "hasJumpGuid": false
+    },
+    "descInfo": {
+        "observationInstructions": [
+            {
+                "key": "TICKETS_AND_ADMISSION",
+                "name": "票品及入场",
+                "value": "入场时，需要电子票、购买电子票时绑定的证件原件及人脸验证一致后方可入场。如果因信息填写错误、票证不一导致的人脸比对失败，或者持非本人身份证件、冒充未成年人、冒用他人身份信息等情形导致无法入场，将耐心带领至票务服务中心处理，证明本人后可入场，如非法冒用则后果自行承担。\n身份证件：请携带购票时所用的身份证原件入场。如果未携带身份证原件，需要现场通过登记电子身份证信息核验入场，无身份证件的未成年人需携带户口本核验入场。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "SHOW_DURATION",
+                "name": "演出时长",
+                "value": "2024年12月31日16：30-2025年1月1日00：10",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "ENTRY_TIME",
+                "name": "入场时间",
+                "value": "乐迷最早入场时间为15：00，最晚入场时间为22：00，本次演出禁止重复进场，请提前规划好您的行程，准备好御寒衣物。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "MAIN_ACTOR",
+                "name": "主要演员(团体)",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "RESTRICTED_ITEM",
+                "name": "禁止携带物品",
+                "value": "为了消费者的安全，请遵守现场的安全规定，不要携带违禁物品进入现场，并配合安检人员的检查工作。\n禁带物品：\n1.枪支、弹药、爆炸物品；仿真枪及弓弩、弹弓、管制刀具等管制器具；烟花爆竹、汽油、酒精等易燃、易爆危险品（经安保部门批准带入的除外）；剧毒、腐蚀性等危险化学品及放射性物品；有害生物制剂、传染病病原体等危险物质；海洛因、可卡因、大麻等各类毒品；中华人民共和国法律法规明令禁止的其他物品。\n2.易碎品与各类容器,如玻璃瓶(杯)、保温杯、奶瓶等；各类软硬包装饮料，特别是含酒精饮料、及易投掷食品及零食（水果、鸡蛋等）。\n3.带有政治、种族、宗教、商业或性别歧视内容的横幅、标语、书籍和其他用于宣传的物品；旗帜、旗杆、风筝。\n4.除婴儿车和轮椅之外的任何辅助代步工具,包括但不限于电动自行车、摩托车、自行车、踏板车、平衡车、滑板。\n5.动物（导盲犬等服务类动物除外）。\n6.各类易造成人身伤害的棍棒及尖锐物品,包括但不限于长柄伞、尖头伞、喷涂颜料、LED应援牌；各类体育器材，包括但不限于球棒、球、球拍、飞碟。\n7.大件行李（超于55*35cm）、帐篷、超长自拍杆、水枪、旗帜、旗杆等；充气沙发等家具。\n8.任何未经授权的专业摄像设备（家庭使用、小型手持的摄像设备除外），各类用于照相机、摄像机的三角支架、独脚架或类似支撑物；影响演出进行或妨碍他人观演的各类电子设备,包括但不限于激光装置(包括激光笔)、扩音设备、无线对讲机、无线摄像机、无线麦克风；无人机等小型航空器。\n9.其他可能影响安全或违反门票协议的物品,包括但不限于打火机、火柴等点火器具,注射器。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "LUGGAGE_DEPOSIT",
+                "name": "物品寄存",
+                "value": "现场存包处提供免费存包服务，请自行保管贵重物品，贵重物品无法寄存",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            },
+            {
+                "key": "MINIMUM_SHOW_DURATION",
+                "name": "最低演出时长",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 7
+            },
+            {
+                "key": "MINIMUM_SHOW_NUMBER",
+                "name": "最低演出曲目",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 8
+            }
+        ],
+        "ticketInstructions": [
+            {
+                "key": "CHILDREN_INTRODUCTION",
+                "name": "儿童购票",
+                "value": "身高1.2米以下的儿童可以在已购票家长（监护人）的陪同下免票入场。由于现场人员较多，家长需要自行看管好儿童。同时，由于现场音响声音较大，建议儿童佩戴专业降噪耳机，以保护听力。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "REAL_NAME_PURCHASE_TICKET_INTRODUCTION",
+                "name": "实名购票规则",
+                "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证",
+                "isMarked": false,
+                "tagContent": "门票对应唯一证件(身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证)",
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "LIMITATION",
+                "name": "限购规则",
+                "value": "每个场次限购6张/套，项目限购6张/套",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "1732785426665",
+                "name": "现场购票须知",
+                "value": "现场购票需要实名制，如果您未能提前在线购票，现场也设有官方售票中心。观演人需携带本人身份证件购买门票，并现场录入观演人信息。现场购票后，观演人信息不可更改。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "EXCEPTION_ORDER_INTRODUCTION",
+                "name": "异常排单说明",
+                "value": "对于异常订购行为，商家有权在订单成立或者生效之后取消相应订单。 异常订购行为包括但不限于以下情形： （1）通过同一ID订购超出限购张数的订单。 （2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "EXCHANGE_POLICY",
+                "name": "退换政策",
+                "value": "开票后在各购票平台客服工作人员正常工作时段(具体以各票务平台工作时间为准)在指定时间内可条件办理退票;同一观众仅可在一个售票平台购票，禁止多平台重复购票。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            },
+            {
+                "key": "INVOICE_INTRODUCTION",
+                "name": "发票说明",
+                "value": "电子发票\n发票开具方：主办方\n该项目可申请开具电子发票。该发票由第三方主办提供。订单交易完成后6日将关闭申请。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 7
+            }
+        ],
+        "markedTextList": []
+    },
+    "noteInfos": [
+        {
+            "name": "支持有条件退",
+            "value": "",
+            "type": true,
+            "code": "CONDITION_REFUND",
+            "refundCfg": {
+                "showName": "【石家庄】石家庄滹沱跨年音乐节 摇滚音乐party",
+                "refundTimes": 1,
+                "refundTimesDesc": "该项目可退1次。",
+                "type": "SESSION_SETTING",
+                "rateItems": [
+                    {
+                        "rate": 0.0,
+                        "sessionItems": [
+                            {
+                                "sessionBeginTime": 1735633800000,
+                                "sessionName": "2024-12-31 周二 16:30",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-12-05 11:59",
+                                        "right": "2024-12-07 11:59"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "rate": 10.0,
+                        "sessionItems": [
+                            {
+                                "sessionBeginTime": 1735633800000,
+                                "sessionName": "2024-12-31 周二 16:30",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-12-07 12:00",
+                                        "right": "2024-12-10 11:59"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "rate": 30.0,
+                        "sessionItems": [
+                            {
+                                "sessionBeginTime": 1735633800000,
+                                "sessionName": "2024-12-31 周二 16:30",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-12-10 12:00",
+                                        "right": "2024-12-13 11:59"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "refundCfgV2": {
+                "showName": "【石家庄】石家庄滹沱跨年音乐节 摇滚音乐party",
+                "refundTimes": 1,
+                "refundTimesDesc": "该项目可退1次。",
+                "type": "SESSION_SETTING",
+                "refundCfgItemList": [
+                    {
+                        "refundRuleList": [
+                            {
+                                "beginTime": [
+                                    2024,
+                                    12,
+                                    5,
+                                    11,
+                                    59,
+                                    59
+                                ],
+                                "left": "12.05 11:59",
+                                "right": "12.07 11:59",
+                                "refundHandlFeeStr": "免费退票",
+                                "timeStatus": 1
+                            },
+                            {
+                                "beginTime": [
+                                    2024,
+                                    12,
+                                    7,
+                                    12,
+                                    0
+                                ],
+                                "left": "12.07 12:00",
+                                "right": "12.10 11:59",
+                                "refundHandlFeeStr": "票价 10%",
+                                "timeStatus": 1
+                            },
+                            {
+                                "beginTime": [
+                                    2024,
+                                    12,
+                                    10,
+                                    12,
+                                    0
+                                ],
+                                "left": "12.10 12:00",
+                                "right": "12.13 11:59",
+                                "refundHandlFeeStr": "票价 30%",
+                                "timeStatus": 1
+                            },
+                            {
+                                "beginTime": [
+                                    2024,
+                                    12,
+                                    13,
+                                    12,
+                                    0,
+                                    59
+                                ],
+                                "left": "12.13 12:00",
+                                "refundHandlFeeStr": "停止退票",
+                                "timeStatus": 1
+                            }
+                        ],
+                        "sessionCount": 1,
+                        "sessionNameList": [
+                            "2024-12-31 周二 16:30"
+                        ]
+                    }
+                ]
+            },
+            "noteDesc": "该项目支持有条件退票，可在“我的”-“全部订单”-“订单详情”中申请退票，退票可能会有手续费，具体规则如下：",
+            "additionalNote": "具体可申请退票细则,请详见该项目详情页退票政策相关说明或公告信息"
+        },
+        {
+            "name": "实名观演",
+            "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证/港澳居民居住证/台湾居民居住证",
+            "type": true,
+            "code": "REAL_NAME_TICKET"
+        },
+        {
+            "name": "电子票",
+            "value": "通过身份证件验票入场（具体以下单后票舱信息为准）",
+            "type": true,
+            "code": "ID_CARD"
+        },
+        {
+            "name": "发票说明",
+            "value": "电子发票\n发票开具方：主办方\n该项目可申请开具电子发票。该发票由第三方主办提供。订单交易完成后6日将关闭申请。",
+            "type": false,
+            "code": "BILL_APPLY",
+            "desc": "发票"
+        }
+    ],
+    "announcement": [],
+    "whiteTags": [],
+    "watcherReplacer": "观演"
+}
