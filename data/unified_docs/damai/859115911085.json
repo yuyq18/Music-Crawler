@@ -1,0 +1,47 @@
+{
+    "platform": "大麦",
+    "project_id": "859115911085",
+    "project_name": "【问题出在哪里】狮童2025巡演 杭州站",
+    "category_name": "演唱会",
+    "artists": [
+        "狮童乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.09 周日 20:00",
+    "session_time": [],
+    "price": "120",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "杭州",
+    "venue_name": "LiveShop Uni由你现场",
+    "venue_info": {
+        "venue_address": "武林之星博览中心2号楼",
+        "lng": 120.182429,
+        "lat": 30.299568
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01YWh6Cd2GdSesvbLFB_!!4611686018427383646-2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01pLRnEy2GdSerfy09T_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "859831132791",
+            "cityName": "武汉站",
+            "showTime": "2025.02.23"
+        },
+        {
+            "itemId": "859115911085",
+            "cityName": "杭州站",
+            "showTime": "2025.03.09"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=859115911085"
+}

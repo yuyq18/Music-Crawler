@@ -1,0 +1,496 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1835",
+    "cityname": "济南",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_858840803783",
+    "imgurl": "-1526555",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "谁明浪子心【回响·王杰】作品金曲演唱会-济南站",
+    "nameNoHtml": "谁明浪子心【回响·王杰】作品金曲演唱会-济南站",
+    "price": "50.0",
+    "price_str": "50-230",
+    "pricehigh": "230.0",
+    "privilegeTags": "[]",
+    "projectid": "858840803783",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.08 周日 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "Modernsky Lab 济南",
+    "venuecity": "济南",
+    "venueid": "6487072",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01AFvyNg2GdSet451pU_!!4611686018427383646-0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "858840803783",
+                    "itemName": "【济南】谁明浪子心【回响·王杰】作品金曲演唱会-济南站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "370100",
+                    "cityName": "济南市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01AFvyNg2GdSet451pU_!!4611686018427383646-0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01AFvyNg2GdSet451pU_!!4611686018427383646-0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.12.08 周日 19:30",
+                    "showDuration": "以现场为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票",
+                            "tagDesc": "本项目需实名制购票，购票完成后观演人信息不可更改。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：海南歌派动力影视文化传媒有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：海南歌派动力影视文化传媒有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1835",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>谁明浪子心《回响·王杰》作品金曲演唱会<img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01M7Qgea2GdSet3p3Jg_!!2251059038.png\" width=\"864\" height=\"480\" damai_width=\"864\" damai_height=\"480\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN014QwmMh2GdSet6a2Nx_!!2251059038.png\" width=\"864\" height=\"1297\" damai_width=\"864\" damai_height=\"1297\"></p>\n<p>&nbsp; 在华语乐坛中有教父罗大佑、李宗盛、许冠杰、谭咏麟、邓丽君、张学友、任贤齐、等等天王巨星、他们都有着炽热快口的经典歌曲。并且伴随着一代人的成长，歌声一度在响遍大街小巷。</p>\n<p>&nbsp; 但是除了这些歌手音乐人以外还有一位令人难以忘记的传奇歌手，他是以高亢嘹亮歌声深入人心，他的音乐一响起就仿佛有注入你灵魂的感觉，每一句歌词都在诉说人世间的苦情经历，他执着于音乐、执着于用音乐来表达自己对爱情、人生、社会的发泄，他不善于膜拜祈求更喜欢自由自我，隐隐约约地游走在于华语音乐的江湖之中，这个传奇歌手就是当之无愧的天王巨星《浪子·王杰》。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01j90AyS2GdSes5D7lW_!!2251059038.png\" width=\"834\" height=\"833\" damai_width=\"834\" damai_height=\"833\"></p>\n<p>一首歌，一个故事，一个梦想，一段岁月的封尘~</p>\n<p>华语乐坛最具代表性传奇歌手王杰代表作、谁明浪子心、不浪漫罪名、英雄泪、伤心1999、心痛、忘了你忘了我、一场游戏一场梦、等一系列金曲均代表了华语音乐的发展历程碑。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN0104QBrY2GdSet6c7RO_!!2251059038.png\" width=\"864\" height=\"540\" damai_width=\"864\" damai_height=\"540\"></p>\n<p>歌坛浪子《王杰》是华语乐坛首屈一指的传奇唱将2001年香港红磡演唱会如今都历历在目，该场演唱会也被香港娱乐圈评为二十一世纪最具代表性演唱会。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01U2lsGi2GdSesjO0ya_!!2251059038.png\" width=\"864\" height=\"486\" damai_width=\"864\" damai_height=\"486\"></p>\n<p>时间跳板转眼来到2010年王杰-王者归来北京演唱会，当天晚上在北京五棵松体育馆齐聚上万名歌迷陪我们偶像杰哥一起高唱《是否我 真的一无所有》。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01wEdfkP2GdSerdPRb8_!!2251059038.png\" width=\"864\" height=\"540\" damai_width=\"864\" damai_height=\"540\"></p>\n<p>时隔多年浪子王杰已经黯然离席淡出了我们的视线，但是他的背影我们依然记得，他的歌声依然回荡在我们耳边。</p>\n<p>他歌唱得很好</p>\n<p>他的眼神深邃锐利他的感情濃得化不開他的背影比誰都孤單</p>\n<p>和其他很多歌星一樣他有段長長的過去雖然不能忘記却也不用再提</p>\n<p>因爲一切正要出發因爲他将成為巨星</p>\n<p>BORN TO CONQUER生來獲勝、生來征服-王傑</p>\n<p>站在卑微與高貴的交界對自己與全世界說:</p>\n<p>「我來了，一切便不一樣了!」</p>\n<p>獻給</p>\n<p>在愛情中心靈饑渴在生活中百無禁忌</p>\n<p>在音樂中追求個性的一代</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01x0wiI32GdSetm6v4Z_!!2251059038.png\" width=\"834\" height=\"521\" damai_width=\"834\" damai_height=\"521\"></p>\n<p>本场演唱会亦是我们杰迷齐聚一起回忆王杰老师作品金曲演唱会，亦是向王杰老师召唤《杰哥·你快回来吧》我们杰迷想你 我们永远等你回归舞台。</p>\n<p>&nbsp;</p>\n<p>本场演出歌手介绍。</p>\n<p>歌手-冥王 极光乐队·低音主唱兼吉他手 广东人</p>\n<p>音乐全靠自学 吉他全靠自弹-其音乐理念是创作原创作品，歌唱舞台经验丰富。</p>\n<p>这次加入《回响·王杰》作品金曲演唱会，担任歌手亦是向杰哥学习与致敬。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01lvNFDy2GdSesNhE8m_!!2251059038.png\" width=\"864\" height=\"915\" damai_width=\"864\" damai_height=\"915\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01apQGEw2GdSes5FLAu_!!2251059038.png\" width=\"864\" height=\"577\" damai_width=\"864\" damai_height=\"577\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01or5v8q2GdSeuNW9Nr_!!2251059038.png\" width=\"864\" height=\"486\" damai_width=\"864\" damai_height=\"486\"></p>\n<p>歌手-侯浪 原创音乐人 广东人</p>\n<p>的士乐队主唱2022年发行单曲·坚强的心 2024发行单曲·勇闯新世界</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Ep80SR2GdSeurPOu6_!!2251059038.png\" damai_width=\"864\" damai_height=\"496\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01jfWIRW2GdSelHCgFD_!!2251059038.png\" width=\"865\" height=\"503\" damai_width=\"865\" damai_height=\"503\"></p>\n<p>对杰哥的独白：杰哥你好 其实我更应该称呼你为王杰老师，你的音乐旅程是我的启蒙，你的人生道路更是我楷模，还记得20年我第一次听到你的《不浪漫罪名》当你的声音从喇叭出来那一刻，我已经沦陷了，虽然那时候我不懂音乐，但是我觉得好听，自己凑钱买了一个MP3里面有20多首歌曲，你的占了一半其它的是BEYOND的，杰哥我们都希望你重回舞台，我们永远等你。</p>\n<p>&nbsp;</p>\n<p>以往演出现场</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01TyOlNH2GdSeqJucsA_!!2251059038.png\" width=\"865\" height=\"649\" damai_width=\"865\" damai_height=\"649\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01KAi5m72GdSelHFy4J_!!2251059038.png\" width=\"865\" height=\"649\" damai_width=\"865\" damai_height=\"649\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01bcC7M92GdSetpuQcx_!!2251059038.png\" width=\"795\" height=\"530\" damai_width=\"795\" damai_height=\"530\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01EYaOLo2GdSeuNWpAU_!!2251059038.png\" width=\"865\" height=\"649\" damai_width=\"865\" damai_height=\"649\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01rwHbHV2GdSesjPxuR_!!2251059038.png\" width=\"865\" height=\"649\" damai_width=\"865\" damai_height=\"649\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01TMXXCz2GdSesAiEPa_!!2251059038.png\" width=\"857\" height=\"491\" damai_width=\"857\" damai_height=\"491\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01FHB5bV2GdSernW8Sp_!!2251059038.png\" width=\"857\" height=\"485\" damai_width=\"857\" damai_height=\"485\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Hb2xxb2GdSesAiZDY_!!2251059038.png\" width=\"881\" height=\"1140\" damai_width=\"881\" damai_height=\"1140\"></p>\n<p>以上海报歌单不作为，演出日必须曲目，演出曲目以现场为准。</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "海南歌派动力影视文化传媒有限公司",
+                            "socialCreditCode": "91460000MACGYR731Q",
+                            "legalPerson": "周恩录",
+                            "regCapStr": "100万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(自然人投资或控股)",
+                            "entAddress": "海南省海口市龙华区国贸大道港澳发展大厦四层海南省中关村产业园B6-92"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "需兑换成纸质票验票入场，须打开【票夹】的二维码前往取票点换取，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：护照/港澳台居民居住证/军官证/港澳居民来往内地通行证/身份证/台湾居民来往大陆通行证/外国人永久居留身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "10"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "400"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "3",
+                            "name": "军官证"
+                        },
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ]
+                },
+                "venue": {
+                    "venueId": "6487072",
+                    "venueName": "Modernsky Lab 济南",
+                    "venueProvinceName": "山东省",
+                    "venueCityName": "济南市",
+                    "lng": 117.02173,
+                    "lat": 36.665489,
+                    "venueAddr": " 济南市历下区泉城路277号山东手造展示体验中心4F",
+                    "showCountText": "共有10个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D858840803783%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购票",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1733119440000",
+                "sellStartTimeStr": "12月02日 14:04",
+                "priceRange": "¥50 - ¥230",
+                "performBases": [
+                    {
+                        "name": "12.08 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1733587200000",
+                        "performs": [
+                            {
+                                "performId": "217507330",
+                                "performName": "2024-12-08  周日 19:30",
+                                "itemId": "858840803783",
+                                "projectId": "223034029",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1733657400000",
+                                "performTime": "2024.12.08 19:30",
+                                "performStartDate": "2024-12-08",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "658689",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "23115",
+                    "1611",
+                    "4939",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "466049",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9867",
+                    "9099",
+                    "8843",
+                    "16267",
+                    "716673",
+                    "37259",
+                    "657793",
+                    "14731",
+                    "12171",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "statusTips": [],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8588408037/2/858840803783.jpg"
+            }
+        }
+    }
+}

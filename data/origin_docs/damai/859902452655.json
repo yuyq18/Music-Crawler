@@ -1,0 +1,529 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_859902452655",
+    "imgurl": "9089934",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "寻梦上海•《谢谢你常记得我》 邓丽君经典金曲演唱会",
+    "nameNoHtml": "寻梦上海•《谢谢你常记得我》 邓丽君经典金曲演唱会",
+    "price": "60.0",
+    "price_str": "60-380",
+    "pricehigh": "380.0",
+    "privilegeTags": "[]",
+    "projectid": "859902452655",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.01.05 周日 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "云间剧院",
+    "venuecity": "上海",
+    "venueid": "5426001",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01HxvpSO2GdSetT4Tkz_!!4611686018427383646-2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "859902452655",
+                    "itemName": "【上海】寻梦上海•《谢谢你常记得我》 邓丽君经典金曲演唱会",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "310100",
+                    "cityName": "上海市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01HxvpSO2GdSetT4Tkz_!!4611686018427383646-2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i2/2251059038/O1CN01HxvpSO2GdSetT4Tkz_!!4611686018427383646-2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2025.01.05 周日 19:30",
+                    "showDuration": "90分钟无中场休息",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：上海保利云间剧院管理有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：上海保利云间剧院管理有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: start;\"><span style=\"color: #e13c39; font-size: 22px;\">购票须知：</span></p>\n<p style=\"text-align: start;\"><span style=\"color: #000000; font-size: 19px;\">*请您阅读下述须知</span><span style=\"color: #000000;\">，</span><span style=\"color: #000000; background-color: #e13c39; font-size: 22px;\">购票即视为同意</span><span style=\"color: #000000;\">。</span></p>\n<p style=\"text-align: start;\"><span style=\"color: #000000;\">1、下单成功后请在15分钟内完成支付，否则系统将自动取消订单，释放已选座位，重新开放购买。</span></p>\n<p style=\"text-align: start;\"><span style=\"color: #000000;\">2、购票时请确认演出时间、地点、座位。</span><span style=\"color: #000000; background-color: #e13c39; font-size: 19px;\"><strong>演出票一经售出，恕不退换。</strong></span></p>\n<p style=\"text-align: start;\"><span style=\"color: #000000;\">3、</span><span style=\"color: #000000; background-color: #e13c39; font-size: 19px;\">儿童成人都需购票</span><span style=\"color: #000000;\">，一人一票，对号入座。</span></p>\n<p style=\"text-align: start;\"><span style=\"color: #000000;\">4、食品、饮料、水等请勿带入剧场内。</span></p>\n<p style=\"text-align: center;\"><strong>益场</strong></p>\n<p style=\"text-align: center;\"><strong>寻梦上海•《谢谢你常记得我》</strong></p>\n<p style=\"text-align: center;\"><strong>邓丽君经典金曲演唱会</strong></p>\n<p style=\"text-align: center;\"><strong>演出日期：2025年1月5日</strong></p>\n<p style=\"text-align: center;\"><strong>演出地点：上海保利云间剧院</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>演出单位：上海轻音乐团</strong></p>\n<p style=\"text-align: center;\"><strong>曲目单</strong></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">主持人：李霖菲儿</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">1、器乐曲：《原乡人》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">2、《甜蜜蜜》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 演唱：李霖菲儿</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">3、《恰似你的温柔》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 演唱：丁一凡</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">4、《路边的野花不要采》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 演唱：丁一凡</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">5、《在水一方》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 演唱：李欣玫</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">6、《我只在乎你》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 演唱：李欣玫</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">7、《漫步人生路》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 演唱：李欣玫</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">8、《又见炊烟》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 演唱：陈洁</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">9、《小城故事》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 演唱：陈洁</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">10、器乐曲：《爱的箴言》</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">11、《一见你就笑》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;演唱：李霖菲儿</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">12、《你怎么说》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;演唱：李霖菲儿</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">13、《夜来香》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;演唱：丁一凡</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">14、《千言万语》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 演唱：丁一凡 </span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">15、《一个小心愿》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 演唱：丁一凡</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">16、《海韵》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 演唱：陈洁</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">17、《谢谢你常记得我》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 演唱：陈洁</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">18、《何日君再来》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 演唱：陈洁</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">19、《月亮代表我的心》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 演唱：李欣玫</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">20、《再见我的爱人》 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;演唱：李欣玫</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"font-family: 宋体;\">20250105人员介绍</span></p>\n<p><span style=\"font-family: 宋体;\">声乐演员：陈 &nbsp;洁</span></p>\n<p><span style=\"font-family: 宋体;\">上海轻音乐团声乐演员，民进会员，国家一级演员，上海音乐家协会会员。毕业于天津音乐学院声乐系民族声乐专业，被聘为上海电影学院流行音乐学院和同济大学现代艺术中心客座老师。演唱抒情委婉，甜美细腻，感染力强。2017年在上海成功举办《洁之梦》独唱音乐会。由她演唱的原创歌曲《春天不会忘记》荣获“第38届上海之春国际音乐节·首届原创歌曲征集评选活动”金曲奖。</span></p>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p><span style=\"font-family: 宋体;\">声乐演员：李欣玫</span></p>\n<p>上海轻音乐团声乐演员，上海音乐家协会会员，上海音协声乐专业委员会会员，苗族实力派歌手，毕业于上海音乐学院。声线宽广有张力。<span style=\"font-family: 宋体;\">演唱细腻，感染力强，演唱风格多样。</span>曾获“华东六省一市歌手电视大赛”通俗唱法金奖、<span style=\"font-family: 宋体;\">文化部</span>“爱我中华”全国青年歌手电视大奖赛通俗唱法银奖、全国少数民族文艺汇演“最佳新人奖”<span style=\"font-family: 宋体;\">，首届上海文广“演艺之星”。曾在上海艺海剧院成功举办《“海上玫瑰”李欣玫个人独唱音乐会》，在上海东方艺术中心成功举办《希望之星青年歌手李欣玫和她的朋友们专场音乐会》，获得广泛好评。</span>个人原创歌曲有《e小调夜舞》《梦回苗山》《痴情的交响》<span style=\"font-family: 宋体;\">《等车圆舞曲》等；2023年8月全网上线原创爵士歌曲专辑《听见上海滩》，其中包含《月漫滨江》《在甜爱路上找回忆》《在外滩雨夜偷偷想你》《在衡山路的咖啡店》《e小调夜舞》《听见上海滩》等6首爵士歌曲，个人风格鲜明，获得各方赞誉。</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 宋体;\">声乐演员：丁一凡</span></p>\n<p><span style=\"font-family: 宋体;\">上海轻音乐团声乐演员，中共党员，声乐硕士，中国音协流行音乐协会会员，上海长宁区音乐家协会理事，上海浦东新区政协委员。荣获文化部“文华声乐表演奖”、CCTV青歌赛上海赛区流行组金奖、长三角原创流行歌曲大赛金奖。2023日本大阪·神户国际艺术节通俗唱法金奖。代表作有《涵璧湾》《那拉提的养蜂女》《安庆》，电影片尾曲《美丽乡村》，电视剧主题歌《湄水谣》等。</span><strong>发行个人首张原创专辑《月光下的歌》等。</strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 宋体;\">声乐演员：李霖菲儿</span></p>\n<p><span style=\"font-family: 宋体;\">上海轻音乐团声乐演员，中共党员，上海音乐学院音乐剧声乐硕士。2014年参加上海音乐厅经典音乐剧《悲惨世界》出演女一珂赛特；2016年参加CCTV节目《谁是战士之星》取得月赛第三名并成功晋级年度总决赛，同年应邀参加CCTV《我是一个兵》八一特别节目，演唱歌曲《请不要叫我女孩》。2023年，个人作曲及演唱的原创歌曲《守“沪”如初》和《邻里日记》获得第38届上海之春国际音乐节首届原创歌曲征集评选活动“优秀歌曲奖”。</span></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "",
+                            "socialCreditCode": "",
+                            "legalPerson": "",
+                            "regCapStr": "",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "",
+                            "entAddress": ""
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须兑换成纸质票验票入场，当天请按照【票夹】提示，前往取票点换取纸质票后入场"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1米以下儿童谢绝入场，1米以上凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "90分钟无中场休息"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "5426001",
+                    "venueName": "云间剧院",
+                    "venueProvinceName": "上海",
+                    "venueCityName": "上海市",
+                    "lng": 121.228726,
+                    "lat": 31.000042,
+                    "venueAddr": "人民南路6弄69号-1(地铁9号线醉白池2号出口)",
+                    "showCountText": "共有12个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D859902452655%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "206",
+                "buyBtnText": "特惠选座",
+                "buyBtnOrigin": "11",
+                "sellStartTime": "1733249719000",
+                "sellStartTimeStr": "12月04日 02:15",
+                "priceRange": "¥60 - ¥380",
+                "performBases": [
+                    {
+                        "name": "01.05 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1736006400000",
+                        "performs": [
+                            {
+                                "performId": "217489241",
+                                "performName": "2025-01-05 周日 19:30",
+                                "itemId": "859902452655",
+                                "projectId": "223016022",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1736076600000",
+                                "performTime": "2025.01.05 19:30",
+                                "performStartDate": "2025-01-05",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "优惠"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "380元票价每满2件打5.00折",
+                        "performanceIds": [
+                            "217489241"
+                        ]
+                    },
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "220元票价每满2件打5.00折",
+                        "performanceIds": [
+                            "217489241"
+                        ]
+                    },
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "260元票价每满2件打5.00折",
+                        "performanceIds": [
+                            "217489241"
+                        ]
+                    }
+                ],
+                "promotionRemark": "您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "658689",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "26699",
+                    "23115",
+                    "23883",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "466049",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9867",
+                    "9099",
+                    "8843",
+                    "16267",
+                    "716673",
+                    "37259",
+                    "657793",
+                    "14731",
+                    "12171",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "promotionList": [
+                    {
+                        "type": "SHOP",
+                        "tag": "满减",
+                        "isTagList": "false",
+                        "desc": "¥380票档，满2张打5折"
+                    }
+                ],
+                "promotionDetail": {
+                    "skuPromotionRelations": "859902452655&217489241&5672559616654_98120826643@5672559616655_98121258372@5672559616656_98120475875",
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "2",
+                            "promotionGroupTypeDesc": "满减活动",
+                            "promotionList": [
+                                {
+                                    "promotionType": "4",
+                                    "promotionTag": "满减",
+                                    "promotionContentList": [
+                                        "¥220票档，每满2张打5折",
+                                        "¥260票档，每满2张打5折",
+                                        "¥380票档，每满2张打5折"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "¥380",
+                                            "displayContent": "每满2张打5折"
+                                        },
+                                        {
+                                            "skuName": "¥260",
+                                            "displayContent": "每满2张打5折"
+                                        },
+                                        {
+                                            "skuName": "¥220",
+                                            "displayContent": "每满2张打5折"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "statusTips": [],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8599024526/2/859902452655.jpg"
+            }
+        }
+    }
+}
