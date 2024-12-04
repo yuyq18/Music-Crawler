@@ -1,0 +1,1198 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1377",
+    "cityname": "成都",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_859596566060",
+    "imgurl": "6031068",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "[初冬音乐嗨翻天] [狂欢live音乐秀] 沉浸式浪漫落日音乐市集 大合唱演出｜落日民谣｜斜阳摇滚",
+    "nameNoHtml": "[初冬音乐嗨翻天] [狂欢live音乐秀] 沉浸式浪漫落日音乐市集 大合唱演出｜落日民谣｜斜阳摇滚",
+    "price": "99.0",
+    "price_str": "99-520",
+    "pricehigh": "520.0",
+    "privilegeTags": "[]",
+    "projectid": "859596566060",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.05-12.31",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "笑古里--奇乐蓉蓉剧场",
+    "venuecity": "成都",
+    "venueid": "6689021",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01wVFDf12GdSeszTXV3_!!4611686018427383646-0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "859596566060",
+                    "itemName": "【成都】[初冬音乐嗨翻天] [狂欢live音乐秀] 沉浸式浪漫落日音乐市集 大合唱演出｜落日民谣｜斜阳摇滚",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "510100",
+                    "cityName": "成都市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01wVFDf12GdSeszTXV3_!!4611686018427383646-0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01wVFDf12GdSeszTXV3_!!4611686018427383646-0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.12.05-12.31",
+                    "showDuration": "约60分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：天津辰光文化有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：天津辰光文化有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1377",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>注意事项：</strong></p><p><strong><span>1.本场演出</span><u>有座</u><span>演出，</span><u>分区</u><span>不分座，</span><u><span>先到先得</span></u><span>，赠送荧光棒及手拍,提前5-10分钟检票。</span></strong></p><p><strong>2.十二月限期大促，限购30元剧场优惠券</strong></p><p><strong>3.凡购买前区中区门票有机会上台</strong></p><p><strong>4最下面有剧场具体位置指路图</strong></p><p><strong><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01CVlh1Z2GdSeugMaFB_!!2251059038.jpg\" width=\"900\" height=\"2524\" damai_width=\"900\" damai_height=\"2524\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01105Egv2GdSetvRFsw_!!2251059038.jpg\" width=\"900\" height=\"2875\" damai_width=\"900\" damai_height=\"2875\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01GoDGq02GdSeu6Rs9g_!!2251059038.jpg\" width=\"900\" height=\"2642\" damai_width=\"900\" damai_height=\"2642\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01OFhrBb2GdSew3s9HT_!!2251059038.jpg\" width=\"900\" height=\"2837\" damai_width=\"900\" damai_height=\"2837\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01RCeBcV2GdSetvSSmJ_!!2251059038.jpg\" width=\"1772\" height=\"3129\" damai_width=\"1772\" damai_height=\"3129\"></strong></p><p><br></p><p><br></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "天津辰光文化有限公司",
+                            "socialCreditCode": "91120116MACYFE27XE",
+                            "legalPerson": "侯小丽",
+                            "regCapStr": "100万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司",
+                            "entAddress": "天津市和平区南营门街道南京路209号吉利大厦5层R56-57"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约60分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "6689021",
+                    "venueName": "笑古里--奇乐蓉蓉剧场",
+                    "venueProvinceName": "四川省",
+                    "venueCityName": "成都市",
+                    "lng": 104.078539,
+                    "lat": 30.658326,
+                    "venueAddr": "成都市锦江区商业场街1号3层剧院 （王府井百货隔壁楼）奇乐蓉蓉剧场",
+                    "showCountText": "共有6个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D859596566060%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "特惠购票",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1733285008000",
+                "sellStartTimeStr": "12月04日 12:03",
+                "priceRange": "¥99 - ¥520",
+                "performBases": [
+                    {
+                        "name": "12.08 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1733587200000",
+                        "performs": [
+                            {
+                                "performId": "217569053",
+                                "performName": "2024-12-08 周日 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1733657400000",
+                                "performTime": "2024.12.08 19:30",
+                                "performStartDate": "2024-12-08",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.13 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1734019200000",
+                        "performs": [
+                            {
+                                "performId": "217548047",
+                                "performName": "2024-12-13 周五 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1734089400000",
+                                "performTime": "2024.12.13 19:30",
+                                "performStartDate": "2024-12-13",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.18 周三",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1734451200000",
+                        "performs": [
+                            {
+                                "performId": "217564073",
+                                "performName": "2024-12-18 周三 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1734521400000",
+                                "performTime": "2024.12.18 19:30",
+                                "performStartDate": "2024-12-18",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.23 周一",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1734883200000",
+                        "performs": [
+                            {
+                                "performId": "217572061",
+                                "performName": "2024-12-23 周一 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1734953400000",
+                                "performTime": "2024.12.23 19:30",
+                                "performStartDate": "2024-12-23",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.28 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1735315200000",
+                        "performs": [
+                            {
+                                "performId": "217565059",
+                                "performName": "2024-12-28 周六 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1735385400000",
+                                "performTime": "2024.12.28 19:30",
+                                "performStartDate": "2024-12-28",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.26 周四",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1735142400000",
+                        "performs": [
+                            {
+                                "performId": "217587045",
+                                "performName": "2024-12-26 周四 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1735212600000",
+                                "performTime": "2024.12.26 19:30",
+                                "performStartDate": "2024-12-26",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.06 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1733414400000",
+                        "performs": [
+                            {
+                                "performId": "217544035",
+                                "performName": "2024-12-06 周五 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1733484600000",
+                                "performTime": "2024.12.06 19:30",
+                                "performStartDate": "2024-12-06",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.11 周三",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1733846400000",
+                        "performs": [
+                            {
+                                "performId": "217541035",
+                                "performName": "2024-12-11 周三 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1733916600000",
+                                "performTime": "2024.12.11 19:30",
+                                "performStartDate": "2024-12-11",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.16 周一",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1734278400000",
+                        "performs": [
+                            {
+                                "performId": "217569054",
+                                "performName": "2024-12-16 周一 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1734348600000",
+                                "performTime": "2024.12.16 19:30",
+                                "performStartDate": "2024-12-16",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.21 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1734710400000",
+                        "performs": [
+                            {
+                                "performId": "217600028",
+                                "performName": "2024-12-21 周六 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1734780600000",
+                                "performTime": "2024.12.21 19:30",
+                                "performStartDate": "2024-12-21",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.31 周二",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1735574400000",
+                        "performs": [
+                            {
+                                "performId": "217555047",
+                                "performName": "2024-12-31 周二 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1735644600000",
+                                "performTime": "2024.12.31 19:30",
+                                "performStartDate": "2024-12-31",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.07 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1733500800000",
+                        "performs": [
+                            {
+                                "performId": "217599045",
+                                "performName": "2024-12-07 周六 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1733571000000",
+                                "performTime": "2024.12.07 19:30",
+                                "performStartDate": "2024-12-07",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.12 周四",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1733932800000",
+                        "performs": [
+                            {
+                                "performId": "217606019",
+                                "performName": "2024-12-12 周四 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1734003000000",
+                                "performTime": "2024.12.12 19:30",
+                                "performStartDate": "2024-12-12",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.17 周二",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1734364800000",
+                        "performs": [
+                            {
+                                "performId": "217596025",
+                                "performName": "2024-12-17 周二 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1734435000000",
+                                "performTime": "2024.12.17 19:30",
+                                "performStartDate": "2024-12-17",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.22 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1734796800000",
+                        "performs": [
+                            {
+                                "performId": "217553027",
+                                "performName": "2024-12-22 周日 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1734867000000",
+                                "performTime": "2024.12.22 19:30",
+                                "performStartDate": "2024-12-22",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.27 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1735228800000",
+                        "performs": [
+                            {
+                                "performId": "217573029",
+                                "performName": "2024-12-27 周五 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1735299000000",
+                                "performTime": "2024.12.27 19:30",
+                                "performStartDate": "2024-12-27",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.29 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1735401600000",
+                        "performs": [
+                            {
+                                "performId": "217586072",
+                                "performName": "2024-12-29 周日 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1735471800000",
+                                "performTime": "2024.12.29 19:30",
+                                "performStartDate": "2024-12-29",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.09 周一",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1733673600000",
+                        "performs": [
+                            {
+                                "performId": "217538033",
+                                "performName": "2024-12-09 周一 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1733743800000",
+                                "performTime": "2024.12.09 19:30",
+                                "performStartDate": "2024-12-09",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.14 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1734105600000",
+                        "performs": [
+                            {
+                                "performId": "217538034",
+                                "performName": "2024-12-14 周六 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1734175800000",
+                                "performTime": "2024.12.14 19:30",
+                                "performStartDate": "2024-12-14",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.19 周四",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1734537600000",
+                        "performs": [
+                            {
+                                "performId": "217553028",
+                                "performName": "2024-12-19 周四 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1734607800000",
+                                "performTime": "2024.12.19 19:30",
+                                "performStartDate": "2024-12-19",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.24 周二",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1734969600000",
+                        "performs": [
+                            {
+                                "performId": "217597026",
+                                "performName": "2024-12-24 周二 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1735039800000",
+                                "performTime": "2024.12.24 19:30",
+                                "performStartDate": "2024-12-24",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.30 周一",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1735488000000",
+                        "performs": [
+                            {
+                                "performId": "217540015",
+                                "performName": "2024-12-30 周一 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1735558200000",
+                                "performTime": "2024.12.30 19:30",
+                                "performStartDate": "2024-12-30",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.05 周四",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1733328000000",
+                        "performs": [
+                            {
+                                "performId": "217543048",
+                                "performName": "2024-12-05 周四 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1733398200000",
+                                "performTime": "2024.12.05 19:30",
+                                "performStartDate": "2024-12-05",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.10 周二",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1733760000000",
+                        "performs": [
+                            {
+                                "performId": "217546074",
+                                "performName": "2024-12-10 周二 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1733830200000",
+                                "performTime": "2024.12.10 19:30",
+                                "performStartDate": "2024-12-10",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.15 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1734192000000",
+                        "performs": [
+                            {
+                                "performId": "217538035",
+                                "performName": "2024-12-15 周日 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1734262200000",
+                                "performTime": "2024.12.15 19:30",
+                                "performStartDate": "2024-12-15",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.20 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1734624000000",
+                        "performs": [
+                            {
+                                "performId": "217574038",
+                                "performName": "2024-12-20 周五 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1734694200000",
+                                "performTime": "2024.12.20 19:30",
+                                "performStartDate": "2024-12-20",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    },
+                    {
+                        "name": "12.25 周三",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1735056000000",
+                        "performs": [
+                            {
+                                "performId": "217542035",
+                                "performName": "2024-12-25 周三 19:30沉浸式浪漫落日音乐市集【狂欢live音乐秀】",
+                                "itemId": "859596566060",
+                                "projectId": "223142008",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1735126200000",
+                                "performTime": "2024.12.25 19:30",
+                                "performStartDate": "2024-12-25",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "27",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "2人套票可省40元"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "2人套票",
+                        "content": "后区双人票，可省19元\n中区双人票，可省40元\n前区双人票，可省40元"
+                    }
+                ],
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "658689",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "26699",
+                    "23115",
+                    "23883",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "466049",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9867",
+                    "9099",
+                    "8843",
+                    "16267",
+                    "716673",
+                    "37259",
+                    "657793",
+                    "14731",
+                    "12171",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "promotionList": [
+                    {
+                        "type": "COMBINE",
+                        "tag": "套票",
+                        "isTagList": "false",
+                        "desc": "2人套票8.8折，到手¥320(票档¥180x2)"
+                    }
+                ],
+                "promotionDetail": {
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "1",
+                            "promotionGroupTypeDesc": "票档优惠",
+                            "promotionList": [
+                                {
+                                    "promotionType": "3",
+                                    "promotionTag": "套票",
+                                    "promotionContentList": [
+                                        "2人套票8.8折，到手¥320(票档¥180x2)",
+                                        "2人套票9.2折，到手¥520(票档¥280x2)",
+                                        "2人套票9折，到手¥179(票档¥99x2)"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "8.8折，到手320（票档¥180x2）"
+                                        },
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "9折，到手179（票档¥99x2）"
+                                        },
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "9.2折，到手520（票档¥280x2）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "statusTips": [],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8595965660/2/859596566060.jpg"
+            }
+        }
+    }
+}
