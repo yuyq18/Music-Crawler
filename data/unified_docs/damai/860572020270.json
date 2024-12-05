@@ -1,0 +1,72 @@
+{
+    "platform": "大麦",
+    "project_id": "860572020270",
+    "project_name": "1月3日 长沙 黑屋乐队「婆娑大梦」巡演",
+    "category_name": "演唱会",
+    "artists": [
+        "黑屋乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.01.03 周五 20:00",
+    "session_time": [],
+    "price": "100-150",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "长沙",
+    "venue_name": "MAO Livehouse长沙(沙湾店)",
+    "venue_info": {
+        "venue_address": "黎托街道劳动东路268号吉联Mall内1层1009商铺",
+        "lng": 113.046661,
+        "lat": 28.156541
+    },
+    "project_info": "黑屋乐队「婆娑大梦」巡演大梦一场，惊醒的时候，你有没有那么一刻，分不清美梦与现实？选择继续活在梦里，又或者活在残酷的现实中。谁又能断言，哪里才是你我真正的归宿。2024，我们现场不见不散。\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01HaDd2h2GdSeykkJ9q_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01k872hv2GdSetWrqeM_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "859411863302",
+            "cityName": "重庆站",
+            "showTime": "12.22"
+        },
+        {
+            "itemId": "859904388340",
+            "cityName": "宁波站",
+            "showTime": "12.27"
+        },
+        {
+            "itemId": "860572020270",
+            "cityName": "长沙站",
+            "showTime": "2025.01.03"
+        },
+        {
+            "itemId": "848060213763",
+            "cityName": "济南站",
+            "showTime": "12.08"
+        },
+        {
+            "itemId": "854141157111",
+            "cityName": "无锡站",
+            "showTime": "12.14"
+        },
+        {
+            "itemId": "853352847003",
+            "cityName": "南京站",
+            "showTime": "12.15"
+        },
+        {
+            "itemId": "848509472395",
+            "cityName": "北京站",
+            "showTime": "12.06"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=860572020270"
+}
