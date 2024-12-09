@@ -1,0 +1,529 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "852",
+    "cityname": "北京",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_860630084250",
+    "imgurl": "16366250",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "“十亿个掌声”盛燕 2025 邓丽君经典金曲新春演唱会",
+    "nameNoHtml": "“十亿个掌声”盛燕 2025 邓丽君经典金曲新春演唱会",
+    "price": "99.0",
+    "price_str": "99-999",
+    "pricehigh": "999.0",
+    "privilegeTags": "[]",
+    "projectid": "860630084250",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.02.02 周日 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "北京喜剧院",
+    "venuecity": "北京",
+    "venueid": "54024",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01GIq2Hf2GdSeycDUAq_!!4611686018427383646-0-item_pic.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "860630084250",
+                    "itemName": "【北京】“十亿个掌声”盛燕 2025 邓丽君经典金曲新春演唱会",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "110100",
+                    "cityName": "北京市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01GIq2Hf2GdSeycDUAq_!!4611686018427383646-0-item_pic.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01GIq2Hf2GdSeycDUAq_!!4611686018427383646-0-item_pic.jpg"
+                            }
+                        ]
+                    },
+                    "showTime": "2025.02.02 周日 19:30",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "快递票",
+                            "tagDesc": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。发货前支持修改一次收货地址。\r\n注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagDescWithStyle": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。<b>发货前支持修改一次收货地址。</b><br/>注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京佳艺汇鑫国际文化发展有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：北京佳艺汇鑫国际文化发展有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "852",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\">如果有一种歌声，</p>\n<p style=\"text-align: center;\">能够让所有华人瞬间安静，</p>\n<p style=\"text-align: center;\">那，一定就是“甜歌皇后”—邓丽君</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN015dqyAf2GdSewyOx8F_!!2251059038.png\" width=\"865\" height=\"726\" damai_width=\"865\" damai_height=\"726\"></p>\n<p style=\"text-align: center;\">只要说起80年代的共同记忆，邓丽君总是绕不过去的三个字。那是无数好歌，也是无数难忘的故事。</p>\n<p style=\"text-align: center;\">她是王菲“唯一的偶像”；刘欢用“完美”形容她；蔡琴说，由衷地佩服她能征服“非国语的地方”；现在的天王天后很多，但是没有人能像邓丽君一样，全世界华人共同热爱。</p>\n<p style=\"text-align: center;\">所谓“有华人的地方，就一定有邓丽君。”大抵如此。</p>\n<p style=\"text-align: center;\">她以柔美动人的声线和令人心醉的甜美打动了一代又一代人，她在中国乐坛中独树一帜，是一个时代的记号！</p>\n<p style=\"text-align: center;\">伊人已故，歌声永存。</p>\n<p style=\"text-align: center;\">今宵离别后，何日君再来？</p>\n<p style=\"text-align: center;\">《“十亿个掌声”盛燕2025邓丽君经典金曲新春演唱会 》</p>\n<p style=\"text-align: center;\">唱响你的回忆，</p>\n<p style=\"text-align: center;\">唱出爱与经典！</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Btt2bQ2GdSez3uFiu_!!2251059038.png\" width=\"863\" height=\"575\" damai_width=\"792\" damai_height=\"528\"></p>\n<p style=\"text-align: center;\">20年来,邓丽君的歌曲依旧被人们传唱</p>\n<p style=\"text-align: center;\">模仿邓丽君的人也不计其数</p>\n<p style=\"text-align: center;\">而有着“小邓丽君”之称的盛燕</p>\n<p style=\"text-align: center;\">可以说是最被认可和欢迎的一位。</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01sOgi8T2GdSey4XP3Z_!!2251059038.png\" width=\"861\" height=\"615\" damai_width=\"791\" damai_height=\"565\"></p>\n<p style=\"text-align: center;\">&nbsp; 盛燕，一位来自魔都的上海歌手，擅长演绎邓丽君经典歌曲，她是歌坛才女，上海之莺，被广大观众及媒体誉为“邓氏唱腔传人”。盛燕从小受到家人的影响，喜欢唱歌，尤其当听到邓丽君小姐美妙的歌声以后就不能自拔，从此便开始专研邓姐独特的邓氏唱腔风格，2005年至今，演唱会的足迹已经遍布上海、北京、天津、重庆等近30个省市，更远赴美国、日本、新加坡、马来西亚、印度尼西亚等国，演出遍及二百余个城市，成功上演个人演唱会近三百场。</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01WQHDQj2GdSexLh5Lu_!!2251059038.png\" width=\"860\" height=\"535\" damai_width=\"762\" damai_height=\"474\"></p>\n<p style=\"text-align: center;\">盛燕歌喉酷似歌后，那婉转缠绵的歌声，即便是资深歌迷也难以分辨。在广东佛山，盛燕小姐的演唱会更是一票难求，应观众朋友的要求又加开6场并全部售罄。广东佛山日报对此作了专访报道：盛燕“创出全国歌坛同类演出奇迹。”人民网及人民日报海外版特此也为盛燕小姐做了专访文章整版刊发。台湾东森亚洲电视台、台湾TVBS无线卫星电视台也对盛燕小姐做了专访，高度评价了盛燕小姐演唱技能。很多媒体也都竞相报道和评论演出盛况一致认为“转过身去听她就是邓丽君”各大卫视如央视、上海、深圳、浙江卫视及日本NHK等电视台均有专访和报道，所到之处都受到观众热烈欢迎👏和好评！</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01stjoyr2GdSewJX23L_!!2251059038.png\" width=\"864\" height=\"627\" damai_width=\"864\" damai_height=\"627\"></p>\n<p style=\"text-align: center;\">邓丽君歌曲中八成以上的歌词都是由歌词泰斗庄奴创作填写，90岁高龄的他曾现场听到盛燕的演唱后赞不绝口:“邓丽君之后很少再能听到这么优美的歌声,现在有了盛燕,她的声音能传承邓丽君的精神和歌艺”。</p>\n<p style=\"text-align: center;\">盛燕小姐演绎的“邓氏唱腔”淋漓尽致、形似和神似，所到之处都受到热烈欢迎。盛燕歌喉酷似歌后，那婉转缠绵的歌声，即便是资深歌迷也难以分辨。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01azk6Yp2GdSewyRyYM_!!2251059038.png\" width=\"863\" height=\"863\" damai_width=\"513\" damai_height=\"513\"></p>\n<p style=\"text-align: center;\">“小邓丽君 盛燕”精心打造了，盛燕《十亿个掌声》邓丽君金曲经典巡回演唱会，这不仅是对一代歌后的祭奠与缅怀，也是向一个文化传承的使者致敬。</p>\n<p style=\"text-align: center;\">在这次的演唱会上，盛燕小姐将以娴熟、甜美、动情的歌喉演唱多首大家所熟悉的“邓氏经典歌曲”。让您如痴如醉，耳闻目睹，如同真情再现，在那柔美的嗓音中带你走进那个令人怀念的时代，感受天籁之后的艺术魅力……</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "",
+                            "socialCreditCode": "",
+                            "legalPerson": "",
+                            "regCapStr": "",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "",
+                            "entAddress": ""
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "快递费",
+                        "content": "1.同城10.0元，发货后1-3天到达；省内12.0元，发货后1-3天到达；其他地区18.0元，发货后1-3天到达；澳门、香港、台湾40.0元，发货后1-5天到达。\r\n2.演出前4天不支持快递。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带纸质门票验票入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一个订单对应一个证件；证件支持：外国人永久居留身份证/港澳居民来往内地通行证/港澳台居民居住证/护照/身份证/台湾居民来往大陆通行证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "15"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "盛燕"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "300"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "2",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ]
+                },
+                "venue": {
+                    "venueId": "54024",
+                    "venueName": "北京喜剧院",
+                    "venueProvinceName": "北京",
+                    "venueCityName": "北京市",
+                    "lng": 116.432936,
+                    "lat": 39.930269,
+                    "venueAddr": "朝阳门北大街11号",
+                    "showCountText": "共有15个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D860630084250%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购票",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1733452965000",
+                "sellStartTimeStr": "12月06日 10:42",
+                "priceRange": "¥99 - ¥999",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "2人套票可省199元"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "2人套票",
+                        "content": "双人票299元（原价199*2），可省99元\n双人票499元（原价299*2），可省99元\n双人票699元（原价399*2），可省99元\n双人票999元（原价599*2），可省199元"
+                    }
+                ],
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "658689",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "26699",
+                    "23115",
+                    "23883",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "466049",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9867",
+                    "9099",
+                    "8843",
+                    "16267",
+                    "716673",
+                    "37259",
+                    "657793",
+                    "14731",
+                    "12171",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "promotionList": [
+                    {
+                        "type": "COMBINE",
+                        "tag": "套票",
+                        "isTagList": "false",
+                        "desc": "2人套票8.3折，到手¥999(票档¥599x2)"
+                    }
+                ],
+                "promotionDetail": {
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "1",
+                            "promotionGroupTypeDesc": "票档优惠",
+                            "promotionList": [
+                                {
+                                    "promotionType": "3",
+                                    "promotionTag": "套票",
+                                    "promotionContentList": [
+                                        "2人套票8.3折，到手¥999(票档¥599x2)",
+                                        "2人套票7.5折，到手¥299(票档¥199x2)",
+                                        "2人套票8.3折，到手¥499(票档¥299x2)",
+                                        "2人套票8.7折，到手¥699(票档¥399x2)"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "8.3折，到手999（票档¥599x2）"
+                                        },
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "8.3折，到手499（票档¥299x2）"
+                                        },
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "8.7折，到手699（票档¥399x2）"
+                                        },
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "7.5折，到手299（票档¥199x2）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "1",
+                "statusTips": [],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8606300842/2/860630084250.jpg"
+            }
+        }
+    }
+}

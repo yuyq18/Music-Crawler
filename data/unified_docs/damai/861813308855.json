@@ -1,0 +1,52 @@
+{
+    "platform": "大麦",
+    "project_id": "861813308855",
+    "project_name": "留声玩具2025《行在时光里的船》 郑州站",
+    "category_name": "演唱会",
+    "artists": [
+        "留声玩具"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.01.05 周日 20:30",
+    "session_time": [],
+    "price": "99-118",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "郑州",
+    "venue_name": "7LIVEHOUSE",
+    "venue_info": {
+        "venue_address": "文化路金水路交叉口东北角中州索克影城内二楼",
+        "lng": 113.668022,
+        "lat": 34.765087
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01bHLwpt2GdSf0z3o5R_!!4611686018427383646-2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN010bfENT2GdSexwZCMt_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "860607634984",
+            "cityName": "包头站",
+            "showTime": "12.20"
+        },
+        {
+            "itemId": "853559116019",
+            "cityName": "呼和浩特站",
+            "showTime": "12.22"
+        },
+        {
+            "itemId": "861813308855",
+            "cityName": "郑州站",
+            "showTime": "2025.01.05"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=861813308855"
+}

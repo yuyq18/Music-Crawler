@@ -1,0 +1,288 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：柳爽、丢火车乐队",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1305",
+    "cityname": "临沧",
+    "couponTags": "[]",
+    "description": "艺人：柳爽、丢火车乐队",
+    "id": "1_1_861808240603",
+    "imgurl": "28147814",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "佤乡秘境音乐嘉年华",
+    "nameNoHtml": "佤乡秘境音乐嘉年华",
+    "price": {
+        "range": "208-288"
+    },
+    "price_str": "208-288",
+    "pricehigh": "288.0",
+    "privilegeTags": "[]",
+    "projectid": "861808240603",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.31 周二 21:00",
+    "sitestatus": "3",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": {
+        "lat": 23.909252,
+        "lng": 100.095745,
+        "region": "1",
+        "venueAddr": "西河北路(临沧市体育中心)",
+        "venueCityName": "临沧市",
+        "venueId": "6869040",
+        "venueName": "临沧市体育中心",
+        "venueProvinceName": "云南省"
+    },
+    "venuecity": "临沧",
+    "venueid": "6869040",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01zY3NeB2GdSf1qd6C1_!!4611686018427383646-0-item_pic.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "buyButton": {
+        "origin": "1",
+        "status": "204",
+        "text": "立即购票"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p>让我们一起跨年倒计时，迎接新一年的美好生活！<br><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01PlnWkY2GdSf0lPaOm_!!2251059038.png\" width=\"865\" height=\"1255\" damai_width=\"865\" damai_height=\"1255\"><br>柳爽，知名唱作人，他的音乐作品中有着饱满的情绪和柔中带刚的独特气质。曲风干净写实，不拘泥于标签，在词作方面直言个人所见所感。代表作《漠河舞厅》、《玫瑰窃贼》、《莫妮卡》、《夏日回音》等。用音乐表达敏感和细腻，以极富感染力的现场传达自己的经历，温暖而隐秘，克制又随性。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Kv1RS42GdSeuRRn0q_!!2251059038.png\" width=\"701\" height=\"1245\" damai_width=\"701\" damai_height=\"1245\"> <br>丢⽕⻋乐队成⽴于2004年，这是⼀个将个⼈信仰与时代性完美融合的乐队。来⾃北⽅的他们⽤最简单的⽅式在找寻属于⾃⼰的归途。丢⽕⻋的⾳乐不拘泥于任何形式⻛格，每⼀⾸歌每⼀个⾳符都能触动内⼼最柔软的地⽅，如发热的⾯颊埋在柔软的积雪中⼀般。⽤⽣命中最纯净的灵魂⼒量，注⼊优美⽽朗朗上⼝的旋律，勾勒出⼀个独特⽽深邃的⾳乐轨迹。<br>代表作《白兰鸽巡游记》、《茶底世界》、《火车日记》等</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01q5EA9O2GdSf0lU0uT_!!2251059038.png\" width=\"663\" height=\"1179\" damai_width=\"663\" damai_height=\"1179\"><br>澜沧江雪啤免费无限畅饮活动仅适用于购买内场VIP票及普通票用户</p>\n<p>&nbsp;</p></body></html>",
+        "introduceTitle": "演出介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "独立音乐人。",
+                "id": "72464",
+                "name": "柳爽",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1731917526335/1731917526335-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "这是一支将个人信仰与时代性完美融合的乐队：悲伤，希望；迷茫，执着；疯狂，冷静。",
+                "id": "72027",
+                "name": "丢火车乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1521703669309/1521703669309-main.jpg",
+                "tag": "歌手"
+            }
+        ],
+        "artistsTitle": "演出阵容",
+        "guideCat": "音乐节",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "false",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "useLocalCache": "false",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01R3THyh1QT3Y3gWguc_!!6000000001976-2-tps-1125-702.png",
+        "categoryId": "127420006",
+        "cityName": "临沧市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "861808240603",
+        "itemName": "【临沧】佤乡秘境音乐嘉年华",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "http://img.alicdn.com/imgextra/i2/2251059038/O1CN01zY3NeB2GdSf1qd6C1_!!4611686018427383646-0-item_pic.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "530900",
+        "performSeatImages": [],
+        "projectId": "223142025",
+        "projectStatus": "1",
+        "realName": {
+            "credentialNames": [],
+            "credentials": [],
+            "type": "3"
+        },
+        "seatImages": [
+            "https://item-cdn.damai.cn/6a1c8538d1f14c6b8802a1023e744153.jpg"
+        ],
+        "showDuration": "以现场为准",
+        "showTime": "2024.12.31 周二 21:00",
+        "tcCategoryId": "0301030100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "217553128",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=861808240603",
+        "showFlag": "false"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张、每个账号最多购买6张。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须打开【票夹】扫码入场，截图无效。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "儿童一律凭票入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "无需实名购票",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约120分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "5",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            },
+            {
+                "content": "3999",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01g1Fs6025i4mGCqzxa_!!6000000007559-2-tps-144-144.png",
+                "title": "大麦网初始开售时全场可售门票总张数"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过票夹中的二维码验票入场",
+                "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：四川茹古忆珺文化传媒有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：四川茹古忆珺文化传媒有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}
