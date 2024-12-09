@@ -1,0 +1,47 @@
+{
+    "platform": "大麦",
+    "project_id": "860607634984",
+    "project_name": "留声玩具2024《行在时光里的船》  包头站",
+    "category_name": "演唱会",
+    "artists": [
+        "留声玩具"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.20 周五 20:00",
+    "session_time": [],
+    "price": "99-118",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "包头",
+    "venue_name": "为现场音乐传媒中心",
+    "venue_info": {
+        "venue_address": "内蒙古自治区包头市稀土开发区荣仕雅路7号-1",
+        "lng": 109.878953,
+        "lat": 40.635081
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01s6FXnM2GdSey9lIQL_!!4611686018427383646-2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN012U1jbp2GdSewKrr7e_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "860607634984",
+            "cityName": "包头站",
+            "showTime": "12.20"
+        },
+        {
+            "itemId": "853559116019",
+            "cityName": "呼和浩特站",
+            "showTime": "12.22"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=860607634984"
+}

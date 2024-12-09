@@ -1,0 +1,52 @@
+{
+    "platform": "大麦",
+    "project_id": "860975858170",
+    "project_name": "《摇滚的狂想》罗伯特·威尔斯巡回演唱会（深圳站）",
+    "category_name": "演唱会",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2025.01.04 周六 20:00",
+    "session_time": [
+        "01.04 周六"
+    ],
+    "price": "280-756",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "深圳世界之窗之环球舞台",
+    "venue_info": {
+        "venue_address": "广东省深圳市南山区深南大道9037号",
+        "lng": 113.973008,
+        "lat": 22.534641
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01BmwJGT2GdSeyUKtuR_!!4611686018427383646-0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01j3XKcW2GdSf0HUnec_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01yXRvVb2GdSf0qcyx9_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01CcL5lk2GdSf0HTexZ_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01JLJHg82GdSezxB11V_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01YWxXpa2GdSexlZYhI_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01cieFtq2GdSeyUFf5Q_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": null,
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "858993758497",
+            "cityName": "嘉兴站",
+            "showTime": "2025.01.01"
+        },
+        {
+            "itemId": "860975858170",
+            "cityName": "深圳站",
+            "showTime": "2025.01.04"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=860975858170"
+}

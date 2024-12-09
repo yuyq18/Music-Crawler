@@ -1,0 +1,59 @@
+{
+    "platform": "大麦",
+    "project_id": "859692590850",
+    "project_name": "高旗&超载 x 声音碎片【虾米室内音乐节】",
+    "category_name": "演唱会",
+    "artists": [
+        "高旗&超载",
+        "声音碎片"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.24 周二 20:30",
+    "session_time": [],
+    "price": "360",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "1919LiveHouse",
+    "venue_info": {
+        "venue_address": "北京市朝阳区三间房南里4号院108幢",
+        "lng": 116.57,
+        "lat": 39.91
+    },
+    "project_info": "\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Ci40WX2GdSewW4ACz_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN012aGP5O2GdSev2T3CX_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01WAaqn62GdSexxWVLE_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "822",
+        "wantNumStr": "822",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "859692590850",
+            "cityName": "北京站",
+            "showTime": "12.24"
+        },
+        {
+            "itemId": "859182175423",
+            "cityName": "北京站",
+            "showTime": "12.25"
+        },
+        {
+            "itemId": "858898783877",
+            "cityName": "北京站",
+            "showTime": "12.31"
+        },
+        {
+            "itemId": "859635688035",
+            "cityName": "北京站",
+            "showTime": "2025.01.01"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=859692590850"
+}
