@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "861804564888",
+    "project_name": "留声玩具2025《行在时光里的船》济南站",
+    "category_name": "演唱会",
+    "artists": [
+        "留声玩具"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.01.11 周六 20:00",
+    "session_time": [],
+    "price": "99-118",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "济南",
+    "venue_name": "Modernsky Lab 济南",
+    "venue_info": {
+        "venue_address": " 济南市历下区泉城路277号山东手造展示体验中心4F",
+        "lng": 117.02173,
+        "lat": 36.665489
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01CJZ2642GdSezgM0Xg_!!4611686018427383646-2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01jTW4ZR2GdSer5ksl6_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "860607634984",
+            "cityName": "包头站",
+            "showTime": "12.20"
+        },
+        {
+            "itemId": "853559116019",
+            "cityName": "呼和浩特站",
+            "showTime": "12.22"
+        },
+        {
+            "itemId": "861813308855",
+            "cityName": "郑州站",
+            "showTime": "2025.01.05"
+        },
+        {
+            "itemId": "861520509695",
+            "cityName": "淄博站",
+            "showTime": "2025.01.10"
+        },
+        {
+            "itemId": "861804564888",
+            "cityName": "济南站",
+            "showTime": "2025.01.11"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=861804564888"
+}
