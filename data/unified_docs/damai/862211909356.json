@@ -1,0 +1,57 @@
+{
+    "platform": "大麦",
+    "project_id": "862211909356",
+    "project_name": "太一「代号·茧」2025全国巡演（深圳站）",
+    "category_name": "演唱会",
+    "artists": [
+        "太一"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.01.11 周六 19:30",
+    "session_time": [],
+    "price": "220-480",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "BO LIVE(前海店)",
+    "venue_info": {
+        "venue_address": "南山区听海大道2061号",
+        "lng": 113.884283,
+        "lat": 22.51273
+    },
+    "project_info": "太一代号·「茧」2024～2025全国巡演\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01lQ4DzW2GdSese5kk1_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01CKyEfD2GdSewCgRPk_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "151",
+        "wantNumStr": "151",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "862229492796",
+            "cityName": "长沙站",
+            "showTime": "2025.01.03"
+        },
+        {
+            "itemId": "862211909356",
+            "cityName": "深圳站",
+            "showTime": "2025.01.11"
+        },
+        {
+            "itemId": "861643034823",
+            "cityName": "广州站",
+            "showTime": "2025.01.12"
+        },
+        {
+            "itemId": "859249572701",
+            "cityName": "北京站",
+            "showTime": "12.22"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=862211909356"
+}
