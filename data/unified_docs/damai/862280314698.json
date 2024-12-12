@@ -1,0 +1,54 @@
+{
+    "platform": "大麦",
+    "project_id": "862280314698",
+    "project_name": "Z纪元银河左岸跨年音乐节",
+    "category_name": "演唱会",
+    "artists": [
+        "魏晨",
+        "颜人中",
+        "郑润泽",
+        "张星特",
+        "队长YoungCaptain",
+        "h3R3刘清云"
+    ],
+    "show_status": "售票中",
+    "show_time": "2024.12.31 周二 19:00",
+    "session_time": [],
+    "price": "199-499",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "贵阳",
+    "venue_name": "贵阳国际会议展览中心四号馆",
+    "venue_info": {
+        "venue_address": "贵阳市金阳林城东路贵阳国际会议展览中心中街与2号路交叉口东100米",
+        "lng": 106.646918,
+        "lat": 26.642663
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01T9CVGw2GdSf5VEpty_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01d0GYc22GdSf6WzeaI_!!2251059038.gif",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01jrV0pZ2GdSf42gqDM_!!2251059038.gif",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01J3WvKv2GdSf5bxCkA_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "11955",
+        "wantNumStr": "1.2万",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "861841861027",
+            "cityName": "南京站",
+            "showTime": "12.31"
+        },
+        {
+            "itemId": "862280314698",
+            "cityName": "贵阳站",
+            "showTime": "12.31"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=862280314698"
+}

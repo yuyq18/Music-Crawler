@@ -1,0 +1,402 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：野孩子乐队、周云蓬、万晓利、钟立风、低苦艾乐队、莫西子诗、张浅潜、尧十三、贰佰",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1063",
+    "cityname": "徐州",
+    "couponTags": "[]",
+    "description": "艺人：野孩子乐队、周云蓬、万晓利、钟立风、低苦艾乐队、莫西子诗、张浅潜、尧十三、贰佰",
+    "id": "1_1_862052615561",
+    "imgurl": "30591563",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "窑湾新年烟花民谣音乐会",
+    "nameNoHtml": "窑湾新年烟花民谣音乐会",
+    "price": {
+        "range": "129"
+    },
+    "price_str": "129",
+    "pricehigh": "129.0",
+    "privilegeTags": "[]",
+    "projectid": "862052615561",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.01.01 周三 11:30",
+    "sitestatus": "3",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": {
+        "lat": 34.177114,
+        "lng": 118.073042,
+        "region": "1",
+        "venueAddr": "江苏省徐州市新沂市窑湾镇窑炮线与合窑线交汇处",
+        "venueCityName": "徐州市",
+        "venueId": "6979038",
+        "venueName": "窑湾古镇",
+        "venueProvinceName": "江苏省"
+    },
+    "venuecity": "徐州",
+    "venueid": "6979038",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01r2QuPx2GdSf4zMj3j_!!4611686018427383646-2-item_pic.png",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "江苏河流文化发展有限公司",
+            "entAddress": "江苏省无锡市梁溪区南长街426-1号一层",
+            "entType": "有限责任公司",
+            "legalPerson": "王丽娜",
+            "opFrom": "",
+            "opTo": "",
+            "regCapStr": "1000万人民币",
+            "socialCreditCode": "91320213MACM5LNF2J"
+        }
+    },
+    "buyButton": {
+        "origin": "1",
+        "status": "204",
+        "text": "立即购票"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01YukRlA2GdSf53JiHS_!!2251059038.png\" width=\"844\" height=\"1360\" damai_width=\"844\" damai_height=\"1360\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01F3GB752GdSf7l1z6M_!!2251059038.png\" width=\"845\" height=\"1268\" damai_width=\"845\" damai_height=\"1268\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01FtbLJk2GdSf4pnjNC_!!2251059038.png\" width=\"845\" height=\"924\" damai_width=\"845\" damai_height=\"924\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01YR4f8u2GdSf3NedzE_!!2251059038.png\" width=\"845\" height=\"1268\" damai_width=\"845\" damai_height=\"1268\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01MREzwZ2GdSf7HlKsc_!!2251059038.png\" width=\"844\" height=\"1268\" damai_width=\"844\" damai_height=\"1268\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01JRjpJR2GdSf4ppoGo_!!2251059038.png\" width=\"845\" height=\"1268\" damai_width=\"845\" damai_height=\"1268\"></p></body></html>",
+        "introduceTitle": "演出介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "野孩子是由索文俊和张佺在1995年成立的。他们都来自甘肃兰州。他们的名字让人想到的是中国西北广阔的土地和当地粗犷的民歌。",
+                "id": "72555",
+                "name": "野孩子乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1548828281666/1548828281666-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "周云蓬，最具人文的中国民谣音乐代表。",
+                "id": "81303595",
+                "name": "周云蓬",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1550632127879/1550632127879-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "一位富有浓郁人文色彩的民谣歌手",
+                "id": "502",
+                "name": "万晓利",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1534413417915/1534413417915-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "校园经典名曲《再见了，最爱的人》原作者，麦田音乐最纯粹的民谣诗人",
+                "id": "764",
+                "name": "钟立风",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1521704732388/1521704732388-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "低苦艾乐队是一支民谣摇滚乐队，2003年成立于兰州，中国民谣摇滚的开山乐队之一，成员为主唱刘堃，吉他周旭东，贝斯席斌，鼓手窦涛四人组成，现为摩登天空旗下乐队。",
+                "id": "18172",
+                "name": "低苦艾乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1534413385169/1534413385169-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "彝族音乐人。",
+                "id": "71614",
+                "name": "莫西子诗",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1534413434875/1534413434875-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "",
+                "id": "26894200",
+                "name": "张浅潜",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1634114459039/1634114459039-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "尧十三，中国内地男歌手。",
+                "id": "366212818",
+                "name": "尧十三",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1551423652470/1551423652470-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "",
+                "id": "393011826",
+                "name": "贰佰",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1633746494874/1633746494874-main.jpg",
+                "tag": "歌手"
+            }
+        ],
+        "artistsTitle": "演出阵容",
+        "guideCat": "音乐节",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i3/O1CN01CGzEn91X9XkwbUHlz_!!6000000002881-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/1226775/245355192_1687609244642.jpg",
+                "https://img.alicdn.com/imgextra/i1/O1CN014hqoie1G2oSvT63ui_!!6000000000565-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/2674666/534933230_1734026396624.jpg",
+                "https://img.alicdn.com/imgextra/i1/O1CN01vY86me1ydJ7UVciBd_!!6000000006601-0-tps-500-500.jpg"
+            ],
+            "wantNum": "290",
+            "wantNumStr": "290",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01R3THyh1QT3Y3gWguc_!!6000000001976-2-tps-1125-702.png",
+        "categoryId": "127420006",
+        "cityName": "徐州市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "862052615561",
+        "itemName": "【徐州】窑湾新年烟花民谣音乐会",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "http://img.alicdn.com/imgextra/i4/2251059038/O1CN01r2QuPx2GdSf4zMj3j_!!4611686018427383646-2-item_pic.png"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "320300",
+        "performSeatImages": [],
+        "projectId": "223385014",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                },
+                {
+                    "id": "7",
+                    "name": "港澳台居民居住证"
+                },
+                {
+                    "id": "8",
+                    "name": "外国人永久居留身份证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "以现场为准",
+        "showTime": "2025.01.01 周三 11:30",
+        "subTitle": "",
+        "tcCategoryId": "0301030100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "217981001",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=862052615561",
+        "showFlag": "false"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须携带购票时对应证件验证入场。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "1.2米以下儿童免票入场，1.2米以上（含1.2米）儿童全票。儿童可在已购票家长（监护人）陪同下入场，每位家长（监护人）限携带一位儿童。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：身份证/外国人永久居留身份证/台湾居民来往大陆通行证/护照/港澳居民来往内地通行证/港澳台居民居住证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约120分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "50",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            },
+            {
+                "content": "1000",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01g1Fs6025i4mGCqzxa_!!6000000007559-2-tps-144-144.png",
+                "title": "大麦网初始开售时全场可售门票总张数"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "2",
+                "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。",
+                "tagDescJson": "{\"generalNote\":\"该演出支持退票，您可以在【我的-订单详情页】中申请退票，退票需要收取手续费，具体规则如下：\",\"performRules\":[{\"rules\":[{\"endTime\":1734149520000,\"ruleStage\":2,\"ruleType\":2,\"startTime\":1733976720000},{\"endTime\":1734581520000,\"ruleFeeBP\":3000,\"ruleStage\":1,\"ruleType\":1,\"startTime\":1734149520000},{\"ruleStage\":1,\"ruleType\":4,\"startTime\":1734581520000}]}],\"refundProcedureFeeRule\":1}",
+                "tagName": "条件退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过身份证验票入场",
+                "tagDescWithStyle": "通过身份证验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：江苏河流文化发展有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：江苏河流文化发展有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}
