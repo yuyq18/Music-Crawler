@@ -1,0 +1,485 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1377",
+    "cityname": "成都",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_862345347997",
+    "imgurl": "33518887",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "“2024-2025上山跨年”摇滚团年饭",
+    "nameNoHtml": "“2024-2025上山跨年”摇滚团年饭",
+    "price": "99.0",
+    "price_str": "99-258",
+    "pricehigh": "258.0",
+    "privilegeTags": "[]",
+    "projectid": "862345347997",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.31-2025.01.01",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "成都高新中演大剧院-多功能剧场",
+    "venuecity": "成都",
+    "venueid": "6473058",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01oCQPFO2GdSf49K251_!!4611686018427383646-2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "862345347997",
+                    "itemName": "【成都】“2024-2025上山跨年”摇滚团年饭",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "510100",
+                    "cityName": "成都市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01oCQPFO2GdSf49K251_!!4611686018427383646-2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i4/2251059038/O1CN01oCQPFO2GdSf49K251_!!4611686018427383646-2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.12.31-2025.01.01",
+                    "showDuration": "约10小时（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：成都高新中演大剧院管理有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：成都高新中演大剧院管理有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1377",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "项目介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><title></title><br></p><p><strong><span>&nbsp;*请您认真阅读本页底部购票须知和观演须知，确保您能理解和知悉。</span></strong></p><p><span>&nbsp;</span><br></p><p><strong><span><u>【本场演出为不选座演出】</u></span></strong></p><p><span>&nbsp;</span><br></p><p><strong><span>开演前一周内可凭电子票二维码至剧院一楼票务中心换取纸质票，提前取票请妥善保管，遗失不补。</span></strong></p><p><span>&nbsp;</span><br></p><p><strong><span>【演出票价】</span></strong></p><p><span>&nbsp;</span><br></p><p><span><strong><u>站席139</u></strong></span><span><u>元</u></span></p><p><span>&nbsp;</span><br></p><p><strong><span>【演出场次】</span></strong></p><p><span>&nbsp;</span><br></p><p><span>2024年12月31日（周二）15:00</span></p><p><span>&nbsp;</span><br></p><p><strong><span>【优惠政策】</span></strong></p><p><span>&nbsp;</span><br></p><p><span>1.</span><span>【</span><strong><span>上山团伙票</span></strong><span>】</span><span>：99元/张</span><span>（限量）</span></p><p><span>&nbsp; &nbsp;</span><span>【</span><strong><span>双人套票</span></strong><span>】</span><span>：258（139*2）</span></p><p><span>2</span><span>、约10小时（以现场为准）</span></p><p><span>3</span><span>、一人一票，1.2m以上儿童凭票入场，1.2m以下儿童谢绝入场。</span></p><p><span>4</span><span>、因演出票特殊性，所有演出票一经售出，概不退换、不记名、不挂失、不补办，请您见谅；</span></p><p><span>5</span><span>、对号入座，严禁跨层入场。</span></p><p><span>&nbsp;</span><br></p><p><span>————————————————————————</span></p><h1><strong><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01rdIrqX2GdSf6eEB3l_!!2251059038.png\" width=\"1080\" height=\"1527\" damai_width=\"1080\" damai_height=\"1527\"></span></strong><br></h1><h1><strong><span>“2024</span></strong><strong><span>——</span></strong><strong><span>2025上山跨年” 摇滚团年饭！</span></strong></h1><p><title></title><br></p><p><title></title><br></p><p><span><strong><u>演出简介</u></strong></span></p><p><span>“12组乐队+JAM+耍山市集+跨年时刻”，&nbsp; 2024——2025“上山跨年”摇滚团年饭集音乐、艺术、市集和跨年倒计时于一体，让参与者在音乐的海洋中迎接新的一年。12月31日晚，十二组不同风格乐队轮番登台，上演十个小时摇滚“团年饭”，让音乐的火焰燃烧夜晚，直至新年倒计时。</span></p><p><span>&nbsp;</span><br></p><p><span><strong><u>乐队简介</u></strong></span></p><p><span>*乐队名字按拼音首字母排序</span></p><p><span>实际出场顺序、乐队以现场为准</span></p><p><span><br></span></p><p><span><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN011cAeBa2GdSf8L3PQp_!!2251059038.png\" width=\"433\" height=\"433\" damai_width=\"433\" damai_height=\"433\"></span></p><p><span><strong><u>刀雨</u></strong></span></p><p><title></title><br></p><p><span>2018年组建于成都的刀雨在短时间内迅速崛起，成为中国西南区域独树一帜的新派重型劲旅。2022年乐队圆满完成【INTO THE NEW AGE】全国巡演并崭露头角。如今世界剧变，暗潮涌动，在漫天是非中，我们只寻找自己的真理。</span></p><p><span><br></span></p><p><span><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01DvLnTB2GdSf49wNG0_!!2251059038.png\" width=\"578\" height=\"433\" damai_width=\"578\" damai_height=\"433\"></span></p><p><span><strong><u>大神通</u></strong></span></p><p><span><title></title></span><br></p><p><span>辛丑年初，蜀有乐师四人会于王翁炙肉。觥筹交错，牛X乱吹。酒食正酣，筒忽起身笑曰：“吾擅歌，帆攻琴，旺精舞，王好鼓。余四人一团，开喜剧摇滚之先，定当惊世骇俗，闹天下个鸡犬不宁！”帆旺王大喜，皆锤桌击掌，大作喧哗以应。其声隆隆，十里不绝。未几，惊雷顿起，风云骤变，邻里皆以为怪谈。坊传：大神通降临，有孩子的都抱稳了！</span></p><p><span><strong><u><br></u></strong></span></p><p><span><strong><u><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01RNTrpn2GdSf5QAyQz_!!2251059038.png\" width=\"609\" height=\"433\" damai_width=\"609\" damai_height=\"433\"></u></strong></span></p><p><span><strong><u>地下婴儿</u></strong></span></p><p><span><title></title></span><br></p><p><span>我们是地下婴儿</span></p><p><span>1991-1999</span><span>&nbsp;</span><span>第一阶段</span></p><p><span>突破</span><span>“与”颠覆</span><span>——</span><span>摇滚乐</span></p><p><span>2000-2012 第二阶段</span></p><p><span>“</span><span>蜕变</span><span>”</span><span>蜕变是痛苦的，但这种体验站在未来看是对自己有益的</span><span>。</span></p><p><span><span>2012-</span></span><span>至今 第三阶段</span></p><p><span><span>2013-</span></span><span>“</span><span>尝试</span><span>”</span><span>一切都是新的尝试和再创造</span><span>。</span></p><p><span><br></span></p><p><span><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01ZaXmkH2GdSf6HqAdD_!!2251059038.png\" width=\"578\" height=\"433\" damai_width=\"578\" damai_height=\"433\"></span></p><p><span><strong><u>疯了的草</u></strong></span></p><p><title></title><br></p><p><span>24年初成立于成都。不确定噪音包裹情绪迸发在地下河中，生长便习惯盯着地板。</span></p><p><span><br></span></p><p><span><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN013sDkGh2GdSf8L7hpm_!!2251059038.png\" width=\"578\" height=\"433\" damai_width=\"578\" damai_height=\"433\"></span></p><p><span><u><strong>费德拜克</strong></u></span></p><p><title></title><br></p><p><span>“Feedback”原是吉他拾音器接近音箱时产生的一种带有尖锐噪音的声学现象，当后朋克式冷峻凶猛的baseline与之产生拉扯后，你就能在紧张下坠的鼓点中感受到来自费德拜克的声音。</span></p><p><span><br></span></p><p><span><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN013pKrT92GdSf6bB3x7_!!2251059038.png\" width=\"582\" height=\"433\" damai_width=\"582\" damai_height=\"433\"></span></p><p><span><strong><u>环岛行驶</u></strong></span></p><p><title></title><br></p><p><span>驻扎成都的三大摇滚乐队，</span></p><p><span>真诚，热烈！</span></p><p><span>着眼一个“人”所无奈而又必经的成长史，</span></p><p><span>试图作为通往新世界的燃料被谁点燃继而点燃谁，</span></p><p><span>试图理清“人”与世界的关系，</span></p><p><span>却始终，登不上那座岛。</span></p><p><span><br></span></p><p><span><strong><u><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01RZgQqi2GdSf5Du4ug_!!2251059038.png\" width=\"770\" height=\"433\" damai_width=\"770\" damai_height=\"433\"></u></strong></span></p><p><span><strong><u>猴子军团</u></strong></span></p><p><title></title><br></p><p><span>我们热爱生活一切真实的事物，生活方式构造了我们的音乐形式。</span></p><p><span>5个性格迥异的生物永远坚信：“噪音与情绪是打破这个无聊世界的唯一利器”，音乐便成了宣泄口。</span></p><p><span>来加入我们的派对，别让那些毫无意义的东西捆绑你我。</span></p><p><span><br></span></p><p><span><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01yn4Uo32GdSf6eMu8F_!!2251059038.png\" width=\"650\" height=\"433\" damai_width=\"650\" damai_height=\"433\"></span></p><p><span><strong><u>就地正法</u></strong></span></p><p><title></title><br></p><p><span>OTSPEXETION 就地正法 </span></p><p><span>2004年诞生于成都，成军近二十个年头的他们仍活跃于国内金属舞台之中，成为成都 Old School Metal乐队中最韧的旗帜。</span></p><p><span>乐队深受早期哥德堡旋律风潮影响，在积年的探索中阐述对黑暗的神圣信仰及人性的深层思考，通过激昂凌厉的鼓点，高旋律的riff交织利刃般的嘶吼，身体力行地构建出一幅宏大深邃而悲壮的画面。</span></p><p><span>未来，他们将带着制裁之剑的锋芒，正式向时代掀起属于就地正法的极端风潮。</span></p><p><span><br></span></p><p><span><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01tc6fGf2GdSf6HwLbA_!!2251059038.png\" width=\"595\" height=\"433\" damai_width=\"595\" damai_height=\"433\"></span></p><p><span><strong><u>门后话</u></strong></span></p><p><title></title><br></p><p><span>我们传唱一段呓语</span><span>，</span><span>干涸在语言中</span><span>。</span></p><p><span>声音已变为货币或液化为嘴里的谈资</span><span>。</span></p><p><span>我们只是大多数的</span><span>，</span></p><p><span>大多数对冲下牺牲的数字</span><span>。</span></p><p><span>再之后</span><span>，</span></p><p><span>只剩下嗡嗡声</span><span>，</span><span>咿呀声</span><span>，</span><span>在喉管里翻动</span><span>。</span></p><p><span><br></span></p><p><span><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01BBnKdK2GdSf6eQnST_!!2251059038.png\" width=\"580\" height=\"433\" damai_width=\"580\" damai_height=\"433\"></span></p><p><strong><u><span>Holy</span><span>&nbsp;</span><span>Mercy</span><span>圣</span></u></strong><span><strong><u>慈</u></strong></span></p><p><title></title><br></p><p><span>乐队</span><span>成立于2019年末，2020年4月发布了第一首单曲，进行了第一次的风格尝试，在国内新派重型圈广受好评，随后发布第二首单曲，加入了Slam Beatdown元素，为HolyMercy此后的音乐定下了风格基础，在2022年3月释出全新概念单曲</span><span>〈</span><span>Incorrect Name</span><span>&gt;</span><span>并在9月被收录进</span><span>〈</span><span>核在中国十周年合集</span><span>〉</span><span>当中，得到各路乐队乐手，音乐人，音乐传媒工作者的认可。</span></p><p><span>HolyMercy的音乐风格</span><span>在不断地</span><span>创新，从Nu metalcore和Downtempo元素到Slam Beatdown元素和如今的Drill Beat变化不断，但是歌曲表达的简单粗暴的内容却得到了延续，与其他概念不同，HolyMercy的音乐就只是单纯的辱骂，对生活，对圈子的病态现象进行一次次清洗，从2021年活动于各种现场以来，每一次都能引得乐迷观众产生共鸣，发泄出负面的情绪。</span></p><p><span><br></span></p><p><span><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN0104XwQQ2GdSf6eR8J8_!!2251059038.png\" width=\"770\" height=\"433\" damai_width=\"770\" damai_height=\"433\"></span></p><p><span><strong><u>拾光者计划</u></strong></span></p><p><title></title><br></p><p><span>组建于2019年，四川大凉山深处的彝族声音，从儿时的山野呼唤而来，专注彝族民歌传唱与原创音乐探索。2020年获第五届“中国彝歌会”冠军，2024年先后获成都电视台“原创新声”冠军和四川省大学生音乐创新大赛双一等奖。</span></p><p><span><br></span></p><p><span><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01RffWWy2GdSf6ePj1R_!!2251059038.png\" width=\"577\" height=\"433\" damai_width=\"577\" damai_height=\"433\"></span></p><p><span><strong><u>泰迪爆爱</u></strong></span></p><p><title></title><br></p><p><span>Teddy Boy泰迪爆爱乐队成立于2024年3月风格以New School Punk为主。</span></p><p><span>&nbsp;</span><br></p><p><span>&nbsp;</span><br></p><p><span>时间的齿轮缓缓转动，而我们仍然举着酒杯，眼中有泪光，也有希望。</span></p><p><span>愿我们没有辞旧迎新的矫情祝词，只有音乐的狂欢、深夜的呐喊和举杯相庆的炙热灵魂！</span></p><p><span><br></span></p><p><span>12月31日</span></p><p><span>成都高新中演大剧院</span></p><p><span>现场见！</span></p><br><p><br></p><br><p><br></p><br><p><br></p><br><p><br></p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "1.2米以上凭成人票入场，1.2米以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约10小时（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "有寄存处,具体位置请联系现场工作人员。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "6473058",
+                    "venueName": "成都高新中演大剧院-多功能剧场",
+                    "venueProvinceName": "四川省",
+                    "venueCityName": "成都市",
+                    "lng": 104.052095,
+                    "lat": 30.543776,
+                    "venueAddr": "武侯区高新区天府四街688号4栋",
+                    "showCountText": "共有3个演出",
+                    "region": "1"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D862345347997%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "34",
+                    "wantNumStr": "34",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i3/O1CN010Y49WU1vtqZhHVKPn_!!6000000006231-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/906786/181357368.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01XWxmOi1OrfMwRZv2s_!!6000000001759-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/458704/91740823.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01uigUa01oEtr6yYcvP_!!6000000005194-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "特惠购票",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1734069600000",
+                "sellStartTimeStr": "12月13日 14:00",
+                "priceRange": "¥99 - ¥258",
+                "performBases": [
+                    {
+                        "name": "12.31 周二",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1735574400000",
+                        "performs": [
+                            {
+                                "performId": "218045004",
+                                "performName": "2024-12-31 周二 15:00",
+                                "itemId": "862345347997",
+                                "projectId": "223518001",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1735628400000",
+                                "performTime": "2024.12.31 15:00",
+                                "performStartDate": "2024-12-31",
+                                "performBeginTime": "15:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "2人套票可省20元"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "2人套票",
+                        "content": "双人套票（139*2），可省20元"
+                    }
+                ],
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "658689",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "26699",
+                    "23115",
+                    "23883",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "704833",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "466049",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9867",
+                    "9099",
+                    "8843",
+                    "16267",
+                    "716673",
+                    "37259",
+                    "657793",
+                    "14731",
+                    "12171",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "promotionList": [
+                    {
+                        "type": "COMBINE",
+                        "tag": "套票",
+                        "isTagList": "false",
+                        "desc": "2人套票9.2折，到手¥258(票档¥139x2)"
+                    }
+                ],
+                "promotionDetail": {
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "1",
+                            "promotionGroupTypeDesc": "票档优惠",
+                            "promotionList": [
+                                {
+                                    "promotionType": "3",
+                                    "promotionTag": "套票",
+                                    "promotionContentList": [
+                                        "2人套票9.2折，到手¥258(票档¥139x2)"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "9.2折，到手258（票档¥139x2）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "statusTips": [],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8623453479/2/862345347997.jpg"
+            }
+        }
+    }
+}
