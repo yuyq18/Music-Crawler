@@ -1,0 +1,344 @@
+{
+    "searchType": "SHOW",
+    "showId": "675ad9c4c9f9210001c14843",
+    "stdShowId": "675ad9c4c9f9210001c14842",
+    "showName": "【喀什】新喀什·闪耀疆徕 美丽云图群星演唱会",
+    "showDate": "2025.01.03 21:20",
+    "cityName": "喀什地区",
+    "cityId": "6531",
+    "showStatus": "PENDING",
+    "minOriginalPrice": "399.0",
+    "posterUrl": "https://cdn.ticketmars.com/image/prod/20241215_84/17342557193508885.jpg",
+    "venueId": "675adbd4aedc4b0001b1d4b6",
+    "venueName": "喀什体育中心",
+    "backendCategory": "{'code': 17, 'displayName': '演唱会', 'name': 'YanChangHui'}",
+    "isFree": "False",
+    "firstShowTime": "1735910400000",
+    "lastShowTime": "1735918200000",
+    "minOriginalPriceInfo": "{'yuanNum': '399', 'centNum': '', 'suffix': '起', 'prefix': '￥'}",
+    "latestShowTime": "1735910400000",
+    "showSessionDates": "['20250103']",
+    "soldOut": "False",
+    "sessionNum": "1",
+    "seatPlanNum": "6",
+    "rsCode": 200,
+    "basicInfo": {
+        "hotMode": true,
+        "stdShowId": "675ad9c4c9f9210001c14842",
+        "bizShowId": "675ad9c4c9f9210001c14843",
+        "showName": "【喀什】新喀什·闪耀疆徕 美丽云图群星演唱会",
+        "sourceType": "SELF_BUILT_SELF_PRODUCE",
+        "originalSeatPickType": "SUPPORT_NONE",
+        "contentUrl": "https://cdn.ticketmars.com/prod/showContent/675ad9c4c9f9210001c14843/content_675ea96bd37cc800016bc948.content",
+        "posterUrl": "https://cdn.ticketmars.com/image/prod/20241215_84/17342557193508885.jpg",
+        "posterColor": "#bf8556ff",
+        "venueId": "675adbd4aedc4b0001b1d4b6",
+        "venueName": "喀什体育中心",
+        "venueAddress": "新疆喀什地区喀什市奥林匹克路与深喀大道交叉口喀什体育中心体育馆",
+        "venueLat": 39.463889,
+        "venueLng": 76.109304,
+        "cityId": "6531",
+        "cityName": "喀什地区",
+        "onSaleShowCount": 1,
+        "showTags": [
+            {
+                "title": "套票",
+                "type": "SHOW_TAG",
+                "textColor": "#956B32"
+            }
+        ],
+        "authorizationUrl": "",
+        "minOriginalPriceInfo": {
+            "yuanNum": "399",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "maxOriginalPriceInfo": {
+            "yuanNum": "1699",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "showDate": "2025年01月03日 21:20",
+        "showDuration": "以现场为准",
+        "seatPlanURL": "https://cdn.ticketmars.com/image/prod/20241215_31/17342557852786452.jpg",
+        "displayAdvance": false,
+        "venueDisplayAdvance": false,
+        "sessionDisplayAdvance": false,
+        "seatPlanDisplayAdvance": false,
+        "showType": {
+            "name": "YanChangHui"
+        },
+        "showDetailStatus": "PENDING",
+        "existsPrivilegePurchase": false,
+        "displayCountdownTime": true,
+        "captchaTypes": []
+    },
+    "additionalInfo": {
+        "hasCoupon": true,
+        "hasPromo": false,
+        "hasAddPurchase": false,
+        "hasUserPromo": false,
+        "hasPCard": false,
+        "hasPriority": false,
+        "hasChannelDiscount": false,
+        "checkChannelFreeCombo": false,
+        "channelPickSeatProject": false,
+        "hasTyingSale": false,
+        "hasJumpGuid": false
+    },
+    "descInfo": {
+        "observationInstructions": [
+            {
+                "key": "TICKETS_AND_ADMISSION",
+                "name": "票品及入场",
+                "value": "须兑换成纸质票验票入场，当天请按照【票舱】提示，前往取票点换取纸质票后入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "SHOW_DURATION",
+                "name": "演出时长",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "MAIN_ACTOR",
+                "name": "主要演员(团体)",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "ENTRY_TIME",
+                "name": "入场时间",
+                "value": "请于开始前约90分钟入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "RESTRICTED_ITEM",
+                "name": "禁止携带物品",
+                "value": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "LUGGAGE_DEPOSIT",
+                "name": "物品寄存",
+                "value": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            },
+            {
+                "key": "MINIMUM_SHOW_DURATION",
+                "name": "最低演出时长",
+                "value": "约120分钟，以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 7
+            },
+            {
+                "key": "MINIMUM_SHOW_NUMBER",
+                "name": "最低演出曲目",
+                "value": "28首，以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 8
+            }
+        ],
+        "ticketInstructions": [
+            {
+                "key": "CHILDREN_INTRODUCTION",
+                "name": "儿童购票",
+                "value": "1.2米以上凭成人票入场，1.2米以下谢绝入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "REAL_NAME_PURCHASE_TICKET_INTRODUCTION",
+                "name": "实名购票规则",
+                "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证",
+                "isMarked": false,
+                "tagContent": "门票对应唯一证件(身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证)",
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "LIMITATION",
+                "name": "限购规则",
+                "value": "每个场次限购6张/套，项目限购20张/套",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "EXCEPTION_ORDER_INTRODUCTION",
+                "name": "异常排单说明",
+                "value": "对于异常订购行为，商家有权在订单成立或者生效之后取消相应订单。 异常订购行为包括但不限于以下情形： （1）通过同一ID订购超出限购张数的订单。 （2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "EXCHANGE_POLICY",
+                "name": "退换政策",
+                "value": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "INVOICE_INTRODUCTION",
+                "name": "发票说明",
+                "value": "电子发票\n发票开具方：主办方\n该项目可申请开具电子发票。该发票由第三方主办提供。订单交易完成后6日将关闭申请。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            }
+        ],
+        "markedTextList": []
+    },
+    "noteInfos": [
+        {
+            "name": "支持有条件退",
+            "value": "",
+            "type": true,
+            "code": "CONDITION_REFUND",
+            "refundCfg": {
+                "showName": "【喀什】新喀什·闪耀疆徕 美丽云图群星演唱会",
+                "refundTimes": 1,
+                "refundTimesDesc": "该项目可退1次。",
+                "type": "SESSION_SETTING",
+                "rateItems": [
+                    {
+                        "rate": 0.0,
+                        "sessionItems": [
+                            {
+                                "sessionBeginTime": 1735910400000,
+                                "sessionName": "2025-01-03 周五 21:20",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-12-18 13:18",
+                                        "right": "2024-12-19 13:17"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "rate": 30.0,
+                        "sessionItems": [
+                            {
+                                "sessionBeginTime": 1735910400000,
+                                "sessionName": "2025-01-03 周五 21:20",
+                                "timeRange": [
+                                    {
+                                        "left": "2024-12-19 13:18",
+                                        "right": "2024-12-23 13:18"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "refundCfgV2": {
+                "showName": "【喀什】新喀什·闪耀疆徕 美丽云图群星演唱会",
+                "refundTimes": 1,
+                "refundTimesDesc": "该项目可退1次。",
+                "type": "SESSION_SETTING",
+                "refundCfgItemList": [
+                    {
+                        "refundRuleList": [
+                            {
+                                "beginTime": [
+                                    2024,
+                                    12,
+                                    18,
+                                    13,
+                                    18
+                                ],
+                                "left": "12.18 13:18",
+                                "right": "12.19 13:17",
+                                "refundHandlFeeStr": "免费退票",
+                                "timeStatus": 1
+                            },
+                            {
+                                "beginTime": [
+                                    2024,
+                                    12,
+                                    19,
+                                    13,
+                                    18
+                                ],
+                                "left": "12.19 13:18",
+                                "right": "12.23 13:18",
+                                "refundHandlFeeStr": "票价 30%",
+                                "timeStatus": 1
+                            },
+                            {
+                                "beginTime": [
+                                    2024,
+                                    12,
+                                    23,
+                                    13,
+                                    19
+                                ],
+                                "left": "12.23 13:19",
+                                "refundHandlFeeStr": "停止退票",
+                                "timeStatus": 1
+                            }
+                        ],
+                        "sessionCount": 1,
+                        "sessionNameList": [
+                            "2025-01-03 周五 21:20"
+                        ]
+                    }
+                ]
+            },
+            "noteDesc": "该项目支持有条件退票，可在“我的”-“全部订单”-“订单详情”中申请退票，退票可能会有手续费，具体规则如下：",
+            "additionalNote": "具体可申请退票细则,请详见该项目详情页退票政策相关说明或公告信息"
+        },
+        {
+            "name": "实名观演",
+            "value": "一张门票对应一个证件；证件支持：身份证/护照/台湾居民来往大陆通行证/港澳居民来往内地通行证",
+            "type": true,
+            "code": "REAL_NAME_TICKET"
+        },
+        {
+            "name": "现场换票",
+            "value": "需要在指定的换票地点换票，下单后可通过票舱中的二维码换取纸质票（具体以下单后票舱信息为准）",
+            "type": true,
+            "code": "VENUE"
+        },
+        {
+            "name": "发票说明",
+            "value": "电子发票\n发票开具方：主办方\n该项目可申请开具电子发票。该发票由第三方主办提供。订单交易完成后6日将关闭申请。",
+            "type": false,
+            "code": "BILL_APPLY",
+            "desc": "发票"
+        }
+    ],
+    "specialNoteInfos": [
+        {
+            "name": "预售",
+            "value": "本项目正在预售，下单后无法立即为您配票。正式开票后（一般于节目举办前1-2周），票品信息（包括换票、入场方式）将陆续更新，届时您可通过订单详情页或票舱详情查看。",
+            "type": true,
+            "code": "SHOW_PRESALE",
+            "desc": "此项目为预售，待项目正式开票后为您配票"
+        }
+    ],
+    "announcement": [],
+    "whiteTags": [],
+    "watcherReplacer": "观演"
+}
