@@ -1,0 +1,57 @@
+{
+    "platform": "大麦",
+    "project_id": "836833582354",
+    "project_name": "周杰伦2025“嘉年华”世界巡回演唱会-三亚站",
+    "category_name": "演唱会",
+    "artists": [
+        "周杰伦"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.28-03.30",
+    "session_time": [],
+    "price": "600-2000",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "三亚",
+    "venue_name": "三亚市体育中心白鹭体育场",
+    "venue_info": {
+        "venue_address": "吉阳区抱坡路三亚国际体育产业园内",
+        "lng": 109.514535,
+        "lat": 18.310457
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01bSgH3O2GdSfB2ZyfQ_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN019WM0fO2GdSfDm2zOY_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01WNUpno2GdSfEMoQoV_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01KzghSf2GdSfDUXN8C_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01441sP52GdSfG4xIRB_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN018N4ZmQ2GdSfDm37hs_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01zfFSBg2GdSfF5y4vF_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Z7td3a2GdSfG4xhOg_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01TSdZKZ2GdSfD10Tg6_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01VJ98vo2GdSfEMnDtG_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01pjIPXQ2GdSfF5xbnU_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01qt8gMP2GdSfFcxfLG_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "151810",
+        "wantNumStr": "15.2万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过93%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "836833582354",
+            "cityName": "三亚站",
+            "showTime": "2025.03.28-03.30"
+        },
+        {
+            "itemId": "859409611964",
+            "cityName": "迪拜站",
+            "showTime": "2025.01.04-01.05"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=836833582354"
+}
