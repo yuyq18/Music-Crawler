@@ -1,0 +1,486 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1209",
+    "cityname": "天津",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_864687418760",
+    "imgurl": "56939595",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "梦歌·音乐现场 天津演唱会·末日狂欢",
+    "nameNoHtml": "梦歌·音乐现场 天津演唱会·末日狂欢",
+    "price": "40.0",
+    "price_str": "40-60",
+    "pricehigh": "60.0",
+    "privilegeTags": "[]",
+    "projectid": "864687418760",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.24 周二 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "梦歌音乐现场",
+    "venuecity": "天津",
+    "venueid": "6994001",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01nFOHhN2GdSfG4QOcD_!!4611686018427383646-2-item_pic.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "864687418760",
+                    "itemName": "【天津】梦歌·音乐现场 天津演唱会·末日狂欢",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "120100",
+                    "cityName": "天津市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01nFOHhN2GdSfG4QOcD_!!4611686018427383646-2-item_pic.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01nFOHhN2GdSfG4QOcD_!!4611686018427383646-2-item_pic.png"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.12.24 周二 20:00",
+                    "showDuration": "以现场为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：瑞龙高盛传媒科技(天津)有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：瑞龙高盛传媒科技(天津)有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1209",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>熊猫档案乐队介绍<br>熊猫档案2017年成立于辽宁大连， 2024年于北京重组。融合英伦独立与新浪潮，在灵动与 节奏感的吉他贝斯riff主导下，乐队 吸收多元化的风格，为听众带来别具一格的独立摇滚。 <br>他们用旋律和节奏唤醒每一个沉睡 的梦想家，在这纷繁的世界传递他 们追梦的热血，寻找青春的活力。<br>现任成员：主唱刘子彤，吉他手政男，鼓手吴恩赐，贝斯手轩与</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN012GJylv2GdSfDLHJQf_!!2251059038.jpg\" width=\"512\" height=\"683\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp;</p>\n<p>熊猫档案乐队刘子彤<br>刘子彤，辽宁大连人，旅英制作人刘子彤毕业于伦敦大学， 进修于伯克利音乐学院电子音乐制作，擅长流行、摇滚音乐制作，使用吉他、贝斯、键盘、二胡演奏。曾在英国组建多只乐队活跃于 livehouse等活动、或以个人形式演出；为歌手及影视作品创作歌曲包 括曾惜-跟你说个秘密、电影日落餐 厅主题曲-落日冒险、Hopes等。风格以充满节奏感、丰富的配器和带 有英伦风格的编曲为基础，结合含有故事或思考的词作和抓耳的旋律，为乐队注入鲜明的色彩。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01IxRtBN2GdSfEuyOi4_!!2251059038.png\" width=\"527\" height=\"750\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp;</p>\n<p>熊猫档案乐队常祎凡<br>常祎凡，中国传媒大学研究生、独立音乐人】制作人2024年加入熊猫档案乐队担任吉他手，擅长吉他solo和即兴演奏，还在编曲和制作领域积累了丰富的经验。他的吉他风格融合了多种音乐元素，从摇滚到电子音乐，对每一种风格的探索都让他在即兴演奏中游刃有余。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01EOCu2Q2GdSfCmZmaO_!!2251059038.png\" width=\"532\" height=\"699\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp;</p>\n<p>熊猫档案乐队吴恩赐<br>吴恩赐，目前就读于北京现代音乐研修学院。他深入研究多种音乐风格，擅长即兴演奏，作为摇滚乐队的鼓手，恩赐努力将激情与技术结合，创造出富有动感的节奏。此前他也是另一只爵士乐队的鼓手，通过与不同风格的音乐家合作，不断拓宽自己的音乐视野，提升自己的演奏技巧。让大家体会到鼓点不仅是节奏的基础，更是传递情感的重要元素。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01ls5IGy2GdSfAKRa5h_!!2251059038.png\" width=\"526\" height=\"352\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp;</p>\n<p>熊猫档案乐队冉轩与<br>冉轩与，毕业于爱尔兰国立大学金融系。虽然她的学术背景与音乐相关性不大，但轩与从小对乐器演奏有着浓厚兴趣，在音乐方面拥有扎实的基础，持有钢琴专业八级证书，并且自学吉他和声乐演唱。作为摇滚乐队的贝斯手，注重节奏的把控与音色的丰富，力求为乐队创造出强有力的底蕴和动感的氛围。除了乐队演出，她还是一名自媒体音乐博主，分享音乐创作和演奏经验，丰富大家对摇滚音乐的了解。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Gj7hmu2GdSeTM4Nw8_!!2251059038.jpg\" width=\"528\" height=\"528\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp;</p>\n<p>麦朵乐队</p>\n<p>成立于2009年，麦朵的由来其实就是最初的几个男生想出来鼓励自己的，麦田里独树一帜的花朵，不惧怕风吹雨打。十几年来经历了人员变动，情感经历，婚姻变革。最终于2022年开始稳定了各种不安定因素。值得期待的是2024年我们有了自己的键盘手锦上添花。</p>\n<p>初期乐队风格以，流行、民谣为主，后期更换队员也增加融合了更多的元素更加后摇迷更加幻类且动感十足，现在的麦朵风格多元化，尤其有些许的酒精催化后效果更加佳。</p>\n<p>乐队作品均由乐队所有成员共同制作完成，最后麦朵乐队依然讲述着小人物的事情哦。</p>\n<p>《生活》《岛》《老房子》《在路上》《爸爸妈妈》《民工》《麦朵》《小吉他》等</p>\n<p>&nbsp;</p>\n<p>乐队成员名单</p>\n<p>吉他&amp;主唱：学利</p>\n<p>吉他：章鱼</p>\n<p>贝斯：大乐</p>\n<p>键盘：彤彤</p>\n<p>鼓手：寿延</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01uN3I2n2GdSeTMqnP7_!!2251059038.png\" width=\"536\" height=\"469\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp;</p>\n<p>梦歌·音乐现场 天津演唱会·末日狂欢</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01x4s3o32GdSfBhyXjF_!!2251059038.png\" width=\"542\" height=\"771\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp;</p>\n<p>梦歌是一个全新的Livehouse音乐现场，这里也是一个小小的Livehouse音乐现场，观众和演员距离更近，场地面积不大，更适合成长中的乐队和歌迷们的欢聚！有意思的是这里的舞台区占了现场总面积的近30%，可见设计者对舞台的重视，无论是现场演出，还是排练磨合，梦歌Livehouse确实是很好的选择！</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01F7ICJU2GdSeRYn1az_!!2251059038.png\" width=\"533\" height=\"399\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp;</p>\n<p>导航搜索：河东金地广场</p>\n<p>具体地址是河东区津塘路154号</p>\n<p>地铁9号线一号桥站B出口</p>\n<p>地铁10号线龙涵道站C出口或A出口</p>\n<p>开车可以停在金地广场停车场，在演出现场扫码有免费停车三小时。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01vXLd572GdSf4JtmaG_!!2251059038.png\" width=\"572\" height=\"699\" damai_width=\"null\" damai_height=\"null\"></p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "5"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "现场为准"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "100分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "100"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "6994001",
+                    "venueName": "梦歌音乐现场",
+                    "venueProvinceName": "天津",
+                    "venueCityName": "天津市",
+                    "lng": 117.28,
+                    "lat": 39.1,
+                    "venueAddr": "天津市河东区金地广场二号楼339",
+                    "showCountText": "共有4个演出",
+                    "region": "1",
+                    "venueType": "0"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D864687418760%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "特惠购票",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1734572382000",
+                "sellStartTimeStr": "12月19日 09:39",
+                "priceRange": "¥40 - ¥60",
+                "performBases": [
+                    {
+                        "name": "12.24 周二",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1734969600000",
+                        "performs": [
+                            {
+                                "performId": "218346006",
+                                "performName": "2024-12-24 星期二 20:00",
+                                "itemId": "864687418760",
+                                "projectId": "223706004",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1735041600000",
+                                "performTime": "2024.12.24 20:00",
+                                "performStartDate": "2024-12-24",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "2人套票可省20元"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "2人套票",
+                        "content": "双人套票60元，可省20元"
+                    }
+                ],
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "658689",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "23883",
+                    "26699",
+                    "23115",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "704833",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "466049",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9867",
+                    "14731",
+                    "12171",
+                    "9099",
+                    "8843",
+                    "16267",
+                    "716673",
+                    "37259",
+                    "657793",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "1630146",
+                    "2939586"
+                ],
+                "promotionList": [
+                    {
+                        "type": "COMBINE",
+                        "tag": "套票",
+                        "isTagList": "false",
+                        "desc": "2人套票7.5折，到手¥60(票档¥40x2)"
+                    }
+                ],
+                "promotionDetail": {
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "1",
+                            "promotionGroupTypeDesc": "票档优惠",
+                            "promotionList": [
+                                {
+                                    "promotionType": "3",
+                                    "promotionTag": "套票",
+                                    "promotionContentList": [
+                                        "2人套票7.5折，到手¥60(票档¥40x2)"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "7.5折，到手60（票档¥40x2）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "statusTips": [],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8646874187/2/864687418760.jpg"
+            }
+        }
+    }
+}
