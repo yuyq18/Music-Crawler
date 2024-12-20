@@ -1,0 +1,50 @@
+{
+    "platform": "大麦",
+    "project_id": "865972956438",
+    "project_name": "艾怡良 「 不想忘记的名字们 」特别专场 上海站",
+    "category_name": "演唱会",
+    "artists": [
+        "艾怡良"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.01.18 周六 20:00",
+    "session_time": [],
+    "price": "239-759",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "上海",
+    "venue_name": "瓦肆 VAS est",
+    "venue_info": {
+        "venue_address": "龙腾大道2266号西岸梦中心3号楼3层",
+        "lng": 121.465486,
+        "lat": 31.161509
+    },
+    "project_info": "购买VIP票的乐迷朋友将享有以下权益：1.提前入场，前区观演2.VIP票含《垂直活着，水平留恋着》或《偏偏我却都记得》首批黑胶唱片一张。3.演出结束后设有签售环节，仅限VIP票观众参与，\n可to签，无留言，限一张。（注：黑胶唱片在演出结束后统一发放，此次签售，只签VIP包含的垂水和偏偏）（注：VIP垂水和偏偏相差1元钱，是方便检票的时候佩戴手环好区分）VIP检票时间：18:30 普通票检票时间：19:00\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN010XalOk2GdSfDVxuT7_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01N8j2ws2GdSfCzmGmh_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01hLfZgL2GdSfFNfJZe_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01LpsYq62GdSfC4iDEJ_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01fNmCuK2GdSfFNi49w_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "478",
+        "wantNumStr": "478",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "865972956438",
+            "cityName": "上海站",
+            "showTime": "2025.01.18"
+        },
+        {
+            "itemId": "856753481958",
+            "cityName": "广州站",
+            "showTime": "12.28"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=865972956438"
+}
