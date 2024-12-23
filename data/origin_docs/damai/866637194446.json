@@ -1,0 +1,518 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：苏永康",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "893",
+    "cityname": "广州",
+    "couponTags": "[]",
+    "description": "艺人：苏永康",
+    "id": "1_1_866637194446",
+    "imgurl": "76437352",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "SO MAN（真男人）广州演唱会【现场取票】",
+    "nameNoHtml": "SO MAN（真男人）广州演唱会【现场取票】",
+    "price": "280.0",
+    "price_str": "280-880",
+    "pricehigh": "880.0",
+    "privilegeTags": "[]",
+    "projectid": "866637194446",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2024.12.25 周三 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "广州中山纪念堂",
+    "venuecity": "广州",
+    "venueid": "63",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01hPHdoG2GdSfKWrrhF_!!2251059038.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "866637194446",
+                    "itemName": "【广州】SO MAN（真男人）广州演唱会【现场取票】",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "440100",
+                    "cityName": "广州市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01hPHdoG2GdSfKWrrhF_!!2251059038.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01hPHdoG2GdSfKWrrhF_!!2251059038.png"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2024.12.25 周三 20:00",
+                    "showDuration": "约90分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：广州中熙柠檬文化产业有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：广州中熙柠檬文化产业有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "893",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>&nbsp; 在“港乐”50年的历史上，总会有一些在天王歌手背后默默耕耘，为“港乐”历史图表的“百家争鸣”奉献着自己的实力歌手。而这次于中山纪念堂举行其个首唱的苏永康先生就是其中值得特别书写的一位。<img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01h5ElYn2GdSdUmrxRY_!!2251059038.jpg\" width=\"1621\" height=\"1080\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp; &nbsp;作为以1985年香港第四届新秀歌唱大赛亚军身份，而正式踏上“港乐”舞台的苏永康先生 ，其最初的歌手职业道路可以说是充满挑战的。等待四年，终于在1989年，等到了他的第一位“伯乐”，一代港乐作曲大师林慕德先生为其献曲，发行了歌手生涯的第一张专辑《失眠》。也凭此张专辑，在第二年拿到了他的歌手职业生涯的第一个奖项-1990年第12届十大中文金曲“最有前途新人奖（铜奖）”，由此正式开启了他的职业歌手生涯。在从1989年到1994年的5年间 ，苏永康先生完成了5张专辑，2张EP和1张精选的成果，在其“港乐”生涯的第一段广东歌时代 ，交出了一份比较完整和满意的答卷 ，而其中另一位对苏永康先生歌坛职业生涯有着重要作用的港乐作曲家黄尚伟先生的出现，更预示着其后在歌坛高峰的到来。<img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01evnIzU2GdSdZU09qp_!!2251059038.jpg\" width=\"1621\" height=\"1080\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp; &nbsp;从1995年起，苏永康先生开始在国粤语歌坛双向发展，尤其在国语歌坛，凭借《男人不该让女人流泪》专辑，红遍包括国语歌市场，一举走出香港地区 ，成为了华人地区人尽皆知的歌手，其后更是凭借一众国语抒情经典《旧爱还是最美》，《让懂你的人爱你》，《如果这是我爱你最好的距离》，《爱似狂潮》等成为了华语地区最佳“男人心声”代言人之一。</p>\n<p>&nbsp; &nbsp;随着苏永康先生在国粤语歌坛双向的扎实前行，他也在1998年终于等来了他在港乐历史上的首支代表作，这就是由他的好朋友吴国敬先生作曲的《越吻越伤心》。而关于《越吻越伤心》幕后的故事 ，就是一个典型的好人有好报的故事，当时吴国敬先生写出《越吻越伤心》之后，圈内却无人问津 ，直到苏永康先生出口“帮忙”，才没有埋没了这首后来成为港乐史上最热单之一的歌曲。两位惺惺相惜的好友，也做到了互为成就，让歌曲的成功更显得弥足珍贵了。<img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ud4tRg2GdSdXzWGXp_!!2251059038.jpg\" width=\"1621\" height=\"1080\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp; &nbsp;千禧年后，随着港乐黄金年代的逝去，在大湾区之外还能扛住港乐大旗的歌手，真的也是屈指可数了。但在这屈指可数的歌手名单里，还有苏永康先生的名字，尤其在2011年，他的那首由好友黄伟文作词的《那谁》，凭借其中一句“你泪痕像条绿色的锈，顽固地种在眼睛一角，直到永久，抹不走”的细腻演绎 ，成就了又一首苏永康先生在港乐歌坛的代表作 ，记载在港乐经典的歌单中。</p>\n<p>随着这次苏永康先生广州演唱会的日益临近 ，大家必定对这次演唱会期待有加，相信无论是他个人的作品或是对唱作品 ，无论是表露男人心声的情歌 ，还是被“爵士化”或“HI-FI化”的即兴现场，都是非常值得期待的，毕竟能在现场如此“沉浸式”地听这样一位在华语歌坛默默耕耘了35年的超实力男声唱全场的机会 是不多的。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01uVcYyv2GdSdV3JKPm_!!2251059038.jpg\" width=\"1621\" height=\"1080\" damai_width=\"null\" damai_height=\"null\"></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "广州中熙柠檬文化产业有限公司",
+                            "socialCreditCode": "91440106MAD8R3YU50",
+                            "legalPerson": "石先远",
+                            "regCapStr": "1000万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "其他有限责任公司",
+                            "entAddress": "广州市天河区棠东东路11号3楼C939"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "需兑换成纸质票验票入场，须打开【票夹】的二维码前往取票点换取，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/身份证/外国人永久居留身份证/港澳居民来往内地通行证/护照/港澳台居民居住证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "苏永康 邓英婷"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "63",
+                    "venueName": "广州中山纪念堂",
+                    "venueProvinceName": "广东省",
+                    "venueCityName": "广州市",
+                    "lng": 113.264692,
+                    "lat": 23.13286,
+                    "venueAddr": "广州市越秀区东风中路299号",
+                    "showCountText": "共有16个演出",
+                    "region": "1",
+                    "venueType": "0"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D866637194446%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "118666",
+                        "artistName": "苏永康",
+                        "archives": "苏永康（William So），1967年9月24日出生于香港，祖籍广东省江门市新会区，中国香港流行乐男歌手、影视演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1725328011313/1725328011313-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "118666",
+                        "name": "苏永康",
+                        "desc": "苏永康（William So），1967年9月24日出生于香港，祖籍广东省江门市新会区，中国香港流行乐男歌手、影视演员。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1725328011313/1725328011313-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购票",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1734940396000",
+                "sellStartTimeStr": "12月23日 15:53",
+                "priceRange": "¥280 - ¥880",
+                "performBases": [
+                    {
+                        "name": "12.25 周三",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1735056000000",
+                        "performs": [
+                            {
+                                "performId": "219585983",
+                                "performName": "2024-12-25  周三 20:00",
+                                "itemId": "866637194446",
+                                "projectId": "223973002",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1735128000000",
+                                "performTime": "2024.12.25 20:00",
+                                "performStartDate": "2024-12-25",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "658689",
+                    "1481986",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "23883",
+                    "26699",
+                    "23115",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "704833",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "466049",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9867",
+                    "14731",
+                    "12171",
+                    "9099",
+                    "8843",
+                    "16267",
+                    "716673",
+                    "37259",
+                    "657793",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "statusTips": [],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8666371944/2/866637194446.jpg"
+            }
+        }
+    }
+}
