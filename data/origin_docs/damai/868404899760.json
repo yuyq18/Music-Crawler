@@ -1,0 +1,444 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1209",
+    "cityname": "天津",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_868404899760",
+    "imgurl": "94114405",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "星光群星贺新春演唱会",
+    "nameNoHtml": "星光群星贺新春演唱会",
+    "price": "60.0",
+    "price_str": "60-599",
+    "pricehigh": "599.0",
+    "privilegeTags": "[]",
+    "projectid": "868404899760",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.01.19 周日 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "津湾大剧院",
+    "venuecity": "天津",
+    "venueid": "1159",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01d2DYy52GdSfOyN8Oh_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "868404899760",
+                    "itemName": "【天津】星光群星贺新春演唱会",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "120100",
+                    "cityName": "天津市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01d2DYy52GdSfOyN8Oh_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01d2DYy52GdSfOyN8Oh_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "showTime": "2025.01.19 周日 19:30",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：水木佳合(天津)影视传媒有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：水木佳合(天津)影视传媒有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1209",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>星光群星贺新春演唱会</p>\n<p>节目单</p>\n<p>1.像梦一样自由 演唱：孙昊霖</p>\n<p>2.花房姑娘</p>\n<p>演唱：孙昊霖</p>\n<p>3.小事一桩</p>\n<p>演唱：刘晓</p>\n<p>4.大姑娘美大姑娘浪</p>\n<p>演唱：刘晓</p>\n<p>5.萨克斯独奏《西班牙斗牛士》</p>\n<p>表演：刘家军</p>\n<p>6.拥抱明天</p>\n<p>演唱：白雪</p>\n<p>7.放了我也放了你</p>\n<p>演唱：白雪</p>\n<p>8.少将军</p>\n<p>演唱：魏天泽</p>\n<p>9.生死恨</p>\n<p>演唱：魏天泽</p>\n<p>10.爱人啦</p>\n<p>演唱：刘晓</p>\n<p>11.萨克斯独奏《小苹果》等</p>\n<p>表演：刘家军</p>\n<p>12.一起摇摆 演唱：孙昊霖</p>\n<p>13.爱人</p>\n<p>演唱：白雪</p>\n<p>14.谁家内小谁</p>\n<p>演唱：陆海涛</p>\n<p>15.无所谓</p>\n<p>演唱：陆海涛</p>\n<p>16.最亲的人</p>\n<p>演唱：陆海涛</p>\n<p>&nbsp;</p>\n<p>演员简介：</p>\n<p>刘晓</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01W1UosD2GdSfOOe5zY_!!2251059038.jpg\" width=\"1280\" height=\"1920\" damai_width=\"1280\" damai_height=\"1920\"></p>\n<p>北京歌舞剧院青年演员抖音、快手粉丝60万</p>\n<p>朝阳区音乐家协会会员</p>\n<p>零七年发行专辑《绝唱》系列8张收录100首歌</p>\n<p>2013年发行专辑《晓心有电》</p>\n<p>2015年发行专辑《晓歌晓曲》</p>\n<p>代表作《大姑娘美大姑娘浪》《小事一桩》</p>\n<p>2023年原创歌曲《小事一桩》《我在他乡也挺好》</p>\n<p>《活力中国》在中央三台天天把歌唱播出</p>\n<p>最新原创歌曲《家在御江南》唱响万人广场舞</p>\n<p>为高安老师创作歌曲《你是我的伴》</p>\n<p>为华语乐坛著名歌手司徒兰芳打造歌曲《昨日的妖娆》</p>\n<p>孙昊霖</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN011u1ZCl2GdSfOvJLHF_!!2251059038.jpg\" width=\"2004\" height=\"2672\" damai_width=\"2004\" damai_height=\"2672\"></p>\n<p>2012年星光大道月冠军。中国内地男歌手。</p>\n<p>2013年做客央视《开门大吉》节目。</p>\n<p>2014年荣获《黄金100秒》冠军。</p>\n<p>2015年录制央视《越战越勇》节目。同年录制《美丽中国乡村行》新年特别节目走进安徽凤阳小岗及新疆博湖嘉宾主持。</p>\n<p>2016年录制央视《幸福账单》节目。</p>\n<p>2017年受邀任电影《欢乐喜剧人》盛典表演嘉宾。同年荣获江苏省爱心大使。此外参加为盲童点亮艺术之光公益活动。</p>\n<p>魏天泽</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01w3pak62GdSfL9Pw01_!!2251059038.jpg\" width=\"476\" height=\"343\" damai_width=\"476\" damai_height=\"343\"></p>\n<p>中国内地流行乐男歌手、京剧表演艺术者。</p>\n<p>2016年发布单曲《少将军》并作为《我的战神男友》主题曲。</p>\n<p>白雪</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01UkRsBh2GdSfNgkWsB_!!2251059038.jpg\" width=\"536\" height=\"804\" damai_width=\"536\" damai_height=\"804\"></p>\n<p>著名青年歌手、主持人。中国音乐家协会会员，中国流行音乐学会会员。山东省音乐家协会会员，北京音乐家协会会员，农工民主党党员，“十佳歌星”“公益歌手”称号。北京星光大道网络平台《我的演唱会》栏目嘉宾歌手以及主持人。</p>\n<p>2016年，在央视“幸福账单”栏目中演唱歌曲《张三的歌》。</p>\n<p>2017年7月，担纲《星光大道》评委。</p>\n<p>2024年8月推出为玉渡山风景区量身打造的主题曲《相约玉渡山》。</p>\n<p>2024年8月31日在玉渊潭中学举行“教育强国：‘人工智能+五育融合’赋能创新人才培育”素质教育成果展示活动中受邀和学生共同演唱歌曲《如愿》。</p>\n<p>刘家军</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01KyUNr52GdSfMq1XSl_!!2251059038.jpg\" width=\"536\" height=\"359\" damai_width=\"536\" damai_height=\"359\"></p>\n<p>中国青年萨克斯管演奏家</p>\n<p>2017年参加通州区的北京城市副中心建设现场慰问演出。</p>\n<p>2017年在河南内乡县借助县衙历史文化街区演出。</p>\n<p>2018年参加中华珍奇紫薇文化园揭牌。</p>\n<p>2022年12月31日，参加北京卫视晚会《踏上新征程——2023 BRTV跨年之夜》。</p>\n<p>2023年1月25日，参加《星光夜·幸福年2023星光嘉年华》，节日里和范圣琦共同表演《梁祝》片段。</p>\n<p>&nbsp;</p>\n<p>陆海涛</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01esj1Xe2GdSfKRfyEX_!!2251059038.jpg\" width=\"536\" height=\"622\" damai_width=\"536\" damai_height=\"622\"></p>\n<p>中国内地男歌手。</p>\n<p>2011年参加《星光大道》节目，荣获2011年星光大道第四个月中的周冠军和月冠军，在2011年星光大道年度总决赛位列六强。</p>\n<p>2014年4月，在央视大型平民选秀节目《星光大道》的周赛舞台上，陆海涛再次受邀重返，演唱歌曲《关东小子就这么犟》。</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "水木佳合(天津)影视传媒有限公司",
+                            "socialCreditCode": "91120112MA05K6XQXR",
+                            "legalPerson": "崔永强",
+                            "regCapStr": "300万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司",
+                            "entAddress": "天津市津南区葛沽镇滨海民营经济成长示范基地会展经济中心610室05号"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "提前30-60分钟，仅供参考，最终以现场实际入场时间为准"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "16"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "大麦网初始开售时全场可售门票总张数",
+                                    "content": "200"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "1159",
+                    "venueName": "津湾大剧院",
+                    "venueProvinceName": "天津",
+                    "venueCityName": "天津市",
+                    "lng": 117.209643,
+                    "lat": 39.132456,
+                    "venueAddr": "天津市和平区解放北路48号 ",
+                    "showCountText": "共有28个演出",
+                    "region": "1",
+                    "venueType": "0"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D868404899760%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "我们将第一时间为您送上独家消息提醒～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可购票时会及时通知你的～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "100",
+                "buyBtnText": "该渠道不支持购票",
+                "buyBtnOrigin": "109",
+                "sellStartTime": "1735289688000",
+                "sellStartTimeStr": "12月27日 16:54",
+                "priceRange": "¥60 - ¥599",
+                "performBases": [],
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "单人票可省119元"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "单人票",
+                        "content": "单人优惠60元（原价66），可省6元\n单人优惠80元（原价99），可省19元\n单人优惠160元（原价199），可省39元\n单人优惠240元（原价299），可省59元\n单人优惠320元（原价399），可省79元\n单人优惠480元（原价599），可省119元"
+                    }
+                ],
+                "buyBtnTip": "请到大麦App购买",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "658689",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "26699",
+                    "23115",
+                    "14155",
+                    "23883",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "704833",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "466049",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9867",
+                    "14731",
+                    "12171",
+                    "9099",
+                    "8843",
+                    "16267",
+                    "716673",
+                    "37259",
+                    "657793",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "statusTips": [],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8684048997/2/868404899760.jpg"
+            }
+        }
+    }
+}
