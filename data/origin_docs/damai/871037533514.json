@@ -1,0 +1,592 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：梁静茹",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "848",
+    "cityname": "中国香港",
+    "couponTags": "[]",
+    "description": "艺人：梁静茹",
+    "id": "1_1_871037533514",
+    "imgurl": "120440743",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "当我们谈论爱情 梁静茹世界巡回演唱会 香港站 2025",
+    "nameNoHtml": "当我们谈论爱情 梁静茹世界巡回演唱会 香港站 2025",
+    "price": "388.0",
+    "price_str": "388-1288",
+    "pricehigh": "1288.0",
+    "privilegeTags": "[]",
+    "projectid": "871037533514",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.02.07 周五 20:15",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "红磡香港体育馆 (红馆)",
+    "venuecity": "中国香港",
+    "venueid": "245",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01uEpH912GdSfT9hfEn_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "871037533514",
+                    "itemName": "当我们谈论爱情 梁静茹世界巡回演唱会 香港站 2025",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "810100",
+                    "cityName": "中国香港",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01uEpH912GdSfT9hfEn_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01uEpH912GdSfT9hfEn_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2025.02.07 周五 20:15",
+                    "showDuration": "约100分钟，仅供参考，最终以现场实际时长为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "快递票",
+                            "tagDesc": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。该演出不支持修改收货地址，在购票时请确认收货地址填写正确。\r\n注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagDescWithStyle": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。<b>该演出不支持修改收货地址，在购票时请确认收货地址填写正确。</b><br/>注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "门票即发票",
+                            "tagDesc": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagDescWithStyle": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "893",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>日期</strong>:&nbsp;2025年2月7日&nbsp;20:15</p>\n<p><strong>地点</strong>:&nbsp;红磡香港体育馆 (红馆)&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>购票说明：</strong></p>\n<p>本项目门票不支持退换，不可转让。儿童一律凭成人票入场, 6岁以下谢绝入场，入场时必需持有有效门票。购票成功的客户，请您提前办理好港澳通行证-中国香港签注。门票将于演出前一周左右寄出。当天如出现遗失或忘带门票情况不予处理，感谢您的支持与理解。</p>\n<p>&nbsp;</p>\n<p><strong>门票价格：</strong></p>\n<p>港币票价HKD： HKD 1288 / $888 / $588/ $388</p>\n<p>人民币售价CNY： 1288元 / 888元 / 588元/ 388元</p>\n<p>门票已含境外（含港澳台）服务费</p>\n<p>&nbsp;</p>\n<p><strong>演出介绍：</strong></p>\n<p style=\"text-align: center;\"><strong>十年等一回！ 梁静茹《当我们谈论爱情》香港站二月重磅开唱</strong></p>\n<p style=\"text-align: center;\">当我们在 - 香港 - 谈论爱情</p>\n<p style=\"text-align: center;\">如果愛情是一片荒蕪的宇宙，那她的歌聲就是宇宙的⼀抹藍，</p>\n<p style=\"text-align: center;\">染上了天空，染上了了海洋，也染进了我们的年月。</p>\n<p style=\"text-align: center;\">是在宇宙里浮沈的一段旋律？ 还是在冰山里沸腾的一句词？</p>\n<p style=\"text-align: center;\">是在湍急的川河中哪一首情歌？ 还是在长成以后听见的熟悉歌声？</p>\n<p style=\"text-align: center;\">二月 带着勇气继续出发</p>\n<p style=\"text-align: center;\">When We Talk About Love in Hong Kong</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>等待已久的时刻终于来临！ 情歌天后—梁静茹，睽违八年，由光尚娱乐主办的《当我们谈论爱情 梁静茹世界巡回演唱会 香港站 2025》将于2025年2月7日（星期五）在红磡香港体育馆盛大开唱。</p>\n<p>&nbsp;</p>\n<p>自2020年起，她跨越30多个城市的世界巡演之旅，她的巡回演唱会终于要在2025年要来到香港了，这不仅是梁静茹与香港歌迷久别重逢的瞬间，更是一场充满回忆与感动的音乐之旅，让我们一起感受属于梁静茹的爱情音乐盛宴。</p>\n<p>&nbsp;</p>\n<p>梁静茹的音乐总是能陪伴我们度过无数个瞬间，让不同世代，都能在她的歌声中找到自己的故事及情感寄托，而每个受伤的灵魂也能在她的歌声中找到心灵的慰藉。</p>\n<p>「当我们谈论爱情」巡演围绕着爱的「那个夏天、坚定、忧伤、在冬天、谁给你的勇气（安可）」等一系列大家耳熟能详的经典情歌。 这场精心打造的世界巡回演唱会标志着梁静茹在音乐界辉煌历程。</p>\n<p>&nbsp;</p>\n<p>她的作品对很多人来说，不仅仅是情歌，。 从《宁夏》和《小手拉大手》这些暖心的歌曲中，带来甜蜜浪漫的滋味; 失恋时那苦涩的情绪则透过《分手快乐》、《崇拜》和《情歌》得以充分表现。 随着时间的推移，我们学会了《接受》，并相信一切《会过去的》，让自己重新找到力量与《勇气》，迎接新的开始。 梁静茹的每一首情歌都伴随着我们成长，'每个心中都有一首梁静茹的歌'，时刻在心中回响。 梁静茹的情歌是热恋的第一眼，是泪流满面的青春。 在香港站的演唱会中，这些属于梁静茹经典情歌，都能让全场共鸣。</p>\n<p>&nbsp;</p>\n<p>一个完美的视听盛宴，每首歌无一例外，都是爱情的经典。 这些生命中不可或缺的旋律，香港的“鱼”迷怎能错过？</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01v0qHjf2GdSfPpfEQd_!!2251059038.jpg\" width=\"540\" height=\"720\" damai_width=\"540\" damai_height=\"720\"></p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "快递费",
+                        "content": "1.同城10.0元，发货后1-3天到达；省内12.0元，发货后1-3天到达；其他地区18.0元，发货后1-3天到达；澳门、香港、台湾40.0元，发货后1-5天到达。\r\n2.演出前4天不支持快递。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "本项目门票即是发票。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带纸质门票验票入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭成人票入场, 6岁以下谢绝入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "本项目门票即是发票。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一个订单对应一个证件；证件支持：港澳居民来往内地通行证/身份证/护照/港澳台居民居住证/台湾居民来往大陆通行证/外国人永久居留身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约100分钟，仅供参考，最终以现场实际时长为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "提前60-120分钟，仅供参考，最终以现场实际入场时间为准"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "梁静茹"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "100分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "2",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ]
+                },
+                "venue": {
+                    "venueId": "245",
+                    "venueName": "红磡香港体育馆 (红馆)",
+                    "venueProvinceName": "中国香港",
+                    "venueCityName": "中国香港",
+                    "lng": 114.187031,
+                    "lat": 22.298631,
+                    "venueAddr": "香港九龙油尖旺区红磡畅运道九号",
+                    "showCountText": "共有2个演出",
+                    "region": "2",
+                    "venueType": "0"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址",
+                                    "海外邮箱"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=871037533514"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D871037533514%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "2171",
+                        "artistName": "梁静茹",
+                        "archives": "马来西亚女歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1577266799766/1577266799766-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "2171",
+                        "name": "梁静茹",
+                        "desc": "马来西亚女歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1577266799766/1577266799766-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "402",
+                    "wantNumStr": "402",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i3/O1CN01kGsJkI20pKkSdvFkC_!!6000000006898-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/600454/120090814.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01kGsJkI20pKkSdvFkC_!!6000000006898-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/476060/95212010.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01ZtJoYQ1p4CDLYGtuD_!!6000000005306-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1736301600000",
+                "sellStartTimeStr": "01月08日 10:00",
+                "countDown": "394464",
+                "rcdt": "394463711",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥388 - ¥1288",
+                "performBases": [
+                    {
+                        "name": "02.07 周五",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1738857600000",
+                        "performs": [
+                            {
+                                "performId": "220795564",
+                                "performName": "2025-02-07  周五 20:15",
+                                "itemId": "871037533514",
+                                "projectId": "224049428",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1738930500000",
+                                "performTime": "2025.02.07 20:15",
+                                "performStartDate": "2025-02-07",
+                                "performBeginTime": "20:15",
+                                "singleLimit": "4",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "缺货登记",
+                "buyBtnStatusAfterCountDown": "91",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "658689",
+                    "1481986",
+                    "3060482",
+                    "3001090",
+                    "3196418",
+                    "3246850",
+                    "3247106",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "23115",
+                    "1611",
+                    "4939",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "704833",
+                    "2874946",
+                    "3196226",
+                    "3196482",
+                    "3246658",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "466049",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9099",
+                    "14731",
+                    "16267",
+                    "716673",
+                    "37259",
+                    "657793",
+                    "12171",
+                    "9355",
+                    "8843",
+                    "9867",
+                    "2443",
+                    "395",
+                    "1163",
+                    "3196290",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3196354",
+                    "3246274",
+                    "3246786",
+                    "3247042"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "1",
+                "statusTips": [],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8710375335/2/871037533514.jpg"
+            }
+        }
+    }
+}

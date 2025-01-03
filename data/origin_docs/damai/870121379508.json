@@ -1,0 +1,481 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：大张伟",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "9999",
+    "cityname": "吉隆坡",
+    "couponTags": "[]",
+    "description": "艺人：大张伟",
+    "id": "1_1_870121379508",
+    "imgurl": "111279203",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "《大好时光大张伟马来西亚演唱会》",
+    "nameNoHtml": "《大好时光大张伟马来西亚演唱会》",
+    "price": "497.0",
+    "price_str": "497-1307",
+    "pricehigh": "1307.0",
+    "privilegeTags": "[]",
+    "projectid": "870121379508",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.02.08 周六 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "吉隆坡 Mega Star Arena, KL",
+    "venuecity": "吉隆坡",
+    "venueid": "2594010",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN012iIM6L2GdSfJoyeMp_!!2251059038.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "870121379508",
+                    "itemName": "【吉隆坡】《大好时光大张伟马来西亚演唱会》",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "1037",
+                    "cityName": "吉隆坡",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN012iIM6L2GdSfJoyeMp_!!2251059038.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i4/2251059038/O1CN012iIM6L2GdSfJoyeMp_!!2251059038.png"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://item-cdn.damai.cn/4ca36ba5c5914be5a7f62b2b66f85046.jpg",
+                    "seatImages": [
+                        "https://item-cdn.damai.cn/4ca36ba5c5914be5a7f62b2b66f85046.jpg"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "2025.02.08 周六 20:00",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "自助换票",
+                            "tagDesc": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "门票即发票",
+                            "tagDesc": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagDescWithStyle": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "893",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "false",
+                    "isShowGrabTicketGuideLink": "false",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>演出场馆： Mega Star Arena</strong></p>\n<p><strong>演出时间：2025年2月8日 20:00</strong></p>\n<p>&nbsp;</p>\n<p><strong>温馨提示：</strong><br>本项目不支持退换，购票成功的客户，请您携带好护照，提前办理目的地签证。<br>严格禁止3岁及以下儿童进入场馆；14岁以下儿童必须由成人陪同入场；身高超过95厘米的儿童需购买普通票；身高95厘米以下的儿童需在演出当天于Mega Star Arena售票处以50令吉购买无座儿童票。</p>\n<p>&nbsp;</p>\n<p><strong>票价说明：</strong><br>马币售价RM：RM798/598/498/398/298<br>人民币售价RMB（价格包括当地出票手续费）：RMB1307/987/827/657/497</p>\n<p>&nbsp;</p>\n<p><strong>取票说明：</strong><br>演出当日凭购票二维码到场馆售票亭 扫码核验换取实体门票（订单或订单截图无效），感谢您的支持。</p>\n<p>取票点具体地址：场馆售票亭<br>取票时间：演出当天17:00起</p>\n<p><br><br></p>\n<p><strong>演出介绍：</strong></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01fSQnSR2GdSfP2eOxF_!!2251059038.png\" width=\"864\" height=\"576\" damai_width=\"864\" damai_height=\"576\"><br>全世界都在逼你长大<br>只有大张伟告诉你要做一个快乐的小朋友<br>既然还是会长大<br>不如做个相信童话的快乐大人吧<br><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01KAmDV02GdSfS64Fz3_!!2251059038.png\" width=\"864\" height=\"576\" damai_width=\"864\" damai_height=\"576\"><br>最好的一天，就是今天<br>最好的时刻，就是每一个此刻<br>做一个童话般的梦</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01IEFH9f2GdSfRVZY8M_!!2251059038.png\" width=\"864\" height=\"576\" damai_width=\"864\" damai_height=\"576\"><br>和大张伟来一场奇幻的冒险<br>去打败这个世界所有的怪兽<br>找寻关于快乐的秘密<br><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01MngDeo2GdSfS3BfvZ_!!2251059038.png\" width=\"862\" height=\"575\" damai_width=\"862\" damai_height=\"575\"><br>用两个半小时的时间<br>把快乐塞的满满当当<br>比个NICE蹦蹦哒哒<br><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01ppDMbF2GdSfQtRWPw_!!2251059038.png\" width=\"864\" height=\"576\" damai_width=\"864\" damai_height=\"576\"><br>记得来演唱会对对开心暗号：<br>无条件快乐，就是要开心！</p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "本项目门票即是发票。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "需兑换成纸质票验票入场，须打开【票夹】的二维码前往取票点换取，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "严格禁止3岁及以下儿童进入场馆；14岁以下儿童必须由成人陪同入场；身高超过95厘米的儿童需购买普通票；身高95厘米以下的儿童需在演出当天于Mega Star Arena售票处以50令吉购买无座儿童票。"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "本项目门票即是发票。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约90分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "18"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "大张伟"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "2594010",
+                    "venueName": "吉隆坡 Mega Star Arena, KL",
+                    "venueProvinceName": "吉隆坡",
+                    "venueCityName": "吉隆坡",
+                    "lng": 101.752185,
+                    "lat": 2.91043,
+                    "venueAddr": "1F, Mega star arena, kl @ Sg wang plaza, 3, Jalan Bulan 2, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+                    "region": "1",
+                    "venueType": "0"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D870121379508%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "103",
+                        "artistName": "大张伟",
+                        "archives": "中国内地男歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1677653857889/1677653857889-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "103",
+                        "name": "大张伟",
+                        "desc": "中国内地男歌手",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1677653857889/1677653857889-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "1022",
+                    "wantNumStr": "1022",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN013n7KRC1TtZ5bYGxgR_!!6000000002440-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/321170/64234169.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01j9rn0L1tPV6Q4jU87_!!6000000005894-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/231462/46292560.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01EILqiN1Fsjkn9nzCb_!!6000000000543-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "火爆热抢中，速买～",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "1545495750",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1691046140919/1691046140919-main.jpg",
+                    "note": "大张伟巡回演唱会",
+                    "categoryName": "其他",
+                    "title": "大张伟“大好时光”演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "204",
+                "buyBtnText": "立即购票",
+                "buyBtnOrigin": "12",
+                "sellStartTime": "1735790400000",
+                "sellStartTimeStr": "01月02日 12:00",
+                "priceRange": "¥497 - ¥1307",
+                "performBases": [
+                    {
+                        "name": "02.08 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1738944000000",
+                        "performs": [
+                            {
+                                "performId": "220762666",
+                                "performName": "2025-02-08  周六 20:00",
+                                "itemId": "870121379508",
+                                "projectId": "224068395",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1739016000000",
+                                "performTime": "2025.02.08 20:00",
+                                "performStartDate": "2025-02-08",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "4",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "22027",
+                    "8459",
+                    "16651",
+                    "33547",
+                    "33803",
+                    "658689",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "23883",
+                    "26699",
+                    "23115",
+                    "14155",
+                    "1611",
+                    "4939",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "704833",
+                    "2874946",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "466049",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9355",
+                    "2443",
+                    "395",
+                    "1163",
+                    "9867",
+                    "14731",
+                    "12171",
+                    "9099",
+                    "8843",
+                    "16267",
+                    "716673",
+                    "37259",
+                    "657793",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "statusTips": [],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8701213795/2/870121379508.jpg"
+            }
+        }
+    }
+}

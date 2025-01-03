@@ -1,0 +1,56 @@
+{
+    "platform": "大麦",
+    "project_id": "871595081184",
+    "project_name": "王小帅【如果爱有形状】2025巡演武汉站",
+    "category_name": "演唱会",
+    "artists": [
+        "王小帅"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.04.13 周日 20:00",
+    "session_time": [],
+    "price": "168-308",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "武汉",
+    "venue_name": "VOX LIVEHOUSE 武昌店",
+    "venue_info": {
+        "venue_address": "武汉市洪山区光谷步行街意大利风情街5号楼负1楼",
+        "lng": 114.407552,
+        "lat": 30.501782
+    },
+    "project_info": "【艺人介绍】\n王小帅，原创音乐人，代表作《哭泣站台》《你头顶的风》《天真的橡皮》《怨苍天变了心》《最近》《我爱他》《天也不懂情》等，擅长用细腻嗓音描绘真挚情感，与听众情绪连接共鸣。\n \n【活动介绍】\n都说爱是有痕无形的。\n人们也执迷于在只言片语里捕捉那些具象化的爱，寻寻觅觅，最终被爱的棱角狠狠刺痛。\n如果爱有形状呢？\n \n丁达尔现象出现时，光有了形状。\n而伫立在五光十色灯光中的王小帅，还是那个喜欢抱着吉他唱歌的大男孩，也是在“长大”中闪烁发光，在一首首悲欢离合中收获了无数爱意。\n台上的他以音符为笔，歌声为墨，描绘出爱的形状。\n台下的各地观众，怀揣一腔奔赴相见的热爱赤诚，回应爱意。\n如果爱有形状，那就见一面吧！\n如果爱有形状，是你唱我和。\n \n【票价信息】\n单人预售168 （一票1人入场）\n单人全价198（一票1人入场，含1v1合影环节）\n双人预售308（一票2人入场）\n单人VIP 298（含1v1合影+演出定制周边礼包+提前进场）\n \n【巡演周边礼包信息】\n镭射防水单肩小包+定制棒球帽+种子票根+定制吉他拨片项链+黑胶唱片杯垫+歌词透卡+亚克力打卡牌\n\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01SKx05X2GdSfR2pZcI_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01OpcNWb2GdSfU60SSc_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01StiUUT2GdSfQndLFS_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01tLZDKS2GdSfS4imHY_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01pIXMGl2GdSfS4nTbP_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01fPH9yS2GdSfSe5eIq_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "870943503574",
+            "cityName": "郑州站",
+            "showTime": "04.12"
+        },
+        {
+            "itemId": "871595081184",
+            "cityName": "武汉站",
+            "showTime": "04.13"
+        },
+        {
+            "itemId": "871378679779",
+            "cityName": "杭州站",
+            "showTime": "05.24"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=871595081184"
+}
