@@ -1,0 +1,38 @@
+{
+    "platform": "大麦",
+    "project_id": "873064210475",
+    "project_name": "李翊君永远永远演唱会-北京站",
+    "category_name": "演唱会",
+    "artists": [
+        "李翊君"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.16 周日 19:30",
+    "session_time": [
+        "03.16 周日"
+    ],
+    "price": "162-1521",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "北京展览馆剧场",
+    "venue_info": {
+        "venue_address": "北京市西城区西直门外大街135号院",
+        "lng": 116.343741,
+        "lat": 39.94218
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN017N3ivU2GdSfWg3MsM_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01ymnuzl2GdSfYIdIYe_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "228",
+        "wantNumStr": "228",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [],
+    "project_link": "https://detail.damai.cn/item.htm?id=873064210475"
+}

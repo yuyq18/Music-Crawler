@@ -1,0 +1,57 @@
+{
+    "platform": "大麦",
+    "project_id": "872088169596",
+    "project_name": "宇宙人《 α：回到未來 》20周年演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "宇宙人"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.30 周日 20:00",
+    "session_time": [],
+    "price": "150-200",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "HOU LIVE X Mixc cube",
+    "venue_info": {
+        "venue_address": "科苑南路2666号中国华润大厦B1层发布厅",
+        "lng": 113.946639,
+        "lat": 22.514938
+    },
+    "project_info": "回到未来继续创造能量不灭的时空深圳、成都、杭州、厦门的宙友你的未来已抵达一生一次的二十我们一起现场见证—— 宇宙人《 α：回到未来 》20周年演唱会——\n✦ 杭州场演出时间｜03/28(五)20:00演出地点｜大麦.66Livehouse\n✦ 深圳场演出时间｜03/30(日)20:00演出地点｜深圳.HOU LIVE X Mixc cube\n✦ 厦门场演出时间｜04/11(五)20:00演出地点｜福馆Full House厦门\n✦ 成都场演出时间｜04/13(日)20:00演出地点｜成都 MAO Livehouse（Live厅）\n🎫 购票讯息coming soon#宇宙人#Alpha回到未来#宇宙人20周年",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01qg4Sk72GdSfTVTeHJ_!!4611686018427383646-0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01YWNZUt2GdSfWEDRQA_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "112",
+        "wantNumStr": "112",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "871512627330",
+            "cityName": "杭州站",
+            "showTime": "03.28"
+        },
+        {
+            "itemId": "872088169596",
+            "cityName": "深圳站",
+            "showTime": "03.30"
+        },
+        {
+            "itemId": "871538391823",
+            "cityName": "厦门站",
+            "showTime": "04.11"
+        },
+        {
+            "itemId": "872386804481",
+            "cityName": "成都站",
+            "showTime": "04.13"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=872088169596"
+}
