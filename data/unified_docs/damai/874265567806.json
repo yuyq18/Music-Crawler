@@ -1,0 +1,47 @@
+{
+    "platform": "大麦",
+    "project_id": "874265567806",
+    "project_name": "蔡旻佑「就要和你在一起」演唱会（北京站）",
+    "category_name": "演唱会",
+    "artists": [
+        "蔡旻佑"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.01 周六 20:00",
+    "session_time": [],
+    "price": "288-488",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "SILO LIVE 开花豆声音仓库",
+    "venue_info": {
+        "venue_address": "北京市朝阳区酒仙桥街道898创新空间A02栋",
+        "lng": 116.50593,
+        "lat": 39.95645
+    },
+    "project_info": "项目介绍：\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Ut5Tx32GdSfTAGp94_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01YuQBBo2GdSfZ4FAF8_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "308",
+        "wantNumStr": "308",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "874265567806",
+            "cityName": "北京站",
+            "showTime": "03.01"
+        },
+        {
+            "itemId": "859288868099",
+            "cityName": "广州站",
+            "showTime": "01.12"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=874265567806"
+}
