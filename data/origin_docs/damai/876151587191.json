@@ -1,0 +1,545 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "848",
+    "cityname": "中国香港",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_876151587191",
+    "imgurl": "171581279",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "BOYNEXTDOOR TOUR ‘KNOCK ON VoL.1’ IN HONG KONG",
+    "nameNoHtml": "BOYNEXTDOOR TOUR ‘KNOCK ON VoL.1’ IN HONG KONG",
+    "price": "799.0",
+    "price_str": "799-1799",
+    "pricehigh": "1799.0",
+    "privilegeTags": "[]",
+    "projectid": "876151587191",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.04.06 周日 19:00",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "亚洲国际博览馆HALL 10",
+    "venuecity": "中国香港",
+    "venueid": "1013",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN019Z2RNM2GdSfba1hUB_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "876151587191",
+                    "itemName": "BOYNEXTDOOR TOUR ‘KNOCK ON VoL.1’ IN HONG KONG",
+                    "subTitle": "",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "810100",
+                    "cityName": "中国香港",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN019Z2RNM2GdSfba1hUB_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN019Z2RNM2GdSfba1hUB_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01vKtenH2GdSfehwZFJ_!!2251059038.jpg",
+                    "seatImages": [
+                        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01vKtenH2GdSfehwZFJ_!!2251059038.jpg"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "2025.04.06 周日 19:00",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "快递票",
+                            "tagDesc": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。该演出不支持修改收货地址，在购票时请确认收货地址填写正确。\r\n注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagDescWithStyle": "快递票：纸质票会在开票后快递到您留下的收货地址，需您承担邮寄费用。<b>该演出不支持修改收货地址，在购票时请确认收货地址填写正确。</b><br/>注：距开演时间仅3天时，不再寄送快递票，支持在指定取票地点取票（具体以下单后票夹信息为准）",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "门票即发票",
+                            "tagDesc": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagDescWithStyle": "门票即是发票，您可持演出门票进行报销，如有疑问可咨询大麦官方客服",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "893",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><strong>票价说明：</strong><br>港币票价HKD： 1799/ 1499/ 1199/ 799 <br>人民币售价CNY： 1799/ 1499/ 1199/ 799 <br>门票已含境外（含港澳台）服务费</p>\n<p>&nbsp;</p>\n<p><strong>配送说明：</strong><br>本项目门票不支持退换，不可转让。一人一票，入场时必需持有有效门票。购票成功的客户，请您提前办理好港澳通行证-中国香港签注。门票将于演出前一周左右寄出。当天如出现遗失或忘带门票情况不予处理，感谢您的支持与理解。<br>&nbsp;<br><strong>演出介绍：</strong><br>韩国新晋人气男子组合BOYNEXTDOOR宣布举行首个巡回演唱会。继去年于KCON HONG KONG作为演出单位来港表演后，BOYNEXTDOOR将首次正式来港举行演唱会。尚典娱乐集团有限公司（REG）隆重宣布BOYNEXTDOOR TOUR 'KNOCK ON Vol.1' IN HONG KONG将于2025年4月6日，假亚洲国际博览馆10号展馆举行。票价分为港币$1,799、$1,499、$1,199及$799，所有购买$1,799门票的观众，将可参与演前彩排，并可获得一套专属颈绳及通行证，更有机会获得限量艺人亲笔签名海报。门票将于2025年1月22日（星期三）上午10时（当地时间）作公开发售。<br>由创始人兼艺人ZICO所在厂牌KOZ ENTERTAINMENT打造的六人男子组合BOYNEXTDOOR凭着高颜值，以及高水准且稳定的舞台实力，获得了不少新人奖，成功在乐坛站隐阵脚。他们去年9月宣布举行首个巡回演唱会，以仁川为起点，共在13个城市举行，当中一连两天的仁川场甫开售即火速售罄，力证他们人气高企。刚踏入2025年，他们于本月6日推出首张数码单曲《IF I SAY，I LOVE YOU》，回报歌迷们过去一年对他们的厚爱。<br>相信各位ONEDOOR也十分期待这六位具有独特魅力的男孩在舞台的风采。今次作为BOYNEXTDOOR在香港的首个演唱会，粉丝们更不能错过如此有意义的演出，让我们一起期待及共同留下美好的回忆吧。</p>\n<p>&nbsp;<br><strong>售票详情</strong><br>BOYNEXTDOOR TOUR 'KNOCK ON Vol.1' IN HONG KONG<br>日期：2025年4月6日（星期日）<br>时间：晚上7时<br>地点：亚洲国际博览馆10号展馆<br>门票：港币$1,799、$1,499、$1,199及$799（全场座位）<br>*所有购买$1,799门票的观众，将可参与演前彩排，并可获得一套专属颈绳及通行证。<br>*全场观众皆可获得海报一张，当中购买$1,799门票的观众更有机会获得限量艺人亲笔签名海报。<br>主办方保留随时更改此条款和条件的权利，恕不另行通知。<br><strong>*全场座位均没有架高，请务必考虑清楚后再购买门票。</strong><br><strong>*观众必须出示有效的实体门票才能进场。</strong><br><strong>*演出门票如有遗失、损毁，涂污或被窃，主办机构概不补发或更换门票，亦不会承担任何责任，敬请小心保管。</strong></p>\n<p><br>关于BOYNEXTDOOR<br>BOYNEXTDOOR由成员SUNGHO、RIWOO、JAEHYUN、TAESAN、LEEHAN及WOONHAK组成，是创始人兼艺人ZICO所在厂牌KOZ ENTERTAINMENT旗下的首个男团。正如团名所示，这支唱作兼备的全能组合将日常生活中的体验转化为歌曲，形成了他们独特且引人共鸣的音乐风格。通过2023年9月发布的首张EP《WHY..》，BOYNEXTDOOR达成了多个职业里程碑，包括登上了Billboard 200 Chart并在Billboard Emerging Artists榜单夺得第一。2024年4月发布的第二张EP《HOW？》继续保持上升势头，在Billboard 200 Chart上排名第93位，比首张EP提升了69位。2024年9月发布的第三张EP《19.99》全球销量突破100万张，达成了“百万销量专辑”的成就，且以最高排名第40位的成绩进入Billboard 200，登顶World Albums榜单，同时夺得Emerging Artists榜单的第一。凭借充满能量的舞台表现力和让人引起共鸣的音乐，BOYNEXTDOOR预计将在2025年通过他们的首次巡演《KNOCK ON Vol.1》进一步扩大全球影响力。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01qR9xCJ2GdSffu7tIT_!!2251059038.png\" width=\"1267\" height=\"1267\" damai_width=\"1267\" damai_height=\"1267\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01yiSf5c2GdSfeh7ThC_!!2251059038.png\" width=\"830\" height=\"830\" damai_width=\"830\" damai_height=\"830\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01pXRwUX2GdSfcH1g69_!!2251059038.png\" width=\"831\" height=\"831\" damai_width=\"831\" damai_height=\"831\"></p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "快递费",
+                        "content": "1.同城10.0元，发货后1-3天到达；省内12.0元，发货后1-3天到达；其他地区18.0元，发货后1-3天到达；澳门、香港、台湾40.0元，发货后1-5天到达。\r\n2.演出前4天不支持快递。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "本项目门票即是发票。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带纸质门票验票入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭成人票入场，未满3岁儿童不支持入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "本项目门票即是发票。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "无需实名购票"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "以现场为准"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "BOYNEXTDOOR"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "3",
+                    "credentials": [],
+                    "credentialNames": []
+                },
+                "venue": {
+                    "venueId": "1013",
+                    "venueName": "亚洲国际博览馆HALL 10",
+                    "venueProvinceName": "香港特别行政区",
+                    "venueCityName": "中国香港",
+                    "lng": 113.947958,
+                    "lat": 22.318096,
+                    "venueAddr": "大屿山香港国际机场",
+                    "region": "2",
+                    "venueType": "0"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址",
+                                    "海外邮箱"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=876151587191"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D876151587191%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "4331",
+                    "wantNumStr": "4331",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i3/O1CN01xaKrwg1sZkLQhsrPN_!!6000000005781-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/781160/156232024_1690172634713.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01KzqXrr1vW1ysOe3mS_!!6000000006179-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2697543/539508684_1736964519011.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN018aua481exC051EFzr_!!6000000003937-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1737511200000",
+                "sellStartTimeStr": "01月22日 10:00",
+                "countDown": "546271",
+                "rcdt": "546270088",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥799 - ¥1799",
+                "performBases": [
+                    {
+                        "name": "04.06 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1743868800000",
+                        "performs": [
+                            {
+                                "performId": "221673040",
+                                "performName": "2025-04-06  周日 19:00",
+                                "itemId": "876151587191",
+                                "projectId": "224463005",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1743937200000",
+                                "performTime": "2025.04.06 19:00",
+                                "performStartDate": "2025-04-06",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "缺货登记",
+                "buyBtnStatusAfterCountDown": "91",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "770817",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "658689",
+                    "1481986",
+                    "3060482",
+                    "3001090",
+                    "3196418",
+                    "3246850",
+                    "3247106",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "23115",
+                    "1611",
+                    "4939",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "704833",
+                    "2874946",
+                    "3196226",
+                    "3196482",
+                    "3246658",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "466049",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9099",
+                    "14731",
+                    "16267",
+                    "716673",
+                    "37259",
+                    "657793",
+                    "12171",
+                    "9355",
+                    "8843",
+                    "9867",
+                    "2443",
+                    "395",
+                    "1163",
+                    "3196290",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3196354",
+                    "3246274",
+                    "3246786",
+                    "3247042"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "statusTips": [],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8761515871/2/876151587191.jpg"
+            }
+        }
+    }
+}
