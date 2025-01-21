@@ -1,0 +1,78 @@
+{
+    "platform": "大麦",
+    "project_id": "878776711091",
+    "project_name": "2025 Rauf & Faik 演唱会-武汉站",
+    "category_name": "演唱会",
+    "artists": [
+        "Rauf & Faik（劳夫&法伊克）"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.04.22 周二 20:30",
+    "session_time": [],
+    "price": "238-520",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "武汉",
+    "venue_name": "VOX LIVEHOUSE 武昌店",
+    "venue_info": {
+        "venue_address": "武汉市洪山区光谷步行街意大利风情街5号楼负1楼",
+        "lng": 114.407552,
+        "lat": 30.501782
+    },
+    "project_info": "俄罗斯超人气二重唱组合Rauf & Faik 首度来华，八城巡演即将开启！\n*VIP权益：优先入场、 现场签名小海报 、艺人1V1合影（有关VIP门票的入场安排，入场时间等详细信息，将会于各站演出前1-2日以短信形式发送至VIP持票人手机，届时请注意查收）\n*本场演出限一票一证，同场次请勿使用同一证件在多家售票平台购票，以免给您带来不便及不必要的损失如因多平台购票损失的费用将由购票人全额承担。\n*为了确保您有一个愉快顺利的观演体验，在购票前请务必仔细阅读【购票须知】。具体入场需求，请密切留意演出前主办方和场地方微信公众号所发布的《观演指南》。\n\nRauf & Faik，是一对来自阿塞拜疆的俄罗斯二重唱组合，由双胞胎兄弟Rauf和Faik Mirzaev组成，于1999年7月7日出生于俄罗斯伊热夫斯克，兄弟俩以极富情感的嗓音、灵魂旋律和直击人心的歌词征服无数听众，他们的音乐结合流行、R&B和迷人电子元素，每一首歌都像是在讲述一个动人的故事。如《Детство》（童年）、《Колыбельная》（摇篮曲）、《Ошибка》（错）等，深受广大歌迷喜爱，已在各大音乐平台收获亿万播放量。\n \n2025年4月，Rauf & Faik 将带着他们的独特音乐魅力和精彩的现场表演首度踏上中国巡演之旅，用一场场精彩的演出，为各地的歌迷带来一场场难忘的音乐体验。\n\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Gf4WGT2GdSflrPK2P_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN0152AbVy2GdSfioNE9w_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN0166AdUM2GdSfhTdDfD_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "879409622733",
+            "cityName": "北京站",
+            "showTime": "04.17"
+        },
+        {
+            "itemId": "879353661747",
+            "cityName": "杭州站",
+            "showTime": "04.19"
+        },
+        {
+            "itemId": "878353449155",
+            "cityName": "上海站",
+            "showTime": "04.20"
+        },
+        {
+            "itemId": "878776711091",
+            "cityName": "武汉站",
+            "showTime": "04.22"
+        },
+        {
+            "itemId": "878984666346",
+            "cityName": "长沙站",
+            "showTime": "04.23"
+        },
+        {
+            "itemId": "878766811684",
+            "cityName": "广州站",
+            "showTime": "04.25"
+        },
+        {
+            "itemId": "879414126390",
+            "cityName": "深圳站",
+            "showTime": "04.26"
+        },
+        {
+            "itemId": "878979710631",
+            "cityName": "成都站",
+            "showTime": "04.28"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=878776711091"
+}
