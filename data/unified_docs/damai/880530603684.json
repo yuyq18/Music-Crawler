@@ -1,0 +1,57 @@
+{
+    "platform": "大麦",
+    "project_id": "880530603684",
+    "project_name": "不才「雾的19日」巡演 杭州站",
+    "category_name": "演唱会",
+    "artists": [
+        "不才"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.04.12 周六 20:00",
+    "session_time": [],
+    "price": "138-438",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "杭州",
+    "venue_name": "CH8 Livehouse(杭州小河店)",
+    "venue_info": {
+        "venue_address": "长征桥路CH8 Livehouse（杭州小河店）",
+        "lng": 120.1374,
+        "lat": 30.308819
+    },
+    "project_info": "不才「雾的19日」巡演 杭州站\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01qLQ5QS2GdSfjxV5OI_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01z1qWtr2GdSflCDdBR_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "50",
+        "wantNumStr": "50",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "880530603684",
+            "cityName": "杭州站",
+            "showTime": "04.12"
+        },
+        {
+            "itemId": "875135476041",
+            "cityName": "天津站",
+            "showTime": "03.01"
+        },
+        {
+            "itemId": "876919013716",
+            "cityName": "武汉站",
+            "showTime": "03.29"
+        },
+        {
+            "itemId": "876544222802",
+            "cityName": "上海站",
+            "showTime": "04.11"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=880530603684"
+}

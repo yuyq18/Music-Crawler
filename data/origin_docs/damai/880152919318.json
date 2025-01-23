@@ -1,0 +1,641 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：胡海泉",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "81",
+    "cityname": "乌鲁木齐",
+    "couponTags": "[]",
+    "description": "艺人：胡海泉",
+    "id": "1_1_880152919318",
+    "imgurl": "211594601",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "胡海泉2025《春风归来了无痕》巡演-乌鲁木齐站",
+    "nameNoHtml": "胡海泉2025《春风归来了无痕》巡演-乌鲁木齐站",
+    "price": "280.0",
+    "price_str": "280-980",
+    "pricehigh": "980.0",
+    "privilegeTags": "[]",
+    "projectid": "880152919318",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.02.15 周六 20:00",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "五一新区文体中心体育馆",
+    "venuecity": "乌鲁木齐",
+    "venueid": "7152006",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Oo1Qg12GdSfl5pUDt_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "880152919318",
+                    "itemName": "【乌鲁木齐】胡海泉2025《春风归来了无痕》巡演-乌鲁木齐站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "650100",
+                    "cityName": "乌鲁木齐市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Oo1Qg12GdSfl5pUDt_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Oo1Qg12GdSfl5pUDt_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2025.02.15 周六 20:00",
+                    "showDuration": "最低演出时长100分钟，以实际现场为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。",
+                            "tagType": "2",
+                            "renderType": "2",
+                            "tagDescJson": "{\"generalNote\":\"该演出支持退票，您可以在【我的-订单详情页】中申请退票，退票需要收取手续费，具体规则如下：\",\"performRules\":[{\"rules\":[{\"endTime\":1737950340000,\"ruleStage\":1,\"ruleType\":2,\"startTime\":1737777600000},{\"endTime\":1738166340000,\"ruleFeeBP\":2000,\"ruleStage\":1,\"ruleType\":1,\"startTime\":1737950340000},{\"endTime\":1738425540000,\"ruleFeeBP\":4000,\"ruleStage\":1,\"ruleType\":1,\"startTime\":1738166340000},{\"endTime\":1738684740000,\"ruleFeeBP\":8000,\"ruleStage\":1,\"ruleType\":1,\"startTime\":1738425540000},{\"ruleStage\":1,\"ruleType\":4,\"startTime\":1738684740000}]}],\"refundProcedureFeeRule\":1}",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：新疆一加二文旅传媒有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：新疆一加二文旅传媒有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "2148",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><strong>胡海泉2025《春风归来了无痕》巡演-乌鲁木齐站</strong></span><br><span style=\"font-size: 16px;\"><strong>购票须知</strong></span></p>\n<p style=\"text-align: center;\"><br><span style=\"font-size: 18px;\"><strong>重要！请各位观众阅读后下单！</strong></span></p>\n<p><br>一、胡海泉2025《春风归来了无痕》巡演-乌鲁木齐站将于2025年2月15日北京时间20:00在乌鲁木齐 五一新区文体中心体育馆（新疆维吾尔自治区乌鲁木齐市头屯河区屯兴路333号）举行。（具体地点指引请看后文交通指引）<br>二、<strong>【实名制购票要求】</strong>本场实行实名制购票及入场规则，每个身份证件只能购买一张门票 (购票时填写的观演人须与实际观演人保持一致)，门票不支持转赠与转售，仅支持购票须知中的有条件退票，请务必根据个人时间及行程合理安排，谨慎购买。<br>三、<strong>【观众实名证件可支持】</strong>身份证/护照/港澳台居民居住证/港澳居民来往内地通行证/台湾居民来往大陆通行证。<br>四、<strong>【未成年人（含儿童）购票及入场】</strong>谢绝婴幼儿及怀抱婴儿者进场，其他未成年人（含儿童）一律凭全票入场。无身份证件的未成年人需携带户口本原件核验入场。未成年人请在购票前自觉获得法定监护人允许，如购票订单生成并完成支付，默认其为“法定监护人”准允购票，并由法定监护人承担一切相关责任。主办方不支持以未成年人未经监护人准允等相关理由退票。<br>五、<strong>【入场规则】</strong>观演人须携带本人身份证件原件，进入场馆时需验证身份证件，同时进行人脸识别，通过后方可入场观演。由于观演人在购票过程中所填信息有误导致无法入场，或以上任意信息不匹配造成入场失败，需自行承担责任，与主办方、票务平台无关。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN012Ykq6i2GdSfl149TL_!!2251059038.png\" width=\"865\" height=\"606\" damai_width=\"865\" damai_height=\"606\"></p>\n<p>六、<strong>【预售时间】</strong>2025年1月25日12：00分开启预售<br>七、<strong>【官方购票平台】</strong>大麦<br>八、<strong>【限购规则】</strong>每笔订单最多购买6张、每个账号最多购买6张。<br>九、<strong>【关于座位】</strong>本场演出不支持自主选座。票务平台将由系统根据订单实际付款先后顺序分配座位，同一个订单优先连座，但由于票区座位有限，无法保证同订单或套票百分百连座。临近演出前可用购票人信息（注意是购票下单付款手机号）登录大麦APP查询座位号。<br>十、<strong>【有条件退票规则】</strong>为更好地向广大观众朋友提供优质的观演体验，努力营造健康有序的票务售购环境，根据文化和旅游部公安部联合下发的 《关于进一步加强大型营业性演出活动规范管理促进演出市场健康有序发展的 通知》(文旅市场发(2023)96号)要求，同时根据实名制票务制度，我们制定了如下退票规则：<br>1. <strong>【免费退票时间】</strong>购票用户可在2025年1月25日12：00分至2025年1月27日11：59分期间，且在售票平台客服正常工作时间内无条件免费办理退票(自助退票不受工作时间限制，在用户订单内自行退票)。<br>2. <strong>【20%手续费退票时间】</strong>购票用户可在2025年1月27日12：00分至2025年1月29日23:59分期间，在售票平台客服工作时间内可办理退票(自助退票不受工作时间限制，在用户订单内自行退票)，按所退门票实付价款的 20%收取退票手续费。<br>3.<strong> 【40%手续费退票时间】</strong>购票用户可在2025年1月30日00：00分至2025年2月1日23:59分期间，在售票平台客服工作时间内可办理退票(自助退票不受工作时间限制，在用户订单内自行退票)，按所退门票实付价款的 40%收取退票手续费。<br>4. <strong>【80%手续费退票时间】</strong>购票用户可在2025年2月2日00：00分至2025年2月4日23：59分期间，在售票平台客服工作时间内可办理退票(自助退票不受工作时间限制，在用户订单内自行退票)，按所退门票实付价款的 80%收取退票手续费。<br>5. <strong>【停止退票时间】</strong>鉴于演唱会门票为有价票券，非普通商品，其背后承载的文化服务具有时效性、稀缺性等特征，在2025年2月5日00：00后，不再受理任何形式的退换票，请各位观众合理规划个人行程。<br>6. <strong>【整单整退】</strong>为防止出现恶意购票、退票等扰乱大型活动正常票务销售秩序的行为，所有退票仅支持整单整退，即一个订单号下的多张门票无法拆分退票，仅支持整单中所有门票全退，请谨慎购买。<br>7. <strong>【退票权益次数限制】</strong>在销售阶段同一购票人、同一购票账户仅享有一次退票权益，在产生一次退票后，如该购票人/购票账户再次购买同场次演出票后，将不再享有退票权益。<br>8. 因多平台重复购票产生的强制退票，主办将收取票面价格的20%作为退票手续费。</p>\n<p><strong>十一、多平台重复购票订单处理规则</strong><br>1. 本场演出为实名制购票入场，身份证电子票，同一证件仅能对应一张同一场次演出门票。同一位“实名观演人”请勿在多个售票平台上重复购票！若同一位“实名观演人”同时在多个购票平台购买同场次门票，产生无效的重复订单、出现退票产生手续费、过期不可退票和无法入场观演等所有损失、由购票人自行承担。因多平台重复购票产生的强制退票，主办将收取票面价格的20%作为退票手续费。<br>2. 基于前述规定，请您知悉、认可并同意，如您使用同一证件在不同购票渠道购买本场次演出门票，导致您在本销售平台购票订单中的观演人与其他购票平台订单中的观演人重复的，您在本销售平台购买的本场次演出门票订单将被整体强制取消(整单整退)。(强制退票不再另外通知购票人，由相应售票平台自动处理);如果申请退票请在购票的票务代理平台按规则办理。退票将返回各售票平台继续销售，继续销售的门票同时适用上述购票规则。</p>\n<p><strong>十二、【禁止携带物品】</strong><br>由于安保和版权的原因，禁止携带以下物品：易燃易爆品及危险化学品、枪支弹药、放射性物品、各类毒品、管制刀具、易碎玻璃制品、打火机火柴、冷焰火、横幅条幅、旗帜旗杆(包括任何伸缩旗帜及旗杆)、含酒精饮品及高度酒精、点火工具、球棒长柄伞自拍杆等易被用于造成人身伤害的物品、各类动物昆虫宠物、航拍器及无人机设备、代步交通工具、软硬包装饮料、激光笔、注射器、大件行李（尺寸超过50cmX36cm的行李箱，现场无寄存）、专业摄影摄像机扩音器及三脚架、各类乐器、灯牌灯幅等应援物品、投影设备、充气物(如气球，气棒等)。<br>请您注意现场工作人员和广播的提示，予以配合。请注意禁带物品将无法通过安检，无法带入场馆的物品现场无寄存不负责保管，请勿携带!为确保活动安全顺利进行，根据《中华人民共和国治安管理处罚法》等相关法律法规规定和主办单位的要求，请入场人员自觉接受安检。</p>\n<p><strong>十三、关于“座位分布说明”及“视觉不良座位”特殊提示</strong><br>1. 由于看台位置分布不一，有同区不同价的情况，介意勿拍。<br>2. 因该场演出部分节目内容设计及舞美音响设计，演出人员表演非固定站位，可能导致个别区域存在有限的“视觉不佳或局部被遮挡现象”。为保证演出质量及观众良好的体验感，现针对该情况进行特别说明,如购票人成功完成购票，即代表已知晓并接受其可能存在的“视觉不佳或局部被遮挡现象”的风险。<br>3. 因为考虑观众观演安全问题，场地有部分栏杆可能导致个别区域存在有限的“视觉不佳或局部被遮挡现象”。现针对该情况进行特别说明，如购票人成功完成购票，即代表已知晓并接受其可能存在的“视觉不佳或局部被遮挡现象”的风险。</p>\n<p>在此强烈呼吁购票人增强公众意识、合理按需购票，通过官方售票渠道，按照各官方票务平台购票规则购票，共创健康有序的售票观演环境，在此，感谢观众朋友的理解与支持。购票入场退票等相关的规则事宜，主办方在法律法规的允许范围内享有解释权。<br><br>新疆一加二文旅传媒有限公司<br>2025年1月7日</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><strong>【交通指引】</strong></span></p>\n<p>乌昌高速看见“十二师融媒体中心、十二师市民中心”字样的匝道路标提示，下辅道即可到达。具体位置参考下图：<br><br></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01KYmhLw2GdSflTSxUc_!!2251059038.png\" width=\"864\" height=\"1107\" damai_width=\"864\" damai_height=\"1107\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01RjLXRZ2GdSfk0lpeD_!!2251059038.png\" width=\"864\" height=\"613\" damai_width=\"864\" damai_height=\"613\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01YO1Xc72GdSfmFNCU1_!!2251059038.png\" width=\"865\" height=\"584\" damai_width=\"865\" damai_height=\"584\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01VlYRiO2GdSfmFQtIJ_!!2251059038.png\" width=\"865\" height=\"593\" damai_width=\"865\" damai_height=\"593\"></p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01o3ybkR2GdSfmbzAo1_!!2251059038.jpg\" width=\"980\" height=\"1319\" damai_width=\"980\" damai_height=\"1319\"></p>\n<p>胡海泉全国巡演正式开启</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01In7GNl2GdSflz9KKf_!!2251059038.jpg\" width=\"4608\" height=\"3072\" damai_width=\"4608\" damai_height=\"3072\"></p>\n<p>“春风归来了无痕”个人巡演</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN018Zejll2GdSflDoOUt_!!2251059038.jpg\" width=\"3445\" height=\"5167\" damai_width=\"3445\" damai_height=\"5167\"></p>\n<p>春暖花开 赴约而来</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01v7rWbl2GdSfjc6J96_!!2251059038.jpg\" width=\"4000\" height=\"2667\" damai_width=\"4000\" damai_height=\"2667\"></p>\n<p>在这快节奏的世界里，我们经历着四季的更迭，感受着生活的酸甜苦辣。喧嚣的世界里，时间飞逝，而我们似乎总在不经意间错过了许多美好。或许是一首歌，唤起了那些珍贵回忆；或许是一段旋律，铭记了那些经历。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01AV0KJi2GdSfkzmnVW_!!2251059038.jpg\" width=\"2496\" height=\"3744\" damai_width=\"2496\" damai_height=\"3744\"></p>\n<p>我们曾在2024年的冬日告别，约定在下一个春暖花开之时再相见。时光荏苒，冬去春来，这一次，我们再次相约，春风归来，虽吹不走过往的喜怒哀乐，但在这场面对面的音乐旅程中，我们可以不再执念过往的烦恼，只怀着期待和好奇，在情人节之际来到下一个城市，新疆乌鲁木齐。在音乐声中感受来自身边或熟悉或陌生，但却最真诚的感动与共鸣。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Ul1YnU2GdSfkzliwx_!!2251059038.jpg\" width=\"2216\" height=\"3324\" damai_width=\"2216\" damai_height=\"3324\"></p>\n<p>海泉《春风归来了无痕》个人巡回演唱会延续了其音乐演出一直以来的高品质。我们将用演唱会级的音乐体验和惊喜互动点燃一场同频狂欢，打造一场震撼心灵的音乐盛宴。老歌重唱，唤起属于我们的音乐回忆；新歌演绎，刻画全新音乐篇章；即兴弹唱，让每一颗音符都成为心灵的交响。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ZIPvrC2GdSfnB4GfD_!!2251059038.jpg\" width=\"6720\" height=\"4480\" damai_width=\"6720\" damai_height=\"4480\"></p>\n<p>在2025情人节，让我们相遇于新疆。在这个春天，让我们相约在乌鲁木齐，不要吝啬呼吸音乐现场的空气，无须犹豫体会旋律记忆的共鸣。你们，也是这场音乐Party的主角。</p>\n<p>&nbsp;</p>\n<p>春暖花开，“泉”为你而来。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "新疆一加二文旅传媒有限公司",
+                            "socialCreditCode": "91652300MA78B05T6T",
+                            "legalPerson": "陈雪莱",
+                            "regCapStr": "101万人民币",
+                            "opFrom": "",
+                            "opTo": "9999-09-09",
+                            "entType": "其他有限责任公司",
+                            "entAddress": "新疆昌吉州昌吉市文化东路29号昌吉州文化创意交流中心(众创空间)8号办公室"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/外国人永久居留身份证/港澳台居民居住证/护照/台湾居民来往大陆通行证/身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "最低演出时长100分钟，以实际现场为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "15"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "100 分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "7152006",
+                    "venueName": "五一新区文体中心体育馆",
+                    "venueProvinceName": "新疆维吾尔自治区",
+                    "venueCityName": "乌鲁木齐市",
+                    "lng": 87.377967,
+                    "lat": 43.977396,
+                    "venueAddr": "屯兴路333号",
+                    "showCountText": "共有2个演出",
+                    "region": "1",
+                    "venueType": "0"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=880152919318"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D880152919318%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "16291",
+                        "artistName": "胡海泉",
+                        "archives": "胡海泉， 1975 年 8 月 13 日出生于辽宁省沈阳市， 中国内地男歌手、音乐制作人、音乐组 合羽·泉成员。曾签约于滚石唱片有限公司、华谊兄弟音乐有限公司，并于 2009 年创办北京巨匠文化发展有限公司。自 1998 年以来， 以羽泉名义共发行 11 张原 创专辑， 总销量超过 1200 万张",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1678848961767/1678848961767-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "16291",
+                        "name": "胡海泉",
+                        "desc": "胡海泉， 1975 年 8 月 13 日出生于辽宁省沈阳市， 中国内地男歌手、音乐制作人、音乐组 合羽·泉成员。曾签约于滚石唱片有限公司、华谊兄弟音乐有限公司，并于 2009 年创办北京巨匠文化发展有限公司。自 1998 年以来， 以羽泉名义共发行 11 张原 创专辑， 总销量超过 1200 万张",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1678848961767/1678848961767-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "711",
+                    "wantNumStr": "711",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i1/O1CN01fhSSIo1XHKUOi5w5Y_!!6000000002898-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/2488143/497628689_1716677854673.jpg",
+                        "https://img.alicdn.com/imgextra/i3/O1CN01xaKrwg1sZkLQhsrPN_!!6000000005781-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/192099/38419868.jpg",
+                        "https://img.alicdn.com/imgextra/i4/O1CN01NhsMhM1EE927ZzCv9_!!6000000000319-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "31164369329",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1710726481040/1710726481040-main.jpg",
+                    "note": "胡海泉2024《春风归来了无痕》巡演",
+                    "categoryName": "其他",
+                    "title": "胡海泉2024《春风归来了无痕》巡演",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1737777600000",
+                "sellStartTimeStr": "01月25日 12:00",
+                "countDown": "121457",
+                "rcdt": "121456024",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥280 - ¥980",
+                "performBases": [
+                    {
+                        "name": "02.15 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1739548800000",
+                        "performs": [
+                            {
+                                "performId": "222117125",
+                                "performName": "2025-02-15  周六 20:00",
+                                "itemId": "880152919318",
+                                "projectId": "224207010",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1739620800000",
+                                "performTime": "2025.02.15 20:00",
+                                "performStartDate": "2025-02-15",
+                                "performBeginTime": "20:00",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售，正式开票后将第一时间配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "缺货登记",
+                "buyBtnStatusAfterCountDown": "91",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "770817",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "658689",
+                    "3060482",
+                    "3001090",
+                    "3196418",
+                    "3246850",
+                    "3247106",
+                    "89665",
+                    "165186",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "23115",
+                    "1611",
+                    "4939",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "704833",
+                    "2874946",
+                    "3196226",
+                    "3196482",
+                    "3246658",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "466049",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9099",
+                    "14731",
+                    "16267",
+                    "716673",
+                    "37259",
+                    "657793",
+                    "12171",
+                    "9355",
+                    "8843",
+                    "9867",
+                    "2443",
+                    "395",
+                    "1163",
+                    "1445762",
+                    "3196290",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3196354",
+                    "3246274",
+                    "3246786",
+                    "3247042"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "statusTips": [
+                    "<span style=\"color: #69717C\"><b>预售</b> | 本商品为预售，正式开票后将第一时间配票</span>"
+                ],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8801529193/2/880152919318.jpg"
+            }
+        }
+    }
+}
