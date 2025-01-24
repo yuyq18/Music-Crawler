@@ -1,0 +1,296 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：吕思纬、萧秉治",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "906",
+    "cityname": "深圳",
+    "couponTags": "[]",
+    "description": "艺人：吕思纬、萧秉治",
+    "id": "1_1_879406111215",
+    "imgurl": "204126520",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "GX《大玩一票ALL YOU CAN PLAY》演唱会-深圳站",
+    "nameNoHtml": "GX《大玩一票ALL YOU CAN PLAY》演唱会-深圳站",
+    "price": {
+        "range": "150-200"
+    },
+    "price_str": "150-200",
+    "pricehigh": "200.0",
+    "privilegeTags": "[]",
+    "projectid": "879406111215",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.03.14 周五 19:30",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": {
+        "lat": 22.514938,
+        "lng": 113.946639,
+        "region": "1",
+        "showCountText": "3个演出",
+        "venueAddr": "科苑南路2666号中国华润大厦B1层发布厅",
+        "venueCityName": "深圳市",
+        "venueId": "3183036",
+        "venueName": "HOU LIVE X Mixc cube",
+        "venueProvinceName": "广东省",
+        "venueType": "0"
+    },
+    "venuecity": "深圳",
+    "venueid": "3183036",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN016xoZHd2GdSfj0T7UX_!!2251059038.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "buyButton": {
+        "origin": "-41",
+        "status": "90",
+        "text": "预约抢票",
+        "tip": "提前选票档 抢票更丝滑"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01soACiO2GdSfeWYTED_!!2251059038.jpg\" width=\"2000\" height=\"2499\" damai_width=\"2000\" damai_height=\"2499\"></p>\n<p>&nbsp;</p>\n<p>陪你的男友 挺你的兄弟<br>GX和你相约深圳 畅玩一整晚<br>零距离嗨歌互动 陪你一票玩到底<br>飞越情海抒情K歌 陪你一路爱到底<br>深圳站，你就是GX最想再见到的人!</p>\n<p>&nbsp;</p>\n<p>GX《大玩一票ALL YOU CAN PLAY》演唱会-深圳站<br>鼓鼓 呂思纬GBOYSWAG<br>萧秉治XIAO BING CHIH</p>\n<p>&nbsp;</p>\n<p>📍3/14（五）19：30 深圳站<br>地点：HOU LIVE X Mixc cube<br>地址：中国深圳市南山区科苑南路2666号中国华润大厦B1层发布厅</p>\n<p>&nbsp;</p>\n<p>票 价：<br>✚早鸟票｜RMB￥150<br>✚正价票｜RMB￥200</p></body></html>",
+        "introduceTitle": "活动介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "吕思纬以艺名“鼓鼓”出道，全方位歌手",
+                "id": "1506072832",
+                "name": "吕思纬",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1685082007122/1685082007122-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "全能创作歌手。",
+                "id": "72316",
+                "name": "萧秉治",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1684807931207/1684807931207-main.jpg",
+                "tag": "歌手"
+            }
+        ],
+        "artistsTitle": "演出阵容",
+        "guideCat": "Livehouse",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "false",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "useLocalCache": "false",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wPOZN01jRf2eaC3Jz_!!6000000004545-2-tps-1125-702.png",
+        "categoryId": "123606001",
+        "cityName": "深圳市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "ipId": "30431283787",
+        "itemId": "879406111215",
+        "itemName": "【深圳】GX《大玩一票ALL YOU CAN PLAY》演唱会-深圳站",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN016xoZHd2GdSfj0T7UX_!!2251059038.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "440300",
+        "performSeatImages": [],
+        "projectId": "224734011",
+        "projectStatus": "1",
+        "realName": {
+            "credentialNames": [],
+            "credentials": [],
+            "type": "3"
+        },
+        "showDuration": "约90分钟（以现场为准）",
+        "showTime": "2025.03.14 周五 19:30",
+        "subTitle": "",
+        "tcCategoryId": "0301020100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "222179080",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=879406111215",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "group_coupon",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须打开【票夹】扫码入场，截图无效。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "儿童一律凭票入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "无需实名购票",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "约90分钟（以现场为准）",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约30分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "90分钟",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "最低演出时长"
+            },
+            {
+                "content": "吕思纬、萧秉治",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01N7Icez1vcu9JtnH1e_!!6000000006194-2-tps-144-144.png",
+                "title": "主要演员"
+            },
+            {
+                "content": "18",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过票夹中的二维码验票入场",
+                "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：北京大麦文化传媒发展有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：北京大麦文化传媒发展有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}
