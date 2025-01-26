@@ -1,0 +1,71 @@
+{
+    "platform": "大麦",
+    "project_id": "881959600060",
+    "project_name": "后街男孩-NICK CARTER 2025 WHO I AM 演唱会·北京站",
+    "category_name": "演唱会",
+    "artists": [
+        "尼克·卡特(Nick Carter)",
+        "backstreet boys"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.09 周日 19:30",
+    "session_time": [
+        "03.09 周日"
+    ],
+    "price": "285-980",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "北京展览馆剧场",
+    "venue_info": {
+        "venue_address": "北京市西城区西直门外大街135号院",
+        "lng": 116.343741,
+        "lat": 39.94218
+    },
+    "project_info": "\n\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN014m8DoE2GdSfnYrjjx_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN014PvBDL2GdSfm3H65h_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01wdQTjy2GdSfmeN7jH_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "2346",
+        "wantNumStr": "2346",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "880291138899",
+            "cityName": "上海站",
+            "showTime": "03.02"
+        },
+        {
+            "itemId": "881959600060",
+            "cityName": "北京站",
+            "showTime": "03.09"
+        },
+        {
+            "itemId": "876470359976",
+            "cityName": "重庆站",
+            "showTime": "03.16"
+        },
+        {
+            "itemId": "871564410114",
+            "cityName": "武汉站",
+            "showTime": "02.28"
+        },
+        {
+            "itemId": "876096368158",
+            "cityName": "成都站",
+            "showTime": "03.07"
+        },
+        {
+            "itemId": "872556693425",
+            "cityName": "广州站",
+            "showTime": "03.08"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=881959600060"
+}

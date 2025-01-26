@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "882045193764",
+    "project_name": "JJ林俊杰 JJ20 FINAL LAP世界巡回演唱会 墨尔本站",
+    "category_name": "演唱会",
+    "artists": [
+        "林俊杰"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.04.11 周五 20:00",
+    "session_time": [
+        "04.11 周五"
+    ],
+    "price": "750-2200",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "墨尔本",
+    "venue_name": "Rod Laver Arena",
+    "venue_info": {
+        "venue_address": "200 Batman Ave, Melbourne VIC 3004澳大利亚",
+        "lng": 144.978719332538,
+        "lat": -37.821234725726356
+    },
+    "project_info": "演出时间：2025年4月11日 周五 20:00 当地时间\n场馆名称：Rod Laver Arena\n具体地址：200 Batman Ave, Melbourne VIC 3004澳大利亚\n \n票价说明：\n澳币售价AUD：458/358/288/218/148\n大麦人民币售价 CNY：2,200/1,750/1,400/1,050/750\n*人民币票价已含境外服务费\n \n取票说明：\n本项目不支持退换，购票成功的客户，请您携带好护照，提前办理目的地签证。演出当日凭购票二维码到现场取票点换取实体门票（订单或订单截图无效）入场，感谢您的支持。\n \n取票地址：场馆售票亭\n取票时间： 演出当天演出前\n \n演出介绍：\n林俊杰将于4月5日悉尼和4 月11日墨尔本呈现他的全新《JJ 林俊杰 JJ20 FINAL LAP 世界巡回演唱会》。 此轮巡演的最终回标志着林俊杰20周年音乐生涯的里程碑，JJ 也将首次到波士顿、旧金山、首尔等城市开唱。\n\n《JJ 林俊杰 JJ20 世界巡回演唱会》自 2022年11月在新加坡首演以来，便获得了极高评价。 随之拉队到上海、悉尼、巴黎、伦敦和纽约等城市也场场爆满，至今完成近100场演出，屡创票房新高，吸引了来自世界各地的观众前往“圣所”。 继12月末在新加坡通过两场叫好又叫座的盛大演出正式启动“JJ20 FINAL LAP 世界巡回演唱会” 后，JJ 火力全开继续带着华流走向世界。\n\n除了脍炙人口的抒情歌曲，歌迷据能透过音乐感受 JJ 这 21年来的成长、蜕变以及他在音乐创作上不断地进化。 本次演唱会将在服装和舞台设计方面带来全新的升级，包括拉近了JJ与歌迷距离的延伸舞台，呈现更加震撼的视听体验。 据 JJ 在新加坡首站演出之后透露，FINAL LAP 巡演将不断更新演变，更是令所有观众朋友们期待拉满。\n来临的 4月，终局落幕之前与你约定好在对的时间点一起圆满经历, 共同感受《JJ 林俊杰 JJ20 FINAL LAP 世界巡回演唱会》的绝美视听飨宴！\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Xh4xQZ2GdSflR7jL9_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01iz1fxo2GdSfnlgX6g_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01N13bwK2GdSflHxhYq_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01njSCGr2GdSflHv18y_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01yJig2i2GdSfmQqT0x_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "704",
+        "wantNumStr": "704",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "882374252374",
+            "cityName": "悉尼站",
+            "showTime": "04.05"
+        },
+        {
+            "itemId": "882045193764",
+            "cityName": "墨尔本站",
+            "showTime": "04.11"
+        },
+        {
+            "itemId": "875790440867",
+            "cityName": "英国伦敦站",
+            "showTime": "03.11"
+        },
+        {
+            "itemId": "875189207762",
+            "cityName": "法国巴黎站",
+            "showTime": "03.22"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=882045193764"
+}

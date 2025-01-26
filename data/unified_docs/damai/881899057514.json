@@ -1,0 +1,50 @@
+{
+    "platform": "大麦",
+    "project_id": "881899057514",
+    "project_name": "周华健2025“少年的奇幻之旅3.0”巡回演唱会-长沙站",
+    "category_name": "演唱会",
+    "artists": [
+        "周华健"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.04.12 周六 19:30",
+    "session_time": [
+        "04.12 周六"
+    ],
+    "price": "499-1299",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "长沙",
+    "venue_name": "湖南国际会展中心·芒果馆",
+    "venue_info": {
+        "venue_address": "长沙市开福区三一大道471号",
+        "lng": 113.049597,
+        "lat": 28.234365
+    },
+    "project_info": "\n \n唱过千山万水 归来仍是少年\n周华健 少年的奇幻之旅 CONCERT TOUR 3.0\n出道多年，华健唱过无数的大型演唱会。\n许多时候，在万人大合唱之中结束演出，\n他跟满坑满谷的观众挥手，眼前却很难看清楚每张脸孔。\n \n\n \n这几年，进行专辑【少年】的制作阶段，\n华健常想起自己出道前在民歌餐厅的日子，\n想起那时简简单单、对着每一张脸唱歌的心情。\n \n音乐这条路上，他不停飞飞飞飞飞，\n总是努力满足许多人，唱成了国民歌王。\n完成各种期许，得到很多掌声，\n只是他也想，能不能有一次，只为了自己而唱。\n \n这是属于华健自己内心少年的奇幻之旅。\n他想带着几位合作多年的音乐伙伴，\n唱他最想唱的歌。\n \n故事里会有华健少年时最爱的歌，\n有他一贯幽默欢愉的谈吐，\n有关于专辑里那些坚持与任性的奇幻旅程。\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN018aEssz2GdSfm5EbCC_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01wrsa5i2GdSfm33OLk_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01t3PGYp2GdSfowZhfT_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "1997",
+        "wantNumStr": "1997",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "881899057514",
+            "cityName": "长沙站",
+            "showTime": "04.12"
+        },
+        {
+            "itemId": "881447606807",
+            "cityName": "福州站",
+            "showTime": "04.19"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=881899057514"
+}
