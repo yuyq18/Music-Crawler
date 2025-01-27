@@ -1,0 +1,47 @@
+{
+    "platform": "大麦",
+    "project_id": "881877650869",
+    "project_name": "隔壁团2025巡演  武汉站",
+    "category_name": "演唱会",
+    "artists": [
+        "隔壁团"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.08 周六 20:30",
+    "session_time": [],
+    "price": "120-200",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "武汉",
+    "venue_name": "VOX LIVEHOUSE 武昌店",
+    "venue_info": {
+        "venue_address": "武汉市洪山区光谷步行街意大利风情街5号楼负1楼",
+        "lng": 114.407552,
+        "lat": 30.501782
+    },
+    "project_info": "\n隔壁团乐队：      \n2013年签约索尼音乐娱乐      \n赴日本 亚洲最大音乐节 SUMMER SONIC 代表中国参演乐队      \n电视节目《中国之星》 摇滚教父崔健 推荐参演乐队      \n受邀赴台湾知名音乐节 春浪音乐节参演乐队      \n独立制作演唱《火星情报局》3主题曲        \n2014年索尼唱片发表数字专辑《不是一路人》      \n2015年索尼唱片陆续发布9张数字EP      \n 2016年索尼唱片发布实体同名专辑《隔壁团》          \n2016年索尼唱片发布火星情报局主题曲《再见18岁》      \n2017年索尼唱片发布数字EP《百般算计不如一颗单纯的心》      \n2021年单曲《今夜的风》      \n 2021年单曲《请一定要幸福》      \n2022年单曲《放不下》      \n2022年单曲《杯中酒》‍‍‍    \n 2022年单曲《错过我是多么可惜》      \n2023年单曲《我不吃你这一套》‍‍  \n2024年单曲《谁家的孩子在胡闹》   \n2014—2024年期间完成全国巡演12次      \n乐队已参演国际国内演出500余场      \n代表作品 ：《这世界只有你明白我》《不要把我忘记》《再见18岁》《路》《夏天海边》《再见吧朋友》《我要喝啤酒》《想你》《三十岁》《活该》《钱都在谁的都里面》《不缺觉缺爱》《树》《飞鸟》《我不吃你这一套》《哪里都不想去》《自己的世界》《没有你陪我的夜晚》《不是一路人》《请一定要幸福》等等......",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01nZju3I2GdSfo3tOcd_!!4611686018427383646-2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01M5W2Wy2GdSfoNQVdB_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "882281669585",
+            "cityName": "合肥站",
+            "showTime": "03.07"
+        },
+        {
+            "itemId": "881877650869",
+            "cityName": "武汉站",
+            "showTime": "03.08"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=881877650869"
+}
