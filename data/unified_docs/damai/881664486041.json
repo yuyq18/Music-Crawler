@@ -1,0 +1,72 @@
+{
+    "platform": "大麦",
+    "project_id": "881664486041",
+    "project_name": "《干杯2025》高天佐全国巡演",
+    "category_name": "演唱会",
+    "artists": [
+        "高天佐Trouble.Z"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.05.17 周六 20:00",
+    "session_time": [],
+    "price": "188-358",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南京",
+    "venue_name": "稻香音乐空间",
+    "venue_info": {
+        "venue_address": "江苏省南京市建邺区兴隆街道燕山路南京奥林匹克体育中心A20号",
+        "lng": 118.724306,
+        "lat": 32.009625
+    },
+    "project_info": "高天佐Trouble.Z「干杯」2025巡演正式开启！\n最新专辑 《鸳鸯锅》现场限量出售，先到先得，售完为止。\n\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01wriEev2GdSfp2ekUe_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01niiScr2GdSfl2Jwco_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "51",
+        "wantNumStr": "51",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "881933081486",
+            "cityName": "上海站",
+            "showTime": "03.08"
+        },
+        {
+            "itemId": "882376668908",
+            "cityName": "杭州站",
+            "showTime": "03.15"
+        },
+        {
+            "itemId": "881715006853",
+            "cityName": "北京站",
+            "showTime": "03.22"
+        },
+        {
+            "itemId": "881687122569",
+            "cityName": "广州站",
+            "showTime": "03.29"
+        },
+        {
+            "itemId": "881617611976",
+            "cityName": "成都站",
+            "showTime": "04.19"
+        },
+        {
+            "itemId": "881478851885",
+            "cityName": "长春站",
+            "showTime": "04.26"
+        },
+        {
+            "itemId": "881664486041",
+            "cityName": "南京站",
+            "showTime": "05.17"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=881664486041"
+}
