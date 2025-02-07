@@ -1,0 +1,54 @@
+{
+    "platform": "大麦",
+    "project_id": "884786561643",
+    "project_name": "杨丞琳Another STAR限定演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "杨丞琳"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.15 周六 20:00",
+    "session_time": [
+        "03.15 周六"
+    ],
+    "price": "445-1565",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "中国澳门",
+    "venue_name": "威尼斯人综艺馆",
+    "venue_info": {
+        "venue_address": "澳门氹仔 路氹金光大道™ 望德圣母湾大马路 澳门威尼斯人 - 度假村 - 酒店",
+        "lng": 113.566532,
+        "lat": 22.14542
+    },
+    "project_info": "票价说明：澳门币票价MOP： 1680/ 1480/ 1080/ 780/ 480人民币售价CNY：1565元/ 1375元/ 1005元/ 725元/ 445元门票已含境外（含港澳台）服务费\n \n配送说明：本项目门票不支持退换。一人一票，入场时必需持有有效门票。购票成功的客户，请您提前办理好港澳通行证-中国澳门签注。门票将于演出前一周左右寄出。当天如出现遗失或忘带门票情况不予处理，感谢您的支持与理解。\n \n演出介绍：华语流行歌手杨丞琳将于 2025 年 3月 15日登陆澳门威尼斯人®的威尼斯人综艺馆，举办“杨丞琳Another STAR限定演唱会”，通过音乐呈献不一样的旅程。\n \n杨丞琳于2000年加入“4 in Love”组合出道，随后其演艺事业多元发展，在戏剧、音乐、主持、综艺等多领域都取得了令人瞩目的成绩。迄今为止，她共发行了 12 张专辑。\n \n自 2020 年以来，“杨丞琳LIKE A STAR世界巡回演唱会”已于多地举行，大受欢迎。此次登上威尼斯人综艺馆的舞台，她将呈献精心编排、仅此一场的“Another STAR限定演唱会”，以独特的声线与极具感染力的情感表达演绎多首脍炙人口的热门歌曲，包括《暧昧》、《年轮说》及《雨爱》等。杨丞琳期待与歌迷朋友在澳门重逢，一起穿越“任意门”，走进星河之旅。\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01MuYsIu2GdSfso1FbT_!!4611686018427383646-0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01TGzZrt2GdSfrsovgK_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "5753",
+        "wantNumStr": "5753",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "864499128996",
+            "cityName": "深圳站",
+            "showTime": "03.08"
+        },
+        {
+            "itemId": "884786561643",
+            "cityName": "中国澳门站",
+            "showTime": "03.15"
+        },
+        {
+            "itemId": "868872205173",
+            "cityName": "北京站",
+            "showTime": "03.22"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=884786561643"
+}
