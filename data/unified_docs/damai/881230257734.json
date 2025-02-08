@@ -1,0 +1,54 @@
+{
+    "platform": "大麦",
+    "project_id": "881230257734",
+    "project_name": "2025郑润泽「漩涡人生」巡回演唱会-郑州站",
+    "category_name": "演唱会",
+    "artists": [
+        "郑润泽"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.15 周六 19:00",
+    "session_time": [
+        "03.15 周六"
+    ],
+    "price": "398-998",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "郑州",
+    "venue_name": "郑州奥林匹克体育中心 洋河·梦之蓝体育馆",
+    "venue_info": {
+        "venue_address": "郑州市常西湖新区西四环路",
+        "lng": 113.536083,
+        "lat": 34.741025
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN019N6z2f2GdSfqvVoi6_!!4611686018427383646-0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01yxO7UT2GdSfn0DN11_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "26026",
+        "wantNumStr": "2.6万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过74%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "881230257734",
+            "cityName": "郑州站",
+            "showTime": "03.15"
+        },
+        {
+            "itemId": "880022711808",
+            "cityName": "厦门站",
+            "showTime": "03.22"
+        },
+        {
+            "itemId": "881451684793",
+            "cityName": "重庆站",
+            "showTime": "04.19"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=881230257734"
+}

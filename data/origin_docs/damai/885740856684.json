@@ -1,0 +1,698 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：周冰倩",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1580",
+    "cityname": "杭州",
+    "couponTags": "[]",
+    "description": "艺人：周冰倩",
+    "id": "1_1_885740856684",
+    "imgurl": "267473974",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "0",
+    "issuperticket": "0",
+    "isxuanzuo": "1",
+    "name": "HI LIVE | 周冰倩2025真的好想你巡回演唱会",
+    "nameNoHtml": "HI LIVE | 周冰倩2025真的好想你巡回演唱会",
+    "price": "280.0",
+    "price_str": "280-1496",
+    "pricehigh": "1496.0",
+    "privilegeTags": "[]",
+    "projectid": "885740856684",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.03.23 周日 19:30",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "金沙湖大剧院·歌剧厅",
+    "venuecity": "杭州",
+    "venueid": "6442003",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01wpRDBI2GdSfv06Zd8_!!2251059038.png",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "885740856684",
+                    "itemName": "【杭州】HI LIVE | 周冰倩2025真的好想你巡回演唱会",
+                    "generalAgent": {
+                        "generalAgent": "false",
+                        "generalType": "1"
+                    },
+                    "nationalStandardCityId": "330100",
+                    "cityName": "杭州市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01wpRDBI2GdSfv06Zd8_!!2251059038.png",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01wpRDBI2GdSfv06Zd8_!!2251059038.png"
+                            }
+                        ]
+                    },
+                    "showTime": "2025.03.23 周日 19:30",
+                    "showDuration": "约90分钟（无中场休息）",
+                    "showTag": [],
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "可选座",
+                            "tagDesc": "本项目支持自主选座\r\n1. 选择演出时间，并点击“选座购票”进入选座页面\r\n2. 选座后，在确认订单页支付成功，则选座生效\r\n",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票、自助换票",
+                            "tagDesc": "验票入场方式具体以下单后票夹信息为准\r\n\r\n需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagDescWithStyle": "验票入场方式具体以下单后票夹信息为准<br/>需要您在指定的取票地点取票，下单后可通过票夹中的二维码或身份证换取纸质票",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：杭州大丰浙演剧院管理有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：杭州大丰浙演剧院管理有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "872",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p style=\"text-wrap: wrap;\"><span style=\"font-size: 20px; color: #000000;\"><strong>周冰倩2025真的好想你巡回演唱会</strong></span></p>\n<p style=\"text-wrap: wrap;\"><span style=\"font-size: 12px;\"><strong><span style=\"color: #c0392b;\">演出时间：2025年3月23日 19:30</span></strong></span></p>\n<p style=\"text-wrap: wrap;\"><span style=\"font-size: 12px;\"><strong><span style=\"color: #c0392b;\">演出时长：约90分钟（无中场休息）</span></strong></span></p>\n<p style=\"text-wrap: wrap;\"><span style=\"font-size: 12px;\"><strong><span style=\"color: #c0392b;\">演出地点：金沙湖大剧院 · 歌剧厅</span></strong></span></p>\n<p style=\"text-wrap: wrap;\"><span style=\"font-size: 12px;\"><strong><span style=\"color: #c0392b;\">票档：880/680/480/280</span></strong></span></p>\n<p style=\"text-wrap: wrap;\"><span style=\"background-color: #ffff00; font-size: 12px; color: #000000;\">注意：</span></p>\n<p style=\"text-wrap: wrap;\"><span style=\"background-color: #ffff00; font-size: 12px; color: #000000;\">1、一人一票一座，儿童凭票进场</span></p>\n<p style=\"text-wrap: wrap;\"><span style=\"background-color: #ffff00; font-size: 12px; color: #000000;\">2、本场演出允许拍摄</span></p>\n<p style=\"text-wrap: wrap;\"><span style=\"background-color: #ffff00; font-size: 12px; color: #000000;\">3</span><span style=\"background-color: #ffff00; font-size: 12px;\">、本场演出迟到观众有序进场</span><img title=\"\" src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Z96WbV2GdSfuSOGwn_!!2251059038.png\" alt=\"\" width=\"833\" height=\"1259\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"margin: 26px 0 0; padding: 0; line-height: 29px; background: #ffffff;\">周冰倩<span style=\"font-family: 微软雅黑; color: #222222; letter-spacing: 0; font-size: 16px;\"><span style=\"font-family: 微软雅黑;\">真的好想你巡回演唱会</span> <span style=\"font-family: 微软雅黑;\">| 多元华章，乐韵无穷</span></span></p>\n<p style=\"margin: 26px 0 0; padding: 0; line-height: 29px; background: #ffffff;\"><img title=\"\" src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01weMjAs2GdSfr6mcgg_!!2251059038.png\" alt=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"margin-top: auto; margin-bottom: auto; margin-left: 24px;\"><span style=\"font-family: Symbol; letter-spacing: 0; font-weight: bold; font-size: 13px; background: #FFFFFF;\">·&nbsp;</span><strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">1989年</span></strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">: 发行首张个人专辑《我想有个家》，发行量超过一百万盒</span></p>\n<p style=\"margin-top: auto; margin-bottom: auto; margin-left: 24px;\"><span style=\"font-family: Symbol; letter-spacing: 0; font-weight: bold; font-size: 13px; background: #FFFFFF;\">·&nbsp;</span><strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">1991年</span></strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">: 发行专辑《周冰倩二胡高胡》，销量超过十万；同年赴日本发展音乐事业，发行专辑《Passing Love》，并获得多种音乐大奖，被誉为“上海刮来的飓风”</span></p>\n<p style=\"margin-top: auto; margin-bottom: auto; margin-left: 24px;\"><span style=\"font-family: Symbol; letter-spacing: 0; font-weight: bold; font-size: 13px; background: #FFFFFF;\">·&nbsp;</span><strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">1993年</span></strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">: 发行日语专辑《积木的都会》，在东京举行第一次个人演唱会，被誉为中日文化交流的使者</span></p>\n<p style=\"margin-top: auto; margin-bottom: auto; margin-left: 24px;\"><span style=\"font-family: Symbol; letter-spacing: 0; font-weight: bold; font-size: 13px; background: #FFFFFF;\">·&nbsp;</span><strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">1994年</span></strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">: 回国，参与上海人民广播电台JVD冰倩音乐时间的制作，推出专辑《忍耐孤独》，并拍摄12集电视连续剧《新丽人行》</span></p>\n<p style=\"margin-top: auto; margin-bottom: auto; margin-left: 24px;\"><span style=\"font-family: Symbol; letter-spacing: 0; font-weight: bold; font-size: 13px; background: #FFFFFF;\">·&nbsp;</span><strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">1996年</span></strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">: 参加中央电视台元宵晚会，以一曲《真的好想你》在歌坛成名</span></p>\n<p style=\"margin-top: auto; margin-bottom: auto; margin-left: 24px;\"><span style=\"font-family: Symbol; letter-spacing: 0; font-weight: bold; font-size: 13px; background: #FFFFFF;\">·&nbsp;</span><strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">1999年</span></strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">: 出版个人专辑《周冰倩真的好想你》，并出版个人自传《周冰倩-真的好想你》</span></p>\n<p style=\"margin-top: auto; margin-bottom: auto; margin-left: 24px;\"><span style=\"font-family: Symbol; letter-spacing: 0; font-weight: bold; font-size: 13px; background: #FFFFFF;\">·&nbsp;</span><strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">2000年</span></strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">: 出版首张作品集《周冰倩还是最想你》</span></p>\n<p style=\"margin-top: auto; margin-bottom: auto; margin-left: 24px;\"><span style=\"font-family: Symbol; letter-spacing: 0; font-weight: bold; font-size: 13px; background: #FFFFFF;\">·&nbsp;</span><strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">2002年</span></strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">: 出版首张琴歌专辑《二胡情书》，首次将二胡艺术与通俗歌曲完美结合，广受好评</span></p>\n<p style=\"margin-top: auto; margin-bottom: auto; margin-left: 24px;\"><span style=\"font-family: Symbol; letter-spacing: 0; font-weight: bold; font-size: 13px; background: #FFFFFF;\">·&nbsp;</span><strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">2006年</span></strong><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">: 发行中英文双专辑《我这样的女人》，首次在专辑中尝试收录英文歌曲</span></p>\n<p style=\"margin-top: auto; margin-bottom: auto; text-align: justify; text-justify: inter-ideograph;\"><img title=\"\" src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01PWhcz52GdSfszf8I6_!!2251059038.png\" alt=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p style=\"margin-top: auto; margin-bottom: auto;\"><span style=\"font-family: 'Segoe UI'; letter-spacing: 0; font-size: 13px; background: #FFFFFF;\">&nbsp;</span><span style=\"font-family: 微软雅黑; color: #222222; letter-spacing: 0px;\">阔别十载，周冰倩全新重磅回归。此次演唱会，她精心筹备多元曲目篇章，带你领略音乐的广袤天地。原创乐章，倾吐内心的真挚情感与独特感悟，展现非凡的音乐创造力。二胡奏响，弦音幽婉，传统民乐与现代舞台激情碰撞，演绎别样东方神韵。</span><span style=\"font-family: 微软雅黑; color: #222222; letter-spacing: 0px;\">邓丽君经典重现，温婉柔情，带你穿越时光，重温华语乐坛的黄金年代。闽南风歌曲，独特腔调里满是浓郁地域风情，如海风轻拂心灵。怀旧金曲，唤醒尘封记忆，重寻青春的热血与懵懂。草原天籁，宽广旋律勾勒出无垠草原的壮美画卷，让灵魂自由驰骋。网络红歌，紧跟时代节奏，唱响当下的流行与活力。</span><span style=\"font-family: 微软雅黑; color: #222222; letter-spacing: 0px;\">周冰倩以丰富多元的音乐风格，诚挚邀你共赴这场音乐盛宴，一同在旋律的海洋中畅游，感受音乐的无穷魅力与力量。</span></p>\n<p><img title=\"\" src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01oDfrzf2GdSfsWHQyK_!!2251059038.png\" alt=\"\" damai_width=\"null\" damai_height=\"null\"></p>\n<p><span style=\"font-family: 微软雅黑; color: #222222; letter-spacing: 0; font-size: 16px;\">十载光阴，如白驹过隙，周冰倩上一场上海个人演唱会的余音，仿若仍在岁月深处回荡。多少歌迷曾在时光中苦盼，遗憾错过那一场场音乐的盛约。</span></p>\n<p style=\"margin: 26px 0 0; padding: 0; line-height: 29px; background: #ffffff;\"><span style=\"font-family: 微软雅黑; color: #222222; letter-spacing: 0; font-size: 16px;\">如今，她携梦归来，这一轮演唱会，宛如璀璨星辰点亮歌迷心中的暗夜。周冰倩，将以深情之姿，唱响经典乐章。从悠扬婉转的《真的好想你》，到动人心弦的《又想起你》，每一首歌都是岁月的诗行，编织着往昔的青春绮梦。而此次，她将打破舞台的距离，走近每一位歌迷身旁。在互动的欢歌中，与大家携手回溯时光长河，重拾青春里的懵懂心动、热血激昂与温柔情愫。那是属于我们共同的回忆宝盒，一旦开启，便会有感动如潮水般涌来。全国歌迷翘首以盼的时刻已然来临，周冰倩演唱会，是十年遗憾的终结，是青春重逢的起点。来吧，在这音乐的怀抱里，让我们再次与周冰倩一起，唱响青春之歌，共赴一场震撼心灵的音乐盛宴，镌刻下属于这个时代的难忘记忆，从此不再有错过的怅惘。</span></p>\n<p style=\"margin: 26px 0 0; padding: 0; line-height: 29px; background: #ffffff;\"><img title=\"\" src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN015vdls62GdSftHlcvb_!!2251059038.png\" alt=\"\" damai_width=\"null\" damai_height=\"null\"></p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "选座",
+                        "content": "1.本项目部分场次支持自助选座。\r\n2.请根据具体场次进行先选座后支付或在支付完成之后根据订单页面提示选座。"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "支持多种票品验票后入场，如二维码电子票、短信串码。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "一人一票一座，儿童凭票进场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一个订单对应一个证件；证件支持：港澳台居民居住证/护照/港澳居民来往内地通行证/台湾居民来往大陆通行证/身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约90分钟（无中场休息）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约30分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "周冰倩"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "90分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "2",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ]
+                },
+                "venue": {
+                    "venueId": "6442003",
+                    "venueName": "金沙湖大剧院·歌剧厅",
+                    "venueProvinceName": "浙江省",
+                    "venueCityName": "杭州市",
+                    "lng": 120.320478,
+                    "lat": 30.308503,
+                    "venueAddr": "金沙大道与怀柔巷交叉口",
+                    "showCountText": "共有19个演出",
+                    "region": "1",
+                    "venueType": "0"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=885740856684"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "noticeList": [
+                        "场次延改期：因不可抗力原因，原【2025-03-23 19:30:00~2025-03-23 21:30:00】场次调整至【2025-03-23 19:30:00~2025-03-23 21:00:00】，敬请谅解！"
+                    ],
+                    "detailList": [
+                        {
+                            "title": "场次延改期",
+                            "type": "1",
+                            "contentList": [
+                                {
+                                    "performName": "场次：2025/03/23 周日 19:30",
+                                    "content": "因不可抗力原因，原【2025-03-23 19:30:00~2025-03-23 21:30:00】场次调整至【2025-03-23 19:30:00~2025-03-23 21:00:00】，敬请谅解！"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D885740856684%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "1227",
+                        "artistName": "周冰倩",
+                        "archives": "周冰倩生于上海，1979年考入上海音乐学院附小开始二胡专业学习，82年考入上海音乐学院附中，85年升入上海音乐学院大学部，师从二胡名家项祖英。她于1989年录制的个人专辑《我想有个家》，发行量超过一百万盒。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1521704771862/1521704771862-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "1227",
+                        "name": "周冰倩",
+                        "desc": "周冰倩生于上海，1979年考入上海音乐学院附小开始二胡专业学习，82年考入上海音乐学院附中，85年升入上海音乐学院大学部，师从二胡名家项祖英。她于1989年录制的个人专辑《我想有个家》，发行量超过一百万盒。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1521704771862/1521704771862-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "false",
+                    "subFlag": "false",
+                    "wantNumSuffix": "人",
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1739591880000",
+                "sellStartTimeStr": "02月15日 11:58",
+                "countDown": "553441",
+                "rcdt": "553440862",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥280 - ¥1496",
+                "performBases": [
+                    {
+                        "name": "03.23 周日",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1742659200000",
+                        "performs": [
+                            {
+                                "performId": "223109101",
+                                "performName": "2025/03/23 周日 19:30",
+                                "itemId": "885740856684",
+                                "projectId": "224803919",
+                                "chooseSeatType": "1",
+                                "saleForm": "1",
+                                "supportGroup": "false",
+                                "performDate": "1742729400000",
+                                "performTime": "2025.03.23 19:30",
+                                "performStartDate": "2025-03-23",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "itemPromotionTag": [
+                    "2人套票可省264元",
+                    "优惠"
+                ],
+                "hasItemPromotionTag": "true",
+                "promotions": [
+                    {
+                        "tag": "2人套票",
+                        "content": "二等票双人套票816.00元，可省144元\n一等票双人套票1156.00元，可省204元\nVIP双人套票1496.00元，可省264元"
+                    },
+                    {
+                        "tag": "优惠",
+                        "type": "1",
+                        "content": "280元、480元、680元、880元票价打9.00折",
+                        "performanceIds": [
+                            "223109101"
+                        ]
+                    }
+                ],
+                "promotionRemark": "您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "选座购票",
+                "buyBtnStatusAfterCountDown": "206",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "770817",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "658689",
+                    "1481986",
+                    "3060482",
+                    "3001090",
+                    "3196418",
+                    "3246850",
+                    "3247106",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "363585",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "23115",
+                    "1611",
+                    "4939",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "704833",
+                    "2874946",
+                    "3196226",
+                    "3196482",
+                    "3246658",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "466049",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9099",
+                    "14731",
+                    "16267",
+                    "716673",
+                    "37259",
+                    "657793",
+                    "12171",
+                    "9355",
+                    "8843",
+                    "9867",
+                    "2443",
+                    "395",
+                    "1163",
+                    "3196290",
+                    "82369",
+                    "91585",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3196354",
+                    "3246274",
+                    "3246786",
+                    "3247042"
+                ],
+                "promotionList": [
+                    {
+                        "type": "COMBINE",
+                        "tag": "套票",
+                        "isTagList": "false",
+                        "desc": "2人套票8.5折，到手¥1496(票档¥880x2)"
+                    },
+                    {
+                        "type": "SHOP",
+                        "tag": "满减",
+                        "isTagList": "false",
+                        "desc": "¥480票档，满1张打9折"
+                    }
+                ],
+                "promotionDetail": {
+                    "skuPromotionRelations": "885740856684&223109101&5894219799417_103625604622@5894219799418_103625604622@5894219799420_103625604622@5894219799422_103625604622",
+                    "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。",
+                    "promotionGroupList": [
+                        {
+                            "promotionGroupType": "1",
+                            "promotionGroupTypeDesc": "票档优惠",
+                            "promotionList": [
+                                {
+                                    "promotionType": "3",
+                                    "promotionTag": "套票",
+                                    "promotionContentList": [
+                                        "2人套票8.5折，到手¥816(票档¥480x2)",
+                                        "2人套票8.5折，到手¥1496(票档¥880x2)",
+                                        "2人套票8.5折，到手¥1156(票档¥680x2)"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "8.5折，到手1156（票档¥680x2）"
+                                        },
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "8.5折，到手816（票档¥480x2）"
+                                        },
+                                        {
+                                            "skuName": "2人套票",
+                                            "displayContent": "8.5折，到手1496（票档¥880x2）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "promotionGroupType": "2",
+                            "promotionGroupTypeDesc": "满减活动",
+                            "promotionList": [
+                                {
+                                    "promotionType": "4",
+                                    "promotionTag": "满减",
+                                    "promotionContentList": [
+                                        "¥280票档，每满1张打9折",
+                                        "¥480票档，每满1张打9折",
+                                        "¥680票档，每满1张打9折",
+                                        "¥880票档，每满1张打9折"
+                                    ],
+                                    "promotionCategoryDetails": [
+                                        {
+                                            "skuName": "¥480",
+                                            "displayContent": "每满1张打9折"
+                                        },
+                                        {
+                                            "skuName": "¥280",
+                                            "displayContent": "每满1张打9折"
+                                        },
+                                        {
+                                            "skuName": "¥880",
+                                            "displayContent": "每满1张打9折"
+                                        },
+                                        {
+                                            "skuName": "¥680",
+                                            "displayContent": "每满1张打9折"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "1",
+                "statusTips": [],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8857408566/2/885740856684.jpg"
+            }
+        }
+    }
+}
