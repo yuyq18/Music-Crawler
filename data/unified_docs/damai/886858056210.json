@@ -1,0 +1,47 @@
+{
+    "platform": "大麦",
+    "project_id": "886858056210",
+    "project_name": "I'll call you.电话团「桃乐茜的来信」全国专场巡演 太原站",
+    "category_name": "演唱会",
+    "artists": [
+        "I'll call you.电话团"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.04.04 周五 20:00",
+    "session_time": [],
+    "price": "89-189",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "太原",
+    "venue_name": "Booze豪饮俱乐部",
+    "venue_info": {
+        "venue_address": "学府街132号华宇百花谷商业中心",
+        "lng": 112.544979,
+        "lat": 37.807054
+    },
+    "project_info": ",,,,,,",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01xyMyYp2GdSftmN4w7_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01bXVEBx2GdSfvwDFqS_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "885757766197",
+            "cityName": "成都站",
+            "showTime": "03.29"
+        },
+        {
+            "itemId": "886858056210",
+            "cityName": "太原站",
+            "showTime": "04.04"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=886858056210"
+}

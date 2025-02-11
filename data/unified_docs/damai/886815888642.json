@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "886815888642",
+    "project_name": "晓月老板·精选集巡演   大连站",
+    "category_name": "演唱会",
+    "artists": [
+        "晓月老板"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.14 周五 20:00",
+    "session_time": [],
+    "price": "120-150",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "大连",
+    "venue_name": "赫兹空间(佳兆业店)",
+    "venue_info": {
+        "venue_address": "天津街271号佳兆业广场B1层（盒马超市旁）",
+        "lng": 121.637451,
+        "lat": 38.922508
+    },
+    "project_info": " \n晓月老板·精选集巡演\n\n \n月是今朝明，十年月同行，诵明月之诗，歌窈窕之章。又是一年巡演季，春风已载故人来。\n\n \n \n春天见面，是与北方朋友心照不宣的约定。\n \n\n这个春日依旧是春风拂柳的晓月老板，依旧是那个会说相声的民谣歌手。不一样的是，这次的舞台融入了满满的国风元素配上悠扬婉转的戏腔唱法与吉他、贝斯、笛子、鼓的完美融合。\n \n\n \n作为民谣界的相声大师、相声界的口琴达人、以及口琴圈的美妆博主，晓月老板每次都会给我们带来惊喜，这次也不例外。本轮巡演现场还特设点歌环节。那些想听的、要听的、很久没听的直接点歌！\n \n \n\n \n初秋的傍晚，晚风中已带来微微凉意，你是否也想和志同道合们的朋友一起，享受一场自在、松弛的音乐表演，去倾听国风与民谣的碰撞。\n \n这次的巡演将从初秋的北平开始，到11月的江南水乡，到美丽的金陵，到繁华的广深，再到历史悠久的陕西，最终迎来了北境收官，每一站都将有属于自己的音乐记忆，不论你在哪里，我们的足迹遍布全国，只为了赶赴观众们的巡演之约。\n \n \n \n晓月老板· 精选集巡演\n \n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01hHPlC52GdSfuvxTRy_!!4611686018427383646-2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01hrajKt2GdSftsWTyJ_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN019WkLkM2GdSfvjKIWB_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Jw0WuH2GdSfui7UWf_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01ClnbzO2GdSfui23a8_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01rotPBQ2GdSftsW50y_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01erAmN52GdSfumvvaP_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "885825499137",
+            "cityName": "长春站",
+            "showTime": "03.08"
+        },
+        {
+            "itemId": "885826419625",
+            "cityName": "哈尔滨站",
+            "showTime": "03.09"
+        },
+        {
+            "itemId": "886815888642",
+            "cityName": "大连站",
+            "showTime": "03.14"
+        },
+        {
+            "itemId": "886068598430",
+            "cityName": "沈阳站",
+            "showTime": "03.15"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=886815888642"
+}

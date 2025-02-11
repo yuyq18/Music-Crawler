@@ -1,0 +1,257 @@
+{
+    "searchType": "SHOW",
+    "showId": "67a593883696280001b19198",
+    "stdShowId": "67a593883696280001b19197",
+    "showName": "【北京】北京国际流行音乐周 「无论我们在哪里」JO1世界巡回演唱会-北京站",
+    "showDate": "2025.03.23 20:00",
+    "cityName": "北京市",
+    "cityId": "1101",
+    "showStatus": "PENDING",
+    "minOriginalPrice": "280.0",
+    "posterUrl": "https://cdn.ticketmars.com/image/prod/20250210_99/17391781273671034.png",
+    "venueId": "576276820cf2326a5c7e184a",
+    "venueName": "北京展览馆剧场",
+    "backendCategory": "{'code': 17, 'displayName': '演唱会', 'name': 'YanChangHui'}",
+    "isFree": "False",
+    "firstShowTime": "1742731200000",
+    "lastShowTime": "1742736600000",
+    "minOriginalPriceInfo": "{'yuanNum': '280', 'centNum': '', 'suffix': '起', 'prefix': '￥'}",
+    "latestShowTime": "1742731200000",
+    "showSessionDates": "['20250323']",
+    "soldOut": "False",
+    "sessionNum": "1",
+    "seatPlanNum": "5",
+    "rsCode": 200,
+    "basicInfo": {
+        "hotMode": true,
+        "stdShowId": "67a593883696280001b19197",
+        "bizShowId": "67a593883696280001b19198",
+        "showName": "【北京】北京国际流行音乐周 「无论我们在哪里」JO1世界巡回演唱会-北京站",
+        "sourceType": "SELF_BUILT_EXTERNAL_PRODUCE",
+        "originalSeatPickType": "SUPPORT_NONE",
+        "contentUrl": "https://cdn.ticketmars.com/prod/showContent/67a593883696280001b19198/content_67a9c0b9f0fa6f0001f5ac50.content",
+        "posterUrl": "https://cdn.ticketmars.com/image/prod/20250210_99/17391781273671034.png",
+        "posterColor": "#b85352ff",
+        "venueId": "576276820cf2326a5c7e184a",
+        "venueName": "北京展览馆剧场",
+        "venueAddress": "北京市西城区西直门外大街135号（北京展览馆后）",
+        "venueLat": 39.941906,
+        "venueLng": 116.344063,
+        "cityId": "1101",
+        "cityName": "北京市",
+        "onSaleShowCount": 4,
+        "showTags": [],
+        "authorizationUrl": "",
+        "minOriginalPriceInfo": {
+            "yuanNum": "280",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "maxOriginalPriceInfo": {
+            "yuanNum": "980",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "showDate": "2025年03月23日 20:00",
+        "showDuration": "以现场为准",
+        "displayAdvance": false,
+        "venueDisplayAdvance": false,
+        "sessionDisplayAdvance": false,
+        "seatPlanDisplayAdvance": false,
+        "showType": {
+            "name": "YanChangHui"
+        },
+        "showDetailStatus": "PENDING",
+        "existsPrivilegePurchase": false,
+        "displayCountdownTime": true,
+        "captchaSwitch": false,
+        "captchaTypes": []
+    },
+    "additionalInfo": {
+        "hasCoupon": true,
+        "hasPromo": false,
+        "hasAddPurchase": false,
+        "hasUserPromo": false,
+        "hasPCard": false,
+        "hasPriority": false,
+        "hasChannelDiscount": false,
+        "checkChannelFreeCombo": false,
+        "channelPickSeatProject": false,
+        "hasTyingSale": false,
+        "hasJumpGuid": true
+    },
+    "descInfo": {
+        "observationInstructions": [
+            {
+                "key": "TICKETS_AND_ADMISSION",
+                "name": "票品及入场",
+                "value": "纸质票：须携带纸质门票验票入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "SHOW_DURATION",
+                "name": "演出时长",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "MAIN_ACTOR",
+                "name": "主要演员(团体)",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "ENTRY_TIME",
+                "name": "入场时间",
+                "value": "请于开始前约120分钟入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "RESTRICTED_ITEM",
+                "name": "禁止携带物品",
+                "value": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "LUGGAGE_DEPOSIT",
+                "name": "物品寄存",
+                "value": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            },
+            {
+                "key": "MINIMUM_SHOW_DURATION",
+                "name": "最低演出时长",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 7
+            },
+            {
+                "key": "MINIMUM_SHOW_NUMBER",
+                "name": "最低演出曲目",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 8
+            }
+        ],
+        "ticketInstructions": [
+            {
+                "key": "1738904685212",
+                "name": "温馨提示",
+                "value": "温馨提示： \n1、退票/换票规则：票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。 \n2、入场规则：需携带纸质门票验票入场。 \n3、儿童一律凭票入场，且应在家长陪同下进场。\n4、本演出邮寄实体票\n5、座位类型：请按门票对应位置，有序对号入座，本平台不支持选座，同一个订单优先连座。\n6、购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。若演出受不可抗力影响延期或取消，本平台将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需要您自行承担。",
+                "isMarked": true,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "CHILDREN_INTRODUCTION",
+                "name": "儿童购票",
+                "value": "儿童一律凭票入场，且应在家长陪同下进场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "DELIVERY_DESC",
+                "name": "配送信息说明",
+                "value": "不支持修改配送电话、地址等信息",
+                "seq": 3
+            },
+            {
+                "key": "REAL_NAME_PURCHASE_TICKET_INTRODUCTION",
+                "name": "实名购票规则",
+                "value": "一张门票对应一个证件；证件支持：身份证/护照/港澳居民来往内地通行证/台湾居民来往大陆通行证",
+                "isMarked": false,
+                "tagContent": "门票对应唯一证件(身份证/护照/港澳居民来往内地通行证/台湾居民来往大陆通行证)",
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "EXCEPTION_ORDER_INTRODUCTION",
+                "name": "异常排单说明",
+                "value": "对于异常订购行为，商家有权在订单成立或者生效之后取消相应订单。 异常订购行为包括但不限于以下情形： \n（1）通过同一ID订购超出限购张数的订单。 \n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "EXCHANGE_POLICY",
+                "name": "退换政策",
+                "value": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            },
+            {
+                "key": "INVOICE_INTRODUCTION",
+                "name": "发票说明",
+                "value": "电子发票\n发票开具方：主办方\n该项目可申请开具电子发票。该发票由第三方主办提供。订单交易完成后6日将关闭申请。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 7
+            },
+            {
+                "key": "1738908593278",
+                "name": "限购说明",
+                "value": "每个场次限购6张",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 8
+            }
+        ],
+        "markedTextList": [
+            "温馨提示： \n1、退票/换票规则：票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。 \n2、入场规则：需携带纸质门票验票入场。 \n3、儿童一律凭票入场，且应在家长陪同下进场。\n4、本演出邮寄实体票\n5、座位类型：请按门票对应位置，有序对号入座，本平台不支持选座，同一个订单优先连座。\n6、购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。若演出受不可抗力影响延期或取消，本平台将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需要您自行承担。"
+        ]
+    },
+    "jumpGuide": {
+        "targetChannelId": "628204fd34123604c4352210",
+        "targetChannelType": "WX_MINI_PROGRAM",
+        "jumpGuideText": "前往票星球微信小程序购买",
+        "jumpGuideErrorText": "该项目仅允许在票星球微信小程序购买"
+    },
+    "noteInfos": [
+        {
+            "name": "不支持七天无理由退换",
+            "value": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+            "type": false,
+            "code": "NO_SUPPORT_REFUND"
+        },
+        {
+            "name": "实名观演",
+            "value": "一张门票对应一个证件；证件支持：身份证/护照/港澳居民来往内地通行证/台湾居民来往大陆通行证",
+            "type": true,
+            "code": "REAL_NAME_TICKET"
+        },
+        {
+            "name": "快递送票",
+            "value": "纸质票会在开票后使用快递方式配送到您留下的收货地址，需您承担快递费用。注：当下单时距离演出的天数小于本节目最小配送天数时，不再支持快递送票（具体以下单时的提示信息为准）",
+            "type": true,
+            "code": "EXPRESS"
+        },
+        {
+            "name": "发票说明",
+            "value": "电子发票\n发票开具方：主办方\n该项目可申请开具电子发票。该发票由第三方主办提供。订单交易完成后6日将关闭申请。",
+            "type": false,
+            "code": "BILL_APPLY",
+            "desc": "发票"
+        }
+    ],
+    "announcement": [],
+    "whiteTags": [],
+    "watcherReplacer": "观演"
+}

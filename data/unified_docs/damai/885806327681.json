@@ -1,0 +1,47 @@
+{
+    "platform": "大麦",
+    "project_id": "885806327681",
+    "project_name": "A公馆「浪潮滚滚」2025巡演 长沙站",
+    "category_name": "演唱会",
+    "artists": [
+        "A公馆乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.02.28 周五 20:00",
+    "session_time": [],
+    "price": "100-150",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "长沙",
+    "venue_name": "MAO Livehouse长沙(沙湾店)",
+    "venue_info": {
+        "venue_address": "黎托街道劳动东路268号吉联Mall内1层1009商铺",
+        "lng": 113.046661,
+        "lat": 28.156541
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01eqdrOE2GdSfwU7F8C_!!4611686018427383646-2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01RAcfSL2GdSflB8tqO_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "885806327681",
+            "cityName": "长沙站",
+            "showTime": "02.28"
+        },
+        {
+            "itemId": "881109365912",
+            "cityName": "郑州站",
+            "showTime": "03.07"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=885806327681"
+}

@@ -1,0 +1,47 @@
+{
+    "platform": "大麦",
+    "project_id": "885757766197",
+    "project_name": "I'll call you.电话团「桃乐茜的来信」全国专场巡演 成都站",
+    "category_name": "演唱会",
+    "artists": [
+        "I'll call you.电话团"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.29 周六 20:00",
+    "session_time": [],
+    "price": "89-189",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "成都",
+    "venue_name": "LITTLE LIVE (小酒馆万象城店)",
+    "venue_info": {
+        "venue_address": "成都市成华区双庆路8号万象城A馆B1层B120号",
+        "lng": 104.116786,
+        "lat": 30.650007
+    },
+    "project_info": ",,,,,,",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01syzaPG2GdSfuMaCwe_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01AMmsVR2GdSfvCanot_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "885757766197",
+            "cityName": "成都站",
+            "showTime": "03.29"
+        },
+        {
+            "itemId": "886858056210",
+            "cityName": "太原站",
+            "showTime": "04.04"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=885757766197"
+}
