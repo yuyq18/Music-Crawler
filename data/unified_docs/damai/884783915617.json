@@ -1,0 +1,77 @@
+{
+    "platform": "大麦",
+    "project_id": "884783915617",
+    "project_name": "keshi 2025 Tour 北京站",
+    "category_name": "演唱会",
+    "artists": [
+        "KESHI"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.23 周日 19:00",
+    "session_time": [],
+    "price": "价格待定",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "华熙LIVE·五棵松·场馆",
+    "venue_info": {
+        "venue_address": "北京海淀区复兴路69号",
+        "lng": 116.280709,
+        "lat": 39.9083
+    },
+    "project_info": "【开场嘉宾】- 19:00 - 19:35\n【转场换台】- 19:35 - 19:50\n【keshi正式演出】- 19:50 开始\n*以上时间如有调整，请以现场为准。\n \n备受赞誉的休斯顿出生的歌手、词曲作者、制作人及多乐器演奏家keshi即将带着他的第二张专辑《Requiem》，强势回归中国大陆！今年3月，keshi将携专辑同名巡演Requiem World Tour登陆广州、南京、深圳、成都、上海、武汉、北京，带来直达人心的音乐现场。\n \n本次世界巡演已于去年10月6日在多伦多的Scotiabank Arena拉开帷幕，途经纽约Madison Square Garden、洛杉矶Kia Forum、旧金山Chase Center等著名场地，覆盖北美、欧洲、澳大利亚和亚洲的众多标志性场馆。随后于12月前往欧洲，2月抵达澳大利亚和新西兰，并将在2月至3月间登陆亚洲。\n \n《Requiem》于2024年9月13日由Island Records正式发行。专辑的开篇之作——单曲Say及其引人入胜的MV，不仅开启了keshi在这张作品中所构想的宏大音乐叙事，更是在发布的首日便在Spotify上创造了超过100万次的播放记录，刷新了他个人最快流媒体增长速度的新纪录。\n \n近年来，keshi已经成长为流媒体领域的一股不可忽视的力量。他的三张EP以及2022年发布的首张全长专辑《GABRIEL》，累计获得了逾110亿次的播放量。凭借其优质的音乐作品，keshi获得了全球巡回演出的机会，且场场售罄，并且每一次表演都在不断打磨和提升他的现场演出水准与制作水准。继去年在纽约无线电城音乐厅（Radio City Music Hall）和洛杉矶希腊剧院（The Greek Theatre）连续两晚的辉煌售罄演出之后，keshi再次挑战自我，为本次场馆级别巡演精心准备了一系列令人翘首以待的新作品，中国巡演即将在3月开启。\n\nkeshi，本名Casey Luong，已经崛起为一位顶级的音乐创意炼金师，他将悠扬的旋律与富有创新精神及沉浸式的音景巧妙叠加。他从德克萨斯州的休斯顿崭露头角，凭借EP三部曲——skeletons（2019年）、bandaids（2020年）和always（2020年）——迅速获得了人们的关注。此外，他还为漫威电影《尚气与十环传奇》的原声专辑贡献了歌曲War With Heaven。诸如YSL、Fender、Microsoft和Fendi等品牌也纷纷向他寻求合作。\n \n2022年，随着首张全长专辑《GABRIEL》的发行，keshi迎来了事业的高峰。这张专辑在全球范围内收获了数十亿次的播放量，其中LIMBO、UNDERSTAND、GET IT等单曲功不可没。keshi不仅赢得了“2022年最佳出道新人”的赞誉，还创下了“年度首周销量最高的新人专辑”纪录，成功打入Billboard 200榜单前20名和Top Album Sales Chart前5名。《GABRIEL》不仅证明了keshi作为头部艺人的实力，还让他在美国纽约的Radio City Music Hall和洛杉矶的The Greek Theatre成功举办了两场售罄演出，\n \n如今，keshi正带着2024年诞生的《Requiem》开启全球体育馆巡回演唱会，将所有人带入他的音乐世界。",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01umEyxm2GdSfwS4LGv_!!4611686018427383646-0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01g8tR6a2GdSfv774B1_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "1158",
+        "wantNumStr": "1158",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "877491681135",
+            "cityName": "南京站",
+            "showTime": "03.11"
+        },
+        {
+            "itemId": "877774944676",
+            "cityName": "上海站",
+            "showTime": "03.18-03.19"
+        },
+        {
+            "itemId": "880120978144",
+            "cityName": "武汉站",
+            "showTime": "03.21"
+        },
+        {
+            "itemId": "884783915617",
+            "cityName": "北京站",
+            "showTime": "03.23"
+        },
+        {
+            "itemId": "880613893512",
+            "cityName": "广州站",
+            "showTime": "03.09"
+        },
+        {
+            "itemId": "877095010794",
+            "cityName": "深圳站",
+            "showTime": "03.13"
+        },
+        {
+            "itemId": "877731976336",
+            "cityName": "成都站",
+            "showTime": "03.15"
+        },
+        {
+            "itemId": "824394106090",
+            "cityName": "中国香港站",
+            "showTime": "02.21"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=884783915617"
+}
