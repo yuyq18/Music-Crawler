@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "887798572580",
+    "project_name": "马来西亚 “dream pop”名团【babychair】2025巡演广州站",
+    "category_name": "演唱会",
+    "artists": [
+        "babychair"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.05.17 周六 20:00",
+    "session_time": [],
+    "price": "128-268",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "广州",
+    "venue_name": "MAO Livehouse广州中大店(二号馆)",
+    "venue_info": {
+        "venue_address": "广州市海珠区新港西路82号中大门城市之丘东3楼3501铺",
+        "lng": 113.292415,
+        "lat": 23.091616
+    },
+    "project_info": "【VIP权益】\n1、可优先排队入场。\n2、babychair巡演海报限量版。\n3、演出结束后签名合影环节。\n\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01K0iMO02GdSfxIBWBf_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01iXKsqi2GdSfwmmxFH_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "41",
+        "wantNumStr": "41",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "887045790565",
+            "cityName": "成都站",
+            "showTime": "04.19"
+        },
+        {
+            "itemId": "886802459373",
+            "cityName": "深圳站",
+            "showTime": "05.16"
+        },
+        {
+            "itemId": "887798572580",
+            "cityName": "广州站",
+            "showTime": "05.17"
+        },
+        {
+            "itemId": "887195147464",
+            "cityName": "上海站",
+            "showTime": "06.07"
+        },
+        {
+            "itemId": "887442925627",
+            "cityName": "南京站",
+            "showTime": "06.08"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=887798572580"
+}

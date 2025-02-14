@@ -1,0 +1,72 @@
+{
+    "platform": "大麦",
+    "project_id": "887442953829",
+    "project_name": "后街男孩-NICK CARTER 2025 WHO I AM 巡回演唱会·杭州站",
+    "category_name": "演唱会",
+    "artists": [
+        "尼克·卡特(Nick Carter)"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.02.27 周四 19:30",
+    "session_time": [],
+    "price": "380-780",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "杭州",
+    "venue_name": "LiveShop Uni由你现场",
+    "venue_info": {
+        "venue_address": "武林之星博览中心2号楼",
+        "lng": 120.182429,
+        "lat": 30.299568
+    },
+    "project_info": "\nNick Carter 12岁便开始了自己的职业生涯，迅速成为了流行明星，成为标志性男孩乐队Backstreet Boys中的成员。凭借他的青春外貌和偶像地位，卡特的30年娱乐生涯早已远远超越了售罄的音乐会场，涵盖了电视、电影、慈善事业和出版等多个领域。Backstreet Boys被誉为畅销的男孩乐队之一。自1995年以来，Backstreet Boys已经销售超过1.3亿张专辑并获得了5项格莱美奖提名以及无数的公告牌奖、MTV视频音乐奖、美国音乐奖、RIAA奖、人民选择奖，还在标志性的好莱坞星光大道上获得了荣誉星星。\n\n2002年，卡特开始了个人音乐生涯，他的专辑《Now or Never》在Billboard 200榜单上亮相便排名第17，并在美国、日本和加拿大获得了金唱片认证。这标志着他个人事业的起步，进一步巩固了他作为Backstreet Boys成员的明星地位。卡特在2023年发布的单曲《Hurts to Love You》成为了他成功的作品，进入了七个音乐榜单，并在美国、加拿大取得了优异成绩。\n\n随着时间的流逝，Nick Carter不仅凭借Backstreet Boys的辉煌成就赢得了乐迷的心，也通过个人音乐作品和多元化的娱乐事业证明了自己在音乐和演艺领域的多才多艺。而在2025年，Nick Carter将带着他的个人音乐作品，展开一场令人期待的巡演。\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01yAnQiY2GdSfyCvm6J_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ugSWvF2GdSfwvPwPI_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN015ir0KI2GdSfwhJnGC_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN015h3A6X2GdSfwhHqdM_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01XKwqD22GdSfw7lpxr_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Gv1HYp2GdSfx743RQ_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01CIGBTm2GdSfuh0k1t_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "887442953829",
+            "cityName": "杭州站",
+            "showTime": "02.27"
+        },
+        {
+            "itemId": "886351507884",
+            "cityName": "深圳站",
+            "showTime": "03.04"
+        },
+        {
+            "itemId": "880291138899",
+            "cityName": "上海站",
+            "showTime": "03.02"
+        },
+        {
+            "itemId": "876096368158",
+            "cityName": "成都站",
+            "showTime": "03.07"
+        },
+        {
+            "itemId": "872556693425",
+            "cityName": "广州站",
+            "showTime": "03.08"
+        },
+        {
+            "itemId": "881959600060",
+            "cityName": "北京站",
+            "showTime": "03.09"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=887442953829"
+}

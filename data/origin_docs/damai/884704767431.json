@@ -1,0 +1,626 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1038",
+    "cityname": "南京",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_884704767431",
+    "imgurl": "257113082",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "四熹丸子（徐化文）「秋风」巡回演唱会—南京站",
+    "nameNoHtml": "四熹丸子（徐化文）「秋风」巡回演唱会—南京站",
+    "price": "168.0",
+    "price_str": "168-788",
+    "pricehigh": "788.0",
+    "privilegeTags": "[]",
+    "projectid": "884704767431",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.03.29 周六 19:30",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "南京太阳宫",
+    "venuecity": "南京",
+    "venueid": "58009",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01JJ0Z4J2GdSfsvro0u_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "884704767431",
+                    "itemName": "【南京】四熹丸子（徐化文）「秋风」巡回演唱会—南京站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "320100",
+                    "cityName": "南京市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01JJ0Z4J2GdSfsvro0u_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01JJ0Z4J2GdSfsvro0u_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://item-cdn.damai.cn/86d1207c541d49a4898c10012792eb93.jpg",
+                    "seatImages": [
+                        "https://item-cdn.damai.cn/86d1207c541d49a4898c10012792eb93.jpg"
+                    ],
+                    "performSeatImages": [],
+                    "showTime": "2025.03.29 周六 19:30",
+                    "showDuration": "约100分钟，仅供参考，最终以现场实际时长为准",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持退",
+                            "tagDesc": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过票夹中的二维码验票入场",
+                            "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：南京太阳谷文化发展有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：南京太阳谷文化发展有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "1038",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01MSC93P2GdSfrEQ7Uc_!!2251059038.jpg\" width=\"1500\" height=\"763\" damai_width=\"1500\" damai_height=\"763\"></p>\n<p>四熹丸子（徐化文）「秋风」巡回演唱会—南京站<br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01U31fF02GdSftxb6OD_!!2251059038.png\" width=\"1020\" height=\"1360\" damai_width=\"1020\" damai_height=\"1360\"><br>听四熹丸子徐化文唱歌，是一场耳朵的盛宴。她拥有着宛如莫文蔚般醇厚迷人的嗓音，又带着王若琳独有的慵懒随性质感 ，一开口，音符就像有了生命，在空气中跳跃、流淌，瞬间抓住你的心。无论是深情款款的情歌，还是慵懒惬意的小调，她都能凭借独特的音色，唱出不一样的味道，让人沉浸其中，百听不厌。快来感受她的音乐魅力，一起在她的歌声里，找寻专属的感动与共鸣 ！<br>如今，这位拥有魔力嗓音的歌者即将踏上个人巡回演唱会的征程。这绝非一场普通的音乐聚会，而是一场用声音雕琢的奇幻旅程。在精心布置的舞台上，灯光将为她的嗓音添彩，每一句歌词都将在空气中跳跃、回荡，直抵你的心灵深处。<br>从往昔的经典旋律，到精心筹备的新作首秀，徐化文将用她的嗓音绘制出一幅绚丽多彩的音乐长卷。这是她与歌迷的约定，一次用独特嗓音串联起的情感纽带。来吧，让我们沉浸在徐化文的声浪之中，见证她用声音征服舞台、点亮每一座城市夜空的辉煌时刻，开启这场一生必赴的音乐之约！</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01nlxf5e2GdSfr9INGA_!!2251059038.png\" width=\"1285\" height=\"1927\" damai_width=\"1285\" damai_height=\"1927\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01bQZXNX2GdSfr9FUOG_!!2251059038.png\" width=\"1084\" height=\"1625\" damai_width=\"1084\" damai_height=\"1625\"></p>\n<p>【个人经历】<br>- 2017年入驻抖音视频平台，2021年6月9日发布最早的作品《Emotion is not only》。<br>- 2023年5月30日，在入驻抖音第2047天后，抖音账号粉丝量突破三十万。<br>- 2024年8月28日，其在录音棚唱歌的视频《要成为厉害的大人保护自己的孩子气》获得61.4万个点赞。<br>- 2024年11月8日，参加校园live计划·炙热声浪演唱会，为北化师生带来歌曲《秋风》。<br>- 2024年11月15日，作为音乐推荐人参加浙江卫视和腾讯视频联合出品的《有歌2024》第六期“创榜赛”终章。<br>- 2024年12月17日，参加《看见音乐计划·年度盛典》。年度十大音乐人<br>2024年12月24日，四熹丸子徐化文版的《天亮以前说再见》全网上线，引发了乐迷们的热烈讨论。一周点缀量破1000万！抖音播放量200亿。一周涨粉200万</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01886FRm2GdSfqzihbz_!!2251059038.png\" width=\"1064\" height=\"528\" damai_width=\"1064\" damai_height=\"528\"></p>\n<p>【代表作品】<br><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01XOQePK2GdSfsYiYAP_!!2251059038.png\" width=\"1104\" height=\"382\" damai_width=\"1104\" damai_height=\"382\"><br>- 《一个人生活》：延续了四熹丸子典型的伤感情歌路线，以细腻的歌词和舒缓的旋律，表达了失去爱情后的痛苦与坚强。<br>- 《秋风》：在简单的旋律中吟唱出非凡的人生历程与人情冷暖，与杨坤合作时，杨坤精准捕捉歌曲的深层意蕴，巧妙地将歌曲编排得如同娓娓道来的叙事诗一般。<br>- 《天亮以前说再见》全网上线，引发了乐迷们的热烈讨论。一周点缀量破500万丸子版的上线引发了乐迷们的广泛关注和热烈讨论，许多乐迷表示，这首翻唱版本让他们重新感受到了这首经典歌曲的魅力，同时也对徐化文的实力和才华给予了高度评价。随着音乐市场的不断发展，翻唱作品逐渐成为一种流行趋势，徐化文版《天亮以前说再见》的成功上线，不仅为翻唱市场注入了新的活力，也为更多优秀的翻唱作品提供了展示的平台。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Xj7a2P2GdSfs6mgLA_!!2251059038.png\" width=\"506\" height=\"666\" damai_width=\"506\" damai_height=\"666\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01YbEOwL2GdSftQvZvs_!!2251059038.png\" width=\"619\" height=\"673\" damai_width=\"619\" damai_height=\"673\"><br><br>她擅长用细腻的嗓音去描绘爱情中的甜蜜与苦涩，能在简单旋律中吟唱出非凡的人生历程与人情冷暖，将生活中的点滴情感融入到音符之中，如《一个人生活》，以舒缓的旋律和细腻的嗓音，把失去爱情后的痛苦与坚强展现得淋漓尽致，让听众仿佛置身于歌曲所营造的情感世界中，引发强烈的共鸣。<br><br>*极具辨识度 <br>徐化文的嗓音有一种独特的韵味，就像在《秋风》中，她与杨坤合作，其嗓音在与杨坤的配合中凸显出自己的特色，让人一听就能在众多歌手中分辨出来，如同她在抖音上发布的唱歌视频，很多粉丝都是被她极具辨识度的嗓音所吸引。<br><br>*声音治愈性强 <br>她的嗓音犹如一股清泉，悠悠的小调调给人一种治愈、静心的感觉，让人仿佛漫步在老上海的街口，能在快节奏的生活中为听众带来心灵的慰藉和片刻的宁静，使人们沉浸在她所营造的音乐氛围中，忘却烦恼和疲惫。</p>\n<p>*叙事性强<br>她可以巧妙地将歌曲编排得如同娓娓道来的叙事诗一般，通过对声音的强弱、快慢、高低等技巧的运用，把歌曲中的故事生动地讲述出来，让听众更深入地理解歌曲的内涵和情感，仿佛在听她讲述一个动人的故事。</p>\n<p>&nbsp;</p>\n<p>【各大平台数据】<br><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01x8GS3L2GdSflyU3sI_!!2251059038.png\" width=\"1163\" height=\"588\" damai_width=\"1163\" damai_height=\"588\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01H2ckFE2GdSfqJca2j_!!2251059038.png\" width=\"1156\" height=\"583\" damai_width=\"1156\" damai_height=\"583\"></p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01qW75Pj2GdSfr9MjpA_!!2251059038.png\" width=\"1157\" height=\"500\" damai_width=\"1157\" damai_height=\"500\"></p>\n<p>【演出现场】<br><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01dVh0912GdSfsw4tgQ_!!2251059038.png\" width=\"1160\" height=\"649\" damai_width=\"1160\" damai_height=\"649\"></p></body></html>",
+                    "otherContent": [],
+                    "approvalVO": {
+                        "approvalUrlList": [],
+                        "approvalAuthorizationUrlList": [],
+                        "enterpriseInfo": {
+                            "cpName": "南京太阳谷文化发展有限公司",
+                            "socialCreditCode": "91320102088030246D",
+                            "legalPerson": "张丽林",
+                            "regCapStr": "12000万人民币",
+                            "opFrom": "",
+                            "opTo": "",
+                            "entType": "有限责任公司(非自然人投资或控股的法人独资)",
+                            "entAddress": "南京市玄武区阳光路3号"
+                        }
+                    }
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    },
+                    {
+                        "title": "转送说明",
+                        "content": "本项目支持电子票转送，转送功能将在演出前24小时关闭。（注：当前仅支持大麦下单用户，暂不支持淘宝／天猫，支付宝本地生活下单用户发起转送，仅支持大麦APP发起和接收转送票品）"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买6张、每个账号最多购买6张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                                },
+                                {
+                                    "title": "配送信息说明",
+                                    "content": "不支持修改配送电话、地址等信息"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须打开【票夹】扫码入场，截图无效。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：护照/港澳台居民居住证/身份证/港澳居民来往内地通行证/台湾居民来往大陆通行证/外国人永久居留身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约100分钟，仅供参考，最终以现场实际时长为准"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约60分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "徐化文"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "100分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                },
+                                {
+                                    "title": "转送说明",
+                                    "content": "本项目支持电子票转送，转送功能将在演出前24小时关闭。（注：当前仅支持大麦下单用户，暂不支持淘宝／天猫，支付宝本地生活下单用户发起转送，仅支持大麦APP发起和接收转送票品）"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "58009",
+                    "venueName": "南京太阳宫",
+                    "venueProvinceName": "江苏省",
+                    "venueCityName": "南京市",
+                    "lng": 118.812905,
+                    "lat": 32.064582,
+                    "venueAddr": "江苏省南京市太平门阳光路3号",
+                    "showCountText": "共有5个演出",
+                    "region": "1",
+                    "venueType": "0"
+                },
+                "returnPolicy": {
+                    "supportReturn": "false",
+                    "returnPolicy": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。"
+                },
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "要不要看呢？去问问ta吧😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=884704767431"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D884704767431%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [],
+                "brands": [],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "1007",
+                    "wantNumStr": "1007",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "人气飙升中",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN01so1NLY1lEx3KreQfP_!!6000000004788-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotos/845465/169093165.jpg",
+                        "https://img.alicdn.com/imgextra/i2/O1CN01eyTYni1zTyfPuGS9Z_!!6000000006716-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/465260/93052134_1696351649763.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01HRvUZB1lBHsggFFau_!!6000000004780-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1739937480000",
+                "sellStartTimeStr": "02月19日 11:58",
+                "countDown": "380480",
+                "rcdt": "380479722",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥168 - ¥788",
+                "performBases": [
+                    {
+                        "name": "03.29 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1743177600000",
+                        "performs": [
+                            {
+                                "performId": "222178336",
+                                "performName": "2025-03-29  周六 19:30",
+                                "itemId": "884704767431",
+                                "projectId": "224840002",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1743247800000",
+                                "performTime": "2025.03.29 19:30",
+                                "performStartDate": "2025-03-29",
+                                "performBeginTime": "19:30",
+                                "singleLimit": "6",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售，正式开票后将第一时间配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "预约抢票",
+                "buyBtnTipAfterCountDown": "提前选票档 抢票更丝滑",
+                "buyBtnStatusAfterCountDown": "90",
+                "itemTags": [
+                    "120577",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "249858",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "770817",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "658689",
+                    "3060482",
+                    "3001090",
+                    "3196418",
+                    "3246850",
+                    "3247106",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "363585",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "591425",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "23115",
+                    "1611",
+                    "4939",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "704833",
+                    "2874946",
+                    "3196226",
+                    "3196482",
+                    "3246658",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "466049",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9099",
+                    "14731",
+                    "16267",
+                    "716673",
+                    "37259",
+                    "657793",
+                    "12171",
+                    "9355",
+                    "8843",
+                    "9867",
+                    "2443",
+                    "395",
+                    "1163",
+                    "3196290",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3196354",
+                    "3246274",
+                    "3246786",
+                    "3247042"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "6",
+                "statusTips": [
+                    "<span style=\"color: #69717C\"><b>预售</b> | 本商品为预售，正式开票后将第一时间配票</span>"
+                ],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8847047674/2/884704767431.jpg"
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "platform": "大麦",
+    "project_id": "886536386088",
+    "project_name": "Zkaaai-2025巡演宁波站",
+    "category_name": "演唱会",
+    "artists": [
+        "zkaaai"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.04.26 周六 20:00",
+    "session_time": [],
+    "price": "128-328",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "宁波",
+    "venue_name": "宁波灯塔音乐现场(U-park店)",
+    "venue_info": {
+        "venue_address": "宁波市海曙区学院路788号U-PARK商业公园B4栋1楼",
+        "lng": 121.484258,
+        "lat": 29.886234
+    },
+    "project_info": "Zkaaai-2025全国巡演\n【SVIP权益】\n1、可优先排队入场（优先购买签名海报 每场限50张）\n2、赠送zkaaai最新实体专辑《未完结的爱》，包含明信片1/10亲签隐藏款。\n3、演出结束后包含45秒To签合影环节。\n4、赠送棒球帽or帆布包+一对冰箱贴\n【VIP权益】\n1、可优先排队入场（优先购买签名海报 每场限50张）\n2、赠送zkaaai最新实体专辑《未完结的爱》，包含明信片1/10亲签隐藏款。\n3、演出结束后包含45秒To签合影环节。\n（注：预售及全价可现场购买专辑/周边/签名海报 无To签合影环节）\n\nZkaaai，一位用歌声勾勒浪漫天际的“伤感系第一女声”，将以更成熟的唱作人身份开启2025年的个人全国巡演！\nZkaaai是甜美与忧郁的矛盾体，是“用歌声画海”的独立唱作人。从翻唱金曲的惊艳破茧到原创音乐的深邃沉淀，她以《失去》《蓝色灰色》《万千》等撕去标签，用不加修饰的真诚直击人心。2025年全国巡演，除了经典翻唱《有一种悲伤》《Wonderful U》《迟来的情话》等，她将携全新专辑《未完结的爱》，带你在音乐的潮汐中沉溺、治愈、重生。\n\n从25城到∞，一场双向奔赴的成长仪式。2024年，她带着初生锋芒穿过25座城市的星光，一起见证她从初见的青涩到熟稔；2025年，淬炼后的Zkaaai以「个人作词作曲创作全专」《未完结的爱》为舟，用《写给你的》、《未完结的爱》、《陪我》、《虚度光阴》、《没办法》、《清醒》，邀你见证从翻唱女孩到独立唱作人的又一个崭新的里程。\n如同等待未拆开的礼物，期待一次次在现场相见！\n\n“当她的声音漫过耳际，我们终于读懂——忧郁是深海馈赠的宝石，而治愈，是潮汐往复的永恒浪漫。”\n2025，让Zkaaai的声线成为丈量你灵魂深度的标尺。",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01gKXZtZ2GdSfvwbLAl_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN016cJLfh2GdSfxKr5dz_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01IkTiY72GdSfxKuJLE_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01pyHcAr2GdSfuO6qIL_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "35",
+        "wantNumStr": "35",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "886156425928",
+            "cityName": "苏州站",
+            "showTime": "04.18"
+        },
+        {
+            "itemId": "886912485029",
+            "cityName": "南京站",
+            "showTime": "04.19"
+        },
+        {
+            "itemId": "886280679274",
+            "cityName": "温州站",
+            "showTime": "04.25"
+        },
+        {
+            "itemId": "886536386088",
+            "cityName": "宁波站",
+            "showTime": "04.26"
+        },
+        {
+            "itemId": "887300452224",
+            "cityName": "深圳站",
+            "showTime": "05.10"
+        },
+        {
+            "itemId": "886945485803",
+            "cityName": "上海站",
+            "showTime": "05.16"
+        },
+        {
+            "itemId": "887082737605",
+            "cityName": "杭州站",
+            "showTime": "05.17"
+        },
+        {
+            "itemId": "886946873291",
+            "cityName": "福州站",
+            "showTime": "05.23"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=886536386088"
+}
