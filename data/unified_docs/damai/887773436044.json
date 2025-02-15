@@ -1,0 +1,59 @@
+{
+    "platform": "大麦",
+    "project_id": "887773436044",
+    "project_name": "任贤齐《齐迹2025演唱会》北京站",
+    "category_name": "演唱会",
+    "artists": [
+        "任贤齐"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.07.05-07.13",
+    "session_time": [],
+    "price": "价格待定",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "首都体育馆",
+    "venue_info": {
+        "venue_address": "北京市海淀区中关村南大街56号",
+        "lng": 116.327338,
+        "lat": 39.940287
+    },
+    "project_info": "任贤齐“齐迹”演唱会由2019年开始，已经在世界各地演出超过100场。\n每一个现场都给观众带来沉浸式的视听盛宴，\n熟悉的旋律一响，瞬间将大家带回青春岁月。\n\n青春也许不再，但岁月永远长流\n任贤齐的歌陪着我们长大，\n见证了我们青春的欢笑与泪水，\n我们陪着他一路走来，\n他的歌是青春永不落幕的回忆。\n\n“齐迹”2025任贤齐演唱会，将再次提升节目及舞台效果！\n让大家再次更感受不一样的现场气氛。\n继续带大家返回年少无忧的时光，\n重温每段友情、爱情、亲情的感动。\n\n一起加入崭新的“齐迹”旅程，共同续写感动！\n共同与大家继续迈向下一个奇迹！",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01Bh3V8m2GdSfyDj7QP_!!4611686018427383646-0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01b87Odp2GdSfqIEmHi_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01s8s5eW2GdSfwrj9Hl_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01CveVtT2GdSfxJDIKs_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "18972",
+        "wantNumStr": "1.9万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过69%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "884020925272",
+            "cityName": "南京站",
+            "showTime": "05.01-05.03"
+        },
+        {
+            "itemId": "887414730464",
+            "cityName": "昆明站",
+            "showTime": "05.24"
+        },
+        {
+            "itemId": "887418702066",
+            "cityName": "深圳站",
+            "showTime": "05.31-06.01"
+        },
+        {
+            "itemId": "887773436044",
+            "cityName": "北京站",
+            "showTime": "07.05-07.13"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=887773436044"
+}
