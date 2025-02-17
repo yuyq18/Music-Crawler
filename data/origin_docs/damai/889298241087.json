@@ -1,0 +1,527 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：帆布小镇乐队",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "200",
+    "cityname": "重庆",
+    "couponTags": "[]",
+    "description": "艺人：帆布小镇乐队",
+    "id": "1_1_889298241087",
+    "imgurl": "303047818",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "帆布小镇「花絮」2025巡演 重庆站",
+    "nameNoHtml": "帆布小镇「花絮」2025巡演 重庆站",
+    "price": {
+        "range": "120-199"
+    },
+    "price_str": "120-199",
+    "pricehigh": "199.0",
+    "privilegeTags": "[]",
+    "projectid": "889298241087",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.05.23 周五 20:00",
+    "sitestatus": "16",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": {
+        "lat": 29.582851,
+        "lng": 106.526558,
+        "region": "1",
+        "showCountText": "6个演出",
+        "venueAddr": "重庆市江北区建新北路观音桥龙湖新壹街c馆F1层1f",
+        "venueCityName": "重庆市",
+        "venueId": "1206002",
+        "venueName": "重庆VOX LIVEHOUSE",
+        "venueProvinceName": "重庆",
+        "venueType": "0"
+    },
+    "venuecity": "重庆",
+    "venueid": "1206002",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01m2dIER2GdSfzNazQD_!!4611686018427383646-0-item_pic.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "成都与她文化传播有限公司",
+            "entAddress": "四川省成都市金堂县赵镇街道朝阳街555号1栋2层547号附202号",
+            "entType": "有限责任公司(自然人投资或控股)",
+            "legalPerson": "吕秀丽",
+            "opFrom": "",
+            "opTo": "",
+            "regCapStr": "10万人民币",
+            "socialCreditCode": "91510121MA62N96X8D"
+        }
+    },
+    "buyButton": {
+        "afterCountdown": {
+            "origin": "1",
+            "status": "204",
+            "text": "立即购票"
+        },
+        "origin": "2",
+        "status": "106",
+        "text": "预约抢票",
+        "tip": "提前选票档 抢票更丝滑"
+    },
+    "countdown": {
+        "countdown": "38601",
+        "rcdt": "38600322",
+        "sellStartTime": "1739854800000",
+        "sellStartTimeStr": "02月18日 13:00"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01GB1T752GdSg2ohl0y_!!2251059038.jpg\" width=\"1020\" height=\"1360\" damai_width=\"1020\" damai_height=\"1360\"></p>\n<p>&nbsp;</p>\n<section>\n<p>&nbsp;</p>\n<section>\n<p>2/21&nbsp; 杭州 MAO LIVEHOUSE&nbsp;</p>\n<p>2/22&nbsp; 宁波 177Live音乐现场</p>\n<p>2/23&nbsp; 上海 MAO LIVEHOUSE&nbsp;</p>\n<p>&nbsp;</p>\n<p>2/28&nbsp; 厦门 RealLive And Books</p>\n<p>3/01&nbsp; 福州 MAAQUU&amp;CH8 LIVEHOUSE</p>\n<p>3/02&nbsp; 温州 意空间·Meaning Space</p>\n<p>&nbsp;</p>\n<p>3/07&nbsp; 无锡 福馆Full House</p>\n<p>3/08&nbsp; 苏州 山丘LIVEHOUSE（红唐店）</p>\n<p>3/09&nbsp; 常州 迷宫艺术空间</p>\n<p>&nbsp;</p>\n<p>3/14&nbsp; 北京 福浪LIVEHOUSE-福</p>\n<p>3/15&nbsp; 石家庄 红糖LIVEHOUSE</p>\n<p>3/16&nbsp; 太原 THE BOO</p>\n<p>&nbsp;</p>\n<p>3/21&nbsp; 南京 1701 LIVEHOUSE MAX</p>\n<p>3/22&nbsp; 合肥 OTW LIVEHOUSE</p>\n<p>3/23&nbsp; 郑州 7LIVEHOUSE+</p>\n<p>&nbsp;</p>\n<p>3/28&nbsp; 长春 乐活 LIVEHOUSE</p>\n<p>3/29&nbsp; 沈阳 原料库VastFactory（大悦城店）</p>\n<p>3/30&nbsp; 大连 赫兹空间（佳兆业店）</p>\n<p>&nbsp;</p>\n</section>\n<p>4/05 上饶MAO LIVEHOUSE&nbsp;</p>\n<p>4/11 周五 深圳 MAO LIVEHOUSE （海上世界）<br>4/12 周六 广州 MAO LIVEHOUSE （中大店）</p>\n<p>4/18 周五 南昌 瓦肆 VAS NANCHANG<br>4/19 周六 长沙 MAO LIVEHOUSE （沙湾店）<br>4/20 周日 武汉 VOX LIVEHOUSE</p>\n<p>&nbsp;</p>\n<p>5/16 周五 天津 琉璃SPACE<br>5/17 周六 济南 CaperLand雀跃之地<br>5/18 周日 青岛 DownTown_Live</p>\n<p>5/23 周五 重庆 VOX LIVEHOUSE<br>5/24 周六 昆明 MODERN SKY LAB<br>5/25 周日 南宁 福馆Full House</p>\n<p>&nbsp;</p>\n<p>6/13 周五 兰州 葵艺术空间<br>6/14 周六 西安 西演SPACE·塞斯拾陆<br>6/15 周日 成都 MAO LIVEHOUSE</p>\n<p>&nbsp;</p>\n<p>票价：预售票¥120 全价票¥150 双人票¥199</p>\n<br>\n<p>&nbsp;</p>\n</section>\n<p>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01GbIqDR2GdSfmLfd8F_!!2251059038.jpg\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>我们感知场景 声音 气味 画面</p>\n<p>时间刻画 蒙太奇般流动</p>\n<p>命运构建幕布 安排剧本</p>\n<p>穿过深意的片头 或是普通的人生&nbsp;</p>\n<p>确让我们相信 存在无限可能的结局</p>\n<p>我们都在剪辑自己的人生 留给我们自己的</p>\n<p>可能是更精彩的花絮</p>\n<p>&nbsp;</p>\n<p>我们是人生电影里的最佳角色，没有剧本却又暗中注定。人生总会有些花絮比正片精彩，总会有些遗憾比拥有动容。不要回头看，那些是留给上帝视角的人生导演，我们只管行进我们的下一幕。</p>\n<p>&nbsp;</p>\n<p><em>2025帆布小镇「花絮」巡演</em></p>\n<p><em>即将上映…</em></p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01wy2NoE2GdSfmSme5G_!!2251059038.jpg\" damai_width=\"null\" damai_height=\"null\"></p>\n<p>&nbsp;</p>\n<p>2019年9月成立于南京的年轻独立摇滚乐队。&nbsp;</p>\n<p>在夜空落去后的拥挤人潮中，有人从远方奔赴一场，有人期待着再见。情绪氤氲成烟火，在这座城市上空绽开，消散，然后剩下无眠的夜晚。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<section>\n<p><strong>【退票说明】</strong></p>\n</section>\n<section>\n<p>1.2025/02/18 13:00 - 2025/02/25 00:00，可无条件办理全额退票，无手续费。<br>2.2025/02/25 00:00 - 本场演出当天00:00，观众如需退票将收取门票价格的20%作为手续费。<br>3.本场演出当天00:00开始，将不予退票。<br>4.如有退票，退票成功后，将实时回流售卖。<br>5.为防止恶意购票及退票扰乱演出活动举办的行为，所有退票仅支持整个订单全数退票，退款到账时间以平台相关规定为准。<br>6.感谢您的理解与支持。</p>\n</section></body></html>",
+        "introduceTitle": "活动介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "帆布小镇，2019年秋天在南京组建，在2020年的夏天，我们开始了乐队的第一次巡演，巡演的主题是“我会在夏日去见你”。",
+                "fansCount": "282959",
+                "fansCountDesc": "粉丝",
+                "fansCountStr": "28.3万",
+                "id": "77761740",
+                "name": "帆布小镇乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1710918317874/1710918317874-main.jpg",
+                "sellCount": "27场",
+                "sellCountDesc": "在售演出",
+                "tag": "歌手"
+            }
+        ],
+        "guideCat": "Livehouse",
+        "tour": {
+            "projectList": [
+                {
+                    "cityName": "上饶站",
+                    "itemId": "888646959645",
+                    "saleStatus": "预约抢票",
+                    "showTime": "04.05",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "广州站",
+                    "itemId": "888564519142",
+                    "saleStatus": "预约抢票",
+                    "showTime": "04.12",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "南昌站",
+                    "itemId": "888646167171",
+                    "saleStatus": "预约抢票",
+                    "showTime": "04.18",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "长沙站",
+                    "itemId": "888893614324",
+                    "saleStatus": "预约抢票",
+                    "showTime": "04.19",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "武汉站",
+                    "itemId": "888887718581",
+                    "saleStatus": "预约抢票",
+                    "showTime": "04.20",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "天津站",
+                    "itemId": "888878062814",
+                    "saleStatus": "预约抢票",
+                    "showTime": "05.16",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "重庆站",
+                    "itemId": "889298241087",
+                    "saleStatus": "预约抢票",
+                    "showTime": "05.23",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "昆明站",
+                    "itemId": "889298605555",
+                    "saleStatus": "预约抢票",
+                    "showTime": "05.24",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "西安站",
+                    "itemId": "889302114000",
+                    "saleStatus": "预约抢票",
+                    "showTime": "06.14",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "宁波站",
+                    "itemId": "881705858323",
+                    "saleStatus": "热卖中",
+                    "showTime": "02.22",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "上海站",
+                    "itemId": "881480359975",
+                    "saleStatus": "热卖中",
+                    "showTime": "02.23",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "厦门站",
+                    "itemId": "882419364131",
+                    "saleStatus": "热卖中",
+                    "showTime": "02.28",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "福州站",
+                    "itemId": "881480711341",
+                    "saleStatus": "热卖中",
+                    "showTime": "03.01",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "温州站",
+                    "itemId": "881709070402",
+                    "saleStatus": "热卖中",
+                    "showTime": "03.02",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "无锡站",
+                    "itemId": "882092921563",
+                    "saleStatus": "热卖中",
+                    "showTime": "03.07",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "苏州站",
+                    "itemId": "881733830687",
+                    "saleStatus": "热卖中",
+                    "showTime": "03.08",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "常州站",
+                    "itemId": "881709746261",
+                    "saleStatus": "热卖中",
+                    "showTime": "03.09",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "北京站",
+                    "itemId": "881433647943",
+                    "saleStatus": "热卖中",
+                    "showTime": "03.14",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "石家庄站",
+                    "itemId": "882097105853",
+                    "saleStatus": "热卖中",
+                    "showTime": "03.15",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "太原站",
+                    "itemId": "882420104673",
+                    "saleStatus": "热卖中",
+                    "showTime": "03.16",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "南京站",
+                    "itemId": "882092509786",
+                    "saleStatus": "热卖中",
+                    "showTime": "03.21",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "合肥站",
+                    "itemId": "881482451095",
+                    "saleStatus": "热卖中",
+                    "showTime": "03.22",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "郑州站",
+                    "itemId": "881721426527",
+                    "saleStatus": "热卖中",
+                    "showTime": "03.23",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "长春站",
+                    "itemId": "881486335628",
+                    "saleStatus": "热卖中",
+                    "showTime": "03.28",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "沈阳站",
+                    "itemId": "881714122484",
+                    "saleStatus": "热卖中",
+                    "showTime": "03.29",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "大连站",
+                    "itemId": "881486911900",
+                    "saleStatus": "热卖中",
+                    "showTime": "03.30",
+                    "tourId": "5090"
+                },
+                {
+                    "cityName": "杭州站",
+                    "itemId": "882106561537",
+                    "saleStatus": "缺货登记",
+                    "showTime": "02.21",
+                    "tourId": "5090"
+                }
+            ],
+            "showEncoreRequest": "false"
+        },
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "false",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "useLocalCache": "false",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wPOZN01jRf2eaC3Jz_!!6000000004545-2-tps-1125-702.png",
+        "categoryId": "123606001",
+        "cityName": "重庆市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "889298241087",
+        "itemName": "【重庆】帆布小镇「花絮」2025巡演 重庆站",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "http://img.alicdn.com/imgextra/i1/2251059038/O1CN01m2dIER2GdSfzNazQD_!!4611686018427383646-0-item_pic.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "500100",
+        "performSeatImages": [],
+        "projectId": "224708063",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "4",
+                "5",
+                "6"
+            ],
+            "type": "1"
+        },
+        "showDuration": "约90分钟（以现场为准）",
+        "showTime": "2025.05.23 周五 20:00",
+        "subTitle": "",
+        "tcCategoryId": "0301020100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "223058129",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=889298241087",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "group_coupon",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须打开【票夹】扫码入场，截图无效。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "儿童一律凭票入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：台湾居民来往大陆通行证/身份证/港澳居民来往内地通行证/护照",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "约90分钟（以现场为准）",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约30分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "以现场为准,以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票，购票完成后观演人信息不可更改。",
+                "tagName": "实名制购票",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过票夹中的二维码验票入场",
+                "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：成都与她文化传播有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：成都与她文化传播有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}

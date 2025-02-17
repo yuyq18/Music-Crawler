@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "889665316852",
+    "project_name": "梅卡德尔「机器情人」巡演·番外（呼和浩特站）",
+    "category_name": "演唱会",
+    "artists": [
+        "梅卡德尔"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.20 周四 20:00",
+    "session_time": [],
+    "price": "200-240",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "呼和浩特",
+    "venue_name": "布斯特艺术空间 DDR MAX",
+    "venue_info": {
+        "venue_address": "内蒙古自治区呼和浩特市新城区艺术厅北街和新华大街交汇处往北10 米",
+        "lng": 111.680656,
+        "lat": 40.824726
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01G2zM0x2GdSfuDAi23_!!4611686018427383646-2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01d9ovW42GdSfu85qna_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "888161096352",
+            "cityName": "泉州站",
+            "showTime": "03.01"
+        },
+        {
+            "itemId": "888161236471",
+            "cityName": "福州站",
+            "showTime": "03.02"
+        },
+        {
+            "itemId": "889665316852",
+            "cityName": "呼和浩特站",
+            "showTime": "03.20"
+        },
+        {
+            "itemId": "887833193136",
+            "cityName": "重庆站",
+            "showTime": "03.26"
+        },
+        {
+            "itemId": "888462151023",
+            "cityName": "柳州站",
+            "showTime": "03.28"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=889665316852"
+}

@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "889260541377",
+    "project_name": "很美味“当我飞奔向你”2025全国巡演厦门站",
+    "category_name": "演唱会",
+    "artists": [
+        "很美味"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.05.23 周五 20:00",
+    "session_time": [],
+    "price": "128-268",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "厦门",
+    "venue_name": "RealLive And Books",
+    "venue_info": {
+        "venue_address": "厦门市湖里区联发东南天地文化创意产业园C106",
+        "lng": 118.097185,
+        "lat": 24.512446
+    },
+    "project_info": "【vip权益】\n1 提前入场\n2 赠送精美周边\n3演出结束后签名合影\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01SRlnc82GdSg2vJc44_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01eCsdV02GdSg20eKQD_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "888831370110",
+            "cityName": "苏州站",
+            "showTime": "04.25"
+        },
+        {
+            "itemId": "888887594742",
+            "cityName": "武汉站",
+            "showTime": "05.17"
+        },
+        {
+            "itemId": "889260541377",
+            "cityName": "厦门站",
+            "showTime": "05.23"
+        },
+        {
+            "itemId": "889249401761",
+            "cityName": "深圳站",
+            "showTime": "05.25"
+        },
+        {
+            "itemId": "888597107007",
+            "cityName": "郑州站",
+            "showTime": "05.31"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=889260541377"
+}
