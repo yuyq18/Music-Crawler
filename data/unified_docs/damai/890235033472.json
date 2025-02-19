@@ -1,0 +1,53 @@
+{
+    "platform": "大麦",
+    "project_id": "890235033472",
+    "project_name": "WEIBIRD'S CONCERT 2025 MACAO韦礼安「如果可以，我想和你明天再见again」2025 澳门演唱会",
+    "category_name": "演唱会",
+    "artists": [
+        "韦礼安"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.08 周六 19:00",
+    "session_time": [
+        "03.08 周六"
+    ],
+    "price": "550-1300",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "中国澳门",
+    "venue_name": "伦敦人综艺馆",
+    "venue_info": {
+        "venue_address": "中国澳门路氹城填海区金光大道",
+        "lng": 113.570366,
+        "lat": 22.142878
+    },
+    "project_info": "票价说明：澳门币票价MOP： 1388/ 888/ 588人民币售价CNY：1300元/ 832元/ 550元门票已含境外（含港澳台）服务费配送说明：本项目门票不支持退换，不可转让。一人一票，入场时必需持有有效门票。购票成功的客户，请您提前办理好港澳通行证-中国澳门签注。演出当日凭购票二维码核验入场（订单或订单截图无效），感谢您的支持。\n演出介绍：如果可以，韦鸟，想和你，澳门「伦敦人综艺馆」再见again。\n从2024年启航，由IMC Group Asia出品、IMC Live Global制作的2025韦礼安「如果可以，我想和你明天再见again」巡回演唱会即将来到澳门「伦敦人综艺馆」！\n作为华语乐坛炙手可热的“金曲制造机”，韦礼安以他细腻动人的创作和深情的演绎俘获了无数歌迷的心。无论是《如果可以》里的温柔坚定，还是《女孩》中的真诚热烈，或是《慢慢等》传达的耐心勇敢，都引发了无数歌迷情绪共鸣。这些大家耳熟能详的旋律也成为了无数人人生不同阶段中的疗愈音乐，更在社交媒体中被无数人翻唱和喜爱。而近期他在热门综艺节目《披荆斩棘4》中带来的精彩舞台也再次向世人证明了他卓越的音乐才华和独特的个人魅力。\n无论你是他的忠实粉丝，还是初次接触他的音乐，都将被他温暖的嗓音和动人的旋律所打动。「如果可以，我们一定还会在下一个明天再见。」约定你在2025年3月8日(星期六)在澳门「伦敦人综艺馆」，不见不散！",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01qVjuSv2GdSg3vqL2w_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "783",
+        "wantNumStr": "783",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "890235033472",
+            "cityName": "中国澳门站",
+            "showTime": "03.08"
+        },
+        {
+            "itemId": "886991972265",
+            "cityName": "杭州站",
+            "showTime": "04.12"
+        },
+        {
+            "itemId": "881217881623",
+            "cityName": "温州站",
+            "showTime": "03.22"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=890235033472"
+}
