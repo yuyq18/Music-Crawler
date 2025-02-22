@@ -1,0 +1,63 @@
+{
+    "platform": "大麦",
+    "project_id": "890792082483",
+    "project_name": "张蔷2025「香草橙柿 一路繁花」LIVE巡演呼和浩特站",
+    "category_name": "演唱会",
+    "artists": [
+        "张蔷"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.14 周五 20:00",
+    "session_time": [],
+    "price": "258-368",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "呼和浩特",
+    "venue_name": "布斯特艺术空间 DDR MAX",
+    "venue_info": {
+        "venue_address": "内蒙古自治区呼和浩特市新城区艺术厅北街和新华大街交汇处往北10 米",
+        "lng": 111.680656,
+        "lat": 40.824726
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01Vb3WXk2GdSg34erF3_!!4611686018427383646-0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01Of367L2GdSg2zpN2f_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01t9hpYV2GdSg6pGaGi_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "1086",
+        "wantNumStr": "1086",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "890792082483",
+            "cityName": "呼和浩特站",
+            "showTime": "03.14"
+        },
+        {
+            "itemId": "891028814096",
+            "cityName": "济南站",
+            "showTime": "03.21"
+        },
+        {
+            "itemId": "891125221410",
+            "cityName": "青岛站",
+            "showTime": "03.23"
+        },
+        {
+            "itemId": "891129765087",
+            "cityName": "长沙站",
+            "showTime": "04.18"
+        },
+        {
+            "itemId": "890464879850",
+            "cityName": "南昌站",
+            "showTime": "04.20"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=890792082483"
+}

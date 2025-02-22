@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "890461179230",
+    "project_name": "尤瑞卡TheEureka「狄奥尼索斯的夜之颂歌」2025 春天巡演｜杭州站",
+    "category_name": "演唱会",
+    "artists": [
+        "The Eureka尤瑞卡"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.28 周五 20:00",
+    "session_time": [],
+    "price": "80-150",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "杭州",
+    "venue_name": "酒球会(9-Club)",
+    "venue_info": {
+        "venue_address": "杭州市万塘路262号万糖汇城市生活广场南楼2F",
+        "lng": 120.123982,
+        "lat": 30.279866
+    },
+    "project_info": "……………",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01EnDbjH2GdSg2WRtwI_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN011O9zHP2GdSg5ErPhu_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "890461179230",
+            "cityName": "杭州站",
+            "showTime": "03.28"
+        },
+        {
+            "itemId": "890609305113",
+            "cityName": "南京站",
+            "showTime": "03.29"
+        },
+        {
+            "itemId": "891081492876",
+            "cityName": "合肥站",
+            "showTime": "03.30"
+        },
+        {
+            "itemId": "890199050159",
+            "cityName": "太原站",
+            "showTime": "04.04"
+        },
+        {
+            "itemId": "890976220359",
+            "cityName": "郑州站",
+            "showTime": "04.05"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=890461179230"
+}

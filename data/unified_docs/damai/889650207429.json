@@ -1,0 +1,67 @@
+{
+    "platform": "大麦",
+    "project_id": "889650207429",
+    "project_name": "2025海龟先生《赛浪20》巡演 重庆站",
+    "category_name": "演唱会",
+    "artists": [
+        "海龟先生"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.21 周五 20:00",
+    "session_time": [],
+    "price": "220-280",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "重庆",
+    "venue_name": "重演LIVE(金源店)",
+    "venue_info": {
+        "venue_address": "北滨一路368号金源时代购物中心G层1077/1078号商铺",
+        "lng": 106.525877,
+        "lat": 29.556625
+    },
+    "project_info": "演出详情：\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN014z6dwR2GdSg6E4FER_!!4611686018427383646-2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Isd4lX2GdSg2VTwcK_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "334",
+        "wantNumStr": "334",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "890610929632",
+            "cityName": "郑州站",
+            "showTime": "03.13"
+        },
+        {
+            "itemId": "889650207429",
+            "cityName": "重庆站",
+            "showTime": "03.21"
+        },
+        {
+            "itemId": "890685504045",
+            "cityName": "南宁站",
+            "showTime": "03.28"
+        },
+        {
+            "itemId": "890660344060",
+            "cityName": "武汉站",
+            "showTime": "04.09"
+        },
+        {
+            "itemId": "891095756165",
+            "cityName": "西安站",
+            "showTime": "04.11"
+        },
+        {
+            "itemId": "891139134005",
+            "cityName": "长沙站",
+            "showTime": "04.17"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=889650207429"
+}
