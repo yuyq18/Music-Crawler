@@ -1,0 +1,292 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "852",
+    "cityname": "北京",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_891488358699",
+    "imgurl": "324948994",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "北京丨3.8 女神节特别演出：黑莓社全女子爵士四重奏",
+    "nameNoHtml": "北京丨3.8 女神节特别演出：黑莓社全女子爵士四重奏",
+    "price": {
+        "range": "160-380"
+    },
+    "price_str": "160-380",
+    "pricehigh": "380.0",
+    "privilegeTags": "[]",
+    "projectid": "891488358699",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.03.08 周六 20:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": {
+        "lat": 39.901339,
+        "lng": 116.40107,
+        "region": "1",
+        "showCountText": "5个演出",
+        "venueAddr": "北京市东城区东华门街道北京市人民政府天安门地区管理委员会(东交民巷)",
+        "venueCityName": "北京市",
+        "venueId": "61359",
+        "venueName": "Blue Note Beijing 爵士乐俱乐部",
+        "venueProvinceName": "北京",
+        "venueType": "0"
+    },
+    "venuecity": "北京",
+    "venueid": "61359",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01FL56P82GdSg51LFo9_!!4611686018427383646-2-item_pic.png",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "北京瀛寰文化传媒有限公司",
+            "entAddress": "北京市东城区建国门内大街18号25层办公楼一座2501-1",
+            "entType": "其他有限责任公司",
+            "legalPerson": "高杉",
+            "opFrom": "",
+            "opTo": "",
+            "regCapStr": "3000万人民币",
+            "socialCreditCode": "9111010158250075XB"
+        }
+    },
+    "buyButton": {
+        "origin": "1",
+        "status": "204",
+        "text": "立即购票"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01TuYWtt2GdSg7OMk6U_!!2251059038.png\" width=\"1500\" height=\"1500\" damai_width=\"1500\" damai_height=\"1500\"></p><p style=\"text-align: center;\">黑莓社（Hey May Project）是一支由四位才华横溢的女性音乐家组成的爵士乐队，以其独特的音乐风格和强烈的律动感在音乐界崭露头角。乐队成员包括萨克斯手陶玙、键盘手周欣韧、贝斯手钟新野和鼓手李佩莹。每位成员都在各自的领域内有着卓越的成就和丰富的演出经验。</p><p style=\"text-align: center;\">黑莓社的成员们不仅在音乐上有着深厚的造诣，她们的个人经历也同样令人瞩目。从国际爵士音乐节的演出到与世界各地爵士大师的合作，从个人专辑的发行到音乐教育的贡献，她们的音乐旅程充满了辉煌的成就和不断的创新。</p><p style=\"text-align: center;\">作为一支全女性乐队，黑莓社不仅在音乐上展现了女性的力量和才华，也在音乐行业中为女性音乐家树立了榜样。她们的音乐会是一次次对爵士乐传统的致敬，也是对现代音乐可能性的探索。黑莓社，用她们的音符，绘制出一幅幅动人的音乐画卷，让世界听见女性的声音。<img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Gw04el2GdSg5XL5q7_!!2251059038.png\"></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01wsRMSu2GdSg5yg73n_!!2251059038.png\" width=\"503\" height=\"754\" damai_width=\"503\" damai_height=\"754\"></p><p style=\"text-align: center;\"><strong>Drums - 李佩莹</strong></p><p style=\"text-align: center;\">旅美青年爵士鼓演奏家</p><p style=\"text-align: center;\">文旅部一级打击乐演奏员、教学人才</p><p style=\"text-align: center;\">本科毕业于上海音乐学院</p><p style=\"text-align: center;\">美国伯克利音乐学院Global Jazz Institute首位中国籍硕士毕业生</p><p style=\"text-align: center;\">美国新英格兰音乐学院硕士</p><p style=\"text-align: center;\">2022 PASIC Convention国际打击乐协会大会发言人</p><p style=\"text-align: center;\">HLAG全球女子鼓手大赛全球赛区评委</p><p style=\"text-align: center;\">Pearl爵士鼓、Meinl镲片、Techra鼓棒国际代言人</p><p style=\"text-align: center;\">LBP打击乐艺术家</p><p style=\"text-align: center;\">首位登上国家期刊《神州》杂志 “人物”专栏的鼓手</p><p style=\"text-align: center;\">上海市打击乐协会编著的《新编电爵士鼓考级教程》编委成员之一</p><p style=\"text-align: center;\">2016年与格莱美获奖者、国际颤音琴演奏家Gary Burton受邀在美国华盛顿肯尼迪中心演出</p><p style=\"text-align: center;\">2018年在HLAG全球女鼓手大赛中获得网络公投第一名</p><p style=\"text-align: center;\">参与录制CCTV《直通春晚》，《Top荣耀时刻》，北京卫视春晚，优酷视频《安可计划》，网易云播客《我们为什么写歌》，江苏卫视《我们的乐队》，在节目中获得了萧敬腾、谢霆锋等明星的高度评价</p><p style=\"text-align: center;\">2022年与金曲奖获得者秦四风老师在国家大剧院台湖剧场同台演出</p><p style=\"text-align: center;\">2023年登上VOGUE杂志中国刊</p><p style=\"text-align: center;\">2024 年任徐峥导演电影《逆行人生》专业指导</p><p style=\"text-align: center;\">合作艺人：王力宏、姜育恒、吴克群、单依纯、张碧晨、黄子弘凡</p><p style=\"text-align: center;\">代表著作：《爵士鼓时值训练教程》（上海音乐出版社）</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01q9Xfi92GdSg48aGo3_!!2251059038.png\" width=\"511\" height=\"767\" damai_width=\"511\" damai_height=\"767\"></p><p style=\"text-align: center;\"><strong>Keyboard - 周欣韧</strong></p><p style=\"text-align: center;\">旅欧美青年爵士钢琴家，Moog中国区艺术家，雅马哈签约演奏家，罗兰官方合作艺术家，哎呀音乐讲师，迷笛音乐学院教师，Vogue时尚杂志专访音乐家；毕业于波兰卡托维兹席曼诺夫斯基音乐学院，师从Pawel Tomaszewski并获得古典钢琴与爵士钢琴学位。研究生时期师从Dana Landry，于美国北科罗拉多大学获得爵士钢琴硕士学位。在美国的学习中与Benny Golson，Eddie Gomez，Jeff Hailmton，Luques Curtis, Antonio Hart等爵士大师合作演出，持续两年在UNC/Greeley Jazz Festival上进行演出，与Julie Koenig的合作获得了DownBeat 42 Annual Student Awards Outstanding Performance，并在UNC Jazz Festival上获得Outstanding Soloist奖项。 在2020年与新锐音乐厂牌今晚月色很美LOOM RECORDS 合作发行个人首张爵士演奏专辑《风筝飞了一整天》入围2021第五届CMA唱工委最佳爵士演奏专辑。</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01w7rjoU2GdSg5XIg7f_!!2251059038.png\" width=\"622\" height=\"824\" damai_width=\"622\" damai_height=\"824\"></p><p style=\"text-align: center;\"><strong>Saxophone&nbsp;- 陶玙</strong></p><p style=\"text-align: center;\">爵士萨克斯演奏家、爵士作曲家；罗兰Roland、达达里奥D’addario合作艺术家；星海音乐学院爵士萨克斯本科，比利时布鲁塞尔皇家音乐学院爵士萨克斯硕士。师从中国著名爵士萨克斯演奏家于振海，比利时国宝级爵士演奏家Jeroen Van Herzeeler，Stephane Galland和Diederik Wissels。</p><p style=\"text-align: center;\">2024年成功入选为波兰国家项目《国际爵士乐平台》音乐家；2024年在比利时Jet Studio成功录制首张原创爵士专辑；2023年创立了“1000区”爵士四重奏乐队并成功带领乐队完成了中国13个城市的巡演；2023年受邀参演比利时爵士周末音乐节、 受布鲁塞尔皇家音乐学院邀请参演音乐剧；2022年荣登法国沙隆城市新闻。</p><p style=\"text-align: center;\">2021年到2023创立乐队“Taoyu Quartet”在比利时活跃在各大爵士音乐节与各大重要爵士演出场地，例如Music Village、Sounds、 Jazz Station、Gist、 Roskam，并获得了广泛的好评。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01dOajdR2GdSg7OQpoI_!!2251059038.png\" width=\"1080\" height=\"205\" damai_width=\"1080\" damai_height=\"205\"></p><p style=\"text-align: center;\">Chinese Medical Herbs中草药</p><p style=\"text-align: center;\">Roy Allen 罗伊艾伦</p><p style=\"text-align: center;\">No Worries无忧无虑</p><p style=\"text-align: center;\">Red Clay 红土</p><p style=\"text-align: center;\">Summer Rain 夏雨</p><p style=\"text-align: center;\">Some Skunk Funk 臭鼬放克</p><p style=\"text-align: center;\">BB88</p><p style=\"text-align: center;\">Single Ladies 单身女郎</p><p style=\"text-align: center;\">Funky D 放克D</p><p style=\"text-align: center;\">Jazz Cat爵士猫</p><p style=\"text-align: center;\">&nbsp;*曲目单以当天演出为准*&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01JG93eG2GdSg57IAth_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\">日期：2025年3月8日（周六）</p><p style=\"text-align: center;\">入场时间：18:30</p><p style=\"text-align: center;\">演出时间：20:00</p><p style=\"text-align: center;\">地址：前门东大街23号Blue Note Beijing</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01321Ix52GdSg6rSefi_!!2251059038.png\" width=\"1080\" height=\"177\" damai_width=\"1080\" damai_height=\"177\"></p><p style=\"text-align: center;\"><strong><span>单人坐席</span></strong></p><p style=\"text-align: center;\">￥160/人</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><strong><span>单人套餐票</span></strong></p><p style=\"text-align: center;\"><span>￥380/人</span></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01cjDlQa2GdSg7pUrdI_!!2251059038.png\" width=\"974\" height=\"1377\" damai_width=\"974\" damai_height=\"1377\"></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01avwYzk2GdSg6NaL7u_!!2251059038.png\" width=\"1080\" height=\"209\" damai_width=\"1080\" damai_height=\"209\"><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01kseYjH2GdSg5yjjds_!!2251059038.jpg\" width=\"1080\" height=\"1590\" damai_width=\"1080\" damai_height=\"1590\"></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01WGIMqR2GdSg6Flq1L_!!2251059038.jpg\" width=\"1080\" height=\"449\" damai_width=\"1080\" damai_height=\"449\"></p></body></html>",
+        "introduceTitle": "项目介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "guideCat": "Livehouse",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "false",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "抢手热卖中，别忘了及时购票哦～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "useLocalCache": "false",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wPOZN01jRf2eaC3Jz_!!6000000004545-2-tps-1125-702.png",
+        "categoryId": "123606001",
+        "cityName": "北京市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "891488358699",
+        "itemName": "【北京】北京丨3.8 女神节特别演出：黑莓社全女子爵士四重奏",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "http://img.alicdn.com/imgextra/i3/2251059038/O1CN01FL56P82GdSg51LFo9_!!4611686018427383646-2-item_pic.png"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "110100",
+        "performSeatImages": [],
+        "projectId": "225096001",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                }
+            ],
+            "credentials": [
+                "1"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "约90分钟（以现场为准）",
+        "showTime": "2025.03.08 周六 20:00",
+        "tcCategoryId": "0301020100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "223894005",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=891488358699",
+        "showFlag": "false"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "group_coupon",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须打开【票夹】扫码入场，截图无效。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "儿童一律凭票入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：身份证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "约90分钟（以现场为准）",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约90分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过票夹中的二维码验票入场",
+                "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：北京瀛寰文化传媒有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：北京瀛寰文化传媒有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}
