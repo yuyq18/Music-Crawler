@@ -1,0 +1,57 @@
+{
+    "platform": "大麦",
+    "project_id": "892127563829",
+    "project_name": "2025.4.5 I'll call you.电话团「桃乐茜的来信」特别专场巡演 西安站",
+    "category_name": "演唱会",
+    "artists": [
+        "I'll call you.电话团"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.04.05 周六 20:00",
+    "session_time": [],
+    "price": "89-189",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "西安",
+    "venue_name": "西演SPACE·光圈CLUB",
+    "venue_info": {
+        "venue_address": "太华南路251号大华1935剧场叁剧场",
+        "lng": 108.975628,
+        "lat": 34.284995
+    },
+    "project_info": "2025.4.5 I'll call you.电话团「桃乐茜的来信」特别专场巡演 西安站\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01okLJAc2GdSfxY3tNw_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Cv0iYM2GdSg04w1m8_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "885757766197",
+            "cityName": "成都站",
+            "showTime": "03.29"
+        },
+        {
+            "itemId": "886110662352",
+            "cityName": "重庆站",
+            "showTime": "03.30"
+        },
+        {
+            "itemId": "886858056210",
+            "cityName": "太原站",
+            "showTime": "04.04"
+        },
+        {
+            "itemId": "892127563829",
+            "cityName": "西安站",
+            "showTime": "04.05"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=892127563829"
+}
