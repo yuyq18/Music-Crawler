@@ -1,0 +1,77 @@
+{
+    "platform": "大麦",
+    "project_id": "893587377536",
+    "project_name": "达达乐队2025「二童一马」巡演·常州站",
+    "category_name": "演唱会",
+    "artists": [
+        "达达乐队"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.15 周六 20:00",
+    "session_time": [],
+    "price": "188-238",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "常州",
+    "venue_name": "迷宫艺术空间",
+    "venue_info": {
+        "venue_address": "和平北路32号南城脚牡丹里创意产业园一号楼2楼",
+        "lng": 119.961686,
+        "lat": 31.770336
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01sTpIMN2GdSg9wtIej_!!4611686018427383646-0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN011MvC8S2GdSgBlrWQi_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "96",
+        "wantNumStr": "96",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "893964464273",
+            "cityName": "无锡站",
+            "showTime": "03.14"
+        },
+        {
+            "itemId": "893587377536",
+            "cityName": "常州站",
+            "showTime": "03.15"
+        },
+        {
+            "itemId": "893576993387",
+            "cityName": "台州站",
+            "showTime": "03.16"
+        },
+        {
+            "itemId": "892596571931",
+            "cityName": "贵阳站",
+            "showTime": "03.19"
+        },
+        {
+            "itemId": "893192998150",
+            "cityName": "南宁站",
+            "showTime": "03.20"
+        },
+        {
+            "itemId": "893697648490",
+            "cityName": "中山站",
+            "showTime": "03.22"
+        },
+        {
+            "itemId": "893150926552",
+            "cityName": "东莞站",
+            "showTime": "03.23"
+        },
+        {
+            "itemId": "893670024558",
+            "cityName": "宜昌站",
+            "showTime": "03.28"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=893587377536"
+}

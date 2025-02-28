@@ -1,0 +1,211 @@
+{
+    "searchType": "SHOW",
+    "showId": "67c0322b03193c0001c1e0dc",
+    "stdShowId": "67c0322b03193c0001c1e0db",
+    "showName": " 【北京】超燃FUN|深夜音乐秀|情歌vs流行vs摇滚|音乐之夜",
+    "showDate": "2025.03.07 - 03.20",
+    "cityName": "北京市",
+    "cityId": "1101",
+    "showStatus": "ONSALE",
+    "minOriginalPrice": "49.0",
+    "posterUrl": "https://cdn.ticketmars.com/image/prod/20250227_89/17406490263753261.png",
+    "venueId": "67c0328ab146ae0001d036b0",
+    "venueName": "超燃FUN（三里屯店）",
+    "backendCategory": "{'code': 19, 'displayName': 'Livehouse', 'name': 'Livehouse'}",
+    "isFree": "False",
+    "firstShowTime": "1741354200000",
+    "lastShowTime": "1742482800000",
+    "minOriginalPriceInfo": "{'yuanNum': '49', 'centNum': '', 'suffix': '起', 'prefix': '￥'}",
+    "latestShowTime": "1741354200000",
+    "showSessionDates": "['20250316', '20250315', '20250307', '20250318', '20250317', '20250309', '20250308', '20250319', '20250310', '20250320', '20250312', '20250311', '20250314', '20250313']",
+    "soldOut": "False",
+    "sessionNum": "14",
+    "seatPlanNum": "112",
+    "rsCode": 200,
+    "basicInfo": {
+        "hotMode": false,
+        "stdShowId": "67c0322b03193c0001c1e0db",
+        "bizShowId": "67c0322b03193c0001c1e0dc",
+        "showName": " 【北京】超燃FUN|深夜音乐秀|情歌vs流行vs摇滚|音乐之夜",
+        "sourceType": "SELF_BUILT_SELF_PRODUCE",
+        "originalSeatPickType": "SUPPORT_NONE",
+        "contentUrl": "https://cdn.ticketmars.com/prod/showContent/67c0322b03193c0001c1e0dc/content_67c032a30c33310001f2c910.content",
+        "posterUrl": "https://cdn.ticketmars.com/image/prod/20250227_89/17406490263753261.png",
+        "posterColor": "#482859ff",
+        "venueId": "67c0328ab146ae0001d036b0",
+        "venueName": "超燃FUN（三里屯店）",
+        "venueAddress": "北京市朝阳区工人体育场北路8号院6幢-1层-1231",
+        "venueLat": 39.931506,
+        "venueLng": 116.453465,
+        "cityId": "1101",
+        "cityName": "北京市",
+        "onSaleShowCount": 1,
+        "showTags": [],
+        "authorizationUrl": "",
+        "minOriginalPriceInfo": {
+            "yuanNum": "49",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "maxOriginalPriceInfo": {
+            "yuanNum": "899",
+            "centNum": "",
+            "suffix": "",
+            "prefix": "￥"
+        },
+        "showDate": "2025年03月07日 - 03月20日",
+        "showDuration": "以现场为准",
+        "displayAdvance": false,
+        "venueDisplayAdvance": false,
+        "sessionDisplayAdvance": false,
+        "seatPlanDisplayAdvance": false,
+        "showType": {
+            "name": "Livehouse"
+        },
+        "showDetailStatus": "ON_SALE",
+        "existsPrivilegePurchase": false,
+        "displayCountdownTime": true,
+        "captchaTypes": []
+    },
+    "additionalInfo": {
+        "hasCoupon": true,
+        "hasPromo": false,
+        "hasAddPurchase": false,
+        "hasUserPromo": false,
+        "hasPCard": false,
+        "hasPriority": false,
+        "hasChannelDiscount": false,
+        "checkChannelFreeCombo": false,
+        "channelPickSeatProject": false,
+        "hasTyingSale": false,
+        "hasJumpGuid": false
+    },
+    "descInfo": {
+        "observationInstructions": [
+            {
+                "key": "TICKETS_AND_ADMISSION",
+                "name": "票品及入场",
+                "value": "\n电子直刷：须打开【票舱】扫码入场，截图无效",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "SHOW_DURATION",
+                "name": "演出时长",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "MAIN_ACTOR",
+                "name": "主要演员(团体)",
+                "value": "以现场为准",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "ENTRY_TIME",
+                "name": "入场时间",
+                "value": "请于开始前约30分钟入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "RESTRICTED_ITEM",
+                "name": "禁止携带物品",
+                "value": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "LUGGAGE_DEPOSIT",
+                "name": "物品寄存",
+                "value": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            }
+        ],
+        "ticketInstructions": [
+            {
+                "key": "CHILDREN_INTRODUCTION",
+                "name": "儿童购票",
+                "value": "儿童一律凭票入场",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 1
+            },
+            {
+                "key": "REAL_NAME_PURCHASE_TICKET_INTRODUCTION",
+                "name": "实名购票规则",
+                "value": "无证件要求",
+                "isMarked": false,
+                "tagContent": "非实名购票",
+                "isOrderMarked": false,
+                "seq": 2
+            },
+            {
+                "key": "EXCEPTION_ORDER_INTRODUCTION",
+                "name": "异常排单说明",
+                "value": "对于异常订购行为，商家有权在订单成立或者生效之后取消相应订单。 异常订购行为包括但不限于以下情形： \n（1）通过同一ID订购超出限购张数的订单。 \n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 3
+            },
+            {
+                "key": "LIMITATION",
+                "name": "限购规则",
+                "value": "每个场次限购6张/套，项目限购20张/套",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 4
+            },
+            {
+                "key": "EXCHANGE_POLICY",
+                "name": "退换政策",
+                "value": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 5
+            },
+            {
+                "key": "INVOICE_INTRODUCTION",
+                "name": "发票说明",
+                "value": "电子发票\n发票开具方：主办方\n该项目可申请开具电子发票。该发票由第三方主办提供。订单交易完成后6日将关闭申请。",
+                "isMarked": false,
+                "isOrderMarked": false,
+                "seq": 6
+            }
+        ],
+        "markedTextList": []
+    },
+    "noteInfos": [
+        {
+            "name": "不支持七天无理由退换",
+            "value": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+            "type": false,
+            "code": "NO_SUPPORT_REFUND"
+        },
+        {
+            "name": "电子票",
+            "value": "通过票舱中的二维码，可以直接验票入场（具体以下单后票舱信息为准）",
+            "type": true,
+            "code": "E_TICKET"
+        },
+        {
+            "name": "发票说明",
+            "value": "电子发票\n发票开具方：主办方\n该项目可申请开具电子发票。该发票由第三方主办提供。订单交易完成后6日将关闭申请。",
+            "type": false,
+            "code": "BILL_APPLY",
+            "desc": "发票"
+        }
+    ],
+    "announcement": [],
+    "watcherReplacer": "观演"
+}
