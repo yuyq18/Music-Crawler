@@ -1,0 +1,77 @@
+{
+    "platform": "大麦",
+    "project_id": "893534016708",
+    "project_name": "JJ 林俊杰 JJ20 FINAL LAP 世界巡回演唱会 吉隆坡站",
+    "category_name": "演唱会",
+    "artists": [
+        "林俊杰"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.05.10 周六 19:30",
+    "session_time": [
+        "05.10 周六"
+    ],
+    "price": "490-1810",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "吉隆坡",
+    "venue_name": "武吉加里尔国家体育场 Bukit Jalil National Stadium",
+    "venue_info": {
+        "venue_address": "Jalan Barat, Bukit Jalil, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+        "lng": 101.688409,
+        "lat": 3.055712
+    },
+    "project_info": "演出时间：2025年5月10日 19:30场馆名称：NATIONAL STADIUM BUKIT JALIL 武吉加里尔国家体育场具体地址：Jalan Barat, Bukit Jalil, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur\n \n票价说明：本币售价MYR：1088/888/688/488/388/288人民币售价 CNY： 1810/1480/1150/820/660/490*人民币票价已含当地服务费取票说明：本项目门票不支持退换，一人一票，入场时必需持有有效门票。5 岁以下儿童禁止入场， 5 岁及 5 岁以上的观众均须持有门票方可入场。购票成功的客户，请您携带好护照，提前办理目的地签证。门票将于演出前一周左右寄出。当天如出现遗失或忘带门票情况不予处理，感谢您的支持与理解。\n \n演出介绍：林俊杰将于5月10日震撼登武吉加里尔国家体育场，呈现他的全新《JJ 林俊杰 JJ20 FINAL LAP 世界巡回演唱会》。此轮巡演的最终回标志着林俊杰20周年音乐生涯的里程碑。《JJ 林俊杰 JJ20 世界巡回演唱会》自 2022年11月在新加坡首演以来，便获得了极高评价。随之拉队到上海、悉尼、巴黎、伦敦和纽约等城市也场场爆满，至今完成近100场演出，屡创票房新高，吸引了来自世界各地的观众前往“圣所”。继12月末在新加坡通过两场叫好又叫座的盛大演出正式启动“JJ20 FINAL LAP 世界巡回演唱会” 后，JJ 火力全开继续带着华流走向世界。除了脍炙人口的抒情歌曲，歌迷据能透过音乐感受 JJ 这 21年来的成长、蜕变以及他在音乐创作上不断地进化。本次演唱会将在服装和舞台设计方面带来全新的升级，包括拉近了JJ与歌迷距离的延伸舞台，呈现更加震撼的视听体验。据 JJ 在新加坡首站演出之后透露，FINAL LAP 巡演将不断更新演变，更是令所有观众朋友们期待拉满。来临的 5月，终局落幕之前与你约定好在对的时间点一起圆满经历, 共同感受《JJ 林俊杰 JJ20 FINAL LAP 世界巡回演唱会》的绝美视听飨宴！",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01mPTSGf2GdSg9WRMbS_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01b45nzE2GdSg3iZxdm_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01c0tiCV2GdSg82tvak_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01QcoyDp2GdSgAcRFbv_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01zszpCk2GdSg8pX931_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "12130",
+        "wantNumStr": "1.2万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过61%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "893534016708",
+            "cityName": "吉隆坡站",
+            "showTime": "05.10"
+        },
+        {
+            "itemId": "893232076340",
+            "cityName": "中国香港站",
+            "showTime": "05.24-05.25"
+        },
+        {
+            "itemId": "892271959973",
+            "cityName": "韩国仁川站",
+            "showTime": "06.14"
+        },
+        {
+            "itemId": "875790440867",
+            "cityName": "英国伦敦站",
+            "showTime": "03.11"
+        },
+        {
+            "itemId": "875189207762",
+            "cityName": "法国巴黎站",
+            "showTime": "03.22"
+        },
+        {
+            "itemId": "882374252374",
+            "cityName": "悉尼站",
+            "showTime": "04.05"
+        },
+        {
+            "itemId": "882045193764",
+            "cityName": "墨尔本站",
+            "showTime": "04.11"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=893534016708"
+}

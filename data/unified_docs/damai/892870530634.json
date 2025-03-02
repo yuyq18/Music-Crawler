@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "892870530634",
+    "project_name": "不才「雾的19日」巡演 北京站",
+    "category_name": "演唱会",
+    "artists": [
+        "不才"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.05.24 周六 20:00",
+    "session_time": [],
+    "price": "138-438",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "蛙厂RMMF·北京798店",
+    "venue_info": {
+        "venue_address": "北京市朝阳区酒仙桥路2号院内（国营第706厂北厂区）第70幢一层3号",
+        "lng": 116.50262,
+        "lat": 39.993038
+    },
+    "project_info": "不才「雾的19日」巡演 北京站\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01nQxYvn2GdSgDIacxn_!!4611686018427383646-2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01aie6qa2GdSgBUpkz7_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "114",
+        "wantNumStr": "114",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "892870530634",
+            "cityName": "北京站",
+            "showTime": "05.24"
+        },
+        {
+            "itemId": "879002930677",
+            "cityName": "长沙站",
+            "showTime": "03.28"
+        },
+        {
+            "itemId": "876919013716",
+            "cityName": "武汉站",
+            "showTime": "03.29"
+        },
+        {
+            "itemId": "876544222802",
+            "cityName": "上海站",
+            "showTime": "04.11"
+        },
+        {
+            "itemId": "880530603684",
+            "cityName": "杭州站",
+            "showTime": "04.12"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=892870530634"
+}
