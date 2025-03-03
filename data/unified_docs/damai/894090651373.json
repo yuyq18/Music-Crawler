@@ -1,0 +1,57 @@
+{
+    "platform": "大麦",
+    "project_id": "894090651373",
+    "project_name": "拉美爵士天后凯伦·索萨Karen Souza《浓情蜜式》世界巡演音乐会-南京站",
+    "category_name": "演唱会",
+    "artists": [
+        "Karen Souza"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.04.26 周六 20:00",
+    "session_time": [],
+    "price": "168-380",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南京",
+    "venue_name": "稻香音乐空间",
+    "venue_info": {
+        "venue_address": "江苏省南京市建邺区兴隆街道燕山路南京奥林匹克体育中心A20号",
+        "lng": 118.724306,
+        "lat": 32.009625
+    },
+    "project_info": "VIP特权：赠送海报，提前入场（正常入场时间前半小时即可进场）\n \n拉丁爵士天后 | 热播全球120万+月听众\n慵懒美学 | Bossa Nova本格派\nRecipes for Love首发巡演|唯美声线，爵士心声\n\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01KGkM5r2GdSgFW0Xfk_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01q0rg6N2GdSgAzU0E3_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "894090651373",
+            "cityName": "南京站",
+            "showTime": "04.26"
+        },
+        {
+            "itemId": "889741629622",
+            "cityName": "青岛站",
+            "showTime": "04.27"
+        },
+        {
+            "itemId": "892792566201",
+            "cityName": "天津站",
+            "showTime": "04.30"
+        },
+        {
+            "itemId": "890784945708",
+            "cityName": "深圳站",
+            "showTime": "05.03"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=894090651373"
+}
