@@ -1,0 +1,47 @@
+{
+    "platform": "大麦",
+    "project_id": "891398426403",
+    "project_name": "蔡旻佑「就要和你在一起」巡回演唱会（深圳站）",
+    "category_name": "演唱会",
+    "artists": [
+        "蔡旻佑"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.16 周日 20:00",
+    "session_time": [],
+    "price": "288-488",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "深圳",
+    "venue_name": "NUBOND AIR",
+    "venue_info": {
+        "venue_address": "广东省深圳市南山区粤海街道后海汇",
+        "lng": 113.940723,
+        "lat": 22.515826
+    },
+    "project_info": "项目介绍：\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01CntLgo2GdSg4IvPuX_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN019VV7uQ2GdSgFPgN7M_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "636",
+        "wantNumStr": "636",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "891398426403",
+            "cityName": "深圳站",
+            "showTime": "03.16"
+        },
+        {
+            "itemId": "885224385087",
+            "cityName": "杭州站",
+            "showTime": "03.15"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=891398426403"
+}
