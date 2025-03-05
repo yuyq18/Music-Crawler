@@ -1,0 +1,45 @@
+{
+    "platform": "大麦",
+    "project_id": "894744783807",
+    "project_name": "赣州·芒禾音乐节",
+    "category_name": "演唱会",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2025.4.4-2025.4.5",
+    "session_time": [],
+    "price": "价格待定",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "赣州",
+    "venue_name": "赣州蓉江新区音乐营地",
+    "venue_info": {
+        "venue_address": "江西省赣州市章贡区105国道6号",
+        "lng": 114.897249,
+        "lat": 25.784425
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01oXNvRw2GdSgGgsa1D_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01oXNvRw2GdSgGgsa1D_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "1583",
+        "wantNumStr": "1583",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "894744783807",
+            "cityName": "赣州站",
+            "showTime": "2025.4.4-2025.4.5"
+        },
+        {
+            "itemId": "886201094041",
+            "cityName": "常州站",
+            "showTime": "03.22-03.23"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=894744783807"
+}
