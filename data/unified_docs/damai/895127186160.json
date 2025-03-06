@@ -1,0 +1,54 @@
+{
+    "platform": "大麦",
+    "project_id": "895127186160",
+    "project_name": "EDC KOREA 2025",
+    "category_name": "演唱会",
+    "artists": [
+        "Martin Garrix",
+        "Illenium",
+        "Skrillex（歌手）",
+        "Eli Brown",
+        "Maddix",
+        "I Hate Models",
+        "Blastoyz",
+        "Giuseppe Ottaviani"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.04.25-04.26",
+    "session_time": [],
+    "price": "876-2112",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "韩国仁川",
+    "venue_name": "迎仕柏度假城",
+    "venue_info": {
+        "venue_address": "韩国仁川广域市中区Unseodong127, Gonghangmunhwa-ro",
+        "lng": 126.3892,
+        "lat": 37.465801
+    },
+    "project_info": "温馨提示：\n1.购票成功的客户，请提前办理目的地签证，务必根据个人时间及行程合理安排。\n2.门票不支持退换，不可转让。一人一票，入场时必需持有有效门票和有效身份證件。 于当日凭购票二维码到现场售票处，经过核实购票者本人（订单或订单截图无效）程序后，请打开【票夹】的二维码并携带购买者有效身份证件前往取票点兑换成手环入场，感谢您的支持。\n3.本次演出要求实名制购票，购票时须填写实际观演人有效期内的护照信息，购票完成后观演人信息不可更改。\n4.本次演出仅限年满19周岁以上(2006年以前出生者，含2006年)的观众入场。\n演出说明：\n演出日期：2025.04.25-2025.04.26\n演出时间：17:00 - 次日03:00(600min)\n场馆： INSPIRE ENTERTAINMENT RESORT 迎仕柏度假城\n \n票价说明：\n>>双日票\n双日GA：1597人民币 （310,000 KRW ）\n双日VIP：2112人民币（410,000 KRW ）\n>>单日票\n4/25 GA：876人民币（170,000 KRW）\n4/26 GA：876人民币（170,000 KRW）\n4/25 VIP：1133人民币（220,000 KRW）\n4/26 VIP：1133人民币（220,000 KRW）\n*以上人民币票价已含当地服务费\n \n门票兑换说明：\n具体地址： INSPIRE ENTERTAINMENT RESORT 现场售票处\n兑换时间： 演出当天16:00\n1.于当日凭购票二维码到现场售票处， 经过核实购票者本人（订单或订单截图无效）程序后兑换成手环，感谢您的支持。\n2.所有门票须以购票者本人证件购买，入场时须携带有效身份证件以进行核验。\n3. 对于现场购票，每人只限购一次，购买多张门票者应一次性购票。\n\n ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01fPgMYD2GdSgH87EXi_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN013Resac2GdSgIExmLa_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": null,
+        "wantNumStr": null,
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "867246466337",
+            "cityName": "苏州站",
+            "showTime": "03.22-03.23"
+        },
+        {
+            "itemId": "895127186160",
+            "cityName": "韩国仁川站",
+            "showTime": "04.25-04.26"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=895127186160"
+}
