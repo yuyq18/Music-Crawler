@@ -1,0 +1,316 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1580",
+    "cityname": "杭州",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_895626588521",
+    "imgurl": "366331293",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "MOSLOS TOUR 2025 杭州站",
+    "nameNoHtml": "MOSLOS TOUR 2025 杭州站",
+    "price": {
+        "range": "298-398"
+    },
+    "price_str": "298-398",
+    "pricehigh": "398.0",
+    "privilegeTags": "[]",
+    "projectid": "895626588521",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.03.29 周六 20:00",
+    "sitestatus": "16",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": {
+        "lat": 30.325082,
+        "lng": 120.138401,
+        "region": "1",
+        "showCountText": "5个演出",
+        "venueAddr": "杭州市拱墅区运河天地",
+        "venueCityName": "杭州市",
+        "venueId": "7075007",
+        "venueName": "杭州迷笛live",
+        "venueProvinceName": "浙江省",
+        "venueType": "0"
+    },
+    "venuecity": "杭州",
+    "venueid": "7075007",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN011twY1y2GdSgIhvLBP_!!4611686018427383646-2-item_pic.png",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "buyButton": {
+        "afterCountdown": {
+            "origin": "1",
+            "status": "204",
+            "text": "立即购票"
+        },
+        "origin": "2",
+        "status": "106",
+        "text": "预约抢票",
+        "tip": "提前选票档 抢票更丝滑"
+    },
+    "countdown": {
+        "countdown": "63811",
+        "rcdt": "63810022",
+        "sellStartTime": "1741435200000",
+        "sellStartTimeStr": "03月08日 20:00"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><title></title><br></p><p><strong><span>MOSLOS TOUR</span></strong><strong><span>&nbsp;2025</span></strong></p><p><span>&nbsp;<img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN01gRRK2u2GdSgJwuU1S_!!2251059038.jpg\" width=\"1020\" height=\"1360\" damai_width=\"1020\" damai_height=\"1360\"></span><br></p><p><span>MACOVASEAS，川渝地区音乐人，DIGI GHETTO核心成员，极具嗓音辨识度，词曲创作有强烈的个人风格。作为国内最成熟运用autotune的rapper之一，他是以不断更新的超前想法进行说唱音乐制作的代表。</span></p><p><span>2019年，MACOVASEAS与艾志恒Asen、MULASAKEE、thomeboydontkill、太子KIV、TOYOKI成立新锐音乐团体DIGIGHETTO，地基街头,地基承载了高楼林立，街头诠释了野蛮生长。2022年初发布团队首张同名mixtape，被视为下一个“行业现象”。</span></p><p><span>2020年4月18日，MACOVASEAS发布了他的首张个人mixtape《Born 2 Be》，三年后的2023年9月29日，万众期待下他带来了个人全长专辑《MOSLOS》，收录16首单曲，赢得了广泛好评。</span></p><p><span>随着专辑的发布，MACOVASEAS个人巡演自2023年启动以来，走过全国数十个城市，有着爆燃的现场氛围和极致的视听体验。</span></p><p><span>My Own Story Luv Or Sad，MOSLOS TOUR 2025年，即将再度启程，带着即将发行的全新EP和全新的现场配置，</span><span><span>&nbsp;</span></span><span>MACOVASEAS期待与各位再度沉浸在演出现场！</span></p><p><span>&nbsp;</span><br></p><p><span>【场次信息】</span></p><p><span>3.28（周五）武汉 DJ CELL</span><span><br></span><span>不晚InTime&nbsp;Live（汉阳造店）</span><span><br></span><span>地址：武汉市汉阳区龟北路1号汉阳造文化创意产业园46栋</span><span><br></span><span><br></span><span>3.29 （周六）杭州 DJ CELL</span><span><br></span><span>杭州迷笛中心</span><span><br></span><span>地址：浙江省杭州市拱墅区小河路488号8幢杭州迷笛live</span><span><br></span><span><br></span><span>4.11 （周五）沈阳 DJ CRIP</span><span><br></span><span>沈阳·原料库VAST FACTORY(红梅店)</span><span><br></span><span>地址：沈阳市铁西区红梅文创园</span><span><br></span><span><br></span><span>4.13 （周日）天津 DJ CELL</span><span><br></span><span>SoulSense LiveHouse</span><span><br></span><span>地址：天津市河西区下瓦房街道台儿庄支路海河大观南苑配建17-101底商</span><span><br></span><span><br></span><span>4.18 （周五）呼和浩特 DJ CELL</span><span><br></span><span>布斯特艺术空间&nbsp;DDR&nbsp;MAX</span><span><br></span><span>地址：呼和浩特新城区西街新华大街与艺术厅北街交汇处往北&nbsp;10&nbsp;米</span><span><br></span><span><br></span><span>4.19 （周六）郑州 DJ CELL</span><span><br></span><span>7LIVEHOUSE+</span><span><br></span><span>地址：郑州市东风南路与康宁街交叉口海汇港2号楼5层</span><span><br></span><span><br></span><span>4.25 （周五）广州 DJ CRIP</span><span><br></span><span>MAOLivehouse广州中大店（一号馆）</span><span><br></span><span>地址：广州市海珠区新港西路82号中大门城市之丘东3楼3501铺</span></p><p><span><br></span><span>5.9（周五）青岛DJ CELL</span><span><br></span><span>青岛糖宝TEMPO LIVEHOUSE</span><span><br></span><span>地址：青岛市市南区湖北路17号（1907光影俱乐部1层）</span></p><p><span><br></span></p><p><span>5.10 （周六）贵阳 DJ CRIP</span><span><br></span><span>Z纪元空间</span><span><br></span><span>地址：贵阳市观山湖区林城东路155号美的悦然时光</span><span><br></span><span><br></span><span>5.16 （周五） 成都 DJ CELL</span><span><br></span><span>福馆 Full House（成都店）</span><span><br></span><span>地址：成都市成华区建设南支路4号“东郊记忆”园区1号楼Full House（成都店）</span></p><p><span>&nbsp;</span><br></p><p><span>【票价】</span></p><p><span>普通票：298</span></p><p><span>VIP票：398</span></p><p><span>&nbsp;</span><br></p><p><span>【温馨提示】</span></p><p><span>1.本轮巡演VIP观众拥有提前入场、和艺人单独合影权益；</span></p><p><span>2.请大家认准官方票务平台，切勿通过其他第三方渠道购票，以免遭受财产损失。</span></p><br><p><br></p></body></html>",
+        "introduceTitle": "项目介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "guideCat": "Livehouse",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i3/O1CN01xaKrwg1sZkLQhsrPN_!!6000000005781-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/2554426/510885271_1721399432706.jpg",
+                "https://img.alicdn.com/imgextra/i3/O1CN01xaKrwg1sZkLQhsrPN_!!6000000005781-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/2326910/465382018_1700885622127.jpg",
+                "https://img.alicdn.com/imgextra/i3/O1CN01tskbWG1hZKCvp2bX3_!!6000000004291-0-tps-500-500.jpg"
+            ],
+            "wantNum": "719",
+            "wantNumStr": "719",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wPOZN01jRf2eaC3Jz_!!6000000004545-2-tps-1125-702.png",
+        "categoryId": "123606001",
+        "cityName": "杭州市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "895626588521",
+        "itemName": "【杭州】MOSLOS TOUR 2025 杭州站",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "http://img.alicdn.com/imgextra/i4/2251059038/O1CN011twY1y2GdSgIhvLBP_!!4611686018427383646-2-item_pic.png"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "330100",
+        "performSeatImages": [],
+        "projectId": "225271019",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "4",
+                "5",
+                "6"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "以现场为准",
+        "showTime": "2025.03.29 周六 20:00",
+        "subTitle": "",
+        "tcCategoryId": "0301020100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "224483044",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=895626588521",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "group_coupon",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须打开【票夹】扫码入场，截图无效。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "1.2米以下儿童免票，需家长陪同（每个成人仅能带一名儿童）",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/身份证/护照/台湾居民来往大陆通行证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约30分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过票夹中的二维码验票入场",
+                "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：江油市太平镇摩斯洛文艺创作工作室\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：江油市太平镇摩斯洛文艺创作工作室</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}

@@ -1,0 +1,45 @@
+{
+    "platform": "大麦",
+    "project_id": "895426587937",
+    "project_name": "热浪飞行银河左岸音乐节",
+    "category_name": "演唱会",
+    "artists": [],
+    "show_status": "售票中",
+    "show_time": "2025.04.05-04.06",
+    "session_time": [],
+    "price": "0",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "成都",
+    "venue_name": "成都西部博览城北广场",
+    "venue_info": {
+        "venue_address": "天府新区福州路东段与蜀州路交汇处中国西部国际博览城北广场",
+        "lng": 104.084024,
+        "lat": 30.41864
+    },
+    "project_info": "",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01iG4F0l2GdSgKfeLmX_!!4611686018427383646-0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01OPUvyX2GdSgH49MVf_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "16899",
+        "wantNumStr": "1.7万",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "895426587937",
+            "cityName": "成都站",
+            "showTime": "04.05-04.06"
+        },
+        {
+            "itemId": "886618509126",
+            "cityName": "扬州站",
+            "showTime": "03.29-03.30"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=895426587937"
+}
