@@ -1,0 +1,521 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：万能青年旅店、胡德夫、左小祖咒、时过夏末乐队、白纸扇、荷尔蒙小姐乐队、法兰克福头盔、Nova Heart、大波浪乐队、超级市场、马赛克、重塑雕像的权利、山人乐队、张尕怂、KAWA乐队、鸟撞、雾也至、南青乐队、布衣乐队、声音玩具、郑智化、跳山羊、悲剧药方、本能實業",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "1063",
+    "cityname": "徐州",
+    "couponTags": "[]",
+    "description": "艺人：万能青年旅店、胡德夫、左小祖咒、时过夏末乐队、白纸扇、荷尔蒙小姐乐队、法兰克福头盔、Nova Heart、大波浪乐队、超级市场、马赛克、重塑雕像的权利、山人乐队、张尕怂、KAWA乐队、鸟撞、雾也至、南青乐队、布衣乐队、声音玩具、郑智化、跳山羊、悲剧药方、本能實業",
+    "id": "1_1_896237194462",
+    "imgurl": "372437352",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2025花厅·河流音乐节",
+    "nameNoHtml": "2025花厅·河流音乐节",
+    "price": {
+        "range": "168-480"
+    },
+    "price_str": "168-480",
+    "pricehigh": "480.0",
+    "privilegeTags": "[]",
+    "projectid": "896237194462",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.04.11-04.13",
+    "sitestatus": "3",
+    "subcategoryid": "12",
+    "subcategoryname": "音乐节",
+    "subhead": "",
+    "venue": {
+        "lat": 34.196765,
+        "lng": 118.347179,
+        "region": "1",
+        "venueAddr": "江苏省徐州市新沂市马陵山镇G235西600米",
+        "venueCityName": "徐州市",
+        "venueId": "6979087",
+        "venueName": "马陵山风景名胜区",
+        "venueProvinceName": "江苏省",
+        "venueType": "1"
+    },
+    "venuecity": "徐州",
+    "venueid": "6979087",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Pf4MAu2GdSgIMdO72_!!2251059038.jpg",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "江苏河流文化发展有限公司",
+            "entAddress": "江苏省无锡市梁溪区南长街426-1号一层",
+            "entType": "有限责任公司",
+            "legalPerson": "王丽娜",
+            "opFrom": "",
+            "opTo": "",
+            "regCapStr": "1000万人民币",
+            "socialCreditCode": "91320213MACM5LNF2J"
+        }
+    },
+    "buyButton": {
+        "origin": "-41",
+        "status": "90",
+        "text": "预约抢票",
+        "tip": "提前选票档 抢票更丝滑"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p><img src=\"https://img.alicdn.com/imgextra/i2/2251059038/O1CN018RtJKF2GdSgKyOcWW_!!2251059038.jpg\" width=\"924\" height=\"2247\" damai_width=\"1079\" damai_height=\"2432\"></p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN019YIhew2GdSgJ6OtK8_!!2251059038.jpg\" width=\"928\" height=\"1733\" damai_width=\"1280\" damai_height=\"1977\"></p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Xe5CrD2GdSgKijBzx_!!2251059038.jpg\" width=\"930\" height=\"1444\" damai_width=\"598\" damai_height=\"1280\"></p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01OOX9IS2GdSgKad0pb_!!2251059038.jpg\" width=\"934\" height=\"841\" damai_width=\"1422\" damai_height=\"1032\"></p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01xSchKS2GdSgDRGkYo_!!2251059038.jpg\" width=\"933\" height=\"1280\" damai_width=\"933\" damai_height=\"1280\"></p></body></html>",
+        "introduceTitle": "演出介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "artists": [
+            {
+                "desc": "当下享有最高声誉的中国摇滚乐队之一",
+                "id": "71713",
+                "name": "万能青年旅店",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1659431286045/1659431286045-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国台湾台东的原住民民歌手。",
+                "id": "1728",
+                "name": "胡德夫",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1534413408716/1534413408716-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "左小祖咒，乐队主唱歌手、吉他手、提琴手和歌曲作者，一个当代艺术家，电影配乐人。",
+                "id": "697",
+                "name": "左小祖咒",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1646204468175/1646204468175-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "一直是国内外后摇爱好者从来不会忽略的名字。",
+                "id": "713550037",
+                "name": "时过夏末乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1661327551451/1661327551451-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "乐队曾以AV大久保的身份叱咤中国摇滚圈多年，颇具影响力，曾与P.K.14、Carsick Cars一道展开全美巡演，多次受邀参加草莓、摩登、迷笛音乐节，并与英国传奇乐队Gang Of Four共赴欧洲巡演。音乐极具国际化，现场感染力十足。",
+                "id": "43401322",
+                "name": "白纸扇",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1626400562306/1626400562306-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "荷尔蒙小姐乐队，来自成都，由四个女生组成",
+                "id": "704456148",
+                "name": "荷尔蒙小姐乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1734577687582/1734577687582-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "摩登天空旗下新锐厂牌穿巛签约音乐人。\n  法兰克福头盔的音乐在氛围的包裹与冷峻机械的节奏中，结合出属于自己独特的风格。他们利用模块合成器，试图对声音本身进行突破，Glitch与各种极富特色的打击音色，带给观众与众不同的体验。\n在他们音乐的另一面，是由合成器音序编织的另一个画面，不同声部巧妙的叠加，交织出理性之外的感性世界。",
+                "id": "22896285943",
+                "name": "法兰克福头盔",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1699595702933/1699595702933-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "最受国际音乐界瞩目的中国乐队。",
+                "id": "67477655",
+                "name": "Nova Heart",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1686650096803/1686650096803-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国摇滚乐队。",
+                "id": "26930075",
+                "name": "大波浪乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1598977379171/1598977379171-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国电子乐队",
+                "id": "1342",
+                "name": "超级市场",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1571802351518/1571802351518-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国电子摇滚乐队",
+                "id": "72485",
+                "name": "马赛克",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1735112375580/1735112375580-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国摇滚乐队。",
+                "id": "118176032",
+                "name": "重塑雕像的权利",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1624873434532/1624873434532-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "山人乐队来自云南，组建于99年底，音乐特点质朴内敛、灵动狡诘。以北京和昆明为演出主战场。在经历了昆明国际现代音乐节、北京迷笛音乐节、丽江雪山音乐节等诸多音乐活动后，也受到了全国各地音乐爱好者的关注。因参加湖南卫视的《节节高声》节目，影响力迅速飙升。",
+                "id": "18160",
+                "name": "山人乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1521704571437/1521704571437-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "",
+                "id": "158575239",
+                "name": "张尕怂",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1624000538098/1624000538098-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "云南少数民族风格乐队。",
+                "id": "472817920",
+                "name": "KAWA乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1712719383700/1712719383700-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "鸟撞 Birdstriking 是一支来自北京的IndieRock乐队，成立于2009年的他们从未被时间磨去心气，依然带着一如既往的“少年感” ，活跃在国内外大大小小的舞台上。\n无论是前期简单直接的年轻呐喊，还是如今对宇宙、世界、自身、情感的自我诠释，他们的作品总能敏锐地捕捉当下青年一代生存中的迷思与感触，并用跨越时代的年轻热血，引领所有年轻的朋友，找到光亮、撞向未来的黄金时刻。",
+                "id": "482071101",
+                "name": "鸟撞",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1683698940136/1683698940136-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "雾也至乐队,独立乐队,雾也到达世界。",
+                "id": "32572718044",
+                "name": "雾也至",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1716185562605/1716185562605-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "南青乐队建于2017年9月1号，由均为河南各地喜爱摇滚乐的青年组成，顾名思义，南青意为河南青年，风格为Grunge、Punk Rock",
+                "id": "1439713798",
+                "name": "南青乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1690353985370/1690353985370-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "布衣乐队，西北本色音乐先行军，1995年成立于宁夏",
+                "id": "1329",
+                "name": "布衣乐队",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1699948546188/1699948546188-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "摇滚乐队",
+                "id": "18119",
+                "name": "声音玩具",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1707105874220/1707105874220-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "中国台湾歌手。",
+                "id": "2083",
+                "name": "郑智化",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1521703376835/1521703376835-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "跳山羊，一只在废墟中组建的独立摇滚乐队，风格在卡拉ok后朋和另类念诵之间反复横跳，连他们自己也不知道会落在哪一边。他们的声音难以预测，大开大合，像一根紧绷的弹弓在发射前后的巨大动态。无论静止或启动，都带有自我拷打的较量。最近他们在思考，当一朵云被击落时，下坠是什么滋味。这似乎暴露着，他们在沉闷的绝望与突如其来的破碎中，像个踉跄的不倒翁。但至少，当他们演奏音乐时，就忘了炸弹正在落下。",
+                "id": "145683307",
+                "name": "跳山羊",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1731650818812/1731650818812-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "悲剧药方，来自海南三亚",
+                "id": "1543910571",
+                "name": "悲剧药方",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1740473121046/1740473121046-main.jpg",
+                "tag": "歌手"
+            },
+            {
+                "desc": "独立乐队",
+                "id": "35544581087",
+                "name": "本能實業",
+                "picUrl": "https://intercms.damai.cn/artist/pic/1733136525985/1733136525985-main.jpg",
+                "tag": "歌手"
+            }
+        ],
+        "artistsTitle": "演出阵容",
+        "guideCat": "音乐节",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "true",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可以添加提醒，不再担心忘记～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "title": "想看人数",
+            "useLocalCache": "false",
+            "userImgs": [
+                "https://img.alicdn.com/imgextra/i3/O1CN01tskbWG1hZKCvp2bX3_!!6000000004291-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotos/97441/19488303.jpg",
+                "https://img.alicdn.com/imgextra/i3/O1CN01xaKrwg1sZkLQhsrPN_!!6000000005781-0-tps-500-500.jpg",
+                "http://perico.damai.cn/userheadphotosnew/707460/141492021_1718208268160.jpg",
+                "https://img.alicdn.com/imgextra/i1/O1CN017sq23P1nF4O5uJsRB_!!6000000005059-0-tps-500-500.jpg"
+            ],
+            "wantNum": "2601",
+            "wantNumStr": "2601",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01R3THyh1QT3Y3gWguc_!!6000000001976-2-tps-1125-702.png",
+        "categoryId": "127420006",
+        "cityName": "徐州市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "ipId": "36550706063",
+        "itemId": "896237194462",
+        "itemName": "【徐州】2025花厅·河流音乐节",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01Pf4MAu2GdSgIMdO72_!!2251059038.jpg"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "320300",
+        "performSeatImages": [],
+        "projectId": "225663003",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                },
+                {
+                    "id": "4",
+                    "name": "护照"
+                },
+                {
+                    "id": "5",
+                    "name": "港澳通行证"
+                },
+                {
+                    "id": "6",
+                    "name": "台湾通行证"
+                },
+                {
+                    "id": "7",
+                    "name": "港澳台居民居住证"
+                },
+                {
+                    "id": "8",
+                    "name": "外国人永久居留身份证"
+                }
+            ],
+            "credentials": [
+                "1",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "以现场为准",
+        "showTime": "2025.04.11-04.13",
+        "tcCategoryId": "0301030100"
+    },
+    "marketing": {},
+    "performLimits": [
+        {
+            "performId": "225163004",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "224967112",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "224968108",
+            "singleLimitation": "6"
+        },
+        {
+            "performId": "224968109",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=896237194462",
+        "showFlag": "true"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "group_coupon",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张、每个账号最多购买6张。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须携带购票时对应证件验证入场。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "1.2米以下儿童可在已购票家长（监护人）陪同下免票入场，每位家长（监护人）限携带一位儿童。1.2米以上儿童需购票入场。特别提醒：音乐节现场人员相对较多，家长需自行看管好儿童。音乐节现场音响声音较大，6岁以下婴幼儿不建议入场，避免造成听力损伤。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：护照/身份证/港澳居民来往内地通行证/台湾居民来往大陆通行证/外国人永久居留身份证/港澳台居民居住证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "以现场为准",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出前约90分钟入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "20",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01fuJhB01iSHxot8hmu_!!6000000004411-2-tps-144-144.png",
+                "title": "最低演出曲目"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            },
+            {
+                "content": "2000",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01g1Fs6025i4mGCqzxa_!!6000000007559-2-tps-144-144.png",
+                "title": "大麦网初始开售时全场可售门票总张数"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                "tagName": "条件退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过身份证验票入场",
+                "tagDescWithStyle": "通过身份证验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：江苏河流文化发展有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：江苏河流文化发展有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}
