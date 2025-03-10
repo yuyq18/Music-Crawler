@@ -1,0 +1,77 @@
+{
+    "platform": "大麦",
+    "project_id": "895073819125",
+    "project_name": "林忆莲《回响 Resonance》 2025演唱会–北京站",
+    "category_name": "演唱会",
+    "artists": [
+        "林忆莲"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.05.24 周六 19:00",
+    "session_time": [],
+    "price": "380-1280",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "北京",
+    "venue_name": "工人体育场",
+    "venue_info": {
+        "venue_address": "北京市朝阳区三里屯街道北京工人体育场",
+        "lng": 116.447296,
+        "lat": 39.930597
+    },
+    "project_info": "林忆莲《回响 Resonance》 2025 巡回演唱会\n\n过往的交织 只为了和你相遇\n从现在 到未来 依然永无止境\n找寻最初的自己\n\n「回响 Resonance」\n将从第一个音符展开探索自我无限可能\n我们可以跨越时空，走向过去\n用生命的力量，共振你我心灵的乐章\n\n记得感谢 记得自己\n记得我们曾经一起拥有的温度\n\n本次巡演以时空交错为主轴带您回溯林忆莲的音乐旅程\n她的歌声将随着旋律在柔和的光线音波粒子里扩散\n层层堆栈不同时期的音乐念想\n\n无论是出道时的青涩笑容 到如今的优雅自在\n每个阶段 都如同珍贵的时间胶囊\n载满着我们的记忆和情感\n期待为听众带来身心的疗愈和情感的共鸣\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01arfqSY2GdSgIiNfOj_!!4611686018427383646-0-item_pic.jpg",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01Hzk6SN2GdSgJMjGAu_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01DxFvna2GdSgH935gA_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01j1OCWx2GdSgHN2Sks_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ejy6092GdSgHzLjqd_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i4/2251059038/O1CN01NWyAGo2GdSgIqiQLh_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01z09HcK2GdSgHOydzs_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "12512",
+        "wantNumStr": "1.3万",
+        "wantNumSuffix": "人",
+        "wantDesc": "超过61%同类演出"
+    },
+    "tours": [
+        {
+            "itemId": "885003875176",
+            "cityName": "广州站",
+            "showTime": "04.12"
+        },
+        {
+            "itemId": "881485019703",
+            "cityName": "南昌站",
+            "showTime": "05.02"
+        },
+        {
+            "itemId": "895073819125",
+            "cityName": "北京站",
+            "showTime": "05.24"
+        },
+        {
+            "itemId": "881005836463",
+            "cityName": "太原站",
+            "showTime": "05.31"
+        },
+        {
+            "itemId": "875489858428",
+            "cityName": "昆明站",
+            "showTime": "03.22"
+        },
+        {
+            "itemId": "891608684962",
+            "cityName": "武汉站",
+            "showTime": "04.05"
+        },
+        {
+            "itemId": "882121729574",
+            "cityName": "常州站",
+            "showTime": "04.19"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=895073819125"
+}
