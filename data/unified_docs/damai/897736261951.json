@@ -1,0 +1,68 @@
+{
+    "platform": "大麦",
+    "project_id": "897736261951",
+    "project_name": "拉美爵士天后 凯伦·索萨Karen Souza《浓情密式》世界巡演演唱会-重庆站",
+    "category_name": "演唱会",
+    "artists": [
+        "Karen Souza"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.05.10 周六 19:30",
+    "session_time": [
+        "05.10 周六"
+    ],
+    "price": "84-480",
+    "isGeneralAgent": "false",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "重庆",
+    "venue_name": "重庆国泰艺术中心大剧场",
+    "venue_info": {
+        "venue_address": "重庆市渝中区临江路3号",
+        "lng": 106.577621,
+        "lat": 29.560217
+    },
+    "project_info": "             \n 演出曲目及顺序以现场为准       ",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01FN66dH2GdSgPDfMU6_!!4611686018427383646-2-item_pic.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01sk98SP2GdSgG591UL_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN01dK0b8F2GdSgGUp7QS_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01B2DELN2GdSgA1yY9s_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i1/2251059038/O1CN014FzBlB2GdSgELkoff_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i2/2251059038/O1CN01o5u1Cy2GdSgF7vQwA_!!2251059038.png"
+    ],
+    "wantVO": {
+        "wantNum": "42",
+        "wantNumStr": "42",
+        "wantNumSuffix": "人",
+        "wantDesc": "人气飙升中"
+    },
+    "tours": [
+        {
+            "itemId": "897736261951",
+            "cityName": "重庆站",
+            "showTime": "05.10"
+        },
+        {
+            "itemId": "894090651373",
+            "cityName": "南京站",
+            "showTime": "04.26"
+        },
+        {
+            "itemId": "889741629622",
+            "cityName": "青岛站",
+            "showTime": "04.27"
+        },
+        {
+            "itemId": "892792566201",
+            "cityName": "天津站",
+            "showTime": "04.30"
+        },
+        {
+            "itemId": "890784945708",
+            "cityName": "深圳站",
+            "showTime": "05.03"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=897736261951"
+}

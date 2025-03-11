@@ -1,0 +1,52 @@
+{
+    "platform": "大麦",
+    "project_id": "896779067223",
+    "project_name": "太一 代号·「茧」² 2025 全国巡演",
+    "category_name": "演唱会",
+    "artists": [
+        "太一"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.03.30 周日 19:30",
+    "session_time": [],
+    "price": "220-480",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "南京",
+    "venue_name": "稻香音乐空间",
+    "venue_info": {
+        "venue_address": "江苏省南京市建邺区兴隆街道燕山路南京奥林匹克体育中心A20号",
+        "lng": 118.724306,
+        "lat": 32.009625
+    },
+    "project_info": "太一 代号·「茧」² 2025 全国巡演（南京站）\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01sifaYv2GdSfyKK5cj_!!2251059038.jpg",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ObPo3R2GdSgLiqDAu_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "541",
+        "wantNumStr": "541",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "896779067223",
+            "cityName": "南京站",
+            "showTime": "03.30"
+        },
+        {
+            "itemId": "891102086351",
+            "cityName": "厦门站",
+            "showTime": "03.14"
+        },
+        {
+            "itemId": "891531817851",
+            "cityName": "南昌站",
+            "showTime": "03.16"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=896779067223"
+}

@@ -1,0 +1,329 @@
+{
+    "activityTags": "[]",
+    "actors": "",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "872",
+    "cityname": "上海",
+    "couponTags": "[]",
+    "description": "",
+    "id": "1_1_897967424844",
+    "imgurl": "389739656",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "F1中国大奖赛派对 ft. Nicolas Nohra",
+    "nameNoHtml": "F1中国大奖赛派对 ft. Nicolas Nohra",
+    "price": {
+        "range": "128-448"
+    },
+    "price_str": "128-448",
+    "pricehigh": "448.0",
+    "privilegeTags": "[]",
+    "projectid": "897967424844",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.03.22 周六 21:00",
+    "sitestatus": "3",
+    "subcategoryid": "48",
+    "subcategoryname": "livehouse",
+    "subhead": "",
+    "venue": {
+        "lat": 31.226623,
+        "lng": 120.997485,
+        "region": "1",
+        "venueAddr": "上海市静安区胶州路273弄60号5栋",
+        "venueCityName": "上海市",
+        "venueId": "6607011",
+        "venueName": "La Barra",
+        "venueProvinceName": "上海",
+        "venueType": "0"
+    },
+    "venuecity": "上海",
+    "venueid": "6607011",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01dkZ80d2GdSgMUHIiK_!!4611686018427383646-2-item_pic.png",
+    "actionControl": {
+        "degradeControl": {
+            "comment": "false",
+            "recommend": "false"
+        },
+        "hotProject": "false"
+    },
+    "approval": {
+        "approvalAuthorizationUrlList": [],
+        "approvalUrlList": [],
+        "enterpriseInfo": {
+            "cpName": "上海源贡文化交流有限公司",
+            "entAddress": "上海市金山区卫昌路293号2幢(金石湾经济小区)",
+            "entType": "有限责任公司(自然人独资)",
+            "legalPerson": "包一品",
+            "opFrom": "",
+            "opTo": "2052-01-28",
+            "regCapStr": "50万人民币",
+            "socialCreditCode": "91310116MA7HY0RY0N"
+        }
+    },
+    "buyButton": {
+        "origin": "5",
+        "status": "207",
+        "text": "特惠购票"
+    },
+    "desc": {
+        "introduce": "<!DOCTYPE html><html><head></head><body><p style=\"text-align: center;\">Space Panda将在La Barra，打造一场激情四溢的F1中国大奖赛狂欢派对！当晚的两个舞台将带给你双重体验 - 二楼的主舞台特邀国际知名DJ，以深沉且富有节奏的旋律引领潮流。与此同时，1楼的酒廊则有黑胶DJ倾情演绎，将经典永恒的旋律娓娓道来。</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">来自哥伦比亚的领衔艺人Nicolás Nohra，身为一位才华横溢的DJ及音乐制作人，成功塑造了独树一帜的Afro House流派。他在北京、迈阿密、孟买、图卢姆以及纽约等留下了自己的音乐足迹，此次上海首秀，他将以精彩绝伦的演出呈现一场充满激情的视听盛宴。</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">门票：128-198元含1杯赠饮</p><p style=\"text-align: center;\">音乐类型：Afro, Deep, Tech House&nbsp;</p><p style=\"text-align: center;\">演出阵容：NICOLAS NOHRA, Tom William, Roni Macedo, Blinky, Ian G, nAsakoto iAkata</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2251059038/O1CN01JKeoC42GdSgMaFgSD_!!2251059038.jpg\" width=\"1499\" height=\"2000\" damai_width=\"1499\" damai_height=\"2000\"><br></p><p style=\"text-align: center;\"><br></p></body></html>",
+        "introduceTitle": "项目介绍"
+    },
+    "ext": {
+        "alipayLandingPageUrl": "https://render.alipay.com/p/s/i",
+        "atomSplit": "1"
+    },
+    "faqs": [
+        "有座位图可以查看吗",
+        "我该怎么选座",
+        "我想要订票，怎么操作",
+        "演出时长大概是多少呢",
+        "入场时间是什么时候",
+        "儿童也是全票吗",
+        "我想了解退票规则",
+        "取票地址在哪里"
+    ],
+    "guide": {
+        "guideCat": "Livehouse",
+        "want": {
+            "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+            "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+            "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+            "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+            "showWant": "false",
+            "subFlag": "false",
+            "thresholdNum": "10000",
+            "tipsSubTitle": "可购票时会及时通知你的～",
+            "tipsTitle": "已加入 [我的-想看]",
+            "useLocalCache": "false",
+            "wantNumSuffix": "人"
+        }
+    },
+    "item": {
+        "catBgUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01wPOZN01jRf2eaC3Jz_!!6000000004545-2-tps-1125-702.png",
+        "categoryId": "123606001",
+        "cityName": "上海市",
+        "generalAgent": {
+            "description": "总票代",
+            "generalAgent": "true",
+            "generalType": "2"
+        },
+        "itemId": "897967424844",
+        "itemName": "【上海】F1中国大奖赛派对 ft. Nicolas Nohra",
+        "itemPics": {
+            "itemPicList": [
+                {
+                    "picUrl": "http://img.alicdn.com/imgextra/i4/2251059038/O1CN01dkZ80d2GdSgMUHIiK_!!4611686018427383646-2-item_pic.png"
+                }
+            ]
+        },
+        "itemType": "1",
+        "nationalStandardCityId": "310100",
+        "performSeatImages": [],
+        "projectId": "225719004",
+        "projectStatus": "1",
+        "purchaseLimitation": "6",
+        "realName": {
+            "credentialNames": [
+                {
+                    "id": "1",
+                    "name": "身份证"
+                }
+            ],
+            "credentials": [
+                "1"
+            ],
+            "description": "该项目需实名制认证，请认证后再进行购票",
+            "type": "1"
+        },
+        "showDuration": "演出时间为21:00-03:30",
+        "showTime": "2025.03.22 周六 21:00",
+        "tcCategoryId": "0301040100"
+    },
+    "marketing": {
+        "promotionDetail": {
+            "promotionGroupList": [
+                {
+                    "promotionGroupType": "1",
+                    "promotionGroupTypeDesc": "票档优惠",
+                    "promotionList": [
+                        {
+                            "promotionCategoryDetails": [
+                                {
+                                    "displayContent": "1.4折，到手448（票档¥168x20）",
+                                    "skuName": "20人套票"
+                                },
+                                {
+                                    "displayContent": "1.4折，到手358（票档¥128x20）",
+                                    "skuName": "20人套票"
+                                }
+                            ],
+                            "promotionContentList": [
+                                "20人套票1.4折，到手¥358(票档¥128x20)",
+                                "20人套票1.4折，到手¥448(票档¥168x20)"
+                            ],
+                            "promotionTag": "套票",
+                            "promotionType": "3"
+                        }
+                    ]
+                }
+            ],
+            "promotionRemark": "说明：您选购优惠票档所对应的票品种类可能为套票、优惠票等类型，具体以您收到的票面信息标示为准。实际优惠情况以订单确认页为准。以上票档价格及优惠折扣基准价格均不含服务费。"
+        },
+        "promotionList": {
+            "generalPromotion": [
+                {
+                    "prefix": "20人套票",
+                    "suffix": "1.4折"
+                }
+            ]
+        }
+    },
+    "performLimits": [
+        {
+            "performId": "225310019",
+            "singleLimitation": "6"
+        }
+    ],
+    "purchaseGuide": {
+        "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=897967424844",
+        "showFlag": "false"
+    },
+    "renderControl": {
+        "hasServiceFee": "false",
+        "isConcertType": "false",
+        "moduleOrder": [
+            "header",
+            "purchase_guide",
+            "rating_wanting",
+            "artist",
+            "group_coupon",
+            "mission",
+            "banner",
+            "description",
+            "brand",
+            "show_guide",
+            "comment",
+            "notice",
+            "faq",
+            "footer"
+        ],
+        "showRealNamePopup": "false"
+    },
+    "serviceTips": {
+        "importantNotes": [
+            {
+                "content": "每笔订单最多购买6张",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01xHaeqo1zO1kHtIOEa_!!6000000006703-2-tps-144-144.png",
+                "title": "限购规则"
+            },
+            {
+                "content": "票品为有价票券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN017tQHWJ1HHlETFHUP0_!!6000000000733-2-tps-144-144.png",
+                "title": "退票/换票规则"
+            },
+            {
+                "content": "须打开【票夹】扫码入场，截图无效。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN01Q4zdmq1fUAkDGHxvo_!!6000000004009-2-tps-144-144.png",
+                "title": "入场方式说明"
+            },
+            {
+                "content": "未成年不可入场",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN018BKxF526fcGcgOjBP_!!6000000007689-2-tps-144-144.png",
+                "title": "儿童购票"
+            },
+            {
+                "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01XnP8vt1l85L3ZSuW1_!!6000000004773-2-tps-144-144.png",
+                "title": "发票说明"
+            },
+            {
+                "content": "一张门票对应一个证件；证件支持：身份证",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN0176YBG91aNh407l1Jh_!!6000000003318-2-tps-144-144.png",
+                "title": "购票证件说明"
+            },
+            {
+                "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：（1）通过同一ID订购超出限购张数的订单。（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。",
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01unvwa31zkT9Y7bm7m_!!6000000006752-2-tps-144-144.png",
+                "title": "异常排单说明"
+            },
+            {
+                "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0133g7B81S91RyhPhBS_!!6000000002203-2-tps-144-144.png",
+                "title": "温馨提示"
+            },
+            {
+                "content": "演出时间为21:00-03:30",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01Wa3Akl1hbA1Fg2zpP_!!6000000004295-2-tps-144-144.png",
+                "title": "演出时长"
+            },
+            {
+                "content": "请于演出开始后入场",
+                "icon": "https://gw.alicdn.com/imgextra/i2/O1CN01QHyDGA1rEOUPLb3WY_!!6000000005599-2-tps-144-144.png",
+                "title": "入场时间"
+            },
+            {
+                "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合。",
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01hOmBKs1l7AXuHwWV3_!!6000000004771-2-tps-144-144.png",
+                "title": "禁止携带物品"
+            },
+            {
+                "content": "有寄存处,具体位置请联系现场工作人员。",
+                "icon": "https://gw.alicdn.com/imgextra/i1/O1CN0191908w1a92OBNIwsi_!!6000000003286-2-tps-144-144.png",
+                "title": "寄存说明"
+            }
+        ],
+        "serviceTerm": [
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "票品为有价证券，非普通商品，其背后承载的文化服务具有时效性，稀缺性等特征，不支持退换。",
+                "tagName": "不支持退",
+                "tagType": "2"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                "tagName": "实名制购票和入场",
+                "tagType": "1"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png",
+                "isSupport": "false",
+                "renderType": "1",
+                "tagDesc": "入场后为站席观看，门票无对应座位。",
+                "tagName": "站席观演",
+                "tagType": "3"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "通过票夹中的二维码验票入场",
+                "tagDescWithStyle": "通过票夹中的二维码验票入场",
+                "tagName": "电子票",
+                "tagType": "4"
+            },
+            {
+                "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png",
+                "isSupport": "true",
+                "renderType": "1",
+                "tagDesc": "发票开具方：上海和筠文化传播有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagDescWithStyle": "<b>发票开具方：上海和筠文化传播有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                "tagName": "电子发票",
+                "tagType": "5"
+            }
+        ]
+    },
+    "version": "2"
+}
