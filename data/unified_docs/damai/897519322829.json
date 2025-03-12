@@ -1,0 +1,62 @@
+{
+    "platform": "大麦",
+    "project_id": "897519322829",
+    "project_name": "永彬Ryan.B「歌火人不火」2025巡演 宁波站",
+    "category_name": "演唱会",
+    "artists": [
+        "永彬Ryan.B"
+    ],
+    "show_status": "售票中",
+    "show_time": "2025.06.06 周五 20:00",
+    "session_time": [],
+    "price": "159-388",
+    "isGeneralAgent": "true",
+    "isHotProject": "false",
+    "rating": null,
+    "city_name": "宁波",
+    "venue_name": "177Live音乐现场",
+    "venue_info": {
+        "venue_address": "甬江大道177号",
+        "lng": 121.566145,
+        "lat": 29.879648
+    },
+    "project_info": "永彬Ryan.B「歌火人不火」2025巡演 宁波站\n",
+    "project_imgs": [
+        "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01aUIa5u2GdSgLQc7Bg_!!2251059038.png",
+        "https://img.alicdn.com/imgextra/i3/2251059038/O1CN01w5tRxO2GdSgMtrPoN_!!2251059038.jpg"
+    ],
+    "wantVO": {
+        "wantNum": "41",
+        "wantNumStr": "41",
+        "wantNumSuffix": "人",
+        "wantDesc": null
+    },
+    "tours": [
+        {
+            "itemId": "897983345518",
+            "cityName": "南宁站",
+            "showTime": "05.09"
+        },
+        {
+            "itemId": "897241839133",
+            "cityName": "广州站",
+            "showTime": "05.10"
+        },
+        {
+            "itemId": "897514918793",
+            "cityName": "天津站",
+            "showTime": "05.24"
+        },
+        {
+            "itemId": "897519322829",
+            "cityName": "宁波站",
+            "showTime": "06.06"
+        },
+        {
+            "itemId": "898354804207",
+            "cityName": "上海站",
+            "showTime": "06.07"
+        }
+    ],
+    "project_link": "https://detail.damai.cn/item.htm?id=897519322829"
+}

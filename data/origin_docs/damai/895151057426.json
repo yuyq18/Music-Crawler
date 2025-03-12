@@ -1,0 +1,825 @@
+{
+    "activityTags": "[]",
+    "actors": "艺人：华晨宇",
+    "business": "0",
+    "categoryid": "1",
+    "categoryname": "演唱会",
+    "cityid": "3250",
+    "cityname": "西安",
+    "couponTags": "[]",
+    "description": "艺人：华晨宇",
+    "id": "1_1_895151057426",
+    "imgurl": "361575982",
+    "isAtmospheric": "False",
+    "iseticket": "0",
+    "isgeneralagent": "1",
+    "issuperticket": "0",
+    "isxuanzuo": "0",
+    "name": "2025华晨宇火星演唱会—西安站",
+    "nameNoHtml": "2025华晨宇火星演唱会—西安站",
+    "price": "380.0",
+    "price_str": "380-1280",
+    "pricehigh": "1280.0",
+    "privilegeTags": "[]",
+    "projectid": "895151057426",
+    "promotionTags": "[]",
+    "showstatus": "售票中",
+    "showtag": "",
+    "showtime": "2025.04.05 周六 19:00",
+    "sitestatus": "16",
+    "subcategoryid": "13",
+    "subcategoryname": "其他",
+    "subhead": "",
+    "venue": "西安奥体中心体育场",
+    "venuecity": "西安",
+    "venueid": "2879002",
+    "verticalPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN017Ivye32GdSgNCjROO_!!2251059038.jpg",
+    "detailViewComponentMap": {
+        "item": {
+            "staticData": {
+                "itemBase": {
+                    "itemId": "895151057426",
+                    "itemName": "【西安】2025华晨宇火星演唱会—西安站",
+                    "generalAgent": {
+                        "generalAgent": "true",
+                        "description": "总票代",
+                        "generalType": "2"
+                    },
+                    "nationalStandardCityId": "610100",
+                    "cityName": "西安市",
+                    "categoryId": "50019085",
+                    "itemPic": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN017Ivye32GdSgNCjROO_!!2251059038.jpg",
+                    "itemPics": {
+                        "itemPicList": [
+                            {
+                                "picUrl": "https://img.alicdn.com/imgextra/i2/2251059038/O1CN017Ivye32GdSgNCjROO_!!2251059038.jpg"
+                            }
+                        ]
+                    },
+                    "seatImg": "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png",
+                    "seatImages": [
+                        "https://gw.alicdn.com/tfs/TB1E8k1eKP2gK0jSZFoXXauIVXa-750-534.png"
+                    ],
+                    "hasNoneSeatImg": "true",
+                    "showTime": "2025.04.05 周六 19:00",
+                    "showDuration": "约120分钟（以现场为准）",
+                    "serviceNotes": [
+                        {
+                            "isSupport": "false",
+                            "tagName": "条件退",
+                            "tagDesc": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。由于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形以项目详情页公告为准，退票政策最迟于实际开售时公布。",
+                            "tagType": "2",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "实名制购票和入场",
+                            "tagDesc": "本项目需实名制购票及入场，购票完成后观演人信息不可更改，须购票时填写的实名观演人携带本人有效证件验证入场。",
+                            "tagType": "1",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "false",
+                            "tagName": "不支持选座",
+                            "tagDesc": "本项目不支持自主选座，同一个订单优先连座",
+                            "tagType": "3",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01U4xvGO1qlzvKaYVze_!!6000000005537-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子票",
+                            "tagDesc": "通过身份证验票入场",
+                            "tagDescWithStyle": "通过身份证验票入场",
+                            "tagType": "4",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        },
+                        {
+                            "isSupport": "true",
+                            "tagName": "电子发票",
+                            "tagDesc": "发票开具方：北京亚美时代文化传媒有限公司\r\n本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagDescWithStyle": "<b>发票开具方：北京亚美时代文化传媒有限公司</b><br>本项目支持开具电子发票。需要在演出开始前在订单详情页提交发票申请，一般演出结束后1个月左右开具并发送至您的邮箱。",
+                            "tagType": "5",
+                            "renderType": "1",
+                            "icon": "https://gw.alicdn.com/imgextra/i3/O1CN01W71UiF1LeRIVqb1Ci_!!6000000001324-2-tps-45-45.png"
+                        }
+                    ],
+                    "oldCompanyId": "3250",
+                    "atomSplit": "1",
+                    "isHotProject": "false",
+                    "isShowHotProjectModel": "false",
+                    "isShowGrabTicketGuide": "true",
+                    "isShowGrabTicketGuideLink": "true",
+                    "projectStatus": "1",
+                    "itemType": "1",
+                    "hasServiceFee": "false",
+                    "guideCat": "演唱会"
+                },
+                "itemExtendInfo": {
+                    "itemDescTitle": "演出介绍",
+                    "itemExtend": "<!DOCTYPE html><html><head></head><body><p>2025华晨宇火星演唱会西安站即将启幕 古城奏响春日强音</p>\n<p>&nbsp;</p>\n<p>2025华晨宇火星演唱会即将于4月5日登陆十三朝古都西安，西安奥体中心体育场将迎来火星四面台，一场古今交融的音乐对话即将开启。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01QJU5MF2GdSgKeqH70_!!2251059038.jpg\" width=\"799\" height=\"1200\" damai_width=\"799\" damai_height=\"1200\"></p>\n<p>火星演唱会首登西安 历史与现代的艺术交响</p>\n<p>继福州首站、长沙站之后，西安站作为2025年火星演唱会的第三站，备受瞩目，也承载着“火星人”的热切期盼。此前长沙站门票预售情况异常火爆，预售通道开启后，歌迷热情高涨，门票很快被抢购一空。这种热烈的氛围也让大家对西安站充满了期待。</p>\n<p>火星演唱会首次落地这座历史文化名城，华晨宇带着全新升级的四面台与歌迷见面。舞美概念上，以第六张个人专辑《量变临界点》为灵感，用“熵”、“无序·有序”、“从混沌到光芒”比拟人生，赋予更多内涵。在舞美的设计中，这些概念将以装置设计、机械运用、新设备和材质运用等方式来呈现，共同打造充满极致美学的火星异界。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01xPfUpl2GdSgNcfiOC_!!2251059038.jpg\" width=\"777\" height=\"471\" damai_width=\"777\" damai_height=\"471\"></p>\n<p>2024年，火星演唱会曾以国风美学惊艳众人，将中国传统文化与现代流行元素完美融合，展现了独特的艺术魅力。融入了民族乐器的编曲，也让人耳目一新。今年华晨宇更是突破，将歌单革新，我们将在部分编曲中听到中西音乐元素的交锋，而正是在古城西安，古今中外的音乐格调必将在此碰撞出更多艺术火花。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i1/2251059038/O1CN01Bvdopt2GdSgLI5y3j_!!2251059038.jpg\" width=\"777\" height=\"518\" damai_width=\"777\" damai_height=\"518\"></p>\n<p>揽德国iF设计奖两项大奖 火星演唱会舞台设计再获国际认可</p>\n<p>近日，华晨宇火星演唱会舞台设计再度斩获国际权威设计大奖——2025德国iF设计奖。2024华晨宇火星演唱会（日出场）、2023华晨宇火星演唱会（四面台）舞台建筑/装置均荣获2025德国iF设计奖，双冠加冕。该奖项被国际公认当代工业设计领域中卓有声望的大奖，是世界三大设计奖之一，也因“独立、严谨、可靠”的评奖理念闻名于世。此次获奖，再次印证了火星演唱会的舞美设计水平已达到国际顶尖水准，弘扬中国文化的同时，让世界看到东方美学超乎想象的艺术性。</p>\n<p><img src=\"https://img.alicdn.com/imgextra/i4/2251059038/O1CN01ivd9gy2GdSgNcf2fa_!!2251059038.png\" width=\"777\" height=\"340\" damai_width=\"777\" damai_height=\"340\"></p>\n<p>火星演唱会不断探索与创新，让艺术+科技、艺术+自然的舞台模式打破传统舞台界限，打造了兼具未来感与可持续性的视听盛宴。此次将在西安站呈现的四面台，已在原获奖舞美设计的基础上进行了再升级，更加令人期待。</p>\n<p>&nbsp;</p>\n<p>4月5日，让我们相约西安，享长安古韵，追唐风遗梦，与华晨宇共赴火星之城！</p></body></html>",
+                    "otherContent": []
+                },
+                "ticketNotes": [
+                    {
+                        "title": "演出时长",
+                        "content": "以现场为准"
+                    },
+                    {
+                        "title": "退换说明",
+                        "content": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                    },
+                    {
+                        "title": "入场时间",
+                        "content": "以活动现场为准"
+                    },
+                    {
+                        "title": "发票说明",
+                        "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                    }
+                ],
+                "tips": [],
+                "noticeMatter": {
+                    "title": "须知事项",
+                    "noticeList": [
+                        {
+                            "noteTitle": "购票须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "限购规则",
+                                    "content": "每笔订单最多购买4张、每个账号最多购买4张。"
+                                },
+                                {
+                                    "title": "退票/换票规则",
+                                    "content": "本项目支持有条件退款，具体可申请退票的期间、退票手续费等退票条件以项目主办方提供的退票政策为准，详见服务说明或项目详情页公示的退票政策。"
+                                },
+                                {
+                                    "title": "入场规则",
+                                    "content": "须携带购票时对应证件验证入场。"
+                                },
+                                {
+                                    "title": "儿童购票",
+                                    "content": "儿童一律凭票入场"
+                                },
+                                {
+                                    "title": "发票说明",
+                                    "content": "演出开始前，去【订单详情页】提交发票申请。我们会将电子发票发送至您的邮箱。"
+                                },
+                                {
+                                    "title": "实名购票规则",
+                                    "content": "一张门票对应一个证件；证件支持：港澳居民来往内地通行证/港澳台居民居住证/护照/台湾居民来往大陆通行证/身份证/外国人永久居留身份证"
+                                },
+                                {
+                                    "title": "异常排单说明",
+                                    "content": "对于异常订购行为，大麦网有权在订单成立或者生效之后取消相应订单。异常订购行为包括但不限于以下情形：\n（1）通过同一ID订购超出限购张数的订单。\n（2）经合理判断认为非真实消费者的下单行为，包括但不限于通过批量相同或虚构的支付账号、收货地址（包括下单时填写及最终实际收货地址）、收件人、电话号码订购超出限购张数的订单。"
+                                },
+                                {
+                                    "title": "温馨提示",
+                                    "content": "1.购买前请您提前规划好行程，做好相应准备，以免影响您的正常观演，感谢您的理解和配合。2.若演出受不可抗力影响延期或取消，大麦将对演出票订单按照项目官方通知方案进行处理，其他因观演发生的费用需由您自行承担。"
+                                }
+                            ]
+                        },
+                        {
+                            "noteTitle": "观演须知",
+                            "ticketNoteList": [
+                                {
+                                    "title": "演出时长",
+                                    "content": "约120分钟（以现场为准）"
+                                },
+                                {
+                                    "title": "入场时间",
+                                    "content": "请于演出前约120分钟入场"
+                                },
+                                {
+                                    "title": "最低演出曲目",
+                                    "content": "20"
+                                },
+                                {
+                                    "title": "主要演员",
+                                    "content": "华晨宇"
+                                },
+                                {
+                                    "title": "最低演出时长",
+                                    "content": "120分钟"
+                                },
+                                {
+                                    "title": "禁止携带物品",
+                                    "content": "由于安保和版权的原因，大多数演出、展览及比赛场所禁止携带食品、饮料、专业摄录设备、打火机等物品，请您注意现场工作人员和广播的提示，予以配合"
+                                },
+                                {
+                                    "title": "寄存说明",
+                                    "content": "无寄存处,请自行保管携带物品，谨防贵重物品丢失。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "realName": {
+                    "type": "1",
+                    "credentials": [
+                        "1",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "credentialNames": [
+                        {
+                            "id": "7",
+                            "name": "港澳台居民居住证"
+                        },
+                        {
+                            "id": "6",
+                            "name": "台湾通行证"
+                        },
+                        {
+                            "id": "1",
+                            "name": "身份证"
+                        },
+                        {
+                            "id": "4",
+                            "name": "护照"
+                        },
+                        {
+                            "id": "8",
+                            "name": "外国人永久居留身份证"
+                        },
+                        {
+                            "id": "5",
+                            "name": "港澳通行证"
+                        }
+                    ],
+                    "description": "该项目需实名制认证，请认证后再进行购票"
+                },
+                "venue": {
+                    "venueId": "2879002",
+                    "venueName": "西安奥体中心体育场",
+                    "venueProvinceName": "陕西省",
+                    "venueCityName": "西安市",
+                    "lng": 109.022973,
+                    "lat": 34.37663,
+                    "venueAddr": "西安国际港务区奥体大道2020号",
+                    "showCountText": "共有2个演出",
+                    "region": "1",
+                    "venueType": "0"
+                },
+                "returnPolicy": {
+                    "supportReturn": "true",
+                    "returnPolicy": "本项目支持有条件退款，若需要收取退票手续费，将以用户实际支付票款为基准收取。基于项目主办方提供的退票政策不同，具体可支持用户申请退款的情形请详见该项目详情页退票政策相关说明或公告。"
+                },
+                "tourProjects": [
+                    {
+                        "itemId": "895151057426",
+                        "cityName": "西安站",
+                        "showTime": "04.05",
+                        "tourId": "4877"
+                    },
+                    {
+                        "itemId": "891880972736",
+                        "cityName": "长沙站",
+                        "showTime": "03.22-03.23",
+                        "tourId": "4877"
+                    }
+                ],
+                "sharingBar": {
+                    "sharingIcon": "",
+                    "sharingBtnBubbleText": "问问ta，要不要一起去看😊"
+                },
+                "ticketPurchasesGuidePage": {
+                    "headerImageUrl": "https://gw.alicdn.com/tfs/TB1tb_gqUH1gK0jSZSyXXXtlpXa-1125-654.png",
+                    "tpgPreparation": {
+                        "title": "抢票前准备",
+                        "tpgPreparationList": [
+                            {
+                                "name": "UpgradeModule",
+                                "title": "升级版本",
+                                "desc": "将APP升级至最新大麦"
+                            },
+                            {
+                                "name": "LoginCheckModule",
+                                "title": "登录账号",
+                                "desc": "检查大麦APP账号是否登录"
+                            },
+                            {
+                                "name": "NetworkModule",
+                                "title": "检查网络",
+                                "desc": "检查网络当前状态"
+                            },
+                            {
+                                "name": "ReminderModule",
+                                "title": "设置提醒",
+                                "desc": "设置开抢前10分钟提醒"
+                            },
+                            {
+                                "name": "PreFillModule",
+                                "title": "预填信息",
+                                "desc": "提前填写抢票相关信息",
+                                "preFillCheckList": [
+                                    "实名观演人信息",
+                                    "收货人地址"
+                                ]
+                            }
+                        ]
+                    },
+                    "tpgNotice": {
+                        "title": "抢票中注意",
+                        "noticeModules": [
+                            {
+                                "notice": "• 拼手速的时刻，点击购买，别选错日期、票价",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1W3DfqKL2gK0jSZPhXXahvXXa-1125-879.png"
+                            },
+                            {
+                                "notice": "• 提交订单时，请仔细确认订单信息，如实名观演人、配送方式、收货地址等",
+                                "desc": "",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1r92kqHj1gK0jSZFuXXcrHpXa-1125-633.png"
+                            },
+                            {
+                                "notice": "• 开抢5-15分钟后，刷新票档，有机会购回流票",
+                                "desc": "下单成功后需在5-15分钟完成支付；5-15分钟后系统自动取消订单，可在项目详情页刷新页面等待购买",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB19DYgqSf2gK0jSZFPXXXsopXa-1125-426.png"
+                            },
+                            {
+                                "notice": "• 没票时，可提交缺货登记",
+                                "desc": "票档若为灰色，表明已售完；可进行缺货登记，若有票，大麦会根据票量，按照提交顺序，给部分用户推送通知",
+                                "imageUrl": "https://gw.alicdn.com/tfs/TB1bKjjqNv1gK0jSZFFXXb0sXXa-1125-672.png"
+                            }
+                        ]
+                    },
+                    "tpgBottomText": "- 大麦祝您抢票成功•̀∀•́ -",
+                    "purchaseGuideUrl": "https://m.damai.cn/shows/pages/guide.html?transparentTitle=auto&itemId=895151057426"
+                },
+                "faqs": [
+                    "有座位图可以查看吗",
+                    "我该怎么选座",
+                    "我想要订票，怎么操作",
+                    "演出时长大概是多少呢",
+                    "入场时间是什么时候",
+                    "儿童也是全票吗",
+                    "我想了解退票规则",
+                    "取票地址在哪里"
+                ],
+                "ext": {
+                    "pro_theater_status": "2"
+                },
+                "announcementVO": {
+                    "detailList": []
+                },
+                "alipayDetailUrl": "alipays://platformapi/startapp?appId=2021001110648550&page=pages%2Fhome%2Findex&query=url%3Dhttps%253A%252F%252Fm.taopiaopiao.com%252Fapp%252Fdamai%252Fdamai-msite%252Fdetail%252Fitem.html%253FitemId%253D895151057426%2526dmc%253Dcj_ZLife",
+                "alipayLandingPageUrl": "https://render.alipay.com/p/s/i"
+            },
+            "dynamicExtData": {
+                "artists": [
+                    {
+                        "artistId": "71544",
+                        "artistName": "华晨宇",
+                        "archives": "中国男歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1678763685360/1678763685360-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "artistsRichText": [],
+                "brands": [],
+                "brandArtists": [
+                    {
+                        "id": "71544",
+                        "name": "华晨宇",
+                        "desc": "中国男歌手。",
+                        "picUrl": "https://intercms.damai.cn/artist/pic/1678763685360/1678763685360-main.jpg",
+                        "tag": "歌手",
+                        "type": "1"
+                    }
+                ],
+                "subFlag": "false",
+                "wantVO": {
+                    "showWant": "true",
+                    "subFlag": "false",
+                    "title": "想看人数",
+                    "wantNum": "81286",
+                    "wantNumStr": "8.1万",
+                    "wantNumSuffix": "人",
+                    "wantDesc": "超过88%同类演出",
+                    "userImgs": [
+                        "https://img.alicdn.com/imgextra/i4/O1CN01JRwhGM1y3aE69B5P1_!!6000000006523-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1197232/239446436_1685165753684.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN017sq23P1nF4O5uJsRB_!!6000000005059-0-tps-500-500.jpg",
+                        "http://perico.damai.cn/userheadphotosnew/1126769/225353925_1677132061021.jpg",
+                        "https://img.alicdn.com/imgextra/i1/O1CN01KzqXrr1vW1ysOe3mS_!!6000000006179-0-tps-500-500.jpg"
+                    ],
+                    "thresholdNum": "10000",
+                    "tips": "<span style='color:red;'>设置「即将开抢」</span>抢票快人一步~",
+                    "tipsTitle": "已加入 [我的-想看]",
+                    "tipsSubTitle": "可以添加提醒，抢票快人一步～",
+                    "guideTipTitle": "标 [想看] ，订阅最新优惠信息～",
+                    "guideTipSubTitle": "在 [想看] 列表记录心动演出",
+                    "guideTipShareTitle": "你的好友邀你标 [想看] 哦～",
+                    "guideTipShareSubTitle": "记录心动演出，和好友结伴观演",
+                    "useLocalCache": "false"
+                },
+                "ipCard": {
+                    "ipId": "23617072791",
+                    "ipPic": "https://intercms.damai.cn/ip/pic/1692237801607/1692237801607-main.jpg",
+                    "note": "“2023华晨宇火星演唱会”蓄势而来   炙热火星邂逅“人间天堂”杭州开启浪漫之旅",
+                    "categoryName": "其他",
+                    "title": "华晨宇火星演唱会",
+                    "bgPic": "https://intercms.damai.cn/card/bg-card.png",
+                    "moments": {
+                        "picVOList": []
+                    }
+                },
+                "tribes": [],
+                "sharingBtnBubbleText": "问问ta，要不要一起去看😊",
+                "inFieldComments": [
+                    {
+                        "id": "19776476",
+                        "comment": "乐园太伟大了",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/09e3c787e2e2470fb591d1c7da12b48b.png",
+                        "nickName": "壹棵老槐树",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1148241/229648214_1725034022207.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18810923",
+                        "comment": "火星是答案！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/d0bfff16636e4343a4151766d10da209.jpg",
+                        "nickName": "Shimmeryu",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/884672/176934542_1714032521787.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18588522",
+                        "comment": "每一次开场，都像是带着我们穿越到了一个既神秘又充满奇幻色彩的异世界。",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/82ba353bd2a240ea98e3e1da9839bcd4.jpeg",
+                        "nickName": "木簡",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/137620/27524166_1730162526184.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "18572726",
+                        "comment": "华晨宇2017五棵松演唱会震撼四面台",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/477f789415dd4c29817c4bfa730e3c97.jpeg",
+                        "nickName": "麦子9FfEM",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2583384/516676966_1724123917958.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17741504",
+                        "comment": "我在「火星演唱会」玩的好开心！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/6893dce9e21148d8b6d7a7366fe5abcc.jpeg",
+                        "nickName": "o  。o",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1015693/203138644_1684986430226.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17677952",
+                        "comment": "华晨宇带我玩全国",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/14ac41f0c3a54d8ebcd445ebb0081426.jpeg",
+                        "nickName": "肖十爷",
+                        "userPic": "https://perico.damai.cn/userheadphotos/827779/165555823.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17434997",
+                        "comment": "火星——最盛大的爱意",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/1ab1cfdbaee4422c8467d1e490de2c96.jpg",
+                        "nickName": "哎呀呀花花呀yu",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/895061/179012347_1694825073191.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17274351",
+                        "comment": "甜度爆表的七夕",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/cc6b1c8fc91f417da0db8af006c80e22.jpeg",
+                        "nickName": "泥豆小",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1203295/240659137_1687263445806.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17256924",
+                        "comment": "七夕快乐！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/dd9dbf36a3b943e095b5e2f52413a861.jpeg",
+                        "nickName": "在火星等你",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1209311/241862322_1695835168785.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17247557",
+                        "comment": "华晨宇真的好敬业",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/0f4a048fbeb64b4a9cb9d08d220e2c85.jpeg",
+                        "nickName": "风~~",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/899023/179804731_1686389208858.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17229703",
+                        "comment": "华晨宇火星演唱会合肥站圆满",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/0ad0532592f645758a2bf73c48d6f4b6.jpeg",
+                        "nickName": "花落时遇yu ",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/258857/51771586_1732426620342.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17229395",
+                        "comment": "欢迎回家",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/efbdbbe19941473f84fc087ce9679092.jpeg",
+                        "nickName": "浅风不能吹",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/824814/164962813_1719243157657.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17219927",
+                        "comment": "《我的火星之旅》",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/99aa802d705645e4986e8c0fb788ee60.jpeg",
+                        "nickName": "麦子9Zfz3",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2491246/498249222_1716278651784.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "17208488",
+                        "comment": "火星演唱会",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/1925d7b5aa0f4fa0bb13a8d9bfff8eef.jpg",
+                        "nickName": "麦子4DlxD",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1177472/235494435_1683281179254.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16867402",
+                        "comment": "第一次华晨宇演唱会（南昌）感受",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/f8a65d43e287451c943b3f05a2c20331.jpeg",
+                        "nickName": "麦子tamir",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/468421/93684360_1715085237811.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16862980",
+                        "comment": "华晨宇最棒啦！｜时间之海 将我掩埋",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/b5821f3faa2c45fe83b13a72b4d94387.jpg",
+                        "nickName": "华神说我一定有票",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/1156532/231306456_1713010682907.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16849722",
+                        "comment": "灵魂共鸣：华晨宇现场音乐会的极致魅力",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/adb7b61bb6514dcd927f909d9efa0f38.jpg",
+                        "nickName": "小陈与小葛",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/2463631/492726369_1719303613149.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16843479",
+                        "comment": "民乐改编大赏，原创歌曲精彩串烧",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/591eefe30a81483e9e4beea92f293889.jpg",
+                        "nickName": "花落时遇yu ",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/258857/51771586_1732426620342.jpg",
+                        "showVideoIcon": "false",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16277628",
+                        "comment": "鸟巢最棒！",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/25ae6b52c5f54281b39bccbed102e78d.jpeg",
+                        "nickName": "moyo-",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/800577/160115511_1695093756590.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    },
+                    {
+                        "id": "16277607",
+                        "comment": "一起过中秋节啦",
+                        "picUrl": "https://comment-cdn.damai.cn/dynimg/ff4b8bb9b264407aa652d4dd1c2036ef.jpeg",
+                        "nickName": "moyo-",
+                        "userPic": "https://perico.damai.cn/userheadphotosnew/800577/160115511_1695093756590.jpg",
+                        "showVideoIcon": "true",
+                        "type": "STRATEGY"
+                    }
+                ]
+            },
+            "item": {
+                "buyBtnStatus": "106",
+                "buyBtnText": "预约抢票",
+                "buyBtnOrigin": "20",
+                "sellStartTime": "1742210820000",
+                "sellStartTimeStr": "03月17日 19:27",
+                "countDown": "407362",
+                "rcdt": "407361221",
+                "notifyCustomerTimeBeforeSellStart": "3600",
+                "priceRange": "¥380 - ¥1280",
+                "performBases": [
+                    {
+                        "name": "04.05 周六",
+                        "type": "1",
+                        "performBaseTagValue": "0",
+                        "timeSpan": "1743782400000",
+                        "performs": [
+                            {
+                                "performId": "224322095",
+                                "performName": "2025-04-05  周六 19:00",
+                                "itemId": "895151057426",
+                                "projectId": "225412002",
+                                "chooseSeatType": "5",
+                                "saleForm": "2",
+                                "supportGroup": "false",
+                                "performDate": "1743850800000",
+                                "performTime": "2025.04.05 19:00",
+                                "performStartDate": "2025-04-05",
+                                "performBeginTime": "19:00",
+                                "singleLimit": "4",
+                                "performTagValue": "0",
+                                "promotionTags": [],
+                                "performDesc": "按付款顺序配票，优先连座配票",
+                                "permissionWithPrivilegeBuy": "true",
+                                "privilegeLimitBuy": "99999"
+                            }
+                        ],
+                        "promotionTags": [],
+                        "permissionWithPrivilegeBuy": "true"
+                    }
+                ],
+                "performCount": "1",
+                "hasItemCouponTag": "false",
+                "hasItemPromotionTag": "false",
+                "buyBtnTip": "提前选票档 抢票更丝滑",
+                "needRealNameCertified": "false",
+                "appNeedUpGrade": "false",
+                "showQRCode": "false",
+                "statusNotice": {
+                    "prefixText": "预售",
+                    "notice": "本商品为预售，正式开票后将第一时间配票",
+                    "hasPopup": "true",
+                    "popupTitle": "重要通知",
+                    "popupContent": "预售期间，由于主办未正式开票，下单后无法立即为您配票。一般于演出前<b>1-2周</b>开票，待正式开票后，请您通过订单详情页或者票夹详情，查看票品信息、取票方式等演出相关信息"
+                },
+                "refreshAfterCountDown": "false",
+                "buyBtnTextAfterCountDown": "预约抢票",
+                "buyBtnTipAfterCountDown": "提前选票档 抢票更丝滑",
+                "buyBtnStatusAfterCountDown": "90",
+                "itemTags": [
+                    "120577",
+                    "123649",
+                    "123905",
+                    "2049",
+                    "32001",
+                    "65281",
+                    "6658",
+                    "215809",
+                    "221697",
+                    "354817",
+                    "303617",
+                    "8454",
+                    "459265",
+                    "7943",
+                    "361730",
+                    "397057",
+                    "417537",
+                    "599041",
+                    "623105",
+                    "544257",
+                    "724993",
+                    "9995",
+                    "8459",
+                    "16651",
+                    "22027",
+                    "33547",
+                    "33803",
+                    "658689",
+                    "3060482",
+                    "3001090",
+                    "3196418",
+                    "3246850",
+                    "3247106",
+                    "89665",
+                    "36417",
+                    "51009",
+                    "257346",
+                    "235585",
+                    "241985",
+                    "137281",
+                    "141121",
+                    "350017",
+                    "363585",
+                    "266817",
+                    "303681",
+                    "4166",
+                    "478785",
+                    "622913",
+                    "632129",
+                    "725057",
+                    "23115",
+                    "1611",
+                    "4939",
+                    "14155",
+                    "23883",
+                    "26699",
+                    "28491",
+                    "31051",
+                    "34379",
+                    "37195",
+                    "704833",
+                    "2874946",
+                    "3196226",
+                    "3196482",
+                    "3246658",
+                    "106881",
+                    "385",
+                    "260994",
+                    "28802",
+                    "253313",
+                    "101762",
+                    "150145",
+                    "191873",
+                    "286337",
+                    "3974",
+                    "8838",
+                    "466049",
+                    "523649",
+                    "373634",
+                    "409985",
+                    "622977",
+                    "725121",
+                    "9099",
+                    "14731",
+                    "16267",
+                    "716673",
+                    "37259",
+                    "657793",
+                    "12171",
+                    "9355",
+                    "8843",
+                    "9867",
+                    "2443",
+                    "395",
+                    "1163",
+                    "3196290",
+                    "82369",
+                    "91585",
+                    "148674",
+                    "28353",
+                    "37569",
+                    "260033",
+                    "155073",
+                    "159169",
+                    "334785",
+                    "337601",
+                    "303553",
+                    "1478",
+                    "7366",
+                    "12998",
+                    "519361",
+                    "383682",
+                    "414145",
+                    "417473",
+                    "602561",
+                    "623041",
+                    "624577",
+                    "638913",
+                    "654273",
+                    "558273",
+                    "573377",
+                    "724929",
+                    "725185",
+                    "733633",
+                    "7371",
+                    "2507",
+                    "19403",
+                    "31947",
+                    "33739",
+                    "2939586",
+                    "3196354",
+                    "3246274",
+                    "3246786",
+                    "3247042"
+                ],
+                "hasEarlyBird": "false",
+                "hasWedHalfPrice": "false",
+                "purchaseLimitation": "4",
+                "statusTips": [
+                    "<span style=\"color: #69717C\"><b>预售</b> | 本商品为预售，正式开票后将第一时间配票</span>"
+                ],
+                "mstationQRCode": "https://item-cdn.damai.cn/projQcode/8951510574/2/895151057426.jpg"
+            }
+        }
+    }
+}
